@@ -1,0 +1,406 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T01:30:00Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mum-pol-1",
+          "title": "Maharashtra Cabinet Reshuffle: Key Portfolios Redistributed Among Mahayuti Alliance",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.indiatimes.com",
+          "time": "2h ago",
+          "body": "The Maharashtra government underwent a significant cabinet reshuffle on Monday, with Chief Minister Devendra Fadnavis redistributing key portfolios among the Mahayuti alliance partners. Deputy CMs Eknath Shinde and Ajit Pawar were part of the negotiations. Multiple ministers from Shiv Sena and NCP factions received new responsibilities including Finance and Urban Development ministries. The opposition MVA alliance termed the reshuffle cosmetic and demanded accountability on pending infrastructure projects. The new cabinet is expected to meet this week to outline a 100-day agenda."
+        },
+        {
+          "id": "mum-pol-2",
+          "title": "Dharavi Redevelopment Project Faces Fresh Legal Challenge in Bombay High Court",
+          "source": "Hindustan Times",
+          "sourceUrl": "https://hindustantimes.com",
+          "time": "4h ago",
+          "body": "Residents associations filed a petition in Bombay High Court challenging the January 1, 2000 eligibility cut-off date for free housing under Dharavi Redevelopment Project. The petition represents over 8,000 families who claim the criteria unfairly excludes long-time residents. The Adani Group-led project covering 600 acres in central Mumbai has been contentious since the tender was awarded in 2022. State government maintained the parameters comply with slum rehabilitation norms. The High Court issued notices seeking response within four weeks."
+        },
+        {
+          "id": "mum-pol-3",
+          "title": "BMC Budget Revised Upward to ₹72,000 Crore Amid Mega Infrastructure Push",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com",
+          "time": "5h ago",
+          "body": "The Brihanmumbai Municipal Corporation revised its annual budget upward to ₹72,000 crore, the largest ever for any civic body in India. The revised estimates include ₹18,000 crore for road repairs and pothole filling, ₹12,000 crore for the storm water drainage upgrade and ₹8,500 crore for the coastal road project completion. Opposition councillors questioned the gap between budgeted and actual expenditure over previous years. The civic body also announced a 10% hike in property tax for commercial establishments effective from June 1."
+        },
+        {
+          "id": "mum-pol-4",
+          "title": "Versova-Bandra Sea Link Gets Environmental Clearance After 3-Year Delay",
+          "source": "Mid-Day",
+          "sourceUrl": "https://mid-day.com",
+          "time": "7h ago",
+          "body": "The Versova-Bandra Sea Link project finally received environmental clearance from the Ministry of Environment after a three-year procedural delay. The 17.17 km bridge project estimated at ₹11,332 crore will connect Versova in Andheri West to Bandra and is expected to cut travel time by 40 minutes. Fishermen communities had earlier raised objections regarding impact on fishing grounds. MSRDC will now begin fresh tendering for construction within 60 days. The project is expected to be complete by 2031."
+        },
+        {
+          "id": "mum-pol-5",
+          "title": "Maharashtra NCP Faction War Escalates as Rebel MLAs Claim Party Symbol",
+          "source": "Loksatta",
+          "sourceUrl": "https://loksatta.com",
+          "time": "8h ago",
+          "body": "The political battle within the NCP intensified as 14 rebel MLAs loyal to Sharad Pawar filed a fresh petition with the Election Commission claiming rightful ownership of the party's clock symbol. The Supreme Court had earlier ruled in favour of the Ajit Pawar faction but the Sharad Pawar camp contests the legitimacy of that faction's majority claim. The ECI is expected to hear both sides next week. Political observers say the outcome could reshape alliance dynamics before the upcoming local body polls."
+        },
+        {
+          "id": "mum-pol-6",
+          "title": "Slum Rehabilitation Authority Approves 45 New Projects Worth ₹9,200 Crore",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "9h ago",
+          "body": "The Slum Rehabilitation Authority approved 45 new redevelopment projects across Mumbai, collectively worth ₹9,200 crore and expected to rehouse approximately 1.2 lakh families. The projects span Dharavi, Kurla, Mankhurd, Govandi and Chembur localities. Housing Minister Atul Save stated that the free housing component will be completed within five years. Developer community welcomed the move but flagged issues around fungible FSI norms and approval timelines. Tenant welfare groups demanded a single-window clearance system."
+        },
+        {
+          "id": "mum-pol-7",
+          "title": "Coastal Road Southern Extension to Worli Now Open to Public Traffic",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.com",
+          "time": "10h ago",
+          "body": "The Southern Extension of Mumbai's Coastal Road from Princess Street Flyover to Worli Sea Face was thrown open to the public on Sunday, completing the project's most awaited section. Commuters reported travel time from Marine Lines to Worli dropping from 35 minutes to under 10 minutes on trial runs. The project faced multiple delays due to court orders, monsoon halts and utility shifting. CM Fadnavis inaugurated the stretch accompanied by Deputy CMs. Phase 2 extending northward to Kandivali is still under construction."
+        },
+        {
+          "id": "mum-pol-8",
+          "title": "Centre Approves ₹4,200 Crore Grant for Mumbai's Eastern Waterfront Redevelopment",
+          "source": "Free Press Journal",
+          "sourceUrl": "https://freepressjournal.in",
+          "time": "11h ago",
+          "body": "The Union Ministry of Housing and Urban Affairs approved a ₹4,200 crore central grant for the Mumbai Eastern Waterfront redevelopment project under the Smart Cities Mission extension. The project aims to transform 9 kilometres of industrial dock land from Mazgaon to Trombay into a mixed-use waterfront district. MBPT and MMRDA will jointly execute the project. The plan includes 2 lakh sq metre of public promenades, cultural spaces and affordable housing clusters. Work is set to begin after monsoon this year."
+        }
+      ],
+      "finance": [
+        {
+          "id": "mum-fin-1",
+          "title": "Sensex Touches Record High; Reliance, HDFC Bank Lead Gains on Strong Q4 Earnings",
+          "source": "Economic Times",
+          "sourceUrl": "https://economictimes.com",
+          "time": "3h ago",
+          "body": "The BSE Sensex surged over 800 points in intra-day trade, touching a fresh all-time high before closing with gains of 614 points. Reliance Industries posted 12% year-on-year net profit rise driven by retail and digital segments. HDFC Bank reported strong loan growth and stable asset quality. FIIs turned net buyers for the fourth consecutive session, pumping ₹3,200 crore into equities. The Nifty Midcap 100 also gained over 1.2%. The rupee strengthened to 83.42 against the dollar."
+        },
+        {
+          "id": "mum-fin-2",
+          "title": "RBI Keeps Repo Rate Unchanged at 6.5%; Signals Rate Cut Possible in August",
+          "source": "Mint",
+          "sourceUrl": "https://livemint.com",
+          "time": "5h ago",
+          "body": "The Reserve Bank of India's Monetary Policy Committee unanimously voted to keep the repo rate unchanged at 6.5% for the seventh consecutive meeting. Governor Sanjay Malhotra signalled that a rate cut could be on the table at the August policy review if inflation trends remain favorable. CPI inflation eased to 4.2% in March, within the RBI's comfort band. GDP growth projection for FY2026-27 was revised upward to 7.2%. Banking sector stocks rallied on hopes of improved lending margins."
+        },
+        {
+          "id": "mum-fin-3",
+          "title": "Tata Group to Invest ₹1.5 Lakh Crore in Maharashtra Over Next Five Years",
+          "source": "Business Standard",
+          "sourceUrl": "https://business-standard.com",
+          "time": "6h ago",
+          "body": "Tata Sons Chairman N Chandrasekaran announced a ₹1.5 lakh crore investment commitment in Maharashtra at the Global Investors Summit, covering semiconductors, electric vehicles, data centres and green hydrogen. The investment is expected to create 1.8 lakh direct jobs over five years. Tata Electronics will anchor the semiconductor facility in Pune. The Maharashtra government offered a special incentive package under its new Industrial Policy 2025-30. The announcement was the single largest investment pledge at the summit."
+        },
+        {
+          "id": "mum-fin-4",
+          "title": "Mumbai Startup GetVantage Raises ₹400 Crore Series C for Revenue-Based Financing Expansion",
+          "source": "Mint",
+          "sourceUrl": "https://livemint.com",
+          "time": "7h ago",
+          "body": "Mumbai fintech startup GetVantage raised ₹400 crore in Series C led by Chiratae Ventures and a Singapore family office. The company offers revenue-based financing to digital-first SMEs and D2C brands. Funds will be used to expand into Tier 2 and 3 cities and build AI-driven credit assessment tools. Total disbursements exceed ₹2,000 crore to over 2,500 businesses. Total funding now crosses ₹900 crore. It competes with Klub, Velocity and N+1 Capital."
+        },
+        {
+          "id": "mum-fin-5",
+          "title": "SEBI Tightens F&O Rules; Weekly Expiry Contracts Restricted to One Per Exchange",
+          "source": "Economic Times",
+          "sourceUrl": "https://economictimes.com",
+          "time": "8h ago",
+          "body": "SEBI announced new regulations restricting each stock exchange to offering only one weekly expiry futures and options contract starting July 1. The move is aimed at curbing retail investor losses in derivatives trading after a study revealed 93% of F&O traders made losses in FY2024. NSE will retain its Nifty weekly expiry while BSE retains its Sensex contract. Lot sizes will also be revised upward to reduce speculative micro-trading. Market participants estimate volumes could drop 30-35% in the short term."
+        },
+        {
+          "id": "mum-fin-6",
+          "title": "Navi Mumbai Airport Gets First Airline Slot Allocations; IndiGo and Air India Lead Bids",
+          "source": "Financial Express",
+          "sourceUrl": "https://financialexpress.com",
+          "time": "9h ago",
+          "body": "DGCA completed the first round of slot allocations for the upcoming Navi Mumbai International Airport, with IndiGo securing 38 daily slots and Air India getting 24 slots in the inaugural allocation. The airport, expected to begin operations in December 2026, will have an initial capacity of 20 million passengers annually. Real estate analysts project property values in Panvel, Ulwe and Kharghar to rise 15-20% following the allocation announcement. The Adani-managed airport will handle both domestic and international traffic."
+        },
+        {
+          "id": "mum-fin-7",
+          "title": "Maharashtra GST Collection Hits Record ₹42,000 Crore in April",
+          "source": "Business Standard",
+          "sourceUrl": "https://business-standard.com",
+          "time": "10h ago",
+          "body": "Maharashtra recorded its highest-ever monthly GST collection of ₹42,000 crore in April 2026, up 18% year-on-year. The state contributes nearly 15% of India's total GST revenue. Growth was led by manufacturing, IT services and real estate sectors. The state finance department attributed the jump to better compliance enforcement through AI-based audit trails. Finance Minister Ajit Pawar said the collections would help fund infrastructure commitments without additional borrowing."
+        },
+        {
+          "id": "mum-fin-8",
+          "title": "Bombay Stock Exchange Launches New SME IPO Fast-Track Window for Maharashtra Firms",
+          "source": "Mint",
+          "sourceUrl": "https://livemint.com",
+          "time": "11h ago",
+          "body": "The Bombay Stock Exchange launched a fast-track SME IPO window exclusively for Maharashtra-registered companies with annual turnover between ₹5 crore and ₹100 crore. The window promises listing within 45 days versus the standard 75 days. BSE partnered with Maharashtra Industrial Development Corporation to identify eligible firms. Over 200 companies have already expressed interest. The initiative is part of BSE's push to deepen capital market participation beyond metro cities into industrial towns like Nashik, Kolhapur and Aurangabad."
+        }
+      ],
+      "technology": [
+        {
+          "id": "mum-tech-1",
+          "title": "IIT Bombay Develops AI Model to Predict Mumbai Flooding 72 Hours in Advance",
+          "source": "Hindustan Times",
+          "sourceUrl": "https://hindustantimes.com",
+          "time": "2h ago",
+          "body": "Researchers at IIT Bombay unveiled a deep learning model capable of predicting ward-level flooding in Mumbai up to 72 hours in advance with 87% accuracy. The model integrates real-time rainfall radar data, tidal information and historical drainage patterns. BMC will integrate the model into its Disaster Management Control Room by this monsoon. The system also sends SMS alerts to residents of high-risk zones. The research was funded by the National Disaster Management Authority and published in Nature Water journal."
+        },
+        {
+          "id": "mum-tech-2",
+          "title": "Mumbai's BEST Buses Go Fully Electric; 2,100 e-Buses Now on City Roads",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.com",
+          "time": "4h ago",
+          "body": "Mumbai's BEST undertaking completed its transition to an all-electric bus fleet, with 2,100 electric buses now operational across all routes. The last batch of diesel buses was retired on Sunday. BEST reported a 34% reduction in operational costs per kilometre compared to diesel. Charging infrastructure spans 22 depots across the city. Ridership has increased 19% since the shift began two years ago. BEST is now the world's largest fully electric urban bus fleet in a single city."
+        },
+        {
+          "id": "mum-tech-3",
+          "title": "Reliance Jio Launches 6G Pilot in Mumbai's Bandra-Kurla Complex Business District",
+          "source": "Economic Times",
+          "sourceUrl": "https://economictimes.com",
+          "time": "5h ago",
+          "body": "Reliance Jio activated India's first 6G pilot network covering the Bandra-Kurla Complex business district in Mumbai. The trial network achieved download speeds of 100 Gbps in controlled tests, roughly 1,000 times faster than average 4G speeds. DoT officials and enterprise clients participated in the pilot demonstration. Commercial 6G rollout is projected for 2028. Jio's pilot uses sub-terahertz spectrum bands and AI-driven beam management technology developed at its in-house research facility in Navi Mumbai."
+        },
+        {
+          "id": "mum-tech-4",
+          "title": "Maharashtra to Build India's Largest Data Centre Cluster in Navi Mumbai by 2028",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com",
+          "time": "6h ago",
+          "body": "The Maharashtra government approved a 400-acre Data Centre Cluster in Ghansoli, Navi Mumbai, set to host 15 hyperscale facilities with total investment of ₹85,000 crore. Amazon Web Services, Microsoft Azure and Google Cloud have already signed MoUs. The cluster will have dedicated 2,000 MW power supply from a new substation. It is projected to create 25,000 direct and indirect jobs. Maharashtra's IT Secretary said the state aims to handle 30% of India's cloud computing traffic by 2030."
+        },
+        {
+          "id": "mum-tech-5",
+          "title": "Mumbai Launches Unified City App Merging BMC, Mumbai Police and Transport Services",
+          "source": "Mid-Day",
+          "sourceUrl": "https://mid-day.com",
+          "time": "7h ago",
+          "body": "Mumbai Metropolitan Region launched a unified citizen app consolidating BMC grievance redressal, Mumbai Police complaint portal, BEST and Metro ticketing, and municipal payments into a single platform. The app supports 12 Indian languages including Marathi. Over 2 lakh users downloaded it within 48 hours of launch. Features include pothole reporting with GPS tagging, emergency SOS, and real-time bus tracking. The app was developed by a consortium of city-based startups under a BMC innovation challenge."
+        },
+        {
+          "id": "mum-tech-6",
+          "title": "Pune-Based SaaS Startup Sarvam AI Raises $100M for Multilingual AI for Bharat",
+          "source": "Mint",
+          "sourceUrl": "https://livemint.com",
+          "time": "8h ago",
+          "body": "Sarvam AI, a Pune-headquartered multilingual AI startup, raised $100 million in Series B funding led by Peak XV Partners and Lightspeed. The company builds large language models optimised for 10 Indian languages including Marathi, Hindi and Tamil. The funds will be used to expand its enterprise customer base and launch a developer API platform. Sarvam's models are used by government departments for citizen-facing chatbots. The startup was founded by IIT alumni and ex-researchers from AI2 and Meta AI."
+        },
+        {
+          "id": "mum-tech-7",
+          "title": "Nasscom Ranks Mumbai Second in India for Tech Startup Density After Bengaluru",
+          "source": "Business Standard",
+          "sourceUrl": "https://business-standard.com",
+          "time": "9h ago",
+          "body": "Nasscom's annual Tech City Report ranked Mumbai second in India for technology startup density, with over 11,400 active tech startups and $8.2 billion raised in FY2026. Fintech, healthtech and deeptech sectors led growth. Mumbai's startup ecosystem benefited from proximity to financial markets, IIT Bombay's incubator and SEBI sandbox programmes. The report noted a 22% year-on-year increase in women-led tech startups in the city. Bengaluru retained the top position with 23,000 active startups."
+        },
+        {
+          "id": "mum-tech-8",
+          "title": "Mumbai Traffic Police Deploy AI Cameras to Auto-Detect Wrong-Side Driving",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "10h ago",
+          "body": "Mumbai Traffic Police deployed 250 AI-enabled cameras at 80 key intersections capable of automatically detecting wrong-side driving, lane cutting and mobile phone usage while driving. The system issues e-challans within 24 hours without requiring officer intervention. In the first week of deployment, over 9,400 challans were issued. The cameras are integrated with the Vahaan vehicle database for real-time owner identification. Phase 2 will cover expressways and highways entering the city by October."
+        }
+      ],
+      "sports": [
+        {
+          "id": "mum-spt-1",
+          "title": "Mumbai Indians Eye Playoff Berth as Rohit Sharma Returns to Form",
+          "source": "Mid-Day",
+          "sourceUrl": "https://mid-day.com",
+          "time": "1h ago",
+          "body": "Mumbai Indians placed fifth in IPL 2026 standings need to win remaining three games to qualify for playoffs. Rohit Sharma hit 78 off 52 balls in Sunday's warm-up session signalling return to form. Coach Mark Boucher acknowledged middle-order batting and death bowling as areas of concern. Arjun Tendulkar included in the playing XI following Syed Mushtaq Ali Trophy performances. Tim David monitoring a minor hamstring strain. The next home game against CSK at Wankhede on Friday is sold out."
+        },
+        {
+          "id": "mum-spt-2",
+          "title": "India Beat England by 6 Wickets in Wankhede Test; Yashasvi Jaiswal Hits Double Hundred",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.com",
+          "time": "3h ago",
+          "body": "India sealed a comprehensive 6-wicket victory over England in the second Test at Wankhede Stadium with Yashasvi Jaiswal scoring a magnificent 213 not out. Jaiswal and Shubman Gill put on a 287-run partnership for the second wicket. England were bowled out for 218 in their second innings with Jasprit Bumrah taking 5 wickets. India leads the 5-match series 2-0. The third Test will be played in Rajkot starting next Monday."
+        },
+        {
+          "id": "mum-spt-3",
+          "title": "FC Mumbai Win ISL Season 11 Title; Beat Mohun Bagan 2-1 in Thrilling Final",
+          "source": "Sportskeeda",
+          "sourceUrl": "https://sportskeeda.com",
+          "time": "5h ago",
+          "body": "FC Mumbai clinched the Indian Super League Season 11 title defeating Mohun Bagan Super Giant 2-1 in a pulsating final at Fatorda Stadium. Goals from Bipin Singh and substitute Greg Stewart sealed the win after Mohun Bagan had equalised in the 78th minute. It is FC Mumbai's third ISL title overall. Captain Lallianzuala Chhangte was named Player of the Tournament. Over 25,000 fans attended the game with thousands more watching at public screenings in Mumbai."
+        },
+        {
+          "id": "mum-spt-4",
+          "title": "Mumbai Marathon 2026 Draws Record 75,000 Runners Including 12,000 International Participants",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com",
+          "time": "6h ago",
+          "body": "The Standard Chartered Mumbai Marathon 2026 drew a record 75,000 registered runners including 12,000 international participants from 68 countries. Kenyan runner Eliud Kipchoge's training partner Peter Tanui won the full marathon in 2 hours 5 minutes 12 seconds, setting a new course record. The event raised ₹180 crore for charities through the Dream Run segment. Traffic diversions will be in effect across South Mumbai and Bandra-Worli Sea Link stretch from 5 AM to 11 AM on race day."
+        },
+        {
+          "id": "mum-spt-5",
+          "title": "CCI Loses Heritage Status Battle; Redevelopment of Brabourne Stadium Cleared",
+          "source": "Mid-Day",
+          "sourceUrl": "https://mid-day.com",
+          "time": "7h ago",
+          "body": "The Cricket Club of India lost its appeal in Bombay High Court seeking heritage status for the Brabourne Stadium complex. The court ruled that while the stadium has historical significance, it does not meet the criteria for Grade 1 heritage listing. CCI can now proceed with its ₹1,200 crore redevelopment plan that includes expanding seating to 45,000 and adding a hotel tower. Preservation groups expressed disappointment and said they would approach the Supreme Court. The stadium hosted its last cricket match in 2009."
+        },
+        {
+          "id": "mum-spt-6",
+          "title": "Maharashtra Kabaddi Team Wins National Championship; Fifth Title in Eight Years",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "8h ago",
+          "body": "Maharashtra's kabaddi team defeated Haryana 42-38 in a closely contested final at the National Kabaddi Championship in Pune, winning the state's fifth national title in eight years. Raider Sumit Hingade scored 14 points to win the Most Valuable Player award. The team will now represent India at the upcoming Asian Kabaddi Championship. Sports Minister Sanjay Bansode announced a ₹10 lakh cash prize for each player. Maharashtra has a grassroots kabaddi programme covering over 3,000 schools."
+        },
+        {
+          "id": "mum-spt-7",
+          "title": "Mumbai Gets Its First International-Standard Velodrome in Kandivali",
+          "source": "Free Press Journal",
+          "sourceUrl": "https://freepressjournal.in",
+          "time": "9h ago",
+          "body": "Mumbai's first UCI-certified international velodrome was inaugurated in Kandivali Sports Complex, aimed at developing track cycling talent for the 2028 LA Olympics. The 250-metre Siberian pine wood track was built at a cost of ₹85 crore with technical input from Cycling Federation of India. The facility will host international training camps starting next month. Mumbai's cycling community welcomed the development and noted the city has produced no Olympic cyclists despite a large recreational cycling base. The facility will also be open to the public on weekends."
+        },
+        {
+          "id": "mum-spt-8",
+          "title": "Wankhede Stadium Capacity to Increase to 45,000 After Upper Tier Expansion Approved",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.com",
+          "time": "10h ago",
+          "body": "MCA received final approval from the Mumbai Development Authority to add a new upper tier to Wankhede Stadium, increasing capacity from 33,000 to 45,000. The ₹340 crore expansion will also add a new media centre, hospitality boxes and improved disabled-access facilities. Construction will begin after the current cricket season and is expected to complete before the 2027 Champions Trophy. The stadium has hosted some of India's most iconic matches including the 2011 World Cup Final."
+        }
+      ],
+      "city": [
+        {
+          "id": "mum-cty-1",
+          "title": "Metro Line 3 Phase 2 Extension to Thane Announced; Work to Begin by Year-End",
+          "source": "Mumbai Mirror",
+          "sourceUrl": "https://mumbaimirror.indiatimes.com",
+          "time": "4h ago",
+          "body": "BMC and MMRDA jointly announced Metro Line 3 Aqua Line extension from Cuffe Parade northward to Thane spanning 14.5 kilometres and 11 new stations at a cost of ₹18,000 crore. Land acquisition in Dharavi, Kurla, Vikhroli corridors is underway. Environmental clearances pending for stretches near Sanjay Gandhi National Park buffer zones. The project aims to decongest the central railway line which handles 30 lakh commuters daily. PPP model being explored for financing. Completion expected in five years."
+        },
+        {
+          "id": "mum-cty-2",
+          "title": "Mumbai Rains: IMD Issues Orange Alert; Pre-Monsoon Showers Expected From May 15",
+          "source": "Hindustan Times",
+          "sourceUrl": "https://hindustantimes.com",
+          "time": "2h ago",
+          "body": "IMD issued an orange alert for Mumbai and the Konkan coast, forecasting heavy pre-monsoon showers between May 15-20 ahead of the southwest monsoon's expected arrival on June 5. Citizens advised to clear drainage and report blocked drains to BMC. Last year's late monsoon caused severe flooding in Kurla and Sion low-lying areas. BMC Disaster Management has put 48 teams on standby. NDRF teams from Pune will be deployed in Mumbai by May 12."
+        },
+        {
+          "id": "mum-cty-3",
+          "title": "Air Quality Improves Significantly: Mumbai AQI Drops to 'Good' Category for First Time in 3 Years",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com",
+          "time": "6h ago",
+          "body": "Mumbai's Air Quality Index recorded 'Good' category reading of 48 on Sunday, the first such reading since April 2023. SAFAR scientists attributed the improvement to strong sea breeze, completion of major construction projects and the shift to electric buses. PM2.5 levels fell to 18 micrograms per cubic metre versus the annual average of 52. Mulund and Bhandup continued to report moderate air quality. Maharashtra Pollution Control Board announced relaxation of emergency dust-control measures."
+        },
+        {
+          "id": "mum-cty-4",
+          "title": "Mumbai's Iconic Leopold Cafe Turns 150; Heritage Celebrations Planned Across Colaba",
+          "source": "Mid-Day",
+          "sourceUrl": "https://mid-day.com",
+          "time": "7h ago",
+          "body": "Leopold Cafe in Colaba, one of Mumbai's most iconic establishments, marks its 150th anniversary this week with a series of heritage events including art exhibitions, live jazz and a special heritage menu recreating dishes from its 1940s era. The cafe, which survived the 26/11 attacks in 2008, has become a symbol of Mumbai's resilience. The Colaba Business Association will host a street festival on May 7 celebrating the neighbourhood's Irani cafe culture. Maharashtra Tourism will feature Leopold Cafe in its new heritage trail maps."
+        },
+        {
+          "id": "mum-cty-5",
+          "title": "BMC to Plant 5 Lakh Trees in Mumbai This Monsoon Under Urban Green Cover Mission",
+          "source": "Times of India",
+          "sourceUrl": "https://timesofindia.com",
+          "time": "8h ago",
+          "body": "BMC announced a target of planting 5 lakh trees across Mumbai during the 2026 monsoon season under its Urban Green Cover Mission, double the target of last year. Focus areas include the Eastern Express Highway corridor, Aarey Colony buffer zone and coastal mangrove restoration sites. Citizens can adopt trees and track their growth via the BMC app. Environmental activists called the target ambitious and urged the civic body to ensure survival rates through regular maintenance contracts. Mumbai's green cover currently stands at 17.5% of land area."
+        },
+        {
+          "id": "mum-cty-6",
+          "title": "Aarey Forest: Supreme Court Upholds Protected Status; Metro Car Shed Construction Halted",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com",
+          "time": "9h ago",
+          "body": "The Supreme Court upheld the protected forest status of the Aarey Colony forest area, halting further construction of the Metro car shed that had been relocated to Kanjurmarg. The court directed the state to restore the tree-felled area and submit a restoration plan within 8 weeks. Mumbai Metro Rail Corporation said the Kanjurmarg depot will now be the primary car shed. Environmental activists celebrated the verdict as a landmark win for urban biodiversity. Aarey houses over 500 animal species including leopards and spotted deer."
+        },
+        {
+          "id": "mum-cty-7",
+          "title": "Mumbai's Dharavi to Get Asia's Largest Urban Farming Hub With 50,000 sq ft Facility",
+          "source": "Hindustan Times",
+          "sourceUrl": "https://hindustantimes.com",
+          "time": "10h ago",
+          "body": "A private-public partnership will establish a 50,000 sq ft urban farming facility in Dharavi as part of the redevelopment project, set to become Asia's largest urban agriculture hub. The facility will use hydroponic and aeroponic technologies to grow vegetables year-round. It will employ 800 Dharavi residents trained in controlled environment agriculture. Produce will be sold through a dedicated supply chain to Mumbai's restaurants and households. The project is funded partly by the Dharavi Redevelopment Project Authority and Dutch development bank FMO."
+        },
+        {
+          "id": "mum-cty-8",
+          "title": "Mumbai Police Launch AI-Enabled Missing Persons Tracker With 92% Identification Rate",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "11h ago",
+          "body": "Mumbai Police launched an AI-enabled missing persons tracking system integrated with CCTV networks, railway cameras and hospital databases. The system achieved a 92% identification rate in a six-month pilot. It uses facial recognition, gait analysis and clothing description matching. Civil liberties groups raised privacy concerns and demanded an oversight committee. The Commissioner assured that data is purged after 90 days unless linked to an active case. In the pilot, 340 missing children and 180 missing adults were successfully located."
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aur-cty-1",
+          "title": "Aurangabad Smart City Mission Completes 80% Targets; Integrated Command Centre Goes Live",
+          "source": "Lokmat",
+          "sourceUrl": "https://lokmat.com",
+          "time": "2h ago",
+          "body": "Aurangabad's Smart City Mission project completed 80% of its infrastructure targets with the inauguration of the Integrated Command and Control Centre monitoring traffic, utilities and emergency response across the city. The ₹1,200 crore mission included smart roads, LED street lighting and underground cabling. Municipal Commissioner noted that water leakage reduced by 28% after smart metering installation. The remaining 20% includes solid waste management automation and a digital citizen services hub expected by September."
+        },
+        {
+          "id": "aur-cty-2",
+          "title": "Aurangabad Airport Rebranding to 'Chhatrapati Sambhaji Maharaj International Airport' Notified",
+          "source": "Sakal",
+          "sourceUrl": "https://sakal.com",
+          "time": "3h ago",
+          "body": "The Ministry of Civil Aviation officially notified the renaming of Aurangabad Airport to Chhatrapati Sambhaji Maharaj International Airport following the state cabinet's decision. New IATA code and signage changes will be implemented over the next 60 days. The airport currently handles 12 daily flights with IndiGo, Air India and Vistara. Plans to extend the runway for wide-body aircraft are under evaluation to enable direct international flights to Middle East destinations, which are popular with the region's worker diaspora."
+        },
+        {
+          "id": "aur-cty-3",
+          "title": "Ajanta-Ellora Tourism Circuit to Get ₹850 Crore Heritage Infrastructure Upgrade",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "4h ago",
+          "body": "The Union Tourism Ministry approved ₹850 crore for a comprehensive infrastructure upgrade of the Ajanta-Ellora tourism corridor, covering access roads, interpretation centres, visitor management systems and eco-sensitive zone restoration. Annual tourist footfall at the UNESCO sites exceeded 40 lakh in 2025-26. New light-and-sound shows in multiple languages including Japanese and Korean will be developed. A dedicated tourism police wing with multilingual officers will be deployed. Project completion is targeted for March 2028."
+        },
+        {
+          "id": "aur-cty-4",
+          "title": "Aurangabad Industrial City (AURIC) Attracts 12 New Manufacturing Units Worth ₹4,200 Crore",
+          "source": "Economic Times",
+          "sourceUrl": "https://economictimes.com",
+          "time": "5h ago",
+          "body": "AURIC, the Aurangabad Industrial City developed by DMIC project authority, signed MoUs with 12 new manufacturing companies including three Japanese auto-ancillary firms, four German engineering companies and five domestic MSME clusters. Total committed investment is ₹4,200 crore expected to create 18,000 jobs. AURIC's Phase 1 is already home to companies like Hyundai suppliers and textile exporters. DMIC CEO said Aurangabad's location between Mumbai and Hyderabad makes it ideal for supply chain anchor facilities."
+        },
+        {
+          "id": "aur-cty-5",
+          "title": "Marathwada Water Grid Nears Completion; Aurangabad to Receive 24/7 Water Supply by 2027",
+          "source": "Lokmat",
+          "sourceUrl": "https://lokmat.com",
+          "time": "6h ago",
+          "body": "The ₹23,000 crore Marathwada Water Grid project is nearing completion with 78% of pipeline network laid. Aurangabad city is expected to receive 24/7 piped water supply by early 2027, ending decades of water scarcity and tanker dependency. The grid draws water from Jayakwadi and Majalgaon dams and covers 11 districts. Water tanker operators have filed a petition challenging the project's impact on their livelihoods. The project is expected to benefit 2.8 crore people across Marathwada."
+        },
+        {
+          "id": "aur-cty-6",
+          "title": "Bibi Ka Maqbara Restoration Project Unveils Newly Conserved Eastern Gateway",
+          "source": "Sakal",
+          "sourceUrl": "https://sakal.com",
+          "time": "7h ago",
+          "body": "The Archaeological Survey of India unveiled the restored eastern gateway of Bibi Ka Maqbara, Aurangabad's 17th century Mughal monument, after a two-year conservation project. Lime mortar restoration, stone replacement and drainage improvement were carried out using traditional techniques documented from ASI archives. Visitor numbers to the monument have grown 35% year-on-year. A new museum wing narrating the history of the Deccan Sultanate will open by October. Night tourism at the monument has been approved pending lighting design."
+        },
+        {
+          "id": "aur-cty-7",
+          "title": "Aurangabad's Paithani Silk Gets GI Tag Renewal; Weavers Demand Better MSP",
+          "source": "Maharashtra Times",
+          "sourceUrl": "https://maharashtratimes.com",
+          "time": "8h ago",
+          "body": "The Geographical Indication registry renewed the GI tag for Aurangabad's Paithani silk saree, one of Maharashtra's most prized textile traditions. However, weaver cooperatives demanded revision of the Minimum Support Price for raw silk which has not been updated in four years. Master weavers said input costs have risen 40% while product prices remain controlled. Maharashtra Handloom Corporation announced a new digital marketplace to help Paithani weavers sell directly to consumers. Government-run emporiums will now carry a QR code authentication system to prevent counterfeit Paithani."
+        },
+        {
+          "id": "aur-cty-8",
+          "title": "Dr. Babasaheb Ambedkar Marathwada University Launches 5 New AI and Biotech Courses",
+          "source": "Lokmat",
+          "sourceUrl": "https://lokmat.com",
+          "time": "9h ago",
+          "body": "Dr. Babasaheb Ambedkar Marathwada University announced five new undergraduate and postgraduate courses in Artificial Intelligence, Biomedical Engineering, Agri-Biotechnology, Cybersecurity and Renewable Energy from the 2026-27 academic year. The courses were developed in collaboration with industry partners including TCS, Biocon and MNRE. Fee structure has been kept affordable with merit-cum-means scholarships covering up to 80% of fees for eligible students. The university also signed a student exchange programme with three German universities. Admission portal opens May 15."
+        }
+      ]
+    }
+  }
+}
