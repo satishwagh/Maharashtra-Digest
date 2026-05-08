@@ -2,7 +2,6 @@
  * fetch-news.mjs — Maharashtra Digest daily fetcher
  * Node 20 built-in fetch (no node-fetch needed).
  * Primary: Google News RSS (reliable from GitHub Actions, never blocked).
- * Fallback: Traditional publication RSS feeds.
  */
 
 import { XMLParser } from 'fast-xml-parser'
@@ -119,19 +118,14 @@ async function fetchFeed(feed) {
       },
       signal: AbortSignal.timeout(15000),
     })
-
     if (!res.ok) { console.warn(`  ✗ HTTP ${res.status}`); return [] }
-
     const xml = await res.text()
     if (!xml || xml.trim().length < 100) { console.warn(`  ✗ Empty/tiny response`); return [] }
-
     const parser = new XMLParser({ ignoreAttributes: false, parseAttributeValue: true, cdataPropName: '__cdata', allowBooleanAttributes: true })
     const parsed = parser.parse(xml)
-
     let items = parsed?.rss?.channel?.item || parsed?.feed?.entry || []
     if (!Array.isArray(items)) items = items ? [items] : []
     if (!items.length) { console.warn(`  ✗ No items parsed`); return [] }
-
     console.log(`  ✓ ${items.length} items`)
     return items.slice(0, 12).map((item, idx) => {
       const title = stripHtml(item.title?.__cdata || item.title || '')
