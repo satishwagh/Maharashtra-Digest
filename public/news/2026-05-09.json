@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T04:29:06.734Z",
+  "cities": {
+    "mumbai": {
+      "politics": [],
+      "finance": [],
+      "technology": [],
+      "sports": [],
+      "city": []
+    },
+    "aurangabad": {
+      "city": []
+    }
+  }
+}
