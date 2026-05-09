@@ -1,16 +1,796 @@
 {
   "date": "2026-05-09",
-  "generatedAt": "2026-05-09T07:23:00.187Z",
+  "generatedAt": "2026-05-09T07:26:54.184Z",
   "cities": {
     "mumbai": {
-      "politics": [],
-      "finance": [],
-      "technology": [],
-      "sports": [],
-      "city": []
+      "politics": [
+        {
+          "id": "mumbai-politics-1-1778311608351",
+          "title": "Maharashtra govt orders strict implementation of POSH Act after Nashik TCS case - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGdNVjQ3RlYxTjVWQkN6T1AtY3BhMTZLQXF1NFBTUFBFQnEzQ28zV2lQRVZHeG1NNUd6b01RMEFmRVkxMS1jdUR2dC1FT1lfR3Z2WU9aT0hhbHhGUDZ4NzhmX0FydWY5aldZdUYyMTkxWW9KWlpldHdJR2hxblhJd3pOSmdfVkxwd0dNcWtSUWNiRVVwUWtNTGZKdnMyTERndHh0YVp3Z0c0d18tb0dqSUpNSnPSAboBQVVfeXFMT2JkZDZQQlJnTThfUzVUcVRDVkdnT3hOUFRHTE5XSFlkMGRRTEptQnBVelVDWXRiMWF6d1FNWGpCYWdYeUV4WXMxVHVXdUZOdkhMM3NhSlcxVjVGZEFvQ3ZreU15MHI3Nkc4aUJkbzNXZ2VyNnU1NWQ4b0twc0dxZHAxcUxqdTEyQ3pkNjN5RGtKQ29EY1ZfR05RMGFWX3BxZjRfMTFRVmJMUDlwWE1xdGVpRDJzcm5uY3lB?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra govt orders strict implementation of POSH Act after Nashik TCS case  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt orders strict implementation of POSH Act after Nashik TCS case ThePrint"
+            ],
+            "tldr": "Maharashtra govt orders strict implementation of POSH Act after Nashik TCS case "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1778311608351",
+          "title": "Marathi Mandate: Language, Identity and the Politics of Assimilation - India Legal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnVLY3BxcEctTGk5czJQVlJ0UmNFd1pLaHN0ZWNMNFpWSzhGRDlTQ01Ea0J4NEcxek9GVDJuTUxjVU1sZGhrUkxHSy1tTXBBajdYaXhQUm1vbUM1cmcwTTJhSjJJSWZEVFRyWHhnaGtwaHpPWVNYVlM1WTdXY2hwbmlxeHdyV2l3VHhVTVVENldwQzNLbG5qajFRTzAtTHFVZW1YMVF6T0d2dDE2WkVtaEdnQm9Kbk5iTjBv?oc=5",
+          "time": "16h ago",
+          "body": "Marathi Mandate: Language, Identity and the Politics of Assimilation  India Legal",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Marathi Mandate: Language, Identity and the Politics of Assimilation India Legal"
+            ],
+            "tldr": "Marathi Mandate: Language, Identity and the Politics of Assimilation India Legal"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1778311608351",
+          "title": "Aaditya Thackeray writes to CM Fadnavis, demands relief for residents of old buildings before monsoon - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaG9OcXdEZTItMVFfWWdqVGQtcGFDRHJXUG9SU1ExeUZKUUhVeXBOdFhwMzVyTHdmVzJ3WGY4WVk4S3VkdmtUQVA0T3hDYUF0cUVfQlJPTDNTRWJUTWhnN1ZXTmktOUtpZy0tekxTb3lKVWtzME9qVW5GcGtfbmVWOGJNVlVjNFhROXdvcHdrMGE0ZFNLVUlNdWZJSEtHeExxUlczdjBhRkYzb29TQ2RaVVZLT1JRU2xRcGtvTFpyeG1vUDNkVDRIb05nTjJYZEV1QlRDMzBNZVNabEtCTFVWQ2Z1alhwV0FCWFpJeEN6VjJXX3FJVFktbUFaUjdKcElfMDBzLXUtONIBjAJBVV95cUxPeUt6SW1CODVSN3Y5NU9vM0ZhLTh0ckxHTmp2Zzh2M181LWxGcTdLOTNqR3Rsc3FmTXNlVFhLNktJWVI4a1JVQkg3dWYtZ0ZocDhNVXBadXlwREg1VFd5cml5TU96V3Y0bDJpVWI2QTVTdkVlUlpIak1hY1Z3dWZzRDZpbjNnOVJUMHJjS1pzdF9mM3VqSEM1WGdkN0pIRFNyZlFaUFptNDRtUFc0b3NycVdvYnhLcUZUOHFZWmVPTk9UT1JNejBjUnJwSEpJQUxEOWtlSGtFTnBIVEY0LUpNMGxKNWw5RmwzOHpzbEQ2UmIxd1Q4MkRDV3h5akhsOUtOdXdaZ082Mk5hdzNi?oc=5",
+          "time": "20h ago",
+          "body": "Aaditya Thackeray writes to CM Fadnavis, demands relief for residents of old buildings before monsoon  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aaditya Thackeray writes to CM Fadnavis, demands relief for residents of old buildings before monsoon Mid-day"
+            ],
+            "tldr": "Aaditya Thackeray writes to CM Fadnavis, demands relief for residents of old bui"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1778311608351",
+          "title": "Maharashtra government orders strict implementation of POSH Act after Nashik TCS case - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnlRUHZyVnI5bTR3cVZyOFN1MDdNNk5ycTc2bW0zV2FVaW0yUnlhcHdpSGpXbEZIN1p1S1N4NjUzRVBBd20ya0prWHZFSmFZODlwWlFuTWFzVC13OU00aC1ROWIySDAxVF9WSjhXVGFhUjFGU1ZoWU80Rkl4MEhpVnFwSnFXbW9od0EwaHVwSUlmZlJxQ05wX2JyUVp2bkdKS0RwRnQ2MXNjRlZMUTNsUlg1X1BBSGQ5QU1sbjhxajB2U2gxZ0xNOGhTWWQ0WHFlNnlCUGZxa1RUcXkyQm5veXYzNWRIR2RNQ3fSAeoBQVVfeXFMTTJ5UVB2clZyOW00d3FWcjhTdTA3TTZOcnE3Nm1tM1dhVWltMlJ5YXB3aUhqV2xGSDdadUtTeDY1M0VQQXdtMmtKa1h2RUphWTg5cFpRbk1hc1QtdzlNNGgtUTliMkgwMVRfVko4V1RhYVIxRlNWaFlPNEZJeDBIaVZxcEpxV21vaHdBMGh1cElJZmZScUNOcF9iclFadm5HSktEcEZ0NjFzY0ZWTFEzbFJYNV9QQUhkOUFNbG44cWowdlNoMWdMTThoU1lkNFhxZTZ5QlBmcWtUVHF5MkJub3l2MzVkSEdkTUN3?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra government orders strict implementation of POSH Act after Nashik TCS case  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government orders strict implementation of POSH Act after Nashik TCS case The Economic Times"
+            ],
+            "tldr": "Maharashtra government orders strict implementation of POSH Act after Nashik TCS"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1778311608351",
+          "title": "Maharashtra CM Fadnavis defends mandatory Marathi for drivers from May 1 - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWZYUVJ3djJOM2VXN1VUY2YtQk11VEpTcVRwUHA1aG5zMWRjUmVNdTQ3YWZ3VnNONGRDQnFOekt0YUpqeW9OOThNcGFHaGtNajZkRXBCaS13TWh1NVFiLS1CQ1VSa2pkem1XVGI4TjRka0Z4RnpORnJyX1pQVFBDNnZ1RTlfYWdadnRSRjVSNDJtbGxZM21sMnVOLWNuOHRmSHU0MmxpNVJUV0JJM0VNbG9aaE9iS1JSV1V2bVJR?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra CM Fadnavis defends mandatory Marathi for drivers from May 1  MSN",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Fadnavis defends mandatory Marathi for drivers from May 1 MSN"
+            ],
+            "tldr": "Maharashtra CM Fadnavis defends mandatory Marathi for drivers from May 1 MSN"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1778311608351",
+          "title": "Maharashtra Approves 134-Km Neral-Shirur Four-Lane Highway To Strengthen Mumbai-Pune-Marathwada Connectivity - Swarajyamag",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbWZrS3BHS1RRa0E1aFVMbURvVjVVT2lCN1g3bDd1YS0yaDZMSXNqd1RsNUpwOFpsRldYQWZweFFoWkwyNFB4OVZHU1BzMEZqTjJmUFFlcC1LSmNINDRCSVBLZEY2bzBSUEwyVmNkZEI0ODVlalBDcWw2UWxaelF0eFZWby0tRGE0MEpMR1NnRnFYM01na2g4R0NXOUNqWU15V1c4b3JQTzNOalpfTGhrUXAwb1FSUUMyVGd6My1EN2h6dDJWb2NzTGh6cUxlSUZIWFNabHRWaXYtLU1lcnFXY0dJSklqRXRhX0JR0gHrAUFVX3lxTE9tZmtLcEdLVFFrQTVoVUxtRG9WNVVPaUI3WDdsN3VhLTJoNkxJc2p3VGw1SnA4WmxGV1hBZnB4UWhaTDI0UHg5VkdTUHMwRmpOMmZQUWVwLUtKY0g0NEJJUEtkRjZvMFJQTDJWY2RkQjQ4NWVqUENxbDZRbFp6UXR4VlZvLS1EYTQwSkxHU2dGcVgzTWdraDhHQ1c5Q2pZTXlXVzhvclBPM05qWl9MaGtRcDBvUVJRQzJUZ3ozLUQ3aHp0MlZvY3NMaHpxTGVJRkhYU1psdFZpdi0tTWVycVdjR0lKSWpFdGFfQlE?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra Approves 134-Km Neral-Shirur Four-Lane Highway To Strengthen Mumbai-Pune-Marathwada Connectivity  Swarajyamag",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Approves 134-Km Neral-Shirur Four-Lane Highway To Strengthen Mumbai-Pune-Marathwada Connectivity Swarajyamag"
+            ],
+            "tldr": "Maharashtra Approves 134-Km Neral-Shirur Four-Lane Highway To Strengthen Mumbai-"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1778311608351",
+          "title": "Cong support to Vijay in TN guided by need to counter BJP's 'anti-democratic approach', says Sapkal - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMTJUQXFUbVZlS3ZJNmpXZE44RG5xOV9LVE4xTUNVci03Z00yUkhCYkhiRk5Gbmw3YmhxX1ZBbWw0WFZ0dDNwVU4temNEZ0ozTnpiVHJoTW1rLWpFLWl1VlhsQThhOGxkU0RWMnZfNXQ1Rmswb2h5SDhxM0VlOGxuVnVEbjFtNmR4QkFJVXJPQ3FTREctRWpMcm1Yd0psWkFOVlhRZmJhZkdudXdyNjFiV0tJQURXMlZTb2tZWnVhdjh1Nm84QzlKNG5xa9IB2AFBVV95cUxPSUwzY3JtVmZTU1BZMnU4WllQcE1jMnhlaUNvRVljS25fNVB4TmJrMjQyOENxRkQ1aFNoNUpvWWg4QzU5M3I5anFNU2pQWVJ6amxDTWR3TGlVRFNqRThRRGFSaFJtS3NMcFN5d0JSeXlqSWV0MnVObWlQbDA2dDVsVmhIYXpEaTY5M1E4WERLc3pzYTJPenhXMUh6MnloQjVPVHJHMjkzMF9KQU1lQlBBZ0ltUGNkZExnc1F4S3ZXcWRqSXVpQkV3TGh2MjQzdkNxZnJFQ2wxU3g?oc=5",
+          "time": "19h ago",
+          "body": "Cong support to Vijay in TN guided by need to counter BJP's 'anti-democratic approach', says Sapkal  DT Next",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cong support to Vijay in TN guided by need to counter BJP's 'anti-democratic approach', says Sapkal DT Next"
+            ],
+            "tldr": "Cong support to Vijay in TN guided by need to counter BJP's 'anti-democratic app"
+          }
+        },
+        {
+          "id": "mumbai-politics-0-1778311608230",
+          "title": "\"Emotional moment for activists like me...\": Devendra Fadnavis after Amit Shah announces Suvendu Adhikari as West Bengal CM - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOczFXU1NhN0ctUld2ZmxjODZoT2M5SnRQbUx5UU10WVJQMmxrQ1pnNzlNdmJEZE1IR1RTYnJPVGZXMGc1SXo0dFVHRzh4ZFl1WG40TEpsV0ZsVWZ6TEY1Q3dab283Ym5hdUt4amlON1JvejZqaTBRWFRfeFUwc0tya2lFWllrd2QxRUZKVk1ING8xZHM1WFZFNGVUQ24yWWpkRDkxQ05ZZXAyVm9DNnFyYTRYdF9ydnhucEIzTy1wY2ZDbTh4dFk3N0pYUVlXTjdOU1N2dl9pc0VqaTBiYl9wbVk5SGpvT3JmX0lqZi1xbHF2aW5OTktNbXJsLVlxQ1FlN3BFTDd3RURIckRVOGc?oc=5",
+          "time": "14h ago",
+          "body": "\"Emotional moment for activists like me...\": Devendra Fadnavis after Amit Shah announces Suvendu Adhikari as West Bengal CM  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Emotional moment for activists like me...\": Devendra Fadnavis after Amit Shah announces Suvendu Adhikari as West Bengal CM ANI News"
+            ],
+            "tldr": "\"Emotional moment for activists like me...\": Devendra Fadnavis after Amit Shah a"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-0-1778311608351",
+          "title": "Maha Budget outlines massive urban expansion, Metro network target of 1,200 km - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMldwcmtwMG01Skx0QXFtOXU5RGlnSTI0VkZMR29mc1hoX29sbW05OEVUYTA2VDkxc0tqS2NMQVdRbmFZUjlJMXJkc3B3RWl2cHVxY0NYRnZlOUNuUUtVZHFzMm9VZVZIMHpNaDg3LV9QSEtoOTNKSXBQQi1heFNZR0JBODg0SEloak1ncjRSRWVORkpSYXJjcDItTXNwaXlKa0U1dQ?oc=5",
+          "time": "17h ago",
+          "body": "Maha Budget outlines massive urban expansion, Metro network target of 1,200 km  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha Budget outlines massive urban expansion, Metro network target of 1,200 km DD News"
+            ],
+            "tldr": "Maha Budget outlines massive urban expansion, Metro network target of 1,200 km D"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1778311608292",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5dG1laFk2NHZZcmFjbWczVFJpeHdDRTZlcGZIZnJIQWJHWEtibnBxQlhvOUdxdm5jQWNOekhqZzNPQmJsNmRjZzhnU0dyV3h6SXhCbUR3TlJjY1k5aHdlRjFST1N6dkRsLThv?oc=5",
+          "time": "18h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1778311608292",
+          "title": "Armour Security (I) Cash Flow, Financial Statements - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTW1HWGxXOXZPczJ3NUNHR0lYZDhtZFBVNWNHT3dNN2ZmS25yRzZFTHRuTDdhXzdUOE9tM2lPQlptUXdwaXlmTTJoNXp6QTJUcnhWcHpTRXBHdlZlRC1CZ0dzNUlBYWN4LVFnNjRRbHJLRzRVQ0F2WHRYc3g1ck5YVF8wMTBZdy1vU2tuUQ?oc=5",
+          "time": "2h ago",
+          "body": "Armour Security (I) Cash Flow, Financial Statements  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Armour Security (I) Cash Flow, Financial Statements The Economic Times"
+            ],
+            "tldr": "Armour Security (I) Cash Flow, Financial Statements The Economic Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1778311608292",
+          "title": "Sensex falls 516 points, Nifty slips below 24,200 amid Iran-US tensions - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZm1FVDFpenJYdW9NQlAxc3E0UWxmR3JSM1BnOVpmS3VhcElmVW9icGxULXhlemJ5akpYOVNaSFF4SUtuR1BxWGlXWDJxUEZaaHhSUE9selk4cl9rMzY2X0dFRERkakJhMFJ5c1dxVzRSWGtKZU5aYmJkWi1tTkdGWFc5dHVYWVlsb182UnFJYjVmSEoxMUVoeTlCR18ydzdfalVUOGZ4ckRvYlp1cXIzc0M2MlY1cDhuVlBaeG05elZJZ0wzTGFkOVpiWHpHT2doRlZHaXhpNnJtVDlIekpUUk9wM0plLTBzWkVRQV9oWdIB7wFBVV95cUxOZm1FVDFpenJYdW9NQlAxc3E0UWxmR3JSM1BnOVpmS3VhcElmVW9icGxULXhlemJ5akpYOVNaSFF4SUtuR1BxWGlXWDJxUEZaaHhSUE9selk4cl9rMzY2X0dFRERkakJhMFJ5c1dxVzRSWGtKZU5aYmJkWi1tTkdGWFc5dHVYWVlsb182UnFJYjVmSEoxMUVoeTlCR18ydzdfalVUOGZ4ckRvYlp1cXIzc0M2MlY1cDhuVlBaeG05elZJZ0wzTGFkOVpiWHpHT2doRlZHaXhpNnJtVDlIekpUUk9wM0plLTBzWkVRQV9oWQ?oc=5",
+          "time": "20h ago",
+          "body": "Sensex falls 516 points, Nifty slips below 24,200 amid Iran-US tensions  Mid-day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls 516 points, Nifty slips below 24,200 amid Iran-US tensions Mid-day"
+            ],
+            "tldr": "Sensex falls 516 points, Nifty slips below 24,200 amid Iran-US tensions Mid-day"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1778311608292",
+          "title": "Stock markets fall for 2nd day amid renewed tensions in West Asia; Sensex slumps 516 points - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1ZIb19ycFNoTFAtamNrZHFwZFY5bFh0d1J4eUs3OG9VSmVPM2hFS3JIRjlzSzRtNnEzVXdtN3ZnWHNyc2RNWFc5ZDNSeE5qaFdJQXJTcjU1VkVOZlBmeHZEenpmb3JWZThmT1dtcnEydml1bHhEZ2hDeEp1WlNBSTVrQ2tSUW5PbWdVV2RvUDVBVDNVTk82ZVpJT09raVJEQUdqR2hNV0RKTjFUMzc5YUh0R0hHVVBfZHVoM2VIb1pPNTRaZEdLbktFMi1xSXM?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets fall for 2nd day amid renewed tensions in West Asia; Sensex slumps 516 points  The Tribune",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall for 2nd day amid renewed tensions in West Asia; Sensex slumps 516 points The Tribune"
+            ],
+            "tldr": "Stock markets fall for 2nd day amid renewed tensions in West Asia; Sensex slumps"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1778311608292",
+          "title": "Stock market holiday on Friday, May 1? Are NSE, BSE closed tomorrow for Maharashtra Day? - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTFZVWTBuSEhmRkJ5UHQtOWV3anBhejdvUmxQN2lDVTktaHI5Slh1TkR5dVR6V3FLemNMVDlLRlNFejZhX1B0YnVmLXplaWo1WVdJX29LSkhSUnBSMUhWVUdmaUFjZThRNmUwQUxtTk1XR2ktU3J5ZkE3SDBDaDlDQXBiOXh3WUM5ZllMcklCcnFYQVdESjMwZUJSZGo4M3RuWm9udWlaTWVhbkFwTHNTSFpnRV82dDgwZVB0THFieURXT2NtX3ZXYW82dUtxZU95T3lrU3kxMmZrTXRiU2tPQnlTaS0yd2VDUmlKZ0pnN05GSEd4QmFLbVFwY0hNdnpXRjc4Ym1lbkVnMHJHYno5V1pJUEFwd00?oc=5",
+          "time": "19h ago",
+          "body": "Stock market holiday on Friday, May 1? Are NSE, BSE closed tomorrow for Maharashtra Day?  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market holiday on Friday, May 1?",
+              "Are NSE, BSE closed tomorrow for Maharashtra Day?"
+            ],
+            "tldr": "Stock market holiday on Friday, May 1?"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1778311608292",
+          "title": "Stock market: Sensex rallies over 900 pts, Nifty up; buying in blue-chip stocks - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYzVRbjhfOXRTM1dDajlWS2swSXZIU21oNG4xM3Q3djhtOFo4WkJhaUo5WHkyZzRyOXhiSFJNQjZMS1RZSHdiWk9lNkNjSmxNLThMUUJSR2UxMHZvZk10YThraW9CeGRORDlzTW5JeHBqOVBQTTU3Yy1wS2JQbU5tUmdXQ2lKbmNWbGhuWDFzN0JFQklUdWI0c1BzbHFqR3hRX011azdNSC1mT1B5RGQzdllFU1F5UVRqSnYxRHY1b3MyQ1JIS0t5QmlPY1RzMWZUZGNFbWM2WGhqa2gtVHNrX3BvNGltbXZ2X3Q3RDAwZ2lVNGZ2WnBXaVFNZGEyUXZPZGdWNUZwa0I?oc=5",
+          "time": "20h ago",
+          "body": "Stock market: Sensex rallies over 900 pts, Nifty up; buying in blue-chip stocks  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex rallies over 900 pts, Nifty up; buying in blue-chip stocks MSN"
+            ],
+            "tldr": "Stock market: Sensex rallies over 900 pts, Nifty up; buying in blue-chip stocks "
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1778311608292",
+          "title": "Stock market holiday next week: BSE, NSE, MCX closed for trading on Friday, May 1? Check May holiday list - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ01ybXhvNW8xQTItV1dCSC0zMmhfUHR6aWUtWVVIUldiZHFOdWVHcmxHTUVHejVCeFgtblFmVzlHWnhCNmp6SzJzdWlCcFZtamFhM0pHNkdER2NGTDFUUXkxcUVQYklyRWYyaW1mRGoyTV9CSnZhWlAwMkphV280dHY5WmFMUE43Q0k1NWllWFVwamxidWxwZXZFNV80YUgtd2NsdWI0YWpZVVRfd3RPeF9mTmFHN2VXUEdRT1JUTWk5MDhjdEo1ckt5a3pVWFpqbWloTGhIYXZCd21JTlN5Q0dXQzM1X2RmUm5rdWlGZzB1UWNvZTQ1TTVIeXplNjdtZGZwTHlncEZ4ZU5lRjhLVVVQOE9YSUNBeGNJN3dlX2tNNGZ4WVRqTQ?oc=5",
+          "time": "22h ago",
+          "body": "Stock market holiday next week: BSE, NSE, MCX closed for trading on Friday, May 1? Check May holiday list  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market holiday next week: BSE, NSE, MCX closed for trading on Friday, May 1?",
+              "Check May holiday list MSN"
+            ],
+            "tldr": "Stock market holiday next week: BSE, NSE, MCX closed for trading on Friday, May "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-5-1778311608351",
+          "title": "Maharashtra approves 134-km Neral–Shirur highway to ease Mumbai-Pune Expressway congestion | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajhhbUJRV1lXTThuV1dHR3VXRDk2OGVJRmpnT2ZnYmxlemtadVVyOTNlYUEwS3B5NzN6WENPMUhUTldoTHU4X2VIOFE1R0tLTmFvZ05yeVpGd2lFUllJTDFlc0preFgtamlTUzI0OHJFQzlTUnZ3RUU4cHFDOE5sNmpkZGZrc0hqUDZLeUppNG9fTTRHZzFlbE9hZ1pjZm9JOGVySXI4TkFoa2s3SUtkdUkwazhPbGJldG5iejJuWXlKVlVGajBSNU05X055UTdvQXN4V3ZTWTZIR3FLeV9sRVY5NDFDYlFfQlFvOTQwQ0dRRWfSAfgBQVVfeXFMT1MxRDREeHJQVDR2T1BCczFTVHcyMkpaVUpkdVVLLUlPWkpZNjBCVHdhX29WSFI0a1JwQkFGRWM3WWZVTml2UDhrMXR5TzlJUWd2VEc5R1h3bTEyZ0FVZU9zN0RIRnFnRm5CYm9ROENQRW9IX19sdmZibTU2MzM5VTFfWW93MUxEM2dfbjE1TVRmblFiUzhibDdjYjBUbDEyZHVkV2dFMFR0TEJDcGktR0pkY3kyNEw3eEhnVEJWaHU2RHpsZDRtamlGV0NPa05ZZThOQlpQSkowRWt3cmNxT1lBWWJyZzVnQVpqMGRGMl9JdXJjemFIaVY?oc=5",
+          "time": "8h ago",
+          "body": "Maharashtra approves 134-km Neral–Shirur highway to ease Mumbai-Pune Expressway congestion | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves 134-km Neral–Shirur highway to ease Mumbai-Pune Expressway congestion | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra approves 134-km Neral–Shirur highway to ease Mumbai-Pune Expressway "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1778311608351",
+          "title": "Criminal Cases Against Colleges Offering Fake Degrees: Maharashtra Govt - Mumbai Live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdFEwQlRsOElFVGs4VzFOOTRQX2pzQnBFNFRWV05jaHNQLU4xazJpb0YwWFM4RTg1c01KUlhhalVvRDlQMXV6Z3NBbzJDVXJoZWN5SEJjZVg5ZlVmMEZrN2RXaXZ5eWZKRHRvNVdLQ0lMN18ydnp5LW9CNmxKOG5kWEJkMEhITjRJZkQ2T08yX3kyM1VhczRkWWtxM3lXQTEtZjRCR1c4VzF6Wm0wUmc4bjUzZUN5T1Js0gG-AUFVX3lxTE9VdnZVRTBNdjhIcnBNcGFhRjRhQzQ0d2Y1MWZHZXFKZ0dxOW1mVVNLQlVwSHFmSU5vTUpHNFNYZlYzdThYN3dTRGJSUkxzaVN0bDJTRllCdVVxRUVQSzVlUGhJdDd0NE9ZQUlieTlwcGtKTUZHMmtjT3dySXIyRC0xSkhXNkltNjF3NURJUUFZekFhX2JraDQtQThYMjl5a2tYd2tfaUJNSkUxX2FsNTJ3RW9Va1NsOW5ZdU1CT1E?oc=5",
+          "time": "18h ago",
+          "body": "Criminal Cases Against Colleges Offering Fake Degrees: Maharashtra Govt  Mumbai Live",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Criminal Cases Against Colleges Offering Fake Degrees: Maharashtra Govt Mumbai Live"
+            ],
+            "tldr": "Criminal Cases Against Colleges Offering Fake Degrees: Maharashtra Govt Mumbai L"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1778311608351",
+          "title": "Maharashtra to establish a water system to meet needs of Mumbai Metropolitan Region - Dailyhunt",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdUxZQjZBZ0xWdkduV1VaUUMyNkI1YUZfMksxVldROHNKYTJ4Q3R1UmY4UVpyRmxwM2xfVGVSeE9EVkxHUEJQd21LWF9JR3poTFpUNXZRVDUwRlNuUEw5cGM3bzRJNHpRdGR4bXEzLUxhR19BQk0yMHdMRHk4a2xmemVUWlFBclZKWFJhN3NOUnljaV9MR3NqNTZ3ckFGdm9QSjUxRHNhQjQwdVRKZGNKY3MycjhWUmVyMGxwQ3Y0Y2xyeXUyRDZ5bm1pbXhQODhMbTJMUnNtX1pBZDJIYkdfclY0aElsSU53Qy1lWk1rU1RkRUppZjFhdkpHRTRkWHNa?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra to establish a water system to meet needs of Mumbai Metropolitan Region  Dailyhunt",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to establish a water system to meet needs of Mumbai Metropolitan Region Dailyhunt"
+            ],
+            "tldr": "Maharashtra to establish a water system to meet needs of Mumbai Metropolitan Reg"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1778311608351",
+          "title": "Maharashtra Govt Signs MoU With Norway’s HYKE AS for Mumbai Water Metro Project - APAC Media",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWhZZjh1TXo3N25mRW5pZHJVa1A0VHJVaEVLZ00xWG44QWRBbm5CYTl1dkxSSFhBM29Cdk9nS3YwWGdLaUtfM1UwSTd5LXlHWks0RlNLZ2NhVmQ5VlBtQlNKQUxzRjdSa2RpRngzcmMxMExYa0pqczR5WWFINHdzMTJQRk1WNjZpQ2FxSk9qc1pveXRvNDJBQkh3VjIxd3pITnE0QTF2Y2R0cW5namc4QndSUW9KUQ?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra Govt Signs MoU With Norway’s HYKE AS for Mumbai Water Metro Project  APAC Media",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt Signs MoU With Norway’s HYKE AS for Mumbai Water Metro Project APAC Media"
+            ],
+            "tldr": "Maharashtra Govt Signs MoU With Norway’s HYKE AS for Mumbai Water Metro Project "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1778311609619",
+          "title": "India’s next agricultural revolution will be AI-driven: Jitendra Singh - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnRlYnh5MXRqWUlJMkU1YmVBZ2prVy02UXlVZUlMV0FtZzV2TVA0TzRkSUM4OHd2Tmg4a3VfRXgzbVhBMXVOSDJCTVVkN2Z5ZGxWWXFkOTNBN0RaMUZRbU1UeW54MHdiSjM3ckg5RXEtcGpHYVFQcGp4UHVhRUJuSGh4WEQ1ajZGREhnMk9ubDIxUUtOMDduMi1n?oc=5",
+          "time": "17h ago",
+          "body": "India’s next agricultural revolution will be AI-driven: Jitendra Singh  DD News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s next agricultural revolution will be AI-driven: Jitendra Singh DD News"
+            ],
+            "tldr": "India’s next agricultural revolution will be AI-driven: Jitendra Singh DD News"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1778311609619",
+          "title": "How India’s helping this US retail giant move from using AI to running on AI - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORG4tX0hpMVFTOGlWU0lvb2E2NTlIUDQ3SXVlaUVnY1d0cmxqaW1kU1ZWSmF3bnpmeG5GUTFnTFVmQ1JLalVkYnVaRFV1TVNTN2Zoa2QwbVVVM0lvSUFhSm5zMkU0Ump0TXphTEVzdzlFVjVjTXVyc0RtU3BTRXRXTHBsTGg4czctU1F4N0M2MHpqNWJCZURiSVNLUWxiWVVlQi1nMHJ5elpkTWw0VmRUXzFHX2RpNlg0WFp4WS0xaURCV1k4bGpjVUVYOTZXUWxxdE5ZdkhpZTcyZjVEcklyX1BUZzVJQml0eUFiMHZvbkRNd2030gH6AUFVX3lxTFA3eFFUWkRRRkwxRDV2Ym5jU0tkaHlra2lSa2U1ellFREQ4NXRRM25OcHEyeWdES2IzOE5tZ0IyX0lRLUVJME1wWnBQbFFJYXJhOGh6enlHOFE3Zi1ndFVScFVFMlR4RVUzTWtFYURZaFhUUF80OExheUVUek5lVEdYbkVQMnloUUNQajM5Wnl4bmRMd1N5NjJ4VWNDbGw0dmV1WG9YUmdLR1M4YWZvNWlOS1NVSHh3c1JmZmpCVUpkLUdXMDN3NXd5TEJQNzFlamIybm44Q0VZWFYxaVJZcDJ5b2RvR0ZiWjJxSGVpVnRtQ01UemVZN1pqS3c?oc=5",
+          "time": "18h ago",
+          "body": "How India’s helping this US retail giant move from using AI to running on AI  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How India’s helping this US retail giant move from using AI to running on AI The Times of India"
+            ],
+            "tldr": "How India’s helping this US retail giant move from using AI to running on AI The"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1778311609619",
+          "title": "Exploring AI in Oil & Gas: Satyasri Akula Engages with ONGC Experts - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFJHSnhDUE1zbnk5cFFWZ2hYZ05ONnhaa3Vkenk5M1laYUR3R3BHbkh5V05RWlU5SWduV0VYSEdTN0UwZnJUSWRPMzJHSUx6VnkyUmpSSjlwczFOWGRFVnVVSUY4Q0hxYnlqVGlRa2lSbTd4ZkQzcFFNUHl4X2g2UDVBUjBPRkxWZGc5bWFmVjI2dEk4OHE2YUhjRGZId05LYThtV2FEdzBQLUHSAbABQVVfeXFMUF91RkVHLTk4Q1YtNmMxbDNFbDJVYzlPQlB6V0ZDaVNpMTR0WmVtRXVpWnVQaGFDYmZyd1h1dnZSTlFPOURtTEJSdUxfdkZKMU9vaFVEeWMxX1BHbms1T0tJM25NLWpmbVVnU0xEeldJZDR5SElSYUdVeElyYzh1S09rbVc4cTM5VDZONEpaWE1ieUNCWlMtdllNZmY3V1RjWG5RMk9fdE4zMlJXUEk1bjk?oc=5",
+          "time": "15h ago",
+          "body": "Exploring AI in Oil & Gas: Satyasri Akula Engages with ONGC Experts  lokmattimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Exploring AI in Oil & Gas: Satyasri Akula Engages with ONGC Experts lokmattimes.com"
+            ],
+            "tldr": "Exploring AI in Oil & Gas: Satyasri Akula Engages with ONGC Experts lokmattimes."
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1778311609619",
+          "title": "KPMG in India announces strategic alliance with CleverTap to advance customer engagement and retention capabilities - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPOWd6SXZNMk02bmtFcjlTeEc5N1doOEE3eHNNZkFDek5zMmhlYTJyTm5UVjZSajEyNmt6NEJ0UnNMb3habXhKV1h4UUY4N1hIUHhabFhhMlptS0NJY2phNUFPNHY5dUtQaUJ1WkFUTFFMTmFTc0lyVFJRdF9lWWZmdkIxM0VRNTB5RV9zSWp1bndEaENLNDcwWmpFb1BnZUdQT21jN0tDdkpHblBzS1UtZ2lHdzY1bXVTWlkyX3F1cE40cEJzQ0xPUUd0enBEVHFNTjhQcTF1RWRGeS0wUFczYXRWeUplbUE1NVYtOVJoWXluSTRSaTBsUlNMT1B2TWpRTi1mM0tB?oc=5",
+          "time": "18h ago",
+          "body": "KPMG in India announces strategic alliance with CleverTap to advance customer engagement and retention capabilities  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KPMG in India announces strategic alliance with CleverTap to advance customer engagement and retention capabilities Devdiscourse"
+            ],
+            "tldr": "KPMG in India announces strategic alliance with CleverTap to advance customer en"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1778311609814",
+          "title": "IPL 2025 M63: MI vs DC - Match Highlights - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xNWFhNGtmTWJ0V3BFMThTN1YtMkZnVkNYdDkxdnBkUzBfMVBwMkpnUEtxQzdSZkpjYXRUUEVhdDZuaFlZRVJPZ1hUblJWVlJqZ2JtX3hTU0I0dW5ZMFAxcnJNbzhqZFczbG1WTGJkTF84dlFZVnJwY3J6Zy00QQ?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2025 M63: MI vs DC - Match Highlights  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2025 M63: MI vs DC - Match Highlights  IPL T20"
+            ],
+            "tldr": "IPL 2025 M63: MI vs DC - Match Highlights  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1778311609814",
+          "title": "10 Richest IPL Teams (2026): Brand Value & Net Worth Rankings - wpleague.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JZXJDNjNRdDNnSmpjdVNkT0FBcUVGeVdjMUc1T3hPS0dybFMyS013RnpWOVQyci01Q0VMbWRNbmJwc0MzbU5HZlVRWVFJWnBTZFNNdTJCVQ?oc=5",
+          "time": "2h ago",
+          "body": "10 Richest IPL Teams (2026): Brand Value & Net Worth Rankings  wpleague.in",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "10 Richest IPL Teams (2026): Brand Value & Net Worth Rankings wpleague.in"
+            ],
+            "tldr": "10 Richest IPL Teams (2026): Brand Value & Net Worth Rankings wpleague.in"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1778311609815",
+          "title": "IPL 2025 M38: MI vs CSK - Match Highlights - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oYnZUNE9MNnp3bzJrTVhsX0RDSVNVVVVRZnpxeThDQ3V5NGpLdC1XcHpLelJRVThKc3VTQ0RaRHBpRkJjaUFYWDVxb3BlS2JhSnVteTZqTGYzVVRfV3p1MFR0VzNid0s3U25KbG45MHRYZzBRczUwVEF0YmRjTnc?oc=5",
+          "time": "2h ago",
+          "body": "IPL 2025 M38: MI vs CSK - Match Highlights  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2025 M38: MI vs CSK - Match Highlights  IPL T20"
+            ],
+            "tldr": "IPL 2025 M38: MI vs CSK - Match Highlights  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1778311609815",
+          "title": "IPL 2025 M29: DC vs MI - Match Highlights - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdXF3QTFHYll2WnM2Z012WmJ5ZkI5Y1FNQno2X2dpUWtmcFlfY1R0UnNnRFRUeHdXdHlFUUdweGdiX2FQSmlqdEVVMXpiYWs5Vm9oWHZCYUw4WC1nUXhHUEZJaVUzSXB3RUxNWHIxUFZ0a2hHUlZ1NVB4Q29GZw?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2025 M29: DC vs MI - Match Highlights  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2025 M29: DC vs MI - Match Highlights  IPL T20"
+            ],
+            "tldr": "IPL 2025 M29: DC vs MI - Match Highlights  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1778311609815",
+          "title": "IPL 2025 M45: MI vs LSG - Match Highlights - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZV2tfYXRVbzZNdjBTU1luTlZaQ2dLY3YwYkZzeU4zWlo2cGt0SzgwVUE5d0ZmSFBKUktUQ00xcTNCMzA3alk1cDc0czlRbUU2S0luNFZYdDJlS2M5ZkV5YkhSaFM0LVB6Mm5RRFRZNzhXREhWOHE3LTI4YklKNTA?oc=5",
+          "time": "3h ago",
+          "body": "IPL 2025 M45: MI vs LSG - Match Highlights  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2025 M45: MI vs LSG - Match Highlights  IPL T20"
+            ],
+            "tldr": "IPL 2025 M45: MI vs LSG - Match Highlights  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1778311609815",
+          "title": "IPL 2025 M33: MI vs SRH - Match Highlights - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZXNkNHRYTXR2LUQyRU1DSjI3VWJPWjFuc01zMldYcUtyS0p5Vm52dzNmLUtQMVpZa1NteXRIZVhiOGlIMWJ2SmZSbEd2UWJZblp2TndaOGdsbUdJQ3V0RjF5emtiNmJlZnJ5MkcxV2hFNzc1R2hPYmtTYkV1eWM?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2025 M33: MI vs SRH - Match Highlights  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2025 M33: MI vs SRH - Match Highlights  IPL T20"
+            ],
+            "tldr": "IPL 2025 M33: MI vs SRH - Match Highlights  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1778311612623",
+          "title": "BCCI cracks down on IPL ‘reel culture’; players and families warned",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Commentators Reprimanded, Players & Families Warned As BCCI, Franchises Begin Crackdown On Social-Media Practices That Invite Potential Anti-Corruption Breaches",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Commentators Reprimanded, Players & Families Warned As BCCI, Franchises Begin Crackdown On Social-Media Practices That Invite Potential Anti-Corruption Breaches"
+            ],
+            "tldr": "Commentators Reprimanded, Players & Families Warned As BCCI, Franchises Begin Cr"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1778311612623",
+          "title": "Krunal Pandya Interview: ‘Nothing bigger than playing for the country'",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "Krunal Pandya reflects on his 11-season IPL journey, crediting adaptability, fitness and constant reinvention for his longevity and success with Royal Challengers Bengaluru. The left-arm spinner discusses refining his bowling for bounce and deception, embracing challenges, and staying driven by an ambition to return to India’s national team. Gratitude, resilience and evolution remain central to his career and mindset.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Krunal Pandya reflects on his 11-season IPL journey, crediting adaptability, fitness and constant reinvention for his longevity and success with Royal Challengers Bengaluru.",
+              "The left-arm spinner discusses refining his bowling for bounce and deception, embracing challenges, and staying driven by an ambition to return to India’s national team.",
+              "Gratitude, resilience and evolution remain central to his career and mindset."
+            ],
+            "tldr": "Krunal Pandya reflects on his 11-season IPL journey, crediting adaptability, fit"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1778311611053",
+          "title": "Mandale Metro Depot Receives EPC World Award, Marks Milestone In Mumbai’s Metro Expansion - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOWNyd2o3SUtucVpDb2pOSzh1RGVMa3ktWHk4MEtONnRkUmxGbkFYcHdGYjZiSHcxTHdZNWJ4SHJHT0didFQzQ0tKZVhfMHgzeVNTQTU1MjRTQmticERLZi1PWjc2SEg1NGk3TDlNek95STFWa19xenhIWUh4Vzhad3FicDlMU0lhOHNQaGYzRU1rUDYxQl9rS2hBNldYUU5LZjBKLVNna1ZpRnpWMlFFUDFCQlY2cVRiR2lXaV9PRWpJaTIy0gHKAUFVX3lxTE9zSk5BOWxPTHhaR2ZrazJsVzlkS1hOSGhxbDdiOTZkRDhKRm4tZHR6Rnk4SDVwNEx6ZVMtWGlxZ0JBMm9LVl9BV28yS1NnS1RkdnN5a3BFRTk2Q2c3dnZBY2pRUGxSQjdELUc1dXdsbXp4cXB5UVFMdmpDaHA0dkJiN1JVcndNalZoY1RSTHRGNVRHVmlTZnk0OXBqeDd5ckJ2V0JOaEUwZHdDQVM4QlAtVm5uejdzRzdxN2ZrSUxHN3d3SWtJQTNkRUE?oc=5",
+          "time": "16h ago",
+          "body": "Mandale Metro Depot Receives EPC World Award, Marks Milestone In Mumbai’s Metro Expansion  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mandale Metro Depot Receives EPC World Award, Marks Milestone In Mumbai’s Metro Expansion Free Press Journal"
+            ],
+            "tldr": "Mandale Metro Depot Receives EPC World Award, Marks Milestone In Mumbai’s Metro "
+          }
+        },
+        {
+          "id": "mumbai-city-5-1778311611053",
+          "title": "DGE Tamil Nadu Publishes Detailed Timetable For Class 11th And 12th Supplementary Exams 2026 - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcm9wXy0yR2lSSU83aHhybmd0ajVTVU9tLWxrbWNSTTgyc0FtVXh5TGhhdVJrSnZfT2x2VWxtSFRWZEdoZzNoUm9VSzVnYXIxeFkwRWppMXU4ZVdTbmV3OEhRM3hOWnJiOTJTelFHNDNjU2diNnp4bEhhUmQzXzlvQjRob3N1VmFkLTBQUHRIZkJfS0M3NXljRlhWNlNfcGxFQTRYLUVJa2I3ODlDSXdWVnFqYkYyWjZySngxMlkyZmNlZ1hEYkxEazJJM1R3bm_SAdQBQVVfeXFMTzlzWmhFV3FJZG54NU93ZmhrbVZVRGxCVHhkN0NPYXBXdE45ZVdMUDE5LW9RR2hEYmg4aUpVbHY3ZnZmSDBLdVR1blpISWdQOHdqUHZycjVsSjg5aHFhYTdYWUh5UFJXQlhZamhDempWNUUzUTVQUG9GSXlhazBud0dUNDJ6d3gtcVprRlVQb2N2U2xTSGlMRDg0R24tclNhVk12NDJ0VlpVRlhBVnV2YUtBRmZTNWdEWXBFdnAzZGotbHFTMDk2RXJMWlRkS2VfVWJoWmU?oc=5",
+          "time": "Just now",
+          "body": "DGE Tamil Nadu Publishes Detailed Timetable For Class 11th And 12th Supplementary Exams 2026  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DGE Tamil Nadu Publishes Detailed Timetable For Class 11th And 12th Supplementary Exams 2026 Free Press Journal"
+            ],
+            "tldr": "DGE Tamil Nadu Publishes Detailed Timetable For Class 11th And 12th Supplementar"
+          }
+        },
+        {
+          "id": "mumbai-city-6-1778311611053",
+          "title": "Pakistan To Get $1.32 Billion From IMF Despite India’s Objections - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTURnb191S2U3cFVpNW10dDEyUTI4dXNpb3FxRWZWeE5iUm5TcVpMakdxdDIzTDBINDZoODRFakdJdW1FQTRTbFBreGo4T3dMVjlGUGgza3JwYzVNaXFBVFhxcURmVnMwbnNJT21kSTc0dENvb0RtckM2Wm5DeXpDY2d5LU5ENEVCZEZocWdQMEdhRDNmb2tpcFdUbjduQXNYVmhVd19B0gGrAUFVX3lxTE12Vl93OURvQ200U2ZOSHpFSWhjVjQzbXFOc0NYYXVXS3pHMlU4cTZsNHFNWjNfMk1vVlZoTS1zZXRpajdfMVgxRlZnMFlZcmJoMG1WNXJzSVBHUW5yNVJMc2NxcFZQMktNcnlGemhmN0RVQzAwdHowMi1UTDJsYmtjeTM5RVB3UC1aTGpsY1Fral9PRHdIaXFxcmplakpwQU9VTnhEVFNpa1Fpaw?oc=5",
+          "time": "1h ago",
+          "body": "Pakistan To Get $1.32 Billion From IMF Despite India’s Objections  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pakistan To Get $1.32 Billion From IMF Despite India’s Objections Free Press Journal"
+            ],
+            "tldr": "Pakistan To Get $1.32 Billion From IMF Despite India’s Objections Free Press Jou"
+          }
+        },
+        {
+          "id": "mumbai-city-8-1778311611053",
+          "title": "Mumbai: Mahim, Matunga Residents Struggle As BEST Faces Heat Over Repeated Power Cuts - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzlSaXFIZy1uamd1NGkzNmkzVEdkLWROcUxNc2ZvODJQWkM3aEhkZE9YNFVhTVk5MTFHWlRsOV9lbktvd0F5QUM3b0pBZkRSaW8yXzZGWl9pZUNPWUxzZEFZajlac1Rzb21Pc1VPel9oNjdJSE1PYWFIMkUtejlfLVRtQTJlVEpSSG93Q2ZCQUZJT3pDNkl1T1VENGFxWE4wZVIxZWo4TS1zTVMtT2RpMm12R0VRSnpDbTRJRUtuUdIBxAFBVV95cUxOeDVzNnBTaVlJMjVrc2kyZ0ZIaF8tcU5pd3NYZnFKdWU2SnhMQ3ZVc2VjdnozR3l6UXhfVmcxRGQwMWp4Y1Z3dDlINlNQQU5WellranB4MVFuNjhrbHl6aE5zQXF0NHZweXFqMFRjbF9ERmVaN2ZNWUYtZ29McVVVelREby1KTURQZkhCMGN1RzZZVDQxZWxDWTlidnZOaFpMY2dtbVB0Y1RRNXNQUXlFcjJia3Rrd1R6b0FFdlQ2WWxRYjRm?oc=5",
+          "time": "23h ago",
+          "body": "Mumbai: Mahim, Matunga Residents Struggle As BEST Faces Heat Over Repeated Power Cuts  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai: Mahim, Matunga Residents Struggle As BEST Faces Heat Over Repeated Power Cuts Free Press Journal"
+            ],
+            "tldr": "Mumbai: Mahim, Matunga Residents Struggle As BEST Faces Heat Over Repeated Power"
+          }
+        },
+        {
+          "id": "mumbai-city-9-1778311611053",
+          "title": "UGC-NET June 2026 Exam: NTA Issues Advisory For Online Application Submission - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR193elZqZXRkMzNJa0tMQUZhSll5b3duQVQwSE53MDNPRmJaaC03OExMLTh6eUZtaklmT0Y4UHBJSXdZTmlaRnVhR1ExOHZYSC1rZWF2ZEN6b2hjTTBtV296MXkybjdUcmdKWXVTTVZqT1dCN3dFTWpZMGJxTmh1YmNyM0gxRmNQZEs2aGxPU0I4bkhkdS1zbl9sa3NVLVFwWFZKMF9NLUJoVlFwOUZTSTFaekE4WkVzTGfSAb8BQVVfeXFMUHFoUG1FLTJZOS1ZazFwZDdKMnd3QWdSeFI0TnZOOWliT2JjeDRQVG5xZnlOc19zOXhrODlRZDlxSEtDb0U1a2FKX1dfMWJDbXhZYlVwbmlNcENjVHBBekNsdXlobTRVQnZ0amIxT1h3Yl8tc0U2MWJuUFBYXzVCR0NmcHU2dHVPbkdvbVh4NFd4UDEwNXRqSnM4aUFJNVVlVGFseHlCX2VIYlpNZjUzRVpIQ1laNjU2Nm9BdGVnVVE?oc=5",
+          "time": "21h ago",
+          "body": "UGC-NET June 2026 Exam: NTA Issues Advisory For Online Application Submission  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "UGC-NET June 2026 Exam: NTA Issues Advisory For Online Application Submission Free Press Journal"
+            ],
+            "tldr": "UGC-NET June 2026 Exam: NTA Issues Advisory For Online Application Submission Fr"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1778311611219",
+          "title": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again. [object Object]"
+            ],
+            "tldr": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afrai"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1778311611219",
+          "title": "Brampton high school team with several Indian-origin teens beats 23,000 students worldwide to win prestigious space contest",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the top prize in the 2026 Gerard K. O’Neill Space Settlement Contest. Their innovative 'Saoirse' project proposed a self-sustaining settlement for 10,000 residents at the Mars-Sun L2 Lagrange point. This marks a historic first for a Canadian team in this prestigious global aerospace competition.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the top prize in the 2026 Gerard K.",
+              "Their innovative 'Saoirse' project proposed a self-sustaining settlement for 10,000 residents at the Mars-Sun L2 Lagrange point.",
+              "This marks a historic first for a Canadian team in this prestigious global aerospace competition."
+            ],
+            "tldr": "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the…"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1778311611219",
+          "title": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother. [object Object]"
+            ],
+            "tldr": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see"
+          }
+        }
+      ]
     },
     "aurangabad": {
-      "city": []
+      "city": [
+        {
+          "id": "aurangabad-city-0-1778311612604",
+          "title": "Maharashtra Board 2026 Class 10th Results: ‘Latur Pattern’ still dominates perfect scores in SSC - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOGtqbzRGTzA2SnVuMlhIbDcwVGJiQXl0Z2NiUl85MGZHV0RlUjNyQlJZcWYxRGl6a05hRmZQbHptQjdsN0JtVE1wdVVXZW9UZ0FHRG9LbHljU1RQMHJ2M21fNlF4Z0lFNXNIdXFsYlpCWG1KREtLVTRYUnZ1TEs0bGRXeHZCZ21LVm41YVhRaGRXeUs4Y181bXFoNU5oV2Rmazd2NnJJLVF5X0JlalJmSy1KNDV5TGlqTzg5cHhiNHktS3NJZGFHY2NfNFNOamhBV0ZUWXd6NGZYYWpxa05BX9IB5wFBVV95cUxOazhkMUloQUZwa0k4dnFOdkFtaUllYkJjeDlVNHMyLVJ3WktkemlYR2ttbTdqNV9NOG5yLWV5aGllRTNQdmZQOVd3RFFmNVRVVi10MU5GTGdHaXdFbkdjT3FUR0tPUWljN3ZBMjlwdjBON1UwWi1JUl83bUtXd215eUF1ckdaTWtoSWMtc0lkT01lX3pCYzRnLW16RzZQbEhNQ3lBNkY1QmtZZFZBYURBNXZQQjNyZEQtS250bFFVQ2VDNEhqMkxQZmt0YjAwby11QmVxX1Q3RTRjcE9acm93Q2gzbWExczA?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra Board 2026 Class 10th Results: ‘Latur Pattern’ still dominates perfect scores in SSC  The Indian Express",
+          "category": "sports",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Board 2026 Class 10th Results: ‘Latur Pattern’ still dominates perfect scores in SSC The Indian Express"
+            ],
+            "tldr": "Maharashtra Board 2026 Class 10th Results: ‘Latur Pattern’ still dominates perfe"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1778311612604",
+          "title": "AIMIM corporator sheltered absconding TCS accused Nida Khan, claim police in Nashik conversion probe - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVmxyQ1hsVHA2M3hKeldzSFlrY2wyUUgzYUZoNVNLM2hiN29IeXhpWG9mRGVKM3J4Y3d0b25Xd0IwMXJZMTRYOXZGNTdLam9GQjNVSHVfU2x1NWFOUUpUT1ZjODdmRmRiLXl5NzQyQWdQaGlzM1JmUE5zUHE0R2g3TU43RGc4UEJkeFZWb016UEhsQ1V3dVJWNS1lV0QzQm82NWZ3Vmo0bE84WEVwT0lSNXRXdG5VZGxnVVZDd09sRnF0VzhEMHpDZjBFbjV5dHd2Mm5zNHF6RnlrWEFLdlJaS2ZFOFpwNkFqMU90SW5GcXNDVUVKT2liNF9GYVRfcV9HYVYw0gGDAkFVX3lxTE5WbHJDWGxUcDYzeEp6V3NIWWtjbDJRSDNhRmg1U0szaGI3b0h5eGlYb2ZEZUozcnhjd3Rvbld3QjAxclkxNFg5dkY1N0tqb0ZCM1VIdV9TbHU1YU5RSlRPVmM4N2ZGZGIteXk3NDJBZ1BoaXMzUmZQTnNQcTRHaDdNTjdEZzhQQmR4VlZvTXpQSGxDVXd1UlY1LWVXRDNCbzY1ZndWajRsTzhYRXBPSVI1dFd0blVkbGdVVkN3T2xGcXRXOEQwekNmMEVuNXl0d3YybnM0cXpGeWtYQUt2UlpLZkU4WnA2QWoxT3RJbkZxc0NVRUpPaWI0X0ZhVF9xX0dhVjA?oc=5",
+          "time": "12h ago",
+          "body": "AIMIM corporator sheltered absconding TCS accused Nida Khan, claim police in Nashik conversion probe  The New Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "AIMIM corporator sheltered absconding TCS accused Nida Khan, claim police in Nashik conversion probe The New Indian Express"
+            ],
+            "tldr": "AIMIM corporator sheltered absconding TCS accused Nida Khan, claim police in Nas"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1778311612604",
+          "title": "TCS Nashik case: Maharashtra Minister Shirsat claims AIMIM corporator sheltered Nida Khan, calls Imtiaz Ja - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQXVBQlFLR2JGemJUU2VxNDNCaGdZd25xN0NOSU9iWFFMWHNYNUlOTU5LSjFWN205akpXY0g1ejBDMDhyRGFFU0pwNkhnakRRTVZzVmRXRzFWN3VNY1pBTlVPZWtHNEdjQVQ0OGMzeXhENS15V3dZOWNRQTF1SE9XelZ6NERuNjhaWDZYMmJqazNGSGN1TEo3UzZWazd6Tm9KTUtiVFRWUEF6NjI5RG5JbTlPRWlXbXRhSm94VklOZFFTdnI4cW1fQWJzUW1JcVBFUVFackJjcnBTak1JSV9pVF95RWp5UVhKS1loOVlFcXNZM2w3Rzk5TjBUekZCVFVTODk0cUVDWTY3Z0ZldkVCYUFqV1lPSTloSVHSAZoCQVVfeXFMTUF1QUJRS0diRnpiVFNlcTQzQmhnWXducTdDTklPYlhRTFhzWDVJTk1OS0oxVjdtOWpKV2NINXowQzA4ckRhRVNKcDZIZ2pEUU1Wc1ZkV0cxVjd1TWNaQU5VT2VrRzRHY0FUNDhjM3l4RDUteVd3WTljUUExdUhPV3pWejREbjY4Wlg2WDJiamszRkhjdUxKN1M2Vms3ek5vSk1LYlRUVlBBejYyOURuSW05T0VpV210YUpveFZJTmRRU3ZyOHFtX0Fic1FtSXFQRVFRWnJCY3JwU2pNSUlfaVRfeUVqeVFYSktZaDlZRXFzWTNsN0c5OU4wVHpGQlRVUzg5NHFFQ1k2N2dGZXZFQmFBaldZT0k5aElR?oc=5",
+          "time": "4h ago",
+          "body": "TCS Nashik case: Maharashtra Minister Shirsat claims AIMIM corporator sheltered Nida Khan, calls Imtiaz Ja  The Economic Times",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS Nashik case: Maharashtra Minister Shirsat claims AIMIM corporator sheltered Nida Khan, calls Imtiaz Ja The Economic Times"
+            ],
+            "tldr": "TCS Nashik case: Maharashtra Minister Shirsat claims AIMIM corporator sheltered "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1778311612604",
+          "title": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 09 May 2026 - ET Now",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSNVl2RGJGdjF3dTN3ZnFta0pCa3VfNGhMLXBxUHVzSjlLT2J1QUxvLWZpbzBRa1dNbDhqcUYxRXJlbHp0MFRQTmpTeFZRbjZJbm84elJqVkpERHM4MWhsQjVR?oc=5",
+          "time": "7h ago",
+          "body": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 09 May 2026  ET Now",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 09 May 2026 ET Now"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 09 May 2026 "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1778311612604",
+          "title": "Maharashtra Currency Shortage: Chavan Writes to RBI - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYUVfWnFmMy1zUU9WanhqWWRuVncwQWZ6ME1TSUM1ZV9iZk5JdzNPYnhuckVXVTlaTWs2ZGh0VDNNRUotb01VRzFRa28zYWJiMFV6ZUxpUzdnNVF3dEcxM1FicUwycTA0ZVRCYUt1UGd3WldkZHdRUmxlMndEX2hNamw3YmlxQ3VCajU2SjVaWlpJYnJROXE5VHB5QWxNVjJITGZHcTQ5Ml84d9IBqgFBVV95cUxPYUVfWnFmMy1zUU9WanhqWWRuVncwQWZ6ME1TSUM1ZV9iZk5JdzNPYnhuckVXVTlaTWs2ZGh0VDNNRUotb01VRzFRa28zYWJiMFV6ZUxpUzdnNVF3dEcxM1FicUwycTA0ZVRCYUt1UGd3WldkZHdRUmxlMndEX2hNamw3YmlxQ3VCajU2SjVaWlpJYnJROXE5VHB5QWxNVjJITGZHcTQ5Ml84dw?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra Currency Shortage: Chavan Writes to RBI  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Currency Shortage: Chavan Writes to RBI Rediff MoneyWiz"
+            ],
+            "tldr": "Maharashtra Currency Shortage: Chavan Writes to RBI Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1778311612604",
+          "title": "SSC pass percentage in Maharashtra drops for third consecutive year - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlcyZERZSUM1dEx6WmtTRHl0OWp3cV9mdmNWbTNoOW9DWG9jTnR6X0ZxQlgxS2xxdXZ3NFk1TkpjM3hZUnhrYVNLNENsbzNETjdsblFLNVFISVpzQS1MZU1ZaS1iSnNVRENMMkRvUDJlNU1RZTA3T0xOa19oaVo4NmFrcm4ySklJOVloU05YWnJ4UUIwRDZtUmlWbzk3Nk5LazlkU1RQVXdtOGhweEQ5eWpPdEF1enZYN3o5TnpINzc0VnJRTmd5QWJHNUp3d2NwbHhKMDU2SjNTb3fSAdsBQVVfeXFMTlJXMmREWUlDNXRMelprU0R5dDlqd3FfZnZjVm0zaDlvQ1hvY050el9GcUJYMUtscXV2dzRZNU5KYzN4WVJ4a2FTSzRDbG8zRE43bG5RSzVRSElac0EtTGVNWWktYkpzVURDTDJEb1AyZTVNUWUwN09MTmtfaGlaODZha3JuMkpJSTlZaFNOWFpyeFFCMEQ2bVJpVm85NzZOS2s5ZFNUUFV3bThocHhEOXlqT3RBdXp2WDd6OU56SDc3NFZyUU5neUFiRzVKd3djcGx4SjA1NkozU293?oc=5",
+          "time": "12h ago",
+          "body": "SSC pass percentage in Maharashtra drops for third consecutive year  The Hindu",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "SSC pass percentage in Maharashtra drops for third consecutive year The Hindu"
+            ],
+            "tldr": "SSC pass percentage in Maharashtra drops for third consecutive year The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1778311612604",
+          "title": "TCS employee Nida Khan arrested in Nashik; AIMIM leader accused of sheltering her - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2FUMnMzWU9HRGFDal9YOGpMbHdSc3dSajN3NmZDNW9EUEFMT3EtcmpVdEpJbTdhN3NSVE1NT0Z5X1lhb1dtVzl3cjMySXFQNWh0U21zbjNEMGtUQnZicGxQaUNSUVhiS2xLTGN6T0VxdFJnNFA5T2ZFLXNWa2ozODhZalZYTUNqdTQ1S3Z4REhxWUN1QlJ0amQzbzVsREprY2JWZDFIZmRlc2NHREtuSUhZTHBvRWtqQk9BcWZFcm9CUng4Y3BMOWNBYUxCcmVQQ3VXaHpQMTFXQndJM1UtU3hzUHYxQklDVHJuX1V3aFhjSTB6d0tIdDVFazM1UdIBgwJBVV95cUxQMFkwXzZaU3VKRlROS1Nqb21aemg4TVNMcjkzTDdWYXNZaW80VmN4VDlWOE1vc1I5SWhIcjZ6RVE1aExaSl9KaVJTVkkzbUtROXhRUGhEZlB0MlUwNjdHbGdkQ3Z0MVJGVFA4N2pLZ3piZ21naTJ0NFdEUXN3Yk4taGNHQmV6VmVRdWlERnY5cnlLQ3k5UktmMXJPZ2lYc1puOVd2dVg3ODExN2tMWHVMNUUyNkx3RkJHbUt1dlFrVzRWN0ZDM0Vid2pGUzJQSHBHLTVQbExNNUs2RzhQckRWWkdsQWVLTGdCM0dTckJQX0xTS0dIejd0cTY3WXJUaEo0YWo4?oc=5",
+          "time": "15h ago",
+          "body": "TCS employee Nida Khan arrested in Nashik; AIMIM leader accused of sheltering her  Mid-day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS employee Nida Khan arrested in Nashik; AIMIM leader accused of sheltering her Mid-day"
+            ],
+            "tldr": "TCS employee Nida Khan arrested in Nashik; AIMIM leader accused of sheltering he"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1778311612604",
+          "title": "TCS Nashik Case: Maharashtra Minister Claims AIMIM Corporator Sheltered Nida Khan, Calls Imtiaz Jaleel 'Main Culprit' - Republic World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ2xQdFBWN19GZHZsci1yREJXZmdFakd0WGFJcXdnQXdjVGZuQUFCcVIwNUphMkRNemZZSmpOanNBODFnYVRsLWNJXzJtclp4ZjM1OUd0QVBMTWUxdU5vR2VHQ2JCbzc3X210Tkp4TW95b3o2YTJnMjU2WGx1dHFqNFJueWdkQUh4UUxOazBNOEVWeUo4NTAzQmtpTFNmQlpQdnFZRUlNSnU4WG4ycXh4bW5oNFkwZFVBeDhuelhmLU1CUTVZbFA4Nk96UG9zWjhuZG8wRjk5ZFVzRE1CaE5YUDdBRllucG1kYnlUb2J2bmFMRlFQNkU0UWE1UlhvYXZY0gGAAkFVX3lxTE1nbFB0UFY3X0ZkdmxyLXJEQldmZ0VqR3RYYUlxd2dBd2NUZm5BQUJxUjA1SmEyRE16ZllKak5qc0E4MWdhVGwtY0lfMm1yWnhmMzU5R3RBUExNZTF1Tm9HZUdDYkJvNzdfbXROSnhNb3lvejZhMmcyNTZYbHV0cWo0Um55Z2RBSHhRTE5rME04RVZ5Sjg1MDNCa2lMU2ZCWlB2cVlFSU1KdThYbjJxeHhtbmg0WTBkVUF4OG56WGYtTUJRNVlsUDg2T3pQb3NaOG5kbzBGOTlkVXNETUJoTlhQN0FGWW5wbWRieVRvYnZuYUxGUVA2RTRRYTVSWG9hdlg?oc=5",
+          "time": "3h ago",
+          "body": "TCS Nashik Case: Maharashtra Minister Claims AIMIM Corporator Sheltered Nida Khan, Calls Imtiaz Jaleel 'Main Culprit'  Republic World",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS Nashik Case: Maharashtra Minister Claims AIMIM Corporator Sheltered Nida Khan, Calls Imtiaz Jaleel 'Main Culprit' Republic World"
+            ],
+            "tldr": "TCS Nashik Case: Maharashtra Minister Claims AIMIM Corporator Sheltered Nida Kha"
+          }
+        }
+      ]
     }
   }
 }
