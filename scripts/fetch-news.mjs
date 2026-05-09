@@ -151,6 +151,8 @@ async function fetchFeed(feed) {
         title, source: feed.source, sourceUrl: link,
         time: timeAgo(pubDate), body,
         category: classify(title, desc, feed.hint),
+        city: feed.city,   // ← this was missing
+        category: classify(title, desc, feed.hint),
         summary: { bullets, tldr },
       }
     }).filter(Boolean)
