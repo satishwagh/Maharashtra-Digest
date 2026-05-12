@@ -1,0 +1,798 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T05:07:22.748Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1778562436686",
+          "title": "Amity University students move Maharashtra government over alleged food safety lapses - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNWdTcHJRcVNGM1BYa2RqRWxHR0ZLWC1wenVlcEZLZS1nU2twclR6VkxWTEFWMW5yWktnc1RiRFFTM2NyNkpQTFFGMnYxRUV6bWZYX3hULWV3bEROdkV3cHBqamtKc2JyX0M3eVRJaDJOMnB6TlFvVG8wTmFxZkd1WVdGSk9MRnJUUFdWTHI5c0lhWWNneXNFWmY3aDlyOU9ZVzA5aFUxR0lnR0RjNGJEVVh0MV8yWUxNYS1IZVg5cXpoS0dwWEh6NkE2YW1aNUdUMVJ1YUNiVdIB3AFBVV95cUxNY0JSRlgwdFQ3c3k5S1d6U2xQQnIyN3dJSDgyZk00XzRJWkQ0dlJVdTdxRjVLemVsNWFtajg2V3pjbW5WeGlfMXlBdGZvRlpscEQwaFJRTEJSRjN3eFRpNkR0bWl3OEg5enBTSWZ4Wjc1cWVPb1pkRXZHQ2hXY21BaXdXNl9lQWNaUE4zOWFFNGh0QkM4aC05WFpvRDEzOVU4akxGMERSSEIxUzVTdUJsSm5oeUExU2JkVVg4eVZUVnh6VVIwb3pmdkZfYnRDV180NUZ2SmZTa09nd1JG?oc=5",
+          "time": "1h ago",
+          "body": "Amity University students move Maharashtra government over alleged food safety lapses  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Amity University students move Maharashtra government over alleged food safety lapses Mid-day"
+            ],
+            "tldr": "Amity University students move Maharashtra government over alleged food safety l"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1778562436686",
+          "title": "Maharashtra removes 69 lakh women from Ladki Bahin scheme after verification drive - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQW9FT09MS2FBQTZEWGg1eFdvRWZpQXhKU0pwSEFoLTBVdnZvM2J6YW1tV1N5eXNLaHJrNUJtT1lVbS1HZ1hfSklRMF93QXRNaXVYRVZxWGl3TnE3ZWllSEtYb3dvT0hwZ3phU1pUWXAyelgzWGZHbXJDUWlLS2h1RjkzRkhFNWVSRWVKV2FtT1RiVzlZaGNzbUxHN1I5MnBVLVdfVVNyUzBxMWRRaTZpRmRRM2RyTGt4S0k0MzlRMS1jZlpycFR0ME43Z2NRbnp1SVltckhlYWNMRG9hYndN0gHsAUFVX3lxTE5xcEpfSWl4bFdUd1ZpV250b3ZGNHJ0TzBoOTRvbi11RlFZZ1F2Q2RfNlhwSnhDVmFQSDVXc1BNb3NWck8ybVVzUjJTZk1hYkU2eEFfSHpzNkhuN0hBcXJkSnBSSy02MDFsYWRLTDkyV0NsR2QxNUZKTUJvbklGTjZtdjk4ZVRTVm9yWDNISTlLVUQwWk5lTVI0WEgzN1NkX0s1aWFlRmx0V1F1RHk0R3VlZ01iR0o0aGZCaTZweUdFMWJoRHhiLU9CclAxUmFYYWNJUjQxbjI4ODJFOTd0TDA3NmM2b2p2cUgzN3gt?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra removes 69 lakh women from Ladki Bahin scheme after verification drive  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra removes 69 lakh women from Ladki Bahin scheme after verification drive The New Indian Express"
+            ],
+            "tldr": "Maharashtra removes 69 lakh women from Ladki Bahin scheme after verification dri"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1778562436686",
+          "title": "Maharashtra govt plans new incentives to strengthen film industry - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRGphem9NdzNwbTg2azY3ejNDYy1ockxtVF96WWdnaVJRU1BLa2pfOFhFaDZzSlBvQjhtdWRrVzJVRm5oX3dPYXVNZmF4am16Q3NxNm94V3dyZEQxaDRVcmowUFdIOC0xWTlEOE9nYW43dDZHTkk5aGVCYjFLNDc1YXE2T3l5WFFjcVZTUjJTMFdTdFlCcTYzejVGcHo3N29EUU9XRk9sdXZBLUUzNVBvb1l3bDVLVzlmSXdfVExVOENMUTJFOWk1Mi0wRzg1MTFTZkJhSHE5YjRrMGVnTk11ZHN4RU54Znc2XzhKVFNZQjVvMG5m0gH6AUFVX3lxTE5kanZGWk8wRGx0NU9WVEhJNU1vY3pyeGtVTDE5OTZnNTlzRS1mbVNaYkRWNXMyRVZaZV9YdXhkRlVnYzM3OENoV3k3OVVpSTlXaGZhbmhCVF9LdmpwelVGRTZad3lSc3liRVE3bFFKaXFfa2dHTXFzT1cwQ1p5eVJTMXh5aTJLM1ZrU1JITUkyNEp3bzJRQlBtaDZoTFVsN2h6NWRJUG9xTUpnVXoyXzNrQVhpaUZJRVJNbnVRa2pVTTd0OElicmU5d3ZpUVdPbVgzR3Q4aVZRX09BQzRydXZ3SzlWNVVXMl9LUURsMlhHSlNwQTlSbm9JM3c?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt plans new incentives to strengthen film industry  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt plans new incentives to strengthen film industry The Times of India"
+            ],
+            "tldr": "Maharashtra govt plans new incentives to strengthen film industry The Times of I"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1778562436686",
+          "title": "\"People of Assam voted for development:\" Maharashtra Dy CM Shinde congratulates Himanta Biswa Sarma for his third-term win - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSTFfLTBnakpVTW00eTV3ZXFOa3habDUxR2VXTy00S215S0d0TVVjSnBENWUxeEhhbTIwaUVCMTNNNGdlTHlOWkxGdC1GbUhBQ1g1R0dOZ0ItUm9QeTVYRWtWdHhEMUllaDU2M2lVcDhOSFVBUmdiZTlxTnpTazFlc3dGaXJCajNMdEY0dEhGWGpGbDJCRDlCM19SdlU1b1ZZNENheXcwSE1qMEk1WHNLd0hxQW5PS1dOUzdXMVlaM0lteXRmM2NYaHNuWlBCZTAweEFlOXNlb21TSmp2NEdOcWljdFJTZ3BHeHdmUzdQdnBzZERseUlMZDYzX3dNNVJGdWVobUczQS1pM1k?oc=5",
+          "time": "7h ago",
+          "body": "\"People of Assam voted for development:\" Maharashtra Dy CM Shinde congratulates Himanta Biswa Sarma for his third-term win  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"People of Assam voted for development:\" Maharashtra Dy CM Shinde congratulates Himanta Biswa Sarma for his third-term win ANI News"
+            ],
+            "tldr": "\"People of Assam voted for development:\" Maharashtra Dy CM Shinde congratulates "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1778562436686",
+          "title": "No knee-jerk policy changes in Maharashtra despite govt shifts: CM Fadnavis at CII Summit - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeklTTU9BWDJmUW5GWVlXaHlYX2VtSXQ2bGk4VHdndnppOElzTmd4TzdSb0tTczgzQnB2em5tRmwzc09zVm9uRkJfRlZtZGJHVVZvc1JSQU82cm9hbkZQTU5qNjlsX2Q0RE1qa1d6RFdrSVJKeWk3QVhqMkdaYzNvOTdnTjlHWjJaOXB0czY4WVNOcUt5VnNXNjd1RDd5VzB2a2dZSWRwSW5yR1pCUVl5YU5JNkVWUDE2bFF1TDdiMkhMQktG0gHKAUFVX3lxTFBKSDZHenFnbER2bkN3OHc5Q2prNXlhNDBFeHFBdUFuN2tJRmdqUkgwT0VjMFlGOTM1V2FKQm5QclJpR09Jc0w4aHByeEMwMVllejRVT2ZBQkpRUm10cXpzT1FTRmkyZGQtTmRIREdGX194Tk5oZlpEZ3QwT0YxTUM2TjBvR0JncTFIV2VNSEltM21ZM0FpYmlMRmJqMUNEcnZQUmZQeWdDa2REOHhfTjQwUVNwb05YWmI2RkQwNkJFVjZCT2JRTFN5Tmc?oc=5",
+          "time": "2h ago",
+          "body": "No knee-jerk policy changes in Maharashtra despite govt shifts: CM Fadnavis at CII Summit  lokmattimes.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No knee-jerk policy changes in Maharashtra despite govt shifts: CM Fadnavis at CII Summit lokmattimes.com"
+            ],
+            "tldr": "No knee-jerk policy changes in Maharashtra despite govt shifts: CM Fadnavis at C"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1778562436686",
+          "title": "Mumbai: Maharashtra Government to Frame New Incentive Policy for Film Industry - Mumbai Live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzdEX1FqNjVDalFtTzN2RWJ5QXRoVE05cmVmd0xKcHkyOWJrRVYyZXZEbUh0Q09YMHVOMDRSNjNNUGJlOUhTX0w2a1hUZWRiT2R0czZhR0drZHA4Z3d2TTdxSHdkcmVVZTJIWWtHMVBrVzV6aDRwenY5QmtPOGdQaW9PZTFmUEUxRi1CMWQyNFhCcllSaW5kd3ZrVUgtSnVYUzV1c3pDU2V5OGk1OXFSdkJxcUM0N05fNmFR0gHAAUFVX3lxTE5zLVJmNU9LUkdoTUI1b0xyb2RZNWhfSlJzeGpSd1BRNFdUSXpsUzc1ZmVzNFF4c0V1dmpiV1BHOFFoaDd3MDFuRFlRb1VaUTk5TXZZMkN4MXlqcTRVU1JQWFFEYjYxYktvakY5T3E1R0ZwbEUtNXhKVFNPSnJJd2t1Ylhaa050OUVSekhoSlhJYzZQYU9XM0s1XzdRdEZoUHNMSmcxTUo2TDVXZ0F3dTZVZkVwOFFmZjFtSVlJcmYxQQ?oc=5",
+          "time": "16h ago",
+          "body": "Mumbai: Maharashtra Government to Frame New Incentive Policy for Film Industry  Mumbai Live",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai: Maharashtra Government to Frame New Incentive Policy for Film Industry Mumbai Live"
+            ],
+            "tldr": "Mumbai: Maharashtra Government to Frame New Incentive Policy for Film Industry M"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1778562436686",
+          "title": "Devendra Fadnavis heads to Delhi for high-stakes investment and industry talks - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPOHZ2d1ZoZjhiSF9kSFVwazhLa1BUcE9uWm9LbDJQMW9aOVlHMHUwT3MyaGVJaHhKYVVGM1dsVjR0VlUtbmVjWEZ5bmZVTEoteHN5UER1RU1DdUp1Wl9QUGxjcFVwNno0R3RFUEJxS3BSYTlsdnRqbUctVi1TckpVWmRKY09HdjBiVVF1bUpVZzFZTGFFYko0V3lrc2ROXzZfblV0QlQtNW04R3VLTnJpcGRodVQteG9xQWtVQjh1VGpUMXJBejlnRk5BWWk3MlVNUTVqLXRrSDloZjdKQU5yLTVNY1pQU2dwVU1GdDBlT1cxRXZKa1ZYV1pTYTRNZ0R5ajV3T3p2b2hxQV9ZaTVMNHFzdFJTZnhNSXNUSmlNdnNUMUJKVmVXSjctRnhwUmtDUU5WcXNFVlNVSGRjS21VdHhfdzRBc3puR2ZLODJEemR3WWJyUmw3RnIzdEdIRDBPdzJmM1R6MFRKVnZzX1NRN2MxU2xHM09DQjJiTEZvOA?oc=5",
+          "time": "15h ago",
+          "body": "Devendra Fadnavis heads to Delhi for high-stakes investment and industry talks  MSN",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Devendra Fadnavis heads to Delhi for high-stakes investment and industry talks MSN"
+            ],
+            "tldr": "Devendra Fadnavis heads to Delhi for high-stakes investment and industry talks M"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1778562436686",
+          "title": "Maharashtra hikes DA for IAS, IPS officers - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVdUckR5MFpYVE5EQURrd3pMRzZvVGJUVHpPbm9qZThHX3lROHRiekVoRWdhSk1UNFpKQmhRZ2RsTmJTWlNUcFE1bGpXbjFSTXJremlQSnJLdS15RVF3RDR5dWtYX2tuYnRSM0EyT0JvOW1xRnBWeXB4WVNFYVZwMmZOOA?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra hikes DA for IAS, IPS officers  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra hikes DA for IAS, IPS officers  Marksmen Daily"
+            ],
+            "tldr": "Maharashtra hikes DA for IAS, IPS officers  Marksmen Daily"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1778562436545",
+          "title": "Nifty, Sensex drop in early trade as oil prices, West Asia conflict weigh on sentiment - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzhwb2xKTDdveTZVUkFyUDVSZHpNMDlTUVRYLThLYm55ZVNBUVg4c2lOYVZrem9tb0ZlLWNWZERwa0s2Qkt2eThfNHg4Y0t2akpTdGZ2azNKTnZvaHpFc0ZKRy14aF9oUFpkdGlBX3FPV3FZbjZqNm9UZXV6MHRVYXZERTB2cHRiSE1FcUpmc1dxTEh0ZWNNUzczajE0UEVCNnFfOHZCaS1UNjhKLWVObEFsQ2hadlNCQVU0aHd1em8xT0ctbzQ3V0plNTgzak4wN2RyYy1DODF4Y1EzV1ZB0gHmAUFVX3lxTE5qcHU0UWVWZXNZSmx0OHhhamhUdFNQQXlBZHFZcF9JdVI0RU12NWY2Y0dOMjBYRDJCTHRkeDVzZEFvTVVEWWd4YjdxeDVZdHlnYl9vUS1DU0pndmRyZDh2YVZNbGg0ZVJwcFdRTTFTeHR6M2ZpcnVWSHZvSlUwNTlsWU9DWHhzWFBHc1Ywa24ydk9qaFN4Mi13c29tQ0hNM01iUkRYWDhIVDh5RnZ4MHdRNFFtY1ZhcEhWYS05Sm1sZGZ0UzlZNDU3V0I0MzNzZVI2YV9UaV95dDY2VDZ2LUV5UEJ0V0x3?oc=5",
+          "time": "Just now",
+          "body": "Nifty, Sensex drop in early trade as oil prices, West Asia conflict weigh on sentiment  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty, Sensex drop in early trade as oil prices, West Asia conflict weigh on sentiment The Hindu"
+            ],
+            "tldr": "Nifty, Sensex drop in early trade as oil prices, West Asia conflict weigh on sen"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1778562436545",
+          "title": "BSE Sensex drops over 1,300 points, closing near 76,000 - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGx3cWZ4Z19jR0t1N0FQdzA0eERRN3FHS25pbEx6MUdXckE4cXJZdEJzTkRnclF0SWF2RFcxNldpcFdPOVRqckRWTW5HSjdpWjRFckxWaW1RY0EtTnk4dzMyRXFlX3dvVmlQbVBQbFhZY0tsOUxmc3lfSFdPVlhTWHBkeU05WENzVVE?oc=5",
+          "time": "13h ago",
+          "body": "BSE Sensex drops over 1,300 points, closing near 76,000  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Sensex drops over 1,300 points, closing near 76,000 News On AIR"
+            ],
+            "tldr": "BSE Sensex drops over 1,300 points, closing near 76,000 News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1778562436545",
+          "title": "Stock Market today: Sensex, Nifty drop as crude prices surge - News9live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakd3UEIzZ3FYQWRSbWtseVhPSGhQZm1vU1VkcmlGM2ZVUGo4V09YVmZmZGR6bi1GQXlNOXcyUmxfM0c1Q0tTU1ZRU25tbExEM0ZqS2dJQW9qUU9kRjY1b3ZEek1Zdk5sdVhPNUtiMkRCZ3dMVEFRRHg2QmI5RDEyUGdjcE0zWjhQSzFIOUc0R2N3b3Q5d0x6Q21mUXlIa2FQQXJTMDdPTmNRamI2NWJSaEt4bWxSU2YxZXlDTF9VVUp5c3ZPSVHSAcsBQVVfeXFMTkxtNGJPaVlYLW56VzVUc192aEVYaWE5SXo2ZTZpUXhhMTE5QXRmRmdUUVc5a2RYS2I5YVVxdUwzZWFrRjBxdFBKUzdUNmFncjZyMC1EUGxRdnpLZGJNeVBEcmhlOENjaWV4TldHV1hxOUhQbnVCaVd1UWJFSGR2NEY1dGtNVXAyTk4yb1lXRDdReGZ3ZVdpVF9vNVRZRkItX1k0SjloWHk0WkQtVkZ1TTJOdVlFVlhJWElrbzlZSDY0aXB1NnU2eGUwVkE?oc=5",
+          "time": "1h ago",
+          "body": "Stock Market today: Sensex, Nifty drop as crude prices surge  News9live",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market today: Sensex, Nifty drop as crude prices surge News9live"
+            ],
+            "tldr": "Stock Market today: Sensex, Nifty drop as crude prices surge News9live"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1778562436545",
+          "title": "Raja Venkatraman, MarketSmith recommend five stocks for 12 May - Mint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGZQUlVBdGRDSHF6cDA4UUFCWU1mY0RSOElKY2xWaVVmMXM1UElhZG81XzY4TUhWdFVubm9JWHB0eFVwNG5NemF4dllCV2lxNXczSHRaMzJFd09la1NES2ltcGJiTU9mMm9qc2x2ZHZIakxkU00ydlBtSklYM3g3RUQxNW0weWwwNWphREVZM0NtTEx5SVRDVWhCZjFiZ3ZiQTA3bW9jbjU0VlFuRDRFb0Z4d3ZEUlpNYk4wQXA4TGJEQzFLYzlYajRwZ9IB0AFBVV95cUxPZGpCSjRiQ2xPaFZsZm50azlQRzQySUNYWkI4cEROZzg1Wkp2UlB1RjNmdUhka0FiY2EzNGdkWjMwSml3M3hkcHpCWnA2bW5vSjRMTnZXVk4tMktEWVA5b1gxT21qbGVqQlVSNEltbFdPVS1FX3p4QzRrYlZJLWtSbU1RNGZOc1UzODRzcTB4OEZZSE94YjBxOFBic3hMVmtBSkRhT0NhNnF0TEROVGJtTnFYTXFNeFU5WEx4N084eDdBLTZKTGItVi1hS2N0UEpl?oc=5",
+          "time": "2h ago",
+          "body": "Raja Venkatraman, MarketSmith recommend five stocks for 12 May  Mint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raja Venkatraman, MarketSmith recommend five stocks for 12 May Mint"
+            ],
+            "tldr": "Raja Venkatraman, MarketSmith recommend five stocks for 12 May Mint"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1778562436545",
+          "title": "Stock market: Sensex, Nifty back in green; crude prices, FII selling concerning factors - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0ZHczkyOVRYM3BkZG1wZHN5YjlISDhoYmN3VGF5SWhLeGM0dFdlTDM0ekRZVDhvZ0x5RUdIajNyZTQzMnNEai1HTUNlM1h0UTBRU1dqQjRuaWNxblNrd08yZEY4dnlSZ2JjVUpfeUw0N1kxRnFVRzRpaHREMnBwTVlmcmNmdWYtNWJFSEIzazJHa2xjV0h6MnlkOFNYM1pwTlhUSmVJWXE1eVNLS1VHdmFrcDBMVTMxclI2MnFIVkp3dDlGeXRCOUJ3aWF6RWpj?oc=5",
+          "time": "9h ago",
+          "body": "Stock market: Sensex, Nifty back in green; crude prices, FII selling concerning factors  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex, Nifty back in green; crude prices, FII selling concerning factors MSN"
+            ],
+            "tldr": "Stock market: Sensex, Nifty back in green; crude prices, FII selling concerning "
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1778562436546",
+          "title": "Sensex crashes over 1,300 pts amid rising crude oil prices - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOREZ5cjYyS2FtMTN1cFdueHdyYUMtbWFKT1ZfWXdTZ2l4eVNYREYwV0QwU1VTYkdGaWIxLTVXQVJEMnAzOThUTi1pb0ZQRFRwblNfRnZnSHg3Q09JZXBjT085TDhCdFl4dmRrQTkxaVJKWnR0RGI3VnBLNFVBVmhnZUlERVhPNzZ3c2pfMjNldlJDWjdjUmNhQmI4cHZxMEd4T2EtWVln0gGrAUFVX3lxTE13VXhmNkM0RXFfSFJqSHNQeTlIVkZvR2NzamJrMnFFcURYLTI4ajdpd1hfQWV3U1MxUGpsbHlGMWFVaThnMTlDZGx2Snlnd3YyNG4yMUhfUVFMNjM4b250czkyYjV2YzJhRWl3MjRNc2NwU1ItSEdaQzRwVTQ0OUN6Uk9yd0VCM0V2WmJyUnZJSWswWVM0UWR2WVRsYVc3Z1c1TURfZDZJRUtGUQ?oc=5",
+          "time": "11h ago",
+          "body": "Sensex crashes over 1,300 pts amid rising crude oil prices  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex crashes over 1,300 pts amid rising crude oil prices MillenniumPost"
+            ],
+            "tldr": "Sensex crashes over 1,300 pts amid rising crude oil prices MillenniumPost"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1778562436546",
+          "title": "Sensex falls over 1,300 pts as high crude oil prices, PM austerity appeal unnerve investors - Metro Vaartha",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTjI1OXN3Nk1JVVhWZUhXODVLd2JzakVJRU1iUHRXTjlveDYyMURrVVE1S2R6aE9fSEFxTHlFZmVTSVl2SVJacWpuaU5CTUhKcDl2OHVzZDBLc0lqUXk3VnZnTm5uREhqdnhiMjJVWnVacENMMTBfUTVGcGtwSFRXS3NoY0E1dk5ubGxmMTRIeDdXRzB6UDk2cXRjQV9nVHF5Q1NVV3dNa1RrUVd3S0J5SEhFZHdUSTh5dDF2Q2dSU2VKNFdRV01YWThXUFhUVFNaaFJfd0ZiaS0tT25EaTlBN9IB4AFBVV95cUxOTjI1OXN3Nk1JVVhWZUhXODVLd2JzakVJRU1iUHRXTjlveDYyMURrVVE1S2R6aE9fSEFxTHlFZmVTSVl2SVJacWpuaU5CTUhKcDl2OHVzZDBLc0lqUXk3VnZnTm5uREhqdnhiMjJVWnVacENMMTBfUTVGcGtwSFRXS3NoY0E1dk5ubGxmMTRIeDdXRzB6UDk2cXRjQV9nVHF5Q1NVV3dNa1RrUVd3S0J5SEhFZHdUSTh5dDF2Q2dSU2VKNFdRV01YWThXUFhUVFNaaFJfd0ZiaS0tT25EaTlBNw?oc=5",
+          "time": "17h ago",
+          "body": "Sensex falls over 1,300 pts as high crude oil prices, PM austerity appeal unnerve investors  Metro Vaartha",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls over 1,300 pts as high crude oil prices, PM austerity appeal unnerve investors Metro Vaartha"
+            ],
+            "tldr": "Sensex falls over 1,300 pts as high crude oil prices, PM austerity appeal unnerv"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1778562436546",
+          "title": "Sensex Tanks Over 1300 Points As Middle East Tension Intensifies - Ommcom News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDBORDg1cXJzWmJsaTgyeFNxX1lWaDdxcmgtc2ctWHczUGdteDdQMUVLSTFjSDF6d05MQi1vNkRnZGJXVnZKX1Z0LTZScUFxRUh2UUpQT0FkYk5Td1RYdFlIT3p5a1VaVnB6TmVMN1h2TXlUV3lCbHNfTk5pMVB4aGZ3OVJqc3lZZWFackRxckNBb0dibEhQRFVRLUtVSC1wV3doVg?oc=5",
+          "time": "18h ago",
+          "body": "Sensex Tanks Over 1300 Points As Middle East Tension Intensifies  Ommcom News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Tanks Over 1300 Points As Middle East Tension Intensifies Ommcom News"
+            ],
+            "tldr": "Sensex Tanks Over 1300 Points As Middle East Tension Intensifies Ommcom News"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1778562436686",
+          "title": "50 officials head to resort and spa for welfare workshop | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM2RwSGdob1hpZ3dHZ2dpQld3eVE4NkJObmdpVUxtVlFFNWVUaXpqZm8yX180WkFEejNaa3RmUUlYTW8wVWJ3dkxnTmJXQkVlSjNBTDF5alIzOThOWmZER0RnSHBHOHktRlRtZWlfMW9fRGVzWFhzQUN4eHhXUWxWRktJcFQ4a1BMNnFGX2tHQ3gtLWxsd3RTTk95TDFFblRWSEg2VEt6bzhIWlpKUjFZWUZvRnRlSFowV2VEdXJNMlZLUkdyTXc2bl9Mc9IBywFBVV95cUxQM2RwSGdob1hpZ3dHZ2dpQld3eVE4NkJObmdpVUxtVlFFNWVUaXpqZm8yX180WkFEejNaa3RmUUlYTW8wVWJ3dkxnTmJXQkVlSjNBTDF5alIzOThOWmZER0RnSHBHOHktRlRtZWlfMW9fRGVzWFhzQUN4eHhXUWxWRktJcFQ4a1BMNnFGX2tHQ3gtLWxsd3RTTk95TDFFblRWSEg2VEt6bzhIWlpKUjFZWUZvRnRlSFowV2VEdXJNMlZLUkdyTXc2bl9Mcw?oc=5",
+          "time": "5h ago",
+          "body": "50 officials head to resort and spa for welfare workshop | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "50 officials head to resort and spa for welfare workshop | Mumbai news Hindustan Times"
+            ],
+            "tldr": "50 officials head to resort and spa for welfare workshop | Mumbai news Hindustan"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1778562436686",
+          "title": "Mumbai Water Metro project to add 45 terminals across MMR under Maharashtra’s sustainable transport push - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWmpCVTBXSXJHZVotX2hJRkg2LVhtdEl5TWxoSHNTazF1c0dhd1lTNVczc2g3TXBqUzcxWnpLcVQ1NGU1RUtoM01OcWJVa1lwUG1GbmtJdjN5NDhHTXVJek00Vzh4dlc1R1BGSHlzR0FqUTJWSGlNNDBSdFd3clFNdC0wWjVuZlVDYVc3TVhMT3JxajNlUFMtbllGTXRDekNXTjlkWnA4VHdzTUhFRWY1bTVtWm5uNFM3UzQ5QXJCcVZaU2tCVG03UFRrSGF1TG1JSGV4enlnMUdPcVR3aDFzd0dMZktQTjhFNF83Nw?oc=5",
+          "time": "18h ago",
+          "body": "Mumbai Water Metro project to add 45 terminals across MMR under Maharashtra’s sustainable transport push  Prop News Time",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Water Metro project to add 45 terminals across MMR under Maharashtra’s sustainable transport push Prop News Time"
+            ],
+            "tldr": "Mumbai Water Metro project to add 45 terminals across MMR under Maharashtra’s su"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1778562438031",
+          "title": "LTM Launches SAP-Centric AI Platform to Drive Autonomous Enterprise Operations - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdE1WUE92aWlFa0F3MkFlTzBsel8zbWE5d0xHcDVrU0VsTURKVXpEZ1d5M2x4WWpETTFGeE9BWExHSGNGS1JmdEQxX3MzbzNkWk4xQzcxRER0bkRRd1hucFZDNDRRZnNjNFB1VmhaeHpWSDZremNJdjJKZHdKNWRNVDVzc3NMbC1kTC04WGlDUktNNXNpRHJydW8xdlhOd0dDTWhGM0xKTFBhVy02N2FHZTl2VXRVUFpVUXZMSXotLWF4QzdlempBMU10elRudmY0WG5GX2x5NElPeWZPTkNONGVaaktXdlcybnI5aW1hUFpHc0JxVHc?oc=5",
+          "time": "10h ago",
+          "body": "LTM Launches SAP-Centric AI Platform to Drive Autonomous Enterprise Operations  scanx.trade",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "LTM Launches SAP-Centric AI Platform to Drive Autonomous Enterprise Operations scanx.trade"
+            ],
+            "tldr": "LTM Launches SAP-Centric AI Platform to Drive Autonomous Enterprise Operations s"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1778562438031",
+          "title": "Dubai launches first AI-powered smart bus station at Mall of the Emirates with 24/7 digital services - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZWt2RGNQTGFrQ093QlVRb21sMFJkYk96a1Y5UG16bktpZ2FfWjJzQzRXaEtmeWtqQnJPU1dwM28tekZabFZNbTBxOHMtVjM3RzRGTjZoWVBSN1U2U3FRVjY4NTJlWUpBVjN6ZFIxbVc3TTR3UW1tNWVGOHpmcWpteWdqLW41cFV1R0dtZ01SLWJIaURFTFZIc21DTnJZRlBzanVPUEdLRVlnbmVTX1NpMXNXYWZTN2VWZjE3SkFyYTBSNjhIVVQ5OEhOM3lrVlNVR3pDTFRWbmxqcEZfbEp1ZjNob2lYVDJ5RGdYUFF6bzcydHQ1SUtDQWZNbkZHeGhsNDQ3RGFnNkZKTGRY0gGSAkFVX3lxTE5kTjl5cVRyRm9wa1lpaHBoQ1AweUFmUWZaeGxFZFhsWXhWY0UxVjFFVHZQdFdhd0xqZ3prRnE1STdkZ3JNeGVNcC1NU2plT1Jhd3JBMndyVE5mZnFsNklKX25xNExBd2M4MkJ6c3Y4Vlp0YmQ1R21IWUd0cFFWOVl4dVJaTTRoaHg1X3JDd3VzeV8ycUlxRHM3aWxxa09TeVItcGRyenZob2RvRm5zdU5HWTA1OG5SZUxyRDhNanJIenRNcUZPZHhUS19XRDNvXzFDRVV5TE9RbmRNMmNETFl3Y2F5andBX0ItQWVUaFNxSVFvWGVrZ3A3Z3Y2QWo4N005b1U0dHBSQlFESXZXNktjQUE?oc=5",
+          "time": "21h ago",
+          "body": "Dubai launches first AI-powered smart bus station at Mall of the Emirates with 24/7 digital services  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dubai launches first AI-powered smart bus station at Mall of the Emirates with 24/7 digital services The Times of India"
+            ],
+            "tldr": "Dubai launches first AI-powered smart bus station at Mall of the Emirates with 2"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1778562438031",
+          "title": "Top 10 AI Startups in Mumbai - Analytics Insight",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkpHOC1rV1dPQ3lLTGhERS1iTUtGUFBMelRkaHF5M3ZWUTJDTGJIUDE1b0NOVV9jeXppaW03VUFDejBndTR5bHhlXzJmd281NWx0YTF4QkxaRHMtUHJubUlPN1FLck5OejlRTFN6dm5sVWo3SXhXY3hZT0IzZEltcUhYSTVPY3PSAYcBQVVfeXFMT1ZKRzgta1dXT0N5S0xoREUtYk1LRlBQTHpUZGhxeTN2VlEyQ0xiSFAxNW9DTlVfY3l6aWltN1VBQ3owZ3U0eWx4ZV8yZndvNTVsdGExeEJMWkRzLVBybm1JTzdRS3JOTno5UUxTenZubFVqN0l4V2N4WU9CM2RJbXFIWEk1T2Nz?oc=5",
+          "time": "13h ago",
+          "body": "Top 10 AI Startups in Mumbai  Analytics Insight",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top 10 AI Startups in Mumbai  Analytics Insight"
+            ],
+            "tldr": "Top 10 AI Startups in Mumbai  Analytics Insight"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1778562438031",
+          "title": "MTW 2026 Celebrates National Technology Day with a Limited-Period 50% Pass Discount - IT Voice Media Pvt. Ltd.",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk5uQ3ZWVkcyZzBlcUotVTkyaUJ0SjQwMWNDZGZRU2xaa1o4cExERFcyZHR0ZzM0c0lDWUN3SndFVGZFY3QwNlR4LWIza3YxT2wzeU9KS08wdGtoUzFrNmtfeDd5bHNSbXdzZXA3MEtQbVdwTm9GSWtPUEtzaFlXcGVpZEpRT1ZyRHpaakN4UUZocDE0UHdzcWEyWlVXbXpOUFN0QXJpNEo?oc=5",
+          "time": "17h ago",
+          "body": "MTW 2026 Celebrates National Technology Day with a Limited-Period 50% Pass Discount  IT Voice Media Pvt. Ltd.",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MTW 2026 Celebrates National Technology Day with a Limited-Period 50% Pass Discount IT Voice Media Pvt."
+            ],
+            "tldr": "MTW 2026 Celebrates National Technology Day with a Limited-Period 50% Pass Disco"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1778562438032",
+          "title": "‘One Case One Data’: Supreme Court Unveils Nationwide Judicial Data Integration System, AI Chatbot ‘SuSahayak’ - Moneylife",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeHRidV9BMkt1UElLeElLck1rdHBFRkNBQ2ZwOUJCLUdwdDg3NkpWUTJuZnFTS184WGd1MWxILWdNLVpnNTFoeHhYQ2pkcjh4ajM4Z3dOaGFiSmtCV1N1eVpDNDJYQVhOT3ZuZ2g0aVpiYTZqbnN5NmZnZkVGUlBZem15YVV3c1lXempkQm1aSkxyVnNjVG9XV29rNU9mQkxFYUUyREd2SG9NdmxSNXNhYjJBb3A0a0NFdEltNWUtbS1rVWlYSm1YTVBQN3MyY2tpLUV3bGJNcUoyUk9FLXdzT1lR?oc=5",
+          "time": "18h ago",
+          "body": "‘One Case One Data’: Supreme Court Unveils Nationwide Judicial Data Integration System, AI Chatbot ‘SuSahayak’  Moneylife",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘One Case One Data’: Supreme Court Unveils Nationwide Judicial Data Integration System, AI Chatbot ‘SuSahayak’ Moneylife"
+            ],
+            "tldr": "‘One Case One Data’: Supreme Court Unveils Nationwide Judicial Data Integration "
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1778562438032",
+          "title": "National Technology Day 2026 | Insights From Veeam Software, Infor And Videonetics. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTBTVktwVTFXWDVwWEl0TDJDbDdSdkFnSnhSTE9QdWx6d0xJRmF4UFNfMmxhYnBEZlE4S2pfa29zdnhRRjBGOEZqZHlwRjJjOGpSMHRaQnRLTHRXNFNEaWdQbW83MHhZVmw2M3JhVVJnWUl2Zk9LM2NDcEUwdWxkcGp2SjBiLTkyUDlzUlZZUldrMXZhRWRiWFN1Yks4dndUTjZuYnNHdFRaWXRwUE9RSmVR?oc=5",
+          "time": "22h ago",
+          "body": "National Technology Day 2026 | Insights From Veeam Software, Infor And Videonetics.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "National Technology Day 2026 | Insights From Veeam Software, Infor And Videonetics."
+            ],
+            "tldr": "National Technology Day 2026 | Insights From Veeam Software, Infor And Videoneti"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-2-1778562438216",
+          "title": "IPL 2026 playoffs: Qualified teams, format and qualification scenarios - olympics.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3U0SG1KUWRDRjlxaUItdGgzdTViZU9vb2V3b0Z6aTgzVnVhOW9CTkUxTFVBY0d6LW1RcnBvSWZNS1NUTkpUOVJCZzRrd3RsODl0ZnlvZUdjem05eW9SMm9sSkEtV29jNXd4YU9LUm1LcS1UZFV2aGdXSmxvWE1yc1JCS1lUdGZVWG00QWw4ZVprSm9L?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026 playoffs: Qualified teams, format and qualification scenarios  olympics.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 playoffs: Qualified teams, format and qualification scenarios olympics.com"
+            ],
+            "tldr": "IPL 2026 playoffs: Qualified teams, format and qualification scenarios olympics."
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1778562438217",
+          "title": "Core group quite valuable for MI, can’t just keep changing: Head coach Mahela Jayawardene - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTmJHd1E4OE00TXJGeEdmbk9sY1F4YUpZQ19SQ1NPRWotSkplV1E0OTFLNU5yVVpaeGpmTEtBbzVPSnpkMkRpamVrWUdLRGk3aTNrVkw1R0FPeTRQS2x4T3VVUWRBOGI5eDJSUDlyVDZKZDFRbTAtclhfTWplMnY2SWtTc1FWSGoxM1lfQ3VPd2NlTzVkVWFRX0lLR2U5T01TVHoyaHhtUGdXa2lPUnJ6MW9HUFNmT2VxVF85MU5wSWsxVC1MaUZBSWJLd29NUjdpcXNRZy1mVmlRZXhBMzdVWmdicFg0OHoyTktJdlAtbEdRSEU3Y2dHczhUc1hCazFxaEUxdFRJMNIBjAJBVV95cUxOT0dNQkt1MlFYRDR6RHNfenFTd1RGVmcyWW1vRWZWa01WYnpvTUh1RzI2SS1sX091WEVweDhGNEJOeGdFNmpNSDd1UjN6Mk8yb1FZU2ZvVl9qaVNIeDNwWGxBcVc4OHg3YXE4MGhIaElVQ09fSXJSQkxhSEtpRC1iQXhSTXh6cDYxU1A3MGh3NHFhdXNzckM4RVpCWFdzY2RYd0RxR2NVdHRLOXJiLU9nSDFwMlotUlQ1alRSMlV0amQ4WHBPanhUVGt4UzNmOUZnaHVTV1JRU2ZOWU5QYVdjSzQtRE5TTU84anFkaU9YTlVWcnJ0T2hQQzNDaXB4RUlIRFB1SXdUTTFQcnF6?oc=5",
+          "time": "1h ago",
+          "body": "Core group quite valuable for MI, can’t just keep changing: Head coach Mahela Jayawardene  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Core group quite valuable for MI, can’t just keep changing: Head coach Mahela Jayawardene The Times of India"
+            ],
+            "tldr": "Core group quite valuable for MI, can’t just keep changing: Head coach Mahela Ja"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1778562438217",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "13h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1778562437976",
+          "title": "On This Day in Cricket - May 11 - SportsCafe.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sLXlmT1JucDdwRV9OLTluSkRxcUhwa01YeExUQTRUOHNuaWpIOHlNdFgzanEtdF96dzZ6cUVYNUFWY0pzRTRzY25sRTd0ZWJjY0FHUHVXd2F2dUZpSTEyLXFGTkRNRExzOEFtb2h3OS15dklaZzhpenNLZHXSAXxBVV95cUxNbC15Zk9SbnA3cEVfTi05bkpEcXFIcGtNWHhMVEE0VDhzbmlqSDh5TXRYM2pxLXRfenc2enFFWDVBVmNKc0U0c2NubEU3dGViY2NBR1B1V3dhdnVGaUkxMi1xRk5ETURMczhBbW9odzkteXZJWmc4aXpzS2R1?oc=5",
+          "time": "20h ago",
+          "body": "On This Day in Cricket - May 11  SportsCafe.in",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "On This Day in Cricket - May 11  SportsCafe.in"
+            ],
+            "tldr": "On This Day in Cricket - May 11  SportsCafe.in"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1778562441280",
+          "title": "Still swinging it: Bhuvneshwar Kumar enjoys second wind at RCB",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Thirteen Years After His T20I Debut, The 36-Year-Old Is Still Adapting, Still Succeeding In A Format Increasingly Hostile To Bowlers",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Thirteen Years After His T20I Debut, The 36-Year-Old Is Still Adapting, Still Succeeding In A Format Increasingly Hostile To Bowlers"
+            ],
+            "tldr": "Thirteen Years After His T20I Debut, The 36-Year-Old Is Still Adapting, Still Su"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1778562441281",
+          "title": "'Very sensitive to criticism': Manjrekar makes big Virat Kohli revelation",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Former India batter Sanjay Manjrekar believes Virat Kohli is “very sensitive to criticism” despite often saying he ignores outside noise. Manjrekar revealed Kohli sometimes became “cold” towards him after negative remarks. He added criticism may motivate Kohli to perform better. Manjrekar also praised Kohli’s aggressive leadership in Test cricket, calling him one of India’s greatest captains during his successful tenure.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Former India batter Sanjay Manjrekar believes Virat Kohli is “very sensitive to criticism” despite often saying he ignores outside noise.",
+              "Manjrekar revealed Kohli sometimes became “cold” towards him after negative remarks.",
+              "Manjrekar also praised Kohli’s aggressive leadership in Test cricket, calling him one of India’s greatest captains during his successful tenure."
+            ],
+            "tldr": "Former India batter Sanjay Manjrekar believes Virat Kohli is “very sensitive to…"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1778562441281",
+          "title": "'Won't beat around the bush': Shreyas Iyer fumes after Punjab Kings' defeat",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "10h ago",
+          "body": "Punjab Kings suffered their fourth straight IPL 2026 loss, falling by three wickets to Delhi Capitals in Dharamsala. Despite a strong 210/5, their bowling and fielding faltered, allowing DC to chase the target with aggressive half-centuries. Captain Shreyas Iyer expressed disappointment, highlighting execution lapses as the key issues.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Punjab Kings suffered their fourth straight IPL 2026 loss, falling by three wickets to Delhi Capitals in Dharamsala.",
+              "Despite a strong 210/5, their bowling and fielding faltered, allowing DC to chase the target with aggressive half-centuries.",
+              "Captain Shreyas Iyer expressed disappointment, highlighting execution lapses as the key issues."
+            ],
+            "tldr": "Punjab Kings suffered their fourth straight IPL 2026 loss, falling by three wick"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1778562441281",
+          "title": "28-year-old cricketer loses life in horror car accident",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "British cricketer Jamie Spence, 28, died in a car crash in New Zealand alongside French national Raphael Jean-Gabriel Roellinger. Jamie’s club, Hull Strikers, paid tribute to his “energetic” and “passionate” personality, saying his spirit brought life to the team. Days later, the club played with 10 men and dedicated a seven-run victory to him, calling Jamie “one of the biggest supporters” of the club and “Forever a Striker”.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "British cricketer Jamie Spence, 28, died in a car crash in New Zealand alongside French national Raphael Jean-Gabriel Roellinger.",
+              "Jamie’s club, Hull Strikers, paid tribute to his “energetic” and “passionate” personality, saying his spirit brought life to the team.",
+              "Days later, the club played with 10 men and dedicated a seven-run victory to him, calling Jamie “one of the biggest supporters” of the club and “Forever a Striker”."
+            ],
+            "tldr": "British cricketer Jamie Spence, 28, died in a car crash in New Zealand alongside"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1778562439504",
+          "title": "Mothering Mumbai: City needs compassionate governance - metroindia.net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVdNWUc2bzlhd21kUU9KcF9ycW8xbEFEVW5kMjJsNlBhNzNLWVIzYTJCai1MUml4QlZwLWswOW55Z0JTV2RLaFdidjVrWWgxLWFZRDhfLTdtamkxTXBYdnpVN1dhcHB5ZEZHZVVtcWt3U2pGRTZJRU9ULW9lNzJqS0lTLU9ROVpvTVU1aldRb3U3RVZad1FRQWZXZG5WR2RHeERPeg?oc=5",
+          "time": "13h ago",
+          "body": "Mothering Mumbai: City needs compassionate governance  metroindia.net",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mothering Mumbai: City needs compassionate governance metroindia.net"
+            ],
+            "tldr": "Mothering Mumbai: City needs compassionate governance metroindia.net"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1778562439504",
+          "title": "KDMC Chief Abhinav Goyal Directs Coordinated Pre-Monsoon Preparedness, Orders Repair Of Faulty CCTVs & - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcTBWZnVUUXFoNFFjU1pzdDY4dW9DMy1mZFExbThzYWdPWE9NTmYzUVduNVphYnZyNVRLY2o0QU5XM1RMYkhGRVZDSWV5Z0p1TUVJQTAtNnNkQnd2SWs4N3JhZkVseWx2ZW91VTQzc0h3WmJmRW5sb0xVVW1rc0ZGTUF1bEVPOTBlVE50eGZ3UkdnWVJ3NnA2UkdRT25JLWlYMWZodW5Vd1VpWXkxc2UwZWVIOXdDVGVreW5qN0o4LWtMWVJsMVFCMFhyZXZhVF9wOFB4SWhSX3ZhSHlzb0hNbkZ5ZXY5SDMydTdRdFFvOXNWYjU3Rmt0SE9DZmZlVTJjZml3UtIBhAJBVV95cUxQcTBWZnVUUXFoNFFjU1pzdDY4dW9DMy1mZFExbThzYWdPWE9NTmYzUVduNVphYnZyNVRLY2o0QU5XM1RMYkhGRVZDSWV5Z0p1TUVJQTAtNnNkQnd2SWs4N3JhZkVseWx2ZW91VTQzc0h3WmJmRW5sb0xVVW1rc0ZGTUF1bEVPOTBlVE50eGZ3UkdnWVJ3NnA2UkdRT25JLWlYMWZodW5Vd1VpWXkxc2UwZWVIOXdDVGVreW5qN0o4LWtMWVJsMVFCMFhyZXZhVF9wOFB4SWhSX3ZhSHlzb0hNbkZ5ZXY5SDMydTdRdFFvOXNWYjU3Rmt0SE9DZmZlVTJjZml3Ug?oc=5",
+          "time": "7h ago",
+          "body": "KDMC Chief Abhinav Goyal Directs Coordinated Pre-Monsoon Preparedness, Orders Repair Of Faulty CCTVs &  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KDMC Chief Abhinav Goyal Directs Coordinated Pre-Monsoon Preparedness, Orders Repair Of Faulty CCTVs & Free Press Journal"
+            ],
+            "tldr": "KDMC Chief Abhinav Goyal Directs Coordinated Pre-Monsoon Preparedness, Orders Re"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1778562439384",
+          "title": "Indian-origin Texas teen brings two grandmothers to prom, says choice to take Ba and Ma was simple",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin Texas teen brings two grandmothers to prom, says choice to take Ba and Ma was simple. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Texas teen brings two grandmothers to prom, says choice to take Ba and Ma was simple. [object Object]"
+            ],
+            "tldr": "Indian-origin Texas teen brings two grandmothers to prom, says choice to take Ba"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1778562439384",
+          "title": "Indian man dies in US, family says he battled a month with Valley fever",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man dies in US, family says he battled a month with Valley fever. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in US, family says he battled a month with Valley fever. [object Object]"
+            ],
+            "tldr": "Indian man dies in US, family says he battled a month with Valley fever. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1778562439384",
+          "title": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afraid she could be arrested again. [object Object]"
+            ],
+            "tldr": "'I hate to admit it...': Indian-origin Texas woman Meenu Batra says she is afrai"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1778562439384",
+          "title": "Brampton high school team with several Indian-origin teens beats 23,000 students worldwide to win prestigious space contest",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the top prize in the 2026 Gerard K. O’Neill Space Settlement Contest. Their innovative 'Saoirse' project proposed a self-sustaining settlement for 10,000 residents at the Mars-Sun L2 Lagrange point. This marks a historic first for a Canadian team in this prestigious global aerospace competition.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the top prize in the 2026 Gerard K.",
+              "Their innovative 'Saoirse' project proposed a self-sustaining settlement for 10,000 residents at the Mars-Sun L2 Lagrange point.",
+              "This marks a historic first for a Canadian team in this prestigious global aerospace competition."
+            ],
+            "tldr": "Brampton's Central Peel Secondary School students, many of Indian origin, clinched the…"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1778562439384",
+          "title": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'20 years on H-1B': Major row over Indian man's viral post on not getting to see dying mother. [object Object]"
+            ],
+            "tldr": "'20 years on H-1B': Major row over Indian man's viral post on not getting to see"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1778562439384",
+          "title": "Indian man Sandarsh Krishna goes missing inside Grand Canyon National Park, black backpack was found",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian man Sandarsh Krishna goes missing inside Grand Canyon National Park, black backpack was found. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Sandarsh Krishna goes missing inside Grand Canyon National Park, black backpack was found. [object Object]"
+            ],
+            "tldr": "Indian man Sandarsh Krishna goes missing inside Grand Canyon National Park, blac"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1778562441286",
+          "title": "Nashik TCS conversion case: Key accused Nida Khan arrested in Chhatrapati Sambhajinagar - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqANBVV95cUxObUFfb19rZHFTWFdWZ04zZWtXMzhadXk3XzJiY3RyZTBUOHVkOTZfVV9fbzZlYUtGSzBaaUhKdFhnYW83T0Rza3IxSUlyMW80SzVabjlUUUttX1BaLTEzTjBfV2FpN2c1YmRFXzhpUmFuRUJhRGc3QjFGWXBMUEp1bDVKWHFpd2VWUzNGQWhVZE1pSlBlczVOMllZZjhtcnBEZk5Jc2NFVExWX3lwTVUyS29oS2hpV0tWYy0xZ3huUXRLeURHWmp5SnhwNlc5Z0owRHNKUkFTSHJKNWtheEU1V2ZxUW82RlBFQnIwUzhPeTJJYTdyUTlxM3g5WmNtMmg4MW9PWGxfN09jUGdfczloSHhadG5qVktNMFBTNzBtN3BqdXhaT2FJUUpPUTE3dFVkSHprbHdLRE9feXdldzVzQkREc0FTSWQzTjVQWGhsZHZiRnNuV052OVJEVEZJbGRNaFUwTGpGenlSdEU5Q3I1bDZJQkhjZUkxM2pzYm8wTmZvMnlncWkzRVBHY0FqNVFJSjlkdEdQVGxGelZzWnV3c0pOOF9oNElh?oc=5",
+          "time": "4h ago",
+          "body": "Nashik TCS conversion case: Key accused Nida Khan arrested in Chhatrapati Sambhajinagar  MSN",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Nashik TCS conversion case: Key accused Nida Khan arrested in Chhatrapati Sambhajinagar MSN"
+            ],
+            "tldr": "Nashik TCS conversion case: Key accused Nida Khan arrested in Chhatrapati Sambha"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1778562441286",
+          "title": "Toyota to build new SUV plant in Maharashtra by 2029 - PRESS Insider",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2hlUTZ2clFKRGdGajcteXN6blN0RWxlcmVJbjRmZm9Fclk0TjRfYm53X0RnYjhCb3hTTGozb1dhckNnOHFIRGNJZUFpT1ppazhWQ3ZqSTVIWjJaOTVqbmh0dWFvUDhQWmUzSGJPMDJHU25ZQzFzYllyTUJ0YXFEV2lkcXdhd2JITjln?oc=5",
+          "time": "1h ago",
+          "body": "Toyota to build new SUV plant in Maharashtra by 2029  PRESS Insider",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toyota to build new SUV plant in Maharashtra by 2029 PRESS Insider"
+            ],
+            "tldr": "Toyota to build new SUV plant in Maharashtra by 2029 PRESS Insider"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1778562441286",
+          "title": "Toyota Motor’s new Maharashtr­a plant to attract ₹20,000-crore investment­s in several phases - PressReader",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdWg0WkZmZWdBUnhsMVZQZkY5N0ZTZ25pYWphclZHelY0Nk5zWU1tbE9LM3ZnY1dXNGFtZ0dKTGkxZ19HZUxZZl9zNURMd0pBQ29kaEFQbmg3dlp2ZHhpcS05aDN5WElrQjVvSnRSRldTbHhxQmNjdDFoOEZDOVVvWDZYdUxnUlIyVmYxbDRHNA?oc=5",
+          "time": "4h ago",
+          "body": "Toyota Motor’s new Maharashtr­a plant to attract ₹20,000-crore investment­s in several phases  PressReader",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toyota Motor’s new Maharashtr­a plant to attract ₹20,000-crore investment­s in several phases PressReader"
+            ],
+            "tldr": "Toyota Motor’s new Maharashtr­a plant to attract ₹20,000-crore investment­s in s"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1778562441286",
+          "title": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 11 May 2026 - ET Now",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSNVl2RGJGdjF3dTN3ZnFta0pCa3VfNGhMLXBxUHVzSjlLT2J1QUxvLWZpbzBRa1dNbDhqcUYxRXJlbHp0MFRQTmpTeFZRbjZJbm84elJqVkpERHM4MWhsQjVR?oc=5",
+          "time": "13h ago",
+          "body": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 11 May 2026  ET Now",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 11 May 2026 ET Now"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad: Latest 18K, 22K & 24K Gold Prices on 11 May 2026 "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1778562441286",
+          "title": "Toyota to Build New Manufacturing Plant in Maharashtra - CarWale",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSS1FaUtWcFctZHhJZTcyV0g0cDZxRXJ5YV93ZXdQY3RxUUlqbzdZU0xNdDhKTDZHa0xUMWxsV0NuODRBVmZHU0tadDBaUDJvVWNwYzBuejRNcjBOLXNhV192dGlvSFI0a3R2ZHUzV0M4TmtpVl9iZFU2emJtblhuQXl4N2hkTzM5YzBxWA?oc=5",
+          "time": "21h ago",
+          "body": "Toyota to Build New Manufacturing Plant in Maharashtra  CarWale",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toyota to Build New Manufacturing Plant in Maharashtra CarWale"
+            ],
+            "tldr": "Toyota to Build New Manufacturing Plant in Maharashtra CarWale"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1778562441286",
+          "title": "Toyota Plans New India Factory To Boost SUV & Hybrid Production - DriveSpark",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1h1Q2hiRWdjZWpJV0tLSWN3VGFSXzBkRzFrRmNMeEJwaUxIVGxSWDJFNDhUb2dKcjdVSVpRbGxqV1VTQUZ5Z3RNcTNMaldGNGtxVUluQm5GUUljREUwTkMwY1NUcDNROFd3WkRobTB3YXVCNU5uY29xVWpla25FYkp3RG5ZQlhGZVVyV2hZZWlFX3pVMnJQNmwtWm9vV2lWaVVYNHZPWnBqTmRVVDBEQ3p4QVAzTUxnVjF5QTJR?oc=5",
+          "time": "11h ago",
+          "body": "Toyota Plans New India Factory To Boost SUV & Hybrid Production  DriveSpark",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toyota Plans New India Factory To Boost SUV & Hybrid Production DriveSpark"
+            ],
+            "tldr": "Toyota Plans New India Factory To Boost SUV & Hybrid Production DriveSpark"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1778562441286",
+          "title": "Appointment of CSMC co-opted members legally challenged - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUozdHhzS1J5cFJhcEowbTFSSklOdHhuVVhXOFdsdEtWeUZaS1pYSk1ZOUVCNFlyRm9qVzFCbC1GanRFQk53MHpwanVkWWxHaEI3Y3BpeHlpbVRNUmpxbkN1czdCUnZ6b3I2bFFHRlZLd0hLZW9ybmd0SzhENEJZUHBxMmVFdUszVXhkbGNwOWU2MEJ4LVZaRkU3cWRiZzIwdXd5MDdOS1VBaTNSd1ZBODk0MW1fNTdtQkIxa005bEVjMVdSMUpIeG1sbUw4Z9IB0wFBVV95cUxQTHd3ZHMwbmd0Skd1b2Y2d1pCYmdRbmtVNWZZdS1yYUpySzN4Q2hSQkFKRjZTOWhZdnI4TFdyelUzR0tVZjdCNFpNcVpHZTRsVWNWV0JZSDFxbl80REhvYnlhUl91b09yaGNoY093MDRRSF8tbnRFNzA2dXhPMERKYkhObEVqX1EwNDJFWnhCakhKN0FCdDJ1enNreDJDc3pZVHZ1d0pqckJsRDZ1Mi1CUzhEQjlpb3BrX2tXbDdpZEJucjJVY01RU3FBYWVsd0JzNEtr?oc=5",
+          "time": "10h ago",
+          "body": "Appointment of CSMC co-opted members legally challenged  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Appointment of CSMC co-opted members legally challenged The Times of India"
+            ],
+            "tldr": "Appointment of CSMC co-opted members legally challenged The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1778562441286",
+          "title": "Toyota to set up SUV plant in Maharashtra, production to begin by 2029 - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc3lQd1JmNmRvOEJQbjNmVGJCb0NRNk9TVFExT2gzUThsS0JpQmlqbUJyMUhNbXo0YVlfT2l1eUVhT0FsbG5FV3p4ZXpDX3NzXzVIaS1NbmRUYWQtT2xsd0pWaHQ0MVhRMHZuQ29XUlNjZHdTanE1U2Q1Y1MtQ1poLWVWeFZ5Tmp1Z2pOMkM5MzhOTDJsLTNnekZRMDdvZ2ktSWtVbllxSGdhejVJRmZIMFNoNkVXYmpiUm9Jb0hsVmt4d0d3QzZaZnBUNNIB0AFBVV95cUxOY2JoVU5HVFVjd0JGTjBzVHVBaHhoVE5xV0RIb0s1Y2lZNldrNHdvZXExbzl6djMtb1c1Ym5ZR1lvcVh6cEttTzBrRE9TYXFUTFdzb1hqSFExbjI4ei1sbUJqTHFaOVF5YlZHMWxoNE82MWFrbTdOdzRKZV82c2FFeUo0NGJrLXdma1VDb0oxWnlhUjh6bW1ObzgtSUY1MXJBbW9ac3NYZVRmMWZ3d2QxXzdKSFlQRFJLVUNWal9fbmlRY2MzbWhsc3QtajFwWENP?oc=5",
+          "time": "22h ago",
+          "body": "Toyota to set up SUV plant in Maharashtra, production to begin by 2029  Moneycontrol.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toyota to set up SUV plant in Maharashtra, production to begin by 2029 Moneycontrol.com"
+            ],
+            "tldr": "Toyota to set up SUV plant in Maharashtra, production to begin by 2029 Moneycont"
+          }
+        }
+      ]
+    }
+  }
+}
