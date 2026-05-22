@@ -1,0 +1,792 @@
+{
+  "date": "2026-05-22",
+  "generatedAt": "2026-05-22T05:43:31.010Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1779428603325",
+          "title": "Maharashtra government reshuffles key police postings - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTzRhWnhLVzY1TGl4N3I4MHB4TjczX1I0OFF4Vm5RNnZiWVRSS09vV1pYUUdOZFE5NjQtbkhhcVQwM1pGZEE0ZWN0M1h2Z3AxUGRXeXVOVnJZX1NyRlpVbWxJVXNvbGxXNjF1cFZoV0c4c2QtMnotZ0JwSWFBa2F1QkRVTzk3a0RTeVNNSXNSYXdNN0F5anljRFllUkk3bzlUNk5rZTRvMXo4LU1VdEJ4dzVsR3BGVzhwdGkzaWxfWEpaV09fV3fSAcsBQVVfeXFMUHJSb2VTejBUSWx5V05zNDJ6UTNVODFHUXpVQU5GUnF4N1BmNUNEOTk5UXZVQWszS2VKUS1PaUZ6T2N0bHduUkJGSHpVWmUxZzdVckI5NDdQcWpaSlBGb3plTnBkUWczQ1NFbUxMb2ptZ1d3VlNvbnB4eHVHNWpFR0F5ejN3enYxckx0enBRcS1La24xNGdQR2Nkblk4TmVZT3RsM2l0dFo5S1B4YldGa2JScVU1TEZCXzd2bGU1M2lHMFZ4am9QTThMck0?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra government reshuffles key police postings  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government reshuffles key police postings The Times of India"
+            ],
+            "tldr": "Maharashtra government reshuffles key police postings The Times of India"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1779428603326",
+          "title": "Maharashtra govt transfers 41 cops, including 7 IG-rank officers - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3ZJR0E3amRvQm0xcmsyQTJvQjUyNm95RndDc0s3amI3QjNRUTdqWk82endTelZTdXo4ZklIMlhBYTl2UG44Zm9mTmliN2ZuMExuQ1lhSGVSWFJKa1k1UFBLYzBsNHBqcmVLR1dNWUJHZTAxLUp3UVpCR1dlb0VzeVRFWmE1M3N5NEpFZ3MtUFNzWXFmcS1TUHFYdkJwRHfSAaQBQVVfeXFMTy1hMV8wdlVDTGYyOWJjSzdsN19xdENCR0xQYXRHNlVrQzR6U3U1Z0FISGZhSkhjV2dQQlBFcDZrOEYtWWtoZ29sWGJQMmxEdmpzc29VVHlETV9Xc055TVJtb0NyYkhPZFRBM0M3S2Jyb1RIQnJXX0ZHcWFoY2NvanAwMWJQUzlLUm43eHVtR1F5TzVWN3NDR1M2TnY1UDQ3bV93cDg?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra govt transfers 41 cops, including 7 IG-rank officers  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt transfers 41 cops, including 7 IG-rank officers ThePrint"
+            ],
+            "tldr": "Maharashtra govt transfers 41 cops, including 7 IG-rank officers ThePrint"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1779428603326",
+          "title": "Maharashtra, South Korea sign skill development deals - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcy02LTlzODVSeTE1QUEzTFdiTy1TRzFXb3RwV1BxWFc4a1hLNDV2WHRTUW5reV9EQ2xZV2w2QXJOVW9hQ1dOT0s5UVJKbnB1YzhISURiNnNCbnJFYkRqckVGcUNVREVLWVdlX1JxU3JLM1NwVDB6X1hmRTFvdUx2bnBQT1JjbEhYcW95cWxHZEM4QQ?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra, South Korea sign skill development deals  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra, South Korea sign skill development deals Marksmen Daily"
+            ],
+            "tldr": "Maharashtra, South Korea sign skill development deals Marksmen Daily"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1779428603326",
+          "title": "Bombay High Court Grants Parole To POCSO Convict To Construct New House After Old One Demolished For Navi ... - Live Law",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNU1otSHR0V2Q1cFFiZEM2ek5TM0V2Y1duWkQ3VEQ5Vk1WMjlJc0NjaGJtTUhlNmxrSkk1MDZ1Um5Sa0RjTmloMElKUWpDdFFhWEJtT0pRSlNSU0xxa3l2bV9QR0U3T25IbW4xSWNxZHdnY1NLLWJXcmNIVDV1YXg1TEZSRFZGSzJKWk4wOHR1Yk5uWDBpa0pHcTZmc1JxeEdUY1RKR0JKai1QYnlDLTExZEhBd2dDZkF3Vk1NT3ZuYktnTzU5UngzLTI2R216WmJzWjVpZXRYOTQ3QWQtcXcxX3lvYzFrMFZmeUl2a2F4OE50S1VOeWNheWUtUXRLSm5ESVBHaksyRndweV9uZ2VCQUFXWG4xOHQ4eWU00gGbAkFVX3lxTE1TWi1IdHRXZDVwUWJkQzZ6TlMzRXZjV25aRDdURDlWTVYyOUlzQ2NoYm1NSGU2bGtKSTUwNnVSblJrRGNOaWgwSUpRakN0UWFYQm1PSlFKU1JTTHFreXZtX1BHRTdPbkhtbjFJY3Fkd2djU0stYldyY0hUNXVheDVMRlJEVkZLMkpaTjA4dHViTm5YMGlrSkdxNmZzUnF4R1RjVEpHQkpqLVBieUMtMTFkSEF3Z0NmQXdWTU1Pdm5iS2dPNTlSeDMtMjZHbXpaYnNaNWlldFg5NDdBZC1xdzFfeW9jMWswVmZ5SXZrYXg4TnRLVU55Y2F5ZS1RdEtKbkRJUEdqSzJGd3B5X25nZUJBQVdYbjE4dDh5ZTQ?oc=5",
+          "time": "2h ago",
+          "body": "Bombay High Court Grants Parole To POCSO Convict To Construct New House After Old One Demolished For Navi ...  Live Law",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Grants Parole To POCSO Convict To Construct New House After Old One Demolished For Navi ..."
+            ],
+            "tldr": "Bombay High Court Grants Parole To POCSO Convict To Construct New House After Ol"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1779428603326",
+          "title": "Maharashtra Government Hands MMRDA Planning Control Over Karjat, Alibaug And Bhiwandi Growth Zones In Major MMR Expansion Push - Swarajyamag",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVlVTbjdwZUI5ZVlTaHM0eExnS0xoQmZYMEF4dkxwSkpqc2ZlS1FsWGJCZTRmcUpmNUJFREdhYklmdjVmb0IycWR0dXFQbEVHQUYxYXlMUlpfQ1B6TDUtRXBEUEJZX0JLaW9kRUJsZzl5djIzT3J6cS1lM01sU05uckJPWWJwTGFGczdMSWptUnJ4ZUdRM3lYYk1lNEpZeGlvd0dvOG9weU52MWtBazNEZ3F0NXdxWVVEUVp5VHFhNnJBSEk0YUtKMXJJdjhMTzlNSUl1NHlfQ25FY0pRNERweG53WjE4alQzODdVRkFqMjM4bW9uSFRmM3REQzVqZ0hhdFHSAYICQVVfeXFMT1ZVU243cGVCOWVZU2hzNHhMZ0tMaEJmWDBBeHZMcEpKanNmZUtRbFhiQmU0ZnFKZjVCRURHYWJJZnY1Zm9CMnFkdHVxUGxFR0FGMWF5TFJaX0NQekw1LUVwRFBCWV9CS2lvZEVCbGc5eXYyM09yenEtZTNNbFNObnJCT1licExhRnM3TElqbVJyeGVHUTN5WGJNZTRKWXhpb3dHbzhvcHlOdjFrQWszRGdxdDV3cVlVRFFaeVRxYTZyQUhJNGFLSjFySXY4TE85TUlJdTR5X0NuRWNKUTREcHhud1oxOGpUMzg3VUZBajIzOG1vbkhUZjN0REM1amdIYXRR?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra Government Hands MMRDA Planning Control Over Karjat, Alibaug And Bhiwandi Growth Zones In Major MMR Expansion Push  Swarajyamag",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Hands MMRDA Planning Control Over Karjat, Alibaug And Bhiwandi Growth Zones In Major MMR Expansion Push Swarajyamag"
+            ],
+            "tldr": "Maharashtra Government Hands MMRDA Planning Control Over Karjat, Alibaug And Bhi"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1779428603326",
+          "title": "Maharashtra Congress reshuffle: 69 new district chiefs named ahead of 2029 polls - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1VwZ3ZuemFXS0N6YkxkdVJmcXVGaE1oaEppV19wd0VuYXQ2enRNQlNwcl9pVnJLRHQyTHltNHJoSnN4Q1VyQ01qUXVzcFE1QW13VkhPc015MGtTbGJkM3BVWGNiSHp6TU1sbzg3VUtlaHEzMkFqc3JZS2lNWGtEclZ6NnpNQ1Y1U3hvNE55RUN1ZElYdmRmbVEyckNyN0JmWFZ2VHBFWTJiTDkySzZzS1AzOVhYckRLbmdQNNIBwwFBVV95cUxOU0xtYV9Deldva1E5NVJndGxocWNDRzRMQW8xMlZQYXhrNHBjT1BPcExQSzBzQWd2ZVFYcFFxY3NaME9MVV9TaDJvOG5tLWJ0VGFORUt4Y0xwMXNIMW5DWjRWY0tLVmVNR196bzl4SVYyRGZSSUIwMFI2ckp1WmdnRm1vcmJXNjEtRU0wZlhrMUNfVDFlUkZRUFd2NlcySGR6Y29zb09ra2IxMG5pdkRDcEY1d3RUUlNHRkp1ZkNXNXJYSUU?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra Congress reshuffle: 69 new district chiefs named ahead of 2029 polls  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Congress reshuffle: 69 new district chiefs named ahead of 2029 polls The Indian Express"
+            ],
+            "tldr": "Maharashtra Congress reshuffle: 69 new district chiefs named ahead of 2029 polls"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1779428603326",
+          "title": "Maharashtra announces 6-month reduction in VAT on aviation fuel; airfares likely to stabilise - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOZnNRNGt0RXJ4LUJUdDM5SmxZNlZzMEtZdUhjMW5sTTFMSm9rdlVuR3lTcTR0d2tJMHBlTUptMEs0eEhsekJ2MXhPUExMNWVsTkpWSG5TVVFfVGdTLTBPOGhsTnFxNnhXcTdrdGl2WERfM1ZHaGlUemFJWnk1ams1eXItTlo4MGpoci01SUlDQW1oQ01SZkNCczJWb1k0Q1dpcFMwRG9GRWxrcWlfZEJ5Qmc2SnBZc1hIZVllQ0pDTXNPUXMyMmtJMzNablBQTGZnLUtuQURoWkpTR1RQbk1FSS0wNHEtNXM0SnotMGEzNVVod2VvcVRSSUJSSW9UN3REREtNY0dNYWNhbWhnS1haY3dZcU11cmRxenRRSTg5S1VxZ2J2RWN2Skw4Z0NlcVl1NjJKX1VEZkpBbmUwN1g3Umt4NFlxN2RXeXBoS3prcmNUdEVnbGxwZm1Dd2NFV0ZvRGZMajZ6Y3NmWnJYNnNzX00wbVVpN0xEWkkwWHRaRQ?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra announces 6-month reduction in VAT on aviation fuel; airfares likely to stabilise  MSN",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra announces 6-month reduction in VAT on aviation fuel; airfares likely to stabilise MSN"
+            ],
+            "tldr": "Maharashtra announces 6-month reduction in VAT on aviation fuel; airfares likely"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1779428603326",
+          "title": "Big relief for Maharashtra employees! Fadnavis govt hikes DA to 60% - Indiablooms",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzh4MXNjcE44eUE1dGMxWDNzN3ZaY2dIZ3A0bl9BYjNnVzNfMjFSb1ZvYkJ6Ql82S1NZTXpiRXRYcTdUbWg1akFQUWIyY3JpdjNXMG5TcEVOdW9ZM3JLWVN5Qk1oWGxjN0JOS1NsX1JBLXhtSkhlX3ZMRk1VN3JxSG1ydTQxS1JPdERfbW5OT25tc1R1NENub0l0TlFocnJDbFR5QlBvTEc1LWRTdkZlOS1oWTdJUkJ4eFBMZWZwUi1HQQ?oc=5",
+          "time": "21h ago",
+          "body": "Big relief for Maharashtra employees! Fadnavis govt hikes DA to 60%  Indiablooms",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Big relief for Maharashtra employees!",
+              "Fadnavis govt hikes DA to 60% Indiablooms"
+            ],
+            "tldr": "Big relief for Maharashtra employees!"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1779428603198",
+          "title": "Stock markets rebound in early trade - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanVZSzYwb1BHUVJXMTlLbDhEblAzTV9NXzk5YXE5cnZzZUFRSnFKc1V2QXIxeFdyTlA1QXhlNEQtVEFweGlENEluREJkUkRBS3FwU1dpaGEtSi1ibmdLTGFTVERObDhlUGJCYTMtMDB2V1RLS2JZaWlIYmNDUFZIa2hqdnNYS1NmR0dfMVlYU2dVUE5ONHlhWjdBNWMySkXSAaYBQVVfeXFMTWhVUVVQbEVyQVF1NWtwZGx4R01DeDRFb3EyejVWUm84U3UtMDA1MndTcEF6NkpTU05fdkcyNlNCckNsTmJmLTNEeVRhZDl2U1FpcmliT1dCYXUwdXNyQjVPQzR3OHczZDN5UU9renBqNlNUQlVKR0hiclp1aFZJV1lFSmw0c2ZNaUNSWWJwY3V1dTdNMGNOVk9leExqZTZpUldaTWtHdw?oc=5",
+          "time": "Just now",
+          "body": "Stock markets rebound in early trade  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rebound in early trade  The Hindu"
+            ],
+            "tldr": "Stock markets rebound in early trade  The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1779428603198",
+          "title": "Indian shares set for muted start as focus remains on US-Iran talks - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTTFhZWgtRnZUYjlmT3VBVzhYa3BCZURuLVVoeHdtV0dRa3hEOWsxdFFfVmtEOHBFYUp6eXEyVGt1SlVhNFZ1bHBoRmM0aE5lUlhSNFllMnNSUkRsZkdoZEhOZWpLcDhlRWRCSFJFTmtzUW9YSTR4N1ZVckx6N3RGN0FSOHlZWTBlVVBucHdwdmtlRDRzT3JBVGpOZGNhemQtSFJsSUpsQ18?oc=5",
+          "time": "3h ago",
+          "body": "Indian shares set for muted start as focus remains on US-Iran talks  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares set for muted start as focus remains on US-Iran talks Reuters"
+            ],
+            "tldr": "Indian shares set for muted start as focus remains on US-Iran talks Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1779428603198",
+          "title": "Stock Markets Rebound: Sensex & Nifty Gain - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYXV2cVJ1Q1RENFQ0QTQwUVRMSVRHTnBOd21kTHRuZTNXNkNpNXdBelN6cHJhcDRSLWhSYlhoQ2l5b2tuNnd4SDFpVlNyNU92S3JTYVcwa05Hd3BJQnZwSFh1cEVMQ3o3QUNZVC1uSzV2aEpFOFlOWmJRdkdGLXpkVzNlLUo3Zk1mRWtIeEl2WVQ1SU1hZnfSAZsBQVVfeXFMTkR2d2dITEZkVlNrcW9JdGlmaVFzU3d2Vjg5WExrSGw4Rnp4eDdMRG5qdlJSelJUTHREcWZfVEpKbTlOMEpCcVJxWHE3VHYxamo1dkdiWWlRbmQ5WEo3aG5EVURoSm1xYXNJd2tlOFpRSHlFM1hqVFdVYTEtUnR1Vjhaa1k0bm92MnVCc1FQSmEzem80NHo1YUFTSzg?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Rebound: Sensex & Nifty Gain  Rediff",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Rebound: Sensex & Nifty Gain  Rediff"
+            ],
+            "tldr": "Stock Markets Rebound: Sensex & Nifty Gain  Rediff"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1779428603198",
+          "title": "BSE SmallCap Select Index - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGx5NjdPS3FQTklkUU9kb1VBcUhwQ2VXeGNJc0hUb25kUkZzLUdLM1R3Z2pMRGc2eVZfMEQ1NE5KU04xaF8zaVFkNkxYcmlPakg2ajRnY3Zaa2YyWHdOYVpiRVJ0LXIzYjZMMUxEZVRyd0E3M3l2d1ZqZDRER0Y0a1BHeWZDZ0k?oc=5",
+          "time": "1h ago",
+          "body": "BSE SmallCap Select Index  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SmallCap Select Index  The Economic Times"
+            ],
+            "tldr": "BSE SmallCap Select Index  The Economic Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1779428603198",
+          "title": "Stock market: Sensex, Nifty plunge on surging crude amid escalation in West Asia conflict - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQUmpoQUlXd2FzcjhBREk0YUtMa2lCczZYQzBabW9fOS1maE5UMDRaNUp0eWtMTHJYU3U0X2dkOUpJSVlINFJQdkNqUlIxWmp4UmU1aXY0djJzbFJGeTNpenhRVER5c0UyMHNpVDhjY0RYUFp4UDNkbHV3em52OEp0T1Jid1A4RENsZnZTVEVtclNlM3M3YlRERW52V3JiOEtIZlJfRmVkRndaVTBHaUhQNk1DbVd4THhiNTNTMXlBUllCSTh1RFMwczZwdXdqbXI2OFNxNzRmTFJTTjVWRjlzZjQwRndPUVlaQnhVQzBIU09JRFlkdWlFZmRDa3VZbjFLV3ZvUTlYUldFLUpja3JFS0Z1WDZ3eXh0Nk5ZdnI1ZFJ0bjJPS2U0em4wWnBySmxWR1VuOEJJVURPTjZibi1mQlpfUXpVM2VlMjFLaWNWZnhVellyanh1aUVkeGR6RmpnaGFzSVFrdDh2N3RhWnhhVTFCR1dINlZQdjQwcQ?oc=5",
+          "time": "9h ago",
+          "body": "Stock market: Sensex, Nifty plunge on surging crude amid escalation in West Asia conflict  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex, Nifty plunge on surging crude amid escalation in West Asia conflict MSN"
+            ],
+            "tldr": "Stock market: Sensex, Nifty plunge on surging crude amid escalation in West Asia"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1779428603198",
+          "title": "Sensex, Nifty close marginally lower in volatile session on profit-taking in IT, financial stocks - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONDVCaWdiSG9mU29pU1hLMnJFT1dVNlpSLXVaRktLYUE3b0dYdUo1LUpKdlVyNWktOFZUVWhZajFiaDVmWTViQ0NFMTFIdGNpSEIzTEhqTUJrNjRKVFZVcUJQaXRzemJVWnNtUWd2ek5UbFhnZWNYeHNyMjY3NnZnX0c4VlZpUjBJQTh3dWpiSld1VGdzS1JzUm5KVWhjSTNFNlVFVkNHc2dsblhvZUdlQW9Wc181bGZBYmFFRGVwb0ctU2NaYk1tanhGRDNKR3ZYZHBac0owclrSAd4BQVVfeXFMTWd2cFh5M2Q2SEJ3WEpkU1RJZG1QbG1rMjBIbEsxSDBLelZKc3hKUlJySmJ4b1dHMURxN1ZQOWpnM25HdzlVV0J6ZzYxQ1VJLW5iYjE5elBjVWt5c2VSVWt3TTRPQmtVTzdsbVFmbWNhX01IT3pTcENwSldDX0FSVmJOWlpUUjBwMDN3VGdaTWVBdTZzdTg0V09kT2JlYWxDdzVaNGthMFZOb3V4cncwU3B1N3JJaXpSNFJwb3pWemlFdXdMbjZwY3RrR1Q2eldtcVlncW5URWIzZ2lfbEpB?oc=5",
+          "time": "11h ago",
+          "body": "Sensex, Nifty close marginally lower in volatile session on profit-taking in IT, financial stocks  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty close marginally lower in volatile session on profit-taking in IT, financial stocks MillenniumPost"
+            ],
+            "tldr": "Sensex, Nifty close marginally lower in volatile session on profit-taking in IT,"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1779428603199",
+          "title": "BSE SENSEX Today: India's Benchmark Falls 135 Points to 75,183 as Tech Stocks and Bajaj Finance Weigh - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFFkSE5YVWp0RVNnTHBhNkpfenZyUEJKQmU4RnR1MHBfSFhHcHlDRG0wNmNsal85dUgzekgzQ01KeTFqT3lkNWlCOEJsSXhjbDJORnRiQ2hnbUdqUllvRTlXdEdXN3hoLUZIQ2g5eUtlczBSVGRKaUI2dWhkNUdCZlRpME5fZ1NXc2E2OE40R2xPT3JaMThZQVJqdHFGcUdjM2p5bHViRm5sMzN4Wm43ZkM2WUpFU1BxMXZuZ0VLM251a0FaSjE5VDYyTjhIUVZaOVkwclVYQQ?oc=5",
+          "time": "8h ago",
+          "body": "BSE SENSEX Today: India's Benchmark Falls 135 Points to 75,183 as Tech Stocks and Bajaj Finance Weigh  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX Today: India's Benchmark Falls 135 Points to 75,183 as Tech Stocks and Bajaj Finance Weigh BBN Times"
+            ],
+            "tldr": "BSE SENSEX Today: India's Benchmark Falls 135 Points to 75,183 as Tech Stocks an"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1779428603199",
+          "title": "BSE 150 MidCap Index Live | NSE BSE 150 MidCap Index Index Today - S&P CNX BSE 150 MidCap Index - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVVTS2xDN00xclNiQmR2YzhSYkYyeGdjakdTYlNiQVdvLVZVUWNvUmc5V2s2c21aMklrQTZIRnhkLWFNUEdqVk9sTmpjQjlOQ3dlMXhhRGJHbTI1YTZxdUlKMjlyNHczQVhLbVJwUXlRTE5zbVpQM192ODk2MnVsdw?oc=5",
+          "time": "11h ago",
+          "body": "BSE 150 MidCap Index Live | NSE BSE 150 MidCap Index Index Today - S&P CNX BSE 150 MidCap Index  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE 150 MidCap Index Live | NSE BSE 150 MidCap Index Index Today - S&P CNX BSE 150 MidCap Index The Economic Times"
+            ],
+            "tldr": "BSE 150 MidCap Index Live | NSE BSE 150 MidCap Index Index Today - S&P CNX BSE 1"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1779428603326",
+          "title": "Supreme Court refuses to entertain plea seeking decision on Navi Mumbai airport renaming - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3RYWG56WVo5c1NJMG1iOXEwblZ2ZEdqS0ZNdnhBaTdQeVhWQ1JfZXdpX2JRNmF1M2VNa25DY090WnBMYXREdHhMdnhTSUoycnltWW1kbGotbHBhUXoyWndremRtQ29SWDA5ZVAwZjUtR0NkeVYtUGEtRXdRWGQ4NHlPWmFWLTlpTTBmRUEyc3ZfNEFzdXZ4eGtkdHIwRXpmMUh1ZHhiVmpDT2w0RzFZTGdMWkhMZDZIc1AwR1BoUlBkVkx2VXBERHRHSnB0a3F5a3NQOVBSRQ?oc=5",
+          "time": "16h ago",
+          "body": "Supreme Court refuses to entertain plea seeking decision on Navi Mumbai airport renaming  Prop News Time",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Supreme Court refuses to entertain plea seeking decision on Navi Mumbai airport renaming Prop News Time"
+            ],
+            "tldr": "Supreme Court refuses to entertain plea seeking decision on Navi Mumbai airport "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1779428603326",
+          "title": "Maharashtra, South Korean institutions sign 3 MoUs to upgrade skill development | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGM5anlxSm03QmlXcTlZUzhhTFU2VFN6N1g0Q090Y1pUVVowRVg1SmpPdlIwazFzR041SU5MN0RwaXpQZHk5aWNReEVWS0NuNXNwY0E3bjZsM1g5THp2ZkZDWU0zclZHVmd0VlVuWVJuN09faDlHZlNCRDlrSlNNQU5PbVdPV1ZVSGo2b3ZzRzd5eGJ3MWdFLW12amRORFVzc25peTBtRzI5c0JfUFBlMDVfSTVRWjJtV0h3LXBWLWxib1Bla3ktZ21VRG5mX2JweUozZEJ6UlBGLXlkYTN6N3E1ZFdCUWZI0gHoAUFVX3lxTE5EYzlqeXFKbTdCaVdxOVlTOGFMVTZUU3o3WDRDT3RjWlRVWjBFWDVKak92UjBrMXNHTjVJTkw3RHBpelBkeTlpY1F4RVZLQ241c3BjQTduNmwzWDlMenZmRkNZTTNyVkdWZ3RWVW5ZUm43T19oOUdmU0JEOWtKU01BTk9tV09XVlVIajZvdnNHN3l4YncxZ0UtbXZqZE5EVXNzbml5MG1HMjlzQl9QUGUwNV9JNVFaMm1XSHctcFYtbGJvUGVreS1nbVVEbmZfYnB5SjNkQnpSUEYteWRhM3o3cTVkV0JRZkg?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra, South Korean institutions sign 3 MoUs to upgrade skill development | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra, South Korean institutions sign 3 MoUs to upgrade skill development | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra, South Korean institutions sign 3 MoUs to upgrade skill development "
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1779428603142",
+          "title": "Cochin Shipyard to invest in deeptech platform Maritech - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ0I3TlgwUGt4OVVCaG9ZaDB6Y3JnUW5kTUxLYkQwUFJqRjU1ZlYxQldHcEVhSFBwbjhTRHJSOTh5amhRenFNRXlGZ2I3WjFqOFpMZF9jZVZHV1BKb1ctOVVSMGJ6M1hNUzFFb2NGdV9vMFpnTkRhbG5pT1ZOc25TM1JIVWc2QVdoUWFsUEZMWFI2NXRHTVc0ci1fTlJsYkk1dUlaZlBlRWdwdWxTTXotOFB1Vm1QSWVaQ2FPT3A1VXBRNmxXaU5jQ0FfMWxtU1Jud1dVdGpJOXZXOGZTYjNKSFRBV0U5aTM0M1VqWUhWQdIB7wFBVV95cUxOQ0I3TlgwUGt4OVVCaG9ZaDB6Y3JnUW5kTUxLYkQwUFJqRjU1ZlYxQldHcEVhSFBwbjhTRHJSOTh5amhRenFNRXlGZ2I3WjFqOFpMZF9jZVZHV1BKb1ctOVVSMGJ6M1hNUzFFb2NGdV9vMFpnTkRhbG5pT1ZOc25TM1JIVWc2QVdoUWFsUEZMWFI2NXRHTVc0ci1fTlJsYkk1dUlaZlBlRWdwdWxTTXotOFB1Vm1QSWVaQ2FPT3A1VXBRNmxXaU5jQ0FfMWxtU1Jud1dVdGpJOXZXOGZTYjNKSFRBV0U5aTM0M1VqWUhWQQ?oc=5",
+          "time": "17h ago",
+          "body": "Cochin Shipyard to invest in deeptech platform Maritech  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cochin Shipyard to invest in deeptech platform Maritech The Economic Times"
+            ],
+            "tldr": "Cochin Shipyard to invest in deeptech platform Maritech The Economic Times"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1779428604674",
+          "title": "LTM has issued an offer to acquire Randstad’s Technology and Consulting Services business in Europe and Australia - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT3VtakltVXkydm4td2pNMnJLVWNYbEw3cVA1SmVrd3R6Tm9WdGk2dEdEMUVZS29NZGZRTUhhS2w2OWhibkhKQXNjX3pabGpxZC1vRlZRSXA4dTByS1lHX1I5dDBLVkwtUFpkYld2bjhYQ3VLajhwZkMtWHl5SlJJbTEzMVloN0tlMXJXMUp2ZTlqQmdnYzNrakJ3WmYxbTMwM25lRXRqSEJGeG1Yb2xVWHBIMHFtTUlOMFFjM29GZ0F5cVZaX19fV0Z4eUlQQ2xZcWpleGdmQ1lCeHlPcmFYaXlLQWNJRkNYclJmOEVMNjhqUdIB9wFBVV95cUxNWll1QV9na2tzUTlVUHBQSk5yZ2Mya18tLThKQ25UZmtQMVp3S2dzaW5UNTJfTEl1SWJwN3Q2WHlQMkFxT0NtVXljaUJBZ0VMWmdUYzR2ME1KeEhDeDV6RHR3RlRVVWhDNElpV2RwQVgzMDdqMVVHR3NPUThna1VDR19pdV81UzZuRU1aVE1lelZrNVFFbDQyN0hPSGRQa1ZiZzFjZmF0VzlRLTFncmZSTHlMNmxlNVgtRkgyd2p4czJDRlJJY1VPeWlTRmxLQnY0Vkt4SDlJemkxV19ma05UZkc3Yi1GTlhTMVZUVkZJQndnSGpycXBJ?oc=5",
+          "time": "1h ago",
+          "body": "LTM has issued an offer to acquire Randstad’s Technology and Consulting Services business in Europe and Australia  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "LTM has issued an offer to acquire Randstad’s Technology and Consulting Services business in Europe and Australia ThePrint"
+            ],
+            "tldr": "LTM has issued an offer to acquire Randstad’s Technology and Consulting Services"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1779428604674",
+          "title": "Google announces AI training programme for teachers and students across India - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX04zbjJ3UWhnYTBfajc0NVlQVk50Z0V6RGRFVkxxQXJHMlY3S2tTSURKUjFDZW9jYkgtOVBiUVRvYWs3UlM3aHNlbDhkdWZSUXlKYmZDeTNPbENsVk8yQTVyQjhTTzJiVVFzeXl3dWFmc0E0SDBsc2x0QlBRaXlQS0hFc3VzVHBycnZTNlJHLXI1bHBRaDdXWDRUd05XMlkzbmdaOGp0OFJZWXByMUFVc2p2ajg5Tm90NTBCcE1xMlRabl9TTFhPa3BlVVluNHUwVTBZYXRWMWU1aW9pZ1NZMXliVdIB6AFBVV95cUxPY0V6WjlOVlBXVm1oV0gzQ1hkcWF1eDdfbzZOT3pOeTNsUEVGTVVVZW1PMXZ5NjBqbVVpOGhtMUU3MjR1Z1BOMWRrVFY5X3JFR0pxaW9SZ1lVeGhPUWxodjgtcC1ITm82OElzMmZtZGg1cnpvSV9SLVFReTNMOHJCYU5aSjZ0S0tRY01SNzFtMDVVRW1uX2U2Q2EtNWk5ZEdlZ1ozakZ6SUl4SURUSjVWMVJxaTlpWVlicktaUzhhMG1yZlhFN2ZxbDRjd3d0LW95QUlaXzg4eTl3cWlyMnJJcVlHQVBnSERh?oc=5",
+          "time": "19h ago",
+          "body": "Google announces AI training programme for teachers and students across India  India Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Google announces AI training programme for teachers and students across India India Today"
+            ],
+            "tldr": "Google announces AI training programme for teachers and students across India In"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1779428604674",
+          "title": "Hexaware Acquires Consulting Professionals Services to Strengthen AI and Cloud Transformation Capabilities - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOT2dua2daTEh1QjN5TTZFdkc3S18tUi1zSnhBSkQyRl9hN3ppOUswbjJ1bGtnLTdsWUdvUDlxdG1TeTBOWkdxbGlPem92OHZDWjJwakZWNnUxSnZnaFFYUDNkd1NSQmtxRjJnb01sUlpnaFZqZ0RfbzltT1A3Mlo3eW9ZS29jbHY3c2UyemRzazdBbG9pa0FOR1g4WkJrR09WRDUzWVNlSEQwRzhmazg2M0hJSG5pTGl5UlVKUEFiTTZib2xVcjl6N1VkLU16NHd1dmdXY2VMQlhjU1pHbWQ5S3oyZGMxRUs0aDRQb3p6aWpCVlBibnZSbHpmb0ZvdEU0RkF4R3hwM1RJLXMtekc5aFBqSjVnQnUtU3JB0gGbAkFVX3lxTE5PZ25rZ1pMSHVCM3lNNkV2RzdLXy1SLXNKeEFKRDJGX2E3emk5SzBuMnVsa2ctN2xZR29QOXF0bVN5ME5aR3FsaU96b3Y4dkNaMnBqRlY2dTFKdmdoUVhQM2R3U1JCa3FGMmdvTWxSWmdoVmpnRF9vOW1PUDcyWjd5b1lLb2NsdjdzZTJ6ZHNrN0Fsb2lrQU5HWDhaQmtHT1ZENTNZU2VIRDBHOGZrODYzSElIbmlMaXlSVUpQQWJNNmJvbFVyOXo3VWQtTXo0d3V2Z1djZUxCWGNTWkdtZDlLejJkYzFFSzRoNFBvenppakJWUGJudlJsemZvRm90RTRGQXhHeHAzVEktcy16RzloUGpKNWdCdS1TckE?oc=5",
+          "time": "23h ago",
+          "body": "Hexaware Acquires Consulting Professionals Services to Strengthen AI and Cloud Transformation Capabilities  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hexaware Acquires Consulting Professionals Services to Strengthen AI and Cloud Transformation Capabilities Business Standard"
+            ],
+            "tldr": "Hexaware Acquires Consulting Professionals Services to Strengthen AI and Cloud T"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1779428604674",
+          "title": "Maha orders govt offices to not use old IT dept title - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQVoxMkFJekNhREVJZ0U1WFE1SDZzbW9VY0tHVm9maGdKMWVVV3oyQWdDN0ZVLWJPcU9FSlVDckJOUXBhclJ6T09DOEIzeGxMczR6aS0zYmhUdHYzcjZWUENvQlQtcmxDVmc1eGxXb2I4ZjVlc285aVNTZ0pHT1hfUjIzQ01WLWlOUTNyLW8tWkk2QmkyMF95WGEyTlB3SHpNT0hWVWpGLURubHQ5QlBHMmE5U3VoSkJZU3pISXBzS05GcFFfLVpfUE5LWWpNY216ZGljVDZWUG5PX0xKU3R5VjRSbW9PX0pJc0lTaTlrd3R3elJObU52ZzRydjdZNWs0d3dCUngxZ21Sdk5rM3VDckdKaDJuNjF6UzBDYTlSRElldEN0NUtUOHRTeW9GLTFNQnlrTEk3a0Q5LTg?oc=5",
+          "time": "13h ago",
+          "body": "Maha orders govt offices to not use old IT dept title  MSN",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha orders govt offices to not use old IT dept title  MSN"
+            ],
+            "tldr": "Maha orders govt offices to not use old IT dept title  MSN"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1779428604674",
+          "title": "Cyprus pitches itself as base for Indian firms expanding in Europe, announces Mumbai trade hub - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejU1R2Nzc1B0QmVqSFBNMGk1bGhFWklyX1R2dHhaMTE3UWY5SXBjZXRHZ2Jzb21SNGtxLVU2QUQ0emlpOV9kZi1zV1dGeHV4Q0R3eXhGUHR5c1ZkaWxmVmg1VjZreGpJc2VrbHdaUTNFVVVxNm1zREJuX0ZwaG5KTEdRQk5KRXpRdjZhdE8wbkRaeVdPVVhqckFueXN4TG4zLXlqb3FqejMxTk00Q3ZsV3NiLU80Vm42dFRSYWhUV1JKRE9lODVBQmVoNjZQSHE5V0ViSEJfeVp1bi1EYTBZUDRUcUlyQkZyMExOUjFRY9IB9AFBVV95cUxOUGJteXBja1k1QjFkTmJyd0xvc2R3a1V1dFFnWi1PMlR1SzBVeDV4d2JoUW1nSXl2U3VqVnZjdGZmdFo5b3hkeHlRZGtwdU9VbE52dTFrQW9SV1hyZ2t1SVVyemF5UjJVMXFXZmQ5XzFSby1BNjdmZDUyWktvdWswaXVHc3NzQzB5cmd2WXdRN3BmVURWLVNILVdTZ2FTS1Q0VjBDQVVBZUtaVUlFX1hyekR0MXB1LUlGeTVKNm0ybXlQbG9sYjI0WkF2NHVGNTk1eXFIb1pTOHMtcUdmZ0tRWGl5SElVMW1KOEVsOFhsWmN2UXY2?oc=5",
+          "time": "21h ago",
+          "body": "Cyprus pitches itself as base for Indian firms expanding in Europe, announces Mumbai trade hub  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cyprus pitches itself as base for Indian firms expanding in Europe, announces Mumbai trade hub The Economic Times"
+            ],
+            "tldr": "Cyprus pitches itself as base for Indian firms expanding in Europe, announces Mu"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1779428604800",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "3h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1779428604800",
+          "title": "IPL 2026 playoffs: Qualified teams, standings and qualification scenarios - olympics.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3U0SG1KUWRDRjlxaUItdGgzdTViZU9vb2V3b0Z6aTgzVnVhOW9CTkUxTFVBY0d6LW1RcnBvSWZNS1NUTkpUOVJCZzRrd3RsODl0ZnlvZUdjem05eW9SMm9sSkEtV29jNXd4YU9LUm1LcS1UZFV2aGdXSmxvWE1yc1JCS1lUdGZVWG00QWw4ZVprSm9L?oc=5",
+          "time": "11h ago",
+          "body": "IPL 2026 playoffs: Qualified teams, standings and qualification scenarios  olympics.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 playoffs: Qualified teams, standings and qualification scenarios olympics.com"
+            ],
+            "tldr": "IPL 2026 playoffs: Qualified teams, standings and qualification scenarios olympi"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1779428604800",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "14h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1779428604800",
+          "title": "Cricket match squads | DC vs MI, 8th Match, IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "13h ago",
+          "body": "Cricket match squads | DC vs MI, 8th Match, IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cricket match squads | DC vs MI, 8th Match, IPL 2026 Cricbuzz"
+            ],
+            "tldr": "Cricket match squads | DC vs MI, 8th Match, IPL 2026 Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1779428604800",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "13h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1779428604800",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "12h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1779428604800",
+          "title": "Cricket match squads | GT vs MI, 30th Match, IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "13h ago",
+          "body": "Cricket match squads | GT vs MI, 30th Match, IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cricket match squads | GT vs MI, 30th Match, IPL 2026 Cricbuzz"
+            ],
+            "tldr": "Cricket match squads | GT vs MI, 30th Match, IPL 2026 Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1779428604800",
+          "title": "Cricket match squads | MI vs RCB, 20th Match, IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYU5yV3Fhdi1qd0xYLXhjR2JWZFVRb1NTc3lNdjJ3Z21FUF9la2ZRNUhQOEU5WTdkeXRQMnI3YjYyNjRTdXBTYkVHcjdvQmc2QnA2STRXbnk3QUtNZ3N2WkdUMmNrcEk4Q1dpek40bTlJVzR0bGlPLS1aZ2dQazl1WFNmOVhPMUJFdmVyRDdlcUFGZGlSWHRDR0JuOV96dWFJb0E?oc=5",
+          "time": "14h ago",
+          "body": "Cricket match squads | MI vs RCB, 20th Match, IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cricket match squads | MI vs RCB, 20th Match, IPL 2026 Cricbuzz"
+            ],
+            "tldr": "Cricket match squads | MI vs RCB, 20th Match, IPL 2026 Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1779428606022",
+          "title": "MMRCL invites bids for underground utility survey on Metro Line 11 extension corridor - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUVFhVGdmajMxSmdkakMteFFrNnJQTjVqYk5rZHY0aVhpVFo3d19iSzdYSVpGZnI5QmRlWW15OXY1bzR6WnQwZXJNb1dsS2JDRmJVWU55NjhYbUxyQTF1WXp1RThqN3lXRzBJNy11RkhrenAyaTQyOG56VnBZemVBSGdmVFBiVU5uTnFMeE9HaVc1ODExdGw0N3ZmcHNhVTI1b2VnRDlhXzk5bVZzc3lnZ2s3bTJ1bDhQX1RzWVRuS2tqTXlIaHZxNC04VFhURzlQV0w4?oc=5",
+          "time": "8h ago",
+          "body": "MMRCL invites bids for underground utility survey on Metro Line 11 extension corridor  Prop News Time",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MMRCL invites bids for underground utility survey on Metro Line 11 extension corridor Prop News Time"
+            ],
+            "tldr": "MMRCL invites bids for underground utility survey on Metro Line 11 extension cor"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1779428606683",
+          "title": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]"
+            ],
+            "tldr": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy cou"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1779428606684",
+          "title": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]"
+            ],
+            "tldr": "Indian man run over by truck in New Mexico during family trip, parents came to U"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1779428606684",
+          "title": "Haryana native, 23, becomes UK's youngest Indian-origin mayor",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]"
+            ],
+            "tldr": "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1779428606684",
+          "title": "23-year-old Tushar Kumar becomes UK’s youngest Indian-origin mayor in Borehamwood",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "23-year-old Tushar Kumar becomes UK’s youngest Indian-origin mayor in Borehamwood. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "23-year-old Tushar Kumar becomes UK’s youngest Indian-origin mayor in Borehamwood. [object Object]"
+            ],
+            "tldr": "23-year-old Tushar Kumar becomes UK’s youngest Indian-origin mayor in Borehamwoo"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1779428606684",
+          "title": "UK museum returns 2,000 manuscripts to Jain community in landmark restitution agreement",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Two thousand Jain manuscripts, collected by British entrepreneur Sir Henry Wellcome and held by the Wellcome Collection in London, are being returned to the Jain community. These 15th to 19th-century texts, believed to be the largest collection outside South Asia, will be transferred to the University of Birmingham.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Two thousand Jain manuscripts, collected by British entrepreneur Sir Henry Wellcome and held by the Wellcome Collection in London, are being returned to the Jain community.",
+              "These 15th to 19th-century texts, believed to be the largest collection outside South Asia, will be transferred to the University of Birmingham."
+            ],
+            "tldr": "Two thousand Jain manuscripts, collected by British entrepreneur Sir Henry Wellc"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1779428606684",
+          "title": "Came to US with $950: Indian-origin gas station owner becomes first Indian-American elected to this Texas city council",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Came to US with $950: Indian-origin gas station owner becomes first Indian-American elected to this Texas city council. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Came to US with $950: Indian-origin gas station owner becomes first Indian-American elected to this Texas city council. [object Object]"
+            ],
+            "tldr": "Came to US with $950: Indian-origin gas station owner becomes first Indian-Ameri"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1779428606684",
+          "title": "Super-rich NRI who called himself 'recession-proof' in 2008 sent to jail: His New Jersey mansion had salt water pool surrounded by imported sand",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Super-rich NRI who called himself 'recession-proof' in 2008 sent to jail: His New Jersey mansion had salt water pool surrounded by imported sand. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Super-rich NRI who called himself 'recession-proof' in 2008 sent to jail: His New Jersey mansion had salt water pool surrounded by imported sand. [object Object]"
+            ],
+            "tldr": "Super-rich NRI who called himself 'recession-proof' in 2008 sent to jail: His Ne"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1779428608006",
+          "title": "JSW Motors gets ₹8,000 crore project finance from SBI for NEV venture - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkpzOUo2UzZfNnJtVkFXNE9xY28tTmp6MFhVQW55RVBDTWxQV3hSWXZVcFR2YXNWc00zLXRpWHVYZTFwY2V2TGdCbU9EQ0ltQnNvWEFnaXRxWDJCQUVsZGVIMGl2ZFRfMmRYUlZpbmJ6Z2xCMDlqVWI4OGVjaHRZS2VvX2hkaUNTemd1WjY2d01XbUdQazFsN3p2MTdqUExMR2pTWDd1d0p1VnllMGxNUG9TMFQ5QkVlUHZUMW12ZlhZb1dv0gHEAUFVX3lxTE5uSnM5SjZTNl82cm1WQVc0T3Fjby1OanowWFVBbnlFUENNbFBXeFJZdlVwVHZhc1ZzTTMtdGlYdVhlMXBjZXZMZ0JtT0RDSW1Cc29YQWdpdHFYMkJBRWxkZUgwaXZkVF8yZFhSVmluYnpnbEIwOWpVYjg4ZWNodFlLZW9faGRpQ1N6Z3VaNjZ3TVdtR1BrMWw3enYxN2pQTExHalNYN3V3SnVWeWUwbE1Qb1MwVDlCRWVQdlQxbXZmWFlvV28?oc=5",
+          "time": "14h ago",
+          "body": "JSW Motors gets ₹8,000 crore project finance from SBI for NEV venture  The Hindu",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors gets ₹8,000 crore project finance from SBI for NEV venture The Hindu"
+            ],
+            "tldr": "JSW Motors gets ₹8,000 crore project finance from SBI for NEV venture The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1779428608006",
+          "title": "Founder’s parents lose sleep as ‘Cockroach’ sets social media on fire - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMHcwRllHcVM4SXFaamNZRFIxcVZkUl9nMkJqbVR2VnhXdVVJQXF1Q3Q4Y2J2MEdQbk9xRENzWEVJNk5JYkVObVhTUTVPRmd5Q3M2dE9DMmh4dlFGSXpmZ3kzV3h1U0dobzhIalVtdkVpdnhmU1hqN3pwQTZqMWYwX050Nk1DQ1J0UmdDX045R0ctU013c2ZqbGRXZjlwcnhMODUw0gGoAUFVX3lxTFAxbkFlNV9WRkJQckJyTGtTLWVnZE1UYVNmSkRWVEZ1Zlo4RU1LN1NCbDcxT3RsOGJwVmFUMzlyX0ZWdHR5OERGUUdIZld2OHE2VW9vdFNlV3pyMjM4UnRxVGRqeDlnNHVjaThvUGtmc0RJZ1d5YmdHQ3lTa1BSNnhZWGF0aFRKS1llOXlqbGhBNDlWbE9zOXhMY1NCekU1QlNidHNxMFpXVw?oc=5",
+          "time": "1h ago",
+          "body": "Founder’s parents lose sleep as ‘Cockroach’ sets social media on fire  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Founder’s parents lose sleep as ‘Cockroach’ sets social media on fire ThePrint"
+            ],
+            "tldr": "Founder’s parents lose sleep as ‘Cockroach’ sets social media on fire ThePrint"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1779428608006",
+          "title": "JSW Motors secures Rs 8,000 crore SBI funding - financialexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNlE1VjNIMGJaamNfaXRBaWYxWWlQazZJRHdDVVNmUHRRRTZiX3Z6eUZGUEZLZGJHTmlPenNqbGpuRkFmSEdOcDM1aExxN3o3T0RjRmtreTVVWDgwbS04OGtEOUpyYVNlbHNuRzM5OE1xNGtRVGljSC1reVNoaU9ZX1ZvdWFqZ0NmS2t2STM0WjFwdl9VS3NlQkhxek13ajVySnfSAagBQVVfeXFMTWtUYlprM1dZSEcwTnVhUEdmR28tMEIyajd4akxFU3JJemFxWGRKUlI0c2Nza25Jb1NOajBPUU41Nkt4SjJ5YVRIbVJ4MHhMRFRrR1JWaUFTZnFieXkxMFZacFE3QnA2dEo5X2R0Y0xpZm84Tmw0bnU2V3M2ekI5TzRRMG1ldlUzekNqa3lWMXJ6N3dZMjhQN1A2TUVKX0NiTkJyc0VadTky?oc=5",
+          "time": "13h ago",
+          "body": "JSW Motors secures Rs 8,000 crore SBI funding  financialexpress.com",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors secures Rs 8,000 crore SBI funding financialexpress.com"
+            ],
+            "tldr": "JSW Motors secures Rs 8,000 crore SBI funding financialexpress.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1779428608006",
+          "title": "Video: Drunk man attacks traffic cop in Maharashtra's Sambhajinagar - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOd1RmN3d0eEFFcF9wckR0OWZJRkM4MmhyMG9xR2xkdGI5NzgxRTdCVkRMY1FTWDVkZ1FaWFhaSnpOMXJGU1p1ODh2V1cyX211d2lPR2lzZHhJZUFaWkEwQ05NQmdiZlpxVmppMnhGYW5yQlJQZWpVRjZiYlVRb0xGUlVqWVpxZVVTMldYT0N3aUVIckx1T3dobTZnei1Ba1dYZ0VCNXZOM0tIMlBFa19nS3ZSMHB6SEtWdTl2clc1U3BMMmpTVEVlazZyZ282bExRdVY4cW5zYm53Si1vVE9CT1E4RkVkMFNIX3V3ajM1bTRLeExVYU1GZFFJeDliUVhYWXh1d2FvUHVDYVJrRnBrR1I4MXMxa2JBWmNMU3RNRjBtX0xHZFZ3M3VfcGFoLUZMYUdMSzlIOGxhQWJYQWtXX04tdlhBbTdiMGlMQg?oc=5",
+          "time": "17h ago",
+          "body": "Video: Drunk man attacks traffic cop in Maharashtra's Sambhajinagar  MSN",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Video: Drunk man attacks traffic cop in Maharashtra's Sambhajinagar MSN"
+            ],
+            "tldr": "Video: Drunk man attacks traffic cop in Maharashtra's Sambhajinagar MSN"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1779428608006",
+          "title": "JSW Motors lands ₹8,000 crore financing deal from SBI for new energy vehicle business: Report - ET Auto",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ1oxSGhJZjcyczEwX3hIRWJHOW9zU0toTmIyME9Za3l3S25Mdm92X1otSThnS3luMml3YWNqMDE2WG1fRXBURnlaMFdielc4azN1cFdMSXoyaEh5QnQ2clFTZHNJMWNZaDNkWVNqa2lKbDM1RVIyVXJ6MDQxNndSOEs2Q2dXZE5GRENuSWxIZmRGdWV6enlPMVd5RXdhUzYyZTY4angtbUxGVEQyVHpqb1FiOXlxTHBmMTNBTlVDcmdybGcxdExFSWt3bGRQME5YTHJiLXp0b0ZDeWh6RHBrM1BqaU9mT3pLa0lYMEJB0gHzAUFVX3lxTFBfOEIyX2hraFMzTFVkbkppeXdMYjZ1RDVJMC1oSmNhV3d3YnJ4QW1lcllSeGE2SnpTdWtPZFFJOU5BMUh5MVdpLWxfcDJKekhTYU1qSVhLTWVuNUVRQ1Q4MnZ0SDhHYlh2dklRSWR4NlRRWmxJS2hBcU1QdmRwbzdia1BmUnJydE0zc2RvQ3NWSEFGMDRQRF9GTl9EUmpITkd3am13WkVxQmFKWDBCU040RFRuWHIxWE45bWxRNzhOQ21tMkdEam9UQU51REJhUkxEMjlYekN3aG1sb1gyZ3FOYjFmX1FzMHlxTG0zTXBmZ1N2Yw?oc=5",
+          "time": "23h ago",
+          "body": "JSW Motors lands ₹8,000 crore financing deal from SBI for new energy vehicle business: Report  ET Auto",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors lands ₹8,000 crore financing deal from SBI for new energy vehicle business: Report ET Auto"
+            ],
+            "tldr": "JSW Motors lands ₹8,000 crore financing deal from SBI for new energy vehicle bus"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1779428608006",
+          "title": "Major Police Reshuffle in Maharashtra; Several Senior IPS Officers Transferred - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeExvWnpuRXM2M1BiWU0zQlBZdzdCZDVvNTFFYlRKaEtHVUU3YUxxVFdVLVFVXzR4RWZCUDZHR3VQeWJHYWhQMzY1OEM2dU8yTV9TRkVXTG81T19YVlgzMkVjbEh3YTBnLWU5VEg1TjYzZ09tWm9TQ0JfZi16ZHA0NDRUTVhidU5Kak5GSm9QRzhtUjU3Mk1mc3BIUDNrOFJDNnBjQVQtSDdZb0JZbDU2Ml9NZ25hXzhqR25NVUxnMNIBvwFBVV95cUxPeExvWnpuRXM2M1BiWU0zQlBZdzdCZDVvNTFFYlRKaEtHVUU3YUxxVFdVLVFVXzR4RWZCUDZHR3VQeWJHYWhQMzY1OEM2dU8yTV9TRkVXTG81T19YVlgzMkVjbEh3YTBnLWU5VEg1TjYzZ09tWm9TQ0JfZi16ZHA0NDRUTVhidU5Kak5GSm9QRzhtUjU3Mk1mc3BIUDNrOFJDNnBjQVQtSDdZb0JZbDU2Ml9NZ25hXzhqR25NVUxnMA?oc=5",
+          "time": "13h ago",
+          "body": "Major Police Reshuffle in Maharashtra; Several Senior IPS Officers Transferred  lokmattimes.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Major Police Reshuffle in Maharashtra; Several Senior IPS Officers Transferred lokmattimes.com"
+            ],
+            "tldr": "Major Police Reshuffle in Maharashtra; Several Senior IPS Officers Transferred l"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1779428608006",
+          "title": "Second Hand 2015 Maruti Suzuki Ertiga VDi for sale at Rs. 5,50,000 in Aurangabad. - CarTrade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUNTSEJGRkI5V2g4WEFVZHVkTEhaSk9NTHpmaTNhUERvZ2w5TkRrbmVOZVktYThRYXNxZVpOTUc1cUwxbE8zci1IZXpTTEZSN0FHeWhuanBmSGd1WXk0Q292T3AzT3ltN1lfUVh3VlhPa2FyaFMwNlJ3b3VTalZEMmYxdV9kdnM4QVM4UXV5a2VqVVBpLVJUNkpnMA?oc=5",
+          "time": "14h ago",
+          "body": "Second Hand 2015 Maruti Suzuki Ertiga VDi for sale at Rs. 5,50,000 in Aurangabad.  CarTrade",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Second Hand 2015 Maruti Suzuki Ertiga VDi for sale at Rs. 5,50,000 in Aurangabad."
+            ],
+            "tldr": "Second Hand 2015 Maruti Suzuki Ertiga VDi for sale at Rs. 5,50,000 in Aurangabad"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1779428608006",
+          "title": "Maharashtra heat crisis: 226 heatstroke cases, children collapsing as temperatures soar - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTNIT25rUFFGVDMtMXNIMGNZOWs1Tk9nNTdmY2NlUnoyclpNaWhuOUVmdUNUcmRSbEJFRm9KZ1ZFNzIwX05sb2FmZDVZMWZzTER6SmxTd0xxdUNCQkFWTk9NSTV3S1NKTm83RE84aFNzZTMyN3JzQlhOamtKNXlXbmdQRjhsT1pqRGZJVWpiNWVQQ0VpckREbEVoMWRzTlpoUlBGNEIzbmhIY2hJYU40UkVxZVg2UWZsNENXZXYwWVdZUdIByAFBVV95cUxPZDhzZlNPQ2ZsV2tFYlF0aENXQUFfTWNod1VlOHFfTFZIcjMwUnNlM0lrXzItRENldDZNSEctVmlBM1NCZk0zcEpiXzY1T1BZX1ZkUWR6T3I3VlRsSmlNMmlQdFdVNUdxNkMtUTU3RG1mTjFRYVZvNEM5XzVLZnU3cXJMZGVIZXVkbHZWTG1DbnhoT1QwX2hPWFFVSmZKSnRrLVRXLVZRdXZlMGNhOTZMMmJyMm9ndVJfZm9NYlBHWTFpbzJIcmJxZA?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra heat crisis: 226 heatstroke cases, children collapsing as temperatures soar  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra heat crisis: 226 heatstroke cases, children collapsing as temperatures soar The Indian Express"
+            ],
+            "tldr": "Maharashtra heat crisis: 226 heatstroke cases, children collapsing as temperatur"
+          }
+        }
+      ]
+    }
+  }
+}
