@@ -1,0 +1,792 @@
+{
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T06:04:15.532Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1779689049931",
+          "title": "Maharashtra government cracks down on illegal cattle transportation and slaughterhouses; transport commis - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPYkxoM0ZVZ2tMU1I2WHZpcU4yY1h6ZnBrVmhoM3I0TEk1NjNPajJQbWktNDYwYy01b3hrdmFpUTVuNEx5eGtqdjB4RVRPV0J2OGVIc0ZId2JUNEg1cElxMXR3aWVkeGRmTm45UEpOVFJRaUk5S3VXZzhzYmpKQVdoNENwV1lmVGtwRUZudUprTEIyRWRpYUN3eHdISVpPMXN5R0ZlMlJmN0pyZWtCdElMQU56MklLWTBoa004bEstck5WcjFiQ0xLXzZZelZCanVFTE9oUzdpcS00MG1HbGstVzFoQW52dE5NTGhnVFA5LXFNc3dSUVJrb2l5R0pmeUt5YTVyaGl1VTJEM3V2T1JuN2RKNHExR293alpySUw3TmlOcnl4WEtkd2xGbFE1RFVs0gG2AkFVX3lxTE85M2x6cFFMV09mTU50ZFdVT0h1b0tTMnd4dzdPQmtHdFJUdndjR3FKSlNQYXdvM3I2WjhUblYwT2I4NW9Pb05YTXJVLXJIa0lfSmZjeV92dHNpejdxR3d5dVRtLXExYmc3RkJ3Vi1FX2IyMndIUkV6X2dTYS1DYnh4eEd4UFRnbG05aWYwLVNmdnRqMmZ2OUQ2UzJqV3pXZ3pXMEcwaHNrTnhValVaU3YtZkRHY2dKdGVzc0VCVmNTYVJUMnV5TDJ6QnNiaHItWnFwUGlKUTFfVHJLQ0hxVHRFSmtER1QtNmt6cjZiMWhlc3Q5TnVMSGd1c0E0em93QW4ySTc0cl94cURZSmV3R0JQakxVa0VDMkhOak5Vc2Yya2g5Tld3cUFDaklUa1NPazhuOGItUnc?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra government cracks down on illegal cattle transportation and slaughterhouses; transport commis  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government cracks down on illegal cattle transportation and slaughterhouses; transport commis The Times of India"
+            ],
+            "tldr": "Maharashtra government cracks down on illegal cattle transportation and slaughte"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1779689049931",
+          "title": "Maharashtra Likely To Retain Hindi From Class 5 - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXlxSVNFWUwyNGVOUW94ek5HM3VjdlJmY1M4WWYzZzRZU0xtSVlGWFMtNGN4Ym9aTlh2blNEdlpiRXl1c0JoRU9HdHpmZDc2QzNLbFJybm1BZlJBdlhibzM3M1Y4UHh4bEpISEhValJ1NDV2MVpjYXZXZVBqUVpmRncyVTVBeGQ0YVZ1b3hXQnp2b3UtaW9sWDF30gGfAUFVX3lxTE5WQ2tzMEZBR01CYnRZbmhLanZtQ1UzSGhFNUlhZ20zbHpfMUlxYWZldHEwZ0xxanp6cnJwWXk3alVVeXY2M3doeGR2YzU0cThFeUh2RXVXbFlWczNJdm9Zck9iVmhEYWF5YlIyVkI5N1gxSDJmRy1URE9OeXA5emhyNVdRTnVYVzFSR1MySU5MRjdTaE44eHJ2eDM5OW9YVQ?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Likely To Retain Hindi From Class 5  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Likely To Retain Hindi From Class 5 Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Likely To Retain Hindi From Class 5 Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1779689049931",
+          "title": "Maharashtra govt’s new promotion rule is another barrier for SC professionals, mockery of law - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHpPUWNhZ1JXeEp5LXZjWGw3NlZ3UU14dEtEMDI5SG5XT3FfcUVWWDRRdUxDNzdtSzdEY0ZuazFFTURuOGM1WExFR0NLYWZhMkExOWlXS1pFVmlzZkNHSlg0cVZ6NnJHTXJ1NXlzUUFRcFJ6UW9UbndCTHNwUjRRY3R6b1NOMFh6ZU1HdtIBkgFBVV95cUxPVENrWjRQN0JLVzBva0NjaTBNZTdobkFlcGdWMFp6R3VZX3J2b19OV2VBd3RFX2tOc28yMFMzcmNYdVpSOFM0X0NnV3RzcHB0dEprdUs3c2lQcVRIbGIyQzEwV0lWbEpVX2l1b2ZGb2VkdmhhQjhSbnhJR3hEelhtVkE5X2w5Znhra0U4c1JGZjg3dw?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra govt’s new promotion rule is another barrier for SC professionals, mockery of law  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt’s new promotion rule is another barrier for SC professionals, mockery of law ThePrint"
+            ],
+            "tldr": "Maharashtra govt’s new promotion rule is another barrier for SC professionals, m"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1779689049931",
+          "title": "How this MFD acquires clients through RBI Government Bonds - Cafemutual",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1dRTWxyNXZ5cDBGZDhmcEFJTmx4REx0RnFYNXlvbGtFVFg5cEhoWDc4cjRldUVIWFBHa0dIS0dCY2YtVU9hRWoyUXR5SWxiak1aeXJmcU5MT204b1BqSWwySjd3M1QwUi1tVWIyVVdBUV9xTy1zdFg2czB3eUc5ZEt4NGVXLWhFTDNVN2hCVTVPbER1NnlnMzNRTzZsSVpjUnRN?oc=5",
+          "time": "9h ago",
+          "body": "How this MFD acquires clients through RBI Government Bonds  Cafemutual",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How this MFD acquires clients through RBI Government Bonds Cafemutual"
+            ],
+            "tldr": "How this MFD acquires clients through RBI Government Bonds Cafemutual"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1779689049931",
+          "title": "Devendra Fadnavis: Chief Minister Fadnavis's 'Work From Train' - A Journey from Mumbai to Shirdi Emphasizing Simplicity and Fuel Savings - Lokshahi English News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWDZiQWFhT0R0cGZtbWJOYlpnVzVjQVlXcUs4d0JSdlRXV2JMR3l3QW9CWlRHUGtfcUptaW9IVG4xMUlUZEhqTFlEdDVxQUNkX3c1bDc3QW1MbDk1b0V0Y3MxcGpzZjdFZjdLNmowb0dOMmp2ZjV1NmkxbnhpWGxUQldpRzk3TUEtRmhWNEctMndabUJUSVJPUVUzNDJ5MU9RTUgxZ0dwck9tQnlCSEU0Y1dEOV9QN0tLaFNoUVA5eXJDNklGOTQtTnlTWml6OXdJWUpMMFF2bWhnNUctQTBuSlNFdmdTN0pyd0d5cGlfYURSSVVMb1BQRHZnSGhqOGVLay1RbEpmTDRoNkRHTVNJdlYtMNIBkwJBVV95cUxPWDZiQWFhT0R0cGZtbWJOYlpnVzVjQVlXcUs4d0JSdlRXV2JMR3l3QW9CWlRHUGtfcUptaW9IVG4xMUlUZEhqTFlEdDVxQUNkX3c1bDc3QW1MbDk1b0V0Y3MxcGpzZjdFZjdLNmowb0dOMmp2ZjV1NmkxbnhpWGxUQldpRzk3TUEtRmhWNEctMndabUJUSVJPUVUzNDJ5MU9RTUgxZ0dwck9tQnlCSEU0Y1dEOV9QN0tLaFNoUVA5eXJDNklGOTQtTnlTWml6OXdJWUpMMFF2bWhnNUctQTBuSlNFdmdTN0pyd0d5cGlfYURSSVVMb1BQRHZnSGhqOGVLay1RbEpmTDRoNkRHTVNJdlYtMA?oc=5",
+          "time": "13h ago",
+          "body": "Devendra Fadnavis: Chief Minister Fadnavis's 'Work From Train' - A Journey from Mumbai to Shirdi Emphasizing Simplicity and Fuel Savings  Lokshahi English News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Devendra Fadnavis: Chief Minister Fadnavis's 'Work From Train' - A Journey from Mumbai to Shirdi Emphasizing Simplicity and Fuel Savings Lokshahi English News"
+            ],
+            "tldr": "Devendra Fadnavis: Chief Minister Fadnavis's 'Work From Train' - A Journey from "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1779689049931",
+          "title": "Centre cracked down on CJP after IB warning on possible unrest, claim Maharashtra Congress leaders - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSXc3T0M5OTZWSngtdFYxaURNZ29SeHJXZkhiOEl4T0tta1UzeHFvcWdFX0xLWTVqaHJnSDJ5RU5CbGxuVk4taTNzVElvY1pfdnE1MjNTcFpsV0Z4enYyczRyU1ZZVkZnQjhyS3NXQy13MDBib0I0dHhhVkxfN2xkS3pZWmFvelkyaWd2anVOc0NJNFR5OHNRd2ZjZjdfSmUtWlhLRGdZaTg2LWFXNmpIbXhDN3lwVmdGZzR5VWNCdDhHYVZkNFdHOWh2V1pfNk9mM2JwR1RxRm5MTWswdXFwSVF5R0FCMHJ6WHZ3RkY5TlYzdnA3dWk0amhDckfSAYMCQVVfeXFMUGlSd2NGdzA3OXFlelUyamotekxBek5ULWpON1hLWTVHUDVMWkFwN1MzdWJabDNXeUhwUmxGZ0JhaTRuRW9RWlVKbENVWXp3YVdHVEJEeDcxZ09peDVaYzJrZk1jU0FxMUlfd0ljb1phR1hnX2ZrRndrY2VmSUNjOXpuNHNWWThSWXQzOTdVT1Vfb1VJcTVnYmtJNER5LTU2M1VPbjBVYklzc1ZZNTJsQWprNVNTYWpCRTNVNzhXdWxvNGxXQlhiQ0dBbzhfR0x4YXdoR05nOWNEWFg5QXBCOEo1T0FScjRfZFZzdXM1aEV2SnR3aWNWVXdjd21nZ1MyZU80WQ?oc=5",
+          "time": "22h ago",
+          "body": "Centre cracked down on CJP after IB warning on possible unrest, claim Maharashtra Congress leaders  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Centre cracked down on CJP after IB warning on possible unrest, claim Maharashtra Congress leaders The Hindu"
+            ],
+            "tldr": "Centre cracked down on CJP after IB warning on possible unrest, claim Maharashtr"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1779689049931",
+          "title": "Maharashtra MLC polls: Eknath Shinde flies to Delhi as Mahayuti seat row escalates - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFZMbXdiWHpPcG95bXNkQXM2eUdvRk9BeVNvcWlNakhjUExWQXVVTDVZQzZFNHFhcDhBaFc1cnJzS19jQ3c2TV8wMmJfb2tRcHBnVHE4M2tMZkpSR2ZOLUtCaTU0Zkt0ZVB3Q2M3cEJiSVB0VERIa3pQaFcybmJydmwtY0JueDBjUW1hQkZPV2RxaHU2eDRwR1NYQU9UTEdheVVnUW4taDRVNmNvWWptbVJsYXBuQnkwZ3gwY19FOW5RZlFFOUNmdNIByAFBVV95cUxPaFZMbXdiWHpPcG95bXNkQXM2eUdvRk9BeVNvcWlNakhjUExWQXVVTDVZQzZFNHFhcDhBaFc1cnJzS19jQ3c2TV8wMmJfb2tRcHBnVHE4M2tMZkpSR2ZOLUtCaTU0Zkt0ZVB3Q2M3cEJiSVB0VERIa3pQaFcybmJydmwtY0JueDBjUW1hQkZPV2RxaHU2eDRwR1NYQU9UTEdheVVnUW4taDRVNmNvWWptbVJsYXBuQnkwZ3gwY19FOW5RZlFFOUNmdA?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra MLC polls: Eknath Shinde flies to Delhi as Mahayuti seat row escalates  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra MLC polls: Eknath Shinde flies to Delhi as Mahayuti seat row escalates The Indian Express"
+            ],
+            "tldr": "Maharashtra MLC polls: Eknath Shinde flies to Delhi as Mahayuti seat row escalat"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1779689049931",
+          "title": "Maggi noodles: No negative reports on samples tested so far in Maharashtra - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0hicVdCS3d4YzJiZkt4X2I5M0dsVVNkZ1k3N3QzU0RWVVdzQkxvdWEwUTQ3RzM3MUJRMEdPTmlwcVlQOHAtVjFBc0ctZkw1ZkFSbEQ0SGtBWXQ4X0Y4UkZaTE9xUmJPMTZlc1NEdnotOTA3djZCS3p0RkNoX3lXQ3lYb2gycGI4clBuWkZPRmhTYTU4cThWTEVVV2I1TzlSbkNrN0VqSm94YllhUFZ6UWYtUTZ1Nk93MS1ySnhkSUtQYk1IR2xQaHpMUFdhRTBPV2JV0gHTAUFVX3lxTE5rSGJxV0JLd3hjMmJmS3hfYjkzR2xVU2RnWTc3dDNTRFZVV3NCTG91YTBRNDdHMzcxQlEwR09OaXBxWVA4cC1WMUFzRy1mTDVmQVJsRDRIa0FZdDhfRjhSRlpMT3FSYk8xNmVzU0R2ei05MDd2NkJLenRGQ2hfeVdDeVhvaDJwYjhyUG5aRk9GaFNhNThxOFZMRVVXYjVPOVJuQ2s3RWpKb3hiWWFQVnpRZi1RNnU2T3cxLXJKeGRJS1BiTUhHbFBoekxQV2FFME9XYlU?oc=5",
+          "time": "14h ago",
+          "body": "Maggi noodles: No negative reports on samples tested so far in Maharashtra  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maggi noodles: No negative reports on samples tested so far in Maharashtra Mid-day"
+            ],
+            "tldr": "Maggi noodles: No negative reports on samples tested so far in Maharashtra Mid-d"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1779689049886",
+          "title": "Indian Markets See Sharp Rally At Opening On Global Boost, Falling Oil Prices - Open Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkdNVkt6VDNNS2NTdjdabXNmdVlCNVFtTmFqT0pXOHc1X04tTFdWWmFDYVZOYlppS1pxOVFaR0wtQWtrWjFaUzB2TVFUeE9oUHJpYXplVzBWWElINEhCRHVHcFlyaXE1VE0wMGw0eDZlUi1jZWlUTldJWllPSlB1anptVGpibFFXYUlfNWp0bnVGamdNOEtEVEozUm1yUjFrazNIZ3A4VFBwZE5sLVdURGpwWQ?oc=5",
+          "time": "Just now",
+          "body": "Indian Markets See Sharp Rally At Opening On Global Boost, Falling Oil Prices  Open Magazine",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Markets See Sharp Rally At Opening On Global Boost, Falling Oil Prices Open Magazine"
+            ],
+            "tldr": "Indian Markets See Sharp Rally At Opening On Global Boost, Falling Oil Prices Op"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1779689049886",
+          "title": "Stock market: Sensex, Nifty jump as crude oil slips below $100 mark in Asia - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTndMclJZSkJRV1RJNlExcFk3d1FCZDl6eXE3S2E2Y2tPLWpURXFfQkVqd19peGc2amJYSS05ei00Vk94LWdyM2xrd1EtWDFSRDlqWjl0TVVDTnNWVTM4VnVlS295THFBbmRtNnNiRlhPS2xsOUNRUUM5SFVxdmdSQmpuVTdwOTNxeFRUUnRCV3BIOUptOTFXVjRLWDgyRmRnYW5SN29JYlZmN2xFbnVTVGY2R3pBNEVoSUlXOE1SSkVJSUt4ZUQw?oc=5",
+          "time": "1h ago",
+          "body": "Stock market: Sensex, Nifty jump as crude oil slips below $100 mark in Asia  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex, Nifty jump as crude oil slips below $100 mark in Asia Deccan Herald"
+            ],
+            "tldr": "Stock market: Sensex, Nifty jump as crude oil slips below $100 mark in Asia Decc"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1779689049886",
+          "title": "Sensex & Nifty plunge around 1.2% today - Newsonair",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "8h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  Newsonair",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  Newsonair"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  Newsonair"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1779689049886",
+          "title": "Sensex Today Rallies 700 Points | Nifty Above 23,900 | Auto Stocks Shine - Equitymaster",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU5TcWlJX3c2TS1IazVmeWt3WE50ODhMWXpxeGxSZFBGa3NpdG1wZzhrMVExWDktbTRLajlueTI0dW8taVV3MlBZelpNRDdfWEFSQ3BBdzFIZ2ozNmgtbGtDU3VjV1g1eG9oUTkxYnpNNXJxUFNQelhBaG5welZRZlg5MlRadGpDdnM5dGkyS29ia0NXWjdmcFoya2hWSjVYUDk0dWpsWjRPTlRVd09KaUpiNEtkSzNzaGY5eDhXdkx3MUd0OEk4Sg?oc=5",
+          "time": "1h ago",
+          "body": "Sensex Today Rallies 700 Points | Nifty Above 23,900 | Auto Stocks Shine  Equitymaster",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Today Rallies 700 Points | Nifty Above 23,900 | Auto Stocks Shine Equitymaster"
+            ],
+            "tldr": "Sensex Today Rallies 700 Points | Nifty Above 23,900 | Auto Stocks Shine Equitym"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1779689049886",
+          "title": "Sensex Jumps 830 Pts as Iran Talks, Oil Drop Boost Markets - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZUpBZk5DR3lZT1ZSVXpILWJ2T05XTXVxQkl4VzYwNVBsWGhZLVc4enA3YjJVTkxkcUwwTjVLdXlRdzFZOExaYVhCbkJUVjJDcy0wam4tNE5UMkZpaE1xekRPeWJlNnI2V1BUcEpzVjVIZmREcW9OdkVCb0toY3Ntd1pzTDhmeGZLRVc1YWRBME5vcE1fa3BMb1B5X1V0aGVwNlg4anc4N0Vkd1RmQ2locVloSVI1UDNhZXBzcExqN3o0UjVmQVE?oc=5",
+          "time": "Just now",
+          "body": "Sensex Jumps 830 Pts as Iran Talks, Oil Drop Boost Markets  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 830 Pts as Iran Talks, Oil Drop Boost Markets HDFC Sky"
+            ],
+            "tldr": "Sensex Jumps 830 Pts as Iran Talks, Oil Drop Boost Markets HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1779689049886",
+          "title": "Stock market: Sensex, Nifty surge as oil prices drop on West Asia peace hopes - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbU5SZWhfX3FvdGFyVV92d0pMc0ZjakZrZWtRdEdUVkxzdWJ1Sy1GWlQwNWJVbnFnandQUVNYUjlnR2VHby10UnRMcDJMNmVNQ0ZmTGVkLXBYOExvLTgzUGUzRjgwNjFLVk52NEdIeC1oNDJtNWJwWkFzQzgzdUZQTF9nSXVfVjVyLXQ3UHE5TWFmdlkyQ19sUzdOQXg2SjFaZEoyU1RR?oc=5",
+          "time": "7h ago",
+          "body": "Stock market: Sensex, Nifty surge as oil prices drop on West Asia peace hopes  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex, Nifty surge as oil prices drop on West Asia peace hopes MSN"
+            ],
+            "tldr": "Stock market: Sensex, Nifty surge as oil prices drop on West Asia peace hopes MS"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1779689049887",
+          "title": "Divi's Labs slips 3% on margin worries; analysts positive on growth outlook - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkI1UFRFSFhGZGEwdndaQWJEN3ZkQWhwbE1Ua09Ia1FyLTlocG1hWnB2MnBORE5XUVdBeVRIN2FKTU1qSmYyRmF2YWNxXzNEeVRvczBZQk4tT0swdUFqU3U0RXNMUkVzNWdOcmw5UFVncW82RUhoaGxBQXh6bzJoUVRCOFY3MVBYZTFaRDdOQlBaTkM5cjA0WFdOOTVlT0s2ZFlMenpQNnNPdW4xS2hKbVk1MFhOOUpkUmNwMVhncHljcEh3TFBMelI3M1hFRVRmdnRsSDB0a0xPTDjSAdsBQVVfeXFMTWJCNVBURUhYRmRhMHZ3WkFiRDd2ZEFocGxNVGtPSGtRci05aHBtYVpwdjJwTkROV1FXQXlUSDdhSk1NakpmMkZhdmFjcV8zRHlUb3MwWUJOLU9LMHVBalN1NEVzTFJFczVnTnJsOVBVZ3FvNkVIaGhsQUF4em8yaFFUQjhWNzFQWGUxWkQ3TkJQWk5DOXIwNFhXTjk1ZU9LNmRZTHp6UDZzT3VuMUtoSm1ZNTBYTjlKZFJjcDFYZ3B5Y3BId0xQTHpSNzNYRUVUZnZ0bEgwdGtMT0w4?oc=5",
+          "time": "1h ago",
+          "body": "Divi's Labs slips 3% on margin worries; analysts positive on growth outlook  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Divi's Labs slips 3% on margin worries; analysts positive on growth outlook Business Standard"
+            ],
+            "tldr": "Divi's Labs slips 3% on margin worries; analysts positive on growth outlook Busi"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1779689049887",
+          "title": "Oil prices crash, markets fly! Sensex rockets as global tensions ease - Indiablooms",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1FpSHVwdDJOckFLcTNENDRnOTBienNQS0hRT2hackpWZGw5b0s1SXNFbzV0MkhzR3VOSFhHUXpWTjlVc1pIU3JkTS1xdTllU2JZYllqd09OTWstSFQ0TkczbFJpdTdEdVo3SEtZc0dDZUU0eWJKUmw1YTJXWllmTWhrd083SmJHam96STcySXpTVnl4MHRkM2VrdEoxbkRiNkNsRjR6N3JLTmFWRkhfaw?oc=5",
+          "time": "1h ago",
+          "body": "Oil prices crash, markets fly! Sensex rockets as global tensions ease  Indiablooms",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Oil prices crash, markets fly!",
+              "Sensex rockets as global tensions ease Indiablooms"
+            ],
+            "tldr": "Oil prices crash, markets fly!"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1779689049931",
+          "title": "Will Mundhe get a stable tenure now? | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNm9nVkEzX3doZWxHWXhBWWxoTlFnX0loUEZoNzNEOXJtT0c0cHlsNFp1OFR5czRidVp4a2JLUjdMMkM3X0RrNEJWOXpoSEVSYVU2TXFQYVRHRW5oWVlNZkpZZ3hWSHdyX1hESS1SWTVqWXpRSXoyNE5SVEh1TnkzR1d5RHJiUDhpUzZ4QS1GeXJ1UjBjc0Q0eGYwcVMyLVM1SjRmZmFKZDBSQdIBrwFBVV95cUxNemF4ZF9FbDBzSWRVUmJCWXNqaU93bXk3Q2pXNWFjVTROdGdZREJNVFRlODFWcG5EdlZRc29GTnNpTUVMMGdpamxER0RaTlVZMG1UUU81RjlkYXF1T01GMEMtMU1yU3dsWGxzMTFpa01salljaGZfX0RBZVowNGUycFJaa0Rsc2VqQUpXN1g4dk9GMmF2MjBZaExpUmZneGJFV2czT29qeHhmSkk2ZUJF?oc=5",
+          "time": "6h ago",
+          "body": "Will Mundhe get a stable tenure now? | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Will Mundhe get a stable tenure now? | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Will Mundhe get a stable tenure now? | Mumbai news Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1779689049931",
+          "title": "Saurabh Vijay takes charge as UIDAI CEO: Aadhaar authority to strengthen digital identity systems and gover... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSE5OaU5iQ21nRUJrR1hhRFNxNDhlVUc3bnBZV2tjODYxcFotR1l0bTB4Ql83MGE4WENRS3IxMXJWN21SdDVlV3prdTNmRzNQc0VVQnFWS0xMT3BnTVB1N0RNRmFvT3F0TXdDSEhzNTlpZlNueWhMN3Q4VWRPQ2p1MnZwRTZ3X2lOeFVMcE1GSjFXcnh0bU5nRHl0WE9EZXk1cGx6MU53MXhwc0RJZFYzYTNrdmluQlNlN0VEV250aVFiYUwyUWsxbnFYNXhZTGNWT1dEVjhxOUtpX2QtaVl4bl9aQ2p1ZTA2U2M0dk9ZZkFsS2hj0gH0AUFVX3lxTE1ITk5pTmJDbWdFQmtHWGFEU3E0OGVVRzducFlXa2M4NjFwWi1HWXRtMHhCXzcwYThYQ1FLcjExclY3bVJ0NWVXemt1M2ZHM1BzRVVCcVZLTExPcGdNUHU3RE1GYW9PcXRNd0NISHM1OWlmU255aEw3dDhVZE9DanUydnBFNndfaU54VUxwTUZKMVdyeHRtTmdEeXRYT0RleTVwbHoxTncxeHBzRElkVjNhM2t2aW5CU2U3RURXbnRpUWJhTDJRazFucVg1eFlMY1ZPV0RWOHE5S2lfZC1pWXhuX1pDanVlMDZTYzR2T1lmQWxLaGM?oc=5",
+          "time": "22h ago",
+          "body": "Saurabh Vijay takes charge as UIDAI CEO: Aadhaar authority to strengthen digital identity systems and gover...  Bhaskar English",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Saurabh Vijay takes charge as UIDAI CEO: Aadhaar authority to strengthen digital identity systems and gover..."
+            ],
+            "tldr": "Saurabh Vijay takes charge as UIDAI CEO: Aadhaar authority to strengthen digital"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1779689051212",
+          "title": "SBTET set to introduce new polytechnic diploma courses - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXF0d3dzUUk4TUNfbWFFSXRPQ1VtUkxWTXNyaU5sTGNjX25YUHpSbEgxSldXajZIWHVxaEpLcUNiNnBCVFBHTHlIcDhlcEJqWXVmS0s5cHhLdUFONjFkOGJfQ0tCUVQxS1Nua3VJemNfNm9VdW5KTEgyVGNsaC01elByWnpJeWRxNlp5VmJzZ3Qxei1zZWdJQlg2cWhxVFBpU3lpbWFBTFlkbUZrVGh0blllYjNLc0hLUWwzaExTUDhZaWpH0gHEAUFVX3lxTE1ZcXR3d3NRSThNQ19tYUVJdE9DVW1STFZNc3JpTmxMY2NfblhQelJsSDFKV1dqNkhYdXFoSktxQ2I2cEJUUEdMeUhwOGVwQmpZdWZLSzlweEt1QU42MWQ4Yl9DS0JRVDFLU25rdUl6Y182b1V1bkpMSDJUY2xoLTV6UHJaekl5ZHE2WnlWYnNndDF6LXNlZ0lCWDZxaHFUUGlTeWltYUFMWWRtRmtUaHRuWWViM0tzSEtRbDNoTFNQOFlpakc?oc=5",
+          "time": "2h ago",
+          "body": "SBTET set to introduce new polytechnic diploma courses  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SBTET set to introduce new polytechnic diploma courses The New Indian Express"
+            ],
+            "tldr": "SBTET set to introduce new polytechnic diploma courses The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1779689051212",
+          "title": "Maha eyes 1.5 lakh AI jobs as ImagiNxt opens in Mumbai - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmZhN0wybzRseGFDZmpnVl96YXBhN1A4Nkdic3JvMUQ2czl6SVdYYjh2XzB1YUVDMWhIWGkzNGlaRGJ4SWxYdVhpQ3FVT3RFd2sxNVdoMWlyOU1ZZk1EMUFHRkozSjU2cjZjYWt1VF96SFlJY2oyMURVRkRVUHBVLVB5cUo1QXhzcTlKRWxyUGduQVpSZV95bUJLSDdTaFA4RnlzRA?oc=5",
+          "time": "5h ago",
+          "body": "Maha eyes 1.5 lakh AI jobs as ImagiNxt opens in Mumbai  MSN",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha eyes 1.5 lakh AI jobs as ImagiNxt opens in Mumbai  MSN"
+            ],
+            "tldr": "Maha eyes 1.5 lakh AI jobs as ImagiNxt opens in Mumbai  MSN"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1779689051212",
+          "title": "Mumbai AI Strategy Signals New Economic Shift - urbanacres.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qSTUzZ3N2UDZIS0pTclhJb3N1cXhMVTBoMEpQeFJtV0RJUE1adFlYYnJVQVJEWllfcFAtQUo1MFV1UzhvNE5tcHRiY0dyMXpyTmRodHhGU3R2dk5JZS1DSEV0SEp0OHlMOEZNc0lJOEhPRkk4WWhZ?oc=5",
+          "time": "4h ago",
+          "body": "Mumbai AI Strategy Signals New Economic Shift  urbanacres.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai AI Strategy Signals New Economic Shift urbanacres.in"
+            ],
+            "tldr": "Mumbai AI Strategy Signals New Economic Shift urbanacres.in"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1779689051425",
+          "title": "IPL Cricket: Rajasthan Royals defeat Mumbai Indians by 30 runs to seal Play-offs spot - Newsonair",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblRoODI0NmppdzFPeG55bGFGZ2RIWXpmci1CSlBJb2hBZXBDQlByd1FOVUlZVno2VzhLOWFZb2FHdzc3b1E0QjdZWlJDNnA0WXVhRlRBVnNwZEU1RjNCczVmeFRnd244czZFQ3ZkWHhTMDIzdFB0MmpQYjZBNUZHc2dVSTlLbGs2Zjhiend6Zkk0SnR4MzZNZ0RoOEdNRDFkSjJYREdpN0k0TVBKbTFr?oc=5",
+          "time": "12h ago",
+          "body": "IPL Cricket: Rajasthan Royals defeat Mumbai Indians by 30 runs to seal Play-offs spot  Newsonair",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL Cricket: Rajasthan Royals defeat Mumbai Indians by 30 runs to seal Play-offs spot Newsonair"
+            ],
+            "tldr": "IPL Cricket: Rajasthan Royals defeat Mumbai Indians by 30 runs to seal Play-offs"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1779689051425",
+          "title": "Vaibhav Sooryavanshi breaks world record despite flop show against Mumbai Indians - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGZmMHh3N05ReTFTT2hMaVpkQ211bXRia2ctVHhYTTFEQ1JZMkVpSW0tU0xXUG8wcWRvSEctNWpwRUxCeGpJeGJ1SmlnX0FlbmtjeWJkMTA1TTVmOUpFM2ppQ1pZSngzc045amtMTUl2VE9LVDJ3YktTQ0VPZlFNOTY2dWx6ZnZNeEJla1R2ME5zVDllM1FvS3pUaEJkdEl2cDNQSElpS2xIMTY2ekNzYjNVaTB0Y3dtYWg2bm50bkpaY0pfZUpzZTZjY080TkZLdWVLMjVNMnoyejF0MGZLNk56TGhRTzNISV9NSVdXejhrOXlVYklaN1RUNVNoTjZn0gGGAkFVX3lxTE1YcUZFRHpKZTViR0d6eENtOVV0bmIybEpnREh3djNHeWdIWFc2TV9IWExZdlFNOTJsS0hIM3F1Z1Y3QVE1ZTlGM0xMV2RHekl2VGZ4RnB3THRxRjBjbWVSUjVwOUFob3dfUm9BQkRfRWFSdkFtXzRWUmFNQ1RHcjJ3YzQ3SzVEczVWMENnaHZSOE11Y3JtY3gzY0x1UTZSaGRUMDFTeDh6ZVhUZGNuOE5vYk9OTDk5WFgyZEk1NjM0cXRaS3BlTGExSUxxT3FvSzF0NGhieG13MWFQUGZZanRsNFM0Ukd2RFh4TGNZQlJaWjVJVHdrOEF3MmhpeGNlMi0ybXNzUHc?oc=5",
+          "time": "6h ago",
+          "body": "Vaibhav Sooryavanshi breaks world record despite flop show against Mumbai Indians  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Vaibhav Sooryavanshi breaks world record despite flop show against Mumbai Indians The Times of India"
+            ],
+            "tldr": "Vaibhav Sooryavanshi breaks world record despite flop show against Mumbai Indian"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1779689051425",
+          "title": "'We got the position we deserved': Kieron Pollard's brutal verdict on Mumbai Indians' IPL 2026 season - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPOVNPLWNsdmtVbjlvck5KUUVFQjJoZFc3VjhON1V5Q0NjTlpfRkVkOWcza3RmUTlPSklsWTg1clcyVzNGQ1g1aWg1NFJXYm5TLWI5djhQalRrQWNDSy1hN0ZXNDVDMUZqNjNsMkwyVXBKWHpmU01vNmZ5RHNKRGpQZnlOWl9ZUlpiVFAyNkdEODRTMmY1VS1BQ2NPTjF4QlNGcHhBSEZIcTlwZjNwWE1pNTJaYUs4ZEFEbDZ2b1RXRHZxc3NvMEpieFVuUDJjNFROYV9IZU5JdVlHTHFRVU0tcm1Zck9jaFlyeF9ZeFVuV2pBcHdHclowOXJ6b2tFNVpWSDdyWnJOT2htWlN6YWN2Y09VLWLSAZoCQVVfeXFMT253Uk91b2pNdHZFS2ttS0JiZnFpZ2tyT0dVTVVHSkY5enhaM3duNmtRaHFOd21kMXZ0aWNNb0VpcTd0enV2b3ZueERxZmI1VW9BdkxJdnd0TkhSQnZHeWVUWF9Kd2Z4VXBQNHNGUFlMbU90aGhnNlBsSXl3eTYzUkFyM1hlNnRDYk9MazNmVDNENlJod1hfeHpINHkzZHV5U0FYa1VZY3VIdC1JY04zYTJfNURZRnlQaktiS1FPUVNOUU9ENGJIUjJXcEJUUFQ1dnlHUS0zS28tb3dmZENkMHMwbVJSVUVyUXFfRXJMdXVkLWRONHFYN09obFJldjdGWEZhWHktVWg1d3VEMmpCNE5qR0pjeHUtOVNR?oc=5",
+          "time": "5h ago",
+          "body": "'We got the position we deserved': Kieron Pollard's brutal verdict on Mumbai Indians' IPL 2026 season  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'We got the position we deserved': Kieron Pollard's brutal verdict on Mumbai Indians' IPL 2026 season The Times of India"
+            ],
+            "tldr": "'We got the position we deserved': Kieron Pollard's brutal verdict on Mumbai Ind"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1779689051425",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "4h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1779689051425",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "2h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1779689051425",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1779689051425",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "3h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1779689051425",
+          "title": "Cricket Photos - MI vs RR, 69th Match Pictures - ESPNcricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaTF1Y0RaMTZxYmUtc1VWQjdPTUN0VndNSHF2SlczUTdkXzgzZHBRbFdJbExZQTZxLTg5VTJIRG40dzZzZUo1N3UtUW5ISlBqbDhPQ0E5ekQ3RllUQTlYaEdPbDBUcWxHS25VTEh5ZFdoV195ZjlFeXZvN3VTVEFGQks5bHBxOWViTENBb1FpOG54WmdCaXlQNE9mUUxPZGtjWDRyQnpLaXBqaVpoWm1JcFpzU0hvYkpuTUE?oc=5",
+          "time": "11h ago",
+          "body": "Cricket Photos - MI vs RR, 69th Match Pictures  ESPNcricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cricket Photos - MI vs RR, 69th Match Pictures ESPNcricinfo"
+            ],
+            "tldr": "Cricket Photos - MI vs RR, 69th Match Pictures ESPNcricinfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1779689051425",
+          "title": "IPL 2026 Match Highlights | Watch All Match Videos - IPL T20",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jcWhXVU5TZFRpaUtuU0haZF9rVDhUMWxSaElqS1cxNEI3VXBWLXI3RXRVU0h2S2lWNnMzdUdHeVNreTJ2dTViM2p1SEUzSjBwTUE?oc=5",
+          "time": "3h ago",
+          "body": "IPL 2026 Match Highlights | Watch All Match Videos  IPL T20",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 Match Highlights | Watch All Match Videos  IPL T20"
+            ],
+            "tldr": "IPL 2026 Match Highlights | Watch All Match Videos  IPL T20"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1779689051425",
+          "title": "IPL 2026 playoffs qualified teams: RCB, GT, SRH and RR make top four - know standings - olympics.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3U0SG1KUWRDRjlxaUItdGgzdTViZU9vb2V3b0Z6aTgzVnVhOW9CTkUxTFVBY0d6LW1RcnBvSWZNS1NUTkpUOVJCZzRrd3RsODl0ZnlvZUdjem05eW9SMm9sSkEtV29jNXd4YU9LUm1LcS1UZFV2aGdXSmxvWE1yc1JCS1lUdGZVWG00QWw4ZVprSm9L?oc=5",
+          "time": "11h ago",
+          "body": "IPL 2026 playoffs qualified teams: RCB, GT, SRH and RR make top four - know standings  olympics.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 playoffs qualified teams: RCB, GT, SRH and RR make top four - know standings olympics.com"
+            ],
+            "tldr": "IPL 2026 playoffs qualified teams: RCB, GT, SRH and RR make top four - know stan"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1779689051425",
+          "title": "Struggling to walk, Vinod Kambli spotted at Wankhede during MI’s final IPL 2026 game — Watch - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPemRsdFF4Z3R6Y2ZLdzVJLW9KeXF3QUVVMExza3Z1T2FsWkNpS0dBSXhiUkt0RVFJSi0yb1MtSnRVLW9wLTB3VG1HenlMRmpRU2Y2RC0yMDZkTFZyTEpqeGQzYm5kc2owOWtENjNQVkktRy1DSWxNbl9MbzdyU21XY2JOWU43dExrX3FwaWNhWVJuSjhnaVg1VFZZYWh2UElDNXFtOGtINFpGQVlkN3o5c21nci04SXRIQkUtSWt5bnk4WmMyYW0yalhTMUtKdmNVWUxoLW0xOVZvYjNwYmJxS3pIN2Nla2pmNnJaSl9DNnViaC1xWDMwYVQ3cUpVQm1ialJmQXZGOG9sZ9IBjwJBVV95cUxNRHdSRzVhd1kzSUw2STFqVS1XZVBhWWdaTW1JNmVRU1lvYkUzTHBtYmp2Rm1iM3Nfc21rZjZhdV9tMTNuVVIwZlFTYTVoUnAwekZzNy1weUFQdGN6NThGZmVuVUVDcExYUEM2bndGQzN4WjByT0VGMjMzRkcxb1dwV1FBYUJfWkZfVGFkNEpCSHA2MDhYdElvRmdrd1lldHg0MzJaVEpzSWpLWFNoOHpIMlVfUUU2eW4xVmVDS1VCU3JpOEd3bWZlRXZZMFdseExDTnRDUGNwQjBYVVM5MDRaeU0zOFhNLW9BbVFialJFX3JzWHJnUjQ5a0hwZzQwY0tHazR2T0Flc2E2ZzJCT3lz?oc=5",
+          "time": "3h ago",
+          "body": "Struggling to walk, Vinod Kambli spotted at Wankhede during MI’s final IPL 2026 game — Watch  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Struggling to walk, Vinod Kambli spotted at Wankhede during MI’s final IPL 2026 game — Watch The Times of India"
+            ],
+            "tldr": "Struggling to walk, Vinod Kambli spotted at Wankhede during MI’s final IPL 2026 "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1779689052742",
+          "title": "Traffic Curbs At Lavkush Square After Trial Run Exposes Flaws In Indore - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3FxVDNzQU94ZExaNDJhN2lTS0VMQ2tYaEZHaFJYZXhEZGpoSVFoOUxPUDA5RS1kM0VBZDg3cWJ3c0dBQm1DOE13eFZyVFdZaEJxRERXUzVmNnpGbmo2Y0xNcnpSQ3ZpQWJhQmxWbExxcnNIZEpYNHNxb0ZEbEZRYlAyZ0YzbXVkNDVxSFYtNWVxcko5Nmo5YlpJQjVFWkd0NkFjWVhxdkxvWV96OXFj0gG0AUFVX3lxTE52Sy00OGxFNnhrOWlFVGw1YV94RUFXdXlld1hoVTZoNlVKSmZmSmhrWDJOM3dGUmhQU1FRRVBFR284U3FoTXdrNUVYa2pubGtrMlhIRHFONzg1QVI0QldhS0dKcXFuLU9kQ0VvWm4tbVZlUHZ2aVFWNWFBbVhneWdRUHJ0QWh6SVdXaW02Ry1iV0drekREdnFTbWZmbHloNUxNRDJXeVNNM3l6dF9WY0k2a3dLcw?oc=5",
+          "time": "11h ago",
+          "body": "Traffic Curbs At Lavkush Square After Trial Run Exposes Flaws In Indore  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Traffic Curbs At Lavkush Square After Trial Run Exposes Flaws In Indore Free Press Journal"
+            ],
+            "tldr": "Traffic Curbs At Lavkush Square After Trial Run Exposes Flaws In Indore Free Pre"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1779689052742",
+          "title": "Mumbai: MMRDA removes over 1.14 lakh metres of metro barricades ahead of monsoon - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTm9XbTRzdlhPRmNyLVJ2dG9yaEhDRHFURm8yTjFRQnh2aDE5bTRNNXpCeXQ4YzlZSHlpNnJWaXBaZEFIR2JMUHhKZkZQcUJsVnBneHhseXV0SEZrSnByZG50XzJ5QU8wMVdLeUFWc1dHY0pWN1Y3ZGwxVFlEdElWbGtQR01uNUtOMm90RVYwaVZzQ21kR1hNdExaZWg5MmU4ajhhdF9DZno4QW9LaWRrMHFPcU93MWw4a3hkb0xGMVlIb1YzNXBtNWpfSnVVRnMySmFUUGVGZkhzVkhIWDRFN2NHOFVGWGFzSk5GQ3M3OFBTZ0MxTEllZHpBdk1DdGZ4Y0lIcjdGWjIyUXFUazk2LUxidXJoV1pXZXpXNDRyaURtTlB5LVZXaVdqdkJtd293MGo4Wmw4S3l3eTl6ZG5WQWNFMHBnQ3EzeElPS0ZVRjVxYzJlZ2h6bXhNeEM?oc=5",
+          "time": "21h ago",
+          "body": "Mumbai: MMRDA removes over 1.14 lakh metres of metro barricades ahead of monsoon  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai: MMRDA removes over 1.14 lakh metres of metro barricades ahead of monsoon MSN"
+            ],
+            "tldr": "Mumbai: MMRDA removes over 1.14 lakh metres of metro barricades ahead of monsoon"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1779689052742",
+          "title": "Pune: PMRDA Sets May 31 Deadline For Pre-Monsoon Works In Hinjawadi-Maan IT Corridor - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUF5d2wxRS0yMFZmcWVpQnFNcTJ4T0xuYjJtbGVabXlJMXhLcXN1cWljUklGTXNhc181N2lsRkFvME9XeFduWDZqaWRBdkxhUWpMajBxX1hxUjVmVGlySGJxOWY4cS0xWU5tVFNMeXhLdU1LX3g2dVg2dHVxYm1fTkFLVFNpQjNMcU9SQklXTWRTWlJGa0ZfZHc5SXBvTzhQLWR2QmpDUC1lZlJ4Ui13YmdQV09MLVhHSkNVVtIBwgFBVV95cUxNVnUyaEdEWHNVV2FnUTg5bVZNQWtIXy0yVUpPQlMyX1FNRW50WUp2VHFfWk5CWF9Rbng1S3dLbFBpejBCcXRsS19RTXF2ZHZvRFlfaG0tQnBXWU9hazNNQTZkYkNndTBhV01XZE1SNHo4N0xJQ3Rvc0tvdEtGT3ZVRU5IVHlJcENsS3dHZmExRzE5dS1fLXBoa3ROWXQtZTBnZ2trY1Qxd3g1a0paVTZWSkhzSzloVEtOaXk5QzVKNlBIUQ?oc=5",
+          "time": "22h ago",
+          "body": "Pune: PMRDA Sets May 31 Deadline For Pre-Monsoon Works In Hinjawadi-Maan IT Corridor  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pune: PMRDA Sets May 31 Deadline For Pre-Monsoon Works In Hinjawadi-Maan IT Corridor Free Press Journal"
+            ],
+            "tldr": "Pune: PMRDA Sets May 31 Deadline For Pre-Monsoon Works In Hinjawadi-Maan IT Corr"
+          }
+        },
+        {
+          "id": "mumbai-city-4-1779689052742",
+          "title": "Pune: Third Mumbai-Pune Expressway Planned, Travel Time Likely To Reduce To 90 Minutes - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFctZU0xRHhXclpyMHlJUEJQdHZYUTNqOUVVcmdYQXJLdlRvenVZREtlMnI5c2FQLVhoeS1MaHpPeEhEVFgtaG5tQTVnYUR6X2lmWlliMUZBNVZFU254NndUWlpYaGhDbVhRd2Fvb185TTN2ZGRYcHFoWC1DSkQtaTI0aEV6MlRldTRXb2tLOVh3d19WeEZ6UVkyQ3hrSHdRUGF6YjJmSUlyQmhCNU1uOXRubGczbVlSOUN3c0530gHDAUFVX3lxTE1DSzNTWUQ2UVRfckNDZzNuMzNkOVBNZVp6S3hLYUp0V19nR1FCcXFSZmVQbDVSRGJOaGFndElzd0xEbFQ4S3J2bXJpb1E4RGpiTUxiMVBoWUlIOVhtT3R6cE9pSm9zNklrWjRwckJSR0ZpVWdNS2d2Um5IcUVib0U2QjktMFlCU0tWN1RVMnp2UU5sSGpSTTZhOWZjMVFyZFZfNmR5eVRBdUFtXy1RR0ctVjZNZGtSTnBCSjM4aVhuQXBtZw?oc=5",
+          "time": "22h ago",
+          "body": "Pune: Third Mumbai-Pune Expressway Planned, Travel Time Likely To Reduce To 90 Minutes  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pune: Third Mumbai-Pune Expressway Planned, Travel Time Likely To Reduce To 90 Minutes Free Press Journal"
+            ],
+            "tldr": "Pune: Third Mumbai-Pune Expressway Planned, Travel Time Likely To Reduce To 90 M"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1779689052694",
+          "title": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]"
+            ],
+            "tldr": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1779689052694",
+          "title": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]"
+            ],
+            "tldr": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy cou"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1779689052694",
+          "title": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]"
+            ],
+            "tldr": "Indian man run over by truck in New Mexico during family trip, parents came to U"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1779689052694",
+          "title": "Haryana native, 23, becomes UK's youngest Indian-origin mayor",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]"
+            ],
+            "tldr": "Haryana native, 23, becomes UK's youngest Indian-origin mayor. [object Object]"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1779689054053",
+          "title": "​Education department to install biometric attendance machines in all junior colleges across Maharashtra - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMktvVm10WkxtMTA4TGZLaGZ4SEVkRTJfR0VMczBhRmM4Rnp5UE5wNmNxZ0hROHh1TXpsbnFuSW1hd2JjMElTRDRjNGxLNThVODZ4OXlheTlCaXZ2a0loTWNoU3JjeXI3aXo4dE1wVi1FNGlvX3lNb3d1TFhNZmg4NHE1VjhndUhNVW9aVlA5RjBWbFkzTXNWbVlFRnBnT2QyMVRxTXFwTzZZUFR1QVJ0LVFmbnU2R1VXcHBPS3J2WEpyVzZ4STdjdXRPdWhodDJBVFRRMlBHcU5hSlRscFVSYlF1TVQ2MXJhanlOT1pYaEhPc0VFc1RDSVZvUmhBa25kWlg3TE1iNlB0eWZBd2fSAZMCQVVfeXFMTmJFNGR4aDdkY1JsUFg2dFM1VjQ0enpiOEtmaDFqZjVGTU1YR25HVk5kazlOeFpRWFVfZmVJU05OMnhjamxPV0xvVWhoOWpRRV9JSTBEdUt6ZU81NzJUNTd6ejYxX2lBcGo5RC1BVFJtY1B2WTNSUkZkbUx0aGpobGY1TU5WaUwtNzl6SkRiMjBCVmlVcEYyUjRwNHlOWGhIdWhPRVdrM1NRUURmT1lFMS1zdzVDb3B0alhIdHhIV3NHbmc2dUFMMEtNd1RhbWZvZFFWM2ZPUEgwOWh2eTRZekFQRGc3cWQzZTBMTTRRX2NodDVkTm5QWHZJUy1TUmQzVW8yVlU4MW1mcXA0NHVnbUlTT1k?oc=5",
+          "time": "11h ago",
+          "body": "​Education department to install biometric attendance machines in all junior colleges across Maharashtra  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​Education department to install biometric attendance machines in all junior colleges across Maharashtra The Times of India"
+            ],
+            "tldr": "​Education department to install biometric attendance machines in all junior col"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1779689054053",
+          "title": "Police protection provided at home of Cockroach Janta Party founder - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmpHUDN2OHpua00tVnZ3OTUzVVl0RGtVZ1BkZ01FRXAzNU9kd3U2QlZMNHlZaV8xMmhJVHBDQVBnUHlsbmw4NmdtR1k4RjB6Tlk3eHJ1XzFhSTc0bWVSMGZYNGU4aGkxRDF0THdMQXJVNkpXLVRiVDBUcnBSazUwM1dqYUp0QVVUNGpaUkUxck1RX3BIczJrSnlNbVZNWk8tYThBMWF3Qmc4QzJRdk95eExHRUkzNFBMcGlCdXliN0U5Z3ZfNGhQQVp5Y9IBywFBVV95cUxQRmpHUDN2OHpua00tVnZ3OTUzVVl0RGtVZ1BkZ01FRXAzNU9kd3U2QlZMNHlZaV8xMmhJVHBDQVBnUHlsbmw4NmdtR1k4RjB6Tlk3eHJ1XzFhSTc0bWVSMGZYNGU4aGkxRDF0THdMQXJVNkpXLVRiVDBUcnBSazUwM1dqYUp0QVVUNGpaUkUxck1RX3BIczJrSnlNbVZNWk8tYThBMWF3Qmc4QzJRdk95eExHRUkzNFBMcGlCdXliN0U5Z3ZfNGhQQVp5Yw?oc=5",
+          "time": "12h ago",
+          "body": "Police protection provided at home of Cockroach Janta Party founder  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Police protection provided at home of Cockroach Janta Party founder The Hindu"
+            ],
+            "tldr": "Police protection provided at home of Cockroach Janta Party founder The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1779689054053",
+          "title": "Chhatrapati Sambhajinagar residence of CJP founder given police protection - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdDd0ektfTUFvTlVsb0R2anNrY205TEFfNFYxcTVma20yOFExbmJMdjdhU0g5NlRCbUJuMjh3N3Z5eGtVTzE4cE03QkFJYWNHMVRSQmZSNWlnbkpHMkc4dkZiZ184cG1yQWhRcm9mRXptT1p5OVFWZ0RlR2ZJQjJzSEZ4ZXU4c0NvaFg1Q0lHU2xYUVl6QmRwRGhqZE56WEt3cE1CclNYSExtV05SUHJmTlk2a3BFN3ZVbTBacGMtZ9IBvwFBVV95cUxNdDd0ektfTUFvTlVsb0R2anNrY205TEFfNFYxcTVma20yOFExbmJMdjdhU0g5NlRCbUJuMjh3N3Z5eGtVTzE4cE03QkFJYWNHMVRSQmZSNWlnbkpHMkc4dkZiZ184cG1yQWhRcm9mRXptT1p5OVFWZ0RlR2ZJQjJzSEZ4ZXU4c0NvaFg1Q0lHU2xYUVl6QmRwRGhqZE56WEt3cE1CclNYSExtV05SUHJmTlk2a3BFN3ZVbTBacGMtZw?oc=5",
+          "time": "10h ago",
+          "body": "Chhatrapati Sambhajinagar residence of CJP founder given police protection  MillenniumPost",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar residence of CJP founder given police protection MillenniumPost"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar residence of CJP founder given police protection Mille"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1779689054053",
+          "title": "Maharashtra: Police security deployed at Cockroach Janata Party founder's house in Chhatrapati Sambhajinagar - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUVB2aHFuSElEWmpZSko2ZDUwb241WTk5VV9qR1BZaWVUbWd6aWdhQUZJYVhrMlp4ZmU2SVZkWEplaXZrc2FucVRPanp0cE1Lb1NoRnVWQm5Jamc2MUt6LUZudV9MTVVZUXBlWTZ2Y1pPaXhrMjAzc2o5ZmVJQTc0VVVfaUtCakJxVHFSQ0ZET1FGbUtLMnp2UFJ0eW1jYTFLZm9jVC1TZHdEWS1GbHBQUmFtYnJZUVY5ZzFPRHNFcmxhRXE3VVdicU9xZjdEU21weUJKLUlQaFZTbnNyS0V0RFJYckFrTlhONVRKOFc4M3F1RzZ6SFBDRzR5Y0FFbmlCcVliUkZn0gGLAkFVX3lxTE9PZVM5NnZJU2FHdURsT2dhdUktUFlSVENfR3FJZjVDTFBpWVgwQkdBWUlBbE9adHZmSUw1bVBlaU1uTzFEWFdmU0dNN1U3QW5jZ2VkTUpFaHp0RFpBNnJfb1VrQzRxaG5SbU5ybzMxZXNMdWJ2ZmhEWFZHNlRIejJUM0VWaVpDOE9vRUJDQlVvenFxX2toZHZfTVJYRE9ITnQzTFVNY1NWU0taMEdiRUdPMlhDMjVJU0VRanFHNHh0cmVMZnFpMHBqOXdSMnJqeXNUS2s4VVZ1QjlFMjVZb1BYdnRJOHBPMDRNU1BQYm9UWHR2MllWdjRCS3FHcWcxdVA5TUFPR3BuXzJ1bw?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra: Police security deployed at Cockroach Janata Party founder's house in Chhatrapati Sambhajinagar  Mid-day",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Police security deployed at Cockroach Janata Party founder's house in Chhatrapati Sambhajinagar Mid-day"
+            ],
+            "tldr": "Maharashtra: Police security deployed at Cockroach Janata Party founder's house "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1779689054053",
+          "title": "Cockroach Janta Party founder Abhijeet Dipke gets police protection at Maharashtra residence - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWEFHVms1bXpZbEJxYVVtelBCVXdvQTFHcEJaeE10bU5PT0tFd1NKTFl3NDlvNUdLaURkakRIRVBGaHVsV2xtSVpORnJKMm1Fd0lPdUJ1N3FybWc2NlZmaV9md2VsRFBxcG1qV0lITHBKdWxSU0h4S1pTdFRXcEE2RlUyLXh0aHVycTFLazd4RVJ2MWFsX1o0ZlpweUhiSFBOSkNvQndrbWpQSVdEd2ltTDRnTFVDN2lmTTBfUzVlS1dFVUo1VXZlYmU5VmNaX0E0N2JWdHk0Z2FMZDhDazAtSE9iRW0yWHpOU2tIM3lEdnVMX19QSnlsNtIB_gFBVV95cUxQTC1pOGJtNUFiSzRwVm9TRFNnMnNjaTRLLTJvTUcyam9OdWhsMzYtSzF6a2l0eG5MVFZCTUdUaV8xRTUxYmJvM1R5SzZUZVMxYTlCVEVScHJ1OTVBOXFpZElELW5hTGRWQ2Zla3BlRk9wQTV4aGZpbGlVYXVaS0NCeWF5dnJpMXlzbkRjLTZPand1a09lN2g4ZDdaWjFFc0pEa2tGaHkzLXY3S0ZIQXJ5dlZ1TVU5Z19PR0dkZThiSTdJaUxPaGRXWm1fdGQ1V3B3cGhwR2R4OWx3NVpHRWZFUFc4U1lUMzJtV2p0SzlSLWJYZmpUQWloRV9HLVJjQQ?oc=5",
+          "time": "19h ago",
+          "body": "Cockroach Janta Party founder Abhijeet Dipke gets police protection at Maharashtra residence  India.Com",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Cockroach Janta Party founder Abhijeet Dipke gets police protection at Maharashtra residence India.Com"
+            ],
+            "tldr": "Cockroach Janta Party founder Abhijeet Dipke gets police protection at Maharasht"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1779689054053",
+          "title": "Who Is Abhijit Dipke? The Brain Behind The Cockroach Janta Party Movement - Brut",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYk92TmswOGZESU9xTVJ4OE1ScjFxMHk2RDBjNm9uWXRuT1ExYXlnLWw5Q09uVjNxUnoxV3VVSkVWaGRMR2xfNzFIbnZCSEVHR2lIUVFQU1FseXZfYlZsWGgzV1EzY01SaU82OUZrYlBsX3ZuSHF1cENkTkVvMFpsY0Y2MDdMaEVpU1RTXy1hcXY5QmlrNnBCaG5WQm1pNGdrZ0NzT3M5QWJRdno1enk1UmVyeWg3VHhjLURudUdXYw?oc=5",
+          "time": "7h ago",
+          "body": "Who Is Abhijit Dipke? The Brain Behind The Cockroach Janta Party Movement  Brut",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Who Is Abhijit Dipke?",
+              "The Brain Behind The Cockroach Janta Party Movement Brut"
+            ],
+            "tldr": "Who Is Abhijit Dipke?"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1779689054054",
+          "title": "Cockroach Janata Party founder Abhijeet Dipke's parental home in Maharashtra given police protection | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONFNvTmpyTTlWOGpteDYxMVViVWQwYjhBMkpzN09sbVVjOUNBRUktUWhoQWM5NnpIejFLdmp6WXRrMTZFX0tYRFdaRkg5Zk02RDA2cUl2Q21mXzVwSWpuYk5JcTRZclo3VDJibGNlVl94aU5Od3M1NnBpSVVUem1xb1VsbjBoMGlrdTBZNHBJVFB5Ym14UkJZT18zTnU3T1JqeHJORWlPWXRyVy1mbmFHRHpwTnBpV2JWSkVLMks4dWhjbDFncWxyRDZldEQtWEtCVDZqbGxUanItYk5zZURrRHROZnFMYktCcDlLZlhydk1DaElQM0JYaDdR0gH6AUFVX3lxTE40U29OanJNOVY4am14NjExVWJVZDBiOEEySnM3T2xtVWM5Q0FFSS1RaGhBYzk2ekh6MUt2anpZdGsxNkVfS1hEV1pGSDlmTTZEMDZxSXZDbWZfNXBJam5iTklxNFlyWjdUMmJsY2VWX3hpTk53czU2cGlJVVR6bXFvVWxuMGgwaWt1MFk0cElUUHlibXhSQllPXzNOdTdPUmp4ck5FaU9ZdHJXLWZuYUdEenBOcGlXYlZKRUsySzh1aGNsMWdxbHJENmV0RC1YS0JUNmpsbFRqci1iTnNlRGtEdE5mcUxiS0JwOUtmWHJ2TUNoSVAzQlhoN1E?oc=5",
+          "time": "20h ago",
+          "body": "Cockroach Janata Party founder Abhijeet Dipke's parental home in Maharashtra given police protection | India News  Hindustan Times",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Cockroach Janata Party founder Abhijeet Dipke's parental home in Maharashtra given police protection | India News Hindustan Times"
+            ],
+            "tldr": "Cockroach Janata Party founder Abhijeet Dipke's parental home in Maharashtra giv"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1779689054054",
+          "title": "Chhatrapati Sambhajinagar residence of Cockroach Janata Party founder Dipke given police protection - BusinessLine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQblZvYnFjUF9nT0dKY3FIc3kxQlhQc0NqeHpLLWt1SVUxbmpWeEIwWjk3SWtfZE9DN0F0VU1lMWtaUWVhMV90MFhOVHc0SVZiTWtIZ3VGZWxETXFlSWQyd2xBZDhLNHY1cUJTYl9EdWVBc2o5M1I2blRGdHRHYzAyOGtMZjctbmZ0MXpCSWl3SWVURnY3Tzd1TkowUU5UaGtnalZiaWgtNVZneVkzd2JFNGFOWV9QczkzNTEtTVNnN2RPZnlDVGo2U2RJeXB2bldCS0NVSkFWUzJzVEVhMWt1d04xblJZSjdiZXVyQThPZFJ3NXPSAfoBQVVfeXFMTlJ3N3BpQXFWUzhwcXFPUnNya1NXRW5DQklvM0xHQnpIcWlrc2NaOUFXdTREODJKelBobWFfWEdmTHo3Z0VNLW5lMS1NcmVodE5kb2FmVVdvRklfb2o4WUlSU3dncnB5Q3NJdUlkcTJ2bFVPMm11Q0E5eHpvWDJoeU5wWmxNdjVHY2lFenh6YlFibnVrZV82UjY5M2pkN3BhUkpDMEU1NExsdjhxUkV1NHRzcTNtc3ZsVldsenBHR0d6QUsyUUEwU2E5Q05TRG5kVTI3LURSQUE1OTdzbTZPZnV5VzlGLVdob29DVWJUQVVGbXA3aVpiYUE2dw?oc=5",
+          "time": "21h ago",
+          "body": "Chhatrapati Sambhajinagar residence of Cockroach Janata Party founder Dipke given police protection  BusinessLine",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar residence of Cockroach Janata Party founder Dipke given police protection BusinessLine"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar residence of Cockroach Janata Party founder Dipke give"
+          }
+        }
+      ]
+    }
+  }
+}
