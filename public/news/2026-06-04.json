@@ -1,0 +1,791 @@
+{
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T06:22:38.546Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1780554152701",
+          "title": "End Of An Era: Mumbai’s Iconic Air India Building At Nariman Point To Now House Maharashtra Govt Offices - curlytales.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWjdCR0RJTktxV2hEdVhQYnk1eEpzcS1KdmtQODRqNTZtZzZRYXEwM0Y3NzA2dnVIVVM1S0J0cWplNENaT0d3SjFYb1p5aDFoa1RtUWpySkZTVmtoanM3SjMxWUUwekhvbHZxa0w5Zy14NjBUaV9jSUltUEJuVUc3N2pXenF3SlowLVJpcEU1N3l4VW11T3hUY0RwUElHTFJpQm1mcms5NFJzVHI1Nm9GLWJ2UGFIRGFFSmRRTHdWdnlNRU9nVFZzTGIyaXcwcmJfMng1Qkxjd0fSAd4BQVVfeXFMTUtZcWdaSTByODJPb0l3b0dBV2hwektBdE1FajZkUVFPdmN4Z3pER1hOcTc4VlBfTGNzb0UtOHRsTHJzaEdNSGVweUZjQk9tWi1kSzZhODU1aE9Cc1NHT1BvM1dqUk5oYTIzNUktOW9GdnNuRmRkNmdWQ18xZVM3Wk44Zmh4TGhSbTJpbE5hd3lvbFR5YlM3XzZ6OE92NWk4UEY1Z3JXb0VyQmJDTHpYVEVHNFczUGh5R3dzcndQQzQxdkZ2T1ZFMm1xLVF4WkFid3VJSDFsRVNPc2JNT2Jn?oc=5",
+          "time": "Just now",
+          "body": "End Of An Era: Mumbai’s Iconic Air India Building At Nariman Point To Now House Maharashtra Govt Offices  curlytales.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "End Of An Era: Mumbai’s Iconic Air India Building At Nariman Point To Now House Maharashtra Govt Offices curlytales.com"
+            ],
+            "tldr": "End Of An Era: Mumbai’s Iconic Air India Building At Nariman Point To Now House "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1780554152701",
+          "title": "Maharashtra Government Acquires Air India Building for Rs. 1,601 Crore - Realty Plus Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYThmWUl1ZExyNEIzUWF2ZC1kSlkxUUJnbDJua3dIZTNSNC01cWlrdUdoQklqdWdST1pSZ0VfRmZCc2l5cENNc1JYQWoxNzMxazVoWGFiZG8yN01MRHZDQWJmV3I1cEpmMDBwV2dueTNzU0t1RFVfWUFiWE9GYjZqT3NWMi1QWHJnanpOeUZGVG0weGUwZ3IxdkFZRU5sR2k3NXhld2ZHV0F0Y18tQTVhVkhvZ3FHcndzVVJHZQ?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Government Acquires Air India Building for Rs. 1,601 Crore  Realty Plus Magazine",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Acquires Air India Building for Rs. 1,601 Crore Realty Plus Magazine"
+            ],
+            "tldr": "Maharashtra Government Acquires Air India Building for Rs. 1,601 Crore Realty Pl"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1780554152701",
+          "title": "Maharashtra government and Prasar Bharati SPV to develop Integrated Film and Television Media Hub in Mumb - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYlR3VmRTeXdkSVp3VUJRaHVmNW5DdEt0bDAtRG01TzdZN284bjlaRXdERXdsQmtiVlpaT1NCZGJlUzJTSy1yc0FZN1NiNzBxMm1fcm1XUk1pM3V5Umxscm96M2s4ekd0Sm9Bd0tpWnFEYk9YR0ZFX1ExY1RmVFVXeXBNdXEtNUJ3Y3lwX3RiZFplUEl6dzI1TFM5U09lYU5QdHpzaUxGakF4Z3ZUU3dhN1p1cG8yd25rNE5uN001cUx1WkdmWEJTaWlLZV9mYklLRXFBOWpobUNWd1JoQk9HRC10TktpWmt1U20wQVYtVXMyWDVZTEhUMWs3MXZBZ245MGFFLVFWQjQ4Sm5CcHfSAZMCQVVfeXFMTjE2R1FBaTdvUGlFbHpHWUtVSlBUR0NpTWdhX2FmanYtRW9PWFJnd09IeE5oUkt3dWc5VnVpUm5pWF9vYnpYUFp3ZzZyenhRNUJndm1RVTZMNHk2N254ZEZKLVIwZl9oOVBFRTVmcVFVcHBEUmZVMllIQlVJVkFrMGgzQTctX2xKam02LW1NQU92NTdMcVlHU1BpME9tSnpPU1JON3FjSExSd1RRNUtYcTg4UDZpOGRKUWV4OGhfeW9LTXBYVHlELUVVX0pPeG9sM1E3elBCeDNRT0VFcFROS21YVklIaE5rWUJEZVMwRFVLTjJwLUJtRkRNSFBKMUI2cUEzTm9JRk42TGJJZm1ubFBTWnc?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra government and Prasar Bharati SPV to develop Integrated Film and Television Media Hub in Mumb  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government and Prasar Bharati SPV to develop Integrated Film and Television Media Hub in Mumb The Times of India"
+            ],
+            "tldr": "Maharashtra government and Prasar Bharati SPV to develop Integrated Film and Tel"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1780554152701",
+          "title": "Maharashtra Government Acquires Iconic Air India Building for Rs 1,601 Crore - dailypioneer.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lIWGJPWHdYYkhhMVY5YnhUd2NFSmI2Tzh5eF8tVEwycVdUb2pTR3BBTDhQd2gzRE9naHNOZTBESHdQVTRqQm1WOWd0N25UQnNwd29zNXRNRmJBM256UVpvQlhNSmd2NFVOcHFzN05WV2pxOEwyLWFPWktSZXFmakwxVy13eWZjcC1UVnZla1ZaSEVUQ3c?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra Government Acquires Iconic Air India Building for Rs 1,601 Crore  dailypioneer.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Acquires Iconic Air India Building for Rs 1,601 Crore dailypioneer.com"
+            ],
+            "tldr": "Maharashtra Government Acquires Iconic Air India Building for Rs 1,601 Crore dai"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1780554152701",
+          "title": "‘Facade, 50% farmers kept out of benefits’: Opposition slams Maharashtra government over loan waiver - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEpxaGphVUZSYkhkd25WQ0VrOElnQy1GdlhzTmJsd1FQeWJfbTh5aWl0QnZyakJVUC00OUpFZjBRaV9tOWlBcWZ3b0dRb01ucUlYR0lCVjZXZkVCN1Bza0hVeVpMN0M3aU0xYm0yVjhOVHBxRkJyRTFKUElmQ3AxNzZfWmJCZmRQRE93R2hCM0ozQlRWX2VQUkdqTFpKVE1jNW01cGNjdDVRNGZQWkt0Q1JwOUpoSGlM0gG_AUFVX3lxTE9yVWNsTkxZU1hVVDBHVHRsZXRsVkVNODMzQTVxSGNCUk1rZU5pcGNKMlF5cWZQTm5aaGFrWGoxdEtZamFEVngzN1JRT2JxXzF3TEplTkpUbmVDRjFlVk9vclpsMFRIdkhJMTEweXFKRDFnNUVTVzlURnZya2dzRXFYZ3pyWDZuZS12VFVPTFZHTnI2cGlRZWxHeVhJMkhERHNVZTYxSUxUVWZBLVVyNGo0cm16WmxfdWI5OGFpU0NN?oc=5",
+          "time": "14h ago",
+          "body": "‘Facade, 50% farmers kept out of benefits’: Opposition slams Maharashtra government over loan waiver  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Facade, 50% farmers kept out of benefits’: Opposition slams Maharashtra government over loan waiver The Indian Express"
+            ],
+            "tldr": "‘Facade, 50% farmers kept out of benefits’: Opposition slams Maharashtra governm"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1780554152701",
+          "title": "Maharashtra govt sets round the clock helpline for stranded tourists in Kashmir - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFNDVEtJZEdEd0VaRkJ0MVpKbDF3c3JxTGF2X2ZvUHktVjFfaURza2lYc0pHX0ROdm9FM1RVcjBfRkVCZm9CamJlc3V5RkI5Zmg1X0NURTV5YlBEb3FGcjA4TXNrU1NmZGZsNXk1Rkdvb1pKSG9yZU0zb09tUFQxZ0VZd0tQYWxpYlkxUnU5MGdLcm9PeFFiVkNFSV9FWEVkMlNKUTBxQTI?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra govt sets round the clock helpline for stranded tourists in Kashmir  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt sets round the clock helpline for stranded tourists in Kashmir News On AIR"
+            ],
+            "tldr": "Maharashtra govt sets round the clock helpline for stranded tourists in Kashmir "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780554152701",
+          "title": "Maharashtra govt takes possession of iconic Air India building at south Mumbai's Nariman Point - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLTJMY21EcjN3YkFwVzFvb0U3UWlZWmZUaEdlX2xmdV9hYUUxOWpQTnFJcDB0TkhVWXJHbWE5RzA1LXNPOFkzdk1wc0ZQaXo0WnA5RW9xS2FyeVcyOVZMenphLVBjb2VRcVVVS01UZEZxRjR4YTUzQi1zNUlib3BXZVRoZUhicTNMX1N6TDBCVFFPVnNUb1p6MVBwNy05WG5hSV8tVkpTRmE2cDNZRTJaQ3VQMk96ZVBfYUItRE1IT0JsNDM3djRLaTlxc2U0N0FCcUdjUDlMdHRMX0xjTE9iU2YtX2xuQ0JBQkp0THBadktVZlZCLWdYMjY4Z1psNF9fN2k2TzRPMNIBhwJBVV95cUxOLTJMY21EcjN3YkFwVzFvb0U3UWlZWmZUaEdlX2xmdV9hYUUxOWpQTnFJcDB0TkhVWXJHbWE5RzA1LXNPOFkzdk1wc0ZQaXo0WnA5RW9xS2FyeVcyOVZMenphLVBjb2VRcVVVS01UZEZxRjR4YTUzQi1zNUlib3BXZVRoZUhicTNMX1N6TDBCVFFPVnNUb1p6MVBwNy05WG5hSV8tVkpTRmE2cDNZRTJaQ3VQMk96ZVBfYUItRE1IT0JsNDM3djRLaTlxc2U0N0FCcUdjUDlMdHRMX0xjTE9iU2YtX2xuQ0JBQkp0THBadktVZlZCLWdYMjY4Z1psNF9fN2k2TzRPMA?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt takes possession of iconic Air India building at south Mumbai's Nariman Point  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt takes possession of iconic Air India building at south Mumbai's Nariman Point Mid-day"
+            ],
+            "tldr": "Maharashtra govt takes possession of iconic Air India building at south Mumbai's"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1780554152702",
+          "title": "Maharashtra to Establish Maratha Reservation Cell; Helpline Launched for Certificate Assistance - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUZWbEpBOWE0RXQxQWNrOHhRLU1kY0ZWRFczcE9mN3lqQnZ6b3BsOUV0b2tEMTRlZlY2bzE4R3ctWHpmOVE4dnhTSHVNWXhYX0VFV2dMU3ZDMHFjb09zU0RnWkZWYTNIaWJXYm80RC1kMGZqWVU4S0dyTTVmdzZtMjhfOGFhRWFqM1VkeWYtQdIBjwFBVV95cUxNLUZWbEpBOWE0RXQxQWNrOHhRLU1kY0ZWRFczcE9mN3lqQnZ6b3BsOUV0b2tEMTRlZlY2bzE4R3ctWHpmOVE4dnhTSHVNWXhYX0VFV2dMU3ZDMHFjb09zU0RnWkZWYTNIaWJXYm80RC1kMGZqWVU4S0dyTTVmdzZtMjhfOGFhRWFqM1VkeWYtQQ?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra to Establish Maratha Reservation Cell; Helpline Launched for Certificate Assistance  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to Establish Maratha Reservation Cell; Helpline Launched for Certificate Assistance Marksmen Daily"
+            ],
+            "tldr": "Maharashtra to Establish Maratha Reservation Cell; Helpline Launched for Certifi"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-4-1780554152701",
+          "title": "Maharashtra Govt acquires landmark Air India building for ₹1,601 crore, plans govt office hub - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdm9yZ0lZMjdrV0phSWtvTW83YUVpNXV6N0I2c3pZbG1WbjhKYVN1Z285d3NWSFk0MmFORGlrUmdXTndIeHlQLU9TS3ZTa3g5U09zNk5CbFRNOExxR19PaGQ2SGs1UzRrSklLd201V1pEbG5mRkJqTTJXX3dFYmdBaTFpNExuQ01kOUxoMU1oczVsY1dzbjg0LWFkaE1zUHpmYWduendZMlp4UWFUVUs1MzlGY0NhUHlUVk5yOVZhVkRGLU5GMl9NSzFaQk16Q3F1ZXNUOXpvMNIB5AFBVV95cUxPSTV1NDE2dEgtbmxrYlVEdGNVSjhUcTQtU3hZVWRHVlVPZWZhTXhDSWc4WnV2NnpXUlVkRlRhc0ZkaTRUSWxwMWlfX01NeUNsRm1ZdTBFUjNqWU1VR0g1c1lEcm5YRmo2X2QxR2I1bG5xNmFjYWV4MmhVT0xOYVY2eEMwSFYwTEFnRVZiOFhoYW9JWHNJdE5lQUF6Tjc4WTBOR3dKVmRZNGJuVFNOM1BqS2JMdWRWYTRoTDFlWWVmVXdZWEE3R3J3Wm5WM3lSajJueWZKOWNhYzVONTYtVVY0UlJZdEI?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Govt acquires landmark Air India building for ₹1,601 crore, plans govt office hub  Fortune India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt acquires landmark Air India building for ₹1,601 crore, plans govt office hub Fortune India"
+            ],
+            "tldr": "Maharashtra Govt acquires landmark Air India building for ₹1,601 crore, plans go"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1780554152702",
+          "title": "Mumbai gets new admin hub as Air India building goes to state for Rs 1,601 crore - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVZ4WUVJYXQ4QXM4ajVIQXFmckRHbGFLY3ZBSUJ0cWhWN0xQMlNLN25jSi1XVVJlQWhOWUU3NHFXamw4Z3lKM3ZVc2NmWE5EUWN6OEhxd1ZDM2tWQ1dzdUxGcDNEWTFqTmJsd3cwUFRhb1ZCVlBQd1RrUVhPMllKZmxTZ25aUmFpTk8yNzJGOUhESGVmYjJtUjd3OVdnT0s0eGEwQ01DcUM1RkY0YU9NeEJmMnlldjVadkl4TGx0REgtczV6XzFBWFlCZjRfdXR0ZjZWU2YtYlJFWU5P0gHiAUFVX3lxTE41UUoxYW1hVE44eDRBTWV5YXVJUnk0OEdSNVlYeWdZNjgxSDBBZVRFNGt5eGdMaERaUFlBQ3RuX1pfb3VkZWFKbWFteVFIem1pMzhMSTE2bG1NNDN3SUJBa0pCQ1ZGaDRLRk9xYjBKaDZQRTVOZzdISWQzSkV4RllMRWljYnU1REszUUljY2lOdlI1Z1BaRzZpMDZrTVNGVGZDWlY1SllaNzZvQWs3YkpnQWJpX1M2MnVudHB6SElhZ09sNTg2WjJyanM0QVJROHBCSHFoSHBBOEZUd2FXTW9iMmc?oc=5",
+          "time": "19h ago",
+          "body": "Mumbai gets new admin hub as Air India building goes to state for Rs 1,601 crore  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai gets new admin hub as Air India building goes to state for Rs 1,601 crore The Economic Times"
+            ],
+            "tldr": "Mumbai gets new admin hub as Air India building goes to state for Rs 1,601 crore"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1780554152702",
+          "title": "Maharashtra Acquires Iconic Air India Building For Rs 1,601 Crore - BW Businessworld",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQandEMlZQSXJ0bGRJU1BVWkZ5UWxuc1ZTSlh6R0lUclZ3aUVvanRwcmlmT0NtVUtvSnFkSk42bEJvY1RiZWlDSEwzYURtQUxEM2ZXam9IUENZZ2JZY0pmemtUMGFPYkNLaUozTEpWTWVFNVhsSXFScjdaWlh0ZlpSQmpmcUw5LWZtUi1vc1VsU2NMc18wbGdSZEpjZk54RGp4OXVkUmxyQ0E5dnlKWkE?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra Acquires Iconic Air India Building For Rs 1,601 Crore  BW Businessworld",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Acquires Iconic Air India Building For Rs 1,601 Crore BW Businessworld"
+            ],
+            "tldr": "Maharashtra Acquires Iconic Air India Building For Rs 1,601 Crore BW Businesswor"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780554152638",
+          "title": "Maharashtra debt tops Rs 10 lakh crore; NCP(SP) seeks disclosure of pending contractor dues - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQUUltREVFSllHQ2dzRV9kcEtJekJTYkVmdVkwemxfcTh6a0dHV091T0pwNk1FcHZteFE3TEswNVRvSzR4UENZQWwwOV8wandQWXpQbEtXeUp6cmY4eVpMdWEtZWl4SjZTR0NWY0h1bVhLU2x1ek4zallEcHdsVl9ldXhsYVpjTU82NXlmOXVjSHJJWWpFbkJVLTIzOFBTZ2ZzUXREOEIzOW1jdTR5N1F1SmYtUVAySkZZUVRVQkkwTkt5YTN3eC1hLVVsWHl0UXF3a0d2dnJHX0JNWlMyaDVFU1lFUEltUkJwUGxsMWJzTXRrak5JVVIyNVFpcHN3RXdlZHI2SVVZaTE2a2JWWmdsUmZuQjhHVUtYR0NtVHdtTkVWOFB0MERSNGlTVDM4elZXQVBRUzlpQUp1bk9Ra1g0VzFBcDdYTXRwQjhkNUxveHdRMXZGdmEwaUtkNHdmaWh6TEdiX0Nvc0VfRmFWakUydHQ5SkQzQzVoOVcw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra debt tops Rs 10 lakh crore; NCP(SP) seeks disclosure of pending contractor dues  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra debt tops Rs 10 lakh crore; NCP(SP) seeks disclosure of pending contractor dues MSN"
+            ],
+            "tldr": "Maharashtra debt tops Rs 10 lakh crore; NCP(SP) seeks disclosure of pending cont"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1780554152628",
+          "title": "Sensex down by 645 pts, Nifty dips 204 pts at close - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX0w2WVUwY1AwcUNycTNSSDh4MUN5MlpHRWpwYmdsVEQwemU5SW5tdU10Y2hTcXpoYUI3cmV1ckZrV2FhVDVWbFA5MEhoTC1xYmNWYmtKSS1qcWlSbzJqalQ2c1NfNHBHQ2I3SWY1N19VUGN2dG9CX01tQ0k1alhwd09McHE?oc=5",
+          "time": "18h ago",
+          "body": "Sensex down by 645 pts, Nifty dips 204 pts at close  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex down by 645 pts, Nifty dips 204 pts at close News On AIR"
+            ],
+            "tldr": "Sensex down by 645 pts, Nifty dips 204 pts at close News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1780554152629",
+          "title": "Stock Markets Slide: Sensex, Nifty Down on Global Weakness - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVWg5T1psLUFkS0hoVXkxYVNNN05CenF0cE9lblZRYUlWakVMNDQtWmZwSENUbGw3NTlWYWhWdFlmWTZxVktLYmNzbkVpbzZkT2RnSF9vWjhvMHd5SlRLaS1UcHZHTTRpOFNxWWdFUzFoTnQyc2hSMUwtc1ZKVGNiaHZ3ZkNHSmFGQ2NSeVctdnVWelFkTDlLNmI3ZWdXUzV5M0p6MVlpSE1aVGUwZ1hzeEh30gGyAUFVX3lxTE9VaDlPWmwtQWRLSGhVeTFhU003TkJ6cXRwT2VuVlFhSVZqRUw0NC1aZnBIQ1RsbDc1OVZhaFZ0WWZZNnFWS0tiY3NuRWlvNmRPZGdIX29aOG8wd3lKVEtpLVRwdkdNNGk4U3FZZ0VTMWhOdDJzaFIxTC1zVkpUY2JodndmQ0dKYUZDY1J5Vy12dVZ6UWRMOUs2YjdlZ1dTNXkzSnoxWWlITVpUZTBnWHN4SHc?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Slide: Sensex, Nifty Down on Global Weakness  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Slide: Sensex, Nifty Down on Global Weakness Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Slide: Sensex, Nifty Down on Global Weakness Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1780554152629",
+          "title": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHc2eXEzWU1OUUNHeGdEZXJnd01OTV9QVk1aSFFNRWpXNUUyMjhZTHEySWNwNmJXdnNsSDAwcDBRRks5WHhvMnZCLXVhajExMmdGLXFIUl8wczdsT2o1bmYzLVZRY19jWkdpTHRORUl6cVh3RjJQX1R5d1ZLVzNUQmcyMVRsdEFDLXBWZDNobjZ0djYyVEFrWGhoOVg5c2FZZDlVSF9lQmdEZ0k?oc=5",
+          "time": "20h ago",
+          "body": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism News On AIR"
+            ],
+            "tldr": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Opti"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1780554152629",
+          "title": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG5NeXhxc2ZsS181YlJsWllQMEF5M21FZllkZEpRYm1aSHQ1ejYtZEc1eGxXMDNlRE03X1JRNmJOSWZFRVpTMTBUZVU3SkNEekp0SS1aV0JMWHZBSW8zN3Vaa3V0ZHF3TTJWQmFmbC1wRVVCWFJnZWpONWI1Q3BidEJMLUJYMXVFQ2Q4LTd5VjA2UFpHZm9Z?oc=5",
+          "time": "8h ago",
+          "body": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+            ],
+            "tldr": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-8-1780554152702",
+          "title": "Maharashtra and Prasar Bharati to jointly develop 150-acre media hub in Malad | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmtiNWZYVDVRYWQ5cE5CcnV3LVY5aTg2cWZnVU95aU5Wdm81ZGpSWnNGeHdWeWtCdktoal9TYk5ld1hsTmpJRTVnakJGX1ZYQVF3R3lfZWFsS3g5SEJJQlN0VVVNdkJIaGNrN2x3emNyT0dqZm43MU5SZHp4OHVfanA3VWxJbllqS0FqNVJwNVBIVGQyZ2ktRU1rbmZZV0tzTUR4WFlRWGJPNkpxdlAxUG82WFNYS1h4ZDVLZXZPdXVQTDhNZlRDa01haElscmlkZkJlSEZQV3JSd3liLXlDTHpnYS0zSVHSAecBQVVfeXFMUEJrYjVmWFQ1UWFkOXBOQnJ1dy1WOWk4NnFmZ1VPeWlOVnZvNWRqUlpzRnh3VnlrQnZLaGpfU2JOZXdYbE5qSUU1Z2pCRl9WWEFRd0d5X2VhbEt4OUhCSUJTdFVVTXZCSGhjazdsd3pjck9HamZuNzFOUmR6eDh1X2pwN1VsSW5ZaktBajVScDVQSFRkMmdpLUVNa25mWVdLc01EeFhZUVhiTzZKcXZQMVBvNlhTWEtYeGQ1S2V2T3V1UEw4TWZUQ2tNYWhJbHJpZGZCZUhGUFdyUnd5Yi15Q0x6Z2EtM0lR?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra and Prasar Bharati to jointly develop 150-acre media hub in Malad | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra and Prasar Bharati to jointly develop 150-acre media hub in Malad | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra and Prasar Bharati to jointly develop 150-acre media hub in Malad | "
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1780554153986",
+          "title": "KPMG and AMCHAM India position Pune as a rising GCC hub - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk1SYTdsSnZtdlRTQ0lNRkUzLW55WGQ1RWQzQzZjY1V6eWhGTy1ZVXExRHdqM0YyWEg5RVVtWjYtWXVvTmMzUHZxLXpGdmhDZWtTX2JXaFVZTEdGT19GSF9ZbHB6OTJZbVU3VGRaS0dJWFNzc2V0XzJ6ZVlWVHZFV25NLWtXRE50S1VIR01iSWxTOWJKeFUtQm9neXdEdmNYYWMxc2JR0gGmAUFVX3lxTFBuTVJhN2xKdm12VFNDSU1GRTMtbnlYZDVFZDNDNmNjVXp5aEZPLVlVcTFEd2ozRjJYSDlFVW1aNi1ZdW9OYzNQdnEtekZ2aENla1NfYldoVVlMR0ZPX0ZIX1lscHo5MlltVTdUZFpLR0lYU3NzZXRfMnplWVZUdkVXbk0ta1dETnRLVUhHTWJJbFM5Ykp4VS1Cb2d5d0R2Y1hhYzFzYlE?oc=5",
+          "time": "19h ago",
+          "body": "KPMG and AMCHAM India position Pune as a rising GCC hub  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KPMG and AMCHAM India position Pune as a rising GCC hub Express Computer"
+            ],
+            "tldr": "KPMG and AMCHAM India position Pune as a rising GCC hub Express Computer"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1780554153986",
+          "title": "Javier Milei: Argentina invites AI to free itself - Financial Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IUUNONEcxR1ptb2tEOWFSMXlxS0xFZEIzWldselhNWVJMV2Z6d3hKNl9HZWpjaFExRFYxSENJbzRQVEFsSVNMUlFZeEhUZ1pOSEJYQVktZGdKZklZZlBobXFvRmZfM3hDbVpuQ3BqdWg?oc=5",
+          "time": "2h ago",
+          "body": "Javier Milei: Argentina invites AI to free itself  Financial Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Javier Milei: Argentina invites AI to free itself Financial Times"
+            ],
+            "tldr": "Javier Milei: Argentina invites AI to free itself Financial Times"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1780554153986",
+          "title": "SAS Advanced Analytics and AI to power governance and resolve anomalies for VAHAN (MoRTH/NIC) - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOUFRbDZORDYyTGkyZ2ZRNWhHUW9zbUhfUkQtYWVNQ3dOdHd2YUR1cllycnIxM0tUMF9hNTZKNDJ4Q0FoaHdFVkVzQUtGMTMxQl9JQVlNTmx4VlpORDdESUtEM1JVblh5clAxRjV6Mjh0c1RlZTZaOFllaTNTSnZkWXVlbmZXeTcxbWZZdXlKRnlxeC1wZHQxMUFoaF9LSjlGUG1hR0ZTRmcwX0ZGS3dhWFlXeUlVRjQ4QUFhdnNobFBtRWVfa2phellvRTY4Y1N4UE10alBTY1N5cnlVYjczVWstSEdfWDhvLU9HT1psTjhlZ29EUHlrTnNnTDYxSU5hOGgtd25YWdIBhwJBVV95cUxNOUFRbDZORDYyTGkyZ2ZRNWhHUW9zbUhfUkQtYWVNQ3dOdHd2YUR1cllycnIxM0tUMF9hNTZKNDJ4Q0FoaHdFVkVzQUtGMTMxQl9JQVlNTmx4VlpORDdESUtEM1JVblh5clAxRjV6Mjh0c1RlZTZaOFllaTNTSnZkWXVlbmZXeTcxbWZZdXlKRnlxeC1wZHQxMUFoaF9LSjlGUG1hR0ZTRmcwX0ZGS3dhWFlXeUlVRjQ4QUFhdnNobFBtRWVfa2phellvRTY4Y1N4UE10alBTY1N5cnlVYjczVWstSEdfWDhvLU9HT1psTjhlZ29EUHlrTnNnTDYxSU5hOGgtd25YWQ?oc=5",
+          "time": "22h ago",
+          "body": "SAS Advanced Analytics and AI to power governance and resolve anomalies for VAHAN (MoRTH/NIC)  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SAS Advanced Analytics and AI to power governance and resolve anomalies for VAHAN (MoRTH/NIC) Business Standard"
+            ],
+            "tldr": "SAS Advanced Analytics and AI to power governance and resolve anomalies for VAHA"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1780554153986",
+          "title": "India, South Africa to Boost Cooperation in AI, Digital Infrastructure, and Advanced Manufacturing - APAC Media",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0tHNzBCc2RvR21PMXFzeHlCSmplWnR3UVZwS1pudWR0ZTNtcERfSUhieUJuWG5wVlE4aWtVSjV6dEhWR1VDWjg1R2wwd2w0R2RQU3VidFJiYzFJUFc5cjVNYlRBTUFVeGJOR0pGa2lUSkR3U21YdnFCUHRUR2F1QmVOaXVRUm5JVHNnLVR1QTB2Y3IwaVhISC1Vbm5KQm5RWjg0Z1BHOGZfUGNpUVZaOFlwZnowY05FRmRycWJMWHMyMnNlOW9YcHFfR2c?oc=5",
+          "time": "18h ago",
+          "body": "India, South Africa to Boost Cooperation in AI, Digital Infrastructure, and Advanced Manufacturing  APAC Media",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India, South Africa to Boost Cooperation in AI, Digital Infrastructure, and Advanced Manufacturing APAC Media"
+            ],
+            "tldr": "India, South Africa to Boost Cooperation in AI, Digital Infrastructure, and Adva"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1780554153986",
+          "title": "AI-Powered Digital Twins Could Transform Sustainable Urban Energy Systems - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFNySFJHOXZJd3ptZnlSZXo4SkwyVjBjaHpKSllvX3NNNzdtWkV6ZXJ6ZGpaaTNkWGFtWmhhSExuRjZvYXdZS2k4S2lhWVd2YmNpV3hETnhPUTlXMWZzX0FrZ1phQXBHTXBjdmQzVl8xOVIybkNkaTJtbmwxTXZfVGREaDNydmNEWDFEMmRGMmtYeUMzWGJWek9WMk9DZzFZLWhnbTQ3VWk2eUZEaUI5dlYzeUpWeTJWU1hYZW0yVUJzVm4xOWFST0ZHSjhqZ9IBzgFBVV95cUxNRFNySFJHOXZJd3ptZnlSZXo4SkwyVjBjaHpKSllvX3NNNzdtWkV6ZXJ6ZGpaaTNkWGFtWmhhSExuRjZvYXdZS2k4S2lhWVd2YmNpV3hETnhPUTlXMWZzX0FrZ1phQXBHTXBjdmQzVl8xOVIybkNkaTJtbmwxTXZfVGREaDNydmNEWDFEMmRGMmtYeUMzWGJWek9WMk9DZzFZLWhnbTQ3VWk2eUZEaUI5dlYzeUpWeTJWU1hYZW0yVUJzVm4xOWFST0ZHSjhqZw?oc=5",
+          "time": "19h ago",
+          "body": "AI-Powered Digital Twins Could Transform Sustainable Urban Energy Systems  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI-Powered Digital Twins Could Transform Sustainable Urban Energy Systems Devdiscourse"
+            ],
+            "tldr": "AI-Powered Digital Twins Could Transform Sustainable Urban Energy Systems Devdis"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1780554153946",
+          "title": "Qualified JEE Advanced 2026? Kharagpur To Madras, A Look At City-Wise Best IIT Campuses - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX2lCbHBxVU5PVUJHWGtWNjV6d0pDeGpGclFqUTE5MXl3ZHVIenJmSjQ1Z2YwNjBKZ3BXWUEtU083RFpUUjBRQlJxT3dEUnVVeU9MTXY4ZVduMndZcm93MjczSmg3YUYyTnhMSGtTaTRrWDl0SlhCUEFIZ0dBOU5oZ1M5UXNnbDFqV05EMGd5QmIzczl4a0hxY2dMbzI4LVd5YlpJQV90NHlZZEh4MF95cFlFNm5lWmg2dHI3QVVnNHZuT01DQkI2RzBjM2ZpUHJYWGQ1SDJzalZxdS13d3VacE43WUNJMVNDbXlCZTBB0gHzAUFVX3lxTFA3Y2pNY0VRd0pVNjJzU3dmcEFTMG5XYUd1MnpJak5tS19mNzJWS3FvcWd4eThLZFZzZHpseEViVENJQUlPMG5FZFJ1LXpLZWRTYnlYNGRHRHJhb0NQeWwtdmZQbFpVbVNBOHI3ay16M0lUMTE1OFRBM183WkpIX2g3SDhudjFKMGdFWVRGejlfVTBPdjRQbmdqcTI1VS1tRTFpODRPTFJaTmV0ZUp0ejhLb1J5aVB4UXJLRXRaRjNjaHgtLVEzcjdYMjBHX0RRQ3dPLVplZVdRMkMyNzdITXdTcW9fUGF3ME9zX2FzSklfaERMTQ?oc=5",
+          "time": "19h ago",
+          "body": "Qualified JEE Advanced 2026? Kharagpur To Madras, A Look At City-Wise Best IIT Campuses  News18",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Qualified JEE Advanced 2026?",
+              "Kharagpur To Madras, A Look At City-Wise Best IIT Campuses News18"
+            ],
+            "tldr": "Qualified JEE Advanced 2026?"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1780554154168",
+          "title": "Mumbai Indians IPL 2026 Collapse: From 220 Chase High To A Season That Lost Its Pulse - AIMA Media",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQRS1LQnJOeFVMSWFlQjE1TXFGck1vVVVxcUpqZmZ4THVLeHRvTnZtWmxZUHV5UUNFS2xjQS1GYnRrVDZTd0JTUm55dWROUnYyT29oeXg5MzAzc3FqU3NxSlE3LVQxaHhYa3NKSnU1NEt0d1EtcV9ERUNYMm90RDBZUHV2NFZFREVzTnFtc09QaUlrZDNDXzBLOHV6ZHJSaWhvVVFzWW4wdktwdGQ4SnU4U3BrUFIySzdaOHBGXzZVektJNTZHZE1hZjEzVm5ERk9SY2l2b1NBZklZdXNSZ25CQnM4aHZiZ1VMckNieHlKaGFyOGhvSW54TTlXWlF4cjE5Vy1YaWN1dkdXQWhtcldVblJJY1dDbFdJd25BQWpTc2pScHU1TlU0OEVQcFlsSGs4OUlUQXNacjBZd3J1SU9OQXZnMjBEdGhtXzFhYkQ3VDhROEY4bEVqS1Z5YmJVZG95aUZ5MktNUHJtX2VCamVpenF5NVM0WWxmNV8xaVFRNHZoR2w5Mk5yUmNTd09WWWlrWkhqRDJwOFpxZ1pDQmxhRzAwMlNsV3g1WVlNZnJqUVVvdG9aRVR3MWt1dE45OUZ2clRieVhGTjR3Z1lJbXEydEpEblVvOTJnQlU2Tzg3dGxZSXYtWEpuU1lB?oc=5",
+          "time": "2h ago",
+          "body": "Mumbai Indians IPL 2026 Collapse: From 220 Chase High To A Season That Lost Its Pulse  AIMA Media",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians IPL 2026 Collapse: From 220 Chase High To A Season That Lost Its Pulse AIMA Media"
+            ],
+            "tldr": "Mumbai Indians IPL 2026 Collapse: From 220 Chase High To A Season That Lost Its "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1780554154168",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "5h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780554154168",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "11h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1780554154168",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "13h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1780554154168",
+          "title": "MI in IPL 2026: A season adrift - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLZEk5YkFfVW5rRVBhTllWUkhZOXpmWjFUa3IyR3IyZ21hYUw4TEE1T1VCWnpQSzNBTHVxNThaVDZyLTl4TVV6bFkwbUhTRlZvMHlDSGZncmxNUFRBSGc3YXpJX1FvZ24wSWxQajk0aXdZQy00Y05JSXBSV3IzZw?oc=5",
+          "time": "3h ago",
+          "body": "MI in IPL 2026: A season adrift  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI in IPL 2026: A season adrift  Cricbuzz"
+            ],
+            "tldr": "MI in IPL 2026: A season adrift  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1780554154168",
+          "title": "Krunal on relationship with Hardik: ‘When your brother also plays same sport…’ - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnVfZHgtV2VCeGxlc0d5MGJnOFJoYWx5N1V4b2pkVHlsZ3BQVHdwZmhySXNwLXhRLWlYcExuTEc3T0t6bEdiRTBoaURiT2dEdnJFRkl1cTNnWC15TWg1WXJIdWg3MTU4UXVURGg2RHVpY0dpZldPeFBUanhiSlVMcElZNG42TXprRnZtWEd1OThGTDFTNXpkRzVmX1dKMGpxT2RLVVVTanltbG9KRlk4Mnd30gG4AUFVX3lxTFBPNUhRYThKdFhxZUtnU212ci1BcEN4LXJFVjZLOS05M1A2RXF6cTdDZ0ItSWl6a1FubkJMTXRYTDA2X3ROUWcwZTRSSGx0RnRFa3lyLXJBREI0U3JoWlZaRERnQkQtN3ZwZEhlMlJoeElobFIyZy0xZ2FkZFc1M3NuREZaeG4xb2s2T0FJdFdnbXBRYWp6RlJaeDJEQTEtc0pBaHNTc1VkeFY0bldoeDFOcTRJMXRTR3A?oc=5",
+          "time": "2h ago",
+          "body": "Krunal on relationship with Hardik: ‘When your brother also plays same sport…’  The Indian Express",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Krunal on relationship with Hardik: ‘When your brother also plays same sport…’ The Indian Express"
+            ],
+            "tldr": "Krunal on relationship with Hardik: ‘When your brother also plays same sport…’ T"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1780554154169",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHB3MkJiSWxhOGZWdERRYm9rWEpBX2JYMTFReXNhVndrcGVsMVo2RDBZeFBPbkJTOFFpNXZ6X2xhUkdwT2RxczNVNHNDZmI3M2lxajRmQkU5ZUcxZnppckpJY29uV3VhUTFmZ0xVRklhVGUyQVFDQ2N5X1ZId3p2M0RsTmxtMnRXdVZ0cm1RUDZsZS1KNlJVMlVYbTdTTlE?oc=5",
+          "time": "18h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1780554153918",
+          "title": "Shivam Dube dismisses Shreyas Iyer, Arjun Tendulkar finishes with a six as Andheri beat Falcons - SportsTak",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ2NLVW93cm5rVWhyQzRSQTduc3E1aEhoQWtIVXN6eEwwcXlBWmh4Z19MaFhpSUk2dEtNZ2lWMy1MOG43eHhKX0M1TzFzRjZXOXJTZnRoOW9WS1VBZHpmeXZpWWQ5UEJQcFRuM3JmT21PRHIzTTBQZHVpbHBqRU1oOTh1QlA0UV9RZVZud0VPaTItdGFDOFF6ajBkVzc5SFRreXlzREExOG9PX3Zkc2F6cDBOQk1QbTBMY3dEVzF6OVhBVWt0emFkNXNsMnhZX0NLeHVfUXRySjBYYndTS1AyYXBhOHJqZTFBWjJSdzlvUkFCUlHSAfMBQVVfeXFMT2djS1Vvd3Jua1VockM0UkE3bnNxNWhIaEFrSFVzenhMMHF5QVpoeGdfTGhYaUlJNnRLTWdpVjMtTDhuN3h4Sl9DNU8xc0Y2VzlyU2Z0aDlvVktVQWR6Znl2aVlkOVBCUHBUbjNyZk9tT0RyM00wUGR1aWxwakVNaDk4dUJQNFFfUWVWbndFT2kyLXRhQzhRemowZFc3OUhUa3l5c0RBMThvT192ZHNhenAwTkJNUG0wTGN3RFcxejlYQVVrdHphZDVzbDJ4WV9DS3h1X1F0ckowWGJ3U0tQMmFwYThyamUxQVoyUnc5b1JBQlJR?oc=5",
+          "time": "22h ago",
+          "body": "Shivam Dube dismisses Shreyas Iyer, Arjun Tendulkar finishes with a six as Andheri beat Falcons  SportsTak",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shivam Dube dismisses Shreyas Iyer, Arjun Tendulkar finishes with a six as Andheri beat Falcons SportsTak"
+            ],
+            "tldr": "Shivam Dube dismisses Shreyas Iyer, Arjun Tendulkar finishes with a six as Andhe"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780554156698",
+          "title": "‘No regrets’: Vijay Shankar on retirement, 2019 WC heartbreak and the ‘3D player’ tag",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "In an exclusive conversation with TimesofIndia.com following his retirement announcement, former India allrounder Vijay Shankar reflected on the emotional decision to step away, the injuries that altered his career, handling public criticism, his love for all-round cricket and why he still wants to continue playing overseas leagues.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In an exclusive conversation with TimesofIndia.com following his retirement announcement, former India allrounder Vijay Shankar reflected on the emotional decision to step away, the injuries that altered his career, handling public criticism, his love for all-round cricket and why he still wants to continue playing overseas leagues."
+            ],
+            "tldr": "In an exclusive conversation with TimesofIndia.com following his retirement anno"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-5-1780554155433",
+          "title": "India’s First Fully Waterproof Railway Subway Nears Completion At Bhiwandi Road Station, Set To Open Before - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMml0QUV4eVc3U0pvSnk3S2JrcGRRTFdOZUw1Y3VxS0FQOVJBQUlKSUpCaHVRSDlqVXkxTEV4UzNSaG9Bam13QVUzZzNaNDVqZDBKQnI2MVNQclpjSFp1QTVuMkxQR3FjNUYzVUVIaDFJR1lVQ0ZwaGRYODBqOGR6NEViX1JRdTZQc2t5akEwZjlTaWRlS25HWmZjT0ZuaHBBTVl3ZFMtYVJERjRTLW9INEoxd3dzLUVISWZFcHN1ZzdIU3k2bzdscXhLNEM5QlVOSXk1TXljbk1mUUJWcmtHN0JidEd2STc0Wm9KWdIB7AFBVV95cUxOMml0QUV4eVc3U0pvSnk3S2JrcGRRTFdOZUw1Y3VxS0FQOVJBQUlKSUpCaHVRSDlqVXkxTEV4UzNSaG9Bam13QVUzZzNaNDVqZDBKQnI2MVNQclpjSFp1QTVuMkxQR3FjNUYzVUVIaDFJR1lVQ0ZwaGRYODBqOGR6NEViX1JRdTZQc2t5akEwZjlTaWRlS25HWmZjT0ZuaHBBTVl3ZFMtYVJERjRTLW9INEoxd3dzLUVISWZFcHN1ZzdIU3k2bzdscXhLNEM5QlVOSXk1TXljbk1mUUJWcmtHN0JidEd2STc0Wm9KWQ?oc=5",
+          "time": "16h ago",
+          "body": "India’s First Fully Waterproof Railway Subway Nears Completion At Bhiwandi Road Station, Set To Open Before  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s First Fully Waterproof Railway Subway Nears Completion At Bhiwandi Road Station, Set To Open Before Free Press Journal"
+            ],
+            "tldr": "India’s First Fully Waterproof Railway Subway Nears Completion At Bhiwandi Road "
+          }
+        },
+        {
+          "id": "mumbai-general-0-1780554155523",
+          "title": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]"
+            ],
+            "tldr": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for na"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1780554155523",
+          "title": "'Get out of my country': Indian-origin couple racially abused in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "'Get out of my country': Indian-origin couple racially abused in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Get out of my country': Indian-origin couple racially abused in US. [object Object]"
+            ],
+            "tldr": "'Get out of my country': Indian-origin couple racially abused in US. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1780554155523",
+          "title": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]"
+            ],
+            "tldr": "Indian-origin cancer specialist banned from practising in UK says, 'I will never"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1780554155523",
+          "title": "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians. [object Object]"
+            ],
+            "tldr": "'For Brothers': Major international gang busted in Canada, 17 Indians charged fo"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1780554155523",
+          "title": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]"
+            ],
+            "tldr": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1780554155523",
+          "title": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]"
+            ],
+            "tldr": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy cou"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1780554155523",
+          "title": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15d ago",
+          "body": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]"
+            ],
+            "tldr": "Indian man run over by truck in New Mexico during family trip, parents came to U"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1780554157001",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1780554157001",
+          "title": "Chhatrapati Sambhajinagar: Possibility of Rain with Thunder - Lokshahi English News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWxwXzBLSVhMMjQxOF9TQzRGWl9takpZcG1pNmZCdnVDaW5MeEo0QnJHVFpzc1l6WU5vaFN2aG9Bd1ZiTFU5djYyUm1zbnllM2xTYjhoV1VuNlMwWUt0a2V5MjZOM0NEZHVSYzZiRTFLTXhnblZZNXNfOW41NHBfZnhSaldub2Z1cTd3MFBDMTNzX2lNbTNrcHhCcHdXeXZsaWtJQ0JaREJSZ9IBrwFBVV95cUxOUWhZNzhSMnFhRzdPb1dtWFlwdFdELWVnYkhZSjQwRlpUOU9kMnF4VEhFLTZyUTRSMEtXRURWV1ZFLXktQkNOaUF0bElSMWp3eVo4VlMtaXQ4YUNIS24wTUlkWUdtU3pRUTJyNXVTYzRTYktrNFhaTHpKREVveWltazZyOWJiVk9oTW1xMGFER2hiemJPVHhNczU1U2VPbjRvc0JUczZ2R1VjU1Rreldj?oc=5",
+          "time": "1h ago",
+          "body": "Chhatrapati Sambhajinagar: Possibility of Rain with Thunder  Lokshahi English News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar: Possibility of Rain with Thunder Lokshahi English News"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar: Possibility of Rain with Thunder Lokshahi English New"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1780554157001",
+          "title": "Gold Rate Today in Maharashtra 4th June 2026 : 22 & 24 Carat, Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "7h ago",
+          "body": "Gold Rate Today in Maharashtra 4th June 2026 : 22 & 24 Carat, Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 4th June 2026 : 22 & 24 Carat, Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 4th June 2026 : 22 & 24 Carat, Gold Price in Maha"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1780554157001",
+          "title": "Abhijeet Dipke’s family shifts homes as his political steps spark worries | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTVU0NzZESGdFcTBYTW12QmhCQVhwWUNMTUxqcHBTbUN4OEdDRGk0b0FVMGJtdEZ2Nk5iUU9SUjdpZXNCTWxtV1l1bWpfX05sV2JmNXFucU5lMWVNRVEzeHdhZTJ4SkNLbzhBZ3V1bGpnWFdlOHJqRVFhQllOV2Q2MGh0QVZWd2NYbHQyX1VNMXg0SzJFdzc2TG1CUGtaMmZld1BoaXNwdldWZUFqMzVTZk9ZVGw5ckNhMjBqT0R6UXA0ZEhpSVIxbk1lUTctcEdmd1BvMkt6VkI5Y1hOemEzSHZuQjliQjgyRDA2N05XejU2RW1MYmRzVmNSYlppdGxUWUHSAYICQVVfeXFMUE1VNDc2REhnRXEwWE1tdkJoQkFYcFlDTE1ManBwU21DeDhHQ0RpNG9BVTBibXRGdjZOYlFPUlI3aWVzQk1sbVdZdW1qX19ObFdiZjVxbnFOZTFlTUVRM3h3YWUyeEpDS284QWd1dWxqZ1hXZThyakVRYUJZTldkNjBodEFWVndjWGx0Ml9VTTF4NEsyRXc3NkxtQlBrWjJmZXdQaGlzcHZXVmVBajM1U2ZPWVRsOXJDYTIwak9EelFwNGRIaUlSMW5NZVE3LXBHZndQbzJLelZCOWNYTnphM0h2bkI5YkI4MkQwNjdOV3o1NkVtTGJkc1ZjUmJaaXRsVFlB?oc=5",
+          "time": "2h ago",
+          "body": "Abhijeet Dipke’s family shifts homes as his political steps spark worries | India News  Hindustan Times",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Abhijeet Dipke’s family shifts homes as his political steps spark worries | India News Hindustan Times"
+            ],
+            "tldr": "Abhijeet Dipke’s family shifts homes as his political steps spark worries | Indi"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1780554157001",
+          "title": "TCS Nashik Case: AIMIM Ex-MP Imtiaz Jaleel Faces Scrutiny After Mention In Chargesheet - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmFkQUs2MXhpd1ZwaFl0OHlhVHo2eUpDMWhsNHpjUmx5dXE3eGcxdkdONjJuZkVhcWlyNFBLRHBiV042MnRNZEdxdTN1YlEtdnhLbWY0VVdDZUpsYnB3UDBiSkZMSEQzUUhIbm8tbmgyTWU3cm85MktKQW5zdVF0bDc5al9oSHRlWC1KQ0hyNFNGbWgyd2VsbjBPb2RRZzVWWHFGU0F5WGFDcW1oTl9RenpWTnFQWkZqZzRDSTMtSTJtVWI2OHVoSWllbWh1Z9IBzgFBVV95cUxPWmFkQUs2MXhpd1ZwaFl0OHlhVHo2eUpDMWhsNHpjUmx5dXE3eGcxdkdONjJuZkVhcWlyNFBLRHBiV042MnRNZEdxdTN1YlEtdnhLbWY0VVdDZUpsYnB3UDBiSkZMSEQzUUhIbm8tbmgyTWU3cm85MktKQW5zdVF0bDc5al9oSHRlWC1KQ0hyNFNGbWgyd2VsbjBPb2RRZzVWWHFGU0F5WGFDcW1oTl9RenpWTnFQWkZqZzRDSTMtSTJtVWI2OHVoSWllbWh1Zw?oc=5",
+          "time": "18h ago",
+          "body": "TCS Nashik Case: AIMIM Ex-MP Imtiaz Jaleel Faces Scrutiny After Mention In Chargesheet  NDTV Profit",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS Nashik Case: AIMIM Ex-MP Imtiaz Jaleel Faces Scrutiny After Mention In Chargesheet NDTV Profit"
+            ],
+            "tldr": "TCS Nashik Case: AIMIM Ex-MP Imtiaz Jaleel Faces Scrutiny After Mention In Charg"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1780554157001",
+          "title": "Eknath Shinde should be made Maharashtra chief minister for 2.5 years: Shiv Sena MLA Abdul Sattar - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdnpjMGZrakUtV0QzNVRJSVhQQkpha2R3U1dDa2l5WmFPaGNURjRWLTFMU0VCaUNYVkdXX2pULWJidzM5OFJ2T3Q0SHdTTHBhLWNfeldpMFFuaEVZSldMSlR1QUh3V3EwZzJUcVJtckNzRnZzeFE2aEVLeVJBa3Jsb0Q3aEptaGFTc3I5X29BTmVYb3RMMml3Q1VhaGNpU1Q3dWFMaEwwWmhVczVsejJzNUI1bTY1OW1lNEI3bVZKcWlRQ2pFTG5xRFBjTmNERjRaVVZSOTA5RElSb2VSc3NCVV9GWUFPOTBrSjE4X1RkbzAtOUJmMVUwX2NYb0ZxMnPSAYQCQVVfeXFMTlQ0TnpsVDZ4ZHlxZXRIbEUxTWxlRFExb1FHZUtqbFplRWo4VEFJMWZhUE91T3EzZTEyWDZJOEZYYUJlb0RDMGtsQjdvcS1YWEMtaDNfLVBhVEdsNjdaUlpvOUJaWk1UOUQydDVLcWtTNFNLY1JKUnpoVmlaLWdfNnozUUE3MjZTdklSOFFwSGRCUVBzTU92WDdPTFR1X0dGMFZ2dmZYOHFkb1AtQWZWMHpwSnFQSmNDMERzZzY4QzhqRDdEZWJ5Nk1ZQ2poeVRkYUdkc2FvUDZabFlCMTd5S0lFZ0pvX0h6X2swMXYwRmJiSFBPSDc0QXNka2F0R2ROSnZ4VEE?oc=5",
+          "time": "15h ago",
+          "body": "Eknath Shinde should be made Maharashtra chief minister for 2.5 years: Shiv Sena MLA Abdul Sattar  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Eknath Shinde should be made Maharashtra chief minister for 2.5 years: Shiv Sena MLA Abdul Sattar The Times of India"
+            ],
+            "tldr": "Eknath Shinde should be made Maharashtra chief minister for 2.5 years: Shiv Sena"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1780554157001",
+          "title": "Sattar grumbles against BJP despite Shinde urging him to follow coalition ideals - The Statesman",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeEk5RVYyb2RRNEJTR2xrYllUVXdhNTUwSWUycVBhU1pjWGU0MnY0OTNMLUdOQnNsRlk2M293M1RHM0VUYWlnQ2xBYVNvVUFDVm1EOVF1aFRZQ1FFdHVqY3FaaVQtdWlhdXRCQkh4elFCemFzLTB6RzJ6dWJ4Mk1mS1A4VDZwUktjeXhFRG12NzBSeTB4eFVvUGEzMXpaVm05aGNRLUc2TXpJVk5lbnk0X0JfZjhjbFR1OGkzaml4c0hSVEpUTlhhS0RMWFoyQXZB0gHQAUFVX3lxTFB4STlFVjJvZFE0QlNHbGtiWVRVd2E1NTBJZTJxUGFTWmNYZTQydjQ5M0wtR05Cc2xGWTYzb3czVEczRVRhaWdDbEFhU29VQUNWbUQ5UXVoVFlDUUV0dWpjcVppVC11aWF1dEJCSHh6UUJ6YXMtMHpHMnp1YngyTWZLUDhUNnBSS2N5eEVEbXY3MFJ5MHh4VW9QYTMxelpWbTloY1EtRzZNeklWTmVueTRfQl9mOGNsVHU4aTNqaXhzSFJUSlROWGFLRExYWjJBdkE?oc=5",
+          "time": "16h ago",
+          "body": "Sattar grumbles against BJP despite Shinde urging him to follow coalition ideals  The Statesman",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sattar grumbles against BJP despite Shinde urging him to follow coalition ideals The Statesman"
+            ],
+            "tldr": "Sattar grumbles against BJP despite Shinde urging him to follow coalition ideals"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1780554157001",
+          "title": "Imtiaz Jaleel Under Scanner After Name Appears in TCS Nashik Case Chargesheet - dailypioneer.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHQwb0Y3elZNODVEVkVTS2tKb21xZldCZlI2TzdENFRTdnMwbTlNb3lueFVWeTdqUU15Ymx2dGZGNFJRQTJVTnFqVC1ZcEU4MVJrdnNPYzNkRGY3YUQ0d1J1bi1UY2Z1ZDRmTFd3VTJjZ0JNYXExMU9rYWZPUnBhMHhqaUIydjBmU3M1UEQ0U2pCRk5qVzdJX3pvOWhvVG9nQlJ2ZEliS1dKa3lRdnFZUTJuamVxVGxMNFdtMm9VNmJVUm5pZkROcFZ0NkhLS1BGYWo5aFM4TTVBNGQy?oc=5",
+          "time": "17h ago",
+          "body": "Imtiaz Jaleel Under Scanner After Name Appears in TCS Nashik Case Chargesheet  dailypioneer.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Imtiaz Jaleel Under Scanner After Name Appears in TCS Nashik Case Chargesheet dailypioneer.com"
+            ],
+            "tldr": "Imtiaz Jaleel Under Scanner After Name Appears in TCS Nashik Case Chargesheet da"
+          }
+        }
+      ]
+    }
+  }
+}
