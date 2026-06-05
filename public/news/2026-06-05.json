@@ -1,0 +1,790 @@
+{
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T06:02:07.628Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1780639321768",
+          "title": "In Maharashtra’s cities, the sex ratio at birth is now as skewed as Haryana’s - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGpzYWFucDhOcDN6RU9fX0RIcU1Gd0NRbjNjOVp4U0R3WVNVV0RnaXZkZVo4XzRkV2VweGhOQ09Ec2JjaWFfZGJCMTU3Y1ZjS2V4NkNtS0VmMzR3MUF6a0UybDhwTEwzYjZSeXZ6TUFrVjE3YzZCNWtRalBCNWpVYTktWHp1M296eWdzdExpMXBvNFlqLW00OGVQSVFqYW5SVkhWWUdLc3FfcEdvbFNqQ1ZYTTRCU1l5YlZUWXpJSS1VTXd4VTdMVWIxMjVPanZPM3Bj0gHTAUFVX3lxTE9sanNhYW5wOE5wM3pFT19fREhxTUZ3Q1FuM2M5WnhTRHdZU1VXRGdpdmRlWjhfNGRXZXB4aE5DT0RzYmNpYV9kYkIxNTdjVmNLZXg2Q21LRWYzNHcxQXprRTJsOHBMTDNiNlJ5dnpNQWtWMTdjNkI1a1FqUEI1alVhOS1YenUzb3p5Z3N0TGkxcG80WWotbTQ4ZVBJUWphblJWSFZZR0tzcV9wR29sU2pDVlhNNEJTWXliVlRZeklJLVVNd3hVN0xVYjEyNU9qdk8zcGM?oc=5",
+          "time": "4h ago",
+          "body": "In Maharashtra’s cities, the sex ratio at birth is now as skewed as Haryana’s  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In Maharashtra’s cities, the sex ratio at birth is now as skewed as Haryana’s The Indian Express"
+            ],
+            "tldr": "In Maharashtra’s cities, the sex ratio at birth is now as skewed as Haryana’s Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1780639321768",
+          "title": "S&A Law Offices acts on ₹1,601 crore sale of Air India Building, Mumbai to Government of Maharashtra - Bar and Bench",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTJoeWpTaTlpMDJZNW93TUZCVENNMFZ0MVF3Q21WdzlpV3dZWWxDMndYeW9OV0hsMW1sZFZnZDliTkVuYmxxa09QbVZnV3J4UmhOckFaY0hoQTZFV2FGVmMwM3VtVjkxaDlNVnpIMnIteTUySEpXRVMxR0pPVTBVOHYxa0o2aGhuZWVOLVFZaUVsckVhM0VQTkVzX3FRdm95bEZmUDVJZjVOTzN5VnhFLVNnQV9KYjJkVTQzU2ljOEw5QXVBTlZ5UlMyWHZEblJ4TjhCcnJyZFFmRy1zcEHSAd4BQVVfeXFMUEEyaHlqU2k5aTAyWTVvd01GQlRDTTBWdDFRd0NtVnc5aVd3WVlsQzJ3WHlvTldIbDFtbGRWZ2Q5Yk5FbmJscWtPUG1WZ1dyeFJoTnJBWmNIaEE2RVdhRlZjMDN1bVY5MWg5TVZ6SDJyLXk1MkhKV0VTMUdKT1UwVTh2MWtKNmhobmVlTi1RWWlFbHJFYTNFUE5Fc19xUXZveWxGZlA1SWY1Tk8zeVZ4RS1TZ0FfSmIyZFU0M1NpYzhMOUF1QU5WeVJTMlh2RG5SeE44QnJycmRRZkctc3BB?oc=5",
+          "time": "16h ago",
+          "body": "S&A Law Offices acts on ₹1,601 crore sale of Air India Building, Mumbai to Government of Maharashtra  Bar and Bench",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "S&A Law Offices acts on ₹1,601 crore sale of Air India Building, Mumbai to Government of Maharashtra Bar and Bench"
+            ],
+            "tldr": "S&A Law Offices acts on ₹1,601 crore sale of Air India Building, Mumbai to Gover"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1780639321768",
+          "title": "Maharashtra PWD Minister Inspects Air India Building In Mumbai, Orders Structural Audit - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTE9JRWtBSGhENTc3cjdVemUtZDdwWWdDZDNTei10VzlrMk9ReFpFLVFrbVN1MlBwM2QzOTJOWFpTTGdONkZfYktmaVZMRTdVbHlLZG9MQ3hwOHVXOHU4TUkxR1Y0M3pNTUtvRWlsUG5GbkgwWFNJNmpxSGNaZ3VFZWh1OHZUamFCeEpaNWFvdC1rd0V0el9faFg0RzRsVlE2UzNNbnBmTFVCZ1dsMEFEZWZYU2tfalI2VXB2dm5UWGExdUwxNjd4TlgwUmUzZFlUSU8wSTJ4UdIB1wFBVV95cUxNTE9JRWtBSGhENTc3cjdVemUtZDdwWWdDZDNTei10VzlrMk9ReFpFLVFrbVN1MlBwM2QzOTJOWFpTTGdONkZfYktmaVZMRTdVbHlLZG9MQ3hwOHVXOHU4TUkxR1Y0M3pNTUtvRWlsUG5GbkgwWFNJNmpxSGNaZ3VFZWh1OHZUamFCeEpaNWFvdC1rd0V0el9faFg0RzRsVlE2UzNNbnBmTFVCZ1dsMEFEZWZYU2tfalI2VXB2dm5UWGExdUwxNjd4TlgwUmUzZFlUSU8wSTJ4UQ?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra PWD Minister Inspects Air India Building In Mumbai, Orders Structural Audit  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra PWD Minister Inspects Air India Building In Mumbai, Orders Structural Audit ETV Bharat"
+            ],
+            "tldr": "Maharashtra PWD Minister Inspects Air India Building In Mumbai, Orders Structura"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1780639321768",
+          "title": "Maharashtra’s Double-Engine Government: Big-Ticket Infrastructure, Vadhvan Port and the Battle for Central Support - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY1kwLV91ZURza3lpZ1N1ODFtNmpYVjZHd00xYTVfMHh4bkpzTkdoc09SQ3NnZVZzOXdsZ2VlQm5kWHNBQTUwdEw0bmNqTU1mX0JEQ2VBbHZCVk80OXhyX1NnRGNVWWZrNUlONW85ZUJhY0RsbTJDYkpCbHZ0MDhVVFdqcmVhM011UDIzZ0VId3lqWV9pTDZxYlp4NnBmWVFQNkdOcXN3SHhEYkU2WV91aHlJUmdoaGJ5UVdQVnNSbzRMSkxKSmNHWDdaTnl5ZEVOTFZRUFNqZXZaakRjb1dEUERaUdIB8AFBVV95cUxNUmU2cVBxT2Q4WUlaWjdXWkNBNDN4TXdnWkpUUUNyQWZPaFh2ZXJxWExjb3hMbDdKeE85LVJVU3F1UThLZHEtdXdQd0tHb0tOdU1ULXIxVWEtZjU2T05oQ0tBd29oSU1xdHBudFdOU25vUC12WFpDR0FwTDBwRVc0azFSaW1iSEVaUlJkMTNwcUUyRjRfNk9zYzV3UEluLTAxdnpxdUV6Vmxac1BOYmhOVUI3d2l6dXRMSGpMYk9QX2JDMXEzdnNPZm5fYW1ubFBNZWoxWWtSNEtjd29mWE83WDVkRDdkRFQ0YzZ5cnkyOXo?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra’s Double-Engine Government: Big-Ticket Infrastructure, Vadhvan Port and the Battle for Central Support  Outlook India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s Double-Engine Government: Big-Ticket Infrastructure, Vadhvan Port and the Battle for Central Support Outlook India"
+            ],
+            "tldr": "Maharashtra’s Double-Engine Government: Big-Ticket Infrastructure, Vadhvan Port "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1780639321768",
+          "title": "S&A Law Offices acts on sale of the iconic Air India building, Mumbai, to the Govt of Maharashtra for INR 1,.. - ETLegalWorld.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmtOWUVOTGdkQ25IczVnMVdoVmpOODBiNk0xSlNmSGZMZlBOYlAzaDY5MjRwRFpxSU15Yzd1dll3aUdJeHJfSDl1X01DX192VHZ1ZlJYcFI5d3VSNXBleTNHNEtuNDhBdk1SUzNMZy1UVS1jM2hEaGFzWU1iODNFNmVOQ0R6RjdGcXF0MGRHSENCOS1aOGFCeHdtbktZYWcwWDQ0Q283ODlvdmRmcGxOZGR5S00yQUxrOFh6MVkxS1VKNzN5RGtoMFE2THJHcnY0RjJTQ3ZJU3pmS25yVWlYSUI4WWZtSU5sY0lTMlROMWhINmNZ0gH6AUFVX3lxTFBod1hIMVIzb1JfU2dxemNtaFpNWFRfSWl3MUFTLTAzcWs5M2o3SGVPR0VNa1dNaG9NLTJ6cmZpVFpMblF3VW9keENlQ1laMmR3SW5yTG1lVTR4SnBxUHpsSWZqb2MyS0o4RGVKbmhBejJEa3pzeEV1RTV3THdNYlpfZ0tTZ1VWTHRpczA0Sm5WS2xlaFpESG0zelhKSEZOZVdYOVRWN2Q1YTJ1V3M5NmRWRExmdGtSX2hIbHNjajR5cGlBUUEyaWxfZWR0MUVaOVB0cnFxZnY3bG8wWDJjSWYzRzl4X2pDcllLNEFLLTBaOEprZnNqUEhOdWc?oc=5",
+          "time": "23h ago",
+          "body": "S&A Law Offices acts on sale of the iconic Air India building, Mumbai, to the Govt of Maharashtra for INR 1,..  ETLegalWorld.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "S&A Law Offices acts on sale of the iconic Air India building, Mumbai, to the Govt of Maharashtra for INR 1,.."
+            ],
+            "tldr": "S&A Law Offices acts on sale of the iconic Air India building, Mumbai, to the Go"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1780639321768",
+          "title": "Maharashtra government completes acquisition of iconic Air India building in Mumbai for INR 1,601 crore - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOFhwdHJyczF4bUJ6dDB4eHlBYk5ELWhScWVtMFFLMVJNcm8wSThSZWNmdjR4RzFVbHdOWWRDOG5LZU9xY3JTQ2VSUjNKNHlhSFZReThscmxiLVNIR3dUaVE4VHRpeVV5Q0p5Q3NXNmgxNDZWZGloNm5KTDF1Rk1IeVZMVlpqeUwxWVhOLVk2NWZaS0NNOE9oVV83VUx1ZjFmMUF1dzFIUV9UZHhZcWhOcE1DbUMwWUR4aXFTSGlFbXZqWW5lemk2ZFlKN0VIMk5UZE8zNFVINFVObnQ2dXR5UTdxeGs0dWU1ZlB3?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra government completes acquisition of iconic Air India building in Mumbai for INR 1,601 crore  Prop News Time",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government completes acquisition of iconic Air India building in Mumbai for INR 1,601 crore Prop News Time"
+            ],
+            "tldr": "Maharashtra government completes acquisition of iconic Air India building in Mum"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780639321768",
+          "title": "Inspection of Air India building; Quality repairs and public convenience to be top priority, says Maha Minister Shivendrasinhraje Bhosale - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPaU5NeEVZcmZxNnMwNXhBQkRZQmlJUUVkd0F1UFJzUVY3d0s0c0JZZHdMM1Vja1N6LWdWS0VFVFhWTW5sNlhhMXJHY2FLSGJNM0ZGWFU3R2lDQ1dzYVpEdDI0RXhjb1gyMzdGb3lnYzAydzdQVFZzTkFxTVY3cUZFRW4zV0Y4cGRiV3dmN3lWM1hEbGZETHpNRG5OWWtoOWNSY2oweHNfNXk3ci1HTTM5TGxwVHlmemNudjVkeHhUZEhEUTFrb2NBazBNbjZ5MU9pY21aT3hERV9mMHNrZ3RzOC11TXktam1BXzYxMFFiY0pOTnNOckh4NkNrWmF0ZnllR2c0SjlNdktuMTE1YmFMV0dQOU4teU1iMlc5Sk1NeDJfNmhiWmc?oc=5",
+          "time": "22h ago",
+          "body": "Inspection of Air India building; Quality repairs and public convenience to be top priority, says Maha Minister Shivendrasinhraje Bhosale  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Inspection of Air India building; Quality repairs and public convenience to be top priority, says Maha Minister Shivendrasinhraje Bhosale ANI News"
+            ],
+            "tldr": "Inspection of Air India building; Quality repairs and public convenience to be t"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1780639321768",
+          "title": "Revamping Mumbai's Icon: Government Unveils Air India Building Transformation Plan - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUlBZQ3NrN0xRR01HVG9kV0hEQTloOFhUT1Z2QWNNdkpFR2ItVzJOeWZsbDJRak0zeWdMU3NyTUNYeTJjd0pQUEpxYlQ4ZWo4MTNIeHlfQ0ZWQXFXSGNpTk1sd09xWUZDVFVVcGpqRE5FUl96NVRyd1VfLVRfTnBkVkxuMktJSlM3VG1IU3NQSHpXV0xHbUwzMUtBVkZ6ajlTT0Nmd3h0RngyeUs1d3B0MC15S19YSTUtc0dqMjhfSzg0RVduSV9QTERvQ2RUR25D0gHWAUFVX3lxTE5uWWoyNVFULW1vMFpTaGZMb1pocV9wQzI3ZjRuX0ViZ2haTWxsWXlMYWNCcmRyLVIwSGZJeE9KVGR4eG5iendBM0lGaTBjcmhTS1dWWHJoUHpxQWlvUlVyN3pHVDN2R3YyTFl0ZWdMcEJCUHJrNWRERnN4MHZKeWV5OVdrMmdaTjlCR3lxNFNBSUpFaU0wZzRhX2RMVllrbmFVU1I0NUZwQ0tSR1F0ZC1DTzVON1d3RGFTVDZyeFUtN01HRElyMlNuUV9NbV9VbjVzRFhudkE?oc=5",
+          "time": "22h ago",
+          "body": "Revamping Mumbai's Icon: Government Unveils Air India Building Transformation Plan  Devdiscourse",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Revamping Mumbai's Icon: Government Unveils Air India Building Transformation Plan Devdiscourse"
+            ],
+            "tldr": "Revamping Mumbai's Icon: Government Unveils Air India Building Transformation Pl"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-5-1780639321768",
+          "title": "NCP (SP) Calls Ladki Bahin Scheme 'One Of Maharashtra's Biggest Scandals', Alleges Loss Of Over Rs 24,000 Crore - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOazc1RWl4dXBNcEllV3dRR05JVFZMeWxxaG5UcWRRbVlvRlZiNjBkRU5KQWV2UW5oSWxlSG9mMVdQaGZnVnd0aDBPWW9fXy0xM1FiZjhvZzJReVlTUW5ibXJIMWswajEyLTNCYWVSejhUUGJJNUtxTS1iYlBYbkhXM2pMaUt0UlBwWklSQy1FOVQtU2F4ekVHNzM5a0ZqZ2xOc1Vid0RvTUV3UC1YZlNDWEt2VTdCWHJYbnExZTFJRzIySWlZWUUzWV9OdWlBWVBmV2pCQUJ0ZVFNU0VtMFdtU1dzaHlST2htaHVR0gHrAUFVX3lxTE5rNzVFaXh1cE1wSWVXd1FHTklUVkx5bHFoblRxZFFtWW9GVmI2MGRFTkpBZXZRbmhJbGVIb2YxV1BoZmdWd3RoME9Zb19fLTEzUWJmOG9nMlF5WVNRbmJtckgxazBqMTItM0JhZVJ6OFRQYkk1S3FNLWJiUFhuSFczakxpS3RSUHBaSVJDLUU5VC1TYXh6RUc3MzlrRmpnbE5zVWJ3RG9NRXdQLVhmU0NYS3ZVN0JYclhucTFlMUlHMjJJaVlZRTNZX051aUFZUGZXakJBQnRlUU1TRW0wV21TV3NoeVJPaG1odVE?oc=5",
+          "time": "18h ago",
+          "body": "NCP (SP) Calls Ladki Bahin Scheme 'One Of Maharashtra's Biggest Scandals', Alleges Loss Of Over Rs 24,000 Crore  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP (SP) Calls Ladki Bahin Scheme 'One Of Maharashtra's Biggest Scandals', Alleges Loss Of Over Rs 24,000 Crore NDTV Profit"
+            ],
+            "tldr": "NCP (SP) Calls Ladki Bahin Scheme 'One Of Maharashtra's Biggest Scandals', Alleg"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1780639321768",
+          "title": "Maha govt buys iconic Air India building for ₹1,601 crore; to move several depts to the premises - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3FJSi13QkRZQWFIZVB3dUxhWG4wcFI3VHRwQVZkdkVIbTRBWEVkc0o3ZE14VmFkQmhfZFFHTVp0WXdfMThXOHVzTV95ZmJlRnJwWkZnMVp5YWxkZFpZYW1sdEE4QWo3enpuT2ZIZWp4NWpoRmc3R2FVbjhUOUllNzZjbmlpZFFSU0NYOXJZaXpnOFZ6Q1dvWTVWcEhlcFFtdXotZ1F2Ym4?oc=5",
+          "time": "21h ago",
+          "body": "Maha govt buys iconic Air India building for ₹1,601 crore; to move several depts to the premises  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha govt buys iconic Air India building for ₹1,601 crore; to move several depts to the premises MSN"
+            ],
+            "tldr": "Maha govt buys iconic Air India building for ₹1,601 crore; to move several depts"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1780639321768",
+          "title": "Maharashtra buys iconic Air India building in Mumbai for ₹1,601 crore - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOdnRrOVo1S09aR041bGU4LVRONUR1NDRIR1dDNFFZOWx0bFV0RTBhRDR2aVdVYWU0WG9LY1lDcVBBN29mUkRoY1lPdHZDbGVVZDlyYnR1OFpMeG50MkJoZjBoN0VnZG15T09BT3NTMmlUdTZTTFBOdDQ4S1NKVzZyNGllU3NEbzlkQldIZ1pLaXdndlNEdXBHZ2dKNWpKMG1FR0hjMHd4WE84WnBSVkRBYi1MVzBsb25XWGpRSTFjSEdoUTVyM3phVGdBbzRPeWs5cW1vWEJkQmpfVzhmd1hRbWhQNUs3R0VMcGRtMURsSndnYW9uME4xZEMzYk5STUxxdUExYjJTLV9CMm9fTllFR2FtazVfTDhmajZpV0NNZjVWVjh6UFQ3d0NKaF96bGlCbWM3R0hqcHJnYmhoRjhFNC1mZ0VLcE90UlM5VQ?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra buys iconic Air India building in Mumbai for ₹1,601 crore  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra buys iconic Air India building in Mumbai for ₹1,601 crore MSN"
+            ],
+            "tldr": "Maharashtra buys iconic Air India building in Mumbai for ₹1,601 crore MSN"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1780639321669",
+          "title": "Ladki Bahin scheme: NCP-SP claims loss of ₹24,000 crore as ‘80 lakh beneficiary found ineligible’ - Mint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRGI1VmdKTjlhdjNsSmZnTG5LTGdpczlHTU54YzlGeFNxMk9mVDNJQnY1RDdhbVFpTEE5TGFMRUx5RnJOTzc3ek0tNV8ySUVhR09IQi05c080QWtsTFBEWnh3OFh0cmp6VmJQYVRQVXQ0RDV5T2lnNENHNzJKV1RNazlMZnIwV2ZQdWhFR24wdjkwa1JtcVh6YUp4cmtma0dSdVdLYk8tVDZQT2xvVUkyVThRT0VkM0JLb21SdEVxaE1UUzZpRUJJVFRtVVN3WUZPSjQxSkJrZkNrTlVieWlhRkVCOFM5aUI0VVBNYtIB7AFBVV95cUxQRGI1VmdKTjlhdjNsSmZnTG5LTGdpczlHTU54YzlGeFNxMk9mVDNJQnY1RDdhbVFpTEE5TGFMRUx5RnJOTzc3ek0tNV8ySUVhR09IQi05c080QWtsTFBEWnh3OFh0cmp6VmJQYVRQVXQ0RDV5T2lnNENHNzJKV1RNazlMZnIwV2ZQdWhFR24wdjkwa1JtcVh6YUp4cmtma0dSdVdLYk8tVDZQT2xvVUkyVThRT0VkM0JLb21SdEVxaE1UUzZpRUJJVFRtVVN3WUZPSjQxSkJrZkNrTlVieWlhRkVCOFM5aUI0VVBNYg?oc=5",
+          "time": "15h ago",
+          "body": "Ladki Bahin scheme: NCP-SP claims loss of ₹24,000 crore as ‘80 lakh beneficiary found ineligible’  Mint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ladki Bahin scheme: NCP-SP claims loss of ₹24,000 crore as ‘80 lakh beneficiary found ineligible’ Mint"
+            ],
+            "tldr": "Ladki Bahin scheme: NCP-SP claims loss of ₹24,000 crore as ‘80 lakh beneficiary "
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1780639321752",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "12h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1780639321752",
+          "title": "Wipro shares tank 7% amid heavy volumes on buyback record date - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0ZrTDdndjlhU29RY2wtZmFxQlJlY3FYZURNWEJkcTBVeWdaYWh5WnJBRGFVZ2o2ZUdKT055ZVRHX1FqRGRPR0JwM1VVcm5JY2pUc1lON0RKRi14M0lqWDVKLVNaaFR5MENodVJqWTNUX1B4cTZ1cGlkTjVVcVhpczh2bDRLaVc2anFPNkhqUnBzR2ZXSUxVSnNhYlBDV3hISXpGbjhEeFZUSnJmS1N1YmFvWmppZFdQek9IQ3ppVFRjNDhlNVhxNmxBMmNadVHSAc8BQVVfeXFMTmNGa0w3Z3Y5YVNvUWNsLWZhcUJSZWNxWGVETVhCZHEwVXlnWmFoeVpyQURhVWdqNmVHSk9OeWVUR19RakRkT0dCcDNVVXJuSWNqVHNZTjdESkYteDNJalg1Si1TWmhUeTBDaHVSalkzVF9QeHE2dXBpZE41VXFYaXM4dmw0S2lXNmpxTzZIalJwc0dmV0lMVUpzYWJQQ1d4SEl6Rm44RHhWVEpyZktTdWJhb1pqaWRXUHpPSEN6aVRUYzQ4ZTVYcTZsQTJjWnVR?oc=5",
+          "time": "1h ago",
+          "body": "Wipro shares tank 7% amid heavy volumes on buyback record date  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Wipro shares tank 7% amid heavy volumes on buyback record date Business Standard"
+            ],
+            "tldr": "Wipro shares tank 7% amid heavy volumes on buyback record date Business Standard"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1780639321752",
+          "title": "Sensex Falls 153 Points, Nifty Down 62 as Markets Snap 4-Day Rally - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjItYncyXzY0RVZhampUNTlDRGlpY2gzVnhpdlBoa2JIQzBrSVNzVHhfM3lVc2lFYy1FZVNvTVhTbUM1TkNMOGtQUXR3X2hSN0xxOFpsNDJ3U19sd05vVXllYURDYTUxZlluTFVGVHN6aWZfRFptT0p3N01MSDI2T2FFTXNBRjMtanRYVVdkUlFTaFJQNUE?oc=5",
+          "time": "18h ago",
+          "body": "Sensex Falls 153 Points, Nifty Down 62 as Markets Snap 4-Day Rally  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Falls 153 Points, Nifty Down 62 as Markets Snap 4-Day Rally News On AIR"
+            ],
+            "tldr": "Sensex Falls 153 Points, Nifty Down 62 as Markets Snap 4-Day Rally News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1780639321752",
+          "title": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG5NeXhxc2ZsS181YlJsWllQMEF5M21FZllkZEpRYm1aSHQ1ejYtZEc1eGxXMDNlRE03X1JRNmJOSWZFRVpTMTBUZVU3SkNEekp0SS1aV0JMWHZBSW8zN3Vaa3V0ZHF3TTJWQmFmbC1wRVVCWFJnZWpONWI1Q3BidEJMLUJYMXVFQ2Q4LTd5VjA2UFpHZm9Z?oc=5",
+          "time": "8h ago",
+          "body": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+            ],
+            "tldr": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-0-1780639323080",
+          "title": "New age fraud: “Trust is being weaponised in the digital era” - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXl1ZjJzYUZmdGx0T1M1VVY4LWlSVV9xVGs0RktPVnVkYmFpdC1ZSlAyMWVFSGpxZ0E4d2RReERZakNWb1l3dzBUQkVpbFVFcENPZ3hRWnpHeEFxSm5Fd0Z5TDBPNDNmaXIzWHZaak53VnVTblZKTF9SWnRfTnluTk1UVHNXVWVuRmJCMWpLc2RnYVpIODBMNllReVdiek1tVUlUSnFYcmY4blZBN1RJVV85RHBMUTZQ0gG4AUFVX3lxTE4teXVmMnNhRmZ0bHRPUzVVVjgtaVJVX3FUazRGS09WdWRiYWl0LVlKUDIxZUVIanFnQTh3ZFF4RFlqQ1ZvWXd3MFRCRWlsVUVwQ09neFFaekd4QXFKbkV3RnlMME80M2ZpcjNYdlpqTndWdVNuVkpMX1JadF9OeW5OTVRUc1dVZW5GYkIxaktzZGdhWkg4MEw2WVF5V2J6TW1VSVRKcVhyZjhuVkE3VElVXzlEcExRNlA?oc=5",
+          "time": "13h ago",
+          "body": "New age fraud: “Trust is being weaponised in the digital era”  The Hindu",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New age fraud: “Trust is being weaponised in the digital era” The Hindu"
+            ],
+            "tldr": "New age fraud: “Trust is being weaponised in the digital era” The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1780639323080",
+          "title": "Trust is being weaponised by cyber-criminals, says Maharashtra ADGP Brijesh Singh - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWV9RVXhZTXBuRm94eVBZc1BJSG80UWR2enlLanRVM0FvVXZwc0cydHRWNkFWVHY2aHVjYXhKWGE3OC1jdmtlWU9VYm9faXk3NEFXa3VybDlvcm5UX0k3eE8tQm1NODFieUVPZEtSUzcyRW9xU3dOMERqRHdvcFkwVEMzNkVoQjQwdTR6WmRfRFlSQ2lTVDdDdnVtR0hHSDRZb2ZCU2ttWU12blpsMlBiVURwLUoxLTlpT09TdHlYRDZEOVk4b2ZobE5qbEdOcHZ5OG0xcTFOZ3Nvb19EOVloa0NSQQ?oc=5",
+          "time": "17h ago",
+          "body": "Trust is being weaponised by cyber-criminals, says Maharashtra ADGP Brijesh Singh  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Trust is being weaponised by cyber-criminals, says Maharashtra ADGP Brijesh Singh Deccan Herald"
+            ],
+            "tldr": "Trust is being weaponised by cyber-criminals, says Maharashtra ADGP Brijesh Sing"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1780639323080",
+          "title": "From Classroom to Cloud: How ExamOnline Is Leading India's University Shift From Physical Exam Halls to AI-Proctored Digital Infrastructure - Sangri Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT0RMTTFoN2dNSm1uNDVRZkZaekdMMXRUWkFZMWRaWjB5MzZ4OWtidFloYlNoUVNyQUt6NndwR2Z1MEtJUVNQQ3hhZERpT1hsM2xpVUp6djFOZGUwR3BSR2dobmhWa0JhQUlZWm1NUTdmOWNPc042SWdmYUUwR2RuSVBBX0JnLS1JZ3JYNXhhMFdxOE1BRXEzRTNkdTJ1MEh3Z0VkZWdPblliRzg1Z1BtbEQ3VnBsT2pPa2FqZXhiRkNiekpYZk9pN2c5dkFMMTFROG42LTZGb0JRcTFXM3RFQVd6clFkbDV6akZxbFRhWlllT1Atc2Rjakc2b2FZa2ZIUzBDUUt3OU41NVoyQU14a3VB?oc=5",
+          "time": "22h ago",
+          "body": "From Classroom to Cloud: How ExamOnline Is Leading India's University Shift From Physical Exam Halls to AI-Proctored Digital Infrastructure  Sangri Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From Classroom to Cloud: How ExamOnline Is Leading India's University Shift From Physical Exam Halls to AI-Proctored Digital Infrastructure Sangri Today"
+            ],
+            "tldr": "From Classroom to Cloud: How ExamOnline Is Leading India's University Shift From"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1780639323080",
+          "title": "Streamers and advertisers turn to AI-generated content - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWJQVm9GZGlydUdiMklDWDByWUJuTXdUVlJHVXY0SHdaYWRpM1g0ems2TGJpNHRfSHN0emZYWktBdFN0VFhQZWREbFRqeUxJM3h5eXM1UTAyUlZkTDIxczhRNnV2VDhyQW9PQ1pmQndDT28tQmJwVFZRaVAzNFVKSGNObk9RRHh5bktpbG55V29fQmZwZHF6RXRhR21JT05QcTJhczQwcURHZi1IVU5uTWFFLTdyd3PSAbcBQVVfeXFMUC1iUFZvRmRpcnVHYjJJQ1gwcllCbk13VFZSR1V2NEh3WmFkaTNYNHprNkxiaTR0X0hzdHpmWFpLQXRTdFRYUGVkRGxUanlMSTN4eXlzNVEwMlJWZEwyMXM4UTZ1dlQ4ckFvT0NaZkJ3Q09vLUJicFRWUWlQMzRVSkhjTm5PUUR4eW5LaWxueVdvX0JmcGRxekV0YUdtSU9OUHEyYXM0MHFER2YtSFVObk1hRS03cndz?oc=5",
+          "time": "11h ago",
+          "body": "Streamers and advertisers turn to AI-generated content  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Streamers and advertisers turn to AI-generated content The New Indian Express"
+            ],
+            "tldr": "Streamers and advertisers turn to AI-generated content The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1780639323081",
+          "title": "Forensic experts call for AI-driven playbook to counter deepfakes and digital scams - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZUxqbk5xTDVLRkdISTYtOTFSbGxwc1oxS1Nwa2dnU0hYUElZSzlTRzdwZEpKcnozMlZISGhBMTYyQ0tvVGdoVTl5WXFLM1I4RWNmbVgyVmtZOG1NT3I0YlVoYjFtLTB4UHlGZGw5WWx3QjJXZE5naFRGc2NZOW40RHFfMUdGZGxkNXNGRnpFS3BCRi1zaFM3SE5jY3pNeFNRaHhMUHdQRkZtaWhGazBDNlFXTlNtSDhxMHNpWHdMWGQ2VjhGLW5tMldhN0QzVmQ0OVF2NW83UXJ0bTBXZ0VBVUpubzJYR0Fa0gHuAUFVX3lxTE9NS1JVcUQxelZ4XzNKZ0NJbGdHc3g4YlhpUm5rQVZrOFNUangzdXJidUhpSVlNdWhiMnRsdnI5eXFNdmxRX1hJSGk0R2JlZ3Q4T3dNRTBIQVFoNGctd1RoQzB6dzQzQVVjbEh6ZDdWN3FiZTRUZ1M4dmRKWnhpcTlsMF9aSHJBckxKRU1TZGtnY3U3bHJ4OVVJX3lXSkVZem1RZ25WR25KTVQ3MGhtQkdvOXExQkktVjYxS0FtVjFGR3Fta2VXTW4xRHZJcFFtLVNaa3pSMFpvejZuRFNCTy1zQUF2a05ISW5SVVFvTlE?oc=5",
+          "time": "15h ago",
+          "body": "Forensic experts call for AI-driven playbook to counter deepfakes and digital scams  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Forensic experts call for AI-driven playbook to counter deepfakes and digital scams The Economic Times"
+            ],
+            "tldr": "Forensic experts call for AI-driven playbook to counter deepfakes and digital sc"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1780639323081",
+          "title": "Netrasemi A2000 Edge AI Chip Sampling: 12 TOPS, 12nm, RISC-V and Arm Cores - News and Statistics - IndexBox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkc2WEtNMGwzRVpDNi1RUnluRkZwaTRTWkNmVDZNQTVGLWl5eHRZbUhFdk05b2pvLTVyMGR1TlA0b2t4d2tSNkFVUC1aeEctZFBlZUI2UTdHM0c1Z29oT0R2WTVyaFEzajNvSUhkaWNRNzQwOTdFaFpjVkhlWUdieVk5dGhFb0Fhd2pmbGo2alI4TnFjVHFKcV95U3dXZw?oc=5",
+          "time": "6h ago",
+          "body": "Netrasemi A2000 Edge AI Chip Sampling: 12 TOPS, 12nm, RISC-V and Arm Cores - News and Statistics  IndexBox",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Netrasemi A2000 Edge AI Chip Sampling: 12 TOPS, 12nm, RISC-V and Arm Cores - News and Statistics IndexBox"
+            ],
+            "tldr": "Netrasemi A2000 Edge AI Chip Sampling: 12 TOPS, 12nm, RISC-V and Arm Cores - New"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1780639323081",
+          "title": "GCCs shifting towards contract hiring for AI talent as demand for specialised skills rises - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWXNRaElCMmF4eVYxbWRXYk1iOXRNMEgydy1lZVdBdXRNYVZzekJLZEZadTVuY3R1SVFEQXJiVlBmSVREUDRQZ0ZMZFQ1OG9wUVBYaGg1ZmZWVmkySVFINnZBMkJ4dXF1SU1feTNLSjZEcmszYTJmYTdUdUtFMVRkSFlDall6RzJGSHdPcGVUenpiYjVOdFdVUHB2TEltaVBPbDZjV29Na2ctSEZvVjBTYkhmODZxeG1rcm9wSWxvLXo2RE1XbWpnNXktMVNXZEQ5NHhqOExGVm1ua1pIcE1idV9VbkE4R3F6eUHSAeoBQVVfeXFMTVlzUWhJQjJheHlWMW1kV2JNYjl0TTBIMnctZWVXQXV0TWFWc3pCS2RGWnU1bmN0dUlRREFyYlZQZklURFA0UGdGTGRUNThvcFFQWGhoNWZmVlZpMklRSDZ2QTJCeHVxdUlNX3kzS0o2RHJrM2EyZmE3VHVLRTFUZEhZQ2pZekcyRkh3T3BlVHp6YmI1TnRXVVBwdkxJbWlQT2w2Y1dvTWtnLUhGb1YwU2JIZjg2cXhta3JvcElsby16NkRNV21qZzV5LTFTV2REOTR4ajhMRlZtbmtaSHBNYnVfVW5BOEdxenlB?oc=5",
+          "time": "10h ago",
+          "body": "GCCs shifting towards contract hiring for AI talent as demand for specialised skills rises  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GCCs shifting towards contract hiring for AI talent as demand for specialised skills rises The New Indian Express"
+            ],
+            "tldr": "GCCs shifting towards contract hiring for AI talent as demand for specialised sk"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1780639323081",
+          "title": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence - Punjab Kesari English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTFJMMEVKN09YXzJNaFpHaTF4bkpVY25hbjRzQjBVX1lkQVRZcThVa2k2c1ZRUVZzaE1obDdxWGhDNEdSVGxWcVN1eTYzajVxZ2xVaWMtMTJHSWFwVUVZSE9BblREdnVrX1hUcGIzdFotaHFxQ2kxRmZHSGItRzV2TFhZZGRGVVpDZkIwQmJDNjUycjNBdS0zb0RLcHQyV1VGSFpNNUtnUEdtZ2IycTl6UGdyOUFUSG95Qk1WbmRWUFhneHhUc1k2WFRQeXE3VG1wV2fSAdcBQVVfeXFMT205S3FwVjVIbkhaZXlrYkRfQWI1SjNXaWYtOFBFNF8wNzhIZ3lHRFJNX2ZBd0xReFByMHNwOFprcGFGMzg1Q3RscnJJQS1ZampJbVcxZlNSdEhQM1lQcUFrZmtxRlppUDV6Nm1iSUFsWVpmQ1VfUXRuTFRmQjNlcm9oVWVsNWFkU3VWbnZJV3VGRkYzVnEtUjRkbGQxVkE4TFg1cGdHeEFsaktQWlZhUFA5Y3JTWGF5T21SMjctWkROeU80c0FvUEhrbmNVRmg1MnkyLWNwTWs?oc=5",
+          "time": "1h ago",
+          "body": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence  Punjab Kesari English",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence Punjab Kesari English"
+            ],
+            "tldr": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1780639323226",
+          "title": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RSMDExX3Z3TmRWaHN6Z2N4UlpWSkRkdWFPRkNpR25qRmJYNnFzTzlodW50dVBXQ2I0a2J2T09wTHNteW10bUJjOTNzWlViZWJXdXRiVFFEd1BwQWxzR3F6QXdEdjYtbS1sTEZydXQxRVFvYk1QOVcweElBQlU3ZWhsS3IwZEhoNFd1N0tyd1dCRlp1S2RXNmphU0ZLajhTSGc?oc=5",
+          "time": "3h ago",
+          "body": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780639323226",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780639323226",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "3h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1780639323226",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "9h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1780639323226",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "3h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1780639323226",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "6h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1780639323226",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "11h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1780639323227",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "6h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1780639324468",
+          "title": "Heavy pre-monsoon rain floods Mumbai, shuts Andheri subway - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1h0amdxM0MzLUxVcDdqazl1VXhKU0l5dXhCd0RnbHBvaGxJYkxIQUhsaXIxbkM1cVZWRnl0aGZxR2Zhb0Joc3J0c0YyVnRtTk16VC1VV08zUGNtNDRBZmhQTHoyMU91cTV4aDRrMGthbGYzUGh1T3dpX1FvQzkzbjdVTF9jcUNmRGVtVWFINENzaWxldU15SjdqY0dZeWxmWGl0M2dxQmdvSFNHeUZMemhZSHRzcG5FMy1wT2VBb0ptaFh1c1BiNnN4MVh4dG5WclJLMnppVkJmclg0eTYxOFVMa2lBNkd5SkRMMnRvZEc?oc=5",
+          "time": "23h ago",
+          "body": "Heavy pre-monsoon rain floods Mumbai, shuts Andheri subway  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Heavy pre-monsoon rain floods Mumbai, shuts Andheri subway MSN"
+            ],
+            "tldr": "Heavy pre-monsoon rain floods Mumbai, shuts Andheri subway MSN"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1780639324643",
+          "title": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]"
+            ],
+            "tldr": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for na"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1780639324643",
+          "title": "'Get out of my country': Indian-origin couple racially abused in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'Get out of my country': Indian-origin couple racially abused in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Get out of my country': Indian-origin couple racially abused in US. [object Object]"
+            ],
+            "tldr": "'Get out of my country': Indian-origin couple racially abused in US. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1780639324643",
+          "title": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]"
+            ],
+            "tldr": "Indian-origin cancer specialist banned from practising in UK says, 'I will never"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1780639324643",
+          "title": "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'For Brothers': Major international gang busted in Canada, 17 Indians charged for extortion targeting South Asians. [object Object]"
+            ],
+            "tldr": "'For Brothers': Major international gang busted in Canada, 17 Indians charged fo"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1780639324643",
+          "title": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold bars from elderly victims. [object Object]"
+            ],
+            "tldr": "Indian man sentenced to 15.5 years in prison for gold scam in US, picked 16 gold"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1780639324643",
+          "title": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14d ago",
+          "body": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy counters hate on social media. [object Object]"
+            ],
+            "tldr": "I am from India but none of my firm partners is Indian: Attorney Rahul Reddy cou"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1780639324643",
+          "title": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "16d ago",
+          "body": "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man run over by truck in New Mexico during family trip, parents came to US for planning marriage. [object Object]"
+            ],
+            "tldr": "Indian man run over by truck in New Mexico during family trip, parents came to U"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1780639325960",
+          "title": "Maharashtra FDA boosts drug testing capacity by 55% with recruitment of 40 more lab professionals - Pharmabiz.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZEp6NFU0aFdmOVBYRTZWWFlTMWc0SkRLWlc0SkNwd0FFVjhrVWctbVg1WHRfUmJfTmxEbHcxemRuOUpjV0pkcGZjRW56UjE2YzRvNW9BUVptUUVzbVlTeXZLSEpmSFdhNHJn?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra FDA boosts drug testing capacity by 55% with recruitment of 40 more lab professionals  Pharmabiz.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA boosts drug testing capacity by 55% with recruitment of 40 more lab professionals Pharmabiz.com"
+            ],
+            "tldr": "Maharashtra FDA boosts drug testing capacity by 55% with recruitment of 40 more "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1780639325960",
+          "title": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHJURkVjRWVpOFMzQXU0LUdXV3RkYWFlR3I3ZUVVR0lraG1xNjl2TEt3WWJGeUdxR3B3dF81bE95Wi1vTno1Q1FVUHZhN2VfcGJmZ3A5eG9rMUtRSV9DM3Fxd3lEOVFuWW9RQ2E5SktPOHJYNW1qNlFfM1lfVno5bnJJSjlyX3l2UEZMSjBJcGV5b0REVVYtUW01YlJrSjlmdGo5ZnZ6NFRlUjFMc082b0dVVTk0c0pRbnlCZ19aNVlaZw?oc=5",
+          "time": "9h ago",
+          "body": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill  News On AIR",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill News On AIR"
+            ],
+            "tldr": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shak"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1780639325960",
+          "title": "Council polls: Sena (UBT) candidate for Aurangabad-Jalna seat pulls out, expelled from party - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0E4Y0luQlJPcjRySU9yaWFzZnAwTHhSTjJobVNTUHowM0V3RFZ1clNQMXRwMHp4eXBrQU5zM2NGeDhIc2V1Y3AtTG1TRGlDX0hPb0lEOGN1cWpXdEdUT1R3al9VeUNjUmN6TTcyR2FndVNmREp4T3VSVG9fTEozVGlud2pNUWlWZGExMnhvTlVaV2pJS2s3SHEzbHdNQ05Ua0V3SVhNemQwSlY1QU9nT0VVMjJDYi1VTVNLUGxKSjPSAcYBQVVfeXFMT3J6STU3b2U4U0NDR1hQaTNjUmtjUzBxclNrU2NNcXE3Sk5vZ1RidnZfbUR1U0RtZHNPUTJ4dWhUTW1wempfcm16VzBsNzJJcmlnOG1IT2VaTGxsR2pSX21YcllBVC14X28tUEVQeUh0ZlpmeXA2WGZTZnBoUXVpRmdoX040eWpuNk9ockZGa3dLbXVvQ3JPMExBY3lHOFFBRjBHZ051Y3dsZzJJTE55RE8yT0xPRlFYRHk3Qkpsd0NYdEdtbDBB?oc=5",
+          "time": "17h ago",
+          "body": "Council polls: Sena (UBT) candidate for Aurangabad-Jalna seat pulls out, expelled from party  ThePrint",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Council polls: Sena (UBT) candidate for Aurangabad-Jalna seat pulls out, expelled from party ThePrint"
+            ],
+            "tldr": "Council polls: Sena (UBT) candidate for Aurangabad-Jalna seat pulls out, expelle"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1780639325961",
+          "title": "Kolhapur, Chh Sambhajinagar chosen for booking of fertilisers through app after trial run in Pune village - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYi1GYWljOUdaaEdDUk10dTNOMzdad1Y2Q0VTQV9PaWxCMkhwQkxhVWNpbWJDdE50c0NTTW9STlhpLWFQZHpBREVsdEI1NVh5Qy03cWZWREJLdGZITUdheUtadnJqN3kwZ3VtSTZuVEg5ZTRWOXZqOEJCM2w2RHcxRmpTNjgxX3VVUWJhS3hqM29nUjg2cXN2STUwZzZ0TzlQdVJ0d2NSTHo3MWp6enNDZmhTaW1NR2pDMW5jQVJlNmpXdFNKc3NlTHhwR3FlN0xtLV9uQ3EwS0xFOHJIalRMd2l0WXNuOU51STdsdlhSSXh3b0pod3dLQkZDUGplZTNwUXRzamk4bUpMQVQ1X1hKU2FR?oc=5",
+          "time": "10h ago",
+          "body": "Kolhapur, Chh Sambhajinagar chosen for booking of fertilisers through app after trial run in Pune village  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Kolhapur, Chh Sambhajinagar chosen for booking of fertilisers through app after trial run in Pune village The Times of India"
+            ],
+            "tldr": "Kolhapur, Chh Sambhajinagar chosen for booking of fertilisers through app after "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1780639325961",
+          "title": "Expressway hug sparks Shiv Sena reunion buzz: Ahead Maharashtra MLC polls BJP moves on Uddhav–Shinde strong... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkZTNnpGYURzUUhWZ0RkdGY0QlVDejZlZk1BRjFEMEZ0d2RrdjdER2FxZm10a2tsMHJTWkp5bld5OVA2QTU5VVhrVEdua0xzekdnNjB1YkxaN0hjS3V3VkpraE1VeHBIM1JaVWdaYk5YRS1rcWZQeTFDQmdkNGpHenRMZWtxMTFJazI5WUlfTk9oS1c0bUJWU3AtVjlkcjc2WVphRHhuNlhyOHI1c2E4QS1HdjVkbTVGYktNUEIyMkhOd9IBwgFBVV95cUxOVkZTNnpGYURzUUhWZ0RkdGY0QlVDejZlZk1BRjFEMEZ0d2RrdjdER2FxZm10a2tsMHJTWkp5bld5OVA2QTU5VVhrVEdua0xzekdnNjB1YkxaN0hjS3V3VkpraE1VeHBIM1JaVWdaYk5YRS1rcWZQeTFDQmdkNGpHenRMZWtxMTFJazI5WUlfTk9oS1c0bUJWU3AtVjlkcjc2WVphRHhuNlhyOHI1c2E4QS1HdjVkbTVGYktNUEIyMkhOdw?oc=5",
+          "time": "2h ago",
+          "body": "Expressway hug sparks Shiv Sena reunion buzz: Ahead Maharashtra MLC polls BJP moves on Uddhav–Shinde strong...  Bhaskar English",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Expressway hug sparks Shiv Sena reunion buzz: Ahead Maharashtra MLC polls BJP moves on Uddhav–Shinde strong..."
+            ],
+            "tldr": "Expressway hug sparks Shiv Sena reunion buzz: Ahead Maharashtra MLC polls BJP mo"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1780639325961",
+          "title": "Electrolyte Drink Misbranding: Maharashtra FDA Seizure - OC Academy",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFBvZ0poWDM2dnhfb1RodzRkWmM4eXdHZHZTRkt0dHAwTG5kMmRBaTdxZWpWTTBUQ2xqZ1I0MTVVNnVJaEZmajF1X1MxODkwMkdjNlhwMGZxelZWSmgtR0R3N090NGtOV25NX1A4S3ZaVTJRUG5mZ2dWOWVLeWVjeENRcjlNeE8wbFhwM05n?oc=5",
+          "time": "18h ago",
+          "body": "Electrolyte Drink Misbranding: Maharashtra FDA Seizure  OC Academy",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Electrolyte Drink Misbranding: Maharashtra FDA Seizure OC Academy"
+            ],
+            "tldr": "Electrolyte Drink Misbranding: Maharashtra FDA Seizure OC Academy"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1780639325961",
+          "title": "TCS case: Victim alleges being forced to watch videos of Pakistani Islamic clerics - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaE5CYWlKNmFlNjUtNElCYVVrVEUyb3NROGQzSWVhZEVxSER3UkhjRlJWTHJjdTRmTWJMV3ExbzJmSXdtNmlBYlM0TkdpUW01bzFUWHJtUmMzMERjblB6ZkVITzZ5WFNmeTZmOVJnN2lxV0RjMWxselNFeHpoV0hGVktUSm5mV2NNM3ZFX1Z6VTE1TXVCSUhFUmVYQ29qTkw1WWRJVVEwWDFkS09nalRkR25XOU50Ry1LZjViSzhmQnVfYzB5c2dFbEVTa25aeFlLYmc2SHVZbExTUWdENDFDSUgtb2Y?oc=5",
+          "time": "13h ago",
+          "body": "TCS case: Victim alleges being forced to watch videos of Pakistani Islamic clerics  Deccan Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS case: Victim alleges being forced to watch videos of Pakistani Islamic clerics Deccan Herald"
+            ],
+            "tldr": "TCS case: Victim alleges being forced to watch videos of Pakistani Islamic cleri"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1780639325961",
+          "title": "Mahayuti Faultlines Surface as Sena MLAs Question BJP’s Dominance - NTT | News The Truth",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXI1SXpmUmZOTk93NzUyczMtUlJ6aWgwMXF5YTF4YzJQUFRVWDl2SjUzQ3NETWl0T21aY0tBLWJjTGtiV3dWVXRjT0JuQTJ4YlJCbHZTRW95cDMwTWxlWk9lOC1vQVp0QjR1T3lkUDNBNm1QVVYydjNqVmpLc3BEQTh3cFJiZWFKaC0xVXBBWUFSZjQ3Tmg0TEtR?oc=5",
+          "time": "20h ago",
+          "body": "Mahayuti Faultlines Surface as Sena MLAs Question BJP’s Dominance  NTT | News The Truth",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mahayuti Faultlines Surface as Sena MLAs Question BJP’s Dominance NTT | News The Truth"
+            ],
+            "tldr": "Mahayuti Faultlines Surface as Sena MLAs Question BJP’s Dominance NTT | News The"
+          }
+        }
+      ]
+    }
+  }
+}
