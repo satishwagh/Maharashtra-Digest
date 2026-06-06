@@ -1,0 +1,794 @@
+{
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T05:33:28.313Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1780724002730",
+          "title": "Maharashtra government bets on ₹16.7 lakh crore data centre push | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzVka0I2eEl0TFhidmNoVHhKQlFnTEJRVFB5NkZTUkJza2s3U1lDTmJJclN1WVcydzhqaERjZzd1alRYSVRMWWtkZk9VOVAwd2lkZ0d6QzR5X1cwRDhJc2owVU10TDVLdVB6LW91czlIcGdXUEUwbHZETFVqdThjRElYYnlQYzFFeXJsanFMS0xacTZJeUxuUUtfeS1TeEdzTER5MHJycDV1UEhnaDlOamwzV2M1NE81bmVVYXJKamZkUkJ4NXVZ0gHMAUFVX3lxTE5FWUZ3NGpyVUkwT0lRTDBSOENLRXlyTUZ6dU9heFZqMU81c1ItTFFhMkJxUG81ZUJELV91MFNMRGUxZUlScGZVY3B1dk9PWTcxTXpIek9MZ2RvOGJZdmJRaFV0alpLc0tGVFBQU3A3Y3dMTld4X3pHQVVKdGpJWnFBaGprek1zeDJQX2J3azg3c3Nna0RoWDFLMVNmdmZzWG95cXpwLWlvOU4yQnBHMHZIR05YVVNvVjA0bEJ0WjhlakZ0VGprZ3A1cm5MNQ?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra government bets on ₹16.7 lakh crore data centre push | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government bets on ₹16.7 lakh crore data centre push | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra government bets on ₹16.7 lakh crore data centre push | Mumbai news H"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1780724002730",
+          "title": "S&A Law Offices Advises On Air India Building's Sale To Maharashtra Government For INR 1,601 Crores - LawBeat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUdxU0xzZEFfNlB5RlpJWV9XaTlOVWlhWjNRQ1g1aUZhalZiTVZlcjVBQ3ExcUhMU2stRDJrbDBacUVLbUJ0amkwR3hUVE04QkVfdWxCRTNIWDVmZTNBTmFDLTF4NE1mZzM2RUgzLU9iRklycGpBLTh0WkhnekNSOXYxSWtOWVRVV1FGbUJmN2RqTVRSTkpWM3hmTU1oMXhQbzQ5dzN1WnFCZ0IzMW91N3RxeExPM2g2T1NJbnNaUVlKZllkUTN3RUsxY1FNbnV5SHBV0gHTAUFVX3lxTFBtR3FTTHNkQV82UHlGWklZX1dpOU5VaWFaM1FDWDVpRmFqVmJNVmVyNUFDcTFxSExTay1EMmtsMFpxRUttQnRqaTBHeFRUTThCRV91bEJFM0hYNWZlM0FOYUMtMXg0TWZnMzZFSDMtT2JGSXJwakEtOHRaSGd6Q1I5djFJa05ZVFVXUUZtQmY3ZGpNVFJOSlYzeGZNTWgxeFBvNDl3M3VacUJnQjMxb3U3dHF4TE8zaDZPU0luc1pRWUpmWWRRM3dFSzFjUU1udXlIcFU?oc=5",
+          "time": "19h ago",
+          "body": "S&A Law Offices Advises On Air India Building's Sale To Maharashtra Government For INR 1,601 Crores  LawBeat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "S&A Law Offices Advises On Air India Building's Sale To Maharashtra Government For INR 1,601 Crores LawBeat"
+            ],
+            "tldr": "S&A Law Offices Advises On Air India Building's Sale To Maharashtra Government F"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1780724002730",
+          "title": "Maharashtra extends all OBC educational benefits and welfare schemes to Maratha students - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUklGVE1COHdpOUtrR1ExMHh1UXo3MWFZQVB2VjZpWTc1Q2J1Um01OGlFQVUySEpCejREay1ZZmhYTW9kWWpORXd0YmxaUXF1LWUtUERBbHhhb0I0bUZIay1nQzhQQTgyWmRybVNSd2RmRTlmWk1zVk02c0w3VzNrTDd2ZXhZc2dNakF6eTZIYm1RdDBjNFJoYjl0MWhsNUZUWnc4bHZNWS0td093a1BseUVYZDh0aFJKMGNwckh5S0IycU4zSUk0OWNIck1kcE84WFp3bzM0b19qQmVNS3hpaTJTS21ZSGtNZjJTaXdUaUNYSFVP0gH0AUFVX3lxTE1SSUZUTUI4d2k5S2tHUTEweHVRejcxYVlBUHZWNmlZNzVDYnVSbTU4aUVBVTJISkJ6NERrLVlmaFhNb2RZak5Fd3RibFpRcXUtZS1QREFseGFvQjRtRkhrLWdDOFBBODJaZHJtU1J3ZGZFOWZaTXNWTTZzTDdXM2tMN3ZleFlzZ01qQXp5NkhibVF0MGM0UmhiOXQxaGw1RlRadzhsdk1ZLS13T3drUGx5RVhkOHRoUkowY3BySHlLQjJxTjNJSTQ5Y0hyTWRwTzhYWndvMzRvX2pCZU1LeGlpMlNLbVlIa01mMlNpd1RpQ1hIVU8?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra extends all OBC educational benefits and welfare schemes to Maratha students  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra extends all OBC educational benefits and welfare schemes to Maratha students The New Indian Express"
+            ],
+            "tldr": "Maharashtra extends all OBC educational benefits and welfare schemes to Maratha "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1780724002731",
+          "title": "Pune hooch tragedy expose Maharashtra govt's failure to implement past recommendations: Congress - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaW5ZYjF1RTNvSkU3N0d0SkFYUkNXY0EzN2M5R3lUb2pxa0xUN3hCUTVqTGJVMkFIYjVILVY2dTRQV2xRMFp4QUNBWTktdGZPWUsyZTRqYzY3WnVXUXluR0ZZUjl5LXRWV0s2Z2Y5WFB4NmpmUURQenVIR2c3Q3JDS0w0YnA4d25KMDFSeDBoZmJvTDVmVWFRVkNIbldDRm5IaFN3Q2R2RkU2Q3NQQTRfeFFNdzdVWVRIQjF0Z0pYVExaSWhWTnB3NHBWRWNSVV9KTG5YWlZycVFtbFV5dVFxUW45aFc1dU1WZWswaUtTQU9KblhaNHQtbTBseEtBc0R3V3JUdnlhc9IBhwJBVV95cUxOaW5ZYjF1RTNvSkU3N0d0SkFYUkNXY0EzN2M5R3lUb2pxa0xUN3hCUTVqTGJVMkFIYjVILVY2dTRQV2xRMFp4QUNBWTktdGZPWUsyZTRqYzY3WnVXUXluR0ZZUjl5LXRWV0s2Z2Y5WFB4NmpmUURQenVIR2c3Q3JDS0w0YnA4d25KMDFSeDBoZmJvTDVmVWFRVkNIbldDRm5IaFN3Q2R2RkU2Q3NQQTRfeFFNdzdVWVRIQjF0Z0pYVExaSWhWTnB3NHBWRWNSVV9KTG5YWlZycVFtbFV5dVFxUW45aFc1dU1WZWswaUtTQU9KblhaNHQtbTBseEtBc0R3V3JUdnlhcw?oc=5",
+          "time": "16h ago",
+          "body": "Pune hooch tragedy expose Maharashtra govt's failure to implement past recommendations: Congress  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pune hooch tragedy expose Maharashtra govt's failure to implement past recommendations: Congress Mid-day"
+            ],
+            "tldr": "Pune hooch tragedy expose Maharashtra govt's failure to implement past recommend"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1780724002731",
+          "title": "Maharashtra: Land Powers Delegated to Collectors, Commissioners - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa0xGYXZKb1lCb3ZENmpWZk5OX0t4OXRlbXl6MUN6cXJzUU9FU0w0cDZtemdmSU9sOVg5cHZsd0pkNjBFMWJVcklJTzFreHdUSHNCZ09KQlFKR0c3UUJwNTh1VnRwUE5NYklYX2t5RGwxMV9OaXpfSEEwMVVkVTdsbDFJU1ZEZDhKWHdWcDhhSm9MMGdYTWdtRHlycEp6OWlIVWw1TXU2b1FHMEljejhSRmZFd0RNNVZk0gG4AUFVX3lxTE9rTEZhdkpvWUJvdkQ2alZmTk5fS3g5dGVteXoxQ3pxcnNRT0VTTDRwNm16Z2ZJT2w5WDlwdmx3SmQ2MEUxYlVySUlPMWt4d1RIc0JnT0pCUUpHRzdRQnA1OHVWdHBQTk1iSVhfa3lEbDExX05pel9IQTAxVWRVN2xsMUlTVkRkOEpYd1ZwOGFKb0wwZ1hNZ21EeXJwSno5aUhVbDVNdTZvUUcwSWN6OFJGZkV3RE01VmQ?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra: Land Powers Delegated to Collectors, Commissioners  Rediff",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Land Powers Delegated to Collectors, Commissioners Rediff"
+            ],
+            "tldr": "Maharashtra: Land Powers Delegated to Collectors, Commissioners Rediff"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780724002731",
+          "title": "Push for Third Mumbai: Singapore-based firm given go ahead to make masterplan - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2tYODVfckp1NDMtUkxMdVh6Z3JtVFVENkZoQnM2djJLQ1hmYXo3UVdQcXJ6aWUtXzRfLXlMaFB1NzJIMzJLVERoZFFvczlocTJxV0FETGs1c19sS1NDYjJnZVdzdkdCSzhhTk85Y1hmT0RTdW9MNHhabWlDT0d0ZlM0cGFMLUMtd0FIMjJVOGY0dzBFdHJrWkFhbGh2YktjRm9MQlJidTJyTTZlVDNtVkJJc0RnYTJh0gG_AUFVX3lxTFBZU2VsSDZXSE9zSW9wMk5lYXgxREZsN0pxc29oTk5FOWVoS0FXbThYeXJJTzlkbWVpM1JVUmFza2ZhS3BfUGVsU2YwYVFIbFNvbGxkY043ZUszR25mTkxHTkpBOHAwUHJmWjdJaFhySzBDbUFaNmtpREYxVUtTbkJzMV94VmlwTzkyODVkYjIxZkFTbmNtV3VxSlpwalgzZlRNVGx3OWhBdUxLd2hIbjI5QWJHTTQ5bnFocXE2LVJv?oc=5",
+          "time": "16h ago",
+          "body": "Push for Third Mumbai: Singapore-based firm given go ahead to make masterplan  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Push for Third Mumbai: Singapore-based firm given go ahead to make masterplan The Indian Express"
+            ],
+            "tldr": "Push for Third Mumbai: Singapore-based firm given go ahead to make masterplan Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1780724002731",
+          "title": "No sale of BEST land; parking hubs, Marathi theatres part of depot redevelopment plan: Maharashtra CM - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWNmQ2ZoZFg1UHNhU3AwOGVyLTZNTDNod2h4MGRqRXluUkEyM0puLW9UMFdReDZZZGc4WjhfczFYNDVJaU9CZ3JubEFwbV9FQ3dEaXBfTUlFd1dWVF95TjZzV3hUS21iaTk2WDBKN0NFWkZMaVQyRHBhSkdid3BPZ2IxNDU2MEtKaDhsTS0yYjkwd0hhZXJFQWlhTGpvcFdZRXdOdHhRUUI1M1MwUXpLMHFYV0sxWU9QVk5pUDdMVmtlZkw3SnFFWUs2UXZBQ1IzaE440gHYAUFVX3lxTE1KTlZkOGtUTFBwaHVPS0phc19lcVBZeHkxNkFWdXZVTnhvRDVTay11T3ZwVmxCTDRtRXNkLUFqbFVWNXVtdEF3SGZUUFE5REJvbm5GWmFVY216b1JDZXRYVkp4MV81clVHdE9uWm4wek93dHZidGpIbEhDUHlic0wyY282MjlURTVUbEQ5VXpva3VMUVNKYmlzM2JRemZaSDhuTWVwS2tCWWNlcUp1bFlyYnA1aUJnRmt1YnhTdEhNa05IdThZVkFIMlExbXpsVVNoRXZ2TGdIUQ?oc=5",
+          "time": "14h ago",
+          "body": "No sale of BEST land; parking hubs, Marathi theatres part of depot redevelopment plan: Maharashtra CM  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No sale of BEST land; parking hubs, Marathi theatres part of depot redevelopment plan: Maharashtra CM The Times of India"
+            ],
+            "tldr": "No sale of BEST land; parking hubs, Marathi theatres part of depot redevelopment"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1780724002731",
+          "title": "Maharashtra govt has signed MoUs worth Rs 4,080 crore in electronic and logistic sectors: CM Fadnavis - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTXZkUW1DODhtMGs0VUVOSDlEdlM2UVlZN0hsTVVaOFJCVW1ESHdUcXU1OTJzajZEUzB4UDdOWl9HQTFsXy1kU0NyQXExalZlRU5EYXZUSk5rN3BFV3BrNkRURm5tZWxBTmFwTmxVdW9uRWw4X091Z21Wcmp3b1Z4SUxfcG1YMGpLbS05V2JPY2FiS1BFZENuNTA3a0dMSXNERk81c1MzRXo0Z0ZyaDlPMEs5V2FOaEhDWXFCSnM1emJnSGNhZFFYakpVdW1VV2FlTlZITHZ0NzBsbU96MkpTdzFlbWJSNFQxekRTY01ScjFFT2_SAfMBQVVfeXFMUE12ZFFtQzg4bTBrNFVFTkg5RHZTNlFZWTdIbE1VWjhSQlVtREh3VHF1NTkyc2o2RFMweFA3TlpfR0ExbF8tZFNDckFxMWpWZUVORGF2VEpOazdwRVdwazZEVEZubWVsQU5hcE5sVXVvbkVsOF9PdWdtVnJqd29WeElMX3BtWDBqS20tOVdiT2NhYktQRWRDbjUwN2tHTElzREZPNXNTM0V6NGdGcmg5TzBLOVdhTmhIQ1lxQkpzNXpiZ0hjYWRRWGpKVXVtVVdhZU5WSEx2dDcwbG1PejJKU3cxZW1iUjRUMXpEU2NNUnIxRU9v?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra govt has signed MoUs worth Rs 4,080 crore in electronic and logistic sectors: CM Fadnavis  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt has signed MoUs worth Rs 4,080 crore in electronic and logistic sectors: CM Fadnavis Mid-day"
+            ],
+            "tldr": "Maharashtra govt has signed MoUs worth Rs 4,080 crore in electronic and logistic"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-2-1780724002730",
+          "title": "Maharashtra govt sets up investment promotion agency with budgetary provision of Rs 3,000 crore - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNS0piVXZuQy0yUTkyVHdWTHBYXy1aeTg1TXBtaXJta1psNVF0amZLNjgzNG9fUy1aSzQzZHNjRzNlVEgtdFV0RkVFNmpNeXlRVFE0RXVHbk90bnpSc2owRnN4a3Bsbm5uczJfdTkzZ0huZHdTVS00RGR6RVlOQlNkU1NPWEs1YVFCTks5SlRqUF90MGtLVDl1ejJ3Rm1wdzZhb2UtS09UeVhaaU1QWkV3WmhFdEdUbS0tS1BtMFFFZ0dGbjdQSzA4OUF2ZTRINVpuNVp1Y1NNV0dzY1pkQkEyWm43cTROZFQtNjVhSWdmV0ZpMHNSVU5saWRhRVfSAYICQVVfeXFMTmNmUW1XckpNN084M2R2MVYwN0RZMnJ6cm5fa0xOTFNpS3doYXZoS2toZy1GZ2ZHYkpyLXpwbUpULWpnTGl4dGZpb0lyY1NKdmVkWnNLQVJJWUVaZERKWUFUSVlOMFppZGRDcmZJeTE5TnowQ1A3T09MQTZRbUg3d2wtWkE1Mll5V3RtdGRMV3NZakV1MGhlUkhEMm5wYlNvN3BHeDRkNlZQWE5peTVjT21WQzRCYlJFak1JSW9zRkJaM2ZWVXFYbUpBdlEyOTdCSXVjalZSelYyVDd0VUlIT25XRWhKUGNJQ0g2VWNRdDBxNk5TRmswellUbmFVaXNoanJ3?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra govt sets up investment promotion agency with budgetary provision of Rs 3,000 crore  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt sets up investment promotion agency with budgetary provision of Rs 3,000 crore The Times of India"
+            ],
+            "tldr": "Maharashtra govt sets up investment promotion agency with budgetary provision of"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1780724002731",
+          "title": "Maharashtra Govt Approves Rs 2,267 Crore To Acquire Land For Nashik Kumbh Mela Project - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMGE5dlVqY3FoYVhtdlNRMUViX2xJRFVRRGZqeHk3aGtieGlTekhqcVZqaW9WdHA3TERRN05WVXU2OHV2bHphcDdaNGlMdU1PZEJ4NnJaRUhiVlpmMHVfVDBWVzkyYU93S01pbndBOG5oWnEyZjByRGpWR2dET0RDV0lmd3BncnRkdnAzU0Z6aXhhNHNnTTU0cGNsRTlNbjNpaHpDMmZyQUJONkg2amZPY3Jfdk9vaDJ1d2szZno4ZExtam44NGtRbjFMblR4REt3cWFJNEl6bzNLUWRkVWfSAd4BQVVfeXFMTTBhOXZVamNxaGFYbXZTUTFFYl9sSURVUURmanh5N2hrYnhpU3pIanFWamlvVnRwN0xEUTdOVlV1Njh1dmx6YXA3WjRpTHVNT2RCeDZyWkVIYlZaZjB1X1QwVlc5MmFPd0tNaW53QThuaFpxMmYwckRqVkdnRE9EQ1dJZndwZ3J0ZHZwM1NGeml4YTRzZ001NHBjbEU5TW4zaWh6QzJmckFCTjZINmpmT2NyX3ZPb2gydXdrM2Z6OGRMbWpuODRrUW4xTG5UeERLd3FhSTRJem8zS1FkZFVn?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Govt Approves Rs 2,267 Crore To Acquire Land For Nashik Kumbh Mela Project  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt Approves Rs 2,267 Crore To Acquire Land For Nashik Kumbh Mela Project ETV Bharat"
+            ],
+            "tldr": "Maharashtra Govt Approves Rs 2,267 Crore To Acquire Land For Nashik Kumbh Mela P"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1780724002555",
+          "title": "Maharashtra govt signs MoUs worth Rs 4,080 crore in electronic, logistic sectors - India's News.Net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHNzTDVtM1lDeHkyX25jR0tJZGhyajk1OW1mYXQ5MlNid1VDbHk0dFJ3UzAycDZGekk1UFptbmk2c2pvVFdMNmVweDlDUW4wUFdXTmMzSXRRSWNuYlJWNFdKbXZqS3I2WGh4WjJnUWdIS19yWk14MEtRMzd2dW4tZEtaR3JIeFpiVDdLclpSdWdSVnlSa0xHVUVQSmZMRGthalhLYjZWMXVwRTMtaDhlM0ltYjBGVXpFSjNpNA?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra govt signs MoUs worth Rs 4,080 crore in electronic, logistic sectors  India's News.Net",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt signs MoUs worth Rs 4,080 crore in electronic, logistic sectors India's News.Net"
+            ],
+            "tldr": "Maharashtra govt signs MoUs worth Rs 4,080 crore in electronic, logistic sectors"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1780724002562",
+          "title": "Stock Market Today, June 5, 2026: Sensex, Nifty Open Higher in Expectations of RBI MPC Meet - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0llRjEwaC1OR0ZJVUJUVTV4RGZjZmMxQTYxMUtyLVNHRl9LMGlPd1ducGFZV1dVUmY4cFd3Uk9CY1gxN3QtYlFpaEFEa0UyZVFNS2VIeUNleVhIUlBFNXRwTWozS2hVZ3FTaV94RVFneTJGSVZsLUR0XzVUV1lTRWZTZ2ZuallVX21YWg?oc=5",
+          "time": "19h ago",
+          "body": "Stock Market Today, June 5, 2026: Sensex, Nifty Open Higher in Expectations of RBI MPC Meet  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today, June 5, 2026: Sensex, Nifty Open Higher in Expectations of RBI MPC Meet HDFC Sky"
+            ],
+            "tldr": "Stock Market Today, June 5, 2026: Sensex, Nifty Open Higher in Expectations of R"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1780724002562",
+          "title": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUG5NeXhxc2ZsS181YlJsWllQMEF5M21FZllkZEpRYm1aSHQ1ejYtZEc1eGxXMDNlRE03X1JRNmJOSWZFRVpTMTBUZVU3SkNEekp0SS1aV0JMWHZBSW8zN3Vaa3V0ZHF3TTJWQmFmbC1wRVVCWFJnZWpONWI1Q3BidEJMLUJYMXVFQ2Q4LTd5VjA2UFpHZm9Z?oc=5",
+          "time": "19h ago",
+          "body": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+            ],
+            "tldr": "BSE SENSEX Today: Indian Markets Closed for Bakri Eid BBN Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1780724002562",
+          "title": "Stock Market Midday Report June 5, 2026: Sensex, Nifty Hold Steady as RBI Holds Repo Rate at 5.25%; Markets Eye US-Iran War Risks - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRLRzIzd3l1STE4ei1yQWMxdmROZEYtZFhQcEZCd1hlWWNVaGs5WjJvb3FwdlZaWlFJUHE0a3F5ekhnRV92dnFqQ2x4WU1QYk5DbVRmVWF6OERIUldPTENLSkhpRzR6ZnYya2xHQUpPR1pfbDViYmVUeHpaNmJEN1l5RGpnekJi?oc=5",
+          "time": "22h ago",
+          "body": "Stock Market Midday Report June 5, 2026: Sensex, Nifty Hold Steady as RBI Holds Repo Rate at 5.25%; Markets Eye US-Iran War Risks  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Midday Report June 5, 2026: Sensex, Nifty Hold Steady as RBI Holds Repo Rate at 5.25%; Markets Eye US-Iran War Risks HDFC Sky"
+            ],
+            "tldr": "Stock Market Midday Report June 5, 2026: Sensex, Nifty Hold Steady as RBI Holds "
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1780724002562",
+          "title": "Groww gains 4% after Goldman Sachs buys 1.13 crore shares for ₹210 crore - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT0c0QkhYUlcyclcyNzYwUTY3elpVM1otZHo4OVBEdFREZUVkblhkcXUwRjJrd3Y3OTBGVnFUOWpDT3VBMGpnRVBJUjJNZ2NacWdpLTRIdTFXLUNZSlJ6N1BSNDdzY0ZCMEZOaWkwRXNuZVVPZWhhYkgzVVlXVEpOelg1WWFSUVpFSGNpTVpxMEFzcDN0SEU4RnRaRHRveTdoYTR0SmdUM2xIdjBJWGdhZkJtNVFwamc2aW1mWDlXNEpRdkVLOGc5ekZXV3ZHSlI2Mkw1am11OGhFY2ItYXZhRkxCNGo3REHSAecBQVVfeXFMTU9HNEJIWFJXMnJXMjc2MFE2N3paVTNaLWR6ODlQRHRURGVFZG5YZHF1MEYya3d2NzkwRlZxVDlqQ091QTBqZ0VQSVIyTWdjWnFnaS00SHUxVy1DWUpSejdQUjQ3c2NGQjBGTmlpMEVzbmVVT2VoYWJIM1VZV1RKTnpYNVlhUlFaRUhjaU1acTBBc3AzdEhFOEZ0WkR0b3k3aGE0dEpnVDNsSHYwSVhnYWZCbTVRcGpnNmltZlg5VzRKUXZFSzhnOXpGV1d2R0pSNjJMNWptdThoRWNiLWF2YUZMQjRqN0RB?oc=5",
+          "time": "23h ago",
+          "body": "Groww gains 4% after Goldman Sachs buys 1.13 crore shares for ₹210 crore  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Groww gains 4% after Goldman Sachs buys 1.13 crore shares for ₹210 crore Business Standard"
+            ],
+            "tldr": "Groww gains 4% after Goldman Sachs buys 1.13 crore shares for ₹210 crore Busines"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1780724002562",
+          "title": "Market Data - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ENWp2cl9SMUFJRHZqYVZmb0V2U1hZSWYySlYtQVdhS1hrYXJDS3hEd0cxUW1hTnU4akYyWXhST25odGhldzM0ZUJqSTQ0Q2N4dXN0NXhwRnE3V3VEbVJoX0xvbVQ2OWRoTGc?oc=5",
+          "time": "14h ago",
+          "body": "Market Data - The Economic Times. Market Data  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market Data - The Economic Times.",
+              "Market Data The Economic Times"
+            ],
+            "tldr": "Market Data - The Economic Times."
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-finance-1-1780724002562",
+          "title": "Bajaj Electricals up 4% on entry into cables biz under lighting segment - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN05QakpGQnBIRDcwRjgwVDA1SW5fRFQzX1EzS2JsLU9fNEZJRnVLRFZWTTZLc21MVUFoa2hpWm5tcDhWaGFCV0t4Q3hVLU85R1c2QUdiQ1l6UnJrTU81Vl9FT2RhQzVOdEFlcHRaME1sakFOa0tsNmotTjdaOGlEaTNaaVlfdTVzMWtiZkV5NkNWSEl5V3k4MWpLTk1mSVI1d1NMZm55b0dmUy05Yk1LQnZMRlFmNEJ2aGVqcVp3UEc4NmdtMWlYSkFtZHprQ2xEZlFKUGFoTzVqMHRsaElGNXJGZDNna0tBNENaeU9n0gHuAUFVX3lxTE03TlBqSkZCcEhENzBGODBUMDVJbl9EVDNfUTNLYmwtT180RklGdUtEVlZNNktzbUxVQWhraGlabm1wOFZoYUJXS3hDeFUtTzlHVzZBR2JDWXpScmtNTzVWX0VPZGFDNU50QWVwdFowTWxqQU5rS2w2ai1ON1o4aURpM1ppWV91NXMxa2JmRXk2Q1ZISXlXeTgxaktOTWZJUjV3U0xmbnlvR2ZTLTliTUtCdkxGUWY0QnZoZWpxWndQRzg2Z20xaVhKQW1kemtDbERmUUpQYWhPNWowdGxoSUY1ckZkM2drS0E0Q1p5T2c?oc=5",
+          "time": "22h ago",
+          "body": "Bajaj Electricals up 4% on entry into cables biz under lighting segment  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bajaj Electricals up 4% on entry into cables biz under lighting segment Business Standard"
+            ],
+            "tldr": "Bajaj Electricals up 4% on entry into cables biz under lighting segment Business"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1780724002542",
+          "title": "Hyundai invites startup applications for Innovation Challenge 2026 - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN19QaFIta0xGR2tQdFlUaVMxWWI1MGxzTFNBYnEzNGd6STlhcXYxQndXMmN4WUlhOENfR2FEZ3Z1YUlfYXFpRU9NMjhCd20zT2ZPTV9ieHhxTXlRYWxCMFJLU2dQc2NnempNbDZ4Q29WRDl6U3F2cExrdTdtX1BwUFFrSW9WWDROemlGNzBEOGVCSU84LXBQYVZaYUNqZTZreEVOVThNLWg5enJ3MXJXNkIwZldobktoRWUyNUFqcG55cHFSN2ViNnVqZi1FZUtCZDhsTU5pNXFZdDlpVmU3dndn0gHiAUFVX3lxTFA3X1BoUi1rTEZHa1B0WVRpUzFZYjUwbHNMU0FicTM0Z3pJOWFxdjFCd1cyY3hZSWE4Q19HYURndnVhSV9hcWlFT00yOEJ3bTNPZk9NX2J4eHFNeVFhbEIwUktTZ1BzY2d6ak1sNnhDb1ZEOXpTcXZwTGt1N21fUHBQUWtJb1ZYNE56aUY3MEQ4ZUJJTzgtcFBhVlphQ2plNmt4RU5VOE0taDl6cncxclc2QjBmV2huS2hFZTI1QWpwbnlwcVI3ZWI2dWpmLUVlS0JkOGxNTmk1cVl0OWlWZTd2d2c?oc=5",
+          "time": "17h ago",
+          "body": "Hyundai invites startup applications for Innovation Challenge 2026  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hyundai invites startup applications for Innovation Challenge 2026 The Economic Times"
+            ],
+            "tldr": "Hyundai invites startup applications for Innovation Challenge 2026 The Economic "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1780724004068",
+          "title": "How AirTrunk is Backing India's AI Ambitions With US$30bn - Data Centre Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTW5od3Vyb2JHakVsRTltaFN1YVZYWGhvMnJXY3p2bS00S1ozZ2ZJZGM4LUwwM3N0RVRsM0JBU1dlMGFvYVJjUTJSbmdpVlAzVlZOVUpMc0drbFI4Uk9mWnEyQWs5MGtVWGF2ZnMzTFV3RWk4dW5xTlgwSU40VDByYi1LaGpRZUtVYTZwc0VzUWZFY2hCLUNF?oc=5",
+          "time": "14h ago",
+          "body": "How AirTrunk is Backing India's AI Ambitions With US$30bn  Data Centre Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How AirTrunk is Backing India's AI Ambitions With US$30bn Data Centre Magazine"
+            ],
+            "tldr": "How AirTrunk is Backing India's AI Ambitions With US$30bn Data Centre Magazine"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1780724004068",
+          "title": "Eros Innovation launches Cultural AI platform across 34 global languages - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjUxNm85NHVzaUd3akRIalRCeHBhV05xZnIybjlfWU81cVBtQW9jVkR1TjdwMlpXZnhPMG9MOUxPTHk2VkJSRlFaOTBDR1VSYUR0SHlaeFp3TTROajBxYThwZGVVVjlIREtpWlVWR1VqajFiSXl6WjhnRlJpSjRNZDFfYk9sM0tPdnNrUzg5YXJ5ZWItSVBwQzBOcmthR2F3UVJLaDVmd3dwcjRKWGw5dFdMYkJxTm84Z284Q3R0dzZfQUh4bVljNFBEcFI3X0dlYzZmTTNR?oc=5",
+          "time": "14h ago",
+          "body": "Eros Innovation launches Cultural AI platform across 34 global languages  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Eros Innovation launches Cultural AI platform across 34 global languages ANI News"
+            ],
+            "tldr": "Eros Innovation launches Cultural AI platform across 34 global languages ANI New"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1780724004068",
+          "title": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYkZ6bFdYeFNhSno4M3VMLVdlUEh1MFphTzlZUUpVMy1VSWFhem8wSThfVWJqT0xXZEcxYXNYaWtDNEEwY2JrenJQV1RhNHVpZktXMzNqeHRNdGhoM1d4MTAwcUNTUjBZb3NScEZ6cGZtaVd5WlQ1N3NPeFpyZmE5Z1NYN1JBTUFldGhNaUlHcmptZEY2bjlWV3lTMjhscHJDVEs3N2JtUVZGX1RJcDBOYURISThiQ2VJOE01cXFXVHAyNi1ZcUJDc3FhNU9hVWtJMldSZ3F1U0NGMDljVDljNnpSeXV6a0pUUjVmdnUzdHNJbXJSVlFtRTVrWll2Z2F6STF0TU56b2tGd9IBigJBVV95cUxOYkZ6bFdYeFNhSno4M3VMLVdlUEh1MFphTzlZUUpVMy1VSWFhem8wSThfVWJqT0xXZEcxYXNYaWtDNEEwY2JrenJQV1RhNHVpZktXMzNqeHRNdGhoM1d4MTAwcUNTUjBZb3NScEZ6cGZtaVd5WlQ1N3NPeFpyZmE5Z1NYN1JBTUFldGhNaUlHcmptZEY2bjlWV3lTMjhscHJDVEs3N2JtUVZGX1RJcDBOYURISThiQ2VJOE01cXFXVHAyNi1ZcUJDc3FhNU9hVWtJMldSZ3F1U0NGMDljVDljNnpSeXV6a0pUUjVmdnUzdHNJbXJSVlFtRTVrWll2Z2F6STF0TU56b2tGdw?oc=5",
+          "time": "22h ago",
+          "body": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial Intelligence Business Standard"
+            ],
+            "tldr": "AVEVA Expands CONNECT in India with New AI Capabilities to Accelerate Industrial"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1780724004068",
+          "title": "Sridhar Vembu, Deepak Lamba and Smit Shah put India built technology in focus at ImagiNxt 2026 - Prittle Prattle News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX25mWEJaQ2ViV3hnRXRHcjU2WHRUdFN5Tlh3X2ZrcmJYNVpCaFk4ZlpYU0laSGx0Nk1IUjRJT2FueUVFYm94WXczQzNzcFlXTGFNU3R5RlltSHhpam4tMGM4b1RQRUlCZDVxSmlJQXhLOUhJMkdoSERzcS1WTVBqVzFoNVFyLUp6TVUtMkdyT0lnenpUUGczSS13TEt1Zw?oc=5",
+          "time": "18h ago",
+          "body": "Sridhar Vembu, Deepak Lamba and Smit Shah put India built technology in focus at ImagiNxt 2026  Prittle Prattle News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sridhar Vembu, Deepak Lamba and Smit Shah put India built technology in focus at ImagiNxt 2026 Prittle Prattle News"
+            ],
+            "tldr": "Sridhar Vembu, Deepak Lamba and Smit Shah put India built technology in focus at"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1780724004068",
+          "title": "Data centre operator AirTrunk to invest $30 bn in India - ET Telecom",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWE9ubXp2X21xZ1ZhOExMeVprZEFhUUtTSEthV2NXNmFWZ3RBdEd0cEZaUm5SUnFlVTdRaGtReGxhZmZNT2NSaWdXdzZfN0NmUk9zZERiZl8yYTB1T3RramlteTlhY3RpNl8tV1NaNTc5X0pUNFh0WllITHA2czd6RVpaVXY1N3FLYV9jcURpLWYxUGxzYmpaa1A0LWRITjl1YVRTOU4yaDhtUVdZYUFJeVlNeE84NFQ4blptY1I4UnFMWlY3T29YTDVweGl0QnhfRnIwcVR0aTl4TVlQN2M0?oc=5",
+          "time": "20h ago",
+          "body": "Data centre operator AirTrunk to invest $30 bn in India  ET Telecom",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Data centre operator AirTrunk to invest $30 bn in India ET Telecom"
+            ],
+            "tldr": "Data centre operator AirTrunk to invest $30 bn in India ET Telecom"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1780724004068",
+          "title": "CMAI Hosts Exclusive AI Masterclass To Help Apparel Businesses Transition From Traditional To AI-Powered Enterprises. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWEtmS0tISUFaajFObEN1M0pHckxoUmFJWnZ4VGxOcUFnVXI3MkV2eXZTLVBpZVJFQk12T3ZWRDJvYkE2czJJenZTRzZqMVRxUW4tN1BVcWR4TmV3TXE3NS0zZEswVzZ1Z2FLR25HY29HVWNWU1dRZmgwbUlzV0EyNENOeDJmOENqZENBTVV2dkYwTGMwWE1KWmliU2xjQ2szNGtWNzdRQ3FNQklhdW5FM0pNZnpHN2pJNTk2UTBGQ2hTcXNLRUtQX2ptbG1DbUsteVhieGNQX3JtdHUzVWJ3Yk1GYw?oc=5",
+          "time": "21h ago",
+          "body": "CMAI Hosts Exclusive AI Masterclass To Help Apparel Businesses Transition From Traditional To AI-Powered Enterprises.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CMAI Hosts Exclusive AI Masterclass To Help Apparel Businesses Transition From Traditional To AI-Powered Enterprises."
+            ],
+            "tldr": "CMAI Hosts Exclusive AI Masterclass To Help Apparel Businesses Transition From T"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1780724004195",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "8h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780724004195",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "4h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780724004195",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "11h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1780724004195",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "21h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1780724003941",
+          "title": "New Chandigarh stadium to host first ever Test: List of all Indian Test venues ahead of India vs Afghanistan - sportingnews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLW1FZ3AwYXpGd3hnU09TOW5mMUREZmRBTkoyMzRCMV95bFYtc0owXzEtYXZzUmNPbjkyU21SaHFyOXlsYTNzbEVXeHhEc2R2RnpmYzAxZXFpY2Q0NWdJNUFuaFIwcm9TUFRlUzlJMFNIR3pheUNVUDk0MkpPUm5adnFZN0JpbmNQZkF4SlN0UnZ6WGF6Z252QkxqMVM0a05kQk5uNFdZMENGY0gwWG1FdlFpOU9rUkotc3lJaHpGVktvZkNOa0djQ2liMF9YNUt1T3Fj?oc=5",
+          "time": "18h ago",
+          "body": "New Chandigarh stadium to host first ever Test: List of all Indian Test venues ahead of India vs Afghanistan  sportingnews.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New Chandigarh stadium to host first ever Test: List of all Indian Test venues ahead of India vs Afghanistan sportingnews.com"
+            ],
+            "tldr": "New Chandigarh stadium to host first ever Test: List of all Indian Test venues a"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1780724006487",
+          "title": "IND vs AFG Live: Saleem Safi strikes early, India lose Yashasvi Jaiswal",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "IND vs AFG Live: Saleem Safi strikes early, India lose Yashasvi Jaiswal. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs AFG Live: Saleem Safi strikes early, India lose Yashasvi Jaiswal. [object Object]"
+            ],
+            "tldr": "IND vs AFG Live: Saleem Safi strikes early, India lose Yashasvi Jaiswal. [object"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780724006487",
+          "title": "Record runs, record sixes, modest final: Explaining IPL 2026's biggest contradiction",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "After a season that rewrote IPL batting records - 27,450 runs, 1,426 sixes, 65 scores of 200-plus and nine successful 220-plus chases - the 2026 final produced a modest aggregate of 316 runs. Was it an anomaly or part of a larger trend? The TOI Data Desk analysis of all 19 IPL finals reveals that the belief that finals are traditionally low-scoring is largely a myth. Yet recent seasons suggest title deciders may be gradually trending below the scoring pace set during the league stage.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After a season that rewrote IPL batting records - 27,450 runs, 1,426 sixes, 65 scores of 200-plus and nine successful 220-plus chases - the 2026 final produced a…",
+              "Was it an anomaly or part of a larger trend?",
+              "Yet recent seasons suggest title deciders may be gradually trending below the scoring pace set during the league stage."
+            ],
+            "tldr": "After a season that rewrote IPL batting records - 27,450 runs, 1,426…"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780724006487",
+          "title": "India T20I Squad Announcement Live: Major reset on cards - Iyer set for top job",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "13h ago",
+          "body": "India T20I Squad Announcement Live: Major reset on cards - Iyer set for top job. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India T20I Squad Announcement Live: Major reset on cards - Iyer set for top job. [object Object]"
+            ],
+            "tldr": "India T20I Squad Announcement Live: Major reset on cards - Iyer set for top job."
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1780724005444",
+          "title": "World Environment Day: A Reality Check Of Mumbai's Climate Change -Impact Of Rising Heat Waves, Pollution And Warmer Nights - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWHhZVVFNR2ZQZVlwd1BrQl90TExoNVRwYWhHcGZlSXNMbjJrTmJLTUFPWjBCb05uU2JOZWFTV1g2bFJOVWdmajdNR1RNTnZVNUo5bXJXdmRtQWZFT0lLUFVUVlRoamNuWUQwNjZqSl9kcDRIaXdRMnhia05zOEZGZ0oxMWp4cWlxU0htaHI5OU1rVzA0U244UjhfblhGNnQtakFveml1SG50OXVRWHBXdU5ma3FMcjVRenJsTi1uTERWa1dVZDRwOWZRby1qd0NvNkUtMnRRaEcyY1k4U0xDeHVHN0hDREpUNVpYUHpGZ25nZHQ5Y0JBWm9tR1BBQdIBgwJBVV95cUxPZnZ1YUhIMXF3X1JVaVd1ZGdOazc4TlREZExRWkJ6cjI1T01GR3VYekFfYXpCeFJsXzlSRkwyVUc1WXdtMlN3VVRKc0p0VlQzUUVDaDFuVEdpQVhvNGZYRnhmMDBkYnNpMWdBV2R0WXdTRWVWeUpkZG1aUmJFNGFxVEEtNnprUC1MMDE4b1hTeVJIYVpvVGNmWGpSaHBUbVZOem1sR0FoNGV5V2dBS1BadXBoVzFmMHVUVm5vT1QyWWRZa180YnlYUDVfbXFhXzZKcnRCRzlkOUtuLXBlbERDLWtCTDk1NjRnZUUwQWZyd2JtUXBsVlo2ZVR4R2hkU0FZYUZz?oc=5",
+          "time": "18h ago",
+          "body": "World Environment Day: A Reality Check Of Mumbai's Climate Change -Impact Of Rising Heat Waves, Pollution And Warmer Nights  ETV Bharat",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "World Environment Day: A Reality Check Of Mumbai's Climate Change -Impact Of Rising Heat Waves, Pollution And Warmer Nights ETV Bharat"
+            ],
+            "tldr": "World Environment Day: A Reality Check Of Mumbai's Climate Change -Impact Of Ris"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1780724005467",
+          "title": "Donald Trump reiterates that Iran must never acquire nuclear weapons - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazFpMzNraVNQekNKWUczUnpCanAwUmszcXltSDFwMzNnX25WMk5LV2ZSX1B6X1lnTjRwd29BbmdwSlB5ajg2SEZtZmZmYWd2M3BLUXdoUEZuS2NQSldwMmJvZTczVDc0bEhNem9icjQ0MDVzRFBHSmJ3ZEd3WGhfYkRMajEtR0Qxd2lBRGw2Qzl1emctTloxTjJ6amdpUnRuek9JX1NRZ3F4T2VYREN1VktleTZIeUFhMWxqN3dBS2ZVeHAxSXltd9IByAFBVV95cUxOazFpMzNraVNQekNKWUczUnpCanAwUmszcXltSDFwMzNnX25WMk5LV2ZSX1B6X1lnTjRwd29BbmdwSlB5ajg2SEZtZmZmYWd2M3BLUXdoUEZuS2NQSldwMmJvZTczVDc0bEhNem9icjQ0MDVzRFBHSmJ3ZEd3WGhfYkRMajEtR0Qxd2lBRGw2Qzl1emctTloxTjJ6amdpUnRuek9JX1NRZ3F4T2VYREN1VktleTZIeUFhMWxqN3dBS2ZVeHAxSXltdw?oc=5",
+          "time": "23h ago",
+          "body": "Donald Trump reiterates that Iran must never acquire nuclear weapons  Mid-day",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Donald Trump reiterates that Iran must never acquire nuclear weapons Mid-day"
+            ],
+            "tldr": "Donald Trump reiterates that Iran must never acquire nuclear weapons Mid-day"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1780724005467",
+          "title": "MSRDC to Install Wind Shields on Mumbai-Pune Missing Link Bridge to Protect Vehicles From Strong Winds - Punekar News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUkdYbTZxcnF2OTN5dmdEN0RqWTU5UlRxZEJlZXFpd1dGNlpjSTZPUThEV2gydGhqU2M2WTB1bjVHQlpDTk02UVZpeVdxQXlucnZ5QzNjQjVJQXVIYWFWNkJNanVDOEJsMVpZOV85SWtFcmZuZW9IcmhKWDJ6RDdIQnI4TGp1TUVrUjR0SGJBRWJOTUJGTzFLbWYwSFo3SEd4cElGbERmbFZyb1IxUjhDOXVJUFdKRDFQZk5HcFhaUzNCNDc2VzBYOC13?oc=5",
+          "time": "14h ago",
+          "body": "MSRDC to Install Wind Shields on Mumbai-Pune Missing Link Bridge to Protect Vehicles From Strong Winds  Punekar News",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MSRDC to Install Wind Shields on Mumbai-Pune Missing Link Bridge to Protect Vehicles From Strong Winds Punekar News"
+            ],
+            "tldr": "MSRDC to Install Wind Shields on Mumbai-Pune Missing Link Bridge to Protect Vehi"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1780724005450",
+          "title": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13h ago",
+          "body": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]"
+            ],
+            "tldr": "Indian student fights for life in Chicago after 25-ft fall at subway station, fa"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1780724005450",
+          "title": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "16h ago",
+          "body": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]"
+            ],
+            "tldr": "He feared he couldn't compete with AI: Indian family dumps American Dream, leave"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1780724005450",
+          "title": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]"
+            ],
+            "tldr": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for na"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1780724005450",
+          "title": "'Get out of my country': Indian-origin couple racially abused in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'Get out of my country': Indian-origin couple racially abused in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Get out of my country': Indian-origin couple racially abused in US. [object Object]"
+            ],
+            "tldr": "'Get out of my country': Indian-origin couple racially abused in US. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1780724005450",
+          "title": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]"
+            ],
+            "tldr": "Indian-origin cancer specialist banned from practising in UK says, 'I will never"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1780724006890",
+          "title": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWFzMzIyRHBiSzdmbjZyVUtGbnlGRTQ5Z0M1bm51M1dwN3Q4NDl3eTAwenhyRVZlSkEzcnlVTmhVOElkOTlhX1RUejFEZkV4bmVVS3FpenBjUkh5RmRHVU5XREhTdElfWGdMMW54eEoxdGdPLW9DbVZqRWwxNkd6Y0FrdWtsV1VqMmJhUGlBckE4WUE2SzZ5MzBRWXNJNFd1amZXLVctbw?oc=5",
+          "time": "18h ago",
+          "body": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts  The News Mill",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts The News Mill"
+            ],
+            "tldr": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts The Ne"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1780724006890",
+          "title": "TCS Nashik case: Complainant says she was made to watch videos of Pakistani Islamic clerics - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTFZLUE52QTFQWWxpbEkySzZ3OFpfbTZjTlM1RWQzVG5VYTE2bUJfeWdVb1B1WjQxeHJSa0c0STFCQTlKQVo1U1F4d1FNRlh3ZWRLdnI0bHBVdGx0ZWg1OU5LWktYOGVVMlNTcjRRLXhVb1VGZDhwZ1JXcWM1Ukw5QlFRZ1NsOHA2aElWbkRnWmh0d0VkdktnUUdPSUdxNERSOE9hWkZ2aENiOXAtWXBKemVlQkdOSlpVTjRwTlc0MFhsTDh4eF92ekpMMTNHNGNVZHZzbVpKeWF2T2cxVklzV3RXazFoODZJTXVVWjlNbW00MTdpLWF5N0dR0gH6AUFVX3lxTE5MVktQTnZBMVBZbGlsSTJLNnc4Wl9tNmNOUzVFZDNUblVhMTZtQl95Z1VvUHVaNDF4clJrRzRJMUJBOUpBWjVTUXh3UU1GWHdlZEt2cjRscFV0bHRlaDU5TktaS1g4ZVUyU1NyNFEteFVvVUZkOHBnUldxYzVSTDlCUVFnU2w4cDZoSVZuRGdaaHR3RWR2S2dRR09JR3E0RFI4T2FaRnZoQ2I5cC1ZcEp6ZWVCR05KWlVONHBOVzQwWGxMOHh4X3Z6SkwxM0c0Y1VkdnNtWkp5YXZPZzFWSXNXdFdrMWg4NklNdVVaOU1tbTQxN2ktYXk3R1E?oc=5",
+          "time": "21h ago",
+          "body": "TCS Nashik case: Complainant says she was made to watch videos of Pakistani Islamic clerics  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS Nashik case: Complainant says she was made to watch videos of Pakistani Islamic clerics The Hindu"
+            ],
+            "tldr": "TCS Nashik case: Complainant says she was made to watch videos of Pakistani Isla"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1780724006890",
+          "title": "Maharashtra Congress expels two candidates for withdrawing nominations without approval - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDIxRFJDTm9qYXhLazdKcTZpVUUtekFqNVpXUkxvZGZadUR1MEhGTUJwckJVbldCSDBOZUpzb1E1cHJWcDQyRzN6YkJPT0FzUEkwcTYtWFpMX1VkMVo4Ri0tX0pWa0VIc0FqRm5WUWJPWXlRbi1mQkVNQ1JtOUREN2hEdGNkd3dnSEZsSzA1aHBtTmg0cVFNd2lWZU4tRFBaUEtEMVRsYlBHaHZFVDJBNHdpeUFJLTgxemVFLQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Congress expels two candidates for withdrawing nominations without approval  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Congress expels two candidates for withdrawing nominations without approval The News Mill"
+            ],
+            "tldr": "Maharashtra Congress expels two candidates for withdrawing nominations without a"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1780724006890",
+          "title": "मग पैसे घेतल्याचा आरोप कसा करता? संजय शिरसाट यांचा मविआला सवाल - Divya Marathi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNemRvM2FLdUhPei03NkJpNWhMSnp2TXQ4dHFyNWNZdVdjeVhfc3Uzamd3ajQwakRiMzRqMUJVY2E5NnhyN1ZiMnhzNE5CR3lTMFhsXy0ycFZ5aHpLME5aMVdrT0V1SmpGa3NNd2tMVWJLazVYVHl4cGU1UkhuU2FXM0VjZlNMZnRYN0tGSXR1ZVRaMV8yQ1ctOV9aRmt0VGE3dEhjMGdabEJvRmVlaFlMWTNDMkpoNl9xbE9ZQ1I3UXA4UVYxcG4wbGZaSXZvblZQeWlQbGswUS0zYkNxQmZhS1c2a21OQUJ4VjJjSkl1a3M2bWMyaUtDXzZrTlA?oc=5",
+          "time": "23h ago",
+          "body": "मग पैसे घेतल्याचा आरोप कसा करता? संजय शिरसाट यांचा मविआला सवाल  Divya Marathi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "मग पैसे घेतल्याचा आरोप कसा करता? संजय शिरसाट यांचा मविआला सवाल Divya Marathi"
+            ],
+            "tldr": "मग पैसे घेतल्याचा आरोप कसा करता? संजय शिरसाट यांचा मविआला सवाल Divya Marathi"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1780724006890",
+          "title": "Silver Rate Today in Aurangabad 6th June 2026 : 1 KG, Silver Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwaWp6TzRqRkEzOWRFYXVYZWZYbzJnMnVQblpkcFlzc0xiekdCTTJhbjdhOVBkWWFQV3Z6MDlEQ3hQQWF1QV90WTBDUEJhMjJOaHZoUWtLNXNKcHgwWE5FT09Ja3RrZ2hzMjNIWkNhRFJoNFlsSWZUNE1n?oc=5",
+          "time": "2h ago",
+          "body": "Silver Rate Today in Aurangabad 6th June 2026 : 1 KG, Silver Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Aurangabad 6th June 2026 : 1 KG, Silver Price in Aurangabad Business Today"
+            ],
+            "tldr": "Silver Rate Today in Aurangabad 6th June 2026 : 1 KG, Silver Price in Aurangabad"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1780724006890",
+          "title": "64 students selected at MIT national recruitment drive - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDRiT0NSZXVFcklBc1RLM2x0TFFJV0JlNmJnMHNkWnZJVktZRTJlZWN4a2FGVHRTby0zMkQ5NkNVLXZZYWV5dEppSGRQSkF0ZXdMM0ZRYlcyMi1qUUpMMGJpdnBMTGJKeHdsb0JyOHBpZ0lySWF3MVIwRDhuYXlJMC11UC0xUklFSFptMFdyVTl5WjlkNmZNanpR0gGfAUFVX3lxTE5jX1VCRWJkZ3lyMVhCVF9zMGtmb09BZkVuQ21ELUhicE5GLW00YVZ1TE4wSktHM3FlLXM5VFZ5b3RlaV9qYnVVYzdsaEdHNmloZk1rWXNVX3B5Y1haOUJoeEQ3cE9lbWw1cm9tTmxrYU12RmdSVUZWNExxMWJ4OGRJa28zUFJkOC03V3BPRXgtdnJDYUJ6eHFnQ1BJblFRUQ?oc=5",
+          "time": "14h ago",
+          "body": "64 students selected at MIT national recruitment drive  lokmattimes.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "64 students selected at MIT national recruitment drive lokmattimes.com"
+            ],
+            "tldr": "64 students selected at MIT national recruitment drive lokmattimes.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1780724006890",
+          "title": "Where Is Cockroach Janta Party Founder’s Family? Abhijeet Dipke’s Parents Shift To Secret Location Ahead Of June 6 Protests - The Sunday Guardian",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV096dVBHb0lULWhpS3RjX1RoQXZqYnVNOG92Unc1Q2ZQVldtTnowQ3VnbHMtWm9NVVlNemxvRjRkLUpXSGh4OUM5NjRhS2IzZmU0cmtzTUl4Q04yMzhOY0RBdXl1M0RJQkVPN05lYUJQbmxwSXZiOXh1UFBabGUzQm0xWDZjQzRtalczaUhGN2RUUll6aHRBRk5IZ1lyT0wxbFUtcXVuLV9lMnZIRk9zSXR3N3A3TEFYUVV4cDdwcW4xak4yQmFOeTl1OTFXREpJQjZrTEZBVjVtSHhPWE9rYm55LXBFbnZjNEtvSHhBSUIxalNTY1hN0gH8AUFVX3lxTFBMbnYzOThPRXBCQnJfdXZabnF3RnRiUFZ1aUhMQUVJUGlZVXhEdnN0ZS1UT0lKSmZ4dDl0RTFZY0daOTNzeHZNY0RQN1hzTnZTT2tpMGx5NS1Sb0dMcHlrOUxOVGc0UTRtSGFtMzhfWjNQV0xieUduQ1Z2TzZBdmpfekNnVWRBckk4bFdsN2JVQmpzcUF3SHBLaDFrUExKcEI0ODZ0ZUc3UUZUQmtfMk8zR1E4c0J2QnVnMmlwRjFZRUphM2pXRFJONHpIOEVkRVU2N29BRTEzTFhEZS1BaVlPenk2b3pDRUtzejJTZENSSm8wLXJtY3FSTl9MSA?oc=5",
+          "time": "2h ago",
+          "body": "Where Is Cockroach Janta Party Founder’s Family? Abhijeet Dipke’s Parents Shift To Secret Location Ahead Of June 6 Protests  The Sunday Guardian",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Where Is Cockroach Janta Party Founder’s Family?",
+              "Abhijeet Dipke’s Parents Shift To Secret Location Ahead Of June 6 Protests The Sunday Guardian"
+            ],
+            "tldr": "Where Is Cockroach Janta Party Founder’s Family?"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1780724006890",
+          "title": "Gold Rate Today in Aurangabad 6th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "7h ago",
+          "body": "Gold Rate Today in Aurangabad 6th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 6th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 6th June 2026 : 22 & 24 Carat, Gold Price in Auran"
+          }
+        }
+      ]
+    }
+  }
+}
