@@ -1,0 +1,793 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T06:21:09.022Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1780899663135",
+          "title": "As Opposition attacks farm loan waiver conditions, Maharashtra govt’s own cabinet note says eligibility restrictions will reduce payout - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdnk3OFVnVTd5T2dtOElmMkdVLWEtMFB2ektNWTdqbUhNbHBoc0VRYzVXT2oyeC1HTU5XeEJma0tYMlYtWjk1LWw3azRtalZpYVZqYlJlNDI2d0c3SEhkV2VZOHF4VURVcjdVTENfMC11a2xtS09ONUZrdU1pSW03Nk9yX2dkbXlPZHlkb3E0QkktUFZmbGJjV1FkY3dHZDNrRWxQMzdnSXo3SElnZ0ZtUHctTUZqUVFabTBINDlsRnVpS2VDdmhWYTBaNE1JOFpYX2dKS2QxVdIB3gFBVV95cUxNQUNFZ3c1RWxSLTR6QXpxV3M0ZTFXd0swcWxLakZqUDNIWUZLM0VjdHNZSTczODZGSlJEeWY2cTZ5dDA2ZXFwNDdESktoNWlsNjJUOU5oN25PWTdkUkVqY0xEWXEzeTByeHktZGlhRnhRYnFYcHhXc1IxRHkwLWVHMDBYZlVCdVV2aHFMcjFwOWNYSTJmWC1MOEtLc3N4QVpBcEVtNnJFbzBnUmd1OEdWYnFvWFgxNHd5NG4zMFJYbHI4OU1NQVJJSEdBOFZPLTFSZkFmNzVnX095dTViN3c?oc=5",
+          "time": "4h ago",
+          "body": "As Opposition attacks farm loan waiver conditions, Maharashtra govt’s own cabinet note says eligibility restrictions will reduce payout  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "As Opposition attacks farm loan waiver conditions, Maharashtra govt’s own cabinet note says eligibility restrictions will reduce payout The Indian Express"
+            ],
+            "tldr": "As Opposition attacks farm loan waiver conditions, Maharashtra govt’s own cabine"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1780899663135",
+          "title": "Of crushed opponents, fragile loyalties and scattered opposition | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3RLb1dNN3hVUXBraG5yVDVxMWhVaGUxWTV4TmRRRW1TalpaZGVES05mbE1PanFWOFpqWkQ4TnZWQ3JuTG1ucGhyM0VlU2FiYzNhQlNmUDJVelhQZmlhMHgwWWE1MWFTLWhlMmloMC14X3JRVjgyTWZNYXVMLWtXUnNsaDczcFZvTHNMUWtiaE9TUmdBNkdHbEVmNE9UdXJzUjM4Nm05OGNKTElYSHh2eEUwNXJibHRsSHB4bDc3b3NhUTA3eDdDNUh6blJWVW1qanhIdtIB1AFBVV95cUxOU3RLb1dNN3hVUXBraG5yVDVxMWhVaGUxWTV4TmRRRW1TalpaZGVES05mbE1PanFWOFpqWkQ4TnZWQ3JuTG1ucGhyM0VlU2FiYzNhQlNmUDJVelhQZmlhMHgwWWE1MWFTLWhlMmloMC14X3JRVjgyTWZNYXVMLWtXUnNsaDczcFZvTHNMUWtiaE9TUmdBNkdHbEVmNE9UdXJzUjM4Nm05OGNKTElYSHh2eEUwNXJibHRsSHB4bDc3b3NhUTA3eDdDNUh6blJWVW1qanhIdg?oc=5",
+          "time": "5h ago",
+          "body": "Of crushed opponents, fragile loyalties and scattered opposition | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Of crushed opponents, fragile loyalties and scattered opposition | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Of crushed opponents, fragile loyalties and scattered opposition | Mumbai news H"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1780899663135",
+          "title": "LPG price hikes: Modi govt. will pay a political price, says Sharad Pawar - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQjkzRWF0T0hQcGI1cEZEOHpQRnd5bVJDWWxwQXZkclZ3QlQxX3JDcVlPUVhvRDAyZTU2cWxtZ0sycUdjUzJUREUtLS16eEFRaC1ZTUJCS1NEU0FobC1sbTlwOFkyaXFqeURPUDlWQy1UZ19pZ21uVE9OQnRsR2xfdzl2NDhpdGZieUlCQzFOVUhoc2dLazduV0VjdTl2NUh5Z3d3bUZDNWJWYnF6N3I0TE9HbHR0X2NtdWxpaWlidEowdUpNRHNtb2cwbWVOd1dJV1FLaXppdER4ZE01T3FnY0NFVUxpeDRVb1R6dXZwY3h3TmFQX1E5SW8zMURpVEZY0gGHAkFVX3lxTE9iUzR3RGNxdGhlRnFNV3o2Q053SG4xdTUwQng4OHZCRDRVeGl4dDR2eEJWaU5rN19FSFVXcFpYT05YQW1ncC1UeXRIR05rT19OY215ODUtZnJtS3hhd0FLTFRSZUJpdWtQaHhwZVlGM19ZRVlDM1dJSHNHbGRNUU5nS3JtZ1JrQ2R1SzF6MkMxM0cyMmFsQ3hFOE5YVnl4SDdKYzhpejFTSmItdUx0a0QxLWs0eUVfZjBVUWRkTVczbUdNb2UwNjFtaVdHVDdBZXdoRHJMakRwSVZpaU1iVE5jTG1mc3dZWTYwMkJ3SnF4S2JmdXhkbWEwWFpqNHplRUJPVno5M3dZ?oc=5",
+          "time": "17h ago",
+          "body": "LPG price hikes: Modi govt. will pay a political price, says Sharad Pawar  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "LPG price hikes: Modi govt. will pay a political price, says Sharad Pawar The Hindu"
+            ],
+            "tldr": "LPG price hikes: Modi govt. will pay a political price, says Sharad Pawar The Hi"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1780899663135",
+          "title": "Maharashtra unlikely to see widespread rains before June 15, says state government - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaVVpNmloYVRzZjVIWU1DMjJFaTFENzFUaWt6Xy1HOGJWYWNXc0RfUElVVzRrTkdwa0RvZVZqUmhxSFdUNjhUaDJxQXFzVldUdGswdzlMRUs1T0F0YndnQnRWdHpzQS04Y1oxS1VyRkF1TVp1clBBa1ZuSG5tTzZFYkRDN3BnMXdjQVA3R3c5N0NiajVRYXJBeUJobGNybG1WNUtrblR4TmstMkJnTkRBajZPVWRpWVczZmZfZzVWejRkV0JNUWJIb3g5cEpqcGhCUnJTUTAwN21zNFl6Tk8wbkktSzdDYXd3eWw00gHwAUFVX3lxTE9SNnhhY0FMak1RbVRQX09BbFkycUJYcHgyeUpxeUsyb1ZRNHlzTHozNGczT2ctd3hqa1h4enZ3eEpKTVkyZllZcS1BeHo1ZHFsM0RfdW56Uk9CMXlBZE5qWmtVM2Q3NE9GWTlaM19UdFdvNFFJM0l0MVJnRTBYTHRpRld5REsteklnZVBZcXh4b2RkNllIazBCX1JXMl9IYVBRYjhlT2xjc05Wc2huT3NFaFJZaGg4ODVVUnRySzk0dU1uczh6UFZLX2V6blhMQkc2aGd1S2JUdEYxcHZWaTFKU1VlVFRFOEx1bG9tQWFsdA?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra unlikely to see widespread rains before June 15, says state government  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra unlikely to see widespread rains before June 15, says state government The Times of India"
+            ],
+            "tldr": "Maharashtra unlikely to see widespread rains before June 15, says state governme"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1780899663135",
+          "title": "Pawar Slams LPG Price Hike, Warns NDA Of Political Fallout - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3d1bW9mblI4VmRKSGxQbEpqaEI1c2FfbUo1eUtkMi1ZLXlHTFFNcExwM3dOUUJ5TGtOSS1qdjl0UklUbFZLX2p6MVFsUDZEMEFReUZKaG9Db1NqbVBlcVE1VGsxTU02SVlEQzlFQ0NwNVo2WE43V0hCbGFnUlB4d1VLai1CcUptV3JabHUtVTNyVzlJQ2kwUGE5bXJoSDVCc0VxZXZLVdIBrAFBVV95cUxPREI4MmlFZngxOE9yMlR0TU5zLURtdG9Ka190RjkxRHVkMnR2b2lqQ3F3RFd0ZnhicWF4Wk9zbzYxUmdWb0V6MDhzNHVfY0pFdjE2UkhMcDhLdG5SclV2R01PejJQUE5OUkhEYndHaElSV0ppd3ZVcnE4UkRab3ZNOXNlVXVNdlE4MWNsVmtqcU5aemY3VDRETHdVRjU2LUpjYjVEeEVYSXY0WkVf?oc=5",
+          "time": "14h ago",
+          "body": "Pawar Slams LPG Price Hike, Warns NDA Of Political Fallout  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pawar Slams LPG Price Hike, Warns NDA Of Political Fallout Deccan Chronicle"
+            ],
+            "tldr": "Pawar Slams LPG Price Hike, Warns NDA Of Political Fallout Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1780899663135",
+          "title": "Fuel, LPG price hikes a war fallout, PM handled it effectively: Fadnavis - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnFJamZvMVhQdWJweFJaSkFGWjM5NjhnRGc0TGxhalhHVzVJaDN1ZFo3YVdmUWI1ejduN0xpdXlyWDB2WUVPNTBhQUxWdExHOVFfa2gzS3RjeGFUcEd6MTkzNXdfalJoV1pveU5UVHpCbU9PcE9ac25ITWMwaE4xQzJoNG5HdTREeXhfYjRJNEpSXzRuajJuTGJMaFE1MTRSWnFNNW9MQl8xTDBudEI1aEl1V0NtaDhraF9tcnlkdmgyazBxck1sU1RGdFZGSnJYb1l0RE1IQdIB1wFBVV95cUxOcnFJamZvMVhQdWJweFJaSkFGWjM5NjhnRGc0TGxhalhHVzVJaDN1ZFo3YVdmUWI1ejduN0xpdXlyWDB2WUVPNTBhQUxWdExHOVFfa2gzS3RjeGFUcEd6MTkzNXdfalJoV1pveU5UVHpCbU9PcE9ac25ITWMwaE4xQzJoNG5HdTREeXhfYjRJNEpSXzRuajJuTGJMaFE1MTRSWnFNNW9MQl8xTDBudEI1aEl1V0NtaDhraF9tcnlkdmgyazBxck1sU1RGdFZGSnJYb1l0RE1IQQ?oc=5",
+          "time": "19h ago",
+          "body": "Fuel, LPG price hikes a war fallout, PM handled it effectively: Fadnavis  Business Standard",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fuel, LPG price hikes a war fallout, PM handled it effectively: Fadnavis Business Standard"
+            ],
+            "tldr": "Fuel, LPG price hikes a war fallout, PM handled it effectively: Fadnavis Busines"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780899663135",
+          "title": "‘We will not associate with any political party: Abhijeet Dipke | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYWdLS2lFUjhIaXZERUk5RFJUTUVJemgxN2w5d19vZW1oOTlZQnlaNzRhWDEzNXlwRHFKRmF5akhBNlZ2dXd5TmZ0dlJHbENyZ0ZaY0RrVXVmVU9tdFBsWFVSLUJ5NmstcDFRRV9CT2pONkZUUDRsa1RRY0RyUlJkb0o3cHZpRzluMVg1dlk3aUR0NU9qQ0tHU1BVRzFjeEJIMkdMMmFnbG96a19Sb0EzT2NOSlJBMnNjdGdXbE5xWmtBeTBtdWc3R1BqUm_SAdIBQVVfeXFMTmRjMXdhREFaNnR0WkFUb3ZWWE91YnNMX1MzdmE5bno5RXpsRDFXcUdGVFhqTXVnbkREZW1PeHlVcElVQVljSDJ5Y1FqbWR5MURFT1JjWWxEZld4bWo1NWRNbGljaW1ON2RqS0hESnM0WllGOXFkVFViSXNfbE95eXpOTFFEQmFIaDZFczF6Snp6eUQzMXYxNHc5ME5fdm5FdjFWX2hYVXVLalJ6OFhic1ZNZWZPRGliNVR0dmgzdjlOWXEyd3UyRDc0Z1JCMm1FNjVR?oc=5",
+          "time": "6h ago",
+          "body": "‘We will not associate with any political party: Abhijeet Dipke | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘We will not associate with any political party: Abhijeet Dipke | Mumbai news Hindustan Times"
+            ],
+            "tldr": "‘We will not associate with any political party: Abhijeet Dipke | Mumbai news Hi"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1780899663135",
+          "title": "LPG price hikes: Govt would pay 'political price', claims Sharad Pawar - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXgxTWxFWVpia1RCN3ZMOHYxeGs1X2hZYzNKMk5iWFRpczhvYlNrNW1HWXhwLVBpYm8wWjlIMVpaUUYteXotUklhcG04aXkzelZTdmZNRS16R1RVU2JJVVhpUWpKdGVDU2NsTEhnTVZvakRDb1VRZzJhQjRkSmVfTFN2VmM1YVB1cHdqN1Q2cUdOQ3dKcFM0XzZsZmRONFJ2cHBlUGJGUmtLcTd0c25lLTNHai1JNm14bW50bHdrV3hkenNib3lzOVpR0gHKAUFVX3lxTFAxeDFNbEVZWmJrVEI3dkw4djF4azVfaFljM0oyTmJYVGlzOG9iU2s1bUdZeHAtUGlibzBaOUgxWlpRRi15ei1SSWFwbThpeTN6VlN2Zk1FLXpHVFVTYklVWGlRakp0ZUNTY2xMSGdNVm9qRENvVVFnMmFCNGRKZV9MU3ZWYzVhUHVwd2o3VDZxR05Dd0pwUzRfNmxmZE40UnZwcGVQYkZSa0txN3RzbmUtM0dqLUk2bXhtbnRsd2tXeGR6c2JveXM5WlE?oc=5",
+          "time": "21h ago",
+          "body": "LPG price hikes: Govt would pay 'political price', claims Sharad Pawar  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "LPG price hikes: Govt would pay 'political price', claims Sharad Pawar Mid-day"
+            ],
+            "tldr": "LPG price hikes: Govt would pay 'political price', claims Sharad Pawar Mid-day"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1780899663123",
+          "title": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHc2eXEzWU1OUUNHeGdEZXJnd01OTV9QVk1aSFFNRWpXNUUyMjhZTHEySWNwNmJXdnNsSDAwcDBRRks5WHhvMnZCLXVhajExMmdGLXFIUl8wczdsT2o1bmYzLVZRY19jWkdpTHRORUl6cVh3RjJQX1R5d1ZLVzNUQmcyMVRsdEFDLXBWZDNobjZ0djYyVEFrWGhoOVg5c2FZZDlVSF9lQmdEZ0k?oc=5",
+          "time": "5h ago",
+          "body": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Optimism News On AIR"
+            ],
+            "tldr": "Sensex Jumps 1,200 Points, Nifty Reclaims 25,000 on Strong Buying and Trade Opti"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1780899663123",
+          "title": "Sensex falls 900 pts intraday, Nifty below 23,100: Here are 4 key reasons - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTUdScUJRcnpWaENLUzB0Mml4bDd1OFcyTFdHM2dMbmhta3dGTzNra2xfRmxmM2w5ZHhGTy1JS01QbXYzU3FrSEpOdnZWbThrV1dKYndoS0VKX3ZRQ1BoUkVHVFNoWmQ4X0R5TDU3Z0NNTU5HZXozUUJKbkVuOFdBSkpDOFZOUGYyLVhKTnNXMXdpbG9MTncyWXBvRUpxekdrM29YQXE3c3VPQzRPODhlRE5sdEVKNkxKbTdnR0t4ZHhrRjhZLVFoVC1SZ2hlMXl6SHZuS0N0aDdvekZsRHhwUDRZWU7SAeoBQVVfeXFMTlI4ZjAzeGN6RXZfXzZtWVNNVHd0eU9sb2V2RDd2Zy1uRkVhUWR0SGJzZlRJV0djcUN5WURfdnRvVnV0dnFvblZVWmhHZHRldEIwdVIwV0N1Z1djQm00bC1UZnB1RVp0R2hPUTY5bVMxdzVSbkdQQ2RTZGlULVpvMnBzMUswMThVcHZvb2xOV3kyc0gzSzZWUklVcmhWc2dzUDRBSnczRHVHU1FkZzdJc1BuY3h1cUQyMW80eUFLaDl0dGhBTEJKdUxTMFNwSlh4cVVnMWhnam5fVmNOQzIxVmJvdzdqcHNqZUx3?oc=5",
+          "time": "1h ago",
+          "body": "Sensex falls 900 pts intraday, Nifty below 23,100: Here are 4 key reasons  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls 900 pts intraday, Nifty below 23,100: Here are 4 key reasons Business Standard"
+            ],
+            "tldr": "Sensex falls 900 pts intraday, Nifty below 23,100: Here are 4 key reasons Busine"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1780899663124",
+          "title": "Stock Market, June 8, 2026: Sensex Slides 740 pts Under Iran War Shadow; RBI Moves, 7.7% GDP Growth Offer Some Comfort - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPelBhOXNHNHVtZXFSRzdIdE5MQ1hvTTJBSnpiNWhSMFBTemNwWUdES3FBZHpGTTZxNDZ6RFkwQzVzQzFvTHBQbXRHN2p1MUpTR0R1OFpwWW5wS2RiUGdrcG81WXJPVEZ5UF9VYU0tRm5WSzg3b1VJdUtCNnZMVmUwQ0NHQ2hGSFNPQmFIU2pGM29ibUR2VUZlbmQ3bG9tNC1qR1otdXoyblUxRnFWNUlFeWFtd29DSlVDYlB6d2hjSHVRa3cyUmgza1Jnd3lGcXotODNtOFAwWG1jNlh4dlhoLXM2QVhhTjFlZEZPR0RTMA?oc=5",
+          "time": "1h ago",
+          "body": "Stock Market, June 8, 2026: Sensex Slides 740 pts Under Iran War Shadow; RBI Moves, 7.7% GDP Growth Offer Some Comfort  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market, June 8, 2026: Sensex Slides 740 pts Under Iran War Shadow; RBI Moves, 7.7% GDP Growth Offer Some Comfort HDFC Sky"
+            ],
+            "tldr": "Stock Market, June 8, 2026: Sensex Slides 740 pts Under Iran War Shadow; RBI Mov"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1780899663124",
+          "title": "Stock Markets Slump: Global Equities Fall, Oil Prices Spike - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm4tZGNnaGs0MHk1WHlFdFpQYUlIZm1hbWxOaW90S2NOVlp6RDc1RS1KSU5rX2RfUmVGMzU1YmxwVWM5SlBhcm1ueWU2VkZ4MGVPUjBTeEN2eG8zT1o2MWJlbk1RX2w3NzlWTDgzNUhwVUdUNlVRcTZtM3U1dnJXb1BxT1hiUHp3UExQWnM1ZlVOZUZ6TWVYbF8tVy14YkYxMHdJOVdPSnZFaXYzaXRReFlLb9IBswFBVV95cUxOVm4tZGNnaGs0MHk1WHlFdFpQYUlIZm1hbWxOaW90S2NOVlp6RDc1RS1KSU5rX2RfUmVGMzU1YmxwVWM5SlBhcm1ueWU2VkZ4MGVPUjBTeEN2eG8zT1o2MWJlbk1RX2w3NzlWTDgzNUhwVUdUNlVRcTZtM3U1dnJXb1BxT1hiUHp3UExQWnM1ZlVOZUZ6TWVYbF8tVy14YkYxMHdJOVdPSnZFaXYzaXRReFlLbw?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Slump: Global Equities Fall, Oil Prices Spike  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Slump: Global Equities Fall, Oil Prices Spike Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Slump: Global Equities Fall, Oil Prices Spike Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1780899663124",
+          "title": "Sensex & Nifty Rebound After Four-Day Losing Streak - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNm4zbTdaS0NOSTl5T1UwNWkwT0FIODlMeWFfUGk0UmwtUnlleDRDeVAyRE9XMGtHNUhMVTByM29FVXhZSzJlM0V1S0owazRsb1JaRUkwX1BlVFZtVnI5VU1HaVFmbG5ET1Z4bHpRc0paXzZKd0JZTWRDOE96elh4dA?oc=5",
+          "time": "5h ago",
+          "body": "Sensex & Nifty Rebound After Four-Day Losing Streak  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty Rebound After Four-Day Losing Streak News On AIR"
+            ],
+            "tldr": "Sensex & Nifty Rebound After Four-Day Losing Streak News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1780899663124",
+          "title": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2JzQUJabDhtVHRIaHQxMktTVVFtd0lWWmtTR1ZwLWN3dlVnS0tEQVZyVVhZWEtIWUNIZm9pQVdqbV9JNkR6RW9YLUNsWFVLMXJSMXlHdkxjTkdESk5YXzM1eDFHZ1BFc2psSHJjY0V3eGhfTEFrYVMxZU1HbG9PTjA0QUh1QUFDTmwtTjhfTGNMY1VVdzFzanNRU0RVUm9lTEphNVJKRlpZOHFfaTNIX09XVC1Fd2VHdWl1VzAxcVFKb0QwREgyRnNCQnZhQWhtRnVMaXlJWlBPeFVsUlE?oc=5",
+          "time": "11h ago",
+          "body": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows Goodreturns"
+            ],
+            "tldr": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Am"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1780899663124",
+          "title": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkQ2b21rYlYyUXNZaWZQMkZjejA5WHFJdFF6TV9OOXRkUUk5cy01SzJsenBBRGVESVkzYnRKbDk3U2YxQjc0WThHX0ZkR0QwbTRPcGF5NHp5V2pHUGh1bEJJQi1wX0U2dXFPR1o3ajRPZ0xvQ0V0ZTVHSjJZRjBpMEEybEw?oc=5",
+          "time": "14h ago",
+          "body": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Rises 260 Points, Nifty Flat in Volatile Trade News On AIR"
+            ],
+            "tldr": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1780899663124",
+          "title": "Market Data - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xZ0wzT2lNc1lNY19OYXZDdnAzZmxaNU9BYnNOWUllb0RMS1o0T24xZHhRUUw1MDBNelNEaFNQbFNYZjk2S1Bicmg3Y0hWWFV5ZnZXdFVDYkUxN2tBVXJtOG9hS3lzWnlj?oc=5",
+          "time": "2h ago",
+          "body": "Market Data - The Economic Times. Market Data  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market Data - The Economic Times.",
+              "Market Data The Economic Times"
+            ],
+            "tldr": "Market Data - The Economic Times."
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1780899663135",
+          "title": "Mumbai stares at major water crisis as tanker operators threaten indefinite strike from Monday - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSWdGengwV24tWFJYajNKbkJtYzEtZWxUYmRONW9KWjZkanFxNVViSXo1UFR3bnJpN21yRVllTldwT2NGQXJ4QVBLLXJJQjJra29Ucl9IVWVpY0hzaFVCbVpGRE43bk1ETWM2eGgwUnRraTFkcmJWcnR4dTdFbGRwUnFtVjZweEp3cXFDaHJXWERBa3BIb1lScjlnYmNOVjlQekNIREdET3hJMHBhcDNuc21VQlF1Zmh1akFDRFJNR25lbzdSX1I1b2pwYTRvbkJfTFNYTmhsT2x1NzBvdUZWZnBLRmFzTVdzZktfcVlRNWlDZnYyQnc?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai stares at major water crisis as tanker operators threaten indefinite strike from Monday  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai stares at major water crisis as tanker operators threaten indefinite strike from Monday Deccan Herald"
+            ],
+            "tldr": "Mumbai stares at major water crisis as tanker operators threaten indefinite stri"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1780899663135",
+          "title": "Maharashtra govt repackaging existing decisions to mislead Maratha community, says MKM leader | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQ0RES3Z2XzV6WWhXMjNaMmZyYUtHMGlVeFg2ZnhHRTR5UFlQODJDNFliNzV6ejNmMmtHbFRjeUF2bnN2Zi1uTEI0Z1BNVEsweTE2VnFNQ3VtMDFabkFOTUNnbTZXNGJtaXlWUndwcmxjTHdIUFF6UGYzWDhRdlZqZS10aW9NaVJxb3RieG9RTEd2cFNCQ0JENXlJM2tyRmFJYUhlU3Q0T0FOOFBOSklxZTVIWWFobElpWGVnWEVLUzNlYkZJZFRBVEFraDNEdGF6elhrMmFVcE1Wbl82VHBlbmVySEFNQnlPTDF4N0JBX0hfUkNDQWfSAfsBQVVfeXFMUEdveE5GM0pncWVEeFhUQkNub0F0NF9abUZOMGxVVWdxTnZYWlBUUGtIaFN4SDFfUVBSa1RoWGlIMEZFQWVvUXlkNXNRVE83SnVCSktCdjhYbmZDOGV1MUpSaGRKSWg5YmRfbDExWGlWcTlpTXB5WjZQVlBRY1lKSDBibDFYTDgyeGRCSkdBSDBucVQtUTFfZEI3TFZHaEN1ZldwbmxYSGFVcF9UWnpfRk0ydHlqcEI4RUc4eE05Vm5qZEZVQWxOMGduMnJXMEMwOWZQemx0cUZkd2gydnR1VmNJYnBKZE40RVR4Qi00X2lxd0plaGg0bXBjbTA?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt repackaging existing decisions to mislead Maratha community, says MKM leader | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt repackaging existing decisions to mislead Maratha community, says MKM leader | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra govt repackaging existing decisions to mislead Maratha community, sa"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1780899664451",
+          "title": "Angel One Appoints Ajit Narayanan as Chief Technology Officer - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVZaX1VjZnc1N0N0VHNBU2gwekliME4zNjhvek8yb3o4R3YyV3NjV2NPQ3NUNGdjYjhmVFBVUGhIbjNUTE05SFVFT2dNbXpYaEpCNDk0elAtWU1KVXp5M0Rpc2ZvamFfRWFhSGlOVkVEZncyMTBiVmgtSkh6LWZXbndHTDl0ei1B?oc=5",
+          "time": "2h ago",
+          "body": "Angel One Appoints Ajit Narayanan as Chief Technology Officer  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Angel One Appoints Ajit Narayanan as Chief Technology Officer hrtoday.in"
+            ],
+            "tldr": "Angel One Appoints Ajit Narayanan as Chief Technology Officer hrtoday.in"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1780899664451",
+          "title": "Youth in judiciary driving tech shift, must stay watchful of AI, says CJI - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXZnSzZ3YXNCRjE2ZG9FSGNWc2gzVDZNV2NlTXpyZnlBMWpERG56YVd1UVQ3b29YelVnekdLWm9jMS1CZVIyWDV5Z05vNG1tOWw5ZDRUQ2loTGdSUWV0MHhXMWtwQmtqclZjN0VUbjl0MVJ6cHRxVGV2TmFHcFFDVWRzU0RSTU53ZnhNU2NrMXJfVjZPWXFjZFQ4amtLY1NLUGJycXlFX3hQY2xIOThFMkxYTDJrWC1JZDBjOU02MGYxTDNCMTJwMXpNUFDSAcwBQVVfeXFMTWF2Z0s2d2FzQkYxNmRvRUhjVnNoM1Q2TVdjZU16cmZ5QTFqRERuemFXdVFUN29vWHpVZ3pHS1pvYzEtQmVSMlg1eWdObzRtbTlsOWQ0VENpaExnUlFldDB4VzFrcEJranJWYzdFVG45dDFSenB0cVRldk5hR3BRQ1Vkc1NEUk1Od2Z4TVNjazFyX1Y2T1lxY2RUOGprS2NTS1BicnF5RV94UGNsSDk4RTJMWEwya1gtSWQwYzlNNjBmMUwzQjEycDF6TVBQ?oc=5",
+          "time": "4h ago",
+          "body": "Youth in judiciary driving tech shift, must stay watchful of AI, says CJI  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Youth in judiciary driving tech shift, must stay watchful of AI, says CJI The New Indian Express"
+            ],
+            "tldr": "Youth in judiciary driving tech shift, must stay watchful of AI, says CJI The Ne"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1780899664451",
+          "title": "Softcell Secures Zscaler Authorization to Enhance Cybersecurity Solutions - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMTF2RnpLeXpzM3F6REJRbXdyelN1MzRMMzV2YjJYOUM1U1E0LTY0S2xjTFdYS2JMWGpxQkFYTHNvSExxcEoyQ3NGdDNFaVd3RWtzaWxXYWJ6SnJ0NHNZV2pwS1lhaXlNVDFxbFJVb2Zabko4c1hRYXdrd2toSnRoekhhdlVDYUpxU3BkdlZyQ0xQQ3hCYVBJNXZEUXJpTTY3Q19CaTFtbzZiMTdnTGpXTi1JZ1RXcmV2QktzUWhIT1ZfaVNwUTVMRkxFSdIBywFBVV95cUxOMTF2RnpLeXpzM3F6REJRbXdyelN1MzRMMzV2YjJYOUM1U1E0LTY0S2xjTFdYS2JMWGpxQkFYTHNvSExxcEoyQ3NGdDNFaVd3RWtzaWxXYWJ6SnJ0NHNZV2pwS1lhaXlNVDFxbFJVb2Zabko4c1hRYXdrd2toSnRoekhhdlVDYUpxU3BkdlZyQ0xQQ3hCYVBJNXZEUXJpTTY3Q19CaTFtbzZiMTdnTGpXTi1JZ1RXcmV2QktzUWhIT1ZfaVNwUTVMRkxFSQ?oc=5",
+          "time": "1h ago",
+          "body": "Softcell Secures Zscaler Authorization to Enhance Cybersecurity Solutions  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Softcell Secures Zscaler Authorization to Enhance Cybersecurity Solutions Devdiscourse"
+            ],
+            "tldr": "Softcell Secures Zscaler Authorization to Enhance Cybersecurity Solutions Devdis"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1780899664452",
+          "title": "AirTrunk to Invest $30 Billion in India's Data Centre Expansion - Realty Plus Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUE9BSWdRWWhtNWotWjNHanN0aUp4M0dha1JIQUd0MHltb3dKSzgwOU8xOGhsT2FtMm8wM0xUQ2ZVZEU2M3g3TWx4bHdMVGpPZ25Edm5WMV94R295U0RUTURpTFZtUm9IYkU2UTVaOEZZeFd5eE9zVXBPZWZDblhvTEVmZkN4Z0ZsSTFjQWdZNmhkSFNZRDZQYWZORUMzcjg1V2U0TVBadTdRTXVrc2xQQkphcw?oc=5",
+          "time": "4h ago",
+          "body": "AirTrunk to Invest $30 Billion in India's Data Centre Expansion  Realty Plus Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AirTrunk to Invest $30 Billion in India's Data Centre Expansion Realty Plus Magazine"
+            ],
+            "tldr": "AirTrunk to Invest $30 Billion in India's Data Centre Expansion Realty Plus Maga"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1780899664452",
+          "title": "Digital Edge Secures Fully Powered Ansan Data Center Site in Power-Constrained South Korea, Advancing Expansion - malaysiasun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdHF1UnVVOW5VaGVudFlOeGdHQTZ5ZWdlMlFjU3RzOTVNMGhqc3VPZ3RNQzVfTWlRNFZveG9uNklYb3JSUlFQcF8yd0VqRUhNZFRhejVDeDFhRzJ1MFJkWmFXZzZVa2Jnam1NMV9PVDNnSU5sakZWaFc3Sjd3UzNmR3hXSFQ4aFMydmJWNkFZMHpFb3VNUzRWVGFzNjlsaU1ETXJLSDZuMUJQa3d4LVJFbHFWTjlqUktYTmk0VUdiUDVQcGRUbzROVURMdFlTNXJDQjdhbkk1ZXZHUjEyTi0yQmpNTFFONWM?oc=5",
+          "time": "8h ago",
+          "body": "Digital Edge Secures Fully Powered Ansan Data Center Site in Power-Constrained South Korea, Advancing Expansion  malaysiasun.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Digital Edge Secures Fully Powered Ansan Data Center Site in Power-Constrained South Korea, Advancing Expansion malaysiasun.com"
+            ],
+            "tldr": "Digital Edge Secures Fully Powered Ansan Data Center Site in Power-Constrained S"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1780899664452",
+          "title": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization - Punjab Kesari English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMnFjT2x0SVhPS25CTDE3UkJybDd2Mmh4STdLdXd4a0cxWXNsRkxNdWxYR0ZUTHB0c0hGcDJhZ3lpa0VhTGZnWmdGMHo3OVJUS2xyRklQUGRVVWpqY0xxREJhYXVEczE5Wk1iSkVRc0RncC0xTFB5dElZUWlJNXUwYXhwR1JESFFRbGViRUowZ0xwaVF2SFVFZ3ktUlFHeVRqMkd5MFZCeEt2WmlwcC1tZk1SaXVZeVlTWlhGWTJjNlFxTEh5SWZyWVl6azhiam9DQlHSAdcBQVVfeXFMTXhqQXc3c0JoQWZXalNJZ3NyQ3AwSFkyNmR3MUk4OEEtWkJHUVlnTjJlNEl0cXRBclZpOXpKSkdBNzdqQ0hXX0k1T2pBdFZZdkdLaUU0bUZrblByMzMtbHlZQ2VxLWsyeHVBdHlPbmx3eU1aNFc2SjdTVVp3enlSVFFIU1EzcFBWbUF6UGJ1WENCazVLZWxLemRaZUN5YlVLdzhGN1NxTUtFT1ZGWE8td0ozZ2xVcmJMdDd1QVp0R0dvY0k2T3J3T25ub2dwbmZHc05DVTdBNGc?oc=5",
+          "time": "1h ago",
+          "body": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization  Punjab Kesari English",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization Punjab Kesari English"
+            ],
+            "tldr": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1780899664574",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "2h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780899664574",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "9h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780899664575",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkdGTk95N0RrdFJTb0NFSlM4ZjZIcXM0ZlppSzRRSzhia2o5LTd5S0w2YVA3YlByYldzU3BTdkFZTGVVMVRDcEJFRHdKQlZNRnlpa0JoUkRWM2p2XzVVQjlxRm1aclhqMk1jaFRjRmpkeDdERkpBRHYtZDhjTHhPa2NoQWRPcDZrekdOZUJZRlNySnBaX0pfekdzNFF4V0xUSlE?oc=5",
+          "time": "6h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1780899664575",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "15h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1780899664575",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "21h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1780899664575",
+          "title": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTU0MnlmNThzbUlMQ0Z2YnRETlY0SXllQmlDNTFKbkNzY0JPYVFMejJuV1NpWnFtekN4Znl3X3lkelR2T3ZUNHBTWW5HdG9ZV29BcHFxeVIyMHpJNDdnbzhidWpzb1N6Zml6clRPb1haWFA3RS01SHdtVHFEUG9faVZWMUZZN01OME50TnNDZ0Nhb0U5Yld6R3FDNzlLbGtZalE?oc=5",
+          "time": "17h ago",
+          "body": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1780899667242",
+          "title": "IND vs AFG Live: Afghanistan reach 18/0 at lunch after India enforce follow-on",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "IND vs AFG Live: Afghanistan reach 18/0 at lunch after India enforce follow-on. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs AFG Live: Afghanistan reach 18/0 at lunch after India enforce follow-on. [object Object]"
+            ],
+            "tldr": "IND vs AFG Live: Afghanistan reach 18/0 at lunch after India enforce follow-on. "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780899667243",
+          "title": "Suthar scripts history on debut, registers best bowling figures in 38 years",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Manav Suthar enjoyed a dream Test debut against Afghanistan, claiming 6/33. The 23-year-old registered the best bowling figures in an innings on Test debut by an Indian in 38 years. It is the best since Narendra Hirwani's 8/61 against West Indies in 1988. The left-arm spinner helped bowl Afghanistan out for 152 and joined an elite list featuring Hirwani, R Ashwin, Dilip Doshi and Syed Abid Ali.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manav Suthar enjoyed a dream Test debut against Afghanistan, claiming 6/33.",
+              "The 23-year-old registered the best bowling figures in an innings on Test debut by an Indian in 38 years.",
+              "The left-arm spinner helped bowl Afghanistan out for 152 and joined an elite list featuring Hirwani, R Ashwin, Dilip Doshi and Syed Abid Ali."
+            ],
+            "tldr": "Manav Suthar enjoyed a dream Test debut against Afghanistan, claiming 6/33."
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-1-1780899665846",
+          "title": "Nashik: Ramwadi Excavation Triggers Traffic Collapse In City Centre; Kumbh Roadworks Become Monsoon Headache - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2FMQVgydTFsUlVUUk16U000VzRfY2FUeklmOFo4RHZkQmd2a0toa2ZkWTNFWnpmT29iUHozWFd6dUJtczVJS3JaMkV6NnhHRlNMZ0Z2NEpJQlN0UmRpMTFvVkxIeEx5UG0yOXJ5Wms0U203eTBCR2J1RVJYMmZxdGp0Yl9VUHhWY1JUeUpobTdkeFFCalNiWTBJWVFXbXVGTmtVczlfclBrekNCcV8wYVNVazdwd1pNV2xEc1QzWklJM0NVS0lvSXdNUjY2NEozUjNqcU1neTRvclpxNGlEZkpDQ3VER1lOblZERtIB8gFBVV95cUxPU0o4WGdpaEN1VHNiOElmNVJlSGtLLTNWeE5UelJ5YXNycXZTWUFPT1c2UE1fVEN4SzBMMHZTWjFVMmNWY08tLTdwNy1GX05FWDJ4XzJzcUlockFJSmI1bjhqbk1CekNLZnl0RXZFMUJjakt1dDQ2bjJYLTRqcmh2RzlodFJpMGRJdjVNMFJ4eEQzSUVyaFhBOEpQOW84V3JFdlNsUV9kdDRkT2VRUS15VkhUTzFtcWxKQkdwSE5RTmdVSFdaVUI5UlNNSmNpd0F1SUpfNUpOY1ByMzViUzA0b2xka1Fhdk85VW9CWmRBSmFzUQ?oc=5",
+          "time": "17h ago",
+          "body": "Nashik: Ramwadi Excavation Triggers Traffic Collapse In City Centre; Kumbh Roadworks Become Monsoon Headache  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nashik: Ramwadi Excavation Triggers Traffic Collapse In City Centre; Kumbh Roadworks Become Monsoon Headache Free Press Journal"
+            ],
+            "tldr": "Nashik: Ramwadi Excavation Triggers Traffic Collapse In City Centre; Kumbh Roadw"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1780899666203",
+          "title": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]"
+            ],
+            "tldr": "'Where do you think I am from?' Indian-origin man counters racist bullying in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1780899666203",
+          "title": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]"
+            ],
+            "tldr": "Indian student fights for life in Chicago after 25-ft fall at subway station, fa"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1780899666203",
+          "title": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]"
+            ],
+            "tldr": "He feared he couldn't compete with AI: Indian family dumps American Dream, leave"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1780899666203",
+          "title": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]"
+            ],
+            "tldr": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for na"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1780899666203",
+          "title": "'Get out of my country': Indian-origin couple racially abused in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "'Get out of my country': Indian-origin couple racially abused in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Get out of my country': Indian-origin couple racially abused in US. [object Object]"
+            ],
+            "tldr": "'Get out of my country': Indian-origin couple racially abused in US. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1780899666203",
+          "title": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15d ago",
+          "body": "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin cancer specialist banned from practising in UK says, 'I will never work...'. [object Object]"
+            ],
+            "tldr": "Indian-origin cancer specialist banned from practising in UK says, 'I will never"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1780899667362",
+          "title": "In Mumbais crumbling buildings, thousands of lives risked in a miracle",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/every-monsoon-same-gamble-why-thousands-stay-in-mumbais-crumbling-buildings-despite-the-risk-of-collapse-10728814/",
+          "time": "4h ago",
+          "body": "In Mumbais crumbling buildings, thousands of lives risked in a miracle. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In Mumbais crumbling buildings, thousands of lives risked in a miracle. [object Object]"
+            ],
+            "tldr": "In Mumbais crumbling buildings, thousands of lives risked in a miracle. [object "
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1780899667542",
+          "title": "I was denied hotel accommodation in Maharashtra over ‘Kashmiri identity’, alleges BJP’s J&K neta - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWVVpZEtYcTJrdXpIRDRxdi1xYVNlR0lBbTRjTEpmZ1BGTlRGSjJtb1VmSzk2bGhsV2V1TmhaNUJaQ29uT19zNHA3TWxIVjZKRzZwaVVXM1BoSlJlZDZWQkxEZkVpa1oxUHZObEczM1VnTGNBWk1LVG5ZVmc1VDN0ZXV0azd4YTlZcXhQSG5pMlZuVF9KTHh6aExiUkhPczl0blBWM3dnUXFYS3QwRWhqdTdPQm5ieTRHMkZISjVwcmxhY2RTRXhtU3RyamhCb3lqa2VhZDVBWkp2SWtOUXdCamdGRFc5NmgzaVhXMlNWX2XSAfYBQVVfeXFMTTZaOXFTZlZfOU9lellZREw0TTRISG8zaVJyRHRsMktPRjVyLUpSWncxWWNVdU5rODQ3cVhUUnBpQ2ZTRy1YQ29XTm1XeWVjUFFlSzBiak5CRkt5NGhQaTEyOWRtaTBlN1ZlWU1uWUhidXdzTTVSZFVvM1l3LWNGWWliT1hZZGxjZEdKeV9fZkFFTi1tS25LT0ltd3o3clNJcF9nSzVNY1ZpV2t3STdlQ0dKWFo5TDRNM1VyZ1dfOHR0Qm5Rbnd2RHRtNDRsa0Q4c2F5UmE2RWR0RWR2T1RqRjBpLU00ZzRfeHFBcGxVanRLSlhjZlBB?oc=5",
+          "time": "11h ago",
+          "body": "I was denied hotel accommodation in Maharashtra over ‘Kashmiri identity’, alleges BJP’s J&K neta  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "I was denied hotel accommodation in Maharashtra over ‘Kashmiri identity’, alleges BJP’s J&K neta The Times of India"
+            ],
+            "tldr": "I was denied hotel accommodation in Maharashtra over ‘Kashmiri identity’, allege"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1780899667542",
+          "title": "Cockroach Janata Party to hold nationwide protests: Abhijeet Dipke plans to visit different states, cities ... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPem5vOFZZQnVKTFBTcU1HcnIySEc0N0Y1TWtRbEFGdDZZSVJRUUtPVTg3azF1QjJXeXlydGNldXpHTE0xaGZRMUJMVFl4UW8zcEI4SDVPRjBwTmZiNnNTZ1JtNjJxbGFEeW8zWnBzV1pIOWp3S0VjckRPX285NDBoRFBTUV8zWXNKME84MkJEMExxX0lFQ3NPaURaZ3JYZ09tdG41cTVuUmd3MU9taWRYY3A4Y1JSLXpSSGpFTEVRRXlsMzRMd3RFNERnWVJxdUtjazBZQVBnUUPSAdgBQVVfeXFMT3pubzhWWUJ1SkxQU3FNR3JyMkhHNDdGNU1rUWxBRnQ2WUlSUVFLT1U4N2sxdUIyV3l5cnRjZXV6R0xNMWhmUTFCTFRZeFFvM3BCOEg1T0YwcE5mYjZzU2dSbTYycWxhRHlvM1pwc1daSDlqd0tFY3JET19vOTQwaERQU1FfM1lzSjBPODJCRDBMcV9JRUNzT2lEWmdyWGdPbXRuNXE1blJndzFPbWlkWGNwOGNSUi16UkhqRUxFUUV5bDM0THd0RTREZ1lScXVLY2swWUFQZ1FD?oc=5",
+          "time": "4h ago",
+          "body": "Cockroach Janata Party to hold nationwide protests: Abhijeet Dipke plans to visit different states, cities ...  Bhaskar English",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Cockroach Janata Party to hold nationwide protests: Abhijeet Dipke plans to visit different states, cities ..."
+            ],
+            "tldr": "Cockroach Janata Party to hold nationwide protests: Abhijeet Dipke plans to visi"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1780899667542",
+          "title": "Security beefed up at CJP founder Dipke's home in Maharashtra's Chhatrapati Sambhajinagar - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd3NFQWQwbkJ0dzhhWG5iclJvNl96RWtBZUY4dkhYSnJnXy10RlRxYWJvWTlYV0Fvd2s0OXN0eHNkdS1JU0ZwY3E5V1otWkItSk9fSkZKRDNyOXF3czhnVm15TWdrcGpJYy10c2IzNDNYeDNPUFZtT3hFbUVqTFZHOFFHSzNvTEM0enAwaVE2SWZoMlN5bVl6OXBROG9ySklyTjFGQmpGY0NhMGNPMFE1WEJtM29VWDdmd3BPdWNBVzI4T0t1MmtOSHIxZHNKSGFpdWo2cXVBeUcwcEpmM2xCMW5KSU1XUnJHU3NEQQ?oc=5",
+          "time": "23h ago",
+          "body": "Security beefed up at CJP founder Dipke's home in Maharashtra's Chhatrapati Sambhajinagar  Deccan Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Security beefed up at CJP founder Dipke's home in Maharashtra's Chhatrapati Sambhajinagar Deccan Herald"
+            ],
+            "tldr": "Security beefed up at CJP founder Dipke's home in Maharashtra's Chhatrapati Samb"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1780899667542",
+          "title": "'LPG at Rs 355 in 2014, now almost Rs 1000': Shiv Sena UBT's Ambadas Danve leads protest against fuel hike - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN3lHQU8xNW43RF9pb3RlejFDc1dtaE9FUnNWb0lSU0wtb3ZCNE9oa29ZXzNmdFZuRnlpdWdWaVZWOGZ0eXRXSVF1QkxCaGFoSkJvRjdtYlZqbXZqajZ6dUVIYnhpdGRqNVY4Sm5iRkxoY0dJNTdjXzdtWlB2SE1GQjRQSk5CSTBGQnFyODFWSVpPaVM0enkyN3JNUW5fUlRZMXFjNEhmNmRFSzlxWnQtWXFTR0YxWnlvT09GNi1ZRmprOGN6UkRKTURJMWZRODhELVcwLUZFbWxoRzZ1MzdzaHlmLUZEMzhqNjNLaE4wbkJ4WUU?oc=5",
+          "time": "13h ago",
+          "body": "'LPG at Rs 355 in 2014, now almost Rs 1000': Shiv Sena UBT's Ambadas Danve leads protest against fuel hike  ANI News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "'LPG at Rs 355 in 2014, now almost Rs 1000': Shiv Sena UBT's Ambadas Danve leads protest against fuel hike ANI News"
+            ],
+            "tldr": "'LPG at Rs 355 in 2014, now almost Rs 1000': Shiv Sena UBT's Ambadas Danve leads"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1780899667542",
+          "title": "Shiv Sena UBT protests LPG price hike in Maharashtra - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUs1cG9lV2ZQbFZFb05xM3lSeWRxTzFZTG1lbzZrelM0QVp4Ymhva0xxQlNMMW51c1FZa1ZnQmRocFRQaW9fa1UzZHBiWVBUYXgyUTZuUWZKZEtsM3VDRlNvWENOZTM0YUJEWFVQaGdia29sVHdBZEQ2ZWZpTGEwUnloWl9GWGpWaFRDOE9ycnpRWVREeWN3?oc=5",
+          "time": "13h ago",
+          "body": "Shiv Sena UBT protests LPG price hike in Maharashtra  The News Mill",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Shiv Sena UBT protests LPG price hike in Maharashtra The News Mill"
+            ],
+            "tldr": "Shiv Sena UBT protests LPG price hike in Maharashtra The News Mill"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1780899667542",
+          "title": "Was told to leave hotel in M’rashtra, says BJP leader - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTJWbGF1WEl4VE1hMEtkTWN2R0xaYTlWU0tvWHB2dmZYX2V4OXRpN21ya3lDS09GNGhYYnRPMUpDcW8tRFdjbTN1LWZQRDlHRXBrN0t2bGlkVlViektZQmlFRmFqY2N1VzZhdU1wYlphb2ZmLWdvcWZTaWlRZFhWWjZBZHY2dzhURERqaXFXUkpESTNNUExwbw?oc=5",
+          "time": "10h ago",
+          "body": "Was told to leave hotel in M’rashtra, says BJP leader  The Tribune",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Was told to leave hotel in M’rashtra, says BJP leader The Tribune"
+            ],
+            "tldr": "Was told to leave hotel in M’rashtra, says BJP leader The Tribune"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1780899667542",
+          "title": "CJP Founder Abhijeet Dipke Welcomed At His Residence In Chhatrapati Sambhajinagar - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWZLS1otX3NPamNiNUhoeWlHS2xWNEpWZWEzdWxMQmc1YnF3Ync3RDJ1YjJ1c0c1UHRSU0pSQ1p2dTJva2t5S0hCc0dpUmhwWHhpOS1XZ0NfWGtwMUM0NXlZaF9pUlNFTGYxT1BLUk1TdXYxWFk1cE5YMDZTVnQzdkdMZ09uanVXYmJEYzhud0k5LWJQeS1sR1k3S2tHeDM3dnVYS3NEeTVaZjNLaFIyREMtdUpUVWVaX1FvNXJ6RElSaS1RTndiNzBIONIB0AFBVV95cUxPQ195SURCQWRaOE5uTUc1MTY0RXV4SWRzaHBjS2tmcm5PckVhV1BuQklGZXVhNGNYbFJqMmhFQW1TN2E4T2ZfdFNnZmVVTnJfNV9Tc3BsaXlFMnc5U3J0X2JSdU5tcDZaemRvQ0FZUlQtVGhOZXVseWdUMFdqMlpqVjZiLTdvM3VpSWNTN2pwSWN2Zzl4ZFFJN3lBNlBWdWJ3QWxCM04yQ3FHN2trLVRlc29zbnc2dHptZ2FjRmZnN0VZZEtSUUR4UU5lQ3BZRXBN?oc=5",
+          "time": "23h ago",
+          "body": "CJP Founder Abhijeet Dipke Welcomed At His Residence In Chhatrapati Sambhajinagar  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP Founder Abhijeet Dipke Welcomed At His Residence In Chhatrapati Sambhajinagar ETV Bharat"
+            ],
+            "tldr": "CJP Founder Abhijeet Dipke Welcomed At His Residence In Chhatrapati Sambhajinaga"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1780899667543",
+          "title": "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP apolitical: Abhijeet Dipke - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMlNFTEhzRmRKb0lSVG5weVdMQkloZEsxRGpNZXRseElrdGRXWU1LQkliMGY2emttalphRDhNSUdiSUZsMHFvMDBJdlozQm1iSUJBbkNPVURXUlZVdzNXUE4xdFhxc1FkY2w2cHNRSEVkTjVvUWtiVXI3QkFVclRoWTBaS3JEeS11S2tfYkJoMlpIXy1DYmFvczBhVGFDUG1XbkR0QXFhR3R5LVp2VzBrOHNaN014UjgzYmhEUm92ODZ5QjlCbUhTOUtnVFZwZmZUUUlKVGNRQlR6UzQ3Y3ZvX1AyU0hTUWRTbF9OcWVQVTdpYm9DYVl0OTFsTF81WC11?oc=5",
+          "time": "16h ago",
+          "body": "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP apolitical: Abhijeet Dipke  Deccan Herald",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP apolitical: Abhijeet Dipke Deccan Herald"
+            ],
+            "tldr": "Indian politics dominated by Hindu-Muslim agenda; joblessness key concern, CJP a"
+          }
+        }
+      ]
+    }
+  }
+}
