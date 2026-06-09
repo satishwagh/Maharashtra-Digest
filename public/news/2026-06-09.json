@@ -1,0 +1,790 @@
+{
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T05:48:59.018Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-1-1780984133391",
+          "title": "Singapore, Hong Kong-like Dharavi: Maharashtra govt unveils global vision for mega redevelopment project - WION",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaExpR0gtN2ZFZjRCbGlTbUdxWkdhbktFbHdCaUw5UkRYOGNmc0lMTHZWTkhSWjA4cV9fSHh5anpCOXU2ZUk0S05zaDZFa29pc21PbEIzdThJSTJaeU9INm5yY2pKSGRjdlBRd2tQSy1ud0NQdUdKb0R6UzA4elFjdmxoSkRXWktBWUl2UjdJclB5TVFOLVd2TktzamYyZU0wNU9GSk5pODB5OTdZOW9YSFhTLUR6NG9oWU9lV3p6ZWNGT2Z4SjNhQkJHVUhhT2wtNFp4cWFmWFRQTGUyTXQ1aEVPbVU2d9IB6wFBVV95cUxPOC1rMjF0U0VIVW1fU2Q5Mk1sWFVhOXJvT1dtNXB3Rl9ubmI5WnZtTnRDSFg2aHRCcnk2eVloUGY2OURKbGY1R29iVHROd2pub0VnaVdwMlVhb3JnNTNQYzNBQzdxMHRpVjB4R3RqcXE4bW5XaVdkUHlYWDloZk1YMG91aUpEMUktdjJfUkhKZWp5OElscDlNZDdzZTJZMWJBQzhZelZCbGRnS29FUzQwWmVnN3paWlZDQkU4Y3FVdzQ4T2dOUXNxRFBsdjZMTXhFcGVDOEVMRjNBSE1xTzk5YWh1dTNVWlJEN2ZF?oc=5",
+          "time": "8h ago",
+          "body": "Singapore, Hong Kong-like Dharavi: Maharashtra govt unveils global vision for mega redevelopment project  WION",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Singapore, Hong Kong-like Dharavi: Maharashtra govt unveils global vision for mega redevelopment project WION"
+            ],
+            "tldr": "Singapore, Hong Kong-like Dharavi: Maharashtra govt unveils global vision for me"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1780984133391",
+          "title": "Man killed in mental hospital by patient: HC orders Maharashtra govt to pay Rs 22 lakh to widow - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONF9tMlE4SWdQVGhkUmU3VGV5UllYMkZQQVUyQ2xZMloza2wyb2w3TG9qZ2c5RlNoUDlDMXdOckRQS1l0b2VQWlQyQ2lPTUsyZXZCSGplQUowMFV2MDl2TlBZT0h4aDVhSGNZV2tHcWVoYmdnbnl3S2t1bGJNREVLWk9KOHdWbkVNT19IRVhrZUtaWU1RaWpVOXBoWDVYNDRieGFfWkFsOGZoMktIVnhwdlBhOE54dHdROFZtcFA3djZYYjJXNTZiS1ZvNjV0QdIBzgFBVV95cUxONF9tMlE4SWdQVGhkUmU3VGV5UllYMkZQQVUyQ2xZMloza2wyb2w3TG9qZ2c5RlNoUDlDMXdOckRQS1l0b2VQWlQyQ2lPTUsyZXZCSGplQUowMFV2MDl2TlBZT0h4aDVhSGNZV2tHcWVoYmdnbnl3S2t1bGJNREVLWk9KOHdWbkVNT19IRVhrZUtaWU1RaWpVOXBoWDVYNDRieGFfWkFsOGZoMktIVnhwdlBhOE54dHdROFZtcFA3djZYYjJXNTZiS1ZvNjV0QQ?oc=5",
+          "time": "16h ago",
+          "body": "Man killed in mental hospital by patient: HC orders Maharashtra govt to pay Rs 22 lakh to widow  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Man killed in mental hospital by patient: HC orders Maharashtra govt to pay Rs 22 lakh to widow ThePrint"
+            ],
+            "tldr": "Man killed in mental hospital by patient: HC orders Maharashtra govt to pay Rs 2"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1780984133391",
+          "title": "Exploring Their Continued Influence in Maharashtra Politics, Hindutva Organizations Force Government Rethink on Devasthan Inam Act. - hinduexistence.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnBGMWd3cjV0ZE9jMFc0bU5oeDFmbkFkOEszN2t1T0c1a21aUUx2bFpRQWQ2THpmcHF5X3Y0aEVhaW9BUkNnS0l5WG41RXJIaVZfTXNtMFRWYlgyWjlhMVVCRmszQVZxNFhFV0NQanhGNnMyWkdIQTNlZ0w4TTd5cG9qREZ3RmRrRjB0ajFEMUg1eXMxbmd0Qy1yOXMwWlVhcC14WE9JMW9kMWJscUZvTDU3Q1dUVmI4dUtzX2tOdW4xX01lRWF5VkFNQXVSS0Z2S0NhM2oyNE5tVTBWMTliX0psMVRnQnBWSWVkOGRIaERueUwxRkRvdFV3SUI?oc=5",
+          "time": "19h ago",
+          "body": "Exploring Their Continued Influence in Maharashtra Politics, Hindutva Organizations Force Government Rethink on Devasthan Inam Act.  hinduexistence.org",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Exploring Their Continued Influence in Maharashtra Politics, Hindutva Organizations Force Government Rethink on Devasthan Inam Act. hinduexistence.org"
+            ],
+            "tldr": "Exploring Their Continued Influence in Maharashtra Politics, Hindutva Organizati"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1780984133391",
+          "title": "Under fire over exclusions, Maharashtra says farm loan waiver conditions may be tweaked - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY29tTzQ4LWJmVlNaX0ZabVYwdUZiaFpITnZPOEhZQ2lNRHBHMm1MQ0E4eVl2OGpnWjdMekk5dC0zaXVPODFPMV8wTlpsTnctN0pYWHg2cVRVa1ZWa2FCdU80Wi1DUnowLXhydVFnUlF0VWpUTy1lazREMHgtZnBodjUwTEFhNDlDTFJvUWpITkNpX3pvMHA2X3gyV1lZZ1FqZGxwVGV2TnIwN3BnYVhiczF3YzA1Z1AxOHBtOWxDaXFkX3RoLTNxTUkyb1Jad9IBzgFBVV95cUxQY29tTzQ4LWJmVlNaX0ZabVYwdUZiaFpITnZPOEhZQ2lNRHBHMm1MQ0E4eVl2OGpnWjdMekk5dC0zaXVPODFPMV8wTlpsTnctN0pYWHg2cVRVa1ZWa2FCdU80Wi1DUnowLXhydVFnUlF0VWpUTy1lazREMHgtZnBodjUwTEFhNDlDTFJvUWpITkNpX3pvMHA2X3gyV1lZZ1FqZGxwVGV2TnIwN3BnYVhiczF3YzA1Z1AxOHBtOWxDaXFkX3RoLTNxTUkyb1Jadw?oc=5",
+          "time": "16h ago",
+          "body": "Under fire over exclusions, Maharashtra says farm loan waiver conditions may be tweaked  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Under fire over exclusions, Maharashtra says farm loan waiver conditions may be tweaked The Indian Express"
+            ],
+            "tldr": "Under fire over exclusions, Maharashtra says farm loan waiver conditions may be "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1780984133391",
+          "title": "PM Modi Lays Foundation Stone for Development Projects Worth Over ₹7,600 Crore in Maharashtra - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFg4OHRDWGo5cHRVcmsxbXdoVDVxMFE3ZDUwSVlzWHVyTVZrS1lELUNyY1BxRlI4ZjlRVUJmNzlYU3NBZ1lFdjMtTkYzT0dmOXpBN1hTUXpGRk81blZvLXFTMFI0bWstckxrbThQT2NzUDY0bGFVYTY2dktZLXF0V0V1SU1yRlJVc0V5LUhKSmE2UG5XTVdRS2VZWkcyZ0xaYXROSkIwcHJ6QmE0dWRMaWZEVXh3UzJYUFVLUXExNkZDWjd0?oc=5",
+          "time": "7h ago",
+          "body": "PM Modi Lays Foundation Stone for Development Projects Worth Over ₹7,600 Crore in Maharashtra  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PM Modi Lays Foundation Stone for Development Projects Worth Over ₹7,600 Crore in Maharashtra News On AIR"
+            ],
+            "tldr": "PM Modi Lays Foundation Stone for Development Projects Worth Over ₹7,600 Crore i"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1780984133391",
+          "title": "Maharashtra Approves 65 Railway Projects Under MahaRail; CM Devendra Fadnavis Aims For Level Crossing-Free State - land2capital.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORm5rMnQyUmVzUUh3alRYOTI5RUNmZDV3VDJsV2F1cVduLWFCaFc5ZnF3V1ZUa3kxb2hEMVlONlM5Q2dYY2xkVDZ4MG9ZNkotSnVGVjJsQUJxM2hKbHo3LXFvc0xQQXh3eXh4OXllcElqYTEwb1NsV1J1aEZzaXFjTzRFYnIySnZsWk9zRjlhTDFYRE9iVHlpWHgzdnBmaEprSndDWUZ4UnJFcnBCVWZQOElGR3BVUUNlaDhrQmg2cDBYa3dkTUgwbXZvcHNzTjBNWjR0N1dwMmMwZ1J1ZUFhUmowSEtvUHc?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra Approves 65 Railway Projects Under MahaRail; CM Devendra Fadnavis Aims For Level Crossing-Free State  land2capital.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Approves 65 Railway Projects Under MahaRail; CM Devendra Fadnavis Aims For Level Crossing-Free State land2capital.com"
+            ],
+            "tldr": "Maharashtra Approves 65 Railway Projects Under MahaRail; CM Devendra Fadnavis Ai"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1780984133391",
+          "title": "NCP's Rajendra Jain files nomination for Rajya Sabha bypoll - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk94dW5Lck5SQ0NiQkc0czJyVDdjY0xKUXBhanY0OWQxZEdkVEZoU21zU3FNRGV1S2otVVEwdktwemZFWlI5UmtWak5nd21HTDJITk4xbGE3ODNETTNVR0hfYUsxUElQcHhoem40ME93M29CZ3JiemloRnZJRlNIZV9ud2VMYS1Wamg1R3BfUzNOYi1KZkxEeHpB0gGnAUFVX3lxTE9UVU5DdkpnYTN0bkRLVDQxMkJmbDBvSmdMamJkV1JRUDQ2bDR2SWtKSmdOZndZZkZwYlhpUWZYZTlRWkJ0eDlxaFQ1QTN0dXBMSjg1TEpXYlFETHhLeDNZVHlseUdNRGFGTHNVVENWQzA0ZkNXQ19Id1lMUmQwaVVKZDZSX1R6MUh2NFBvMlJLVktOU0NaTFZnRWwtLUx6Z3E5ZE56YU9r?oc=5",
+          "time": "21h ago",
+          "body": "NCP's Rajendra Jain files nomination for Rajya Sabha bypoll  DT Next",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP's Rajendra Jain files nomination for Rajya Sabha bypoll DT Next"
+            ],
+            "tldr": "NCP's Rajendra Jain files nomination for Rajya Sabha bypoll DT Next"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1780984133391",
+          "title": "May-June 2026: Youth Congress nationwide protests challenge education system collapse under Modi government, media gives cold shoulder? - SabrangIndia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTgwNk92RHBpWUxXUkdnN2NSQTlLTXZEQ1d5ZGl1djBhVWdTYUF5MTNDNDFONnZjM3BaRmNvRUJtbDFLTnJVUm9KRTJUb1MzVEhJZFd1WFpuekJsU2NzbG93UUFDNFhOd3M0Uk5CVm9wT0tic2VqUkhadXBBRTltclVjeC13c1UydXoyUkN6UlVxYXFLWEdNTHVvejJHZUxZVVdMck9TWWpOd0pDNENRR2o3b0d1NTRpbmJBa3NkRy1SSjZIc21laGtXNnUyV2RBR0ttLWNKcWVEZEtQc01WMXBjQlpOdmJGQ1VrSA?oc=5",
+          "time": "21h ago",
+          "body": "May-June 2026: Youth Congress nationwide protests challenge education system collapse under Modi government, media gives cold shoulder?  SabrangIndia",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "May-June 2026: Youth Congress nationwide protests challenge education system collapse under Modi government, media gives cold shoulder?"
+            ],
+            "tldr": "May-June 2026: Youth Congress nationwide protests challenge education system col"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1780984133301",
+          "title": "Sensex Gains 55 Points, Nifty Dips Marginally as Markets Trade Mixed - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVR0NllkRVZZOFBqazIxcllkWEpOckVuTUo3VHFDeWxnZ01CQm5wby10TkhfbHE1aTFrYjVDX01FMVYzTGpTZGNDZm56UG9QTmdMeGNkbkRhN3FVcVI5aFpLN1BoYkdHRmJ1QTRDaV9sVUp6eUdmUWJ4QnRSN0dTWUJHQTJHMHRKS1JDYmItUQ?oc=5",
+          "time": "5h ago",
+          "body": "Sensex Gains 55 Points, Nifty Dips Marginally as Markets Trade Mixed  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Gains 55 Points, Nifty Dips Marginally as Markets Trade Mixed News On AIR"
+            ],
+            "tldr": "Sensex Gains 55 Points, Nifty Dips Marginally as Markets Trade Mixed News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1780984133301",
+          "title": "Sensex jumps over 300 points at open as markets rebound after Monday's selloff | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaEtEMzBiMXh3Ui15RTRzNmZUYmlpUGg2NWEwaDJ3ZmxoMUJmSWpjV3BVdUVnb3U4bkhUdVczX1FBZVc1SFlHZ2tTek1mV3JWSFg4anNkbWJQako3U1VmdkNEZEJLbWE1bnMyQjhLdWE5SXIxQ2ZRVWN1bHVzd2xVNkJaOU5vczJPUkVVaDVnVGtRM0hONTJ1RWlSWVNIUDRiVlplcXlYeXhYX1RSNXEtREphZk9EZ0FNREh5SWpsWnVuQVJGbUp2Vl84RXJOR3c2N1RNZERMWERTYUt3blE3T2JtbUtmQS1u0gHoAUFVX3lxTE5oS0QzMGIxeHdSLXlFNHM2ZlRiaWlQaDY1YTBoMndmbGgxQmZJamNXcFV1RWdvdThuSFR1VzNfUUFlVzVIWUdna1N6TWZXclZIWDhqc2RtYlBqSjdTVWZ2Q0RkQkttYTVuczJCOEt1YTlJcjFDZlFVY3VsdXN3bFU2Qlo5Tm9zMk9SRVVoNWdUa1EzSE41MnVFaVJZU0hQNGJWWmVxeVh5eFhfVFI1cS1ESmFmT0RnQU1ESHlJamxadW5BUkZtSnZWXzhFck5HdzY3VE1kRExYRFNhS3duUTdPYm1tS2ZBLW4?oc=5",
+          "time": "2h ago",
+          "body": "Sensex jumps over 300 points at open as markets rebound after Monday's selloff | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps over 300 points at open as markets rebound after Monday's selloff | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex jumps over 300 points at open as markets rebound after Monday's selloff |"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1780984133301",
+          "title": "Sensex, Nifty end with gains - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XbVRSZzl4MEFVTjBncmpab3UzLXhkdk5WaDFBamlXWUlsMTVtdVpiTXRkaUE4WGdtR2RqTXpvZUhWOVpBX21qckExNVEyazU0N0ZRUDNxV2FQa0NHY1Q4WUM4ZGZDa2libHdaT2VTVQ?oc=5",
+          "time": "8h ago",
+          "body": "Sensex, Nifty end with gains  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty end with gains  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty end with gains  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1780984133301",
+          "title": "Stock markets slump amid weak global cues, surging oil prices; Sensex tanks 719 points - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZjNjQ3R2ZkE1S2tiVnVab3F0MWlOT0J2MVY3b2RqdjY4SkJMaU1WMHFxejZ4R0tWQWJNeEtnajdmVFVLMjZVQmp5RFZQVS1XU0wyblZTb1ZtODJXZGMwQ3ZXLTBKcmFVT0NKX0FJS0liM0xaejVPXzd0NmRxeXlKS2JiOFJzR1FRLTlPYUxMRlNfNHVwb0VoWGd2NTBtbFgwMlFHbEUtc1NQbllTSUJpMzZ3ZXVqZHJWZkpreXNaaXpBZExsemtwd0JKZ1MxVDlDWDlia2t6RWtDSVVIZnRCQW1YS0Y3ME0?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets slump amid weak global cues, surging oil prices; Sensex tanks 719 points  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets slump amid weak global cues, surging oil prices; Sensex tanks 719 points Deccan Herald"
+            ],
+            "tldr": "Stock markets slump amid weak global cues, surging oil prices; Sensex tanks 719 "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1780984133301",
+          "title": "Wipro To Eternal: Top Laggards Behind The Stock Market Crash Today - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3FSWXF6TlZhMTZCeW1xN1lPZDJvdkdjVm1zQ2ZfQzdOQWZuUFFOVkJuZS1JOXRhX3NTS016VGtQZW5pNzg1QWduSXdtdUF3aTdCdHZ1a3h5NUg5UkxheVd5a2EzeFE0aW94aXQzbTRsOG5ZUnhobVdUeWlNMUw5Rk9JTWdEMURCa0xnM0FZNnVkU2Q4NWpMZUMxQi1tRU1ubGpOY3lVVEszY1VRZHfSAbYBQVVfeXFMTVJNRTBjOWlPdFlHY0RZaThiWWpBVGhpWWh4QkFmY1FSOXgtc2xZVndjakhEckFIdlFqYnBucFJxQS1Rdmp4bDAyeWRfek1jYTNqRmxwZGhEeXF0UlZqMzdwekVUT3ZHY2Fwb0sxZ1dMNWw1RHJWTUhGd1hJYmRDLUV3R1I3TjNmYVctNVhBWnF0WFY5ZDlNZ1NOOTJpNGpWa2R2YlVwX0JaS1YzbGRjd3BaTGtVc0E?oc=5",
+          "time": "19h ago",
+          "body": "Wipro To Eternal: Top Laggards Behind The Stock Market Crash Today  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Wipro To Eternal: Top Laggards Behind The Stock Market Crash Today NDTV Profit"
+            ],
+            "tldr": "Wipro To Eternal: Top Laggards Behind The Stock Market Crash Today NDTV Profit"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1780984133301",
+          "title": "Domestic stock markets end with modest gains - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mQmVMOVctU3RVaUFWOFZNcGlDYmZCUTdUNU8zbC1rMlh6YktjSTg0Vmx5OXhwYkkwcDNvdjdSM2FxVUJNTGt0dTF3SkprM21HZFlBemV2aFNEbU5OM0UwMU1kazBLYjNFNmhXT2xjSGZMRnRNZnNCRU1uODFQdw?oc=5",
+          "time": "8h ago",
+          "body": "Domestic stock markets end with modest gains  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Domestic stock markets end with modest gains  News On AIR"
+            ],
+            "tldr": "Domestic stock markets end with modest gains  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1780984133301",
+          "title": "Stock markets slump tracking sharp fall in global equities - The Siasat Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEZ2bTcybUtnM0xPNUkxLTlTaGU1TUJOTGJVajZ0WHpmQW55ZFI4SlRvWVNRbDRnUGRDZnFYaFh2MFV1UkpfSFFiMk4zcHlVUXRCcGFFdlc2dElaUWJoUVpQbnVLbUF6Y2tKckZSemVMNmRYRW5ndkZXUDdidGVwLXV1amU1ZWRJc2I3YjJqTk0xVGNrVmRRbmpn0gGaAUFVX3lxTFB0RnZtNzJtS2czTE81STEtOVNoZTVNQk5MYlVqNnRYemZBbnlkUjhKVG9ZU1FsNGdQZENmcVhoWHYwVXVSSl9IUWIyTjNweVVRdEJwYUV2VzZ0SVpRYmhRWlBudUttQXpja0pyRlJ6ZUw2ZFhFbmd2RldQN2J0ZXAtdXVqZTVlZElzYjdiMmpOTTFUY2tWZFFuamc?oc=5",
+          "time": "23h ago",
+          "body": "Stock markets slump tracking sharp fall in global equities  The Siasat Daily",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets slump tracking sharp fall in global equities The Siasat Daily"
+            ],
+            "tldr": "Stock markets slump tracking sharp fall in global equities The Siasat Daily"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1780984133301",
+          "title": "Sensex falls 719 points, Nifty drops over 1 pc as West Asia tensions spike - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEtYRjc3U0llNHRwTnozVXBTV05lZHZRbE5qZFBjZkZYbkNnY08zeEpkOGktSzZ2TXRaMW5DVGFieU9OTnNiTktZYy1QZ0Z2eUZTTDI4ZnloMno5aTJYQVJVVUpXQXYtdGpRLTBjOEZRdnRkcnAzZHF6QjVaQUd0QU9UMHQxWWJhcGd6QVZCZFNya3RNMk1panE5NFhvNUk4Y1RMa3RkclA5UEVMTFHSAbsBQVVfeXFMTjBRSkstOTFQVkhmSlY2RGV6SXBYem5iM1BpemNMSDVyRUZtakV3TXN4X0ZyVTRFb3laMlBiU1lGWjhrOGlaQlhGR19NVHFTdlI3ckFqWlJtXy1SSTFaS0pFTm4wSUtkU1hldE1rRGZUQmh3NUJIbU1vZ0JSR2ExbE05bGNYRzZzNVNaVGR3LUo3RW1YUXlYemNNSlZWaHRGOGItLTZyaHJoY29HVjdTdGVsUTZqMFNUNVVaTQ?oc=5",
+          "time": "19h ago",
+          "body": "Sensex falls 719 points, Nifty drops over 1 pc as West Asia tensions spike  DT Next",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls 719 points, Nifty drops over 1 pc as West Asia tensions spike DT Next"
+            ],
+            "tldr": "Sensex falls 719 points, Nifty drops over 1 pc as West Asia tensions spike DT Ne"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1780984133391",
+          "title": "Various INDIA bloc leaders address press conference in Mumbai - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ09uTXdTeWFCOEZzNm8yYjYwZzFwTk0tWHJNSVJQNXVKYWxSQjNOUWJUdnhNZnVjeG9wbWg2bFF5U0M0UlEtYkhmUFNRTjM3UTRyMG96YW5kakVFMXBUaThseTZSWUNSLWNYVTZGVlBmeFFjVXpXM2FkUjZ2cHlCX0QzZmQ2ZngtWXBEZWdTU2Q?oc=5",
+          "time": "6h ago",
+          "body": "Various INDIA bloc leaders address press conference in Mumbai  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Various INDIA bloc leaders address press conference in Mumbai News On AIR"
+            ],
+            "tldr": "Various INDIA bloc leaders address press conference in Mumbai News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1780984134730",
+          "title": "KITABOO Unveils Global Advisory Board Bringing Together Leaders from International Publishing, Education, and Technology - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUWllOHBWb0JZdEh3VlBfTXV6Ty13cnV6SFNrRk9fcEVRUG42eElHdkdwTmw2OHNXdVVRTERvbE1ydzVTdmkxZC1JeUpkdnJoYUszTlkxZ1Yzc3VRZ3NFWXF5YWdraE5FeW5uZ0tfVWRzLXB4RmpfTGpGMHpfeW9CZjdWcHhRYXQyWmpTbHlHaEJZdWVKTjVIYjRnR3lGM1lJbmdFc05MSGdCaExfd19JRVdnU2VqWUdacmFHQnZ1bzg1Z2U2NEhMMXhhaThlNE5zR2FqN3pHZm14LWZ0bHNiVHpOa0h3VUlST3hCVmpJVVJjbl9nM1NQaXQydUlKc1NwZC1hZGlpUnFSbkNpVWVGalZYRXlqSWhKMWNOZjFMOUFpc1lDaUJDeDRaONIBqwJBVV95cUxNUWllOHBWb0JZdEh3VlBfTXV6Ty13cnV6SFNrRk9fcEVRUG42eElHdkdwTmw2OHNXdVVRTERvbE1ydzVTdmkxZC1JeUpkdnJoYUszTlkxZ1Yzc3VRZ3NFWXF5YWdraE5FeW5uZ0tfVWRzLXB4RmpfTGpGMHpfeW9CZjdWcHhRYXQyWmpTbHlHaEJZdWVKTjVIYjRnR3lGM1lJbmdFc05MSGdCaExfd19JRVdnU2VqWUdacmFHQnZ1bzg1Z2U2NEhMMXhhaThlNE5zR2FqN3pHZm14LWZ0bHNiVHpOa0h3VUlST3hCVmpJVVJjbl9nM1NQaXQydUlKc1NwZC1hZGlpUnFSbkNpVWVGalZYRXlqSWhKMWNOZjFMOUFpc1lDaUJDeDRaOA?oc=5",
+          "time": "11h ago",
+          "body": "KITABOO Unveils Global Advisory Board Bringing Together Leaders from International Publishing, Education, and Technology  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KITABOO Unveils Global Advisory Board Bringing Together Leaders from International Publishing, Education, and Technology Business Standard"
+            ],
+            "tldr": "KITABOO Unveils Global Advisory Board Bringing Together Leaders from Internation"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1780984134730",
+          "title": "Treefe Highlights Aindra AI as a Rising Force in India's Artificial Intelligence Revolution - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdXhkSEtTOVdsaXFQYW9LTE9qRVdBYzhma19wOTFwQ1pCZVhDWmZndktIMlFsczdUQS16czg5S3lobnJyZkZ5VjBHRVVoYXR4RkQxbGJ1Y2hMRTdTMWVwczNKNHFkVFRhVTdZWGhaSGVFNFB1eS1iUU1qNUU1cTl6R0gwb2lwY3pjSmtKdUlNMjdibG1IUzFfTWZCR2NNLVl4VXpGTVBCdzBLN2ljSGVFQ2xEbi1Ub2xzczBEQWxiUWJjeHliLXJnektoUVQtdGs?oc=5",
+          "time": "17h ago",
+          "body": "Treefe Highlights Aindra AI as a Rising Force in India's Artificial Intelligence Revolution  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Treefe Highlights Aindra AI as a Rising Force in India's Artificial Intelligence Revolution The Tribune"
+            ],
+            "tldr": "Treefe Highlights Aindra AI as a Rising Force in India's Artificial Intelligence"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1780984134730",
+          "title": "COMPUTEX 2026 Concludes Successfully as Global Innovation Shapes a New AI Ecosystem - irishsun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXd6cEltMnFieFZFdEJ4aUhDQUNuVEF5VkVjNms2ZFVPWDdHbmdzU09OMUtXZ0M1cExjdEUySG1BdWlqMVh6NEp0N3ZQNC1BcllXRjdjTXJfSnFjdHFUSExqdjNadS1JV2RtRHZmcWJRdU5OMS1Fd3Iyb0lZLWtrMXBvVTFmb0hLYzRzU052dDBLWEhtMWc5TXVoaXg3TEQybXhHZVZOdDhDMFU4a3U2eVk1aXlCNkxMcjdhVXlNR3Y?oc=5",
+          "time": "18h ago",
+          "body": "COMPUTEX 2026 Concludes Successfully as Global Innovation Shapes a New AI Ecosystem  irishsun.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "COMPUTEX 2026 Concludes Successfully as Global Innovation Shapes a New AI Ecosystem irishsun.com"
+            ],
+            "tldr": "COMPUTEX 2026 Concludes Successfully as Global Innovation Shapes a New AI Ecosys"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1780984134731",
+          "title": "PR Newswire Signs Affiliate Membership with PRCAI to Strengthen India's Communications Ecosystem - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNmdPb0QyMXlOSGlqTHh5ODdHajlJMDd0Y0c0elFuT3RMUTdndWI3QUlYV08teGlqbTJab3hEQ2pMdHl5R3hhQlFPNEdhZUtzcE9jdEFldWFkLVdxUjNOZHFKTlZMYTJldDVVeWVRd0pLZHZwZjZCUmVRNENVWVdXUjRsemZqQXBubm82anJUbGpfNGd4S2JtNmliQS1lQUYwQjZTM2tXT2Y2R19WazZFQ3hSS1FaV2dZbkZfQTVydzlNWE5tUkdJQmtqYk1FMzJNT0lGdC1yMl9OWVFVTmh5T2VDMnA3UTBiS1UwQ1RtbXFPem1KTGFfN3BoRUtxVDlOU0xuRmFJdURQS01HM1HSAY4CQVVfeXFMUDZnT29EMjF5Tkhpakx4eTg3R2o5STA3dGNHNHpRbk90TFE3Z3ViN0FJWFdPLXhpam0yWm94RENqTHR5eUd4YUJRTzRHYWVLc3BPY3RBZXVhZC1XcVIzTmRxSk5WTGEyZXQ1VXllUXdKS2R2cGY2QlJlUTRDVVlXV1I0bHpmakFwbm5vNmpyVGxqXzRneEtibTZpYkEtZUFGMEI2UzNrV09mNkdfVms2RUN4UktRWldnWW5GX0E1cnc5TVhObVJHSUJramJNRTMyTU9JRnQtcjJfTllRVU5oeU9lQzJwN1EwYktVMENUbW1xT3ptSkxhXzdwaEVLcVQ5TlNMbkZhSXVEUEtNRzNR?oc=5",
+          "time": "23h ago",
+          "body": "PR Newswire Signs Affiliate Membership with PRCAI to Strengthen India's Communications Ecosystem  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PR Newswire Signs Affiliate Membership with PRCAI to Strengthen India's Communications Ecosystem Business Standard"
+            ],
+            "tldr": "PR Newswire Signs Affiliate Membership with PRCAI to Strengthen India's Communic"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1780984134731",
+          "title": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb2tER0FVWnFFbnZLMlkwM0wwZGx1RlRxV2FMRlJCSF9LRmNpcTA4QndNaGtKbXFvcXpDNzNXUlpkbHNUb0IwQVhIc195QkpKT2s1dWVYRVlFR21MT3dwQ3p5eUxIR01ja3JZWnp1eURLUjJheFN2NFNFTV9LTVVTb0dXeEVDcFZ2aGRsdFc4dHRFV0I2eV9KNlpxbTRIZTNlSnVMUlFKTEdSUjJFbEJNczV2RjBKekhhLV90UmdZcWxIZkZjblF3Q0VJWENCbER2Rm5zTS1tbWFINzBSOFRpbld2MDM?oc=5",
+          "time": "23h ago",
+          "body": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services Authorization The Tribune"
+            ],
+            "tldr": "Softcell Technologies Global Private Limited Achieves Zscaler Delivery Services "
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1780984134731",
+          "title": "Global Enterprises Face AI Scaling Crisis: 77% View AI as Board-Level Priority, Yet Two-Thirds Rely on Legacy Infrastructure - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZVdFaFU4cUtaNHNfRWFoYXdheG8zR2drLUxBQVFjSGJsVDUxS2x3b0hKSlJrNU9nSTd3UzVDVW5vbUU2OUw5elVrSTVxTmQ3ZW5PaU0tbWJ4WlVzeDhKMEZxcVJfMHlOelhWYVc5WkQ4LVJPRmdUeUNzMThuQ3hBVldQN01SUE5rbXhmX1J0alBjQjd4UXN6UlRZUi1obXpOWFRKNzlSeDc5b01rUVZkc05HYXN3NkUwQWtWTmtJQ3AtZEpRY0UwQWVHeW5uaFN3MUFTSHVhWGF4NTE3WDNVUzI3X1BmQWZrbWVDdmFZVENUOUVEbUFIV21wUVk?oc=5",
+          "time": "16h ago",
+          "body": "Global Enterprises Face AI Scaling Crisis: 77% View AI as Board-Level Priority, Yet Two-Thirds Rely on Legacy Infrastructure  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Global Enterprises Face AI Scaling Crisis: 77% View AI as Board-Level Priority, Yet Two-Thirds Rely on Legacy Infrastructure The Tribune"
+            ],
+            "tldr": "Global Enterprises Face AI Scaling Crisis: 77% View AI as Board-Level Priority, "
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1780984134731",
+          "title": "Rodic Consultants Unveils Sovereign AI Ecosystem for Infrastructure Delivery at Digital Construction Week... - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRnlvaTVYc2o5d3VBay1LZGF6VkVqWkFSV2Z2bHl0V1NsNWF3OUtsVDdSem1RMVRMazVTa1pQdUtqRE1JcTViQUxsMHd4Zl9RU01BV0pDS28yVGNTQ0Y5enFuMUlVby1yaWs2S2xVTjJCUDdtODRMY2hROXliX2dJYUtiMTdMbV9FY0hwTlBQMzM3aWs0c2JSbXB3ZFVoXzJSQlplN2t6YWEtTDJmZGVqV3Exc094SFJfMWlzdlJJcEY2OWo2Vll5TWl4VldnS2VfckprR2UtSWxKR1cwa010RldvdkFZYkh1YWV30gHwAUFVX3lxTFBJbTF2VC1ISXhIOU8zWm55QzhhN2hVVWw2aGlrWklKN0JjRl9UZ0kwS0hfb0tUSHNvZ01ORHN3X3BZY2JZYUdXdDFEa2hOQkpESXBJMUY4S1Y0QVVqUTFqQ3l3djVocWM4Sk02cExOeVc4aFJld3padUM0WnNGUjdMMzlfcGZvZWRKa0ZLVVdrLW9EdS11eUZqekJsc3Z5VzRTcG5ackt5VlM3c0J4dFZPMUV1NURULUFqRzZndDhVb2Q1RmZLaW5uaUdzakI0cndVcXhGcktBbWU4SDk5aFRyRWcxb2FCeVJnNGphbktQaw?oc=5",
+          "time": "19h ago",
+          "body": "Rodic Consultants Unveils Sovereign AI Ecosystem for Infrastructure Delivery at Digital Construction Week...  lokmattimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rodic Consultants Unveils Sovereign AI Ecosystem for Infrastructure Delivery at Digital Construction Week... lokmattimes.com"
+            ],
+            "tldr": "Rodic Consultants Unveils Sovereign AI Ecosystem for Infrastructure Delivery at "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-politics-5-1780984133391",
+          "title": "I’m kabbadi player not a chess player: Bhujbal after being denied RS nomination - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeTI5RVVjVm1ZNjJDc2lZUVAxNk80bUdPcThxNmRZQWJYUWcwUE9WMWdaajZGWDBwUlBWRHV0blFNb1MtbDFJMUVrVlRGT3dXbVB4QnMyQ2RMd1p1YVprQTVLalh5T1JqOGVJQ196d0FWc1pINmR4YVVQTlpJMDNFMFotS1pGZk5TMUVLRENLWC04X1NobmpxUVhHZGdOUnpfYmdOV3dLWUNkOW93X0ZESHo0ckVTYVdScDR4STM0VmhoUkticVFOYk81dUxsVEFqTGN2djI4bnZrczc1OHlUT0VWdmZSUdIB6wFBVV95cUxQWG1LZU40ZHVUVEQtNjYxdURBYVpSaC1FaWFoRVpTYV9sTWVfSzVvUzk4UlhVSS1mcUc1NlZzUjNyeUJNU2E3cVZZb3djOXJzaTR0RHFKbEZCTlRHRDZhZi12WHdCYkIxeVpiUTd1eTdmSWJwYUhkd3ZnMUtqa2J2Y3RmQlJjdkJPalA4UEVOd0tWYWFKUzlDY1BZcXBKeDJyVXU3QlpMdE16NFBJNi1XMERMWGJOTm9DRTZZLUJDSndmVlBaaGZnanVUWGJGZmhwLUNsWFVGWjdFSWZ0NElPaW10emZwY0RDd0JJ?oc=5",
+          "time": "15h ago",
+          "body": "I’m kabbadi player not a chess player: Bhujbal after being denied RS nomination  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I’m kabbadi player not a chess player: Bhujbal after being denied RS nomination The Times of India"
+            ],
+            "tldr": "I’m kabbadi player not a chess player: Bhujbal after being denied RS nomination "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1780984133391",
+          "title": "'Not upset over being denied Rajya Sabha poll nomination; I'm kabaddi player, not chess player': Chhagan B - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdlE3N01LOW1zZFY2MDZHZnZ5YXktbVdZbENSZHBITHkyZS1Na0NLTDFyU3RaQjROZGh1amZIOWJfWXVYaHpMY3pTQ3hyUHVQZmgyRDFha0RxSS1EWlZCWm43RnN5aVRfT2lIVkxkS1ZBYUdrbVoyemFETnJVRmEyNWsxMXF4RkhBeHBQTmlVNm5JQl9jTnBsaFdkUTdtSXVQRmZ2V1dGTmdEbko4T01XaDN4NVVUQjBUYWVzd1pzWGx3bFNLSFdMQ3QtUjR0TUdJZEMxUnhjNWR0T3BCNWNCVjlNUW8tUTRzOXhBVjBIY2VMT0xFdWlic3cxaHhabjF3cWdMUkFKNFFzYmFWQXdrTTd2S3ZmRERN0gGYAkFVX3lxTFB2UTc3TUs5bXNkVjYwNkdmdnlheS1tV1lsQ1JkcEhMeTJlLU1rQ0tMMXJTdFpCNE5kaHVqZkg5Yl9ZdVhoekxjelNDeHJQdVBmaDJEMWFrRHFJLURaVkJabjdGc3lpVF9PaUhWTGRLVkFhR2ttWjJ6YUROclVGYTI1azExcXhGSEF4cFBOaVU2bklCX2NOcGxoV2RRN21JdVBGZnZXV0ZOZ0RuSjhPTVdoM3g1VVRCMFRhZXN3WnNYbHdsU0tIV0xDdC1SNHRNR0lkQzFSeGM1ZHRPcEI1Y0JWOU1Rby1RNHM5eEFWMEhjZUxPTEV1aWJzdzFoeFpuMXdxZ0xSQUo0UXNiYVZBd2tNN3ZLdmZERE0?oc=5",
+          "time": "20h ago",
+          "body": "'Not upset over being denied Rajya Sabha poll nomination; I'm kabaddi player, not chess player': Chhagan B  The Economic Times",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Not upset over being denied Rajya Sabha poll nomination; I'm kabaddi player, not chess player': Chhagan B The Economic Times"
+            ],
+            "tldr": "'Not upset over being denied Rajya Sabha poll nomination; I'm kabaddi player, no"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1780984134902",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "1h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1780984134902",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "3h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1780984134902",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "2h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1780984134902",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "2h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1780984134902",
+          "title": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYU5yV3Fhdi1qd0xYLXhjR2JWZFVRb1NTc3lNdjJ3Z21FUF9la2ZRNUhQOEU5WTdkeXRQMnI3YjYyNjRTdXBTYkVHcjdvQmc2QnA2STRXbnk3QUtNZ3N2WkdUMmNrcEk4Q1dpek40bTlJVzR0bGlPLS1aZ2dQazl1WFNmOVhPMUJFdmVyRDdlcUFGZGlSWHRDR0JuOV96dWFJb0E?oc=5",
+          "time": "2h ago",
+          "body": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1780984134902",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "4h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1780984136209",
+          "title": "K'taka: Confusion over Bengaluru Development portfolio as Krishna Byre Gowda holds back - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWdLdDVoVFZ6ZG1fWTA2X2RZc0tuYzhEdi1LUXJxbnc5VWx5ZWU4WTBabkpUN2JtY3liTE9ZZXdWdDJKRTFGTHd2YXIxNzVXRUFXSzR1LUpySXZzTElZTG4wY2huUURoMFZKT29CRVJsWDdmR1kzdFVaNU1LRFdYamo0MElxTFNfM3o2ak13TmZaRkFWaGlzdWt6MlFXNTlZUzlOYmxDT3dlZmx5Yk1GN3hXemhlT09YUVliMHJBTmnSAcYBQVVfeXFMTzk2TWRsNkRTVDNZNjR6cXBFTkRFNUVYaThrdlRfZXhweFluQ0l6QlNSSlduc2VSRGg4Nk52eDN1Wm1sQTNsUFBaWF81TElNSVRfUEphT3ZrMXBuLXZkRlk1X19FaHVfcXVYd2VzdTh4ZzdQNDh2eUJITk1QZG01OGRGMkxPRmlsZFBCTmdJdTRyNWdMc2RZNE5XS0FiWmo1RVcxcm43bDNrWlZmVEVJMDcyVTJIel9hd090UllqVXVoRXMyOXFB?oc=5",
+          "time": "17h ago",
+          "body": "K'taka: Confusion over Bengaluru Development portfolio as Krishna Byre Gowda holds back  lokmattimes.com",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "K'taka: Confusion over Bengaluru Development portfolio as Krishna Byre Gowda holds back lokmattimes.com"
+            ],
+            "tldr": "K'taka: Confusion over Bengaluru Development portfolio as Krishna Byre Gowda hol"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1780984136209",
+          "title": "BKC Car Free Fridays: Are Private Cars Completely Banned for Office-Goers? - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU9oSUxUNU1zcmpULWNGYXhjN1BYU1hGaEtWeGR5TDBoRm8zUzhZQ2hRa2h3dVJZdzJHRzgzdXRNQTVZVGhrSW9jdF9ENUNtanRxRU5ZS3FkODFBOHJLY0FjY3FNLUhXdmRhSUhoWEVfUTBraUljSnkzRE9PbTRvTFlRMjhxSE9JcjdidDJwaUxud1dyN1A5ckdkaUlPU1g4cU1FbDk2bUQ4cXJDaW13S0swbzFnVDl6czBYLTV30gHDAUFVX3lxTE9CaDl3cm1TYXdaQVE1aWx1Rmp2NHpkLVVCOUpmQjNWQnZGRXZsWS14NGQyVjNCc29nQV9TbHZtbzZLcko2UXNPOExhcldDVVFLMFhHYWhCaWZjNFYwZHRHRDQ0NXhWQWNTbG1kVmp1N2pETVJvaHg5allZMGlHUEcwZ0thbmhVVTVJRmQ0T0VkV0Y1UG9qTk0yQXlKZWhtNUVlQ1VfcDFidVMxS2pyTlJoT2dERm5idmxWU3FaSW16Uk1yNA?oc=5",
+          "time": "14h ago",
+          "body": "BKC Car Free Fridays: Are Private Cars Completely Banned for Office-Goers?  LatestLY",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BKC Car Free Fridays: Are Private Cars Completely Banned for Office-Goers?"
+            ],
+            "tldr": "BKC Car Free Fridays: Are Private Cars Completely Banned for Office-Goers?"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1780984136209",
+          "title": "India's steel growth to drive strong demand for refractory materials: Report - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVNpMmZhcWNPUllMdm1sUlk5VFRPLWpaVG9IdktpUEh1M3h2algxRXhOZ3lNX01KS2h6MXR6NkRBQVJDMHU2d29SOFJDcW9oUDBSMEEyeVZsbVV0N09TRUx4ekJRVEpYOEJpRVhEbVpqaEdMX1FsUldZck5WYVppZFE0LUNESHFIbDhNSEF3TUtIS1VpRmR5d3J0RmpKWTFZQnJSRGFMQ0RHMjFRa0I5VNIBtwFBVV95cUxORmpGVkw5ZFFDRUZ6TXdRaWp4LTF6T29DNVgyUDFYSHliV0ZBZ2JsZHBPLVFfYXJmT0t2d3hUM2RNZjAwQzQwVmpaNUh0YWg5QnREcHBPZ1ZtUFp0bmNmdzVNYlV3V3ZJcnUwUEdoNUNwLXpQeWJidXB1b09XTzV3Smh5UXR4ak1PWWJoaDlVRVNWVV9VX1c5ZEFHaG9SOVFuUE13Q0FsNm83S21qekRIS184cHhVTms?oc=5",
+          "time": "18h ago",
+          "body": "India's steel growth to drive strong demand for refractory materials: Report  lokmattimes.com",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's steel growth to drive strong demand for refractory materials: Report lokmattimes.com"
+            ],
+            "tldr": "India's steel growth to drive strong demand for refractory materials: Report lok"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1780984136044",
+          "title": "42% say immigration benefits Canada despite concerns over levels",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "19h ago",
+          "body": "42% say immigration benefits Canada despite concerns over levels. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "42% say immigration benefits Canada despite concerns over levels. [object Object]"
+            ],
+            "tldr": "42% say immigration benefits Canada despite concerns over levels. [object Object"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1780984136044",
+          "title": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]"
+            ],
+            "tldr": "'Where do you think I am from?' Indian-origin man counters racist bullying in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1780984136044",
+          "title": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]"
+            ],
+            "tldr": "Indian student fights for life in Chicago after 25-ft fall at subway station, fa"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1780984136044",
+          "title": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "He feared he couldn't compete with AI: Indian family dumps American Dream, leaves US after tragedy. [object Object]"
+            ],
+            "tldr": "He feared he couldn't compete with AI: Indian family dumps American Dream, leave"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1780984136044",
+          "title": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for narcotics dealing. [object Object]"
+            ],
+            "tldr": "Indian man Lubana Singh added to list of 'Worst of Worst' criminals in US for na"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1780984137506",
+          "title": "Vice President Jagdeep Dhankhar to visit Chhatrapati Sambhajinagar, Maharashtra today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGl6WUhfY0U2bGxOdGZtVEdCd0xYMW5Yd2c2bmdPMmNHWkNsWUZxZU5PVU5nSHJYTWlmYTJyQ0R4eTRkeFpOODdUSXRyWXROOHFaWDNGM2xqMExwWXMtUVprY1h0MmpZRDBoLXUtbjRmYTFTVk0ydlV3YVJoV0hsVEZoenNESmZ3UlRCQ1p2RXRSSGN6Wks0T2t3aDkzU3hZenRqcjJaWktyRldIbWtF?oc=5",
+          "time": "15h ago",
+          "body": "Vice President Jagdeep Dhankhar to visit Chhatrapati Sambhajinagar, Maharashtra today  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Vice President Jagdeep Dhankhar to visit Chhatrapati Sambhajinagar, Maharashtra today News On AIR"
+            ],
+            "tldr": "Vice President Jagdeep Dhankhar to visit Chhatrapati Sambhajinagar, Maharashtra "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1780984137506",
+          "title": "Maharashtra hotel denied stay over 'Kashmiri identity': Jammu and Kashmir BJP functionary - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbGNnd3N0NFE1YmJRQnA4TVA5NWNScFRSQXJJcy1OSEdaRHdPdEJlRXBhaEExWFdiaENBUkF4RDR1bVYzOGRhOGsybGFTYllPSWtKSm9kN3FXeGRTTWc3QXNTUmlEbWFnX3g4TWpJQmhMVV9RV185cW55Q21fT2Q5bmE4X0lyUkNBeU5XSk5zZGQyellzbWU1cEFtR1E5eXZHaHU2cXFhMW5HeHVwb2M5SFRlbjR1TlFGZ0Z0VXpJZFFKY2xMbGt1aTdHR1NtMDZPNUVlaWxKLTBuZFltcUFfbG5UdHNLd1FwTlRXdnM0ZFplamlV0gH0AUFVX3lxTFBsY2d3c3Q0UTViYlFCcDhNUDk1Y1JwVFJBcklzLU5IR1pEd090QmVFcGFoQTFYV2JoQ0FSQXhENHVtVjM4ZGE4azJsYVNiWU9Ja0pKb2Q3cVd4ZFNNZzdBc1NSaURtYWdfeDhNaklCaExVX1FXXzlxbnlDbV9PZDluYThfSXJSQ0F5TldKTnNkZDJ6WXNtZTVwQW1HUTl5dkdodTZxcWExbkd4dXBvYzlIVGVuNHVOUUZnRnRVeklkUUpjbExsa3VpN0dHU20wNk81RWVpbEotMG5kWW1xQV9sblR0c0t3UXBOVFd2czRkWmVqaVU?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra hotel denied stay over 'Kashmiri identity': Jammu and Kashmir BJP functionary  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra hotel denied stay over 'Kashmiri identity': Jammu and Kashmir BJP functionary The Hindu"
+            ],
+            "tldr": "Maharashtra hotel denied stay over 'Kashmiri identity': Jammu and Kashmir BJP fu"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1780984137506",
+          "title": "BJP leader from Jammu and Kashmir says he was denied hotel room in Maharashtra’s Chhatrapati Sambhajinagar over identity; owner refutes claim - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZUFMcGRyUDhtUEpKc0NrNUp1aTBQRXlEMjI3ZnVJVEd0U01PWmRreXNnWFY4OTFDME5rQmFvRDVLdW5iTzlIWTR2bXhaaFd4M3ZVaDVqdjRfOWZ1bmJnTzc4NlFYNm5PTXBOTzh1Uy1fTXY3eUc4bFlHcGU2OHBDVGVvSGVfbXZGT1VjSERhUm9fV2FEVWFicUtmXzdDbGRMZzJPb2VZZHJ5aEh2U2FTNTlpcVFZMU90TUMxTk15MzhTaFl2bjQ2allJa2xJSElBbm1LemR3MUMwTHlEdlBkVEU4T2ozaTF6NzRVN01CcllsYWVRM3NPM0t6WEsxRVBoVnFDVGlCZGdoVElpc3I5aUpucVU2cGFDNDVLdFoyYWdnT2RtQ2tSN9IBqAJBVV95cUxOZUFMcGRyUDhtUEpKc0NrNUp1aTBQRXlEMjI3ZnVJVEd0U01PWmRreXNnWFY4OTFDME5rQmFvRDVLdW5iTzlIWTR2bXhaaFd4M3ZVaDVqdjRfOWZ1bmJnTzc4NlFYNm5PTXBOTzh1Uy1fTXY3eUc4bFlHcGU2OHBDVGVvSGVfbXZGT1VjSERhUm9fV2FEVWFicUtmXzdDbGRMZzJPb2VZZHJ5aEh2U2FTNTlpcVFZMU90TUMxTk15MzhTaFl2bjQ2allJa2xJSElBbm1LemR3MUMwTHlEdlBkVEU4T2ozaTF6NzRVN01CcllsYWVRM3NPM0t6WEsxRVBoVnFDVGlCZGdoVElpc3I5aUpucVU2cGFDNDVLdFoyYWdnT2RtQ2tSNw?oc=5",
+          "time": "18h ago",
+          "body": "BJP leader from Jammu and Kashmir says he was denied hotel room in Maharashtra’s Chhatrapati Sambhajinagar over identity; owner refutes claim  Mid-day",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BJP leader from Jammu and Kashmir says he was denied hotel room in Maharashtra’s Chhatrapati Sambhajinagar over identity; owner refutes claim Mid-day"
+            ],
+            "tldr": "BJP leader from Jammu and Kashmir says he was denied hotel room in Maharashtra’s"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1780984137506",
+          "title": "BJP’s Kashmir Leader Evicted From Maharashtra Hotel, NC Calls It 'Politics Of Hatred' - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUpuR1ZCRXppR2hBQk9icF9BNmVNTG5sTGhDSUdCa1BZVHlHZkNXY3hsanNRaUQtc1hwa2NkeUZYVWwyak05WlNDcnpaUWs1ZXRSbGF2NmwtMWJjdlE1N3duaF9mMHRLODhDTFYzazNDTjJUNzVvQUFtYkZjT0dUS3JILXFNb0hxYlI5UDRPLVAwQjAtTWsyYnlIWnZGR0VpR2JkSExHdHJaajlhYTBVcmo5Yi1UdFFXd1I4NlpseHc5T09wU2lkeDhiQjB2SGlsc0HSAdIBQVVfeXFMTkFKbkdWQkV6aUdoQUJPYnBfQTZlTUxubExoQ0lHQmtQWVR5R2ZDV2N4bGpzUWlELXNYcGtjZHlGWFVsMmpNOVpTQ3J6WlFrNWV0UmxhdjZsLTFiY3ZRNTd3bmhfZjB0Szg4Q0xWM2szQ04yVDc1b0FBbWJGY09HVEtySC1xTW9IcWJSOVA0Ty1QMEIwLU1rMmJ5SFp2RkdFaUdiZEhMR3RyWmo5YWEwVXJqOWItVHRRV3dSODZabHh3OU9PcFNpZHg4YkIwdkhpbHNB?oc=5",
+          "time": "19h ago",
+          "body": "BJP’s Kashmir Leader Evicted From Maharashtra Hotel, NC Calls It 'Politics Of Hatred'  ETV Bharat",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BJP’s Kashmir Leader Evicted From Maharashtra Hotel, NC Calls It 'Politics Of Hatred' ETV Bharat"
+            ],
+            "tldr": "BJP’s Kashmir Leader Evicted From Maharashtra Hotel, NC Calls It 'Politics Of Ha"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1780984137506",
+          "title": "Taste of own medicine: NC mocks BJP after J&K leader denied hotel room in Maharashtra over Kashmiri identity - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSHZpRXBsUW9hNHJvZExHeFZQVlBBbEZ1YU1xenB0cXdtUWJVV1IyX1NsX0tydE5rMEN5Q3lqOWxuMmtiNER2T1d2X21mMnpCZldEZ1B6a3otUncycUdWVHo4WTZlU1ZXSWRBSWZLQUlibVM1TVUtUENvbmJmTEF1ZzFIYmtQM2d1XzB4Yy1iR1VENkFnNlBRQVpmWFZsOFNkUUJOakgzRVBUM0NvemFRaFJwcXRlVElIYXRUc2d3ckhybjFGbE5mOUx4MVVLMFdFQWQyQ1lNQkZsaldCMkgtWW9uNHJRdUxMNEZlVnln0gH7AUFVX3lxTE9SMHpzN1BsTkliMGtXZTlxbjJxWkJEMldkZmNZU21UR3RjcHRheEdVeDRfZUFsdFZsZ0hlcjRJUkdwVjdYVjRnd2d2cnpSa2FNZnlUS0NpdUhSeVRKd1otSHVKWUZXbHU4OU5lNzc1YjJUOVpHSXJOVkJxYWJIRDVpdGVrVGNUR1BMd09mRV95Vm1aR0dqX2xNVmYxRXNpOHJaYWU3dmtHb093czVLSzEwRExsbENxeWd6MkFWS1V1a0tqWUE5YkY2RnB5MTdZQlI1Z2hLM2tja0toSjZHS0VrcFlpWDFEOUxaRzA0SndQb09NNDE0ZVY5VTRV?oc=5",
+          "time": "23h ago",
+          "body": "Taste of own medicine: NC mocks BJP after J&K leader denied hotel room in Maharashtra over Kashmiri identity  The New Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Taste of own medicine: NC mocks BJP after J&K leader denied hotel room in Maharashtra over Kashmiri identity The New Indian Express"
+            ],
+            "tldr": "Taste of own medicine: NC mocks BJP after J&K leader denied hotel room in Mahara"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1780984137506",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1780984137506",
+          "title": "‘We Were Refused for Being Kashmiris’: Kashmir BJP Leader Sajid Yousuf Shah Alleges Discrimination at Maharashtra Hotel - theobserverpost.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSkVNdV9URHhIRkwxRERBb0x6cHlLVk9qSkREWmJJRVVUVTRGX1BWNTNkNEFINE4zN25WVWxRWE5QMjh5X2kyS3JIR0FWeHhSNDU2VmZ0bXJ5SHRlSVVGQWZyakIxM1B5SGFrUHF6RDMzLVNfemF5N3ZXdW9SRERTZnBPUFhmbzlFRmJqRzZ3bTdDQzdSMXNybFE4RzRFZ2dlOU1zX3pMZkpoZExVSWJiRnFsRzExOVZXRmFRR0lNcmtuck9mcFMxc3k5cUlETl9nQXp5cnFsbzNtdW43R1E?oc=5",
+          "time": "22h ago",
+          "body": "‘We Were Refused for Being Kashmiris’: Kashmir BJP Leader Sajid Yousuf Shah Alleges Discrimination at Maharashtra Hotel  theobserverpost.com",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "‘We Were Refused for Being Kashmiris’: Kashmir BJP Leader Sajid Yousuf Shah Alleges Discrimination at Maharashtra Hotel theobserverpost.com"
+            ],
+            "tldr": "‘We Were Refused for Being Kashmiris’: Kashmir BJP Leader Sajid Yousuf Shah Alle"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1780984137506",
+          "title": "Was told to leave Maharashtra hotel: J&K BJP leader alleges bias - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2dpNjRFYkRWMWNBOGpCUXYyMjNyanlqcnp1ek9PZlRHTENRQUM0UHVrV0FvMWlWdUNEcUZMNlpGY1pueEhINmx0RFBnUU1LbzVnOXdZd1dITzBDb3A5SV9TcXFKR2VaaFk1Y01NSFJsd1ZRQlloc0xGakQtSkpHek8xVlJXa3Rxd256REJxa1dNWmd3WWVDem9n?oc=5",
+          "time": "23h ago",
+          "body": "Was told to leave Maharashtra hotel: J&K BJP leader alleges bias  The Tribune",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Was told to leave Maharashtra hotel: J&K BJP leader alleges bias The Tribune"
+            ],
+            "tldr": "Was told to leave Maharashtra hotel: J&K BJP leader alleges bias The Tribune"
+          }
+        }
+      ]
+    }
+  }
+}
