@@ -1,0 +1,797 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T06:19:55.523Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1781158789776",
+          "title": "Campaigning intensifies in Maharashtra as political leaders rally for voter support statewide - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUVBNDVXSkZ0MXZTUThPUkdSY1puVmluMkh0Y004ZmZZT2tCTkZZYUctdXNmQ19OSmVJeExsNV92azhpZmRTNEs0WUUxckRyejhjbXlkQkUxbWZTX2JSNWFobXVJWUlra2tKWEpCV3l4U3FtM1J0LXp2OEJNLWREWldHS3ZBZ1docTZZTkk5VlRLQmZWSERJaVNWZ0VfU3hFYmlXWkNyc1VueXc2ZzY3YThPa3JsemNtTk1R?oc=5",
+          "time": "7h ago",
+          "body": "Campaigning intensifies in Maharashtra as political leaders rally for voter support statewide  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Campaigning intensifies in Maharashtra as political leaders rally for voter support statewide News On AIR"
+            ],
+            "tldr": "Campaigning intensifies in Maharashtra as political leaders rally for voter supp"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1781158789776",
+          "title": "Mumbai Mayor seeks SOP from Maharashtra government to tackle fake birth certificates - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQVM1WmF0RFRaTXRmMHRzMmFrR1hyNzlRSHRpX09ia0dBRExPLWptdllKci1qRGR2Q0tOckhvLVJzVUtxSFFPVmwxZ0R2X1ppLUFxYXJidUFWZXdib0p4OWZQV0dfbjNQQnNqT09kMEV3bVM2dXMzbVNUMmVvbGJMdTg0eXAxYWVsNG5pS3pnd1FjbnREX2loR05Wdmx0TUtEMTdaQUVyMWxGSllRQ1FZRDhNNnTSAbsBQVVfeXFMTXBsR2s2ZE5qVXEtbXJHakgwZTBpb3lwN1A1TUM3REpoTzdyTzcwM3RzMDc3LTFjRnJpdTU5UU1MNGFKT0F5Ukh2QlBnRzJRbWw5d19IcGw4ZEt4bENmQ01Pcm9qcklna0VDeGJMV05NUGJ0QjEzLWQtN3JiczFERUIxT2RROEpFWm9SN1c3UG8yM0xHbGVLMk9JVHZodUpyXzV6NkZURXRzb3hCdExrbHhmTGlpQ1M4M3BPNA?oc=5",
+          "time": "13h ago",
+          "body": "Mumbai Mayor seeks SOP from Maharashtra government to tackle fake birth certificates  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Mayor seeks SOP from Maharashtra government to tackle fake birth certificates The Indian Express"
+            ],
+            "tldr": "Mumbai Mayor seeks SOP from Maharashtra government to tackle fake birth certific"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1781158789777",
+          "title": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXVLY0ZoSnFndDlLRkxjTFFxX0tKZkNOakVrZmhYdEVkLS02VGdTZ1VsZUtpRE9wQXNmYmFva3NXZG1QOXJnVHJkM29XZDVRMVZyaWdqbUR1d1N5V0JSbUtOb3FweHRBZkNiTzI1TlB1V3FCZERtQ2FOSUdIRk5RNFZuWVh0eWgxOVoxUXgzTEhXY2NjYmxQRlRoUVk1OHUxenJaejNHYTgwOFhmNVl5d3Q5ZVJnOUpTUTBOU3JkX1k?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News News On AIR"
+            ],
+            "tldr": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost In"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1781158789777",
+          "title": "Cleveland Clinic to develop Navi Mumbai MediCity with Maharashtra govt: CM Fadnavis - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZHRaMlZweEk4ajQwRnhVbm94LTdvWkRUT3lxOWdET1J2UFZOeHVUOHZjNlFaZ3FaQWFhZ19zWW1IQXNLbWlTYVhnWHBEQzNCMWh6Z2hmS2NjUVA1YUp3NExmTDVRbWViNHlTMVJwZkFzNE1ULXlEY2tBa3FiY2NvVlNSRkpMOTVBWEk0YWlhM3dPZmh6YVBoRHBadnlzRWk5YmtSMmNmMU8yQ18yVUZwUXNuQ0pFMWFoYkh6OEh4WHZfcTItVm43WXlmdGFLYVJnV3ZTdWtYWmI2eEFaNzBDd0ZpdHFhWU12S3lXb0FFMTdBRmvSAfMBQVVfeXFMUGR0WjJWcHhJOGo0MEZ4VW5veC03b1pEVE95cTlnRE9SdlBWTnh1VDh2YzZRWmdxWkFhYWdfc1ltSEFzS21pU2FYZ1hwREMzQjFoemdoZktjY1FQNWFKdzRMZkw1UW1lYjR5UzFScGZBczRNVC15RGNrQWtxYmNjb1ZTUkZKTDk1QVhJNGFpYTN3T2ZoemFQaERwWnZ5c0VpOWJrUjJjZjFPMkNfMlVGcFFzbkNKRTFhaGJIejhIeFh2X3EyLVZuN1l5ZnRhS2FSZ1d2U3VrWFpiNnhBWjcwQ3dGaXRxYVlNdkt5V29BRTE3QUZr?oc=5",
+          "time": "15h ago",
+          "body": "Cleveland Clinic to develop Navi Mumbai MediCity with Maharashtra govt: CM Fadnavis  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cleveland Clinic to develop Navi Mumbai MediCity with Maharashtra govt: CM Fadnavis Mid-day"
+            ],
+            "tldr": "Cleveland Clinic to develop Navi Mumbai MediCity with Maharashtra govt: CM Fadna"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1781158789777",
+          "title": "NCP (SP) will be rebuilt with renewed vigour, says party’s Maharashtra chief on foundation day - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPalVMRWMzdWtiVWhEdy1jaHZOdDE5dzVqZF9Gc19uYU02bG8zWjV2ak5NbTdTVnhhWTU5MDdTeWw4X3BhallHdDNMZTlvWjh3S3lFX01MZEx5T3BqdEZnWFNraS1fNF94ZUY2TjBMN3hiZ2dGcGxhRzRMVGRfcnZET3ZpU1Jwd29MMUlCMTNGdWFIc2dvR09LeS1qV0hLbFRQdlE5MndKZUFCR1FMclAxZHg4Z2FNY2VlN0ktM0h1RFpOU2_SAcgBQVVfeXFMUGtkZ3JFN3hFUGFvNzBVUnZRaVNTd2M1bWsyWDZEQ1JVTEhSanRXWVFrNnNKVC1nOVlnMGptdlhpeXJJbXltYWtESHNsVml2cWx5eEFxOTBVbDRVcWVaTlh4Sy1lRlVVTGxDb2pJbDBtd2Y5WGFaa0FDXzQxRV9ENm1uZV9qSzVrelAweFNMcDhsNy1uS3ZLcnZDMlo1SjdyV3R3ZEVOcFBTUGMwMWZ4bmNXODZpa25PenRycXB1VmFGWmREd0VNa2s?oc=5",
+          "time": "19h ago",
+          "body": "NCP (SP) will be rebuilt with renewed vigour, says party’s Maharashtra chief on foundation day  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP (SP) will be rebuilt with renewed vigour, says party’s Maharashtra chief on foundation day ThePrint"
+            ],
+            "tldr": "NCP (SP) will be rebuilt with renewed vigour, says party’s Maharashtra chief on "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1781158789777",
+          "title": "Kalyan’s Buddhabhoomi to Be Developed on Lines of Bodh Gaya; State Plans International Mahabodhi Complex - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVWsyTFhfdXNBOGFZdmx2WnRlbF9TZUdKWXVaaVJ5cURRQnVQejV6T3Bib2owSTMwRGFtT3Zyb3FOOVVZNW9NUWZULWc4aldfSXJRazZmUld6ZDhHUGpVTDQ5dmQ2SDhoZkRReW5iWk80Um9QYllHZXlxUnhKc0FhS0Y0bzM3dGd0clFzNGNITE9yQW5ubC11bTZ4cGJiTC15cmVYSXF1eFdVR08xOGk3dTFsU0phelVtNktWMlpOa2RwV1gzWGl0TlJxYjEyS2Mwa3RJUnBteXlKcVQ5b3RyWjdHeC0wY256VGp6YVNxcThsaXpabzY2dmUtMlFiUC1USTE5ZXpRd9IBjAJBVV95cUxPLTFhSzZPNk9YMURuXzhOdlV0eFllWGc2X0FxOGc4bEE3emU0ZVJTYXgzeFc5SFl0N3RPYzNJQm1BUkxFWlFQcGVRUkZHa2JsTEFiLWE2YlU4RWhFSDM0M1MybUtmT3Bsb2tpOHhUdGZwYmxISi15cW1TLUtydDZwNjZDbTM1Q3dNZjlFalQ2WTBLbHhzekQzM0dkQ0hGRzI1cFVYSzkyQ3B2SGZDSDBJMGdmU3VreVY4aEdKTTkyMFFnY1o3TDk0QUV5S0J5Q2M4NTVORHNwZlJkb2YzQlZIeWhFMXMtcWgxSmpFLXlwNHhmSm9HQjZvM05rMjVGcllMdW9VSE12bmc4Q3Vk?oc=5",
+          "time": "11h ago",
+          "body": "Kalyan’s Buddhabhoomi to Be Developed on Lines of Bodh Gaya; State Plans International Mahabodhi Complex  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kalyan’s Buddhabhoomi to Be Developed on Lines of Bodh Gaya; State Plans International Mahabodhi Complex The Times of India"
+            ],
+            "tldr": "Kalyan’s Buddhabhoomi to Be Developed on Lines of Bodh Gaya; State Plans Interna"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1781158789777",
+          "title": "Maharashtra Government Orders MSEDCL To Accelerate Grid Upgrades And Prepare Future Power Demand Plan For Panvel Corridor - Swarajyamag",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeUI5Q0dBZlk1em9NaVE0YUpnR0gwcTdRTDZmTldRekRjZGY1WEczcWFCUXROOE8wRDAyZ3c1cGNHQkRJekdia19kY1VPR0dzTHNGQVllS3ktc0tYX0VJUG4tdWxUeUdJdWY5OGdQbTBDOUc1VnVHSFI4RnBINU1hX1ZDdXYybnc0NGNYendJYWpWNEZ0dkJ4aFYtSDNwZUhoTFlvY2habnFhTHQxRm1NU0hndGVfRXozcG9GcDNPbFBjU3N5WkVGcjlvTVhLUnF5Nm5YU3RfQXJmRkNwc043ZVJSTlc5cldHeWtNWdIB_AFBVV95cUxPNXJpZnl6U0RKVE1FV0ttdXBrT0pvSGRFZjExNXFveUJoR1dZZnRDSk9yeHhuYW9jZTQ5TUhROFNXRHgwTTJyX3JrQk1TaEU1Zk00ck1pOERXaUE0QjdhaGRGOFRjVFUxdkR3dFlidFBXNWNfSnFwQ3kwdGR6LVNlT0s4YXMyeXVraW1Sdnl0VFN4cFMxUXRQVmxzQ1BjQVVTQzM1c2NkVnVjMEhxM3RVVnFFNDAxQUZWNWxrQUVWRTBVNzZJWHo1SDFLb2hsZmc0UC1TNzhBWnNqUmZlT090OUZRUjJ1UjE1a0YweUhmc09RRFdhcnhiQjA4dlE?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra Government Orders MSEDCL To Accelerate Grid Upgrades And Prepare Future Power Demand Plan For Panvel Corridor  Swarajyamag",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Orders MSEDCL To Accelerate Grid Upgrades And Prepare Future Power Demand Plan For Panvel Corridor Swarajyamag"
+            ],
+            "tldr": "Maharashtra Government Orders MSEDCL To Accelerate Grid Upgrades And Prepare Fut"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1781158789777",
+          "title": "Multiple bomb threats target government offices in Mumbai, Ahmedabad; BMC, NSE, AMC among targets - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYWR0bFNmV05OQTA3NmN0UHllS09SLU94VkUya0VKbUtlZTN0ckplNFdxdmJNOXVoYVJGSjZTWkN6R3p1WFRpOU9FeVc3NzRIdWJMOVc2RjZ3d1FXWVo2eTlJTUtBUXVwdHg1QWN3LU5iTXV1ZlRuTWJGS2pwdlBIaVd1V2dxaWo3QUNCWTBKSmRKdENDeGNNTmk0S0czVEZHSk5OZzUwVXNRUUkyaVljdGJ1Ym9pdWJ6eWkxTW9rQXBSWnNFMlY3Q1FwSEdHNko2dGJKTWlrQ2tYUld1S3A5M2M4QVI0MzhJQWt3ZEJ3?oc=5",
+          "time": "17h ago",
+          "body": "Multiple bomb threats target government offices in Mumbai, Ahmedabad; BMC, NSE, AMC among targets  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Multiple bomb threats target government offices in Mumbai, Ahmedabad; BMC, NSE, AMC among targets ANI News"
+            ],
+            "tldr": "Multiple bomb threats target government offices in Mumbai, Ahmedabad; BMC, NSE, "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-1-1781158789776",
+          "title": "Maharashtra to Build Navi Mumbai MediCity with Cleveland Clinic in $1.2 Billion Investment - Daily Pioneer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVWVlUTBxYzF4VEVlTjlOU0pHNk5nS3c4bmJjRE8wNjVwOGNfeUdrMTZldjhPWmNkZTNUNHpaQ2YyLXpSdnNBZzI2TFhSelVvUkp6cUtydnRwT1NkTjFGLUMtUFZQMkpNLXBhVmMxbDJodWlBbXdLUFhybXcwUzhMMGR2dWlQaENjWWtQcG43Z2NlU2VLT25DelFTMi02Tjg?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra to Build Navi Mumbai MediCity with Cleveland Clinic in $1.2 Billion Investment  Daily Pioneer",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to Build Navi Mumbai MediCity with Cleveland Clinic in $1.2 Billion Investment Daily Pioneer"
+            ],
+            "tldr": "Maharashtra to Build Navi Mumbai MediCity with Cleveland Clinic in $1.2 Billion "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1781158789777",
+          "title": "Maharashtra approves Rs 22,611 crore infra push with MMR tunnel, Navi Mumbai metro expansion - ProjectsMonitor",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2VkY1ZIU3YyQjZYaVo3WmM3UDFqeE9jcE90REJ5RWJmZ0hlNnZZS2ZWLW9iVlZQc1pkNVJDTTFkOEo3NTNRbHo4ZC1iRS1XR0pidHRmMjUwcWtBakd6YUdmd1BvTVRQZkRfOEJoajJDc1ljQldSeTBVZ3czY1VxZ3NWM3ZPZmpwM0FLM0VCSE02aXU5dWVWOXhfbHpCcWhtdTJidmNqM0tHbVg3Y1lLby1kc2lwaVdYS2RxVUh1VnpZS3gzaWxhRVljR0d0R3c?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra approves Rs 22,611 crore infra push with MMR tunnel, Navi Mumbai metro expansion  ProjectsMonitor",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves Rs 22,611 crore infra push with MMR tunnel, Navi Mumbai metro expansion ProjectsMonitor"
+            ],
+            "tldr": "Maharashtra approves Rs 22,611 crore infra push with MMR tunnel, Navi Mumbai met"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1781158789754",
+          "title": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYkQ2b21rYlYyUXNZaWZQMkZjejA5WHFJdFF6TV9OOXRkUUk5cy01SzJsenBBRGVESVkzYnRKbDk3U2YxQjc0WThHX0ZkR0QwbTRPcGF5NHp5V2pHUGh1bEJJQi1wX0U2dXFPR1o3ajRPZ0xvQ0V0ZTVHSjJZRjBpMEEybEw?oc=5",
+          "time": "7h ago",
+          "body": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Rises 260 Points, Nifty Flat in Volatile Trade News On AIR"
+            ],
+            "tldr": "Sensex Rises 260 Points, Nifty Flat in Volatile Trade News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1781158789754",
+          "title": "Stock markets retreat from day’s high; end flat - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMElPUnFvUXJ2MWVuNkRYTkFPV3lRTGFjU2cyYXd5SlNJMHQ5YVhNZEt2Y3NmTU1DaktpblQ4aTI3OURqbjg3OFNZSE12TXhuS0RNUU45cFBIZFpCdUxfTGNlaXZldnhYNVN1OEdTbW5mQkJsbUlCRHNIb2pzVGJ1OXZFVWJCQzlxSlQteU9CeHNKdEkwVUpIZkVmVEN2ZEFwT1dUaDVmV1dzOVXSAbIBQVVfeXFMT29uWC0zdl9PZktoODMxZnQ1QnlGT0Yzd25hbUMtT1ZfSUZZZGRTYUQ3OGlJUHp0cTlMNkhSc2tNMFdONUY1alpoRzVDdjJ0NXhHeE9UbjdqX01Gb0lGam1Cb0x1MEp6MnRtX1MtN0RYWkx6VmhETWQ1eXBCUHlCdjBzTm1NNUFXcTNYTFBSTjN1ZW9kQ3ZfS0p3dm9jaEVrUDVyTEh3UmIxTzMwWkdyaDFrdw?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets retreat from day’s high; end flat  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets retreat from day’s high; end flat  The Hindu"
+            ],
+            "tldr": "Stock markets retreat from day’s high; end flat  The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1781158789754",
+          "title": "Stock Markets Drop on US-Iran Tensions, Rising Oil Prices - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVZpc29RNmhLMkY0SlZzLVZGMl9Ga3lYUXRtbVprTzRvbTNGZTVQZE5uX1dzOHJTQXdzZUpqY2xaS2l2dXdFYUp6MGREU0FnNWtOTHZXOHcwbjZsa3N5RHM3WkdyTEdQaW1ybHJGMHB4U2EtQ01zandRbTR0aFV3UmpLWGNfenhacFZ5THRRYzJoelVHS1NDUGNJazZMTFh4VHN2N2N1YXpVTWt5RUNTUHhB0gGyAUFVX3lxTE9NVmlzb1E2aEsyRjRKVnMtVkYyX0ZreVhRdG1tWmtPNG9tM0ZlNVBkTm5fV3M4clNBd3NlSmpjbFpLaXZ1d0VhSnowZERTQWc1a05Mdlc4dzBuNmxrc3lEczdaR3JMR1BpbXJsckYwcHhTYS1DTXNqd1FtNHRoVXdSaktYY196eFpwVnlMdFFjMmh6VUdLU0NQY0lrNkxMWHhUc3Y3Y3VhelVNa3lFQ1NQeEE?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Drop on US-Iran Tensions, Rising Oil Prices  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Drop on US-Iran Tensions, Rising Oil Prices Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Drop on US-Iran Tensions, Rising Oil Prices Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1781158789754",
+          "title": "Sensex-Nifty Extend Losing Streak to 6th Session in Volatile Trade - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmc2Uk9ReW96Vi1TOU5WWWM1VkdqRGNVU0xyVnZveHJmX3JGZGJISTNoUUotcnZQeHZ2b0gwRW1HRXc4c2JPNjBuWG9DSUxfTm9xWE5NdlJWR28zWjNyM3JmTmh4YUtaMjZoMGZHMVVQMXk1bmptYkRKNFdpZmtkRElScHVieWU0RWd1MmhYSDRKWGlwT19n?oc=5",
+          "time": "13h ago",
+          "body": "Sensex-Nifty Extend Losing Streak to 6th Session in Volatile Trade  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex-Nifty Extend Losing Streak to 6th Session in Volatile Trade News On AIR"
+            ],
+            "tldr": "Sensex-Nifty Extend Losing Streak to 6th Session in Volatile Trade News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1781158789754",
+          "title": "BSE Healthcare Live | NSE BSE Healthcare Index Today - S&P CNX BSE Healthcare - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbmtLbmdENFF3bDF4V1loT2dqeTNubDNUMFJTR2l4SFFDMEZRejFOS3RZZ1ZpT01KR05jUHV1clMxbGwzd0hQRzhUcENDSmtpRGdpWkh1dWlqNUJ2amF0T0JmbXNJVlhkdUZuNzU5M1huSDFQWlE?oc=5",
+          "time": "23h ago",
+          "body": "BSE Healthcare Live | NSE BSE Healthcare Index Today - S&P CNX BSE Healthcare  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Healthcare Live | NSE BSE Healthcare Index Today - S&P CNX BSE Healthcare The Economic Times"
+            ],
+            "tldr": "BSE Healthcare Live | NSE BSE Healthcare Index Today - S&P CNX BSE Healthcare Th"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1781158789754",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "15h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1781158789776",
+          "title": "Maharashtra govt pairs up with Cleveland Clinic to develop Navi Mumbai MediCity; All project details - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOajFVMDYwQ1VKVTU1TmtuejZzQnNLUlNJcUtkbjBIUWdPR3BjSXJfTzVWdi00VERwQzVpRG1kWVZ2X3ROREJrRTFBNTFQOTNUNWFOOFJSZnA3Uk1tZ1VFTFFHQUdXOVYyLXlJNS1TV2RhLWFmSWstZnJCcHBOUDZqR25KZWt2eUZ4S085YnQ5aVRZcUdyU1hFMjR2NS0tMjdzUThScmowMW9sMU5YTWI4UVlrNXFmSEx4WkxQMnRobDlnN0RyeEh5REtYa0ppR1NSS0RyLWNOY3JvMlI5WWhYMzhUb1ZFNXY5RHU1empYWlHSAfYBQVVfeXFMTWo2MFNBUElsUjJkMnoxSXdCY0NLU0ZtT1VTRTN4MkxDYXJDc2R3Rks1ZkhsUGFsenMtVElOeFE5c2t4WUNyOXZ3T09iTVJobURxOHhVSmxsT3F2TFE3NkI1Wm15eEpXOUNEUTdhb1B0cXlpOFpEcThoZFFVMWNBT285NDgxS1hXRkc0LUFuenBCQTI2OWN1LUg2U2ZfdUF5U016aWJ1VVlUMWRiRzZSbmhPb1BxTmpvYklaSkJhVnhqMjEyYV8tZmo1c0ljVVhtejFCWFE1ajl4MWdxS1h3SlpsNDh5U2p5ZlBqRnN6SVNISnIzaGpB?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra govt pairs up with Cleveland Clinic to develop Navi Mumbai MediCity; All project details  India.Com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt pairs up with Cleveland Clinic to develop Navi Mumbai MediCity; All project details India.Com"
+            ],
+            "tldr": "Maharashtra govt pairs up with Cleveland Clinic to develop Navi Mumbai MediCity;"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1781158789777",
+          "title": "Maharashtra Acquires Mumbai Air India Building for Rs 16.01 bn - Construction World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVDRiT1l5NkYyZGVaOUxWSllybnp3NHhZbU1XQVJMTFFGNDF2SEN0Z1VDei02WlBlc3N5VWVfelVadzE5OTVkVFhtMnpkWHMwS1dDWUVhcXBSZHQ5ck5KQU03ZkhkVXhpZXNmNjBjckFBamNESmUxNUtBcE1DTUg4VlVUc1VVSUpid0FKVDB1ZlVYQnpOblE0UFNjZ3haRUZRU05pVHQ0RDFsUEsxRTFfMGVLelgwMXN1eWZIMmFWZWgxcTVBOWZYQ0N2RjF3ZUE?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Acquires Mumbai Air India Building for Rs 16.01 bn  Construction World",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Acquires Mumbai Air India Building for Rs 16.01 bn Construction World"
+            ],
+            "tldr": "Maharashtra Acquires Mumbai Air India Building for Rs 16.01 bn Construction Worl"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1781158791067",
+          "title": "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTnVUMkRlbHo1ZUdaUXYtRnpOY1F2QUNmQjVROXRjXzZJZUlVaERUOFNiS3ZnN2szbDYwOXJlVG9udzFkanAtYXBKUElyTjhaQ05Uc2Fzb1BNaFlQemFPRHpqQ3Bhamo0Vk5KZUN3WW16QmlsbnlfNFkzWDg0Y3A0Y1c2ZjJBQnJUcXBWYm9teGRfQm1xWk5XUVcza0tXcE9kRlZRYUR6M1NTWjAyRDNvQ3prY2lmSXJvYzFpbEsteXJaY190ZEo1OWIwLWhmUVFHU25jUFNSTkEzMXA4OTFaUWMwd9IB6AFBVV95cUxPeVFwVGNHX3VPaVNzV3JWejFNTTdiRmtwa0tWbFJ1QWxyYjlEVE91V2dJSThGcm8wMVNveVp2SXlsUzVLQ00wRXB0c1VmdDN5TVBXVXVRVmoyN29QVEdMNjZIMENpQW9XZHdOZEZLaDA0elhqRmVBUkZSZVcyOXRqcFVlZmR0TlBVWjJ0UWY2RnBXUnRiMk1HdDB1bzdTeGN2QmMtMWxLdF9fR1hHY1NnQ0g5UEhiR0NXYkJGM3hBbEt1UmtwQ3A5dHpPTFRxRDQxTU1wWmJVT1l5QXZNZl9nOHpucW81MVZ1?oc=5",
+          "time": "10h ago",
+          "body": "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology The Times of India"
+            ],
+            "tldr": "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology The"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1781158791067",
+          "title": "Meta, Reliance to build AI data centre in Gujarat - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFFhUVB5VWprMXhFQ0tVY1ZSdUlzbHh2Q2NYaTNBVzVxdVktcmoycEgtTWRiY2JYZWZ5TlR2dFo0WWpwNWppR2hra0RxaUktYW55NGZmYzFIU1NTQVV0MGxtSGFJd043R3VfRzhob1BSWVhrcGZva2NEd1R4WU9vR0tLajFYTmJXRXV0ejNGcmdhRlFCUkw5SXRURVRtQWdzMFNFdDNoSnl2VnZiX29oQ203WTI4c3BmdnNKSA?oc=5",
+          "time": "11h ago",
+          "body": "Meta, Reliance to build AI data centre in Gujarat  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meta, Reliance to build AI data centre in Gujarat Deccan Herald"
+            ],
+            "tldr": "Meta, Reliance to build AI data centre in Gujarat Deccan Herald"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1781158791067",
+          "title": "Nagpur deploys AI, light detection tech to scan 5,000 trees in urban forestry pilot - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3c3WGptUmFsbFpJOUdMWmJGRzFUaDBSMHNkOVZBUVZZNjNWQi0tRWNRVzN4U2NLMVNxV0ZDbXppVlhqTkM5MTZ0dVB5XzBXaks2T0NRX2ZTV3NPZXZVWHRkS3RfNzRZN0VjbUx5TE43NlJwUWdEeF9wWWh2Yl93bThkU254c0xGRDZaS0hUZ1lIdXVPbHh0a0pBWnNqU0o0YnhLek5Xemk1YWFwTWY3V1pTZXhfVmEyemI40gG7AUFVX3lxTFBPdzdYam1SYWxsWkk5R0xaYkZHMVRoMFIwc2Q5VkFRVlk2M1ZCLS1FY1FXM3hTY0sxU3FXRkNtemlWWGpOQzkxNnR1UHlfMFdqSzZPQ1FfZlNXc09ldlVYdGRLdF83NFk3RWNtTHlMTjc2UnBRZ0R4X3BZaHZiX3dtOGRTbnhzTEZENlpLSFRnWUh1dU9seHRrSkFac2pTSjRieEt6Tld6aTVhYXBNZjdXWlNleF9WYTJ6Yjg?oc=5",
+          "time": "16h ago",
+          "body": "Nagpur deploys AI, light detection tech to scan 5,000 trees in urban forestry pilot  The Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nagpur deploys AI, light detection tech to scan 5,000 trees in urban forestry pilot The Indian Express"
+            ],
+            "tldr": "Nagpur deploys AI, light detection tech to scan 5,000 trees in urban forestry pi"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1781158791067",
+          "title": "KRCL Partners with VGIL to Drive AI-Led Digital Transformation in Railways - Elets Technomedia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY3hGUjdOUFZrNUJhcEhPRUZHUlJIQmVSdmhQZnRhNjJaajlFOTB2Y1lOOVZkYTV6bWMtLV9KdU0wcGZqZXJmQXRHZHNFamFNbDJrM29Hb1RRdXMwOFFSU0FjQk43RmRSbXpuVjFsd21ZaVZJSGpBcjZMT3Y3ZjV5ZlYzbXRta0oyWEJJa2F4UU1SRU16aWRzN3NiTTgzVGZvdUdMOW9qYUVQd2lWT3VzUWFR?oc=5",
+          "time": "18h ago",
+          "body": "KRCL Partners with VGIL to Drive AI-Led Digital Transformation in Railways  Elets Technomedia",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KRCL Partners with VGIL to Drive AI-Led Digital Transformation in Railways Elets Technomedia"
+            ],
+            "tldr": "KRCL Partners with VGIL to Drive AI-Led Digital Transformation in Railways Elets"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1781158791067",
+          "title": "TelioLabs appoints Piyush Sarwal as Chief Technology & AI Officer - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLUQ4TEE0ck1OU016WDllY2duVHNxWDRsTzR0ZXdKMmluRDdHbXVXbXh1OEIxelJiZllKSDl1ZnIwRm1rMnRnYXZ2dmF6cVlhVXBPc0VrdnlxZ05nOFhpaHRGOG5jVGFuLUVtYjFTeExhdnV1Qk5VbzZYLWRaZFZZT3dSYlpMUVpReXRmSVF2a3JDQWhBQm44YzRmZDhsdUJHaVhtRHR3UVVmUHfSAbABQVVfeXFMTzZqbE5sak9yNXVFWjVTUF82TDEzb2ZRSThLTEdzbkI4T2VOS3ZkSG1sSkZyY193Zl96MmlaY2J5d3E2ZFlzMU51SlNCSHZ3MzNlMWptajM5QmJzSW44dDd0V2ZmaUVXaDFQSWtYYTFyNzM3YmVaOUpLYWdDZU00MkNhcHRiNVJOZmdfMEJIWkllUm9oSVZ6cDF0bkRKR3VpMWxHTGlTZU94U2Rqb01UczA?oc=5",
+          "time": "20h ago",
+          "body": "TelioLabs appoints Piyush Sarwal as Chief Technology & AI Officer  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TelioLabs appoints Piyush Sarwal as Chief Technology & AI Officer Express Computer"
+            ],
+            "tldr": "TelioLabs appoints Piyush Sarwal as Chief Technology & AI Officer Express Comput"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1781158791067",
+          "title": "Ralph Lauren appoints Dr. Tathagat Varma as VP and Head of India Global Capability Centre - IFAB MEDIA",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94WlRBREN2Sko0Wk1OSUxaOFhRYU1keTY0YlFCVjdTaVBXMGdTNnpFZ3ZjNUxhTC00RXdweXI4Mk1kRG5oc3J5ZVQzRm5kSGhsQUppbFZOY0RFZnlKd05hZ0xR?oc=5",
+          "time": "8h ago",
+          "body": "Ralph Lauren appoints Dr. Tathagat Varma as VP and Head of India Global Capability Centre  IFAB MEDIA",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ralph Lauren appoints Dr.",
+              "Tathagat Varma as VP and Head of India Global Capability Centre IFAB MEDIA"
+            ],
+            "tldr": "Ralph Lauren appoints Dr."
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1781158791227",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "18h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1781158791227",
+          "title": "🔴 Punjab Vs Mumba Live Match Commentary | IPL 2026 Live Cricket Match Today | IPL Match Live Score épidémie Bateau De Croisière (JkQX8BKgk9) - Mshale",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKQm53cGphOVVTOTJ0OUkzVmdDVG9FaW5Wd0R4dHpmbENvaEttVmdYYUhMd0VobVdUZ0t6X1ZvUzhTbmpOb3diWXV1NDdxbDIxY3liNmNNWGVHWGM?oc=5",
+          "time": "10h ago",
+          "body": "🔴 Punjab Vs Mumba Live Match Commentary | IPL 2026 Live Cricket Match Today | IPL Match Live Score épidémie Bateau De Croisière (JkQX8BKgk9)  Mshale",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "🔴 Punjab Vs Mumba Live Match Commentary | IPL 2026 Live Cricket Match Today | IPL Match Live Score épidémie Bateau De Croisière (JkQX8BKgk9) Mshale"
+            ],
+            "tldr": "🔴 Punjab Vs Mumba Live Match Commentary | IPL 2026 Live Cricket Match Today | I"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1781158791227",
+          "title": "Hardik, Rohit get all-clear for ODI return from BCCI CoE - Sportstar",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX0R5MGtKdmtVSUV0TDR4Qm12WEozdzQydkVaSFlYclNlY2FaQzU1Q1VMb3VxZ3JJUWdmVFJjQUVmWVp1dGltT1ZXZjU3UnpObko5R2dIUV9oMmVaelhOYmVvYXJ1b0U1a3A3VmdTQjctUnpOWXVuZDlBQnR1OWNzQ2t6ZWtSa2txM1g3NlBQOXNqZHNYYlF2bHkzUWVHRG02TTFxQ1R3bGVDV1hEdzVuSHJqSTZON3Q1SzV3dW1JdG9ROVZWNUpkZWZSUnFNd3dURDdNcUt0MktzR3FpbEFzdy02Q256UdIB7AFBVV95cUxNV2VDZVB3M0t1azloVkU0ZkFKNFB0M3pJTGdtb0NvQkFjSlVNZ2I0emxhVnNWVjZkaGFiUU9scGNZVzBXZ3hPOTVMOC04T0dRc1RzeWE2aG16SHhHRGtXV2h4Q2RqODZIV0l2WjJ0T3JCY2FGaFdsT2syMXlVOVZacDFBbkx2emVxRm5yY0VUMVZkc3V6d3hwU29WVjI4MWxrVFdZUHUzd0JZYkh5YlVVa2NzTWhuaXVHd0gzSUxSU2dicUF6ZEVZRkFzWWo2WjgxblR6WFRrWFJhajYzc1hOSjlUcVhqel9sMXZBNg?oc=5",
+          "time": "10h ago",
+          "body": "Hardik, Rohit get all-clear for ODI return from BCCI CoE  Sportstar",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik, Rohit get all-clear for ODI return from BCCI CoE Sportstar"
+            ],
+            "tldr": "Hardik, Rohit get all-clear for ODI return from BCCI CoE Sportstar"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1781158791227",
+          "title": "IPL 2026: Dates, format, fixtures and team details - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "21h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details  DD News"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details  DD News"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1781158792699",
+          "title": "Indian men in Canada praised for saving distressed woman from harasser at cricket ground in viral video",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian men in Canada praised for saving distressed woman from harasser at cricket ground in viral video. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian men in Canada praised for saving distressed woman from harasser at cricket ground in viral video. [object Object]"
+            ],
+            "tldr": "Indian men in Canada praised for saving distressed woman from harasser at cricke"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1781158794016",
+          "title": "The Siraj workload question: How India created cricket's busiest fast bowler",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "Mohammed Siraj's withdrawal from the England and Ireland T20Is raised a curious question: how could a bowler who had drifted out of India's white-ball plans suddenly need rest? The answer lies in the format India have simply refused to play without him. While Jasprit Bumrah's workload was carefully managed, Siraj quietly became India's default fast bowler and the busiest quick in world cricket. For three years, he has been India's workhorse. Now, workload management has finally reached him too.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mohammed Siraj's withdrawal from the England and Ireland T20Is raised a curious question: how could a bowler who had drifted out of India's white-ball plans suddenly need rest?",
+              "The answer lies in the format India have simply refused to play without him.",
+              "Now, workload management has finally reached him too."
+            ],
+            "tldr": "Mohammed Siraj's withdrawal from the England and Ireland T20Is raised a curious…"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1781158794016",
+          "title": "IND A vs AFG A Live: Prabhsimran's 50 steadies India after quick falls of Sooryavanshi, Arya",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "IND A vs AFG A Live: Prabhsimran's 50 steadies India after quick falls of Sooryavanshi, Arya. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND A vs AFG A Live: Prabhsimran's 50 steadies India after quick falls of Sooryavanshi, Arya. [object Object]"
+            ],
+            "tldr": "IND A vs AFG A Live: Prabhsimran's 50 steadies India after quick falls of Soorya"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1781158794016",
+          "title": "Watch: Ronaldo wastes easy opportunities in Portugal's final match ahead of WC",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Portugal head into the FIFA World Cup after a 2-1 warm-up win over Nigeria. Cristiano Ronaldo, set for a record-tying sixth World Cup appearance, missed several chances and failed to score before being substituted. Pedro Neto opened the scoring, Akor Adams equalised for Nigeria, and substitute Francisco Conceição netted the winner. Portugal will face Congo, Uzbekistan and Colombia in Group K.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Portugal head into the FIFA World Cup after a 2-1 warm-up win over Nigeria.",
+              "Pedro Neto opened the scoring, Akor Adams equalised for Nigeria, and substitute Francisco Conceição netted the winner.",
+              "Portugal will face Congo, Uzbekistan and Colombia in Group K."
+            ],
+            "tldr": "Portugal head into the FIFA World Cup after a 2-1 warm-up win…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1781158792555",
+          "title": "Heavy Rain, Waterlogging Disrupt Traffic In Hyderabad, 2 Electrocuted | Monsoon Season | News18 - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOblVDOHFqOFgzUm55ekgzRzY5emhIU2h5RVI5cjNuSTRlVnNta214YWZBcW9ycjQ0REgxYUZ1bkctS1FUQTkzX1VGbHBnNElhZ181VXFzdnJ3N2ZldDVNMWRTcnp3YUczbDkwYjhodUNtb0hjUG9nZWVjM3FCVVlyRHoyTnlhR3VUc2RicFExQjZHV3BNT1NZSHdWMHNlWkVsM0VodzNPWEtxT3l3dWwxNFkxSVlFMTROQkxvWHNTT1MtT3ZraXdITzN0bDM4VXZiZW9sOHZZcVZ3WGFjS1l0UlpwUmVkZ9IB5gFBVV95cUxOblVDOHFqOFgzUm55ekgzRzY5emhIU2h5RVI5cjNuSTRlVnNta214YWZBcW9ycjQ0REgxYUZ1bkctS1FUQTkzX1VGbHBnNElhZ181VXFzdnJ3N2ZldDVNMWRTcnp3YUczbDkwYjhodUNtb0hjUG9nZWVjM3FCVVlyRHoyTnlhR3VUc2RicFExQjZHV3BNT1NZSHdWMHNlWkVsM0VodzNPWEtxT3l3dWwxNFkxSVlFMTROQkxvWHNTT1MtT3ZraXdITzN0bDM4VXZiZW9sOHZZcVZ3WGFjS1l0UlpwUmVkZw?oc=5",
+          "time": "23h ago",
+          "body": "Heavy Rain, Waterlogging Disrupt Traffic In Hyderabad, 2 Electrocuted | Monsoon Season | News18  News18",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Heavy Rain, Waterlogging Disrupt Traffic In Hyderabad, 2 Electrocuted | Monsoon Season | News18 News18"
+            ],
+            "tldr": "Heavy Rain, Waterlogging Disrupt Traffic In Hyderabad, 2 Electrocuted | Monsoon "
+          }
+        },
+        {
+          "id": "mumbai-city-2-1781158792555",
+          "title": "Hyderabad Rains Expose IT Corridor Vulnerabilities - urbanacres.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MYVczeHlNVnh0emJ5NHFqOGJTaGxsaVFSQzhjUUdjVk5tQ0NOT1BUV2tZRFN6VFVSeW9ZZk1iaW9DUHU3TENYcXY0eGJxYm8wMlVuZW1GNktmN0RIQ2w5SFQyeFcyNERYZS10YTdNcnNWYmF1SUFnaXdaQnBLdw?oc=5",
+          "time": "22h ago",
+          "body": "Hyderabad Rains Expose IT Corridor Vulnerabilities  urbanacres.in",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hyderabad Rains Expose IT Corridor Vulnerabilities urbanacres.in"
+            ],
+            "tldr": "Hyderabad Rains Expose IT Corridor Vulnerabilities urbanacres.in"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1781158792698",
+          "title": "Indian-origin couple, 9-year-old son jump to death from 36th floor London flat",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin couple, 9-year-old son jump to death from 36th floor London flat. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin couple, 9-year-old son jump to death from 36th floor London flat. [object Object]"
+            ],
+            "tldr": "Indian-origin couple, 9-year-old son jump to death from 36th floor London flat. "
+          }
+        },
+        {
+          "id": "mumbai-general-2-1781158792698",
+          "title": "Indian-origin police officer Tarun Bali killed on duty in Canada's Ontario by mental hospital escapee",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "21h ago",
+          "body": "A tragic incident near Hearst, Ontario, has claimed the life of Constable Tarun Bali of the Ontario Provincial Police. Bali, an Indian-origin officer with two-and-a-half years of service, was on duty during an investigation when he was fatally injured. Authorities have taken one person into custody as a probe into the circumstances continues.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A tragic incident near Hearst, Ontario, has claimed the life of Constable Tarun Bali of the Ontario Provincial Police.",
+              "Bali, an Indian-origin officer with two-and-a-half years of service, was on duty during an investigation when he was fatally injured.",
+              "Authorities have taken one person into custody as a probe into the circumstances continues."
+            ],
+            "tldr": "A tragic incident near Hearst, Ontario, has claimed the life of Constable Tarun "
+          }
+        },
+        {
+          "id": "mumbai-general-3-1781158792699",
+          "title": "People were celebrating as my business burned down: Indian entrepreneur in Belfast says he didn't expect this much hatred",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "People were celebrating as my business burned down: Indian entrepreneur in Belfast says he didn't expect this much hatred. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "People were celebrating as my business burned down: Indian entrepreneur in Belfast says he didn't expect this much hatred. [object Object]"
+            ],
+            "tldr": "People were celebrating as my business burned down: Indian entrepreneur in Belfa"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1781158792699",
+          "title": "42% say immigration benefits Canada despite concerns over levels",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "42% say immigration benefits Canada despite concerns over levels. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "42% say immigration benefits Canada despite concerns over levels. [object Object]"
+            ],
+            "tldr": "42% say immigration benefits Canada despite concerns over levels. [object Object"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1781158792699",
+          "title": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Where do you think I am from?' Indian-origin man counters racist bullying in Canada, says everyone should talk back. [object Object]"
+            ],
+            "tldr": "'Where do you think I am from?' Indian-origin man counters racist bullying in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1781158792699",
+          "title": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student fights for life in Chicago after 25-ft fall at subway station, family seeks help. [object Object]"
+            ],
+            "tldr": "Indian student fights for life in Chicago after 25-ft fall at subway station, fa"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1781158794022",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1781158794022",
+          "title": "HC pulls up Maharashtra govt over child welfare gaps after suo motu PIL, sets June 30 deadline for key ap - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNS2NJWDJzMXQ2UzdDUTF4cDZ2dlVaaVpnbFBOMWRBOTk1QnRHVlVqQjlHZUNDRlJtRHFLZEZHQ29lRUlQRWxOaDFiTV94VUdYSnFmNHRpT09FcXA5U2w0dFBkellnOGxKUkRNa195NjgwdE5yZVpJSlhmS1k1Rk9kZURhTFpPQ09MRk1DUDdrWUJxVmd5d2tRNWZ5UVBwVzAxUkJTdERNdVZEWk9qb08zT1JielBJVUZwVDJ1Nm5KTU9ZZ0xVdjFrRWtQSEVDbUpHejZ2Yk9nd1NVdFVEdkVTZFBkM3c3ejFFN2pral9vb2UtZnk2MUZyRVZxVms5T2tmbVhPZXg1UXZsYzBQOFZCcjBkMFJ0ZTZkZFlsSdIBogJBVV95cUxOVkM3bHI0dExTS292eFhyLTR5M2lodFZMT1l0T0tVcVJLdDZoVEdfbFBFbGRaemd2elFocTBHYm40N0RMX3lyTmgtUWIyeUd6TWh2MmRYdVRiaElsMVlrVWNwdUNSVFV4X2paWmM0UDJWMWlBbWNNYkUxejQxZXVkOVF0MFhnVmYzY0x4UmRjblRucllKaE5hTFZUQWluanVOc1RUZHNtMGljNk1UQ1JXOFBpSzhRZVktNkt2NTQxb0dWYUdSRl9oVDdzQnVGeXRqMzBKaUZEbWc1TWdUNHFMLVBDaTlqdFBnR2pkdXNLRnBWMlhmcEMwenBlTUxHdXFUeThGb25DYms0T1VlMGhkUlFCMjI1ZzBVSk1rZEIyaGtJQQ?oc=5",
+          "time": "12h ago",
+          "body": "HC pulls up Maharashtra govt over child welfare gaps after suo motu PIL, sets June 30 deadline for key ap  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "HC pulls up Maharashtra govt over child welfare gaps after suo motu PIL, sets June 30 deadline for key ap The Times of India"
+            ],
+            "tldr": "HC pulls up Maharashtra govt over child welfare gaps after suo motu PIL, sets Ju"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1781158794023",
+          "title": "Maharashtra: Gutkha Mafia Tries To Run Over FDA Official During Chhatrapati Sambhajinagar Raid - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2VzeGZqSFZ1N1EyVjl1QU55NmFuTy1aNWk5UURORXF3amJYQkktdXpEcWpHLXh1ck5PWUhpcTF1WXQtUDJlYXAyOERyZ2J4UkZDWkZ3ckE2bnFUazE2VlFsWldlVGVPV2VOOTJ2bkFGNEg3VnZ6M1pIRm1qY3UzcGdvWXBNZEFzRDR4b2p1OU5yNU5QZmd0T2U4V0Z5MjJZcTJSQmZQeHVzQjZ6S3podGlnbzNSdy1kX3pibkdpNFN6ek1mMkw3TDNLaW04ekVKc2N6WnduQUltc2_SAeABQVVfeXFMUEI1VXpvQkZYWDlwYUc5WGstZ0k3TFY5MnJZajFHSWs0X3VtQzQzdE1XMnBkVUlqRF9OM1pYdDJZdVVnUUlYRGpSWGM3bFdNVHRZY1VyWGR3dm5FOTRGSlRLdUxXQUR4aXJ6N01iSVY3V2J4WEpVVGZEMFdCZ2VBQkZQaEc3VXdpOVIxTkdlZ2p3ZFpybkhSM3BNeUVub2o0aFlGQ01mMUVhNnlWbUpsWUVTbWdKYTRWbXdhcGFSMGtaRUEyVzQ1Z0FqY09RM3hJMkxBa2NQWUtOY3VfV0lTa0c?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra: Gutkha Mafia Tries To Run Over FDA Official During Chhatrapati Sambhajinagar Raid  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Gutkha Mafia Tries To Run Over FDA Official During Chhatrapati Sambhajinagar Raid ETV Bharat"
+            ],
+            "tldr": "Maharashtra: Gutkha Mafia Tries To Run Over FDA Official During Chhatrapati Samb"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1781158794023",
+          "title": "Weather Forecast June 23: Rains To Increase Over Ahmedabad, Indore, Khargone, Aurangabad And Akola Housing Prices (nNExj4TKpT) - Mshale",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQUjlrVDZId1AwQ3gyZTdfOHJYT0lMdmlhQmVIV012WFZ3RFdrcFVoOFg3LVJKUGJEWFlQYjRKQnBjZTdjQVduNlpIYUtYaHNZZHY1V2JQSGoyVHM?oc=5",
+          "time": "2h ago",
+          "body": "Weather Forecast June 23: Rains To Increase Over Ahmedabad, Indore, Khargone, Aurangabad And Akola Housing Prices (nNExj4TKpT)  Mshale",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Weather Forecast June 23: Rains To Increase Over Ahmedabad, Indore, Khargone, Aurangabad And Akola Housing Prices (nNExj4TKpT) Mshale"
+            ],
+            "tldr": "Weather Forecast June 23: Rains To Increase Over Ahmedabad, Indore, Khargone, Au"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1781158794023",
+          "title": "Maharashtra farmers squeezed by fertiliser scarcity, rising input costs - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWF3NklyUWthMk0tRVVFZVVkMWlzT0hXdXEwX2pzNXNJdTZsUTBmekZSakxfT2JtV1k4TUNoSlhCbEJycHBSeWxLLVh1THg2Q0k5YWpwOWVvNXNkZm9RUWFOd0Y2d0NzYkhfdVRYcHRqU19sRk9zRnROejdnUHZjMTlRaFFRbUhSYkJXd1NiamNUMERROXVWUk4zNk9ISmJfQ1BoU3JnWGJVWU9ucmNpS0Rwc9IBswFBVV95cUxQTWF3NklyUWthMk0tRVVFZVVkMWlzT0hXdXEwX2pzNXNJdTZsUTBmekZSakxfT2JtV1k4TUNoSlhCbEJycHBSeWxLLVh1THg2Q0k5YWpwOWVvNXNkZm9RUWFOd0Y2d0NzYkhfdVRYcHRqU19sRk9zRnROejdnUHZjMTlRaFFRbUhSYkJXd1NiamNUMERROXVWUk4zNk9ISmJfQ1BoU3JnWGJVWU9ucmNpS0Rwcw?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra farmers squeezed by fertiliser scarcity, rising input costs  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra farmers squeezed by fertiliser scarcity, rising input costs The Indian Express"
+            ],
+            "tldr": "Maharashtra farmers squeezed by fertiliser scarcity, rising input costs The Indi"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1781158794023",
+          "title": "Airlines Cancel, Reduce Flights To And From Maharashtra's Chhatrapati Sambhajinagar - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQjVjeEh2QXlaLTB2dHhfc09HNnctbFFfdFZDXzlwRjQ3QkdTTDFhLVc5blhMWlhtc3NZRXFKbFNPX1hra2laMUNRejNoVVg3TFNOMlNBVW9sSTBxLV9XbzBDallWQmRtV1JBMWNfUU13MXVaa2w0dVBocnZtOFJNTEJqS0NCaHdxVWtCMUZhcHJQLWdybUtZb2thNV9FOEJmLUx4allzbjhUX19wcXhpdXRXNW1xU2pVVXp5eUxSV1VZZlM2QURQS1pTY9IB0AFBVV95cUxQdkNNeWNwUXNzZFIwdlBESjFRRmU4XzhLb3F0YWE2T1llNkRQWlpnYm9pSkhqSlFndHJsWERuOTdKdVotVEF6ZC1hbmZBR0h4d05QMTBrWWNwS2hkbjBRbHpFaFlVWG01UHRmM3NPWlI1NkNia19JWE11RzExRU9YVGswU0owb0Fwa3hibjBhR2xMZURBc1BSVzBvWnNEbFFoZU5ONV9Hb2t4Nmw0SnY4VFlHNzZpNUtpVzR4MFhWbWg5Q2tYYWJ0bXdwenJyaktq?oc=5",
+          "time": "20h ago",
+          "body": "Airlines Cancel, Reduce Flights To And From Maharashtra's Chhatrapati Sambhajinagar  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Airlines Cancel, Reduce Flights To And From Maharashtra's Chhatrapati Sambhajinagar ETV Bharat"
+            ],
+            "tldr": "Airlines Cancel, Reduce Flights To And From Maharashtra's Chhatrapati Sambhajina"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1781158794023",
+          "title": "​Don’t fall prey to fake talathi selection orders: Chhatrapati Sambhajinagar district administration - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTWFnWGd4NW5CUWNVRUJhOE9FZDBCbU9QRld6MERwTllvOUphZ28tV2dVeE9QdzBOZWlPbUxWb29YekQxRzVsNEJaVnh1dDBGRDI4QWdad2xrbzVBUWF6MGx6cHFrRFdVaXdUNlpuZGdtak51RkExUTJqLTFLQmJZM0lUMUpUMk5lQ2pnMHZDejVzYm1kY252UDNqR0NNZVFSS2Z4Vk1HVU9QeldYLXMtSzBfblF4RUdJa2NKaFFDSGs5SF95d2FOUnByUV9JYV9zdlY2Zk1SZGpQbmJRRUtnVlNpc3Z3Zy1ZSjlaamdUSjZJQVR2LU1GUHFpRTFjLVRVaEJLSEpn0gGLAkFVX3lxTE5YTHM1eU0zQ3ZjbzgzZFpHbkttMkVRclFacjZpaUNZR1QteDU1d2FCOVYtQXd3S1U3ak1KbkREeThZQVNmMHZDRUdfSUFWazdwLS1DVEE3WDVLdXl3bWt6azROWnVMMGRLNGo5YVJnMHVad1YyTWRSX3VhODdTZXJZVWwwMGdqVnpMMkgxU25kSU8tS2h4bG5vdWJKNHJoV1pFQkkzZW9KTV9iSDVVSXdCOVQwRTNYcC10a1B2U0lkLUhZcmhQeFFLNHdYNTVCZmJ6b2JKaFgxdjdwNVNoSjJHUUZzdHRxUVppMFI2NGFYTHBNY2dWdlBBeDVCOEFTVVU3UnZtVEFYUjdsOA?oc=5",
+          "time": "12h ago",
+          "body": "​Don’t fall prey to fake talathi selection orders: Chhatrapati Sambhajinagar district administration  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​Don’t fall prey to fake talathi selection orders: Chhatrapati Sambhajinagar district administration The Times of India"
+            ],
+            "tldr": "​Don’t fall prey to fake talathi selection orders: Chhatrapati Sambhajinagar dis"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1781158794023",
+          "title": "Maharashtra minister calls for ban on AIMIM, labels it terrorist organisation - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUW1IWEJsUllwc0hWVFpHa2hlNHFyM1h6bUJrdXRSc0hOTkM0aU82Z0xoeG9nZmR0bGFONzI0UVhZaVhLUzZMZWR3ZHc2Z0h4RXRqc2syRFczc2ViZ3hFd0xIRVhDcjNhMnRtODBHT0lhYUd0NWJGendDMjN5Z3UxSmJmdFp5cURJNG9tbGpxZjg3TGR5TzFXZXVWNF9NUHB3T256X0FoM3ZlbmpUbmc?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra minister calls for ban on AIMIM, labels it terrorist organisation  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra minister calls for ban on AIMIM, labels it terrorist organisation The News Mill"
+            ],
+            "tldr": "Maharashtra minister calls for ban on AIMIM, labels it terrorist organisation Th"
+          }
+        }
+      ]
+    }
+  }
+}
