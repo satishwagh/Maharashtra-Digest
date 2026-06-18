@@ -1,0 +1,794 @@
+{
+  "date": "2026-06-18",
+  "generatedAt": "2026-06-18T06:23:56.187Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1781763830783",
+          "title": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXVLY0ZoSnFndDlLRkxjTFFxX0tKZkNOakVrZmhYdEVkLS02VGdTZ1VsZUtpRE9wQXNmYmFva3NXZG1QOXJnVHJkM29XZDVRMVZyaWdqbUR1d1N5V0JSbUtOb3FweHRBZkNiTzI1TlB1V3FCZERtQ2FOSUdIRk5RNFZuWVh0eWgxOVoxUXgzTEhXY2NjYmxQRlRoUVk1OHUxenJaejNHYTgwOFhmNVl5d3Q5ZVJnOUpTUTBOU3JkX1k?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs News On AIR"
+            ],
+            "tldr": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost In"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1781763830783",
+          "title": "After Operation Tiger, DCM Eknath Shinde eyes CM post and major political space in Maharashtra politics - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS2d3aEp2cGFua1lLUnN6ci1EeHBPZEN4a2RUb0NjWnFMa0d6ejFIY1k5c2txSUlwYUFBdUphUVJQMzRSRXRXRGVVT3EyaUg0V1N4anlYTUZibTFIbzNfWDlIbVh1QU5SZ3lyajVwTkRrNGtpdTZxeW5nS2dpeWxXdUJmbEF4WlFONXBKQVhINC11LVhkR01TMVdaY0lKTU1rYi1fdXRadFpIakJVQzUtaFM1V2txd1RibmZXR0FUSmNFOHA3cXRINHFCTFBsd25rNUVnTzV4cHh2cmJNSVRQbTBWU1k4VndiazFPVHE5YllTRERKTGV5cHZ30gGHAkFVX3lxTE5oYW5YYVB3RHU1SXhPY1NCWDFDbW5HdVN6bkxYMzJ1VFV4bG9GWDBFUUdpdURra09ZeUU3M2NSMFVFbjRXbnl5TndTMWpFcjI4bnlxNkVBY0ZJME9oRjlER09zREpwMXcxdmFPYkVMREttelloTl9ibUh1SnF2akxsODBZdlltRHlVM2M5SzhjODJEQVNlOXl0TGhCV0FZWEFrbFd6Z21PTy10Y3VIcEtwOUluNVV6WmFMQjJNdGtuTzY5UGdDSWw2VHdpc0p4Vkw3TDVOWTRYYU5Kc18wMldnTldNb0xqUklPclJTUTRPT2Y1bE1TNDdlaHhBS013RlZwV05ZWVVr?oc=5",
+          "time": "13h ago",
+          "body": "After Operation Tiger, DCM Eknath Shinde eyes CM post and major political space in Maharashtra politics  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After Operation Tiger, DCM Eknath Shinde eyes CM post and major political space in Maharashtra politics The New Indian Express"
+            ],
+            "tldr": "After Operation Tiger, DCM Eknath Shinde eyes CM post and major political space "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1781763830783",
+          "title": "Shiv Sena that opposed Hindi speakers is fading: How Balasaheb became 'The Tiger'; why heirs can't preserve... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcldtdkNHdFg1a0haeGd4ZVhDU3pOOE0zTHF3cWdaR3FtS3BOR1NtV05EQmtSejFuOS00VHJOcHNQRXRqckluS0l4blB5YW1BYzVOMk82cDgwODNsdjYwTEZ3dnk4ME5Vb2dSU2pvbmxoN0JmMEhNdUI0Z2g3TlNrMTVzOGZ1TTF2b3VxSnFyM2NNc2ZqN2duU0lXT0NNQmxjNVRoeHMyWThzd05zN1pXU0RvM2hlYk9vbUcydkNUa054TjJteG5yQWhjRlByN2xka3JPWXNwZTJJTWR4S1NPZURNSzg4TXdDUkplWUd6V1lybXfSAfMBQVVfeXFMTXJXbXZDR3RYNWtIWnhneGVYQ1N6TjhNM0xxd3FnWkdxbUtwTkdTbVdOREJrUnoxbjktNFRyTnBzUEV0anJJbktJeG5QeWFtQWM1TjJPNnA4MDgzbHY2MExGd3Z5ODBOVW9nUlNqb25saDdCZjBITXVCNGdoN05TazE1czhmdU0xdm91cUpxcjNjTXNmajdnblNJV09DTUJsYzVUaHhzMlk4c3dOczdaV1NEbzNoZWJPb21HMnZDVGtOeE4ybXhuckFoY0ZQcjdsZGtyT1lzcGUySU1keEtTT2VETUs4OE13Q1JKZVlHeldZcm13?oc=5",
+          "time": "5h ago",
+          "body": "Shiv Sena that opposed Hindi speakers is fading: How Balasaheb became 'The Tiger'; why heirs can't preserve...  Bhaskar English",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiv Sena that opposed Hindi speakers is fading: How Balasaheb became 'The Tiger'; why heirs can't preserve..."
+            ],
+            "tldr": "Shiv Sena that opposed Hindi speakers is fading: How Balasaheb became 'The Tiger"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1781763830783",
+          "title": "Why Are Shiv Sena (UBT) MPs Joining Eknath Shinde Ahead of the Party’s 60th Foundation Day? - Frontline Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXRmU1NwRXl6TFc0WERfVElYS01rX3BWalJFX1dGQ01lQU05d3V5UFFKY1c4elN1cFVYWDhIbFZQdDNUR2FnRHBYZWVyQWhmN0dvN25VZWRuWG1IMTZmUkZNZWtBWkxBMUlqVlEwcWJtSnJ2b2t2NjQ4VlhPN3pLUE1nU1JUMV9ZSVpxWlFuOVdSMVhBX1g3WkpwazZ4VFd2MS1NdzdJYjdIT0N5ck1RWFB3dlpTNGxJTVVTbXI1TlB2ZE82UlJnZTd4TzhKdWdRLTJqRE1icVJpQXfSAeIBQVVfeXFMUHFYUE5WNWV2Snl1Y2hDZmhXOEY4TEtxV1o0aU1fdWtDLUZva3Eyc0ItUnFIQ3prTW1NckVBeHBzaTFKMGJEMkVaZndoaGpIVnFqLWxDMm5oRzRjVDFYTTU1X25XdVpFNU4wTUNTd1FCR0tXcFNCekJZYlVYbmVfaUZUSTVLd3ItUnpIUm85aGt0dUlNOW1aWUp5bmtPb25VbTl4V0plUmdwYmNWeGFQT2xNOHVkNGxRWklsT0lHNU9Wd3ViQUh2NTFGck5XMkJaU1VSMlNJVHc4UTlBczE4SnV5QQ?oc=5",
+          "time": "23h ago",
+          "body": "Why Are Shiv Sena (UBT) MPs Joining Eknath Shinde Ahead of the Party’s 60th Foundation Day?  Frontline Magazine",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why Are Shiv Sena (UBT) MPs Joining Eknath Shinde Ahead of the Party’s 60th Foundation Day?"
+            ],
+            "tldr": "Why Are Shiv Sena (UBT) MPs Joining Eknath Shinde Ahead of the Party’s 60th Foun"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1781763830783",
+          "title": "Maharashtra to withdraw 44 cases linked to political & social agitations and festivals - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd21sSGswOTZzSHB2cTZEUUdxTnZXQUZsMmt2aF81ZWRzVE5OVkN1V0ZzcWdzOWh0dkVyNTBtcnNzQjh4YlRDLU5TVUJuY2JGR0t4WEFKRGtTQ3R5MkhoczZoYXAwR3JNZU5GY1lfQVZGVDVBd2tJTUs3LXhlNTQzMTZ1dVFoTHl2cWxkRFd1UUdETzNWaUh2blN6bWJuX1lHU1ZNUlJaZkpidFhsakxwUGpFV2hwcXdmZEcxYzFETjJUVk84VWp1S0dGUDhrNTV5SDk5cmNOcFUzcFNGOGtmSjE3RzI1M3VydkVTQ0JQUdIB9AFBVV95cUxOTk5mUG43VHpVb0sxTHp4b19OTVZtckxvU1huNV9lcnFWTmFmeWJlSlF6cDRsYUxjVFVBVkZCMEo5MG82Q0l3ZG9KRGJ2T1ptQ2h2SXVwTFNDZUlFcVU1TzdjdEpiQ2preGg0V01IR2c0WUs4SXVERGI1VnFpSjBTOXZ2RFc2ZGE4TllzRGNCZkpsUVp6ekl6aUZSV2luNUxvdGNzU2FJOWh6Y095VDNhNzNyaVhKQmM0X2lRa3RlN0lyZ3JocFNSRW1LOWFrckd2ZWNQZXdNcmdDQ0RIWHJPNGpwZGlfWHZkR0VnQXhKNk5MeTMy?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra to withdraw 44 cases linked to political & social agitations and festivals  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to withdraw 44 cases linked to political & social agitations and festivals The Times of India"
+            ],
+            "tldr": "Maharashtra to withdraw 44 cases linked to political & social agitations and fes"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1781763830783",
+          "title": "Maharashtra panel recommends withdrawal of 44 FIRs linked to various agitations and festivals - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaHRaRlNsbmc3ZlNBSVkyVklNbzAyWjB2RkRjVFczc0VaSWoxczF6Mnc5MFRQXzF2N21mZ0oxRU85LWNnNGhjaGNBTnAwWXFycmFKQnRCaDRxNXFISWFPN0g1MjBvcVQ5NXdRV1p0VUxqMXRhMFY1U0NpejhZS3cyUEVyaGxkZHpkVUJuYUEwdWlrWnBkZml0RlBKcGdIZ2JPd0FRUzVPazN0c25PT3lmeDJTT01DVURMdTZTd044M0h1NFgxWUtz0gHMAUFVX3lxTE1XeVFqNURnV2RyX1pBakRKMXpjbDZsdDM5RzN5YlBLdkZ1cUNLU3pUTGJJVnRNdjlYdmdqRFpCTkZFbG80Tko3TFU1d2dnclBCQlJ3d1A1X2NiNnhtcHc2ZkhIbm91UlZrQ3N1N0ZBbEx0cFdxYUhUcDBzS3cwSEVKMGhmSWh0aWhZd2RFYWVndlZBalJlNUJIYnR0dTVFaTVSTThra1duWEt5U2tWSGRqdzBlenIyQk5Od21qNDhRZGQzdV9Qd3Nqb3oyQQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra panel recommends withdrawal of 44 FIRs linked to various agitations and festivals  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra panel recommends withdrawal of 44 FIRs linked to various agitations and festivals ThePrint"
+            ],
+            "tldr": "Maharashtra panel recommends withdrawal of 44 FIRs linked to various agitations "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1781763830783",
+          "title": "'Operation Tiger' glares at Uddhav Sena | A look at earlier rebellions & splits in the party - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM1h6Wld3N1R1azBDVDltd1h3R2h2em9kbVhXVkc2aWN0bEdUNS1kcmpicXE1emVtMVpORFdFTTJhNkFBY3VzcmMtY0RUaTRla3BxWU4tX3ktZkcxV1FkdG83YVlVcDI1SndQdUc2cTZfMnF1ZnY0Q3oxdldzSEFUejBtUVlxZ0FMeUFGbmVjR29fQ05xWWhNM0QtWjYwdFA1dnliSWdDWXBkbVk0Q1RzcXd1MmlJTGV0aG1mc2ZkYm1HVzlEV3hrTlU5UWZ0bkpBMldwU2VCUEJkMk5rcVoxQ3BuV3V4Rlg1WnlZ?oc=5",
+          "time": "20h ago",
+          "body": "'Operation Tiger' glares at Uddhav Sena | A look at earlier rebellions & splits in the party  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Operation Tiger' glares at Uddhav Sena | A look at earlier rebellions & splits in the party Deccan Herald"
+            ],
+            "tldr": "'Operation Tiger' glares at Uddhav Sena | A look at earlier rebellions & splits "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1781763830783",
+          "title": "Maharashtra Panel Recommends Withdrawing 44 Cases - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSm12SUwzaE5abWtfS3RuOVBpc1l2a3hRTVRHS3B3TkhIV1h5Q2ZTSmdqbE5OcktoNlVJLXB5YkVQMkdXR1I5OWxTclQ1aEczRGVjbE1wbkg1WkRxOFh0SEJYSjlldzJEend2SFdaMmswSTIyelBLX3pYYVAyRzdZUVhzVE9zSW9UcDJhVUxn?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Panel Recommends Withdrawing 44 Cases  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Panel Recommends Withdrawing 44 Cases Marksmen Daily"
+            ],
+            "tldr": "Maharashtra Panel Recommends Withdrawing 44 Cases Marksmen Daily"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1781763830722",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "7h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1781763830722",
+          "title": "Stock Markets Recover Early Lost Ground; Trade Higher - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHlhek9SUElUQ0xqZ1RsS0xzZnM2RkxMU3FxY3p3Qm1udmxnck1DQkRjTE9vQ25lWG80STBEN2VsTVdDa242RlkwQ3NRU3dwZHRmVnNaNHlCZDQ1Sk5HZk9PZzBsVXBtYWFhWE1ncHpRSkk2czIwSi00UGktWTNEYVdrcjJqbHN6Qmx0c2lnMG1PbnlXb1FvMnRkYjlnZWtfNThiZXh2VkI2WFJFaU5jLU5jYWRFUFFmUnZvTi1yWXVmZ9IBwgFBVV95cUxOVHlhek9SUElUQ0xqZ1RsS0xzZnM2RkxMU3FxY3p3Qm1udmxnck1DQkRjTE9vQ25lWG80STBEN2VsTVdDa242RlkwQ3NRU3dwZHRmVnNaNHlCZDQ1Sk5HZk9PZzBsVXBtYWFhWE1ncHpRSkk2czIwSi00UGktWTNEYVdrcjJqbHN6Qmx0c2lnMG1PbnlXb1FvMnRkYjlnZWtfNThiZXh2VkI2WFJFaU5jLU5jYWRFUFFmUnZvTi1yWXVmZw?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Recover Early Lost Ground; Trade Higher  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Recover Early Lost Ground; Trade Higher ETV Bharat"
+            ],
+            "tldr": "Stock Markets Recover Early Lost Ground; Trade Higher ETV Bharat"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1781763830722",
+          "title": "Stock Market Open, June 18, 2026: Sensex Slips 50 points, Nifty Flat at Open as Iran Ceasefire, US Fed Hawkishness Offset Each Other - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM1hnbE1oWDVTT3pOd0FWS1dHQ1dFVjZOMVpJM0wtRWZ0SDVTNTBXNklFdFhjaTRubFBrd3NZNnRHVmRZTDFRVDM0UXZFRE9GY21SVGRhbnhnV3RicnhZbGx2azRFUDc4RkhUZzgybHNoWTJOVGhwSnZoNEdiVTFQbHRNRzhZOVhpRm1oZHptUWVtcERMTU1za29TbzZHbW5mV2pOUndoU2xfTldCSmpfUHNJeEFod1hQMjVmRm1xWmJLUWpGRHdld3VBdEdlWFBMYkJjOEJvWmpJY0tuc0x5V0ZUV0dSSUk?oc=5",
+          "time": "1h ago",
+          "body": "Stock Market Open, June 18, 2026: Sensex Slips 50 points, Nifty Flat at Open as Iran Ceasefire, US Fed Hawkishness Offset Each Other  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Open, June 18, 2026: Sensex Slips 50 points, Nifty Flat at Open as Iran Ceasefire, US Fed Hawkishness Offset Each Other HDFC Sky"
+            ],
+            "tldr": "Stock Market Open, June 18, 2026: Sensex Slips 50 points, Nifty Flat at Open as "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1781763830722",
+          "title": "Sensex, Nifty extend rally for fourth straight session - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT04tUldkLVUxSnJJLTg0SWFTVFc4LXNaeFVOcE1tQVdEUGhaZ2gtOFo0cXR3YkdQeFVYdzhkeV9xN0U5aF8tVEoxRkJyNWhZazhWc2FmaU4xVV9JQnJhQzZEWjdBWllsMUxPMkdiUHY0WFhjb0lGai1BVE40OU84em9NZUd1X3AyOUFIcnRid1hkdk4wOFpKUU1MdHIwemJUSEtzM0VR0gGmAUFVX3lxTE5PTi1SV2QtVTFKckktODRJYVNUVzgtc1p4VU5wTW1BV0RQaFpnaC04WjRxdHdiR1B4VVh3OGR5X3E3RTloXy1USjFGQnI1aFlrOFZzYWZpTjFVX0lCcmFDNkRaN0FaWWwxTE8yR2JQdjRYWGNvSUZqLUFUTjQ5Tzh6b01lR3VfcDI5QUhydGJ3WGR2TjA4WkpRTUx0cjB6YlRIS3MzRVE?oc=5",
+          "time": "11h ago",
+          "body": "Sensex, Nifty extend rally for fourth straight session  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty extend rally for fourth straight session MillenniumPost"
+            ],
+            "tldr": "Sensex, Nifty extend rally for fourth straight session MillenniumPost"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1781763830722",
+          "title": "Stock markets extend rally to 4th day as easing crude oil prices fuel buying - Metro Vaartha",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXVaY3EzX3lZRDRhN0U1M3ctM2lidm5iMmJuNHhtNnRZOFNzTVVuYm9iUjY1QUs5eWNOZVhoX0trazhwOGFTSXdMWFhIYTJqcEZnSU1BOGIyYTJzaXQ0Z0FlX0VjNDYyTzJ6aUpxeFlwVXM4UUM3WW1kelpSX3FwZUFDVGg4NDREYzE0NVZjcmg5RWxac19jSTA1a0Q3eTc2R1ZuV0JqM2ZfLVJKcW9iUHRUeWkwWjNGRlNrT1dZXy01c0s5TVdVTEhnVzZPZjDSAc8BQVVfeXFMTWF1WmNxM195WUQ0YTdFNTN3LTNpYnZuYjJibjR4bTZ0WThTc01VbmJvYlI2NUFLOXljTmVYaF9La2s4cDhhU0l3TFhYSGEyanBGZ0lNQThiMmEyc2l0NGdBZV9FYzQ2Mk8yemlKcXhZcFVzOFFDN1ltZHpaUl9xcGVBQ1RoODQ0RGMxNDVWY3JoOUVsWnNfY0kwNWtEN3k3NkdWbldCajNmXy1SSnFvYlB0VHlpMFozRkZTa09XWV8tNXNLOU1XVUxIZ1c2T2Yw?oc=5",
+          "time": "12h ago",
+          "body": "Stock markets extend rally to 4th day as easing crude oil prices fuel buying  Metro Vaartha",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets extend rally to 4th day as easing crude oil prices fuel buying Metro Vaartha"
+            ],
+            "tldr": "Stock markets extend rally to 4th day as easing crude oil prices fuel buying Met"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1781763830722",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "13h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1781763830722",
+          "title": "Stock market: Sensex, Nifty jump amid global rally, reduction in oil prices - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQVIycERNV0dVUGZGOFpsQ0ZHRnJCb05KRkp4WEpFSVdwZjI4bUxfZzE3VTlUSEVXYjhFanRPeERvcGdybVdsTkg2UWhaWGVyZG93ajZfQkdCLTBnTXRWOTRDTDN6M1QyVjN4am9zbkluN1VjMzhUbVlDMC1RZG5KRFpFSTZadkRsZmFCelRpQk5KMFhZYUR0d2RyRl8xaVZXRE53T1ptWFJqM2NaNHpETGpaSE1sWEVRTnVmYmhwRVVYZw?oc=5",
+          "time": "1h ago",
+          "body": "Stock market: Sensex, Nifty jump amid global rally, reduction in oil prices  MSN",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market: Sensex, Nifty jump amid global rally, reduction in oil prices MSN"
+            ],
+            "tldr": "Stock market: Sensex, Nifty jump amid global rally, reduction in oil prices MSN"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1781763830722",
+          "title": "Investors Gain Rs 3.48 Lakh Crore as Sensex Surges Above 77,000 for Fourth Straight Session - Hindusthan Samachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkxtYU5teG9kSy1wei1JT3RHUDBLOWJCZEZOazhOOG5KS0ZNXzVlOWNoWnhqWUZtZy0ya3hQaTNlQmlDQWxubWVpeldBNjZHOHh2dGQ1cEFLT2pLSUpVZS1DY3dPUlktbFlhOGx2V0N0bldRU1g0MkNjTng3SEd6MEhka2g?oc=5",
+          "time": "16h ago",
+          "body": "Investors Gain Rs 3.48 Lakh Crore as Sensex Surges Above 77,000 for Fourth Straight Session  Hindusthan Samachar English",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Investors Gain Rs 3.48 Lakh Crore as Sensex Surges Above 77,000 for Fourth Straight Session Hindusthan Samachar English"
+            ],
+            "tldr": "Investors Gain Rs 3.48 Lakh Crore as Sensex Surges Above 77,000 for Fourth Strai"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-9-1781763830783",
+          "title": "Sena (UBT) rebels write to speaker on merging with Sena | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV01xV2szRWx5Z0lxTW5NYUwyU3ptRS14Q0djSlktYXpIUjNXZFVvSmU3MlhGRHZHWGtqUC01TDRqUF9uUTFRTm5SV2draGJjekREWmdjSmtlMkU0bWhUb281VjJTN0g3UVZUblM5Z0Z2cC1hanIyN0dFS3BTQWR5TWZJbktBNWZIWmxnOTVYRk00OG1SQVVacXc2RFVwVUp5Ny1wbTBCd1B2aEZvSFl5eEY1M3paM3VCNHVFOHhENGZEUdIBxwFBVV95cUxPMmV4Vl9tblNJTDFfU0p5UVVhdXNqSmgtTlF6bk1iRUtleTRJeUFXaGtZbG5HZlY3T0NOSWZRTHI1T1h3dHFpRGxSUHJIZFNVaHcxaHEwQVNfNDdFRF9OczRkSUNCa0lnbG1wSWVCUkR0SDlqNEpUT1Y4dzlvYjN1VFAtVFVab04wSGVjY2FuaU5pYWxJWWo0V01fODZYcjlNaXI4dkFWQm5XSGRKUDhzUXBLZzZLdkk4Uy0yNER4cWhNUXhZZjNV?oc=5",
+          "time": "4h ago",
+          "body": "Sena (UBT) rebels write to speaker on merging with Sena | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sena (UBT) rebels write to speaker on merging with Sena | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Sena (UBT) rebels write to speaker on merging with Sena | Mumbai news Hindustan "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1781763832134",
+          "title": "Hexaware to Invest £25 Million in UK Expansion, Creating 1,200 Jobs in AI, Digital Services, and Quantum Computing - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTG85QUV2Y1dMUEJkM2Y3UjVwUWtDODJ2TTkyckRsUWc4b0pzVE9GT2xkOU1RS1dPVHlCSjBJckNYZE16ZkZXU3o3U1ZGWmk3UDlWTWdwREJySHgybHdMZzhFYVc0cHp5YU95SUtsbU5tX2MzVzk5cjdLSnB2cW0xOHlHcGpTcVZKS29Kem9GV2taNHN4UW81a25JNFhMOVN3dG1BLVdxVDBBRFpKaWhFWDNjVXRMYVV2a19rSURwcC1ySkJRc1k0Skk0T1hNdDFtdGFxNEN5WjVNZHJTNllIZEdhMk8xUUhhdmQ2THRIMFBHLUtZM3pWOXhCSi04TW5TWDg0X2V0dkjSAYgCQVVfeXFMT0xvOUFFdmNXTFBCZDNmN1I1cFFrQzgydk05MnJEbFFnOG9Kc1RPRk9sZDlNUUtXT1R5QkowSXJDWGRNemZGV1N6N1NWRlppN1A5Vk1ncERCckh4Mmx3TGc4RWFXNHB6eWFPeUlLbG1ObV9jM1c5OXI3S0pwdnFtMTh5R3BqU3FWSktvSnpvRldrWjRzeFFvNWtuSTRYTDlTd3RtQS1XcVQwQURaSmloRVgzY1V0TGFVdmtfa0lEcHAtckpCUXNZNEpJNE9YTXQxbXRhcTRDeVo1TWRyUzZZSGRHYTJPMVFIYXZkNkx0SDBQRy1LWTN6Vjl4QkotOE1uU1g4NF9ldHZI?oc=5",
+          "time": "Just now",
+          "body": "Hexaware to Invest £25 Million in UK Expansion, Creating 1,200 Jobs in AI, Digital Services, and Quantum Computing  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hexaware to Invest £25 Million in UK Expansion, Creating 1,200 Jobs in AI, Digital Services, and Quantum Computing The Tribune"
+            ],
+            "tldr": "Hexaware to Invest £25 Million in UK Expansion, Creating 1,200 Jobs in AI, Digit"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1781763832134",
+          "title": "Bloom Agency Expands AI-Powered Digital Solutions to Help Businesses Thrive in a Competitive Online Landscape - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT2lOdXdOdUdFWXJhOWVhMEtSNUZTNEdzUXRrSEMwQ3p4WjQySGN1Nkx4WDlhNlROM2pac1MxWDAwOWpPTkRXWGQyWnRjWDFfTFluaVJONkN3YS1rVWJYbDdlODYyR3ZtN1hNamtvQ1hzbGZZVENFU0VXQ1hwRG1pdmdlUDhtN251OUtYQlJaRlBnZjBpWHNRWEtmT2Y2VzhiaDBfWk94amZUd1pWRTEzYjhLbDJJbHV3dWh0ejJTMnp6dWZTSW10MHRmb3JNZzZ3ZkxpUklsRl9SNldWbmtWY3B5Tmp4VnExVUNhY0h30gHzAUFVX3lxTE5YeTNQMU1hb2VWUlVNdTd3a29zTXdTUWZFWGpsWFVFUmR6czgzNTJsbnlOcWF5WlhJTmFxRzV5aXdmUi1VWVlnaHFaUUZzcVkxUlBaQzI0LUxFQTBmNjN3OExENHAxZzJ5X3Q5U0RIUVlhcWJocUZLVkRfMVAya0dLbVdCRlR3TWhGYzZVaWNBaDVfc2lRUVVOcnNIQWxocmgtbjhZZGJ5ZVpLNUhMcHBtenRQSVh2NDZnZmhwbGt4UjdwWTIybEg0OGdVT3NOaVNkUXg0d2VqQWVZbHJYNmtQZWFXWXlEVmdlMXdXc2JSY0pTSQ?oc=5",
+          "time": "21h ago",
+          "body": "Bloom Agency Expands AI-Powered Digital Solutions to Help Businesses Thrive in a Competitive Online Landscape  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bloom Agency Expands AI-Powered Digital Solutions to Help Businesses Thrive in a Competitive Online Landscape ThePrint"
+            ],
+            "tldr": "Bloom Agency Expands AI-Powered Digital Solutions to Help Businesses Thrive in a"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1781763832134",
+          "title": "Wibmo Unveils Agentic Risk Intelligence Assistant - an AI Assistant for Financial Crime Operations - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOVpxVmxRaVJYS3pCSG5aRk41c3Q4UnBTdEU2dkpwa3FRMXM1NWZjQW9kMjVOUGVwczRCWHEyU215cnhYd0JscU03aG9zMWc4MlFOd0tlUGlVaXZibVFIclV0WXFrZzhKSWtKSTlaWGIxcGdwN2JaVFRzMGhqYWxNQTZKVHVNMlktTFV2WktFb2NSeWc4YUlDdGdKaEprb0h5R3ZyTU9PTVB4NlEzUFRvbTVRel9WdE1yUzJSMTZmdkJuQ0piSTJtaWJSVEhwSFBT0gHWAUFVX3lxTE5PUkNhaHhQQ1h0dzdHMzl4RTMxWHEzaVJNY0REd2FkTEdWb0ZHZHhtYzEtQUtsaDZib0FCOFNmU2NPUUxEcVU1WWo5aFpvY3c3d0Q3OEUzQllqR1gyRlp1blg4bVFSeVlYQ2lCWkxjaU5Va2FkdHpOOXR3NVpOSHJjakVzSnRYRmtsSmRCdzk2b2drYUYxVUI5OTJPZFBKQ3dGbm5GX09SRi1QUFRXdmhfMThmVjhiVHhoak1GejducEl5XzhsTDA0b1VXOWJCdVZzOHNNekE?oc=5",
+          "time": "19h ago",
+          "body": "Wibmo Unveils Agentic Risk Intelligence Assistant - an AI Assistant for Financial Crime Operations  TheWire.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Wibmo Unveils Agentic Risk Intelligence Assistant - an AI Assistant for Financial Crime Operations TheWire.in"
+            ],
+            "tldr": "Wibmo Unveils Agentic Risk Intelligence Assistant - an AI Assistant for Financia"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1781763832134",
+          "title": "Andhra Pradesh, Google to Collaborate on AI and Digital Governance Initiatives - Elets Technomedia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTZGOThmaE84WmYycFBtYXJabkZtcGI3VkJ0R3hxMDgycmxkdGd1Z0E2eFJ5V1Qyc1J6T29OVmdxZjZ4YlpLYUhGY2w0Zkw5YUdQb19pZFpobEVUSGwxNUdNTjlMbENqOTJsbjFxNlZBelEyQ01nTjBxb0J6SHZNY01IbWxHSVpYQjJUMXVWdXZtLXhLaXVNV2QtdEkxOUVnYVgzcG1kd3ZFY1Z4TGNtblRDbTRMUQ?oc=5",
+          "time": "23h ago",
+          "body": "Andhra Pradesh, Google to Collaborate on AI and Digital Governance Initiatives  Elets Technomedia",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Andhra Pradesh, Google to Collaborate on AI and Digital Governance Initiatives Elets Technomedia"
+            ],
+            "tldr": "Andhra Pradesh, Google to Collaborate on AI and Digital Governance Initiatives E"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1781763832134",
+          "title": "Unilever scales digital twins across global manufacturing network with Accenture - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcC1uOWNleHBOYURqWnZKUlJCa2RtX2tVXzkxSDVxZWNHemtiRm5FdEJ2U01kVjJFbUgycVZpSVB1eDRhbEhVWWxaUlRDQ0xVQXg3LVo4UTVUUV9DYnk5b3FORmhVV1l5dFBPcG1TM1VWcmpRRTl6cUZLX3Z1elZmOVhmbWROd04xVkNWNGQxakYwd2pldnFzMnpXUkQwSGJ4SUxaOXVreW5qMDBLUG44U2lKUEFvQVR6Nm9kenBPRXd5QdIBxwFBVV95cUxOX0RQZC1ydnNrMGx5cTk0UmRubjlRLV9qQ3BiREN3dllBeVF0TFoyQVNkZHJFanNBZjl3Y2NWcnNUWW5PZWltTjFZSHVPcG1RZmVCTnhXLTJYSEh4S0RCTmNiLXVsZUlqTnQzQVZNUXZtQVE3N2NWdHY4VGtZZ0l1LWVHOXI1ZVJPS2RCcm5KWDkwS0JrcEItTEN0YmZJSXhFY3NKZ2p0MU1JR09xNVFPMVdSd2RDMGdXeVF6aXpvREl1YkRjZE1n?oc=5",
+          "time": "12h ago",
+          "body": "Unilever scales digital twins across global manufacturing network with Accenture  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Unilever scales digital twins across global manufacturing network with Accenture Express Computer"
+            ],
+            "tldr": "Unilever scales digital twins across global manufacturing network with Accenture"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1781763832134",
+          "title": "AI And Social Media Help Belagavi Police Reunite 12 Missing Persons With Families - All About Belgaum",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnEtMnVyUkhXZjl1bXl5MXJKVjgzeGxBMWhDd05xeU9LdXpLaEJ6VjhtTUZaZTVHZUEtc2pabmEtdEJnSGYyZmRGd3RGLUh2T2N4SFRBb2s0c0ZJRkRoQkNzMUpReTNDMnNmek51elJ1M184U0hUbjAwVGpDLVpqbTFfYkMtUEUwbUJqSTl2MHMzWjdVc2s2bDZoOUFXdHVVRkh4eVByMEFvWF9QWXVKQTk5TDZPdw?oc=5",
+          "time": "1h ago",
+          "body": "AI And Social Media Help Belagavi Police Reunite 12 Missing Persons With Families  All About Belgaum",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI And Social Media Help Belagavi Police Reunite 12 Missing Persons With Families All About Belgaum"
+            ],
+            "tldr": "AI And Social Media Help Belagavi Police Reunite 12 Missing Persons With Familie"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1781763832134",
+          "title": "TCS Bags Digital Transformation Mandate From Tottenham Hotspur - Analytics India Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2xubmVuQko3cnFTVnY2SWxBYnJfYjFSbVpMS0lrMkp6WENmbnQtdmpSU2NHRDhWZ0Ewa1VMQlZnTkhzbVRPbDVWa1FMMklxbzVXRUFHWXMyVEpybGZqSzNLSmh1MXlFU0xIOXY2UkY2U2JsS2tQRC1rUWpNS0FOdlRnenZkMEtLcVl1dGEzSjlWVjVEc09JV2taRk9OYWxKOGc?oc=5",
+          "time": "21h ago",
+          "body": "TCS Bags Digital Transformation Mandate From Tottenham Hotspur  Analytics India Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TCS Bags Digital Transformation Mandate From Tottenham Hotspur Analytics India Magazine"
+            ],
+            "tldr": "TCS Bags Digital Transformation Mandate From Tottenham Hotspur Analytics India M"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1781763832101",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "Just now",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1781763832101",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "2h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1781763832101",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "8h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1781763832101",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "12h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1781763832101",
+          "title": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RSMDExX3Z3TmRWaHN6Z2N4UlpWSkRkdWFPRkNpR25qRmJYNnFzTzlodW50dVBXQ2I0a2J2T09wTHNteW10bUJjOTNzWlViZWJXdXRiVFFEd1BwQWxzR3F6QXdEdjYtbS1sTEZydXQxRVFvYk1QOVcweElBQlU3ZWhsS3IwZEhoNFd1N0tyd1dCRlp1S2RXNmphU0ZLajhTSGc?oc=5",
+          "time": "8h ago",
+          "body": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1781763832101",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "12h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1781763832101",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "20h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1781763832101",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "13h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1781763833415",
+          "title": "Noida Latest News Today on June 17th, 2026: Airport Operations, New Expressway & Civic Protests - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOenROZ0wxeWdWZ3RWRTNCRVR1bjFLTC1MY0ttMFZWRExrenhpSWtNTktzeUQ3bXhMZGpid0d2dFFTdFhjQ2tkdENoZEszbTlQMnpYM2NubnRrYWlCV1ZGYy10S1pqREJVYTJpSHl3Yko3SjdEU01icnp2VWgxQ0FWTHpHYmhjdzhuYTJUV0c0akg0UlJWV2RjUkZ1MHdJZ1dHd0t0SHFjQTUzQVNhUXRBQWw1VG16eTVQQ2FCb1h6MXNWVHp2R0RYa3VZZ2xzemRpdzBEeG5B0gHbAUFVX3lxTE5Hbms0V0dvWGVIVGlFRkRvNFhVdGlWX1RqZ1p1cWZmNWh6RVNDcm10Y0NJX0tURzBUcnJhMU5FSFYxNU9GM1p1VS1mNGY2TzU1WHFJNVNGUFVWOGQ3LXl5UUE0N1JfY0hwUDJrWU9xRVZMaUlGR2tDR2NndTJkWWVPOFdDeEtGNkkyb2F2RjZPNDFzVzlfekI0eEx6eFFVaVhfOHlqMzB2MXhZbGQ3MnFOaU50bGZJNFVRSXlsaGliUUM5Y1dpSFVxWnk0YmQ0Vm9lZDlQaVdaMzVycw?oc=5",
+          "time": "12h ago",
+          "body": "Noida Latest News Today on June 17th, 2026: Airport Operations, New Expressway & Civic Protests  LatestLY",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Noida Latest News Today on June 17th, 2026: Airport Operations, New Expressway & Civic Protests LatestLY"
+            ],
+            "tldr": "Noida Latest News Today on June 17th, 2026: Airport Operations, New Expressway &"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1781763833426",
+          "title": "Two Indian-origin women swept out to sea while napping at dangerous California beach, families left in shock",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Two Indian-origin women swept out to sea while napping at dangerous California beach, families left in shock. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Two Indian-origin women swept out to sea while napping at dangerous California beach, families left in shock. [object Object]"
+            ],
+            "tldr": "Two Indian-origin women swept out to sea while napping at dangerous California b"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1781763833426",
+          "title": "Indian-origin philanthropist who donated $5.5 million to Texas hospital says she's uncomfortable with publicity: 'We don't advertise'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin philanthropist who donated $5.5 million to Texas hospital says she's uncomfortable with publicity: 'We don't advertise'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin philanthropist who donated $5.5 million to Texas hospital says she's uncomfortable with publicity: 'We don't advertise'. [object Object]"
+            ],
+            "tldr": "Indian-origin philanthropist who donated $5.5 million to Texas hospital says she"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1781763833426",
+          "title": "Indian student battles for life in US after road accident; minor driver rammed into his vehicle in Alabama",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian student battles for life in US after road accident; minor driver rammed into his vehicle in Alabama. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student battles for life in US after road accident; minor driver rammed into his vehicle in Alabama. [object Object]"
+            ],
+            "tldr": "Indian student battles for life in US after road accident; minor driver rammed i"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1781763833426",
+          "title": "Indian man sentenced to 34 years in UK for kidnap, torture and rape",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "The court heard how the victim – a 24-year-old woman – became suspicious when she was asked to deliver the suitcase from Thailand back to the UK in June 2024. She refused, and when she arrived at Birmingham Airport she was put into a car and driven to London by masked men. She was taken to a house in Hanwell, west London, where she was subjected to prolonged torture, including by Singh, who also raped her on two occasions, the court was told.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The court heard how the victim – a 24-year-old woman – became suspicious when she was asked to deliver the suitcase from Thailand back to the UK in June 2024.",
+              "She refused, and when she arrived at Birmingham Airport she was put into a car and driven to London by masked men.",
+              "She was taken to a house in Hanwell, west London, where she was subjected to prolonged torture, including by Singh, who also raped her on two occasions, the court was told."
+            ],
+            "tldr": "The court heard how the victim – a 24-year-old woman – became suspicious when sh"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1781763833426",
+          "title": "Meet Parveen Kumar: Indian-origin doctor awarded Britain's highest order of British Empire honour",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Meet Parveen Kumar: Indian-origin doctor awarded Britain's highest order of British Empire honour. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Parveen Kumar: Indian-origin doctor awarded Britain's highest order of British Empire honour. [object Object]"
+            ],
+            "tldr": "Meet Parveen Kumar: Indian-origin doctor awarded Britain's highest order of Brit"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1781763833426",
+          "title": "Indian-origin man stabbed to death in west London; probe under way",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "An Indian-origin man, Gurbhej Singh, was fatally stabbed in London's Southall on North Road. Police are investigating the homicide, which occurred around 00:30hrs on Wednesday. Detectives have arrested seven men, with one currently on bail pending further inquiries, as they continue to seek information.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian-origin man, Gurbhej Singh, was fatally stabbed in London's Southall on North Road.",
+              "Police are investigating the homicide, which occurred around 00:30hrs on Wednesday.",
+              "Detectives have arrested seven men, with one currently on bail pending further inquiries, as they continue to seek information."
+            ],
+            "tldr": "An Indian-origin man, Gurbhej Singh, was fatally stabbed in London's Southall on"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1781763833426",
+          "title": "Indian-origin man saves 3-year-old girl falling from London window ledge",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin man saves 3-year-old girl falling from London window ledge. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man saves 3-year-old girl falling from London window ledge. [object Object]"
+            ],
+            "tldr": "Indian-origin man saves 3-year-old girl falling from London window ledge. [objec"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1781763834742",
+          "title": "Gold Rate Today in Aurangabad 17th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "14h ago",
+          "body": "Gold Rate Today in Aurangabad 17th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 17th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 17th June 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1781763834742",
+          "title": "UGC NET Admit Card 2026 Out @ugcnet.nta.ac.in, Download Hall Ticket PDF - Adda247",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01VFNSbjl1bkNiZTR0Nl9POGZuTi12UF9oSEk2Uk1Qc3dxWUJZSGstZTlNWGdkdktOR0Z2VUNFV05NNW1pcjRpY1FseWkxaWRaRmFRdGdNSUlONjI5ZXdOUlB3LTR5a2VjN2Z1cXhvMm5uUi1DRHJuU3pvY0Q?oc=5",
+          "time": "1h ago",
+          "body": "UGC NET Admit Card 2026 Out @ugcnet.nta.ac.in, Download Hall Ticket PDF  Adda247",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "UGC NET Admit Card 2026 Out @ugcnet.nta.ac.in, Download Hall Ticket PDF Adda247"
+            ],
+            "tldr": "UGC NET Admit Card 2026 Out @ugcnet.nta.ac.in, Download Hall Ticket PDF Adda247"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1781763834742",
+          "title": "I am Uddhav Thackeray’s worker, says son of Sena (UBT) MP Ashtikar - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU29teklEZURweUtiMFhGR2lGc0NqY0dQNW9iR09scHduTDFKZThTZnFWam9Ha3VRQ2FDMDdHWGNyV256UHFCaG1VZVdqX3dqNFAwVHYyQVF1N0tRemlsUnJ1djFWa1FWVmFfd0RxWThTbTZQa0hPdHFvQkc5NFNSYUl5S0hXdVhFUUNLY3RUU3RFNEVQYXBJSVpheHJTUdIBowFBVV95cUxQcGYtTmcwb3ZGYjdhVFZLRmVrRG5yVENpWEl0bmd6NF9PckFtbF9BeFlxdkoweFhGQUwtM2oxX2ZORWludkttUy1tV3U3cmVFdG80QTBIb0RXM3E3NmY5X1hsV0QyU3NvU3RyT1lSRTZ4MGVJYkMyb3hrLU9RWUNucGR4YnpPZldjUzRGb2JCTnQ2cUFrRE9KWjlKSkpJYzVIczlF?oc=5",
+          "time": "17h ago",
+          "body": "I am Uddhav Thackeray’s worker, says son of Sena (UBT) MP Ashtikar  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "I am Uddhav Thackeray’s worker, says son of Sena (UBT) MP Ashtikar ThePrint"
+            ],
+            "tldr": "I am Uddhav Thackeray’s worker, says son of Sena (UBT) MP Ashtikar ThePrint"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1781763834742",
+          "title": "Mumbai Monsoon Latest Update: Mumbai, Pune, Nagpur, Thane, Raigad, Ratnagiri, Sangli, Satara, Kolhapur likely - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQzFkdmlxcjNTelREUFVFejVWZmdzYmo5TnFlOUJ4ZnZJaHU4VHhoWFdaTlhFcWV1NTh1MzUyd1BwRHQ2eGFOZ05BMThZNldXOEVtdnlrY1lteG1Vc3MxNThkeE9aSVF4aW55b0p3UjFLQ1Z1cEpVdm12aWRHZ3pfXzJTS05OVm1aTHRNLVZNM1RUWlc5RV9rQkd6a2dBU2dWaG9RUjRUV0JTMG9sSnBYNzVfUjlLWnh5cjhVcl93aEx0QS1xd25STnQwYno1RHl0aXRuaG1mWmNFMlVKRExWRG5IRy1IWGFONUxYVFV2eHZvaTF1THMwNW9rekFxeFFsbGdBRkRiXzZ4bi02eDhPYzYxb2Q2WnFYOTdJTVlBM19ENFdhUVlr0gGnAkFVX3lxTE9DMWR2aXFyM1N6VERQVUV6NVZmZ3NiajlOcWU5QnhmdklodThUeGhYV1pOWEVxZXU1OHUzNTJ3UHBEdDZ4YU5nTkExOFk2V1c4RW12eWtjWW14bVVzczE1OGR4T1pJUXhpbnlvSndSMUtDVnVwSlV2bXZpZEdnel9fMlNLTk5WbVpMdE0tVk0zVFRaVzlFX2tCR3prZ0FTZ1Zob1FSNFRXQlMwb2xKcFg3NV9SOUtaeHlyOFVyX3doTHRBLXF3blJOdDBiejVEeXRpdG5obWZaY0UyVUpETFZEbkhHLUhYYU41TFhUVXZ4dm9pMXVMczA1b2t6QXF4UWxsZ0FGRGJfNnhuLTZ4OE9jNjFvZDZacVg5N0lNWUEzX0Q0V2FRWWs?oc=5",
+          "time": "4h ago",
+          "body": "Mumbai Monsoon Latest Update: Mumbai, Pune, Nagpur, Thane, Raigad, Ratnagiri, Sangli, Satara, Kolhapur likely  India.Com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mumbai Monsoon Latest Update: Mumbai, Pune, Nagpur, Thane, Raigad, Ratnagiri, Sangli, Satara, Kolhapur likely India.Com"
+            ],
+            "tldr": "Mumbai Monsoon Latest Update: Mumbai, Pune, Nagpur, Thane, Raigad, Ratnagiri, Sa"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1781763834742",
+          "title": "Three Shiv Sena (UBT) MPs from Marathwada go silent amid split buzz; party workers vent anger - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeGNJcjJURW1raFdmWDFQV1A3cXM5b1RXREVDQWFtVFBiQ0RNb0hjX3dMdDljbG51dGdfLU90aC1wUDZXdzZHTkl3NVd4eWhQcDdSOFc5a0lfU1U2cEZwRzJsZDE2bkxCeVNkN3YtcFdZeVdrZmJBQXllbk9RVjdpRXFRVDM5RXk5a0xDa0dSV0VHU0g0bTVrTEFpZkVNWkI2Mkk1LUxlUDRvanloc015Q0tlMWNwTlBkZjQ4TGFaeXF2a0M2OElMSjRRa21abEx0LUh1VGlMRERqdXlQdjg4VnV3MDZJcU1UcFRSUVdTY1dZeDVxYlpCNTJXeGhGQ0NlZ3fSAYICQVVfeXFMT3hjSXIyVEVta2hXZlgxUFdQN3FzOW9UV0RFQ0FhbVRQYkNETW9IY193THQ5Y2xudXRnXy1PdGgtcFA2V3c2R05JdzVXeHloUHA3UjhXOWtJX1NVNnBGcEcybGQxNm5MQnlTZDd2LXBXWXlXa2ZiQUF5ZW5PUVY3aUVxUVQzOUV5OWtMQ2tHUldFR1NING01a0xBaWZFTVpCNjJJNS1MZVA0b2p5aHNNeUNLZTFjcE5QZGY0OExhWnlxdmtDNjhJTEo0UWttWmxMdC1IdVRpTEREanV5UHY4OFZ1dzA2SXFNVHBUUlFXU2NXWXg1cWJaQjUyV3hoRkNDZWd3?oc=5",
+          "time": "11h ago",
+          "body": "Three Shiv Sena (UBT) MPs from Marathwada go silent amid split buzz; party workers vent anger  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Three Shiv Sena (UBT) MPs from Marathwada go silent amid split buzz; party workers vent anger The Times of India"
+            ],
+            "tldr": "Three Shiv Sena (UBT) MPs from Marathwada go silent amid split buzz; party worke"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1781763834742",
+          "title": "MH CET 5-year LLB Cut off (LIVE): Expected Cutoff for Top Colleges - Careers360",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzdTUW5PbHRjYlMyd2FYNl9yQVNtUC1TbEgtSDc5SDhyb21jSmdvRUY2VnRLZ3dsNmFzV2ZDOHNSemhwM0k1OHk0MXBya2EtUkMwMXJER0tlU2dmdTEta2NaX293bEFGdERPQ1Nad2FjSlRvZkdWMUV3TXh0RXBoZE1KdXR4bW84VUcwRlo3VGt1di0wWTlLNnpJZ29sWWl2LXJrbTF3NzhNR2VN?oc=5",
+          "time": "13h ago",
+          "body": "MH CET 5-year LLB Cut off (LIVE): Expected Cutoff for Top Colleges  Careers360",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "MH CET 5-year LLB Cut off (LIVE): Expected Cutoff for Top Colleges Careers360"
+            ],
+            "tldr": "MH CET 5-year LLB Cut off (LIVE): Expected Cutoff for Top Colleges Careers360"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1781763834742",
+          "title": "Endurance Technologies IPO Opens: Auto Component Maker Seeks Rs 1,162 Crore - Capex Guidance - newsline.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUC1qUUJEcWNJT2hHSDh2MFliQXZ1bm1rVmplNXJ2TXpJYkxFWUNXLVhuUUg5UFB4U1dfYUJndE1CV0tYRTJGWnAtRVgyNThidmNNSGpQRklmaC01VHh0dVEwUDQzemROQkZSankxLUI4OTJoVTNDWWhVaTI0NjlQcVo0Nm5ObFUzZGZOTHJPcUpsVGM1UVgwUDREZlBzNllsMmhDYnNjOUVWM2NIRi1IcWdjTTM?oc=5",
+          "time": "14h ago",
+          "body": "Endurance Technologies IPO Opens: Auto Component Maker Seeks Rs 1,162 Crore - Capex Guidance  newsline.com",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Endurance Technologies IPO Opens: Auto Component Maker Seeks Rs 1,162 Crore - Capex Guidance newsline.com"
+            ],
+            "tldr": "Endurance Technologies IPO Opens: Auto Component Maker Seeks Rs 1,162 Crore - Ca"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1781763834742",
+          "title": "Silver Rate Today in Aurangabad 17th June 2026 : 1 KG, Silver Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwaWp6TzRqRkEzOWRFYXVYZWZYbzJnMnVQblpkcFlzc0xiekdCTTJhbjdhOVBkWWFQV3Z6MDlEQ3hQQWF1QV90WTBDUEJhMjJOaHZoUWtLNXNKcHgwWE5FT09Ja3RrZ2hzMjNIWkNhRFJoNFlsSWZUNE1n?oc=5",
+          "time": "15h ago",
+          "body": "Silver Rate Today in Aurangabad 17th June 2026 : 1 KG, Silver Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Aurangabad 17th June 2026 : 1 KG, Silver Price in Aurangabad Business Today"
+            ],
+            "tldr": "Silver Rate Today in Aurangabad 17th June 2026 : 1 KG, Silver Price in Aurangaba"
+          }
+        }
+      ]
+    }
+  }
+}
