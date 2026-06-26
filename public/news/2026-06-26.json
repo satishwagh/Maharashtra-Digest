@@ -1,0 +1,796 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T05:51:07.002Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1782453061846",
+          "title": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXVLY0ZoSnFndDlLRkxjTFFxX0tKZkNOakVrZmhYdEVkLS02VGdTZ1VsZUtpRE9wQXNmYmFva3NXZG1QOXJnVHJkM29XZDVRMVZyaWdqbUR1d1N5V0JSbUtOb3FweHRBZkNiTzI1TlB1V3FCZERtQ2FOSUdIRk5RNFZuWVh0eWgxOVoxUXgzTEhXY2NjYmxQRlRoUVk1OHUxenJaejNHYTgwOFhmNVl5d3Q5ZVJnOUpTUTBOU3JkX1k?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost Investment and Jobs | Akashvani News News On AIR"
+            ],
+            "tldr": "Maharashtra Government Announces Artificial Intelligence Policy 2026 to Boost In"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1782453061846",
+          "title": "Activists serve legal notice to Maharashtra government over new RTI rules - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnhpRENSakg3Yk1RQnBwMWxqdmhmTFRjSnJNbXZuMWdtSWhadlhnNWlWWkxIWEQ4MHU4MF9WdVNtcUFpN01BTHJaVmZENVdsY3dxV0JNRzZzX3NSdnhtbkFiYXd1OXV0a1lmaUczTG5aUHMwTEk0ZlEzUGVTNWZsMG5lQjQ1anBic3ZVZGRYWUhySHNncnlsWC1tblBsemctLVkzVmJNeThHTlk3V2dMM2l6V2o0Q05GV015QjJfclBvckRtdXotR0dLWjFwUUozWHNoM0RVbGVGUUlpa0kzbtIB5gFBVV95cUxPUVJGekxhMFdxa2RvVHVUVGw4eVhBTEpWcVNGWENmS24zZVVMNTdMNF9rclV5aC1RcDk5ODAxRVpMYzlQYUhrZU1vRDdZZkJxek5IV3BCelZPZWplbjJXU2lHMXJlSE1BWlluMjVDSzFaWkVLRkQyeGo4bW9xYURiaWNvNTFGNkpqdkx3Wi1PWEdNTkZuOVk1Wmt1T1RrOWFTX0RPZWlTX095eTd1SEs1M3haUE03T1JvUy1sNlkwQmZrODc0MDdyazYyR2ZkNGpybEsweFNqMFdGY3pmTFQ0SWlyWHMxdw?oc=5",
+          "time": "12h ago",
+          "body": "Activists serve legal notice to Maharashtra government over new RTI rules  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Activists serve legal notice to Maharashtra government over new RTI rules The Times of India"
+            ],
+            "tldr": "Activists serve legal notice to Maharashtra government over new RTI rules The Ti"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1782453061846",
+          "title": "Maharashtra Assembly: Opposition raises Mumbai local train murder; Speaker asks govt. to make statement - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTlV0OTFJSE1KSFpVT0hzOVU0OTJWcVNmZHh5S3ZZak1Eb2Q5Y01hc1VtX3VNZktqRUprWjlxT0FScjEtMG1wSTNkQXFqMW50RGxsRHF6WlVWTTlhSTlCNnZIZDNKaWpZY0lfR2xoVmw0ODVFMk5TcjhoZkoyaG14QjJhRDZVbVVlSjQ1RGRzem1VNUVkN3o0eC1JRVRtWnM2QncwSXJvQ0xVdFVVeGMtN2JNcmk4OGVhTFdocjUzUDZOY1B5WG5sMzA4YUFXVFg4c21sT3Q2UVZvLXlncDdiVVF6eFR1SlJYcm1ub1BITlg4OTJxbUJLdHFEQllFZW8x0gGHAkFVX3lxTFBTMVgyY00tVWYtcmdLZG5CbGw3cl9HaXE4VTk2LUQ5T0dDMnB5YXVRdjFsZWV4ZUlDWTVCR21DOXpRYjBJd09fSGUzQjUxbzZaVU1ZOHVGY2tVTG1mSHd0N0VzTTZ0SVFyWnhLWERpNVhSWUZYc21fWDhoZzZwX3gwMDJyVFIwTlMyNjZ5eGFpTm1lRGdGS2dwV3FGbURHbURFT2JkejZCXzhXUXRiWm04aWdjTnE0c1U2UTVQNVNXTkRTUk1kYnFIb1NuWjhyRDNicTBZRU15R2w5eUhNVmJJYzk1aC1ieFJtNDJMSzZNcjhMbElWcUgxbGFSNWpndFJWVmhSWnI0?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra Assembly: Opposition raises Mumbai local train murder; Speaker asks govt. to make statement  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Assembly: Opposition raises Mumbai local train murder; Speaker asks govt. to make statement The Hindu"
+            ],
+            "tldr": "Maharashtra Assembly: Opposition raises Mumbai local train murder; Speaker asks "
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1782453061846",
+          "title": "Maharashtra MLAs call for better neonatal care facilities; govt to review expansion plans - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUtiSXVmTnNOaFRTRS1kdGRhbGFaV3VhYWFiWVlTUnlCc0wyVzBIbW5oaXhIcDFJWjF3TEZXZDNaUWZTd2JWS2ZjVUlNMVFHb0FFNDg4VU1tUUZFdFVPejFDMEl5TlczQnhIV0VWZzJJb2ZyUnVIU1h4UHVhMjRKeU1HUlRFQTl0ZTNIMVBFenVGZXNXNGh3MkVzUTlrSVpPbTczOU9VMW5nd0pfVklXUTZiN2ZzMWYtdkxKR1FVaUTSAcYBQVVfeXFMTmlDRmpIcWxVbk5zUmZXX1BuTTZXZVU4ZFppeDZabWpZdXBNZEhjRUt5TkRYdE1kcjlrNV9peWhobTBZLXVuYmo1RENNX1RMS1ZfUU1CbmlsaEhCRU9ZTDd6UjJvQWx4b2hTTmdGOEpLZ2J1MmJDX29IUm52Mmk2c3VJc2lCSWR3eXQxeEZjalZKZjdMWWxTNFllUzd2dnpSY3luSk5UeTUzU3hxMTJpbjRFeXVxeFZ0bEoycjl4YUhZWDBZZjhB?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra MLAs call for better neonatal care facilities; govt to review expansion plans  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra MLAs call for better neonatal care facilities; govt to review expansion plans ThePrint"
+            ],
+            "tldr": "Maharashtra MLAs call for better neonatal care facilities; govt to review expans"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1782453061846",
+          "title": "Maharashtra government to propose amendments to Explosives Rules - GujaratSamachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3BnelFGdFNZR0FUYTRzQ0hHbDdMdHpJV01vUkxhdlBTMjczTVQ0amlvRmx4SnQ0SE0zVDcxNlNEMm5sb3QxUnF2QTRDRHdFT1lBQWdRYmxHOE9ENm5BdjF0cXRDU1JrX3pLTmFjS2xjdmFXdlpDdlQyMlR0ZDBUMUh6QVg3dmlHVktLdDZvRmF6SjdvUkdLSVpXdVZrYjlVX05XWFl1WjNKVEwwRUtCRjctTWt3TlJTRXVmcnZzMU9wQQ?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra government to propose amendments to Explosives Rules  GujaratSamachar English",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government to propose amendments to Explosives Rules GujaratSamachar English"
+            ],
+            "tldr": "Maharashtra government to propose amendments to Explosives Rules GujaratSamachar"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1782453061846",
+          "title": "AG’s office will probe stamp duty process ‘irregularities’: Maharashtra Minister Bawankule - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSzgwRWJTZ1ZTN3hpanRjT1VoWkZFTW0wVGVxOUVtLWg3dXNOa19faXo0NmF6QnpManByUnp1NHZoYXROM0VqSk1VX01aSTc3TUpUdWtxc3k2eFhfVnhYYVI4ZVRyNFdQVl9KOExsRmJQUklyVXV2Y3BNXzJLOGdZRjU5Q1Rid09VRUtrUURmTUpWM0lSTmNhWURJZU83RDhCcGQyNktBRkZYWF9uZ20wQkxxUmRhRV9XZGlTVDMtWkppVDR4X2RGeGxPemJXcnFfbzBkMnJNNNIB3gFBVV95cUxOLS00czZxMmNFdFNSMEZ0ZUlXLVNLRE1vS3Z0bkY4MUp6WFAzX1VtTzRfc3BYRHRReHROYk1aSDNza2gwS3QtbGNBeGNYYzhEZXRHeXFGSTFOQkFZM0dwQUctU2kxcHhTdUFrakkyd0l6LWIyaUdVZjgwemUyUGg0SzlRWUhZQUx2Z0JnUVRSUU1aVEc5MGR1S0hyVlJLZE9EeVRPcHlNSXlIUldmYm1jck54d0lidEZSYjNiSnBZS0I5bTMzcHc5VnpEdTlGMnhNclBiUDZQMm83U1dMeUE?oc=5",
+          "time": "12h ago",
+          "body": "AG’s office will probe stamp duty process ‘irregularities’: Maharashtra Minister Bawankule  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AG’s office will probe stamp duty process ‘irregularities’: Maharashtra Minister Bawankule The Indian Express"
+            ],
+            "tldr": "AG’s office will probe stamp duty process ‘irregularities’: Maharashtra Minister"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1782453061846",
+          "title": "Maharashtra govt accepts demand for thermal power plant audits amid concerns over fly ash disposal - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU1ptM1JFRUtQVXVBcHJaOXlXRmJWREJDbUljd29ROUNVbWQ3ZzZBNXJoRmgweFFpU0U0dGcxSFpyT3VpWGpjcENwUzBqRFA3Tnh2VmR4bmU0Um5qUWdVWU1kTUdvb2lRZ0FLQk9qMWktV25ScWZFaFUzZkRpT3RPM1JyTzMtc3FBOWwtUjlvOGxqWTRKbWhtMzQ1anRoZVlzX0M1VUxhWjNlODBKYy1wbE1vOHdJcjk3Q1hKWHJNZVdLT2tBV1FFa3dfRC1sQk1yV1R3TW9OYTRlUVk4NFJlSzhxb2NENUp5ckpTcVNMalVRZF9IVDMyNS1fT3FocWPSAYQCQVVfeXFMTnVPbHFwazR5dlVPNktUb0hpZGM5UGppTU9vQzNJQm5QRVNicjl2LWNSekNETUJXbWpzM3BjV1BMV0w4QWJ6OHdzLXJZUm83a0tJMXdjRDRlR2ZXX25YR2J4M1VkNE5SZ1dHUnRGd2hCX1hJVzNMR25ZdlFHR0otNVpySEpDaEU2VF9nUHFXLWRWTVZ0QWpBLXktaW50bHlhX2JSbWVFSWNjOUFqMnk1Qlpxb2hSaDQxMnBuc0hCc3N4M2dPYnJpSFk4LTE0MVhoYkl0U2thWnRTWXJDY3ZodFhTX3Z6THdkQUVMeERhSUFpRU5PMC1RX1JydVJ6TDJpTm9RcS0?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra govt accepts demand for thermal power plant audits amid concerns over fly ash disposal  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt accepts demand for thermal power plant audits amid concerns over fly ash disposal The Economic Times"
+            ],
+            "tldr": "Maharashtra govt accepts demand for thermal power plant audits amid concerns ove"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1782453061846",
+          "title": "Pune Realtor's Murder: Maharashtra Assembly Presiding Officer Asks Govt To Form SIT - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWFlmVVU3SEV2ZTVGVjA1bUN2dGhxV1ROUkRQQXFGRERGTmdGRy1ZRVFWUkNwQXJDSF9nVk1SbW96Y1FNWVVVa1NaaC00dU1Sdld3Z1VKazh5REVXb05aVzFWSXN4Nm9Vem9ZdkhjODlaakwzTEVmMmhaVFp3OHh2anRwT3BCOU03VnIxSkVZUzVQTENQSmp3NGxBc3JKUjNnVVcxWkxyWk5fRUVxSGtOMXJENVVsd0JoT3pvSTVlWkxkWlZrVEhFQzN4TVZRWW9XaHh5MnRlZGdBQjhB0gHiAUFVX3lxTFBFUTgyTFpfWURMZHFFLXc2enpxTzRVZElpR21KWTBMd1F4em9xSU1BZGdVZkZ6WkZWQlhEck1TWUdVUmItbjFtMjhzUGVpcWMzblljUmppNFBDSGNPOVNONE5yM0xoZ2tmeG53dDBjWU9mM3JGVlA3TEl4RG9pTzEycEZiQTlUanRhUkhfQzZBc3UwOGtBMGl1TzFPLURZaGpLdWdBSjlmekFOeWZuRXVfRzlhSmhQZk11TlU3V0V6Z3BDOXZ2bG1ESnNPanZobU41NlY3ZS12SXBRNEhQcmFKd1E?oc=5",
+          "time": "19h ago",
+          "body": "Pune Realtor's Murder: Maharashtra Assembly Presiding Officer Asks Govt To Form SIT  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pune Realtor's Murder: Maharashtra Assembly Presiding Officer Asks Govt To Form SIT Deccan Chronicle"
+            ],
+            "tldr": "Pune Realtor's Murder: Maharashtra Assembly Presiding Officer Asks Govt To Form "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-4-1782453061846",
+          "title": "Maharashtra Orders Statewide Probe into Stamp Duty Cases; AG Task Force to Investigate Alleged Multi-Crore Scam - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNb2dJMFZaWFZQZG91ZEZGR3o5b0E0VC1kSUhXV0s4Nzk1M1pBbTJ3SjNkZExfc0xDR05LWTlwVFRHUVhna0ZXZURGNzVNSjhoRDJlNllsa3lXOXVud09fNGd1bFJwdC0xdnhfVVVTeEtIWnlmUGZjRmlrWm1vek84NWFoTndxNF83VHpDRm9yV3NpS1kyWGNpeXZZZHVxcmp5cGZlRG85MlNBOUFZT3pZVmtMNWRwSEkwNkl4M2VDa056UlZkYm1yeFUyUUZTX0JTTE5KM19QcUdQWmFUUmZlSE1oLS1hb1BxejZFdWpnZ09ySV8tYXdPckJKN2M0QTRkTWxqZUY3c01WUmx4bl8yaGg0OWdkMXNXUmhRQzFtU0RwcWZETElycGktTkNVZUNzSGFKNXNvcGhlNEowNDVkZ0lXaHFiTkViMTlfMnNKcm5VdURiLUHSAdYCQVVfeXFMTW9nSTBWWlhWUGRvdWRGRkd6OW9BNFQtZElIV1dLODc5NTNaQW0yd0ozZGRMX3NMQ0dOS1k5cFRUR1FYZ2tGV2VERjc1TUo4aEQyZTZZbGt5Vzl1bndPXzRndWxScHQtMXZ4X1VVU3hLSFp5ZlBmY0Zpa1ptb3pPODVhaE53cTRfN1R6Q0ZvcldzaUtZMlhjaXl2WWR1cXJqeXBmZURvOTJTQTlBWU96WVZrTDVkcEhJMDZJeDNlQ2tOelJWZGJtcnhVMlFGU19CU0xOSjNfUHFHUFphVFJmZUhNaC0tYW9QcXo2RXVqZ2dPcklfLWF3T3JCSjdjNEE0ZE1samVGN3NNVlJseG5fMmhoNDlnZDFzV1JoUUMxbVNEcHFmRExJcnBpLU5DVWVDc0hhSjVzb3BoZTRKMDQ1ZGdJV2hxYk5FYjE5XzJzSnJuVXVEYi1B?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra Orders Statewide Probe into Stamp Duty Cases; AG Task Force to Investigate Alleged Multi-Crore Scam  Marksmen Daily",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Orders Statewide Probe into Stamp Duty Cases; AG Task Force to Investigate Alleged Multi-Crore Scam Marksmen Daily"
+            ],
+            "tldr": "Maharashtra Orders Statewide Probe into Stamp Duty Cases; AG Task Force to Inves"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1782453061774",
+          "title": "Stock market closed: NSE, BSE shut for Muharram today - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPel9zTXVVN182UGFkMjJJUDExYTQ5STlHNEV3V2RjSS1vek9vaFFNNWdGd1RXQ1k2Q05XZGpCLUVWd3VrV2x2THpuaW5kak5EN0dzR1N0bEdFRTR3Ukt1TEpaYlVmVkpXWVJOT2ViMDd4dE1oQXRyM0UtWVg4eDNrNm5Mb3RsTGR3el80V3p0X3lyQUV1V210MWVSdFVCTEJPRVU0QmRybjlJZzJfbjRSRWd6YnRBSmlTUjE2ekdBRUd1VVBHYkHSAcsBQVVfeXFMTllpa2lHZXhMOWlSaUhqb1dkcTZMRV9ELXNiaGRHWnktdkFVUmxTbGlVVlFhSGM3TlMxUGpHM0MtdTV3NlBROU9ub2h5VTh6bzRkWnI3THN2OExfQVZFcThqcmhDM01TOW1ZQ3prSm5xelA4RTh0OGFYUDNaNE5XVmhOMm1QbXdERUwtN3V4ZFFyTV96T0o2QURIWHhxMmVsOGtlQXVBeG0wNzBKU3JfY0lKem9PQ3NEUzlYY3hsNWdLWkszelJCMmViVVk?oc=5",
+          "time": "5h ago",
+          "body": "Stock market closed: NSE, BSE shut for Muharram today  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market closed: NSE, BSE shut for Muharram today Moneycontrol.com"
+            ],
+            "tldr": "Stock market closed: NSE, BSE shut for Muharram today Moneycontrol.com"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1782453061774",
+          "title": "Daily Brief India: Shriram Finance , Bombay Stock Exchange, Pine Labs, GMM Pfaudler, E2E Networks and more - Smartkarma",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUWJ2SGZiMWh6ZzBJSG1sMlB0bHVUV0k2VTREY0JETjhJaXNVRmR5UEpJQlVlSTlPYmYwNEY0MFJ4cmZDRHBENTFhZ3ZEallNVzhuaFVnbGIxSDZFaWlJZjFCaGhWenVxT2dycG9pRnJYbmltRjY4MFZYN2RMNkZPMEdLeUVyRVRYb3ktUWdjeUhocGFCOFhOZUwwandiM3R2emRONVNsTnU3aGp2YmxnQlRqb1JlYVY2R3RXZE1LUlFoY2JfempKS0xrQTk1c2JXSWF4dmpnaEZhVXR5dDJN?oc=5",
+          "time": "3h ago",
+          "body": "Daily Brief India: Shriram Finance , Bombay Stock Exchange, Pine Labs, GMM Pfaudler, E2E Networks and more  Smartkarma",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Daily Brief India: Shriram Finance , Bombay Stock Exchange, Pine Labs, GMM Pfaudler, E2E Networks and more Smartkarma"
+            ],
+            "tldr": "Daily Brief India: Shriram Finance , Bombay Stock Exchange, Pine Labs, GMM Pfaud"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1782453061774",
+          "title": "Global Market: US weekly jobless claims drop more than expected - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "9h ago",
+          "body": "Global Market: US weekly jobless claims drop more than expected  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Global Market: US weekly jobless claims drop more than expected The Economic Times"
+            ],
+            "tldr": "Global Market: US weekly jobless claims drop more than expected The Economic Tim"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1782453061774",
+          "title": "Stock market holiday on Muharram: Are NSE and BSE open for trading on June 26? - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSlBNeHpLNW5sQ0IwbFBDTFRyYklTS0M2ZU9sWE5Wb19zdWR3eWFYcDBMSXAxT0FmdmdWRTdtWjZHWFcxZm05V2Z3UWxtVlExVWJEbUhabXVmaUp1OThidEM5UVRNajl6SzVsVmJYN19fblllWWxfdVhUZng2UTZwcXl2eTZoSml6X0YwZklzMDhBT1dlUGdVSm1tTklaZjFOVlk0aktFbVU3b2J6VW9IT0N2V0RYdGRhQXZlODdhbHhmQW9oM0NUVTgwbWtiUFViOFdmckd0SzV1RnhtMjBjMkNfRjdxM0Yx0gHuAUFVX3lxTFB2R1k2aHNHbW43dnZPNUJoanVyU1RoTjJ1d005c1JXN2tWMFY4Vk5Mbk5kbGFVSTJKVHZCcGQwX1dPTlVqaWpMSEhZbU9wdDhhSEUycXBpV3I5MENwMHlld3ltdnhEaTc5a1RNU2tSd0VKa0I1VkRHdW5JTTBDbkVtRG9HNld3XzZ1U2RoOVpoWnpBOTBxWGhJbC0tVzc0b011VWNhZ3RwdnJjY1gxU3pyNGJ5QTJDWkFDWFhBN1FJMHNFWXZMeGJESHJyWkVndlYzVTR5ZTI4M1UzZzdpTTJCNFFBMi1oMlpWTnlDSGc?oc=5",
+          "time": "16h ago",
+          "body": "Stock market holiday on Muharram: Are NSE and BSE open for trading on June 26?  India Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market holiday on Muharram: Are NSE and BSE open for trading on June 26?"
+            ],
+            "tldr": "Stock market holiday on Muharram: Are NSE and BSE open for trading on June 26?"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1782453061774",
+          "title": "Stock Market Holiday: Are NSE, BSE, MCX Closed on June 26 For Muharram? - Outlook Money",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjhOM1RCN0dDNTZJV2l6c0c2RGpsQ2dRQzB4T0cwM1pVOUZVMzl0Zm1jUDZwNFR3OWFLY2VUVDR1UGRfcXh4eUFPS1VjQTdaeHBpUFJidVZEMkdTWG1fNG9sVzV4d29BSVRDSTE2V182LWZsMW52allINGJEN0hqSG9Cck1uOW5mWHJxVHdlRkRIUnBkMnZmaTNaMGxRakRyS2lXVUJR0gGzAUFVX3lxTE41YUNoUTFwQ3Y5azBVN3RhbENVSE1TaVVTQVNQRnhoUWZ6Y2NyT0ZZMlJmTkkwXzEtd3k5SURlVF92NXhUaDFQMmFxSGRuaWVBeFBQaVdKRzRlVzFDOFQyWGhWTVJQNXRpV0NhLW14ZWpXaTBmQ1RXekxvVm5XUk1vM0RpUWthUmhhcWxhQkMwQnRPbXhtODBfazVkQVJqZ09ycHdObkV3aElVOS1BMmY0amhn?oc=5",
+          "time": "15h ago",
+          "body": "Stock Market Holiday: Are NSE, BSE, MCX Closed on June 26 For Muharram?  Outlook Money",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday: Are NSE, BSE, MCX Closed on June 26 For Muharram?"
+            ],
+            "tldr": "Stock Market Holiday: Are NSE, BSE, MCX Closed on June 26 For Muharram?"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1782453061774",
+          "title": "Stock Market Holiday On June 26: Trading On BSE, NSE Closed For Muharram; Sensex, Nifty Outlook Next Week - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMGtqWVVZLUt1OGk5RUhjS3FWX2ZWSDZXa01UQk43YkNNTGZjc3FWNVNXV3hCNG5RZlFFdWU4UVhoQzlQeWpmTUxMWk9HaXNGbVNxSEhJaFpfd3lSeUNMY0x1Wm5EYWhRZk5xWnZ4VWFOUXk4cEFYc25ub1BBWDF5d3dZMmFuSzY5eU1tcG40N0N4YkpKc0dkdWx2WmcxT2hoV3VSVTBsQ096N3BGR2g5bTRBdFpQR0JzY1gxczdFNWlFS2JDcVltd1ZmeGhQZEdta2dxZldVUQ?oc=5",
+          "time": "5h ago",
+          "body": "Stock Market Holiday On June 26: Trading On BSE, NSE Closed For Muharram; Sensex, Nifty Outlook Next Week  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday On June 26: Trading On BSE, NSE Closed For Muharram; Sensex, Nifty Outlook Next Week Goodreturns"
+            ],
+            "tldr": "Stock Market Holiday On June 26: Trading On BSE, NSE Closed For Muharram; Sensex"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1782453061774",
+          "title": "Stock markets rise for 2nd day, aided by falling oil prices, positive global trends - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYkhidlI5MGMyU1J2ajlMVXNUYTl1RHdyRkJoR2I5TTVvaERZYTREZVhkZ0dHV094VEdTUmt4Rkh5Rm5Lb1dMQ2VjTEJOYjZIVjdTS2RZZjlHLW1ZRmpyQjdUb3B6V3lxVW5IS2xzdmdLTVdVOGV1TFdsQXc4QmxDT0h6Z1dBRmw4UHZwbF9OcExyVk95UlNrWk1WeXZ0LTN6V0Q2amVKWThrZmxaQ0ZZSFpITUNCQWQyQ2MzZTZURURCYmV3QTdpOG02NVh0RUxFNTJCcGJiNkMxS1NDN21lV1g0cw?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets rise for 2nd day, aided by falling oil prices, positive global trends  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rise for 2nd day, aided by falling oil prices, positive global trends Deccan Herald"
+            ],
+            "tldr": "Stock markets rise for 2nd day, aided by falling oil prices, positive global tre"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-finance-7-1782453061774",
+          "title": "Top Gainers & Losers on June 25: HFCL, Tata Motors, IndiGo, CarTrade Tech, Paytm, UNO Minda among top gainers - Mint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcGxYTzgtRFgxS3JfQzFCRVRzOG5nbjRhcE9xbGhhVVJhazJDb1hDUi1CMFdsRGdfUC1lYjRoMWM5MjJjYWdwbGFFdnVXQnh3SWo0am1RTEUtTDhadENUYnNHUkUxTjhOX3dGMWZkeVliMjBweFBWNjI3RXI4V3o0ZDVnTlJvYk5UVkZNRUdNdC1IWUNZR0FJcXVzZTVZYnpXOWFnZVFBelBoRS1laTFSaFE4TGIwQWl4MkZoQklvVXY3ZnB4UTlkWWtxTEJaQ1lGeXd5N3UxenJTTk5jb0hFN1pPMUZXMDdvRldpUUlGWThJQjRHclBiajVfVlZjcWoy0gGGAkFVX3lxTE9uZk5NWjA1QTdGQlFpRXNPcTZDR1REUDM3WnhOcmRwOFRJQ2dTd2hOV2JDQkxuYjVzOTQxYTJDMTk4bjFLMmk4VUxTMDg3Nm1IajJpeHNTc29DVVpSNmswZW5EV1RhZDFocTBoSmdTLThqbWJZajhiNWJvOTAzWG1YbmdaNzFXTXFtbFU4WUhzOGdaWHJWX0Vlb1M3OUVzUUJUbWZyMjJCdUZoMXYwSGh2cVdQVm9OM2d1enE3d0pUa0VLRHgzSVhKWERtZ2ZpZE9rNk53djBhQmN5SEVZS2RYYjdKal94dFB3Mlh5YjFNLVBYeHNTUHFfcjZ0TC1UOVNLajRPS0E?oc=5",
+          "time": "19h ago",
+          "body": "Top Gainers & Losers on June 25: HFCL, Tata Motors, IndiGo, CarTrade Tech, Paytm, UNO Minda among top gainers  Mint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top Gainers & Losers on June 25: HFCL, Tata Motors, IndiGo, CarTrade Tech, Paytm, UNO Minda among top gainers Mint"
+            ],
+            "tldr": "Top Gainers & Losers on June 25: HFCL, Tata Motors, IndiGo, CarTrade Tech, Paytm"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1782453063127",
+          "title": "AI to transform railway safety systems - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSE0tbzlGSW0tNG1qMzZHUFFOX21HODAwMmV2YnhqT3NkaEhzSEZ4U3pfeERwVUoxWmMwa0xDNHRyVWtfX2RDYjZVQkVwODhrdkt6QjlVUlczTmNDVjI0U3cyTk42UVdfR19IcXRhd3l6QXNhQ01fcDdfN3piSFhmMkdpRWstQlNJVXAtd0hBUDM0b2Zt0gGiAUFVX3lxTE0xRE9XUkx5aXZrRjlKQlI5Uk82a1UwRG94UXJnVFdNeU1iWFA5dG9ocnUyM25fZHdUamdIdFdSbUo2RGYtZ2I0Sk84azlWT05NTEFyZFRQWEZtNXRUVnBLQVE2cUw2bzlEeHVvUkZyQUc4WThYaEFESWxWa3dLZG5ZWGtEX0MwTWhQajJ4VElGOXphVUtxM3FUaWxBaFp2ZURzdw?oc=5",
+          "time": "11h ago",
+          "body": "AI to transform railway safety systems  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI to transform railway safety systems The New Indian Express"
+            ],
+            "tldr": "AI to transform railway safety systems The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1782453063128",
+          "title": "Maharashtra Launches ‘Maha AI’ And Digital Governance Reforms To Streamline Public Services And Welfare Delivery - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRENtTENUUWJqbXJrdDhEY0dHSHlBYUlSRDdYYWhvQ0VNalItdGRvQTBZMGJxcEpzX19aZTB5cjZ2Wnc3aE9Ca3B5a01xdXVUTmZROV9Dbl85Y2JsZkQ5MHBydE1GYW5mYlpuQmtBUm1uNUhLaWRleVJKY2owa3lLSmM1d2w3QXc5aURNSUdPb0hKdWNVRXc5SE1QWjVkU0JDX3NjeGYxRXFmY3lXelRkaWxQMHdlQ3BYZ1hrZzBpQkRYbGs2RWdzNmZBb1JMMTVGSVJlYVlSTTBweDFOcWdSdnVsQ2lUdVhEakswWi1B0gHuAUFVX3lxTE9EQ21MQ1RRYmptcmt0OERjR0dIeUFhSVJEN1hhaG9DRU1qUi10ZG9BMFkwYnFwSnNfX1plMHlyNnZadzdoT0JrcHlrTXF1dVROZlE5X0NuXzljYmxmRDkwcHJ0TUZhbmZiWm5Ca0FSbW41SEtpZGV5UkpjajBreUtKYzV3bDdBdzlpRE1JR09vSEp1Y1VFdzlITVBaNWRTQkNfc2N4ZjFFcWZjeVd6VGRpbFAwd2VDcFhnWGtnMGlCRFhsazZFZ3M2ZkFvUkwxNUZJUmVhWVJNMHB4MU5xZ1J2dWxDaVR1WERqSzBaLUE?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra Launches ‘Maha AI’ And Digital Governance Reforms To Streamline Public Services And Welfare Delivery  Swarajya",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Launches ‘Maha AI’ And Digital Governance Reforms To Streamline Public Services And Welfare Delivery Swarajya"
+            ],
+            "tldr": "Maharashtra Launches ‘Maha AI’ And Digital Governance Reforms To Streamline Publ"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1782453063128",
+          "title": "Quid marks two years of redefining credit access with AI, surpasses 10 Million users - BFSI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMkc5cWJZd0NabC0xenVpdEZaZXdPWHNEcTJaQ3NqbVMwbk5BV0kzbDVjd3o4dWFCMTFLXzFwZEplMWxXS1MzYU1DbzZha205Z3lCN29OZEhEekZyXzN6UzJUa19lVEFKeTlRVkRNNmRwbWFSUDYxcTVnNlItSmRySlNqY2Rzc3JVeGQzVEd1UE81eUUtTkExc1g1eE0yUFQydW9KX3NXSlFaTEgxaUZmbGE1c1BBTFdreGo2em9UWEs2V3RyTzdWdlRfVnJRNFJSUTRGWGlNUHoyV09IQXo0Y1J30gHnAUFVX3lxTE1NelZuVmk2b2pGMGtDTm1keF9UV0M0MmRjZlEzbFJ3ajZKb3lmZ1FMZm0xYzdYdVNsclBIZGhEVU03OEI5UVVxTVdhcS16ZWE2ZVIzZ0NQczN5SjZPTGFqZzJ4MC1EbVRZQ2hFVnB1ZWhDRFJiM2p4RU1kR0Rhb2xJLVRHUGJoanR2YUpnWll2WXYyOUloN3ZiNnFkenRQT0VkTERTTG45WnQyN1FaN3NoTGJ0aVpMY2g5S1pHcnYwZWZWQWI0aFJrRUFHcWJubVVLRmJDTGtHSDFtNjJlMEszbWhSYzl3Zw?oc=5",
+          "time": "16h ago",
+          "body": "Quid marks two years of redefining credit access with AI, surpasses 10 Million users  BFSI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Quid marks two years of redefining credit access with AI, surpasses 10 Million users BFSI News"
+            ],
+            "tldr": "Quid marks two years of redefining credit access with AI, surpasses 10 Million u"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1782453063128",
+          "title": "ASBM Successfully Hosted 'My 1 Day At B-School of the Digital Age', Highlighting the Future of AI-Driven Management Education - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQYlI1QjluNzhrWVpoalFDVVU4b3ozYTVlTmtPRm5DVmctUkVfVFZlalpqek9pZ3dzelNYcUN3YzU0QjREWW11YkVhekpibzgxYUpPT2V4azdrbHJpSnJndU8yeGhCX0xkMHZGTkM3cDluVkR2cUotaFUwc2lsTUZpUjVEbThKanBWSVpWTVJRYlRDcVRIV3J0S2UxMXpvU3lQckFxY09oaHdFOFQ1anJHbjZTeGNWT0ZfVnJ0WDF2SVZnWnpMaWRBOS04QXVaVkhGTTg2SjdMd2Q1elN1VlpSU2ViOFBtZXNRdTV5QlN0RWJRUmI1MEhRMzBtY2FpQUtEbDBv?oc=5",
+          "time": "20h ago",
+          "body": "ASBM Successfully Hosted 'My 1 Day At B-School of the Digital Age', Highlighting the Future of AI-Driven Management Education  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ASBM Successfully Hosted 'My 1 Day At B-School of the Digital Age', Highlighting the Future of AI-Driven Management Education ANI News"
+            ],
+            "tldr": "ASBM Successfully Hosted 'My 1 Day At B-School of the Digital Age', Highlighting"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1782453063128",
+          "title": "AI and Cloud Push: Amazon Commits $48 Billion to India’s Digital Future - The CSR Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW5XeFFMWTdaS1gwcnpLOHV0NUpLakw4WDRybW43YkNjdEJpdUN2SGRXMUc3NGlsMENUWUg4aEVrZWl3Tk1CcGduYWNfWm5xNTdkSDQ5YkhxX1pQOVZvQUVCTWpWX1h0QkxiZHdGSF9Ba05ic3czQ0hUdGhEWFB5OFhvOW1hakRFX1ZDRk9jRQ?oc=5",
+          "time": "18h ago",
+          "body": "AI and Cloud Push: Amazon Commits $48 Billion to India’s Digital Future  The CSR Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI and Cloud Push: Amazon Commits $48 Billion to India’s Digital Future The CSR Journal"
+            ],
+            "tldr": "AI and Cloud Push: Amazon Commits $48 Billion to India’s Digital Future The CSR "
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1782453063128",
+          "title": "India's retail lending sector entering multi-decade growth cycle driven by digital transformation, financial.. - BFSI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSDVPczhfVTFJR1hZeHZ0OHdhNjVvOWZZNkVGR0hkQUZHd1h5WFJTTVI5T1R1aG8xTWtBaXJzRHNROGVKenZETk9YWkNVOU1tZTFCS190YlRYZkNVTThWTEptX3BXYjZQNU5TYUd2b0s3WEdhNmNrZkZNRXVWSHlwSlJ1dUZhdFVHTFlGOGMxNm5XcXliTUVwVEdHUnBWY3o1ZTJwa1g5QXl2Z1F2RVdoTDFjOVlnNlBRQVVCNFFBc1RmLUhaM3BvVG1DOVo3bWJnaTFzYUUzUTBwVHVpUF92TXB0endFLXBKSGxBNnRsM3hSTnhvaXBmc3A2NTcwQzBpelFuYnAyMUdIcm1ZemVfR0dheTdWRHB5UEZ6RtIBnAJBVV95cUxOSDVPczhfVTFJR1hZeHZ0OHdhNjVvOWZZNkVGR0hkQUZHd1h5WFJTTVI5T1R1aG8xTWtBaXJzRHNROGVKenZETk9YWkNVOU1tZTFCS190YlRYZkNVTThWTEptX3BXYjZQNU5TYUd2b0s3WEdhNmNrZkZNRXVWSHlwSlJ1dUZhdFVHTFlGOGMxNm5XcXliTUVwVEdHUnBWY3o1ZTJwa1g5QXl2Z1F2RVdoTDFjOVlnNlBRQVVCNFFBc1RmLUhaM3BvVG1DOVo3bWJnaTFzYUUzUTBwVHVpUF92TXB0endFLXBKSGxBNnRsM3hSTnhvaXBmc3A2NTcwQzBpelFuYnAyMUdIcm1ZemVfR0dheTdWRHB5UEZ6Rg?oc=5",
+          "time": "19h ago",
+          "body": "India's retail lending sector entering multi-decade growth cycle driven by digital transformation, financial..  BFSI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's retail lending sector entering multi-decade growth cycle driven by digital transformation, financial.."
+            ],
+            "tldr": "India's retail lending sector entering multi-decade growth cycle driven by digit"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1782453063128",
+          "title": "Inside CEAT's digital core: Debashish Roy on turning AI from enabler to business driver - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVDlnU0tURHFwdTZpTGxsYWZKYWcxOFgtbTBiaG5WbUhWS0NIcnVTMThKNUU0U3NMUUZtTXAtbkRtbnFwOWhhLXFFMUZWeE93NXBwRkdRaEYzeldMTjlueFhhaFl4VjNpQWJHRV9NT3hkOXdZNURfSWlUWVdRYk15TnZwZnByQ3J4cmlFT1NIUklMbmZ3R0x2WWx6dnBCNm9WNUxXOHpwdkc4WUhYcUNNQXlsZjRSVlV5aEdPNDRURzlPWU4zeHdqekhfWlZ2Ty1U0gHWAUFVX3lxTE1fT0p1QnFFU0YyV2g1djVvZXpjckMwcWYzY3hpbXZjQlE5eklTa0RwMnNXOUFaSUJEcGtYMVFFdEVDcm5veXRmYXFUaXlYWF9peDJBaXRtQzlCdFY0MXZqaE5LLUhrX0FkUW5rMGRfMlV6WjlPNzV3bWh2YWNndDRUaXk3Z0JLdmNfWXpfX0dyWE5nQmxqd1g4VklITXkyNlRPUTVMbmtad3RvbzAyQUdBLVhPZVlpVWd0VEUzQktxdXFkRkxEek1UeC1pdE1DTVMwRHE1YWc?oc=5",
+          "time": "19h ago",
+          "body": "Inside CEAT's digital core: Debashish Roy on turning AI from enabler to business driver  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Inside CEAT's digital core: Debashish Roy on turning AI from enabler to business driver Express Computer"
+            ],
+            "tldr": "Inside CEAT's digital core: Debashish Roy on turning AI from enabler to business"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1782453063164",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "1h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1782453063164",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1782453063164",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkdGTk95N0RrdFJTb0NFSlM4ZjZIcXM0ZlppSzRRSzhia2o5LTd5S0w2YVA3YlByYldzU3BTdkFZTGVVMVRDcEJFRHdKQlZNRnlpa0JoUkRWM2p2XzVVQjlxRm1aclhqMk1jaFRjRmpkeDdERkpBRHYtZDhjTHhPa2NoQWRPcDZrekdOZUJZRlNySnBaX0pfekdzNFF4V0xUSlE?oc=5",
+          "time": "12h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1782453063164",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "20h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1782453063164",
+          "title": "IPL 2026: Dates, format, fixtures and team details - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details  DD News"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details  DD News"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1782453064431",
+          "title": "'He was like a brother': Mayor remembers Indian-origin man killed by son in bone-chilling triple murder in Texas",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "'He was like a brother': Mayor remembers Indian-origin man killed by son in bone-chilling triple murder in Texas. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'He was like a brother': Mayor remembers Indian-origin man killed by son in bone-chilling triple murder in Texas. [object Object]"
+            ],
+            "tldr": "'He was like a brother': Mayor remembers Indian-origin man killed by son in bone"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1782453064431",
+          "title": "Who is Sarpreet Singh? First Indian origin player to start a FIFA World Cup 2026 match",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "New Zealand's Sarpreet Singh became the first player of Indian origin to start a FIFA World Cup 2026 match, playing nearly the full game in a 2-2 draw with Iran. Born to Punjabi parents, the 27-year-old previously made history with Bayern Munich. Other Indian-origin players at the tournament include Australia's Nishan Velupillay, DR Congo's Samuel Moutoussamy and Qatar's Tahsin Mohammed Jamshid.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New Zealand's Sarpreet Singh became the first player of Indian origin to start a FIFA World Cup 2026 match, playing nearly the full game in a 2-2 draw with Iran.",
+              "Born to Punjabi parents, the 27-year-old previously made history with Bayern Munich.",
+              "Other Indian-origin players at the tournament include Australia's Nishan Velupillay, DR Congo's Samuel Moutoussamy and Qatar's Tahsin Mohammed Jamshid."
+            ],
+            "tldr": "New Zealand's Sarpreet Singh became the first player of Indian origin to start a"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1782453065469",
+          "title": "'Unnecessary move' or 'good initiative'? What Indian chess GMs are saying on FIDE's latest 'experiment'",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "FIDE's proposed \"First Rating Experiment\" could allow players to earn official rapid and blitz ratings through online games, bypassing traditional tournament requirements. While the initiative aims to make rated chess more accessible, it has divided India's Grandmasters. Critics fear it could undermine rating credibility and fair play, while supporters view it as a bold step toward expanding chess participation worldwide.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FIDE's proposed \"First Rating Experiment\" could allow players to earn official rapid and blitz ratings through online games, bypassing traditional tournament requirements.",
+              "While the initiative aims to make rated chess more accessible, it has divided India's Grandmasters.",
+              "Critics fear it could undermine rating credibility and fair play, while supporters view it as a bold step toward expanding chess participation worldwide."
+            ],
+            "tldr": "FIDE's proposed \"First Rating Experiment\" could allow players to earn official r"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-1-1782453064442",
+          "title": "Nashik: First Rain Offers ‘Trailer’ Of Monsoon; Excavation Turns Roads Into Muddy Pits, Citizens - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUDJ6ejZCWURfY3haR3ZCa21HSV91M1UxUkJuSWJDRm1zSkRzeG9ZT18xUEdNMG5mRGhBUlNvOWNydkRPbU9JSk9FZEdWSGQ4QWhVUG02NjIzcm0tZDEwVUF3WVYtRzBrQzBMVjVGeGk2WS10SGpPQUJvcjh1RVFhOVNubENxUGZtTVJ5emh4dFRtajlnU1ZPaHp2T0p6b19zZ19KWms0Rl9fMVZLOXo0bmxMZDFuTjNBbzNONUFpeXVYVmNPWFZfMGJabGVhVmJuSGJJTGlB0gHbAUFVX3lxTE15dnBzNFlJYUl5YThmZWgza3RNWXpUbDJHTS1UZ0VEWExfRk5hNTZFSXlVb1ctY0lIWFRLaFFpaGxnLW52T1Bpb2NBNHdEMG1YX3FjU3FzbHNSZE9hMnFWQ3N5X3prYlo2bGhJNVZQclFjVnFVdVZlRlpKWUJPR0RaczVPX2FVeUdUUmRGYVZ0ZnRrMFJiWWx4eGdjY1lhZ182dTQwNnQ0RmRoeC1KVEVBSWgtdkxLVXQ3SHFZbGhnMldYaG9BOW54M2xFNzByMXVSQWZPdVhfb0pnTQ?oc=5",
+          "time": "16h ago",
+          "body": "Nashik: First Rain Offers ‘Trailer’ Of Monsoon; Excavation Turns Roads Into Muddy Pits, Citizens  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nashik: First Rain Offers ‘Trailer’ Of Monsoon; Excavation Turns Roads Into Muddy Pits, Citizens Free Press Journal"
+            ],
+            "tldr": "Nashik: First Rain Offers ‘Trailer’ Of Monsoon; Excavation Turns Roads Into Mudd"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1782453064442",
+          "title": "Wake Up Thanekar: Citizens Launch Mass Movement Against Unplanned Urban Chaos & Non-Transparent Development - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSmhSRTNUTno4SFlfMkMwT2RSbHRDNDJ5MVhhbnZ1LVhuQmJwdnZtVmxLemNkbFpKWThFQnpIamdIYjU3ZUQ5YW0zYzFXS3ZOUzZrUUtkS3YtQkJlY2tnNFFmSzlQaTl1Z19IM3lDcVBpQW0xQ1pQNC01VkZQM05CMHlUSDFZSjJsdTY2TnVLMUtPY2IzbmsxcVVXSl9VaHp0MTQ4RVkyMTRqUUFkSlNoXzVjcTR2Q3RiTFpWTXNGa2g5b1FKb1VVTF9JY1hiNUZNemwwUzZIY2lYXzRTbW84R1U4Z2NIUzTSAewBQVVfeXFMT2ItWUVieV9VeE1DYjVMWEQ5Zi1NTXEtemlGNzFCaG52alNqU0hXYVlyb0VHVUxmSjF4UW16eHlJbXZJYUctYnQ5azYxRlpXd2lyeWl5d0xVX2tGYWJkSktYZkFIdF9VQ1J0eWVqU0hFdVFscEVPRDhOSlUtOHB3TFltOGFHV2xwTnRFNWV1Uks1ZFVWWWM1UVN5QTBGYUhvdkFQcjJtQ3JuWXdRTUhCOU5PMUt6cjJ0Mkp6Qk03Q0ZmcUV4d0xOTXY5NlJHVlhhbnhOeEE1UEx5cW5qcHZQTTdvYmRiMDdhaHBiOWg?oc=5",
+          "time": "19h ago",
+          "body": "Wake Up Thanekar: Citizens Launch Mass Movement Against Unplanned Urban Chaos & Non-Transparent Development  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Wake Up Thanekar: Citizens Launch Mass Movement Against Unplanned Urban Chaos & Non-Transparent Development Free Press Journal"
+            ],
+            "tldr": "Wake Up Thanekar: Citizens Launch Mass Movement Against Unplanned Urban Chaos & "
+          }
+        },
+        {
+          "id": "mumbai-general-0-1782453064431",
+          "title": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian. [object Object]"
+            ],
+            "tldr": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, mee"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1782453064431",
+          "title": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\"",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "17h ago",
+          "body": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\". [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\". [object Object]"
+            ],
+            "tldr": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1782453064431",
+          "title": "Meet Jainendra K. Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Meet Jainendra K. Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics. [object Object]"
+            ],
+            "tldr": "Jain: The first Indian-origin physicist to win the Wolf Prize and transform quan"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1782453064431",
+          "title": "NEET aspirant given Abu Dhabi centre takes re-test in Nagpur after NTA correction",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in Abu Dhabi, successfully appeared for the re-test in his hometown after the NTA revised the location. The issue gained national attention, prompting swift action from the agency. While the NTA stated the city change was made via the candidate's login, the family maintained their preference for local centers. This incident occurred amidst the ongoing NEET-UG 2026 re-examination.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in Abu Dhabi, successfully appeared for the re-test in his hometown after the NTA revised the location.",
+              "The issue gained national attention, prompting swift action from the agency.",
+              "This incident occurred amidst the ongoing NEET-UG 2026 re-examination."
+            ],
+            "tldr": "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in…"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1782453064431",
+          "title": "Indian-origin man caught stealing $41,550 worth of designer clothes from Florida shop",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin man caught stealing $41,550 worth of designer clothes from Florida shop. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man caught stealing $41,550 worth of designer clothes from Florida shop. [object Object]"
+            ],
+            "tldr": "Indian-origin man caught stealing $41,550 worth of designer clothes from Florida"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1782453064431",
+          "title": "Indian man from Norway asks Indians to 'go drive in snow for milk first' before complaining about country: 'I want it now and I’ll have it now'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian man from Norway asks Indians to 'go drive in snow for milk first' before complaining about country: 'I want it now and I’ll have it now'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man from Norway asks Indians to 'go drive in snow for milk first' before complaining about country: 'I want it now and I’ll have it now'. [object Object]"
+            ],
+            "tldr": "Indian man from Norway asks Indians to 'go drive in snow for milk first' before "
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1782453065639",
+          "title": "Monsoon arrives in Pune, nearly 12 days after usual onset date; IMD issues yellow alert for Tuesday - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmZMRXBST0Q1MjdEcHVaVVFDT2pndW5DcWFsTlZ1Y1F4VzJDVmQzRlhjWGxJeWNiR3NmTjJPMi1XZjN5Z1ZaRTloN3R2YUFRM29tWE9NSjNDZGVNV25HYWdBSXpVOHNmSEs1SG1EQnBVcWFYZVNfQ0VzclpFa0xPOHAtOVlqTVlWT0pXckVIQzV4dVk3Q0pmRzFaQzRXWlp3cERMYjh3WW5tbUc0YjV2eDk5QVR1VTJrcU1mWTc5X1lWdzdzZXUzQTlGdE1NS3hNX3dIbkQ2T1FmNTB4aXA0?oc=5",
+          "time": "7h ago",
+          "body": "Monsoon arrives in Pune, nearly 12 days after usual onset date; IMD issues yellow alert for Tuesday  MSN",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Monsoon arrives in Pune, nearly 12 days after usual onset date; IMD issues yellow alert for Tuesday MSN"
+            ],
+            "tldr": "Monsoon arrives in Pune, nearly 12 days after usual onset date; IMD issues yello"
+          }
+        },
+        {
+          "id": "aurangabad-city-0-1782453065668",
+          "title": "Latest spell helps trim Marathwada June rain deficit to 40% - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVZRUnVDUmhfNk9fUzZKajFNT0xBYUtGeFRSaEFIQ0RpRzRLOTN1Z3FIanM4aEQ2LU1tSXNxS1c5c2hMWG9sMzhWckNiWnBwME50T21CS2RMMHltMTVUZGVGaFV3cTBEOW03cU1IdEc2NmRLUENaUDV0ZzBOdnRZVDZqOHRyY0I4VnZPWkQ4cExtcmJCdlE5YlRaWVFBb3B6ck0zZlcwWk5MTk1kblpTTHpsZHNTVnhickRkUFI2aFVZRFE3RlI4ZC05Ynd3UXFHb2fSAdcBQVVfeXFMTjRqQ3B2YVpRal9JMVpXUF9kcXBaSFRYbHRjcFdVN2JkaVhITkM2eTJZVzBqTy1meVBwU2M5Z19IYnRuWlJHN1BLRGdpX3lwS1ZMZjg2YnphaF9XT3BPelFkLVozX2lTREpnejRBUlNpcWdhWjI4R2dWZ1pYV0JleTRJWkM3QzZMRzNIMHdkTFRxNk8tZlA3YzdjVGJJZFp1ZG4tOVo5YV9LRVBhazlkUVBMdW10V21YLUpUTFhfMzFNTGtYTXZBaTVDZXRGNlNiek9BN3BNbm8?oc=5",
+          "time": "11h ago",
+          "body": "Latest spell helps trim Marathwada June rain deficit to 40%  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Latest spell helps trim Marathwada June rain deficit to 40% The Times of India"
+            ],
+            "tldr": "Latest spell helps trim Marathwada June rain deficit to 40% The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1782453065669",
+          "title": "Swami Ramanand Teerth Marathwada University suspends BSc first-year admissions in 24 colleges over defici - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdEoyb1hhOFlURV9tTTJldEJUaWRUYWNUWkp4enFSY0dzMlZRNU5vWnlaMS1jREpLbXliM3NjVHA1YlE3azBkMWFORXNYQXJKVk9oVkZqMTVFNDJ2b3RkV2NXU0J2UVNNNTN5RDZtY2YycDhGM0lNTWJUdFFsTlRGbE9pU2VyWGZVRWlOc2llSnNqR25JZ3hLZ29MdmJnbEN2dlFXTUVDYlJCTkZiQ0dGZmtzeXpCa0tjMUxtRmVRRTVwZ1gzVEtfYWFpTzBLNEFNd1JzbFMydVVYajNXRC16b3E3VzQ0ZjdJWG1SRmNUa1FkTmNhb0VoUFZ1OHdfYWYzcjhBQW93blhCelVzTUlJaTBkTlkwYUNaY1J1SEpB0gGeAkFVX3lxTE90SjJvWGE4WVRFX21NMmV0QlRpZFRhY1RaSnh6cVJjR3MyVlE1Tm9aeVoxLWNESktteWIzc2NUcDViUTdrMGQxYU5Fc1hBckpWT2hWRmoxNUU0MnZvdGRXY1dTQnZRU001M3lENm1jZjJwOEYzSU1NYlR0UWxOVEZsT2lTZXJYZlVFaU5zaWVKc2pHbklneEtnb0x2YmdsQ3Z2UVdNRUNiUkJORmJDR0Zma3N5ekJrS2MxTG1GZVFFNXBnWDNUS19hYWlPMEs0QU13UnNsUzJ1VVhqM1dELXpvcTdXNDRmN0lYbVJGY1RrUWROY2FvRWhQVnU4d19hZjNyOEFBb3duWEJ6VXNNSUlpMGROWTBhQ1pjUnVISkE?oc=5",
+          "time": "11h ago",
+          "body": "Swami Ramanand Teerth Marathwada University suspends BSc first-year admissions in 24 colleges over defici  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Swami Ramanand Teerth Marathwada University suspends BSc first-year admissions in 24 colleges over defici The Times of India"
+            ],
+            "tldr": "Swami Ramanand Teerth Marathwada University suspends BSc first-year admissions i"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1782453065669",
+          "title": "Toddler bitten 25 times by another child after being locked and left unsupervised at private daycare in C - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWUxlZUIwN2p6Q1EzdjR4UTlaNTVyMlFmbTAxV0hVdkZRUWZXM1JEbkhTaXg5cmVsZUJXdjY4LWpCcEthVExENnlBcUMwbm50RkItQ3FzMTlHa2VQS1pUcFJtdUJmMnpKT3VfNXdWYTRaa2tZbmtxUkVVdTl4VDhfNlluSXhweGdJVGJaU2Q5bTc1UW9SMDl1Ulp2RlFhS2ZhODN6YmFDUWJmYzBBY0VlTml3UkprZGcyV1pvR3hRWWg2R3EtbkRCaFFONTkwbjI5Ulp6NXpGSURRN09TMENPeXN4N1pTNzZQLVgtcVpuQmZqLVo5UWRsem5wMDZGWUhkNmtIb3dzb29kbGh6YTk0R19zM0gzTEpXUm53ejVlOUdpS1J6dHVWSlJlY1hMakg30gG2AkFVX3lxTFB1TEpDZHRyRHlYMFNvUE9lUzZ6X194MEF0SkxrQnhpMmhsZW1jQncwa1htOEFWWS1wSF9nTDNTZW1MZ3U0aFVEcGlwMGVlekp2YWd4YjZlY095cmdJMGIySFNQY2RVelJuc2FzdmlkMXQwNm0xMDREaERra2pmWFNYNXVDMkJVbkpiQXMzdjI5OUZUSmpLRDZfQ2lVMTdCRHBVYjBsa1FDOERTRG5YekZOc29Uc2dqOTNrWUh3SEtvT3l2VmNTYUZTQjd2aDNwSElacDhxdm1tYVJLeTc3TlZBOHR4M1M1S2xsMXVYanlHY2IxQzVGUVN2LVR3Y3p3MTZpSW1XaXdYZkJWVGpTaVY1NVpPUS11d0hQY3R3cDRnMDhpelF2cDk1VENrLVRiOUZwanJ2c3c?oc=5",
+          "time": "11h ago",
+          "body": "Toddler bitten 25 times by another child after being locked and left unsupervised at private daycare in C  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toddler bitten 25 times by another child after being locked and left unsupervised at private daycare in C The Times of India"
+            ],
+            "tldr": "Toddler bitten 25 times by another child after being locked and left unsupervise"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1782453065669",
+          "title": "Marathwada records 11.7 mm rainfall; temperature drops by 6°C - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZURrRFdlMm9JZVlCTERrbmJjZVlDd1ppaGxYR1l0WnZ4VWJKRTlEX0stenplbXg2SmdkdkM0bTFIVFFtU0lvQVRleExvVWw3NTdMM1BBeXVlLWFxSUVCU3JxdDJBQU1DYzhvalFlVU43S20xNEhJenB3YWRtYWFBYUEtNlg5VjR3ME5zUEdxN2ZLWUoyQjFZaEFXcE50NGF0WGxsMy00ejDSAagBQVVfeXFMT2VEa0RXZTJvSWVZQkxEa25iY2VZQ3daaWhsWEdZdFp2eFViSkU5RF9LLXp6ZW14NkpnZHZDNG0xSFRRbVNJb0FUZXhMb1VsNzU3TDNQQXl1ZS1hcUlFQlNycXQyQUFNQ2M4b2pRZVVON0ttMTRISXpwd2FkbWFhQWFBLTZYOVY0dzBOc1BHcTdmS1lKMkIxWWhBV3BOdDRhdFhsbDMtNHow?oc=5",
+          "time": "15h ago",
+          "body": "Marathwada records 11.7 mm rainfall; temperature drops by 6°C  lokmattimes.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Marathwada records 11.7 mm rainfall; temperature drops by 6°C lokmattimes.com"
+            ],
+            "tldr": "Marathwada records 11.7 mm rainfall; temperature drops by 6°C lokmattimes.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1782453065669",
+          "title": "Every student must fill anti-ragging undertaking form - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXZkbzZUZXM0YUREYVRWRDZuSUs0RFdlYUx5Z1VmMFI1c0hsbUhDSTd0WTk1dHBnb2djY05jUDd1T2daVWFzTm44WWFtaTBucXpFOERLdGtIaXdnX1RjOUhfd0w3eDRUYlpfU0RPZVdmbjhkbEVBM2ZrbERLNGpuYlY5RDdLZXdvbndWa0pWRHgzNHdHWXBzcUQ2Wllqd9IBngFBVV95cUxOYXZkbzZUZXM0YUREYVRWRDZuSUs0RFdlYUx5Z1VmMFI1c0hsbUhDSTd0WTk1dHBnb2djY05jUDd1T2daVWFzTm44WWFtaTBucXpFOERLdGtIaXdnX1RjOUhfd0w3eDRUYlpfU0RPZVdmbjhkbEVBM2ZrbERLNGpuYlY5RDdLZXdvbndWa0pWRHgzNHdHWXBzcUQ2Wllqdw?oc=5",
+          "time": "15h ago",
+          "body": "Every student must fill anti-ragging undertaking form  lokmattimes.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Every student must fill anti-ragging undertaking form lokmattimes.com"
+            ],
+            "tldr": "Every student must fill anti-ragging undertaking form lokmattimes.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1782453065669",
+          "title": "Special lecture on Shahu Jayanti - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWDdGa0c0Q1puQ1Btd1FGT3pWalJNTURZbEdkWWhIbmJrVkxfbU1PaVY1MjJfU2hUd0xwbGpHZ0hRN0hpeVN0aUlmbmtSSXFVd1dvcTFGUm5HbHczeDBtczZjUWVjQkt1TVh4Mi1CM2ZfdGx3b0xTYU1VZjI2dWw3TlRB0gGCAUFVX3lxTE9YN0ZrRzRDWm5DUG13UUZPelZqUk1NRFlsR2RZaEhuYmtWTF9tTU9pVjUyMl9TaFR3THBsakdnSFE3SGl5U3RpSWZua1JJcVV3V29xMUZSbkdsdzN4MG1zNmNRZWNCS3VNWHgyLUIzZl90bHdvTFNhTVVmMjZ1bDdOVEE?oc=5",
+          "time": "15h ago",
+          "body": "Special lecture on Shahu Jayanti  lokmattimes.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Special lecture on Shahu Jayanti  lokmattimes.com"
+            ],
+            "tldr": "Special lecture on Shahu Jayanti  lokmattimes.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1782453065669",
+          "title": "Mumbai Weather LATEST Update: Orange Warning Issued for Six Districts as Monsoon Slows Down - Asianet Newsable",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZl9FbXMtZUlzbFZkSXlTSVM5T21lTGNyM0R0ak9EZE0wSnVnVXFhVnVvaGdEWE0tVnQ3eERmOW1sZnF6NnRVQzNmYkpROGJlQWIxbU9FT1FzV3IwUGdHSHBpaVNWbW9oTWxRSTg1blZ4N2lSNVkzVF9FOGpMd0xBYjdpVmpwZW91UzZIMXZCNEVYT3pubjhvczhoV1Y3NVlVQi00eEJxbEppODNyVjFlR3hlVVBBb3FSTGVkUDlZSk5UUmZTNTF4ZEpFLU5Mb0YzYlV1QdIB2gFBVV95cUxOOVVQSWk2ZFVGLWpFVXlRWU00Mk1pRHNMY05hZ1NiU25oWWRUd2VaVmxXam8wV09oMTJzdmVOLUZXY2xNZkdFSWl5TmVpVVFkYnNVaFRDS3pjdktzNmFxRXNLcHcxcUZEeHpwa2JIMmFZUzNEU3NPQ2piTEZqTHJlTHVHc21ldVVieUQwTldRRTJTaXMzbEZVYXFyUnpBVG5abEhjMWdIQm91RFlEb1owX1EzdFZsWUk0eFpxMGViT0FIRUxoU3BndU9CNzN4TTAwNXV5VFotZTRDQQ?oc=5",
+          "time": "3h ago",
+          "body": "Mumbai Weather LATEST Update: Orange Warning Issued for Six Districts as Monsoon Slows Down  Asianet Newsable",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mumbai Weather LATEST Update: Orange Warning Issued for Six Districts as Monsoon Slows Down Asianet Newsable"
+            ],
+            "tldr": "Mumbai Weather LATEST Update: Orange Warning Issued for Six Districts as Monsoon"
+          }
+        }
+      ]
+    }
+  }
+}
