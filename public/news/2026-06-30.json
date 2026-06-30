@@ -1,0 +1,796 @@
+{
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T05:49:00.801Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1782798535644",
+          "title": "Local trains safety: Maharashtra govt plans increased patrolling by cops and expanding CCTV network - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1VDRUgxZDY5MkJPN2NXcVZtbVY4WURPZVVNYlpHdGVpTDBYOGt5MFNidHBtS2t2cUNzLVlHVlc3Nk1fOUJXazV4WTB0cUNlWXh3LWVLeURCa0xpazJSZUdqeUEyYkU2akJKbFluSko2UG1GYWhXejV5MjZCbGo0RVJUQlozX2lLUzAwWFJWUUxELWRwd2kxYXJFU2ZITzRDMHpLQ1dqcURYaWdOcG14TmRwQ1RtbC1lZUx5MmxqWUFpM3B6R0Npcm93UjVFUdIB0wFBVV95cUxPMGI3Yl9QVDR2UlE3UDJ2QlJ0RFh2anFfVllEdUUzamMzLWoyU0JaT2tGX3FlbHQtbmNCdEY5RnNXdHJGNktTRUFPYkVDVGp6dWR3Q3RVZTdFQ1VFYTlESmdSQ2FUZ2pSME82UldkMnNnaFJUeDNjZDIweU1JRVE2VjNnWmgxMlc3LWdJT18yNVBSM1g4b2lBNDdaeUtTSXIycUg5YjJ1MWRQdEhidVNxTmpZeXBGV2phdW5ZWkt0bWJBU1lzSGJTeXlGaDJqSS1vR1ZN?oc=5",
+          "time": "3h ago",
+          "body": "Local trains safety: Maharashtra govt plans increased patrolling by cops and expanding CCTV network  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Local trains safety: Maharashtra govt plans increased patrolling by cops and expanding CCTV network ThePrint"
+            ],
+            "tldr": "Local trains safety: Maharashtra govt plans increased patrolling by cops and exp"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1782798535644",
+          "title": "Maharashtra misses June 30 deadline for farm loan waiver; disbursal to begin July 5 - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY045M0RHR292R05PRDZ4NU54cVBBVkJkS2RYN1VLMmdPSXJZRUU5cWZybGFvYTFVd19WQXN5Wi1DM2ZEd3JhZXZVT3VLSVBYbllOSFlnVm92a0J0b0NuUHpIUmRzMDlubjZrbUwzNWJDX3l4UUZDWFJDQTQ2ckNCdEZNM2RTSjhVeW9PcHZYeDVMUUxXNU1YY19OYUNxd2JKZlhpOFVxQ3lyQzBZYndrNUF5c0FHM3lqTVVSQzJyTktobE5MRU5lUklhVzhOdzJpTE9fZldfNNIB3gFBVV95cUxPWXd5Vk0xYmpEaDdIU1BXbXNtTHB1T1ZrTEJTUXM2QWFNNjNhNFhWMlllZlp5NzV6emxPTkhhMDFLMThXa25rcFREeEtyeXpUMDZoVVQwdHRfY2hOc3dPNjNLWHdEcnFEZHFRZVlGUThkMjJnVWZZVnFJenpudUxUa0tpZFJqSDNFdmdwUzZGMHBHam12a2w5Y2xNZ1B1Z1dYdlUtZTJpcXpDb3pVMktGN2Y5Ml9UQUl6M3ZOTW44VF8yWkFXTllLNm1nVnU2OXpUMkhkRDJmUUlhUFo0amc?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra misses June 30 deadline for farm loan waiver; disbursal to begin July 5  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra misses June 30 deadline for farm loan waiver; disbursal to begin July 5 The Indian Express"
+            ],
+            "tldr": "Maharashtra misses June 30 deadline for farm loan waiver; disbursal to begin Jul"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1782798535644",
+          "title": "TET to go online next year: Minister | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXM5LXB6MDh3OGRtdkw4X1MxQzFISTRHS2w2amRDY1ladUd3Wm5udElVWGVSVUNldnktRWhvSUd2UHJzUjRJcnZUdV83SUN2c2ZVc09CaVBXODN5N0FobmdhVWkxdHRWYkJLc2RwTmpjX0pkbHpPRmNhdTc4UGlEdHZCeEdLaC05S19fb1BaRzF3MzM3ZlFsbTFQZk5BZ1lRTVE0dGJOQndJVThaRkVj0gGvAUFVX3lxTE8tczktcHowOHc4ZG12TDhfUzFDMUhJNEdLbDZqZENjWVp1R3dabm50SVVYZVJVQ2V2eS1FaG9JR3ZQcnNSNElydlR1XzdJQ3ZzZlVzT0JpUFc4M3k3QWhuZ2FVaTF0dFZiQktzZHBOamNfSmRsek9GY2F1NzhQaUR0dkJ4R0toLTlLX19vUFpHMXczMzdmUWxtMVBmTkFnWVFNUTR0Yk5Cd0lVOFpGRWM?oc=5",
+          "time": "6h ago",
+          "body": "TET to go online next year: Minister | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TET to go online next year: Minister | Mumbai news Hindustan Times"
+            ],
+            "tldr": "TET to go online next year: Minister | Mumbai news Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1782798535644",
+          "title": "Monsoon Fishing Ban Extended Till Aug 15 In Maharashtra; Govt Mulls Rs 50,000 Aid For Fishermen - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOWNxQlFKSENPVEhDWDhaOUYzZlJfMWh2NW52WjRKSi12M3F5QTB4eU1oMmdWejI0bFYwOXRteUlXdGRrYTJyX0dDSGFuX1JEOC1fbk5iZjN4d2N5dmVPQjRQRmpPSUVtSG8tbU45aERYQmdmTWc1cDBteGhLOGlPUHh4aUhCNXJBOHp4bkNlZUlCdlVOMUM5ZnczOHJSOUI5Y0xKOHVaRV9DYjBQY0o5b3VfcFhvdExmckpWS1J2STl3SzhxcEhrc3dDaVpkMDNBbktlaDRSemF5dkXSAeABQVVfeXFMUFJVc1h5QXBpRXBaSVkyQUhpRG9Ga2ExSjJrbGVlY0kxelUzYXg5cWl0eWwyQTg4NjdsRHdyMnEtRWdBRU9lMXVsN3dyamRoRkQwNnAwUFFJZnkzTFlLYUhSWGpZSXZlVWhWaUxNcDAzZ1NhcFo1SThycXBhUEttSjhaQTljTjBuVkxLT0Q0ZUg1NC13VThtNEFqS04wdUFNQkl3M2RBQi1jczV1bmdFaWFnZGVHQm4yMC1TaFRBVmJjU0RVQ2lpeXpDMEVWMEt4dndtR3NmVUdFdUY5Yk9ZOTI?oc=5",
+          "time": "4h ago",
+          "body": "Monsoon Fishing Ban Extended Till Aug 15 In Maharashtra; Govt Mulls Rs 50,000 Aid For Fishermen  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Monsoon Fishing Ban Extended Till Aug 15 In Maharashtra; Govt Mulls Rs 50,000 Aid For Fishermen ETV Bharat"
+            ],
+            "tldr": "Monsoon Fishing Ban Extended Till Aug 15 In Maharashtra; Govt Mulls Rs 50,000 Ai"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1782798535644",
+          "title": "TET paper leak: Opposition legislators protest, walk out of Maharashtra Assembly - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdW9hMnlMSjFlR3FyQUZoNkdQZ0UyTVo0UUFRNGhZSURHWjh1eUtCNXBJTVZub2FiRUw3NW14U25NcVRVMGZEaG41SjRpdFh5VnlfU19ZZmNRS185LUlreFRwbUd0UTJ5RVUxbkk2ME4zSHBjUmxMVEhqSzhZUDYtNHAwamFhM3VFNkZVRUJyOEhieV9NZEdhd0QyT3BQM3M5R0t4UEw5dDVoRG9kdmRTREhGU1RjSnRzWGNFbUF4ZU01Njg0ZTQ0cDhSZGNXbFAyc0s0Um9WeFVKdW9LUGpzcmVrY9IB6gFBVV95cUxOQzZ5ZFVaSi1iSi03dHJhVUlTNndENUhZQ1g3R2NtZTdscGhQRnE1bHJwYjNudjZXLXJFTDFXTXROSFhKU2VnTldtOXhmRmtZbGJoU3JRYlhTcEUxakxxeXlyWnRLOEFRcVhMLV93ZlBGWmt5cmYtY25pVldpQUE4R2xxXzRTemJYYmFkczRaeVp0TWdkNFRvRGZuSjJoMUNtT1dJQ3ZjLWdva2NDdTJOLXgtaEgzZnFmTVRLclZwOFFLb2E4Y05sVW1hOXB5QWFQZjlpWlpCbU5nZmt0dThBMHA2Z2k3bk5Ramc?oc=5",
+          "time": "22h ago",
+          "body": "TET paper leak: Opposition legislators protest, walk out of Maharashtra Assembly  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TET paper leak: Opposition legislators protest, walk out of Maharashtra Assembly The Hindu"
+            ],
+            "tldr": "TET paper leak: Opposition legislators protest, walk out of Maharashtra Assembly"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1782798535644",
+          "title": "Maharashtra Council Deputy Chairman election on July 1; Shinde Sena nominee in focus - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzlwN3E1dzFURjBMVkw2Q21zRlhGVmdJVHdBejdLc0tXc1BSbFJha2FlZkRwaUlEdzlfMDhCcERBejNrVXFjYnhiV25FUjNIQmhKb19OR0ZyQmpTVWNLRmhhSUJRTDJ4N2o4bUFGNW1Fdm00Qm93NmZFM0NYMWF2RFVHMXlvQk5XXzhTTE1ScHdxUDA0ZTloQXd1MmZNeHRzV29LdEVabDV6ZkZDUHk3T2lSMzRYSUNYSUhxeNIBwwFBVV95cUxQOGpYdFQ3aXp6b3lXZEticjZtenptYlJ0T1NyTGc0SXBRNHA2UVlPTDVTekN1VmF2WjItc2lUVVNFQ2xTRUZpR0hHRmhEMXphREE3eF96cVJwMFZSQWhpd0pRYmFoMHZNajVCeHFLc05fSHh1dlc1Y2o4aTE2QVFvMHhLSTBQZUdJV0pSOEs3QURrcjVjQzh3d25hZmtMMkVad2RMM0JoeTgyd2wyenNDZ3Zxa282MTVrQURoOXctMW53SjA?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra Council Deputy Chairman election on July 1; Shinde Sena nominee in focus  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Council Deputy Chairman election on July 1; Shinde Sena nominee in focus The Indian Express"
+            ],
+            "tldr": "Maharashtra Council Deputy Chairman election on July 1; Shinde Sena nominee in f"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1782798535644",
+          "title": "Maharashtra dy CM Eknath Shinde sets 3-year deadline for housing projects, warns developers will miss fut - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNUnAyTmR2TU1UdTlFYXF3TUdHM1RGdVJ2dFJyRFptMG1DcmxGUFd5SFA3QmRFUW91ZDBJSmZwYXVpVGVpWFhwb2VaVno3VWF6X21WeEJEenBta1dvY1d4eTRvUXhSZmxqRUZVMEZCbVBXWXBUZGdYdzJHR1ZVenRsbHVhNTdBb0t0bzFQQTcxODVNQ1Y2MHVOY1NvRE1lVlloVnJGcGVWbm9VN2NyOV9hQnhleU1zcEtSM2ZfbWlTTkhRcWhnczJQazhHZWtsSnBVRERqeTJQd19XVHNmZV8tZHdsRGxzbG9IR0N2SjNGV1FwdC11Q0NCR0pSTnR5Z3U5ckxjNEY0MXlGUzlHY3NKWm9KYzV4SFJSRWdzd1dfRUZMMFhRbkpPNUFYMDhSYThhd2k3ekZ2Q3rSAb4CQVVfeXFMTXd0bXAxa3VteC1BVDYxdzhOVEhrZkFiVmstakpWZXdzdjVMQllyUjZmTHJoakZtaVVoNGVKa1VkS2hBMVM2eGRKdi04M28tcU54ZmpNbXpWMTRMMUtEdnROalBvX0UxOEZCZm5WSG5uZW5Qb3FwSDhpcGw5UVVJNlJibXdXWHBncU96X2JFTTUySzJJVDE2X0xjRmViUlRYckkxWkVFUVdLWVE2d3F4NHcwMVJwZDdpVFpPNmxFb2FOY2c5TXN2cExuazhpemtlZGJqS0NEOUh0Zl9oYWxXVEsyZFBmRXBXUXNNYXNNbThxd3ltOGo2U2V6QlNfdDY2MG1TdS1vYjZuTElYMGVLVXl0c1V1Z3RDR2hHN3RVS1BVSmJrUXF4b0tpVUVZVzdvbUpaLXRaRE1pcmM4NFZB?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra dy CM Eknath Shinde sets 3-year deadline for housing projects, warns developers will miss fut  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra dy CM Eknath Shinde sets 3-year deadline for housing projects, warns developers will miss fut The Times of India"
+            ],
+            "tldr": "Maharashtra dy CM Eknath Shinde sets 3-year deadline for housing projects, warns"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1782798535644",
+          "title": "Maharashtra govt keen to expand coverage of flagship health insurance schemes: minister - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjJOWnVjb2s2Nmo1eHhhYkU2SzYtNmdNeWRFamNSQ0lMcFk3MkdPTEpvRURoUG9GQWlOcTNucjRHOS1idUNiWHdkNHJ3RFFBZlZJc3V1Z09TaVNYY2UzTVdrT1VsZG5tX0J3QlVpZ3VNazZBYjZETjNGZ2ZyRXlfUldIaFpzVWdiU0JpQ2FwS1I4NGZ0eHFrTVpNNjNYa3JzSUtoWXdmQ2QxcVUxc0g0SHBFSlZpbllQYmlUVDhR0gHDAUFVX3lxTE5LN3VoWjNkTmRyX3FLYVY2cDVibmR3ODBSVjJKVmxlNmo5NXZoSTkzdE9iV011aWxSV3pPRVlZd2daeEp2OXpuOTZkeUZBOURjZ2J5WXJRa2lrV0lMUUpGSE1zRDB5SVlhMkhRYjNjQWxiNFRvWWI1NXFISFd1TVdWSUhHczljNVc0UXhHY05zczlTS0tXLWhIMEgtMkVocjNEWGR3NVhsc2tFS21UUDg3SURjOXBQYm1QN2pMaTQzM0Zyaw?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra govt keen to expand coverage of flagship health insurance schemes: minister  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt keen to expand coverage of flagship health insurance schemes: minister ThePrint"
+            ],
+            "tldr": "Maharashtra govt keen to expand coverage of flagship health insurance schemes: m"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-2-1782798535644",
+          "title": "Maharashtra zeroes in on Dighi to set up ₹20,000 crore mega greenfield shipbuilding cluster - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkE1ZnNIektPSzlEZHFoRHNyRGdRbjlFOF8ySW16em92eVhnUlB0LTNUclpMNHFHX0hqYUdRdmRSTV94ZXQ5TkpTNEw1VjUzZmdYX3gyZEdIQ1hVanVJNHIxRzE3SkF3WXI4SkJEOEtKSi1fbDhldk9CeVRUX3J4akNlWW5QTXNCYjViYVk4WmswaVhSRV90X19RMmNBendUMU1aSWJ4NHFIOVJwLVZTUXZ6dzFpS3BwbHdPOWg0bFYzemJCN3VDbjJXS181VjTSAdQBQVVfeXFMTi1NRWdRNVdmSHRtX2RSc1JDRUl1TDdPR18zUVJlRXVZSmZ4M053MElLMVdtVmdMcldYaERUT2dSVnA2RC01bWQ0OERZXzJKNnFyNUtSRjJwYXNpVXlTRjNCRFdlcGpLMXFoVzNHc0hCYUVoZEhpNkxNM2N2d0laMDFNRnZEQURLME0xNzVseE9uaGZZdEJ0Z1FNbWZPTzd4eEkxLUpqelF1d242UFRsZmY4N1NMVVRtczJHVkNlTG50ajdFdV9FeUhGLVQydVZlcHhMN1U?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra zeroes in on Dighi to set up ₹20,000 crore mega greenfield shipbuilding cluster  ET Infra",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra zeroes in on Dighi to set up ₹20,000 crore mega greenfield shipbuilding cluster ET Infra"
+            ],
+            "tldr": "Maharashtra zeroes in on Dighi to set up ₹20,000 crore mega greenfield shipbuild"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1782798535539",
+          "title": "Maha govt presents Rs 7.69 lakh crore budget, announces farm loan waiver up to Rs 2 lakh - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMU5uQXJJb04yaDl0TFZ3UUJNZ0dGblFkZXY2cmZfZmMySXFubWJTRkZKbHd1MnBLN0VPWlRXdGRNWDI1eWRadE9YRjN5akxJVmFnWXVoOWlzVkRvcWxseEVXblZFSmxnMTduQ2U5clNuNmN3YzhNckI1ek9nU1dmcFUyWjR0VlhIbFN4dmppUnNGLVp0WWNxZlZYVFVYXzFhTnNsbW1paktPeDRETWRYeVVkSQ?oc=5",
+          "time": "20h ago",
+          "body": "Maha govt presents Rs 7.69 lakh crore budget, announces farm loan waiver up to Rs 2 lakh  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha govt presents Rs 7.69 lakh crore budget, announces farm loan waiver up to Rs 2 lakh DD News"
+            ],
+            "tldr": "Maha govt presents Rs 7.69 lakh crore budget, announces farm loan waiver up to R"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1782798535568",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV01qdGVkYzBWQjk2Qjh3N19LWXlBdm1fUjV2T2kwS2JwTVZpc01FVDZ0MTkzT1haNnBrSmdtdzQ1OGp6el9ONDZxMlo5T1VacVl4Y3I2ZGRGOUxMTnBYX04yZk1lQQ?oc=5",
+          "time": "6h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1782798535568",
+          "title": "Indian shares reverse early gains as IT, auto drag - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDlSZUE1NEdiQ0JVYld5MmtmMFFiYUJqMmtUQ1ZJcG9mdDFJTk1DcUFlZTRUTEZaS1VBQXRBQ0gwUDRrTlNrbnBOMk5yZkxsYUpHaVZka2Z6V3lrWVJremZ3aVFtcFpkYTN3MXRTdVNpWUduVDVxRkdUMWpybjNXQlJwRm01NjlDaVVVQWVlOGFzQURlNDBGRFVVM1N2cXBlNmNZMTZ0TVhFTi1wWG8xWmhic2xIcUZKWnR3?oc=5",
+          "time": "3h ago",
+          "body": "Indian shares reverse early gains as IT, auto drag  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares reverse early gains as IT, auto drag  Reuters"
+            ],
+            "tldr": "Indian shares reverse early gains as IT, auto drag  Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1782798535568",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "6h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1782798535568",
+          "title": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGxnTW9wRXkzQ1dNakgxekV3eHZxVWRaWVVTOFVCYlNmN1p3bUwtOHdkUXVDUVlRcjBOMjJ0WTZFa205aExGMVRHZ0VPWDlsRVZ0bUpsVU1kZ2lJdVhnY0pmZ2JwbzJ4ZXBZMTBKb2F3VGJwQllZbFpNamVmU3JlOXFVOFExUF92bnRZODRKNVVZWU43ajZZTk1EZjRUNzcwYlVRVkwyRlJnejZWdWtXMjhkeE9UUklHdktKeFpyUFlTaVBFa0FhLVJrYXBlOUZwUm9aRGpLZUV2dW1jemc?oc=5",
+          "time": "14h ago",
+          "body": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why?",
+              "Sensex, Nifty Outlook Goodreturns"
+            ],
+            "tldr": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; Whe"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1782798535568",
+          "title": "June 29: Sensex slips 372 pts, Nifty below 23,950 as profit booking hits auto & IT stocks - The Indian Awaaz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY04weF8tLUNXMGJ2N0Z5WTdHNjNHS3dBNlZQRmZ5elJ4ZzhxUHd0T1dIdTJsQU9SSzFWVHVrZk5WTHpHbWJrZWVhTnZoRUM4Qlc5RWNpb1ZVTHpIZVBpNGh6Wm1XU0YwMW5NYkM2Sy1pZndacTVUWnItTFJER3JTZzJUN1JVTjlYSmVjckZIRWs0RDM3TlZ1bjVoWVpsdml3Vk82czh4eG5ReWR1TXFvbG5R?oc=5",
+          "time": "10h ago",
+          "body": "June 29: Sensex slips 372 pts, Nifty below 23,950 as profit booking hits auto & IT stocks  The Indian Awaaz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "June 29: Sensex slips 372 pts, Nifty below 23,950 as profit booking hits auto & IT stocks The Indian Awaaz"
+            ],
+            "tldr": "June 29: Sensex slips 372 pts, Nifty below 23,950 as profit booking hits auto & "
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1782798535568",
+          "title": "Stock Market Ends Lower After Profit Booking; Investors Lose Rs 72,000 Crore - Hindusthan Samachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlR2QlVtUW9paTRncTJhYzRCZWIzOW9TeS1FbmlPckdjdGVvc29SbW82dlAxX2ZxTlJpOFJZdzNXZjd2T0stZnRCcTRLNlUtLWZwS21PeGN0SHVfalZ4ZzZZMFdtS0FFY29JVG0tT1NVN1FvRU9iNERCczNwLVVxckVtVXM?oc=5",
+          "time": "16h ago",
+          "body": "Stock Market Ends Lower After Profit Booking; Investors Lose Rs 72,000 Crore  Hindusthan Samachar English",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Ends Lower After Profit Booking; Investors Lose Rs 72,000 Crore Hindusthan Samachar English"
+            ],
+            "tldr": "Stock Market Ends Lower After Profit Booking; Investors Lose Rs 72,000 Crore Hin"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-7-1782798535644",
+          "title": "Scanning 7.5 mn rail commuters impractical: Govt | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmZuVHd6eEdSRTFSQXcyUzhDck1CUG1rN04tdnZKeTVIdlZXTWw5UnNGUC1MMzVEZmx5X1l2d3lyR3ZWclFkTkJHQTJ5U0pBUGtGMHUtYlFHZktHMy1iR1daX3J1TVlYQ0NRQnJkcmRxM1NkUjNPYTBtdjFNUkY4b2NDT0xoeTZVV3hCLV9UYmw5eFdRUU1rVGlIZlB5bVBiNGlmc04wTXg5Q29jaVNRQWFXbHFHY0ZDN3ZpT0ZRd9IBvwFBVV95cUxNSmZuVHd6eEdSRTFSQXcyUzhDck1CUG1rN04tdnZKeTVIdlZXTWw5UnNGUC1MMzVEZmx5X1l2d3lyR3ZWclFkTkJHQTJ5U0pBUGtGMHUtYlFHZktHMy1iR1daX3J1TVlYQ0NRQnJkcmRxM1NkUjNPYTBtdjFNUkY4b2NDT0xoeTZVV3hCLV9UYmw5eFdRUU1rVGlIZlB5bVBiNGlmc04wTXg5Q29jaVNRQWFXbHFHY0ZDN3ZpT0ZRdw?oc=5",
+          "time": "5h ago",
+          "body": "Scanning 7.5 mn rail commuters impractical: Govt | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Scanning 7.5 mn rail commuters impractical: Govt | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Scanning 7.5 mn rail commuters impractical: Govt | Mumbai news Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1782798535568",
+          "title": "Turtlemint Fintech lists at 11% discount; should you exit or accumulate? - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNV95czZMc1otb2RvT3E3aWlzendTSUljWk1ueG1qRm9sTzVQY016SV9nY2NQNEJYUmltTmhyTmZvYTRWVG5ibnFfb1RyejlObWRmQVE1TVRjVVVwSlNZalFFdm42V1E2RjVGZEhQY1RRS3Y2TE9maE11Y19YN0VUNWV2ZXlta0lIdWlNYmp1UE9HLU5Yb3l3Rzc4Y3o0M0t5WXBjZWZLMUJNMzJZQ1pYODVSeTRxbjVSYlhSN0F3OVVUY3F0TWZUMnVYWmoyZ9IB0wFBVV95cUxNMk94aGVJNGxXRnJrNkFObFMtYnU2Rk16NVg2ODM0SkxxZkN4QlJvdFA1UjRvUWp5ZzZNMlhYOGdrbDREQmhGSXpfX05ZZUZpN2ZITGZ0QTB0M0gwWmpiMkdIRlV6MUNwZmxCb09tc2F3NFpPNGVsRnhPVjhGdldSU0ZfR3FYNUhHdzNWaDEwLWNsTzVzLWZDR1lPeDhHMDZFb3NfSjBzT3J1alRPLU1FWUlPenpPQVk4S043UDNmTTlIVktGVGpYd3RMTlZqV19SSnVF?oc=5",
+          "time": "16h ago",
+          "body": "Turtlemint Fintech lists at 11% discount; should you exit or accumulate?  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Turtlemint Fintech lists at 11% discount; should you exit or accumulate?"
+            ],
+            "tldr": "Turtlemint Fintech lists at 11% discount; should you exit or accumulate?"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1782798536967",
+          "title": "How digital India is shaping Viksit Bharat 2047 - organiser.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObG9uVDlGTFNIYXRnYzJWZVdzRjFnLWtfdHdHWVl2WUZQeUhJbUNpdjRoMkViVWZxZEdyRV9Wd1VwcUdLT0V2QXFmSFV0dXRidDg0Sm1ydkw2b3F0eDlPbUgtRHUxaHNlZ2V3M25tQWsycllmeHgxTkRpQnZKZVBZZ05XMi1qdlpWMmpfWndOaXhrR21VeTVobUFxME1rSHBYdm5pVmMwNDJka1VidkU3azZHcGh0SFJsSDN4RWlfZTduWVJSd0VvckdiNzBXY0tqa2ZKZVhGamY4NElsU3E2eS0xc0dUX0xRdUNYazNLNWQ2aDlaa1VZOA?oc=5",
+          "time": "2h ago",
+          "body": "How digital India is shaping Viksit Bharat 2047  organiser.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How digital India is shaping Viksit Bharat 2047 organiser.org"
+            ],
+            "tldr": "How digital India is shaping Viksit Bharat 2047 organiser.org"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1782798536967",
+          "title": "Pocket HRMS releases India's First smHRt Agentic HR Solution - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ3RoZmRYU2ZPNUdtajhYN1NZaEhtNzU1dFA5RTl6V2FhM1VvZjRELVJEV3phbzlvS0oxUGl5czhWT1FaZ2VDSXl2Q0tZNGphRGRsTWoweE1HV0ZNSUdBZDlSOXlUNlpKbUJYT0Y5R0FHbk1UWmphQ0V4aWdnNVduZ3hlRTRMa2lFMk1zRXNvOEx3d2plSUIyQkhSQmNfcDUtanlwSF96NEhfdkQ2eE5LRHNZY21NQ0lDUDVZTmxHbkp6U0NoSzFUV0xlVXplRWFNQjdFbGZTcmEyU0hHTGfSAd4BQVVfeXFMTUN0aGZkWFNmTzVHbWo4WDdTWWhIbTc1NXRQOUU5eldhYTNVb2Y0RC1SRFd6YW85b0tKMVBpeXM4Vk9RWmdlQ0l5dkNLWTRqYURkbE1qMHhNR1dGTUlHQWQ5Ujl5VDZaSm1CWE9GOUdBR25NVFpqYUNFeGlnZzVXbmd4ZUU0TGtpRTJNc0VzbzhMd3dqZUlCMkJIUkJjX3A1LWp5cEhfejRIX3ZENnhOS0RzWWNtTUNJQ1A1WU5sR25KelNDaEsxVFdMZVV6ZUVhTUI3RWxmU3JhMlNIR0xn?oc=5",
+          "time": "17h ago",
+          "body": "Pocket HRMS releases India's First smHRt Agentic HR Solution  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pocket HRMS releases India's First smHRt Agentic HR Solution Business Standard"
+            ],
+            "tldr": "Pocket HRMS releases India's First smHRt Agentic HR Solution Business Standard"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1782798536967",
+          "title": "Samsonite Sets a New Standard for Smart Travel with Waypoint™: From luggage maker to travel certainty brand - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOGJKT3ZSY0lKeWsxN0FKUi02RjVLNF9faDQ4RVlEaXZSQ0o3WmJCaExZQTJFdG5mSF9rVERWVFptOVk0bTdqQ3IxSzJXYVJ5SlZoa2dFbFU3ZE9CQ2ZlZUtiTzJTQlhyYVdPQ29ZY01STE45Q0pwUFd4RlotUXk4Vl9IazI3aF83c2hSTHRCVkVmUHR6Q2JxZ082VEZfb25lcTl6TGtCakJJTUE2enhZUFhYOWRBYmFQVHRxYmM1RzktNFlZTnU5eWZ5Y3M3c3VKZEF5VFhmSzdnVWVhMmgxdlpWcTg4UFY1Z0wzUzRLRGpWSGNlT2lDYU9NSFlMa0lNY3MwU3RhWXo1cWY4dDZXc0Y3a3B3aXVBOVHSAZoCQVVfeXFMUDhiSk92UmNJSnlrMTdBSlItNkY1SzRfX2g0OEVZRGl2UkNKN1piQmhMWUEyRXRuZkhfa1REVlRabTlZNG03akNyMUsyV2FSeUpWaGtnRWxVN2RPQkNmZWVLYk8yU0JYcmFXT0NvWWNNUkxOOUNKcFBXeEZaLVF5OFZfSGsyN2hfN3NoUkx0QlZFZlB0ekNicWdPNlRGX29uZXE5ekxrQmpCSU1BNnp4WVBYWDlkQWJhUFR0cWJjNUc5LTRZWU51OXlmeWNzN3N1SmRBeVRYZks3Z1VlYTJoMXZaVnE4OFBWNWdMM1M0S0RqVkhjZU9pQ2FPTUhZTGtJTWNzMFN0YVl6NXFmOHQ2V3NGN2twd2l1QTlR?oc=5",
+          "time": "17h ago",
+          "body": "Samsonite Sets a New Standard for Smart Travel with Waypoint™: From luggage maker to travel certainty brand  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Samsonite Sets a New Standard for Smart Travel with Waypoint™: From luggage maker to travel certainty brand Business Standard"
+            ],
+            "tldr": "Samsonite Sets a New Standard for Smart Travel with Waypoint™: From luggage make"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1782798536967",
+          "title": "AI, digital platforms super-charging terrorist capabilities: UN Chief - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYThfaVhKbEs4MXF5SXFzaUFyRF9FVk9fMzlQcVpxYTE3Z0lfR2RlZ01iM05XS3E1X2U1UDlEaFpfUmJuYUJMVVdYaUtZV041UU9iWkRDRXFQRjNVeTl0cGV3em5lYXJXQ3pQUThiM2llSjl3Szd6SmlITWdWcVZqRFZZZHJDMnNCckQ0Y3o4N3B5MFhGVEZpSE16U3RfY1BDRTdvTUZpbThDMWfSAbABQVVfeXFMUF9MamI4NnJqT2dpNU16TWpMNXVSZkttWmtKcy01eXpybTR6cUJTQ2F0T0lvTmVGbGFOdjFkTjZKdEwxNHIwUEJiRFVKLTU0VUR3VGhPSU94M2puRm01R3VMUzZIaXBRVlgxZENHeFhfYnd1cmlkU21rWE00eU5xczhGbVMzd19IX2NXZ1BKSThSZ05Ob25tU0R0WmNYVTdieHVYelN3UnpSYjl6bEtjang?oc=5",
+          "time": "14h ago",
+          "body": "AI, digital platforms super-charging terrorist capabilities: UN Chief  lokmattimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI, digital platforms super-charging terrorist capabilities: UN Chief lokmattimes.com"
+            ],
+            "tldr": "AI, digital platforms super-charging terrorist capabilities: UN Chief lokmattime"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1782798536967",
+          "title": "NMIMS Launches Horizon Initiative With Coursera To Equip 40,000 Students With AI Skills And Future-Ready - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUVJoT3A2YldXSHo0TEd5aHFNcmM3YUJUdE1UTVVMbm9QX0I3VnhkMndSUVhRVkFNR09KejhHQnIwbEJ5a1dHY1pkTU9jTzdpaUFJcHdORl9OX0U4aGlGR2taUjN4VXh2bzI2RER0Q0FueVRxd3lIX0N4bXdtWDBoa29JY0Y3X0VpY25Gc19LSlV4dHZXNTJOM01kLXIwMDlraG9NWU5adzF0Sk9YWnhtaGdhWTR5SDlsc1J2bVhDNEpkYmphTVBLaGRyRnY0M3NJWDdCRUNSS0hJZk11RW1QVXdFWUdicXJNbGJ3WjVyONIB9AFBVV95cUxQU1lqVTZ5NVRHZEtOVS1UMm02WnpncmxmOXBCdDZET2dlS1BrcWZhSV9RdjFfYllBZkZGUV9KUFJDb0xJVXJXamRhZWkwbmJaZmdiQUdBa1A3cHhrSE4zU3U2ei1STS1qSGpyTlUzc1J3bFQ2YVc0NHREa3dLZ2wxVWtfc215N1c5VkdaeVpSRHVVMVMyTUhKZXR2NXRQaTY4X0FFeTdhVTV1ckY3RGhjSG82bEJaQ09iZ1RTTWJYZ2RzRmJTZldSbVZSWHNDb3VKT1RxeVBDc3ZZQUtQN1FqNmdoSEZmOHRtNktRWFo1N2FrUWZT?oc=5",
+          "time": "8h ago",
+          "body": "NMIMS Launches Horizon Initiative With Coursera To Equip 40,000 Students With AI Skills And Future-Ready  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NMIMS Launches Horizon Initiative With Coursera To Equip 40,000 Students With AI Skills And Future-Ready Free Press Journal"
+            ],
+            "tldr": "NMIMS Launches Horizon Initiative With Coursera To Equip 40,000 Students With AI"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1782798536967",
+          "title": "Business News | Tech Mahindra Collaborates with Perplexity to Boost Sales with AI - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFlMDdqcGdDWkxxYlpmbU0yVUFpS1dTVUJ4Sm1sWGYxbWg5YXBSNDJBT2NZQmluRWFpY203MWZ4Q000YVB6X0VCQi1fb0lDYkJHVmp0YnZSTk9tR2pmQVNBWnpMWjNxNG9lZWFjdjg2dnIyNDJOT01RdDRCaUJacHkwb1NKWFRsdEozNkJLS1lBRTI0RWhpWmEwb0pIY2FDU0U1NkJIVmplYUZzVm95dnhlZENGakJnUzVraUUwRTFsYVBqdTBFdGJRZTIyZw?oc=5",
+          "time": "18h ago",
+          "body": "Business News | Tech Mahindra Collaborates with Perplexity to Boost Sales with AI  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Business News | Tech Mahindra Collaborates with Perplexity to Boost Sales with AI LatestLY"
+            ],
+            "tldr": "Business News | Tech Mahindra Collaborates with Perplexity to Boost Sales with A"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1782798536972",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+          "time": "2h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1782798536972",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYlVYVDJXMHR2SVppbzZRNlBlcTY5MlpKT2x6Vmh4cS1wTEh0MGdZWmh6UFZuR2p2QVY3VUQ5NWpyMEVqZ3dwbHo5RHVOT0hmQ0VJZ1lpSEVzamNJWmRSb05HRy1fRl9vUjdkaHVUNmxLTkl6d3FVVWRDN1BodDljT3Q1QWVibktvMkd1LTAzZHB2ck9QQ3ZvWXpQbHUyZw?oc=5",
+          "time": "4h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1782798536972",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "16h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1782798536972",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "11h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1782798536972",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "14h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1782798536972",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "16h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1782798536972",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNThXZ0JSNWZ0dWw5XzkyQUt4VDdqRUFpdm1MMXRqTUpzaWw0RzEzMzZOb2pfcTlLSlJzWDhaYXVPU0dQcGdyTHhKQTBtU0NEekNpTWtHNUZWSWR5cFdQMzBHRVBCTzJ3b0V0QzlYZFo3RDFCN3Q3S0pzOHlTSWRYczR2UlQtUjFuWTB4Q2VoNkk0aUg2aURpdFRENnBZbjNyTmc?oc=5",
+          "time": "15h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1782798536973",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "17h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-1-1782798538065",
+          "title": "Indian man found dead in Kansas after his car was swept away by floodwaters, locals saw car going into water with someone inside",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "16h ago",
+          "body": "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an Indian-origin man from Omaha, was discovered after his vehicle was engulfed by floodwaters. The harrowing incident took place on Saturday in Sumner County, leading to a swift rescue effor which went on for hours after his car and bag were found with no trace of him.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an Indian-origin man from Omaha, was discovered after his vehicle was engulfed by floodwaters.",
+              "The harrowing incident took place on Saturday in Sumner County, leading to a swift rescue effor which went on for hours after his car and bag were found with no trace of him."
+            ],
+            "tldr": "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an I"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1782798538065",
+          "title": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because.... [object Object]"
+            ],
+            "tldr": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1782798538065",
+          "title": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'. [object Object]"
+            ],
+            "tldr": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers "
+          }
+        },
+        {
+          "id": "mumbai-general-4-1782798538065",
+          "title": "16 men, including Indian-origin accused arrested in Canada after extortion probe",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "In a significant crackdown, Calgary police charged 16 men, primarily of Indian descent on visas, linked to a widespread extortion scheme targeting the South Asian community. While mugshots of 15 suspects have been publicly released, only one remains detained, with the others granted bail. Investigators are examining possible connections to the Bishnoi gang in light of 49 reported extortion cases, including several shootings, since April 2025.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a significant crackdown, Calgary police charged 16 men, primarily of Indian descent on visas, linked to a widespread extortion scheme targeting the South Asian community.",
+              "While mugshots of 15 suspects have been publicly released, only one remains detained, with the others granted bail.",
+              "Investigators are examining possible connections to the Bishnoi gang in light of 49 reported extortion cases, including several shootings, since April 2025."
+            ],
+            "tldr": "In a significant crackdown, Calgary police charged 16 men, primarily of Indian d"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1782798538066",
+          "title": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, meets collector to officially become Indian. [object Object]"
+            ],
+            "tldr": "Want to die as an Indian: 94-year-old Andhra woman renounces US citizenship, mee"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1782798538066",
+          "title": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\"",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\". [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin doctor couple donates $500K to US medical school: \"To give back in a small way is extremely rewarding\". [object Object]"
+            ],
+            "tldr": "Indian-origin doctor couple donates $500K to US medical school: \"To give back in"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1782798538066",
+          "title": "Meet Jainendra K. Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Meet Jainendra K. Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jain: The first Indian-origin physicist to win the Wolf Prize and transform quantum physics. [object Object]"
+            ],
+            "tldr": "Jain: The first Indian-origin physicist to win the Wolf Prize and transform quan"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1782798538066",
+          "title": "NEET aspirant given Abu Dhabi centre takes re-test in Nagpur after NTA correction",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in Abu Dhabi, successfully appeared for the re-test in his hometown after the NTA revised the location. The issue gained national attention, prompting swift action from the agency. While the NTA stated the city change was made via the candidate's login, the family maintained their preference for local centers. This incident occurred amidst the ongoing NEET-UG 2026 re-examination.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in Abu Dhabi, successfully appeared for the re-test in his hometown after the NTA revised the location.",
+              "The issue gained national attention, prompting swift action from the agency.",
+              "This incident occurred amidst the ongoing NEET-UG 2026 re-examination."
+            ],
+            "tldr": "A NEET-UG 2026 candidate from Nagpur, initially assigned an exam center in…"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1782798539476",
+          "title": "Silver Rate Today in Aurangabad – Silver Price per Gram & Kg | 29 June 2026 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjFONWpFc09CRE45WG1KVUcxS0dzVGpaVDFJWW1wM0NkdEQ3Tjk1YTlYQ1kzeS0ycmxudWlfSE56ZXNtWU1QUFJfSFk0TjJfbUVpNGZSNGFNdnljUEZVenhDV1ViTy1yTEdEZkZyeGJxYkVXODNWLXlpVzZDRlp0ckRkTFVyOUg4QlBDSkczNTI0Mkxm?oc=5",
+          "time": "10h ago",
+          "body": "Silver Rate Today in Aurangabad – Silver Price per Gram & Kg | 29 June 2026  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Aurangabad – Silver Price per Gram & Kg | 29 June 2026 The Times of India"
+            ],
+            "tldr": "Silver Rate Today in Aurangabad – Silver Price per Gram & Kg | 29 June 2026 The "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1782798539476",
+          "title": "Silver Rate Today in Aurangabad 30th June 2026 : 1 KG, Silver Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwaWp6TzRqRkEzOWRFYXVYZWZYbzJnMnVQblpkcFlzc0xiekdCTTJhbjdhOVBkWWFQV3Z6MDlEQ3hQQWF1QV90WTBDUEJhMjJOaHZoUWtLNXNKcHgwWE5FT09Ja3RrZ2hzMjNIWkNhRFJoNFlsSWZUNE1n?oc=5",
+          "time": "2h ago",
+          "body": "Silver Rate Today in Aurangabad 30th June 2026 : 1 KG, Silver Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Aurangabad 30th June 2026 : 1 KG, Silver Price in Aurangabad Business Today"
+            ],
+            "tldr": "Silver Rate Today in Aurangabad 30th June 2026 : 1 KG, Silver Price in Aurangaba"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1782798539476",
+          "title": "All 1,140 Seized Units Revealed to be Unsafe in Ahmedabad F… - GujaratSamachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEpBX0lFdHpxdW5SS0dTUUtBc3JNakItUExxeU1kV3RYNTBVN3lSemFCaEN4UVAzVEd4WU9rRGxvdjNra0dIOUE3dV9XaXJ3S0RYZlZFbGxwaWpZbkxnc2hCYlRSaXBTaS1pOU80WFlDSFRZYy1aWWh4U1RQdmpUS1lRdnVhbnpWU2J2bGY2dTFfYmxvNFVNWGE1bGJpSWpsazVBZU5WelF5RXBWdlVOT3hneTJyY0ZHUVRpZEJsTnNydXNlODA4bW1jTEt5cDRuU0E?oc=5",
+          "time": "9h ago",
+          "body": "All 1,140 Seized Units Revealed to be Unsafe in Ahmedabad F…  GujaratSamachar English",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "All 1,140 Seized Units Revealed to be Unsafe in Ahmedabad F… GujaratSamachar English"
+            ],
+            "tldr": "All 1,140 Seized Units Revealed to be Unsafe in Ahmedabad F… GujaratSamachar Eng"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1782798539476",
+          "title": "NCP (SP) leader Rohit Pawar launches stir over farm loan waiver, accuses Maharashtra government of betraya - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUmxRVVpTUkZ0OWNIZWgyUWJHeUdYR3FHQzBTS3ZRelhwZVVmTUpHU0MyQ0NselZzYzFIZGwtSXJWYWo0YjRoVXdHVTNqQ1EwNlFqcHFDU1FBVFVnUlBTZnF0b19CWGlxVDVTMS1weTlsSW9xQi1YYTJUV3ljZUZqOWY3MkxnRnVKOEdySy13TDZZS1dzQmFYTGdyMGYySHJ4NTAtNTZpclVfdnN0b01VRHAtVWlNb3dGYU91UHB6cDJmMFpsa1dYcHQzbjNjX1ZyWlVXbnEtWGdYSmVyUUNmQktHWGxpejNEQmQzUnF0SWVMUlQyYkNWZWV0XzZFT3pFQXg2cHoxQm1YVnkzMHlnQdIBlgJBVV95cUxOcFJCdGc5RmRnMEVKQ2Q5aTc0QUJaZTV6TmRRb3huNTBva3dRU0dvRUhua2Z0Q19RMFhaWGxCSkVFMEVyNXFiQjVjS29uQlRmOUsxNjZnSm4zT3c3bi1zQ0owcnhpeWl3X0J5eHVIRGpBWEM5cUNzR3FJa2ZxM251eV9sTXkycVpHM3RKbm9xak10UUNYQUVvVEdrRWxQUTJVenc5VnV5OEhSaHJLSlZTcEVfZlpKZEtKY0FYdkxjVFRFejlyOUxBdnFUb1dmN1VubVZuRnZlVVNtTEk3U3FiMFBXUTVTX01jOV9QYlVNWnhmNXBpYjVsak5VMHJVWW43YkJKbFVRVkVwLWdtcFFwbjRVeVdmQQ?oc=5",
+          "time": "22h ago",
+          "body": "NCP (SP) leader Rohit Pawar launches stir over farm loan waiver, accuses Maharashtra government of betraya  The Economic Times",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "NCP (SP) leader Rohit Pawar launches stir over farm loan waiver, accuses Maharashtra government of betraya The Economic Times"
+            ],
+            "tldr": "NCP (SP) leader Rohit Pawar launches stir over farm loan waiver, accuses Maharas"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1782798539476",
+          "title": "Suspected beef supplier booked; one held, 250kg beef, four animals seized in Sambhajinagar - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQemNwNDdZTWFLampUSTlPSUlBT0hvU2dlSXUyR19IaS1HRmJLd0VJdDZ5OTNwY0ZwRHh6NzVfbEdBQU9ROFBVYU91LTNEd1Bwb2JILTU1SFRkTy1Db1E0NDNuUy0xQUo0cnZhSTZMOGNmNmlPb0RWaGxER3IzTDUwNTdFYjBxUUJSTEFRUXdrYTBVRk1fODA0ZG5OU3VLeWR0cEgwSGFaWGZia19ycTRGUGo5OTVmc1k4U24zaXNnSXYtbWh2d0syMUlHemNxVVYzRzlTbTFJMjZNLW5VVjd6OE9RWHB5TVNFYk1hbzlTQlllZXpKdUlUZEJCazdIUdIB_gFBVV95cUxQemNwNDdZTWFLampUSTlPSUlBT0hvU2dlSXUyR19IaS1HRmJLd0VJdDZ5OTNwY0ZwRHh6NzVfbEdBQU9ROFBVYU91LTNEd1Bwb2JILTU1SFRkTy1Db1E0NDNuUy0xQUo0cnZhSTZMOGNmNmlPb0RWaGxER3IzTDUwNTdFYjBxUUJSTEFRUXdrYTBVRk1fODA0ZG5OU3VLeWR0cEgwSGFaWGZia19ycTRGUGo5OTVmc1k4U24zaXNnSXYtbWh2d0syMUlHemNxVVYzRzlTbTFJMjZNLW5VVjd6OE9RWHB5TVNFYk1hbzlTQlllZXpKdUlUZEJCazdIUQ?oc=5",
+          "time": "12h ago",
+          "body": "Suspected beef supplier booked; one held, 250kg beef, four animals seized in Sambhajinagar  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Suspected beef supplier booked; one held, 250kg beef, four animals seized in Sambhajinagar The Times of India"
+            ],
+            "tldr": "Suspected beef supplier booked; one held, 250kg beef, four animals seized in Sam"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1782798539476",
+          "title": "Gold Rate Today in Aurangabad 29th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "22h ago",
+          "body": "Gold Rate Today in Aurangabad 29th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 29th June 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 29th June 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1782798539476",
+          "title": "Indian daycare investigated after toddler allegedly bitten 25 times while left unsupervised - The Online Citizen",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT05yaVNVZHNYR2JBT2NUN0tkR21HcFAxSGRsM2dXRUpIMUNIbFR1VlZWSUZCT1N5VjVBRWR0Z0d4c1c0SUd6MzROcXNOZlprY21qbHJ6akd3cVdjZ0RTZ2tGX2VCdEd5OG5EbWkyaTJSdVZZcEJwb282Tm1aNHEtM3IzTmlXaFh1eUpwWlJ6a2RiOUMzZkhlSGd2cm5ZMzFMMzJyQXMzN29McGJDa1daN0Y1Z2tWWWwtNlhzcTBtTlFTVGp6cTFodjVUTQ?oc=5",
+          "time": "23h ago",
+          "body": "Indian daycare investigated after toddler allegedly bitten 25 times while left unsupervised  The Online Citizen",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Indian daycare investigated after toddler allegedly bitten 25 times while left unsupervised The Online Citizen"
+            ],
+            "tldr": "Indian daycare investigated after toddler allegedly bitten 25 times while left u"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1782798539476",
+          "title": "An Observational Study of Clinical Bacteriological Profile and Antibiotic Susceptibility Pattern of Neonatal Sepsis at a Tertiary Care Hospital - Cureus",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRGRIZ01xcEpoTGptc1VFeng3eDY5RUVYMXU0ZkNCTVQ2X09sTklCNjlQRVdpaTZqYjBQYU9OT0ljOGdFa2l2SHlicEZnQzVtV2d0Z3BodDZsT09mMUVnRk5hM3Z1eGZqUU1NSTJiZWNEVmpWYmt3anQwQ1Y1Sk5oS0lqTUcxVGxBaTNQR043SEZwV190ei1mQUtuX0NDakRqWDNKeEh5Z283WTZva202N2NBSEFpTmxtUThCZm45ZnlUYlRSNTRLRzdkV0hXclNKTGpHby1oemJzZ3VHWmFpckVnXy1FVjQ0ZjFoZ3k0UUhGN1BKVWRXbDNwU2I5WFVJX0FMNERKd2s1RXNxc053?oc=5",
+          "time": "12h ago",
+          "body": "An Observational Study of Clinical Bacteriological Profile and Antibiotic Susceptibility Pattern of Neonatal Sepsis at a Tertiary Care Hospital  Cureus",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "An Observational Study of Clinical Bacteriological Profile and Antibiotic Susceptibility Pattern of Neonatal Sepsis at a Tertiary Care Hospital Cureus"
+            ],
+            "tldr": "An Observational Study of Clinical Bacteriological Profile and Antibiotic Suscep"
+          }
+        }
+      ]
+    }
+  }
+}
