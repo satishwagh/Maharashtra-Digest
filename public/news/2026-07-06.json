@@ -1,0 +1,801 @@
+{
+  "date": "2026-07-06",
+  "generatedAt": "2026-07-06T06:05:55.873Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1783317950463",
+          "title": "Rain-related deaths in Mumbai reflect 'administrative failure': Congress leader Wadettiwar - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZjAybWFGUUlJZjVDOGRzbm5vZEhoNll0enFDMnBWMFJyOUZKd0k4cVI4M3ZMenRsdW1iVXFoMkZLSFNIWk43TE5vU1pzUHFVX1dTY2NTN09uOXdRRy1ZMm5NeVVSX1UyVXpCQUpPYktxOWREZmpibFJMeXB1Q0VlOFlfM1FXTlVhVkdRVGlDVDBFc3hsbmd6RlJhTmoxSVk4bUoyWWJ5Uk8xM0NEWTh6aU1xMGdoajBER3BKY1B6dkxOQzlma2c5LWxDaUN3ZWNFQ1ZKMHJnclJLZ0tadmNGc0t6aGRGd9IB8wFBVV95cUxObkVFRU5NRm9XbDZBYTVaNDd4RUVjWGZzY3VtM2NjQlJvcF9iakpyekJ3SnJ0OFBXbGpPRzQxUkdzNGlhcVpING9lRTg0azI4RzduTGhCbC1DQjd1SFJqUXpXMmhGeE9LR1N5ZW5ZaWZUeXo4SDdFUUFPX0VRSjVJRi1meUJKaWx2akJfQ2h2WWsxZFVKclZvaWZnczRaMV82SGV1TkxVc0dGOFdVNmJETFZ2VkZrUnhtemdaODcxcmhZa1cybjJtMzVSay1wZVc5cmJLQ1h2cGtUZnU3SWdOMkFwLWUwM3otczlzWExsQVFjWG8?oc=5",
+          "time": "Just now",
+          "body": "Rain-related deaths in Mumbai reflect 'administrative failure': Congress leader Wadettiwar  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rain-related deaths in Mumbai reflect 'administrative failure': Congress leader Wadettiwar The New Indian Express"
+            ],
+            "tldr": "Rain-related deaths in Mumbai reflect 'administrative failure': Congress leader "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1783317950463",
+          "title": "Mumbai rains: Six dead as shanties collapse in Mankhurd, Maharashtra government announces ₹4 lakh compensation - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUUM5RnB6YWpodncyTmVpZEd3cUtyc09OMVhsM3RVUmlBaVV3X05LZ2tXQ0t3TU1LV2tiZ0RfU0JHLS1jMFFPaC1iaUlWMlJUeVRkR0szQlMwejNvOFNzc1V4X2VmSzMzQnR4X3pvNmRSd3BEOVlxQ2RFT1VfYjl4MmNsVFh2dlM1NC15ZVZSV3FFRFcwZ2RtblJkb3BuR01VbTVOVF9FUG1wN3gtSDctZGptNkdlQks2RG8xX09GdnV6ejRkSWU2RHZZQldSdGRsN1F0SGkzZnp5djlJSXJoeTFHaGt2cGo4NS1jOUpPMNIB7wFBVV95cUxPUUM5RnB6YWpodncyTmVpZEd3cUtyc09OMVhsM3RVUmlBaVV3X05LZ2tXQ0t3TU1LV2tiZ0RfU0JHLS1jMFFPaC1iaUlWMlJUeVRkR0szQlMwejNvOFNzc1V4X2VmSzMzQnR4X3pvNmRSd3BEOVlxQ2RFT1VfYjl4MmNsVFh2dlM1NC15ZVZSV3FFRFcwZ2RtblJkb3BuR01VbTVOVF9FUG1wN3gtSDctZGptNkdlQks2RG8xX09GdnV6ejRkSWU2RHZZQldSdGRsN1F0SGkzZnp5djlJSXJoeTFHaGt2cGo4NS1jOUpPMA?oc=5",
+          "time": "4h ago",
+          "body": "Mumbai rains: Six dead as shanties collapse in Mankhurd, Maharashtra government announces ₹4 lakh compensation  livemint.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai rains: Six dead as shanties collapse in Mankhurd, Maharashtra government announces ₹4 lakh compensation livemint.com"
+            ],
+            "tldr": "Mumbai rains: Six dead as shanties collapse in Mankhurd, Maharashtra government "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1783317950464",
+          "title": "No non-BJP CM: Fadnavis | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVBVaV9PdTdwZi1ZbWtZZHFUY2kyQ2p4V2QyMXctY0RTeW5yS05RaXprSDU2NjlOTE9RLXRCNVhBSlJDSEh6ekZBWFZvbXdnMWtydzBZaVlkOWJsLVh6ckNUbmM0WlFWZ2VZak9rN0xEQmhmV1dWSmxsbXpaYnEtdWdDVERndEh2am1yRlVaZ0FBUGZES1FydkZYd1ZUZ9IBngFBVV95cUxNZVBVaV9PdTdwZi1ZbWtZZHFUY2kyQ2p4V2QyMXctY0RTeW5yS05RaXprSDU2NjlOTE9RLXRCNVhBSlJDSEh6ekZBWFZvbXdnMWtydzBZaVlkOWJsLVh6ckNUbmM0WlFWZ2VZak9rN0xEQmhmV1dWSmxsbXpaYnEtdWdDVERndEh2am1yRlVaZ0FBUGZES1FydkZYd1ZUZw?oc=5",
+          "time": "2h ago",
+          "body": "No non-BJP CM: Fadnavis | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No non-BJP CM: Fadnavis | Mumbai news  Hindustan Times"
+            ],
+            "tldr": "No non-BJP CM: Fadnavis | Mumbai news  Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1783317950464",
+          "title": "Mumbai Rain Update: Work from Home for private offices, half-day for government employees as heavy rains lash - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQWUFlR0w0S2lGQUIzWGNlM2ZEcHduOTdoTk1YNl9DelBZaG1XVzZETGpYWDFsREhCOWFqZkM2Z0NuN2hIR0dpZU53NEtueEhLbG5WTVFIT0JrVDhpMkN4NlBtTlE4M2FKRGZoa0k2M3pRMll2U3RZMUJOYjY1Ti1OcDNRY2c4dnFyZFd2dFhISG5Gc1cwZU5XaTJKQ08wcVdieGxnZzVybllpZkxTRy1rUVBzU2xJRWJqVkNDbDdDOFBjaHNoeER6NHZ1VkRIVDRPcEN5ejBGaWVBZEpoV2FVVzNrTlZtSWhfY3hRd0pYcVZscUx1R1NzTU41MXg5MzJkSC1leDJXSVF6aUlLUTNQMjNyb0RWbV9HNmN5ZmRFSGYxNGN4bE9ERjlyLTEtMWMwTk1PZlRvbGRDeVdPUi0tNjhtNHFqTWfSAcwCQVVfeXFMT2pXcXF5VXk2djJJbEVuN0JOenAybnBkY3NWLWdadGY4VnVUSHl4TzNHblczenRsTi1rRWZIUFBNZGNKVnE4Q3g3UnNkXzBhdjJEelJWR1BoVlNOT2lUOXlZRmJweE5TV3NCa01nUTZRLU52T2c2M20xVjJmUWFGSDNrY0RKWjY0VUdxcm5LT0p3Q1ZpUzNPUlR2SW84emVVSmZvcmN3MU5fZmkxWFpRSHpibDJkOXVHUlZqQmQ5b3ltZDlNMkNmak9TTnEwQi00bVF2dW9BaTNVaVFoaloydjFRMlZCc2VpMnN5R3VrN0lCQ2FsX2R6VnIzLUE5YzFjMUptOTBDa1lpa0JVVEtqSjFMcklyUEpIVWlScjlEQ24tMUNWZWxZWVpNcF91SVZTVV90TU15ZlJQUDhqZ2EwdENZVVFQdFNhMXpVeEw?oc=5",
+          "time": "Just now",
+          "body": "Mumbai Rain Update: Work from Home for private offices, half-day for government employees as heavy rains lash  India.Com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Rain Update: Work from Home for private offices, half-day for government employees as heavy rains lash India.Com"
+            ],
+            "tldr": "Mumbai Rain Update: Work from Home for private offices, half-day for government "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1783317950464",
+          "title": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlotTXdHSHRaSzVVNjNTWmJvYWJySkFuN01fTmlKQnJPd3paNzN1dXpqaDJ6ang4aFZBN0ZDcHhOZm5ra01GbE1ZNmZaeUhLbURJYnBhRTdwdGItZUJLZ3hsT184LUREVGV3eEhvT0FibGJuejEyV1k3ekVELTdQai04ZnRtRnk2TnFMX3BpTjlzdldfYlpUUDdNWlZpeWdwcHUzQW8xa19GTW9LdXplWXYtdk5kYlducUsyUkJoUQ?oc=5",
+          "time": "4h ago",
+          "body": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain  DD News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain DD News"
+            ],
+            "tldr": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra bra"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1783317950464",
+          "title": "Schools, colleges in Mumbai, Pune to remain shut today amid heavy rain - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajV2YnVIanRjcGJCQmZjRHVDUXNidE1BZlBrWVBvU0w5V2Q4dERpY3FBMkFDRVhqdE1QcGZnT2E2RTNvcE1hendMakJkeUZkaGkteThIX01ORFh2RFdKWmtLUk5GaFZfdVFNNk9EOWItSWQtRERZMFJkUl9ZVTU1UnJ1MEJMZkYwUUVmT1ZEU1lzS3pLcVBUX3NycFlBNXVjdTRjX1lab2tsbGJ3R3VPZFJtMVBTZnJ4Wno1S3BkV1lFV1V5S09ndXMzTWdKQ1ZHaDhF0gHTAUFVX3lxTE9qNXZidUhqdGNwYkJCZmNEdUNRc2J0TUFmUGtZUG9TTDlXZDh0RGljcUEyQUNFWGp0TVBwZmdPYTZFM29wTWF6d0xqQmR5RmRoaS15OEhfTU5EWHZEV0paa0tSTkZoVl91UU02T0Q5Yi1JZC1ERFkwUmRSX1lVNTVScnUwQkxmRjBRRWZPVkRTWXNLektxUFRfc3JwWUE1dWN1NGNfWVpva2xsYndHdU9kUm0xUFNmcnhaejVLcGRXWUVXVXlLT2d1czNNZ0pDVkdoOEU?oc=5",
+          "time": "3h ago",
+          "body": "Schools, colleges in Mumbai, Pune to remain shut today amid heavy rain  Business Standard",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Schools, colleges in Mumbai, Pune to remain shut today amid heavy rain Business Standard"
+            ],
+            "tldr": "Schools, colleges in Mumbai, Pune to remain shut today amid heavy rain Business "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1783317950464",
+          "title": "Congress Slams Maha Govt Over Rain Chaos, says Administration 'Failed' to Prevent Recurring Crisis - Clarion India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcUdxNVota0w1Vm56RVA4NUQ1dzF0VkwyTzNHWWFXQVNmMXZEd29FWW11VmFXTTN3aTRHM0g4RmpIS19BOFZDUmtSNW1NNU94QkRXZHVOcTJ5QXVtRmFqREU1bmxnR2pfSTNkd2pvZy1VOVZOWUFUYTBVNmRQeGs3RnYwVkg5S216QTJTY2lMcEhrSHJBd1ZMTjQ2SkVBc3ZfRWFRSmdxVS1tckx2LWl6VzdYaEd0anVub0VFWElR?oc=5",
+          "time": "15h ago",
+          "body": "Congress Slams Maha Govt Over Rain Chaos, says Administration 'Failed' to Prevent Recurring Crisis  Clarion India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Congress Slams Maha Govt Over Rain Chaos, says Administration 'Failed' to Prevent Recurring Crisis Clarion India"
+            ],
+            "tldr": "Congress Slams Maha Govt Over Rain Chaos, says Administration 'Failed' to Preven"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1783317950464",
+          "title": "Maharashtra: Uddhav Launches ‘Ram Raksha Andolan’ - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1liMmtMRGZDTm9TSGJVM2ZKbzBrQkJRcUp3VjlYWEJSMV9zaHBpVUtyMGxXR2VwU1BqOHc1S2tfQVJfOExsZ0JxX1VvSER1b0tpd3pvaDUwaEVvR3R6OUVWRGhiSjZTcEdCemlCY2g2UkEwX05IdF9HNXFqeHdXTUpvb3B1TFliY1BZblJ2WmNpSzJPNlpkadIBngFBVV95cUxOOENkbVdWRlVwWFAwMWNIUmRZblFQcDYxNE9EMldoYUVmOHdVdU8zODhGMnBxWXUwdkU0dFNtY0ZodUZvV2NBbzBiaXpvbVpKakQzemNJcDhjT3M4R01VeHVlQ2NMTU01cjZjWUtDNW1uUGEwOWF5MWtaVThmRWFDUzJSREhkNk9XeTFBTUxad0Jsd2pWeVRPbTlHQmtuQQ?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra: Uddhav Launches ‘Ram Raksha Andolan’  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Uddhav Launches ‘Ram Raksha Andolan’ Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra: Uddhav Launches ‘Ram Raksha Andolan’ Deccan Chronicle"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1783317950464",
+          "title": "Mumbai issues work from home advisory for private offices, some govt offices to observe half day amid heav - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSGNZdGVNRDhYVG1SZXlaeFRucUVfX2YtNWkyMnFsemRiRFJhQ3VkMmc5MWJkSFYtTW56alhjbUlfWTRka0FCel9FRzVhTDF5QVpiRjFEUWlxSkpIRmNiNUticGF4NlBBa05IbHBfNUhHVlF5dTVFRUhqVWNLYllpYlowWEFGdnh5NVFGRFRxNVdVZ256dndVSGk5ckJYLURVZVV2M3V0WVdGT3NyT3dfajA3ZWZDM3M3M2VaUzhmbGZKdC1WMUIzVmZNTEJwc3h0TElQRzRwQzVkWnZSWEtDaGZPRjJuaS1sbHctVF9vdTlkOUlnNFRCS2Q5NnFzSzhyLXZKbUYxZENicElHYWFOcHZ6NWwtSEpydVZEd1N2ZVlEWlXSAagCQVVfeXFMTTQ0eWp6MEdWaUlMaEUtSUR5NnhuZnJUME1FeEJtVzlaTGJ1Y1pvN3g5S0NZeWtxU3JyZXpmcERqWk9jcUl5Rlp4YXk3akNrNDhNSzdRNnZNV3VMQ1lhcDFYQ2xNZkg5WWd4LVVmbkNCTW1sVFVENEJsbzlnUlJWRTd4VFpNZTJlemRtazdlWjM1d1pMU25lOGV6UzY3WERQekZfcnVTNGU3S0lXWTFaUHNDbTVXd0s5ZFZ6WWFUdUYwZlJzbnZBa2stV0JkTFBoNURXeHAzMXg2WURLZ2haZ1FFTnlWN1hpRTRTOUZKRlBZVTRZS3c1a2JDMTdtX0pndURZcEJfblZlck1IbkZIdmJEMkNseUdQdVJ1NllBNlZnTHhUUTlLcFE?oc=5",
+          "time": "Just now",
+          "body": "Mumbai issues work from home advisory for private offices, some govt offices to observe half day amid heav  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai issues work from home advisory for private offices, some govt offices to observe half day amid heav The Economic Times"
+            ],
+            "tldr": "Mumbai issues work from home advisory for private offices, some govt offices to "
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1783317950381",
+          "title": "Indian shares open higher, led by HDFC Bank, Axis Bank - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREQtVVJtV3Q4TTZ2WXltcmxiS24tUzY2ZWxBM2JVYVpuMm9UNTNKb3Mzb1Z4aGpyZEs0VFAtNW5RY0djZ0U2YzNySG1jWkwtS2V4RmhkM3pocm4zLU1xQWtNZEpfTzdOLURIZE1fdWgtcVNnZmZKNXZ3T3BCWExTY0NOWTZIN0xmaWRHV3M2dTlmZDJWTVY2MGlNNEcyRGQ4ZlZZaFhmVjJfTXpQeFAwVGdn?oc=5",
+          "time": "3h ago",
+          "body": "Indian shares open higher, led by HDFC Bank, Axis Bank  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares open higher, led by HDFC Bank, Axis Bank Reuters"
+            ],
+            "tldr": "Indian shares open higher, led by HDFC Bank, Axis Bank Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1783317950381",
+          "title": "Sensex climbs 281.40 points in early trade, Nifty rallies 74.60 points - Telegraph India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0ltdzV1SUNOLW4xUGtSZU9RbUZuWGRKNGNGWWNGenZkcHlkWm1na1hTVjlPclZyb0hLTGRJOTRWN0Y5TDhLSElROTAtemdkUk9RV0FNcDFZTDktUkV5QTRlc0hiQXpOVTlOLVFqTmZvTzFpNUdSQS02ek1pb192Skwzd0M3cmxKbUM4NWFPTWh2OWx1Vy1STEZCTEtUMnBudjdGeTlucl9GbXhHUFhaN0NFTVo0cjNzRG56SjJn0gHDAUFVX3lxTE9XZDl6eU1MeldPem16a3QzTkZsODhJbVpoVTlvTTR3Q09OMkhCN2JCSldyenpBYWF4dzNLMHA5aVFzR1JybzRLTThxdUxfdzFlM0RxN2k4cjgwNmJIQmw2NHZDczdUQjdxTG84Ni10UUtlUVJranNTWGhJb3d2UEpoT3FjWkJjNTZxemJtd2I5ZHhZekNNUVNKOWUzWkRBMU9nVTF6anhNQ2dabWp0VkZCQWNmV2R5UDBUSGUwSl8zY2NLZw?oc=5",
+          "time": "1h ago",
+          "body": "Sensex climbs 281.40 points in early trade, Nifty rallies 74.60 points  Telegraph India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex climbs 281.40 points in early trade, Nifty rallies 74.60 points Telegraph India"
+            ],
+            "tldr": "Sensex climbs 281.40 points in early trade, Nifty rallies 74.60 points Telegraph"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1783317950381",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "8h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1783317950381",
+          "title": "Nifty tad above 24,400 level; realty shares advance - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTERBNEVCbjJWM3JYRThJQV9KQWhfNlhDMXB3TTBhVlJ5SWRuOExlcXFpUlhUOVpzZnlUYmoyaTVsVWt6UFNMbm9xWEkyMXh0Z1FRekhQcFV0NGJiZzZISk5LY1ZXRW4wTWt6cXZGMWloZkxZMl8tYkNUT2dpb3ZJTE9SU2szNVRQQVhZTjkwTE1TVURBRVg1SzN3ZlRFUlZ2ZDRHdTBUbkh0Vk1abnVVTDBkWE5yWXdGZmp4WGtZOFdmTWplM3E3UVFOR23SAdIBQVVfeXFMTUtDUXNqTG83OVhwc05odDROZHZSYnlUdTFsbmNyV0ZhcU45MjM4ZVBNLXNYdkMxRnltVF84QzZ6Qm9kbl9PY3A0RE5lUHFELTV1ZjJqOHUtWGhhb3N2M1JfbE4ybXFlR0d0Tk5oTmJFc1RYcVNEeGdHakZqQTdFaFBRV3VaNUg0ZHRERVR4TnE4d05ab25RZzRQR2ZCYmdrR1duZ3FjeFVXWTVOZ3J5M3J2UHgxMWEyU3JaOTlDWWFJTFpRR3I0a3hMT1pSZEwwVWt3?oc=5",
+          "time": "Just now",
+          "body": "Nifty tad above 24,400 level; realty shares advance  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty tad above 24,400 level; realty shares advance Business Standard"
+            ],
+            "tldr": "Nifty tad above 24,400 level; realty shares advance Business Standard"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1783317950381",
+          "title": "Sensex, Nifty climb in early trade: What's driving the continued upmove? - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXlLd0twNXhrWnBSVVo2RGtsRnhzUUU0clNrd3dRUndETlNBNnB3QU1xYTlUT2I1N2JQbFJ1US15aGNyeTB5OFdJOVU2amhfT1lHUkhub080VENfaE83OVlOYVA2MWpIaHo2QzVSZ1RGcmppYXRhRWNtTm0waU9YamdoMnFRN24tcGMyX2NDSklINWVfZklpUW13dUlaMXc1ZWtydWRTLWxZUC1IU1pRNGEwTUp1N3NwOW1uRU03OHA4YVE0WU9VelkyUF9IWHNqbmfSAdcBQVVfeXFMTkZtbkVIVXpWQjJ0LVpFQjVWMnp1bnN3REdaNmhDazRPQWg2M0lDbEJvQmNPMWJ4RlhJbVQ3Yi13TUZBZnVPZEhWYldIQVJlY0tfMW5YRl9QVG9JZU02eGUzU1otV3hVZkpDNFo3SVNvYk5mZmFzUEtJelVaQ19mOWk1N2pyNFpWQUdJV1gwdVVXS1ZiTkpKWnJFdkJRektkejcwWTRzMzJHXzNOazVsbnY0YnVQSmlRbVBNenFpRHlmY0VWUDVJRHpvNGYtalhEYmpiR09EczQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex, Nifty climb in early trade: What's driving the continued upmove?  Business Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty climb in early trade: What's driving the continued upmove?"
+            ],
+            "tldr": "Sensex, Nifty climb in early trade: What's driving the continued upmove?"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1783317950381",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "9h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1783317950381",
+          "title": "Markets climb in early trade on buying in blue-chip bank stocks, lower oil prices - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdnlpclN3SENjaDZzTlpyajd0NzROOXFqV0N6V2c2TDZOeDVhMDRMcEpwNXZ2SXdXYzQ5enBKNTRxOVlpcV9BNkpVbTdiN1F5QnN0cWt4el9KUmNFQkVuR09KRVcxVGMxSkt1alF5bHZ1UTdMWnd2ZVVZeFFObXNMTUhwczZ2amVxdFNQbXZGUVY2N1lTZ2daeE50bF9CbktpQjFOT1ZZTGtIVWRFcEE4bFNPN003NlFoN1dTc0xOcGhsZ9IBxgFBVV95cUxOVkJnbnFpcVZfVm1EdnlXUlhsOFBDWWpJSFFNN3pobnNRblBPS0pPdGZ5b056MFlwZEpHWHlQS1hiREIyVjJySVQwSEh0LWV1SjFveVFKOExoRW8zeTZaZlFUOEZaaEpUZzBhaHZBckhVTGlYM3RxUVlXOHRCWVdsUWpCTjFfdDM3cUhNQ28tb2pwdHhuaFJSZ3EzNUdON0dNamNiM3RYSE16aGZTTlRjMFE3UzFqc2UweVNqdlpNREFPc0oxRkE?oc=5",
+          "time": "1h ago",
+          "body": "Markets climb in early trade on buying in blue-chip bank stocks, lower oil prices  The Tribune",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets climb in early trade on buying in blue-chip bank stocks, lower oil prices The Tribune"
+            ],
+            "tldr": "Markets climb in early trade on buying in blue-chip bank stocks, lower oil price"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-0-1783317951757",
+          "title": "India needs a new cybersecurity plan for its frontier AI - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQkw0ZUp3bnlTeGpPUm91ZW53UF9EbW9XaWxwdDJpUS16T3pteDhFUjB2X0FySEVGMVI3c3hOZVYxV0RQS0x4UWJjQk1QTzFaMnZQR3luTmtVNFlsUkVURnVCVnJRRnc0Z2l6Mno2SjRwekl0UXlJdlhIZ2pTSXFSaFBXQXF3bHEtRWxjNHpSYjVGcU9uMFpqWE12cVBhb01ub1l2dVpnYWFnRm55YmM4cGJNNTRPTkdrX3VZUnhB0gG-AUFVX3lxTFBCTDRlSndueVN4ak9Sb3VlbndQX0Rtb1dpbHB0MmlRLXpPem14OEVSMHZfQXJIRUYxUjdzeE5lVjFXRFBLTHhRYmNCTVBPMVoydlBHeW5Oa1U0WWxSRVRGdUJWclFGdzRnaXoyejZKNHB6SXRReUl2WEhnalNJcVJoUFdBcXdscS1FbGM0elJiNUZxT24wWmpYTXZxUGFvTW5vWXZ1WmdhYWdGbnliYzhwYk01NE9OR2tfdVlSeEE?oc=5",
+          "time": "10h ago",
+          "body": "India needs a new cybersecurity plan for its frontier AI  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India needs a new cybersecurity plan for its frontier AI The New Indian Express"
+            ],
+            "tldr": "India needs a new cybersecurity plan for its frontier AI The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1783317951757",
+          "title": "Jharkhand to present AI and digital governance roadmap at national consultation | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR2pxd05jU1VBWjBMWEU0OUd6WTZGYlRUaXNSREhNaW1vVjJXU3YzRTJVQVowcDBiRDFRTlVIaFNCN2d0MEtScDA1c0h2OWFoUFBiREp4cjlqcUpsd2xETDd6bVpobUEyWS04UjRqSUxXZl9RZEtfZ3JkWUNHUnJIUDB6VzFfeDA1LTk5WkFZSkdqSUNseE9OTVdYTlNGVUhKbnVXWGVtRVZQZUZ6TjlvSWZCelZ3MEhESlJNM2pQeHMwckExc3RKR2lneDB2WERxUG5XbHZ3Vi1DQdIB3wFBVV95cUxNOUduaXMyWG5FRE0zSmJMX09KaTg1di1STkJUcmFvZEcxUHh1ejBnMmpiREI0d2VlVDNSZWphdnJWVFJkRm9KcmUwR0lmaDF3ejdyTE9vWWFSdENUcXplcUFCelJEV01YR012YzVUNkFLS2RzMUVLcjZYYWZCOVpJbW9MandXc1hMcFdSZ2p1UTZnOWk5SDV4UFY2TENpZWZ5aWd2Z3BYZWR3ZkthMThVTldOYmZjSmhXTjF3VHFtOW9ySE4wczdZb1lIWmlNa003YkREYXlrakJXRXB0TVY4?oc=5",
+          "time": "16h ago",
+          "body": "Jharkhand to present AI and digital governance roadmap at national consultation | India News  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jharkhand to present AI and digital governance roadmap at national consultation | India News Hindustan Times"
+            ],
+            "tldr": "Jharkhand to present AI and digital governance roadmap at national consultation "
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1783317951757",
+          "title": "India's agentic AI dream for fintech needs an infrastructure relook - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeFlvcEY5Z3p0enZIZG1YZXQ0Q1RxbGpMWHdqVlRCcmgyMkt6ak1XcDdYbkNucVphbUpVNmJmb0ZON3JWUjY5Tk9TaGZ4Z1E1WWlKSHBIZWowRFlHa3BqTjN6YWg5WVZMdjZfZm1FbFlUelU0V0I2VkFzcHdGNnZ5YmJYVDAxVzkyUjU1RVN0UFEzcHJjamZCaG5rRHFjbnJGVWlfdVBsVHZCZlE2SVBPVnRsdnAzdmtIZExKeUNzR1ZISF93VmpyWkxoQ1hXeVBGek1SZG1xd2FWdWxzLUtQckQwUG9kYUlRMnU2SHBWSmpyQdIB8gFBVV95cUxNeFlvcEY5Z3p0enZIZG1YZXQ0Q1RxbGpMWHdqVlRCcmgyMkt6ak1XcDdYbkNucVphbUpVNmJmb0ZON3JWUjY5Tk9TaGZ4Z1E1WWlKSHBIZWowRFlHa3BqTjN6YWg5WVZMdjZfZm1FbFlUelU0V0I2VkFzcHdGNnZ5YmJYVDAxVzkyUjU1RVN0UFEzcHJjamZCaG5rRHFjbnJGVWlfdVBsVHZCZlE2SVBPVnRsdnAzdmtIZExKeUNzR1ZISF93VmpyWkxoQ1hXeVBGek1SZG1xd2FWdWxzLUtQckQwUG9kYUlRMnU2SHBWSmpyQQ?oc=5",
+          "time": "14h ago",
+          "body": "India's agentic AI dream for fintech needs an infrastructure relook  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's agentic AI dream for fintech needs an infrastructure relook Business Standard"
+            ],
+            "tldr": "India's agentic AI dream for fintech needs an infrastructure relook Business Sta"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1783317951757",
+          "title": "Indian Council of Medical Research wins gold at national awards for e-Governance 2026 - India's News.Net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2poejZ6WGZHbXhkaElmbF9mZUNBdk55YW1XQzZ0Mm5Ma2RzUzBaVVA5dWdYb0xnUE1HRTh0THk5TVdZMy1jYXBzVHNnQ01Md3VlWDFpdU9xcDNkc1Q1a01lelVWaGJfNzExY0JfNnViTmsyNTItcmdpeVhqZzg5Q041OXc0cUZ6eFhJaUF4aWVvNi1NckJvc05ZdGJ6ZkxDWU9UVW00SXJWMFlOYkQyeTRZbE9Ca2JkZHlJZHM1TUF3MTJ2eFE?oc=5",
+          "time": "15h ago",
+          "body": "Indian Council of Medical Research wins gold at national awards for e-Governance 2026  India's News.Net",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Council of Medical Research wins gold at national awards for e-Governance 2026 India's News.Net"
+            ],
+            "tldr": "Indian Council of Medical Research wins gold at national awards for e-Governance"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1783317951686",
+          "title": "Chief Digital & AI Officer Programme India: IIT Kanpur's Complete Guide for Senior Leaders in 2026 - Jaro Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXlXZTlFc1VSNUl5V0tuMjlvWG1uMmp5cFRjeFRaS1JUeGhWSVlScDFaWUVQOHJxZmhuWEkzczNpbVg4V3QzSjJ3YUdrUUR3ajRyRThfUUh3QXVzZ2tnZG04XzU2Rkp2SEctUnUxQ2lKSE93NW5pS2gzd1FONHBHaw?oc=5",
+          "time": "19h ago",
+          "body": "Chief Digital & AI Officer Programme India: IIT Kanpur's Complete Guide for Senior Leaders in 2026  Jaro Education",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Chief Digital & AI Officer Programme India: IIT Kanpur's Complete Guide for Senior Leaders in 2026 Jaro Education"
+            ],
+            "tldr": "Chief Digital & AI Officer Programme India: IIT Kanpur's Complete Guide for Seni"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1783317951774",
+          "title": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2toNzd1TjVCb0lRaGpScXB5UEUtRm1RQXVUVXdpTDNtMV9id0dITzFHM09Tb3FGWTVud1ZyOW5sZ3l5eW1sSGlQeHlDOUJSWW1pWjhRckR6bVJtWGZ5aXkxLVB0cWNhUWgyOW5NdVJLbTg5QnFhRXFVaUlRVUY2U2lBQThQdmE4a0psSmFlT2p0d2EyeXgxMVZPSjB4Zw?oc=5",
+          "time": "13h ago",
+          "body": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets News On AIR"
+            ],
+            "tldr": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets News On"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1783317951774",
+          "title": "Full Highlights: Punjab Kings vs Mumbai Indians | TATA IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KR1BhRHZSSWtZLXkwMGVCaXpnUms4R0RqYU5VeHVZUGYzVDRCLVFUWDZaUm5vLXhhTjRqT2lrTFFHcWI5RjlGaFNSSjZoSzdNb2YxSS1SeTd0eTlKT1Q0WVREZUNlcVR6dlY1NlU1Y0tSUFVaV3FwZFd3?oc=5",
+          "time": "10h ago",
+          "body": "Full Highlights: Punjab Kings vs Mumbai Indians | TATA IPL 2026  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Full Highlights: Punjab Kings vs Mumbai Indians | TATA IPL 2026 Cricbuzz"
+            ],
+            "tldr": "Full Highlights: Punjab Kings vs Mumbai Indians | TATA IPL 2026 Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1783317951774",
+          "title": "Tim David fined 30% match fee for IPL code breach against Mumbai Indians - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjRYMTJuRGo2dGpEU2tlMXBIQzZkYnh1aXA2ZlNjUDlBNVp0b0ZhMm51YUtlcjBMLTdKRkk3LWF4azZWQkFEN0xaSWVBRFJ4ZDk2WVE2R1Y3WGg4d2ZxQUJ0LUYzeVJpXy1Xbzl4WGlKeFdlaHl6MTJQUk9ERVFYejhOOElTcWlJMFUyREx6bE93S2lYQ2VnRjR4THhWc3FfWUhUWFhnZw?oc=5",
+          "time": "4h ago",
+          "body": "Tim David fined 30% match fee for IPL code breach against Mumbai Indians  The News Mill",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tim David fined 30% match fee for IPL code breach against Mumbai Indians The News Mill"
+            ],
+            "tldr": "Tim David fined 30% match fee for IPL code breach against Mumbai Indians The New"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1783317951774",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "19h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1783317951774",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "7h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1783317951774",
+          "title": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BrR0xnVlg3ZGtobG5zMExtcFRXMnBPWmJ0bFlzcmNjMHV0OU1GX2VqZUVMUTBiQUVhLTZYLUdxXzBJUnU4NEU5ZFl0TFZGOXNMRGZCeklFamxMTWpOclhURXV3ald3V3AwRU1hRldCWmgzbkJnbl9PMkVJNHNKSDlR?oc=5",
+          "time": "3h ago",
+          "body": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistic"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1783317951774",
+          "title": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3ZmcWVzZGtFZE81UUVrQzFUTzdnWDhjbzBLLTl6RElKNG9rUS1yTFJTdUtVdk85T3hob3ZMYUtFTmdhVV9JX0paVUlEa2FuN1l4OTdRTmVTRU5tc25vNy1GaWV5U2tfa2xZMWFPVXhURGR0NnVWQTUyYVRqMEtDbnR2UDk5QmhXNVBTaGd1NWVjYndDRUxzVmFnOA?oc=5",
+          "time": "11h ago",
+          "body": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets News On AIR"
+            ],
+            "tldr": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets News On AI"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1783317952865",
+          "title": "Indian father accused of attempting to murder his 2-year-old child in North Carolina",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is facing grave charges of attempted murder against his young child. The infant, suffering from critical skull injuries and severe trauma, allegedly received delayed medical care. Pasunuri has been charged with multiple counts of child abuse and attempted murder.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is facing grave charges of attempted murder against his young child.",
+              "The infant, suffering from critical skull injuries and severe trauma, allegedly received delayed medical care.",
+              "Pasunuri has been charged with multiple counts of child abuse and attempted murder."
+            ],
+            "tldr": "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1783317954167",
+          "title": "'Not to me': What Neymar told Norway goalkeeper after scoring penalty",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Brazil's World Cup dreams were shattered by Norway, with Erling Haaland scoring twice in a dramatic 2-1 victory.  A late Neymar penalty offered little solace as the five-time champions exited the tournament. The match also marked Neymar's emotional retirement from international football after a storied career, concluding where it began.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Brazil's World Cup dreams were shattered by Norway, with Erling Haaland scoring twice in a dramatic 2-1 victory.",
+              "A late Neymar penalty offered little solace as the five-time champions exited the tournament.",
+              "The match also marked Neymar's emotional retirement from international football after a storied career, concluding where it began."
+            ],
+            "tldr": "Brazil's World Cup dreams were shattered by Norway, with Erling Haaland scoring "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1783317954167",
+          "title": "Watch: Freak celebration injury! Henderson rushed to hospital after Mexico thriller",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "England's thrilling 3-2 World Cup win against Mexico was marred by a serious wrist injury to veteran midfielder Jordan Henderson. He was hospitalised after an awkward fall from advertising hoardings during post-match celebrations. Manager Thomas Tuchel expressed concern over the \"really bad\" injury, though he also lauded his team's fighting spirit after overcoming adversity, including a red card, to secure a quarterfinal spot.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "England's thrilling 3-2 World Cup win against Mexico was marred by a serious wrist injury to veteran midfielder Jordan Henderson.",
+              "He was hospitalised after an awkward fall from advertising hoardings during post-match celebrations.",
+              "Manager Thomas Tuchel expressed concern over the \"really bad\" injury, though he also lauded his team's fighting spirit after overcoming adversity, including a red card, to secure a quarterfinal spot."
+            ],
+            "tldr": "England's thrilling 3-2 World Cup win against Mexico was marred by a serious wri"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1783317954167",
+          "title": "Jude Bellingham becomes third-fastest brace scorer in World Cup history",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Jude Bellingham scored twice in 98 seconds to inspire England’s 3-2 victory over Mexico in the FIFA World Cup 2026 Round of 16 at the Estadio Azteca. The rapid brace, the third-fastest in World Cup history, helped England reach the quarter-finals despite a late Mexican fightback. His performance placed him alongside Kroos and Mbappé in the record books.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jude Bellingham scored twice in 98 seconds to inspire England’s 3-2 victory over Mexico in the FIFA World Cup 2026 Round of 16 at the Estadio Azteca.",
+              "The rapid brace, the third-fastest in World Cup history, helped England reach the quarter-finals despite a late Mexican fightback.",
+              "His performance placed him alongside Kroos and Mbappé in the record books."
+            ],
+            "tldr": "Jude Bellingham scored twice in 98 seconds to inspire England’s 3-2 victory over"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1783317953104",
+          "title": "'Stuck since 4am': Landslide near Missing Link, flooding cripple Mumbai-Pune traffic; diversions trigger - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDU5UU1DUHcyR0p3WmdHa0Q3RWFldE5UdlhCLXR1ODRRR3FweFRRM1ZNSVIzR1B1Vkx5Z1RUNXJXWlRnMW9lcDl5SzBTeWE5dEdNUFZBRnI5MlZrZkR6ZlZYWFJuNWhuaG80TlR0bFF5SkphekltajVlQkswOGhUbHdlUmJzT0pqb3hmdGljTEpJaDhEbVNfQmFMczM1RUlSd2R0Y3hzNGFsdXdWaFBRWlU4QlJpQ3dQeDBNdGdHQXU2akhmT3NOQm1lSWpPWnptRGhNNzhqRDBYczZEalFuUGEyNVlGSkx3aVM5MU16X1NWLXZKVlphLVF2bkR2UFduUk1jNjktV1ZuLUJ1WGYwYdIBlgJBVV95cUxQNjZkS3NadWw5WENDLUhHV3N4MFktWW5oWlRSSTB6dGJ4aDNlVTlYQ2Rxd0pBX08zQnM5UWpXaVdIYWI0ZklSbGN0SG5xdEFyMUJidWR4M3ZfVmxUNDFlR2xZSTFDRHZHbXNYbUVDRUh4aUVYdWNLTm5famtHRzRIeENoaHJTZ1lEblFZRzN2dW0wdFBnZkVob3ItcEM0Z2EyMkI0MGdqcXRUVjZPZ0F1TWF0RXlmTnBZWXlLcjBxbjFsVjh4Wl9UYXB0MmE1NWNhcGJneXlXcDFKamk4WVlyZEtLV3lGTjd4X3NJN1g1aExiQXNaeFo3TmFfa0FrTWVFT3lZcjFCUkFXbTJ0bWRnRVUtYksydw?oc=5",
+          "time": "2h ago",
+          "body": "'Stuck since 4am': Landslide near Missing Link, flooding cripple Mumbai-Pune traffic; diversions trigger  The Times of India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Stuck since 4am': Landslide near Missing Link, flooding cripple Mumbai-Pune traffic; diversions trigger The Times of India"
+            ],
+            "tldr": "'Stuck since 4am': Landslide near Missing Link, flooding cripple Mumbai-Pune tra"
+          }
+        },
+        {
+          "id": "mumbai-city-9-1783317953104",
+          "title": "Heavy rain and landslides cut Mumbai–Pune links, halt trains and close expressway - madhyamamonline.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2FrbHFrN01kS3dQdTZRWlAwV043OWdJVmo5WFV0ZTkySXZQQ0lEWURSYnlPZjFUX25wNUlWaDBIVTNpQlhlU2ZON1VLMW15UmRHaTZLRjJjX0ZkX2hHQUsycHZoc1F2VGNBZEMxbnl1anRSVjVPRlRlc0lzcWU3U3JxWmMtcW9uTFNHd21jdnNPemgxZEhNWHk0cTk3QTEwclJ5SUNHQmhGRjZvSWhXdVNETVNObFJ0YllqMXdEamo2MkXSAcMBQVVfeXFMTUNha2xxazdNZEt3UHU2UVpQMFdONzlnSVZqOVhVdGU5Mkl2UENJRFlEUmJ5T2YxVF9ucDVJVmgwSFUzaUJYZVNmTjdVSzFteVJkR2k2S0YyY19GZF9oR0FLMnB2aHNRdlRjQWRDMW55dWp0UlY1T0ZUZXNJc3FlN1NycVpjLXFvbkxTR3dtY3ZzT3poMWRITVh5NHE5N0ExMHJSeUlDR0JoRkY2b0loV3VTRE1TTmxSdGJZajF3RGpqNjJF?oc=5",
+          "time": "1h ago",
+          "body": "Heavy rain and landslides cut Mumbai–Pune links, halt trains and close expressway  madhyamamonline.com",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Heavy rain and landslides cut Mumbai–Pune links, halt trains and close expressway madhyamamonline.com"
+            ],
+            "tldr": "Heavy rain and landslides cut Mumbai–Pune links, halt trains and close expresswa"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1783317952864",
+          "title": "Indian student drowns in Germany; four questioned",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian student drowns in Germany; four questioned. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student drowns in Germany; four questioned. [object Object]"
+            ],
+            "tldr": "Indian student drowns in Germany; four questioned. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1783317952865",
+          "title": "Ohio motel fire kills 3 Indian-origin guests trapped inside room",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Ohio motel fire kills 3 Indian-origin guests trapped inside room. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ohio motel fire kills 3 Indian-origin guests trapped inside room. [object Object]"
+            ],
+            "tldr": "Ohio motel fire kills 3 Indian-origin guests trapped inside room. [object Object"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1783317952865",
+          "title": "Indian-origin man convicted of stabbing wife in Canada; claimed he accidentally ‘poked’ her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Jagpreet Singh, an Indian national, has been sentenced for second-degree murder after fatally stabbing his wife, Balwinder Kaur, only six days post-arrival in Canada. The court rejected Singh's assertion that the stabbing was accidental during a dispute, labeling his testimony as untrustworthy. Previously married for twenty years, Kaur had sponsored Singh's visa, and the tragic event took place on March 15, 2024, after she expressed concerns about his arrival.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jagpreet Singh, an Indian national, has been sentenced for second-degree murder after fatally stabbing his wife, Balwinder Kaur, only six days post-arrival in Canada.",
+              "The court rejected Singh's assertion that the stabbing was accidental during a dispute, labeling his testimony as untrustworthy.",
+              "Previously married for twenty years, Kaur had sponsored Singh's visa, and the tragic event took place on March 15, 2024, after she expressed concerns about his arrival."
+            ],
+            "tldr": "Jagpreet Singh, an Indian national, has been sentenced for second-degree murder "
+          }
+        },
+        {
+          "id": "mumbai-general-8-1783317952865",
+          "title": "Indian man found dead in Kansas after his car was swept away by floodwaters, locals saw car going into water with someone inside",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an Indian-origin man from Omaha, was discovered after his vehicle was engulfed by floodwaters. The harrowing incident took place on Saturday in Sumner County, leading to a swift rescue effor which went on for hours after his car and bag were found with no trace of him.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an Indian-origin man from Omaha, was discovered after his vehicle was engulfed by floodwaters.",
+              "The harrowing incident took place on Saturday in Sumner County, leading to a swift rescue effor which went on for hours after his car and bag were found with no trace of him."
+            ],
+            "tldr": "Tragedy unfolded in Kansas as the body of 33-year-old Venkatesh Doppalaudi, an I"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1783317952865",
+          "title": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees in Delhi is different because.... [object Object]"
+            ],
+            "tldr": "Indian man in UK finds out his car had no AC, no space to install it: 45 degrees"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1783317952865",
+          "title": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers or microwave: 'Came to America, no English, no money, just a dream'. [object Object]"
+            ],
+            "tldr": "Meet Rahul Sahota, Indian entrepreneur whose Arizona restaurant has no freezers "
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1783317954372",
+          "title": "Rohit Pawar announces farmers' protest on June 29 in Maharashtra - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNek9LNnZwN0NQczlTb0s1OXE0OXk3UHo3UWxhTC1xQWtQRkJBblhiY1BKLXJPcU00MlI5a09Qek5qTmoyV0VPanpkSzhTWlB0Y1VTMVN6TS1kdTRCNHdrenlfdDFGamVvZUlGeHBFdnJjMkU4MjJlNVFianR3djlQb0RhM3JfQTQyQmI2M20yeGp4RFlVdE1rLVpiYjNRS0RnLUl2cmt0Z19GNEU0Vlg1TVlLejc5bzZVcEE?oc=5",
+          "time": "9h ago",
+          "body": "Rohit Pawar announces farmers' protest on June 29 in Maharashtra  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar announces farmers' protest on June 29 in Maharashtra The News Mill"
+            ],
+            "tldr": "Rohit Pawar announces farmers' protest on June 29 in Maharashtra The News Mill"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1783317954372",
+          "title": "Gold Rate Today in Maharashtra 6th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "3h ago",
+          "body": "Gold Rate Today in Maharashtra 6th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 6th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 6th July 2026 : 22 & 24 Carat, Gold Price in Maha"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1783317954372",
+          "title": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdBb2xONVQ3M0l6aHhjQm9JX1lKbldhWktCZXRYRmVLdWwxdUNBRGhUZFdBWlJ0bV9VSUxLR2hIbW9ZVVZ4V1M3VWhiek42WHc0UE91SGVHV3RoMGR0OHc5Q1NBSENMQkZ0eUwtQnNBbGp6XzRZZkVXeFdjSmVoTWVVRlJVNHE1UmFsWVI4cXZBeGw2eV9rcDY1SzJzWG9lV3BPY09R?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09%  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% News On AIR"
+            ],
+            "tldr": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1783317954372",
+          "title": "Mumbai Monsoon Update: Thane, Mumbai, Raigad, Ratnagiri, Sindhudurg, Satara, Sangli, Solapur to witness heavy - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPY19GTDgyWWsxNTdsZUI3c3NKTHphQ2ZGSjhPNEk5TFdQcjVDS3hnQUdYVlJJNU5kOEdJTFlnUTdxS0NfV3hmODB2MXZlZWxwZVRCV3d5bjJ6QUhqd1lOelJ1dE9IZTZQeVVjQmJTUlZ2U19FbnRJanpXY1J3T21WbXp5eVV3Zmlob1c0b2VuWjd1T0d3R2VpMUR2ckwyR0doVWRiTlFTaElJTzdTdTFUUkpGMS00R0dhSG4xVkNTaTZRMTBFWlk0akdaLUZOTTNmUDRHdkZSZ3lsTUpuTXYxRFdTem8xTmNqNklMMGx2ZVJHMkFFSHIxeThoVUpCNm9MNjBTS3Y3U0p2a092QXQ0RtIBkAJBVV95cUxPY19GTDgyWWsxNTdsZUI3c3NKTHphQ2ZGSjhPNEk5TFdQcjVDS3hnQUdYVlJJNU5kOEdJTFlnUTdxS0NfV3hmODB2MXZlZWxwZVRCV3d5bjJ6QUhqd1lOelJ1dE9IZTZQeVVjQmJTUlZ2U19FbnRJanpXY1J3T21WbXp5eVV3Zmlob1c0b2VuWjd1T0d3R2VpMUR2ckwyR0doVWRiTlFTaElJTzdTdTFUUkpGMS00R0dhSG4xVkNTaTZRMTBFWlk0akdaLUZOTTNmUDRHdkZSZ3lsTUpuTXYxRFdTem8xTmNqNklMMGx2ZVJHMkFFSHIxeThoVUpCNm9MNjBTS3Y3U0p2a092QXQ0Rg?oc=5",
+          "time": "3h ago",
+          "body": "Mumbai Monsoon Update: Thane, Mumbai, Raigad, Ratnagiri, Sindhudurg, Satara, Sangli, Solapur to witness heavy  India.Com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mumbai Monsoon Update: Thane, Mumbai, Raigad, Ratnagiri, Sindhudurg, Satara, Sangli, Solapur to witness heavy India.Com"
+            ],
+            "tldr": "Mumbai Monsoon Update: Thane, Mumbai, Raigad, Ratnagiri, Sindhudurg, Satara, San"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1783317954372",
+          "title": "Gold Rate Today in Aurangabad 5th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "12h ago",
+          "body": "Gold Rate Today in Aurangabad 5th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 5th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 5th July 2026 : 22 & 24 Carat, Gold Price in Auran"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1783317954372",
+          "title": "Embraco's regional export hub - Climate Control News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOam9xSElzRzlEanE5MVJkRUkyQ0F0RU5PZ2w4bHJCd1BIckFmcXMyZDU2dEVBaUx0czlzNjU1VWhva1lMRjJEVGNSVEk4VTlOWFdxTGp6ZnhCdXBVSlFxNkY0ejdua2ZGa3ZyWlVGZjdXV2lKRDdUMFJrdGRwYmI4ZEJqb19jcWVa?oc=5",
+          "time": "8h ago",
+          "body": "Embraco's regional export hub  Climate Control News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Embraco's regional export hub  Climate Control News"
+            ],
+            "tldr": "Embraco's regional export hub  Climate Control News"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1783317954372",
+          "title": "CJP protest day 16: Wangchuk says 7,000 joined rally, Dipke to attend stir in Maharashtra - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmRKdDhZS09WMmwzenZBMTllMkExX05Bck0zVi0xbXo2WE1IUG1wSmRPUlZxZFo2OWlOWnZHbjlpVkozYmdXaGR3QTY3bTBPZDJYaU55YjFlNXQxZ21DaEtEeXI4R2NSQVBIeUlfMmRISGx6WXdRazgzb3ZPbHpSSEk0MGVkMS1TUHU2cmItUkxkZFFodkpRcHp5eGR6eHM2ODljTjBwa1NSdE1TVnRBTnpYTGkwSEotOHNFNnFCc2pwQkV2T2cwMXFPYmphc19YTlE?oc=5",
+          "time": "3h ago",
+          "body": "CJP protest day 16: Wangchuk says 7,000 joined rally, Dipke to attend stir in Maharashtra  MSN",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP protest day 16: Wangchuk says 7,000 joined rally, Dipke to attend stir in Maharashtra MSN"
+            ],
+            "tldr": "CJP protest day 16: Wangchuk says 7,000 joined rally, Dipke to attend stir in Ma"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1783317954372",
+          "title": "Sonowal dedicates high-end microscope at Siu Ka Pha Hospital in Dimow - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQjFLbFRxX2w4V0xOWnROaHhveWhlU0xBMlh5aWI0WkJ6bkdGUURra3Uza2NoNG5FSXVrUmt6NlFvYjJNQmttNHl2U05zMlEyRFhYa1U1dVhiTnAyY1dWVkJMdEN3c1NWNktrbERNMFpqTEI0ODRVLTJtNWpvZTE1Nkx3MA?oc=5",
+          "time": "15h ago",
+          "body": "Sonowal dedicates high-end microscope at Siu Ka Pha Hospital in Dimow  The News Mill",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sonowal dedicates high-end microscope at Siu Ka Pha Hospital in Dimow The News Mill"
+            ],
+            "tldr": "Sonowal dedicates high-end microscope at Siu Ka Pha Hospital in Dimow The News M"
+          }
+        }
+      ]
+    }
+  }
+}
