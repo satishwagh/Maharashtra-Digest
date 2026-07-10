@@ -1,0 +1,793 @@
+{
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T05:43:11.786Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1783662186355",
+          "title": "Fadnavis Kutta Remark Ignites Political Row; Shiv Sena, NCP Call Out Negligence in Missing Link Project - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTER1QnRfRmt4dC1Xc3VuUDJPZlNOeDVHTHM3ejlIZ2dkeXlENmZwRGFHQ0pmNEZQLVJCQ3owMXhEQUgtaVM0Q3VXZG9QTTdQNlRIUXlSYU5CQlFIbVI1a21nMmRLNHBtUlhWQ0xWWmpnUUNGRmhRT3d0UER2cl8yUDYwUFUxbC1FR2F1ZWVIUGExMHV2V3AzTm00N3JxMmtIakJQc3ZiUF8tUjBEUUc2b1RnSkhQSUZMQXBFNDVQb2FfaEoxSDdiWnFnS3BHcVgzaHZDS3h30gHbAUFVX3lxTFBIekJHdzRtQXBxYmJ4OWZzZmxEWFJZaVNNUV9GeGMzb2NQRGY1WkNENnZpRXZvMUlGRGlFWVRWMmpJUldoTHkzOS1kWFQyeGtUWmhwMTJsYV9ZNUhtTFZTbkxBOGdQR2J2aWZwQUJzVUVHRVZUUFdDeFZLRlhUUFQ2SDhyVWZ5UFR1QTA2NFd0VVpYRGdScEdFX21NbDhobk1UNmdpRVZCNUNCQmdnZWpNN0l1dk9BVFI4OXVQT0Npc1VSd0ZyekhNa05Ja2pOSV9sakE5bF96OVhuVQ?oc=5",
+          "time": "Just now",
+          "body": "Fadnavis Kutta Remark Ignites Political Row; Shiv Sena, NCP Call Out Negligence in Missing Link Project  TheWire.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis Kutta Remark Ignites Political Row; Shiv Sena, NCP Call Out Negligence in Missing Link Project TheWire.in"
+            ],
+            "tldr": "Fadnavis Kutta Remark Ignites Political Row; Shiv Sena, NCP Call Out Negligence "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1783662186355",
+          "title": "Maharashtra reclaims 34 acres of prime government land in Mumbai worth Rs 50,000 crore - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS29DaWgzMXNGSWdTOHdabm5tZWxTOFlzTEhIZXlZTzdpdjlIX18yNEloUTZPLWREVmo5U1ExN3Vid1poTHpXLVNTNTFzcUFSb0R0VDZTTmFidnlBTUs3bURwa2VXTXA5R2p0dFV0VEFGLUQ0WmF5ZG03ZElsb1BCaFZnZVRKR2hyLTA5MUJmeEZ6ZHZvQi14Y0NlZTdWRk10U3IwX2VNS0JIQURZUHRveDFxOVF1bGQzM1lGLThlcWd6YTBIY2U1ZWtwQUZTNmEyVG1QWEhISXZqTXPSAdsBQVVfeXFMT0tvQ2loMzFzRklnUzh3Wm5ubWVsUzhZc0xISGV5WU83aXY5SF9fMjRJaFE2Ty1kRFZqOVNRMTd1YndaaEx6Vy1TUzUxc3FBUm9EdFQ2U05hYnZ5QU1LN21EcGtlV01wOUdqdHRVdFRBRi1ENFpheWRtN2RJbG9QQmhWZ2VUSkdoci0wOTFCZnhGemR2b0IteGNDZWU3VkZNdFNyMF9lTUtCSEFEWVB0b3gxcTlRdWxkMzNZRi04ZXFnemEwSGNlNWVrcEFGUzZhMlRtUFhISEl2ak1z?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra reclaims 34 acres of prime government land in Mumbai worth Rs 50,000 crore  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra reclaims 34 acres of prime government land in Mumbai worth Rs 50,000 crore Mid-day"
+            ],
+            "tldr": "Maharashtra reclaims 34 acres of prime government land in Mumbai worth Rs 50,000"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1783662186355",
+          "title": "Sharad Pawar's meeting in Shinde's office sparks tension, war of words between allies Sena (UBT) and NCP (SP) - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdmJhYUswZVBzbEJfQUFmTGJ5c1lIRW9PUUFCcjk4RU9ZVHZlb0VTendkZ1JmNWJOS1hGWlBWUkJxTjFobF8wVjlIM2FFcDdEYkpOTldINlh5eWdNUjN3N1h4RjZLVkI0eHY4QThoWW1QN3JCaW1KeFJ4TWUtYlA5TnhUcmhJQWR5T3lBWHpYczVXNmVDaG5zdjRZN3Q4TDRHSzhzMW5MSF9PV1g4NHJjU19pQ1NxVUllY2hBdEpIMGtHaHhKSW1iVDlJbExYSV8zalBUQmJuMzNLcVNocU9uSTlrNW9IN2hydy1nT3JPZ293cEIyNkhpc2NuYXBWdEViZXBHdTVZdWp1QdIBigJBVV95cUxOdmJhYUswZVBzbEJfQUFmTGJ5c1lIRW9PUUFCcjk4RU9ZVHZlb0VTendkZ1JmNWJOS1hGWlBWUkJxTjFobF8wVjlIM2FFcDdEYkpOTldINlh5eWdNUjN3N1h4RjZLVkI0eHY4QThoWW1QN3JCaW1KeFJ4TWUtYlA5TnhUcmhJQWR5T3lBWHpYczVXNmVDaG5zdjRZN3Q4TDRHSzhzMW5MSF9PV1g4NHJjU19pQ1NxVUllY2hBdEpIMGtHaHhKSW1iVDlJbExYSV8zalBUQmJuMzNLcVNocU9uSTlrNW9IN2hydy1nT3JPZ293cEIyNkhpc2NuYXBWdEViZXBHdTVZdWp1QQ?oc=5",
+          "time": "17h ago",
+          "body": "Sharad Pawar's meeting in Shinde's office sparks tension, war of words between allies Sena (UBT) and NCP (SP)  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sharad Pawar's meeting in Shinde's office sparks tension, war of words between allies Sena (UBT) and NCP (SP) The Hindu"
+            ],
+            "tldr": "Sharad Pawar's meeting in Shinde's office sparks tension, war of words between a"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1783662186355",
+          "title": "‘Don’t threaten Oppn, you are the Chief Minister’: Raj Thackeray targets Fadnavis over Mumbai e-way ‘Missing Link’ tunnel leak - tennews.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmw0Tzc3MDZzOWtkTS1NTlV5cWxSb25XZEExOGZjMEUzX3pMdTdDYXJITS05SDd2WjZwZml2N21LYVJyNjRoN1RlVzZjQ0lYcWFGSjIxTW0xc2JxT1pXVElkX0pmMElaOHNpNGQyVE00RFlCMkl2RU1xNDVqeFV3dFBBZmFUNlRGR2JQNGFKQzBHTGlwRUhLUC1mZlAxRFVYUGxnTld4ZjdOeG53enRXZnNob3BIQ2tXUnpYeU94YXFiMVF2Y2pLeVhKMkRMeVByZ1p6ZDh3?oc=5",
+          "time": "18h ago",
+          "body": "‘Don’t threaten Oppn, you are the Chief Minister’: Raj Thackeray targets Fadnavis over Mumbai e-way ‘Missing Link’ tunnel leak  tennews.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Don’t threaten Oppn, you are the Chief Minister’: Raj Thackeray targets Fadnavis over Mumbai e-way ‘Missing Link’ tunnel leak tennews.in"
+            ],
+            "tldr": "‘Don’t threaten Oppn, you are the Chief Minister’: Raj Thackeray targets Fadnavi"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1783662186355",
+          "title": "Maharashtra govt announces probe into proposed Nashik ring road alignment change - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVk13VEp5ZWxoVnluSWJBS2xXTy1GeE4zVktUcG1nMlpZeVlQYXJIeFJ4elIxdjZCUlVHVGN2VUVOcUhoWW9UdE1sWkcyVmFkMlltbjlhYXdZSW1oSUdEelZoZkwxaGg5SWdSYWFGSHZjOF8yWUVWeGVwY0xQMlhrV1FsdnpjdDkyM1F5T2xjMVdvQTdiQnFObHVqR3dZaGxpN3BQNzBCMjQzR0dISG5zQllxeXh0Z9IBuwFBVV95cUxNZjQwRW4xRUF2NEFZeUs5R0RQQjBUdm1jM2E5RFVvNnBDbVpZWFAwRGJWMlZ1NGpYdVdLVjJIQjVnd2VOZG9SWmcxeWFGRlpJdHJLMXFFODB4NlF5ZUh6UjR0bnU4R1pZQWswazRDVEtJQXR5RlV3aVZNTmN3STJxajBLNmRkMEVDbzZFbjVFb1hMVlFTZm5HNU1FcmRDMHcyOENsX2lYWHRtTERhZXppWFdUSVJwU0F3STA4?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra govt announces probe into proposed Nashik ring road alignment change  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt announces probe into proposed Nashik ring road alignment change ThePrint"
+            ],
+            "tldr": "Maharashtra govt announces probe into proposed Nashik ring road alignment change"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1783662186355",
+          "title": "Maharashtra Government Forms Committee For Uniform Civil Code Implementation In State - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUxNcmViU1pmMDRQcnFLSm50OWhzSkdJSzVod3VPTVZyclQ0RmxHVWx6NFBOajYxaVZVUFluMXpOTHo2d0FHSDRGdExqRTJQSEdfSk0zc0FSQlhEVUlzVFFNN0dKTzdTUUxPbm9XQjI1UDFILXJ3NW9faUVoU0N1M2pyODVHU1lxOWZhRklETU5SSWY3TVZBRm5vRGFSU1VNbUZDYjRYcml4aDkwd1YtWGt1UFVJVG84NlFaaEZ0NS1EX0VCRXBlZGo1cVBTUXph0gHWAUFVX3lxTE8tX2xXdERjWjlNSmNldjM2SVJjYnNhVXZSSUduMzkwaFM5RG5ZcFptTmlXV2w5QnNZVENnaDdOUHZaNmJpcEM2eEFPZEdxeW5DUlNPSFlwZU5uajg2SzM2ajRtVmNhMDhGNFZ4Y1JESkpmdm4xeVRpZ3FFbUMzU2NTNGttLWduaUdydHFkUUF6LTltb3JSc2laN2N0MzVwRHpocTRPdTJPZXM5dVBlU2JkaFkxQUxoUHZTTUl5eFVtcG1ZbnVZZk9UZDh6TjlVbkRsc0htbWc?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra Government Forms Committee For Uniform Civil Code Implementation In State  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Forms Committee For Uniform Civil Code Implementation In State ETV Bharat"
+            ],
+            "tldr": "Maharashtra Government Forms Committee For Uniform Civil Code Implementation In "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1783662186355",
+          "title": "Maharashtra Starts UCC Drafting Process, Targets Winter Session - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXh1MW8yZlZydmdLWk1OaVJYeURYY0Via3pka3VHX3pxN0FMRFlyRUdVWHVqTXo0Qm5HSVIyTDV1SXpDODVRaTNGRlcyQzJGRF81RXdIc3BpXy05c2RyM2M5YTk0LUdfTVQwM1hJTjREUEFieGVaU01WQ2VxSW9rUG5JQmRHYVRKWDdGQ19zalVwNm13MmtlNkw3V2d5OGZnUWloQVR1SE5GVXVhQlHSAbMBQVVfeXFMTl9Ic1F5NVNSVmwwZl90cXRiTy14RHlfVmc5RkZFVzZwa0Q2VnktZlJSWHkzQkhjajF2c0hsM3VkMldaZTRzMmRrVVYwNTZyczExRWp4WXpaOEl2NGlodTdxczVSNDF1VDVyeG10VWlqQ2lCTEhXRjZINm1uZGNpVldjSFliRmROTGlKWF9VSzVaOEsxakdOV1ZjTjRGZHB0Vk0zeFdJNVlFTnh1cFZSY0FMVVU?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Starts UCC Drafting Process, Targets Winter Session  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Starts UCC Drafting Process, Targets Winter Session Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Starts UCC Drafting Process, Targets Winter Session Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1783662186355",
+          "title": "CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Raut slam BJP leader over 'arrogance' | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZFhmOGl1cm9sN3drQ1JHaXRiSno1Rmp0SXJLNTAyUEE4VFhFSkUyUzJORGVlZlZCb3VlNTZsTHVjRlc1dUctc2d4d1NrMG9laXRhVExrRE1nNlNKb2tGMmNIcy1FY0d1amM3c0NCSG5CbVdZYnNJdXRua1pDakcwQmwyNmhCenFlS2FMVkl5b1BxeEV6Rmhid1BoSjRIVXNmbVpCRVl4VVNlS3NRSGdSNWM4U2l6UHkyMnU5NElxNkdZWWVmTkh6U2h4UlZVQThiY2RITE9NZThOM1pmSDkzTUpkbEE1UGp0dmNoR1RIRlVaX2pjR3NRekItU0xuRGQwQjFQZDNsWWRQQzgzM0FGeNIBlgJBVV95cUxQcGdGRlhYaGdQZzhQX0w0Tjg3UWRQY1pESVdvdE0tS0Z4QmlFV0stV1l0OFlpWHktWVloY1ZzSnNqS2Fha09zVW0xbGVkbW1weHNnWjNWWXhULVVCSjRYVm5CZ0gybG9nVl92UHdOcU5ZZzljR2p0QVNrS2h5SWJfUml1Qm8xSjNHRWdrVWkteUVqa1k2QUVRcWROWE14TWhtSW16QU9FZjR5N0ZKXzZOcEZuV3QxYWZSMjh2R3o1UmJqMTNLcWd5X20zVDNhLUpBZDNFRzNkTzd1Q2VfQS1aTXFMQjV0VGY3UUtOQnpxenFGbnlXZDdSYnlDOGdZVkJTTVBHaFJtQ3VPdkVfVGwwTVFCSGpFUQ?oc=5",
+          "time": "14h ago",
+          "body": "CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Raut slam BJP leader over 'arrogance' | India News  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Raut slam BJP leader over 'arrogance' | India News Hindustan Times"
+            ],
+            "tldr": "CM Fadnavis' 'kutta' remark sparks row in Maharashtra; Raj Thackeray, Sanjay Rau"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1783662186291",
+          "title": "Markets surge in early trade on buying in IT stocks; Sensex jumps nearly 700 points - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWlIUms2MHV6VjRWdWJfUDNIOHlsY0NTQzByWGpnR3Q2UlRwWkx4Ny1Oc2dpczZTZWxCWDBlUnltUWNwZDNCbk9fRkFLeFk5eDQwZjR6V2ZVNDZwWmFlWkswNzdZRXhjLWxfSG5WLVdHQmEtZ21nQml0VzFNVVdYbW1oUjhmNlM0d1NyVGw1eHVNRTg3TWFXay11RE45eFl4d19YUnNEcE9fc21QdndsTGJLQXdTYVFQWmNvcW1hQWxwdXM0Nk95M1R0NmwxOGVpUUHSAd8BQVVfeXFMTlhIVWNWQW14RkRmWlkxbmIxbUdNQzBoNjlreG9MbEN2LWQ0dmhpalhZNlhweWJmOVR0RmZKbS15V3NUN29iOElyc1Z0SDNLeTNfYVloOWJDdGsybU9sZk1URE9lNVVSWVJENVdrbnpyd2l1RmFsOFBUUDRyeHJLejRGZHNybzdWZE9nR1lwRXByUmZjQUpnTE5VcjNtdWpjVzJNcVBST0JSX29fUjc0VjZUWjd0M0JGbVZPZVZrZVRLZnY0Q1l1bWV5aUdwc0VJMUdrc2dMRXhiZDMzc0p6aw?oc=5",
+          "time": "1h ago",
+          "body": "Markets surge in early trade on buying in IT stocks; Sensex jumps nearly 700 points  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets surge in early trade on buying in IT stocks; Sensex jumps nearly 700 points The New Indian Express"
+            ],
+            "tldr": "Markets surge in early trade on buying in IT stocks; Sensex jumps nearly 700 poi"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1783662186291",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "8h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1783662186291",
+          "title": "Indian shares set to open higher; TCS in focus after revenue beat - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFlnSjF5R1c3MUZGTXA1dGJBY21LZFFhUDdvRHN0SGpTdS1JaDgxbzJKOG41UnBETzBTZUl3RGpJWHBiZ1VEZmVRcnkwLXYxX045cXV6R2RTeThnWk8zcnNEUkZwbnV0VHo2Vjl1LWxyTWl1Ymd6RDU1dmwtQzlLOU9OZzlQX0RMdWZ3b3ozdnZScDhPakdVb3VXY0wwU2tYRE5KMTg3YnVDZw?oc=5",
+          "time": "3h ago",
+          "body": "Indian shares set to open higher; TCS in focus after revenue beat  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares set to open higher; TCS in focus after revenue beat Reuters"
+            ],
+            "tldr": "Indian shares set to open higher; TCS in focus after revenue beat Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1783662186291",
+          "title": "Sensex jumps 694.83 points in early trade, Nifty surges 195.95 points - Telegraph India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHRFWm5mQkl3a3NRc09xek5YMHNkN0VQUG5kMmhUSWk3WGpmTTJGMGc2aE5NWkh3SFRIc2JXeFR2UnFybUpQQlliU0tsRUhtZjVjX0kzYnI3TGZoNjBWc1JkZ3UzYWlWcHEwOXRwa2cwQmVpZVI3djdJOVhKNHBGV2RKaWlZUk9nZll2LTFaYUFQLU54OTIzVUF6OWY2dl8wel9vRUQ2YS1lY2RoZFBhb0h3Nm94QjBMREZ1OdIBwgFBVV95cUxOX21pOEhaSEtvSHJ6MUlHX0hMTkF5WUZnRzVhSVBTZllGcWVMYUJRcVB0V3VxamlDalJyZFMyVmpvU2F0YjU2QlhsSmFkN0lMRXlPNnphV0s5X1k3UVBPeDgxaW1BQU1xQmt5cW91RmZyaVhzQmFyV3BxWlVzTjd5Zmw0Yk1EeVY1aXQ2NzhQU1BkUEtZaGo4UC10M3ZsVjhzaEdjYkc4WGtVNkxBU2hNLUpHcmZ3UWN3MlpseG5ja2ViUQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex jumps 694.83 points in early trade, Nifty surges 195.95 points  Telegraph India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps 694.83 points in early trade, Nifty surges 195.95 points Telegraph India"
+            ],
+            "tldr": "Sensex jumps 694.83 points in early trade, Nifty surges 195.95 points Telegraph "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1783662186291",
+          "title": "Stock markets rebound in early trade after sharp fall in previous session - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY0xFVlNKdUlORm0zbXBxMFV3UnhpSFNkWmEtdW93SFROVUtwZ2VzVWZkYWtqem9fTUFub1ZHMjUtaGpYZlRQcHRjbkQ3X29qRDlFblZIdmN2S0dxdk5xU0lBVFdVVTctLU9MeGR4YUc2R1B4dlVpaGllemxsRWRadGd4a29HbE16UVpOcFAwQzJjUzIzbi1yNFFPOGpNV0V6bWVoTEF3VmJleXpzY3RrTXVPNXU1ZjFaTTBnQ19HU3g2WlA3b21hM1FZZ3VWR24wSlJncEtRWdIB1wFBVV95cUxQY0xFVlNKdUlORm0zbXBxMFV3UnhpSFNkWmEtdW93SFROVUtwZ2VzVWZkYWtqem9fTUFub1ZHMjUtaGpYZlRQcHRjbkQ3X29qRDlFblZIdmN2S0dxdk5xU0lBVFdVVTctLU9MeGR4YUc2R1B4dlVpaGllemxsRWRadGd4a29HbE16UVpOcFAwQzJjUzIzbi1yNFFPOGpNV0V6bWVoTEF3VmJleXpzY3RrTXVPNXU1ZjFaTTBnQ19HU3g2WlA3b21hM1FZZ3VWR24wSlJncEtRWQ?oc=5",
+          "time": "22h ago",
+          "body": "Stock markets rebound in early trade after sharp fall in previous session  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rebound in early trade after sharp fall in previous session The Hindu"
+            ],
+            "tldr": "Stock markets rebound in early trade after sharp fall in previous session The Hi"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1783662186291",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "7h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1783662186291",
+          "title": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTYxYll4MmtjMWtlZ3ZTMzdvTUdWcFN4amxzTE14bDBZX0RMQUV3eDk0MEt3WWpLSXYzNk9oZTFvcHlhZkgybzJyZGFQOXpvdDdVNGFZMUhKXy1meVppYlJ6Y2NiMmg1dmhiaVVZNHdiU3F2VjhGLVZkcElrQmQ5VmNtRmpJbms1dkg5dm5zV2ZYUDl3SjhPbDNUdEV1aENZV01XRFJ4U05LeTNEQTBmcklheEpfaUJOclMteFV5Q0tGLW5ydXNfUExpQWZIVDFaeUZRSFhYdUo?oc=5",
+          "time": "11h ago",
+          "body": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why is Stock Market Falling Today?",
+              "Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained Goodreturns"
+            ],
+            "tldr": "Why is Stock Market Falling Today?"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1783662186292",
+          "title": "Stock markets bounce back after previous session's drubbing, Sensex climbs 238 points - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWQ5MldWSmlxX1M1M3BTU3AyQUhmM05keG9qNVppMUliblRjVGN1QVRvOE9fNjR0OFJ3RUpRZlItS3BPcTlKRWNPOXp4UUFPWU9pVzNtUzhDTm16b0oxb0c5QWMxcUpRa0NpYk5ianhFbWxUT0pxU0pqRVhsT3hwLV9QOTZVc0liaEI3dWZxOVhOY29PMEhLeWNQYVhtV2ZaYzFYblQ4NlBzaGpvNTFmd3hRWXlpQ0xDUUVkUC1NZ1AyZ19uTzU1cWFONlZWMkxPUmgw?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets bounce back after previous session's drubbing, Sensex climbs 238 points  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets bounce back after previous session's drubbing, Sensex climbs 238 points Deccan Herald"
+            ],
+            "tldr": "Stock markets bounce back after previous session's drubbing, Sensex climbs 238 p"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-finance-9-1783662186292",
+          "title": "Top Gainers & Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPXzRwSmVRM1BuQTA3RUhyd2xBV3FkdEtUbm9LWEM2R2tjN1ZhRjBndEFuemlUaktEd19SOFRyMk9PVjBsSko4REN6LUhWUm5ZUTRnSmVOREpkZ2pjQUtpZGpzdE1YdmxHQ3Z4UW1zOGQtTWthQk9IYmFpVmVONnVGcjFJYzVRMzlpLTRaTnJmRmJHc3YtcVExUWxVZVdBdmVBdWtaU0lCVExzbTVYeFBJN2ItSk5CdS13Z2g5RDkwVkNVRUNUQm9ZSlRXSUJJaFBTTVNkQ3dLRlBqMExqWkpqd1A1ZDNnUEE0bmVpN251T01GbVBiaWVya2JlN2VVQlnSAYQCQVVfeXFMTVJfX2tqYTFJUHIxOExVaXRWSVVsR0hKUGxFNXM5dXBNci0xa0xSSE9paVdHbzAyZW1UYXdrbUFrbF94dHhTNGpsLUhXQkg5bnpna1g5VVJMWjFVcVFrVjJWbFVMZW9xQ2JBcG5FWi05dmxEWTlwcVhVRWxaVngtOFl0ZHY0SDNGbVlQVUJyeHBGc1VrQ1NNNWIyYnZXbUFjQnczNlJaODE4bDRSdUc4U0w3TEw0aDN1d3FYYWkxX0o2Smx6eU95WlVuVEdhY2dzcXZ6am5HczhFRHBoUWUzUnUzcGx4MGFhanRfTEt6c3Y4a2Vfa2MzanBhaDhSem5OM2RiZC0?oc=5",
+          "time": "19h ago",
+          "body": "Top Gainers & Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers  livemint.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top Gainers & Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj, Thermax among top gainers livemint.com"
+            ],
+            "tldr": "Top Gainers & Losers on 9 July: Kalyan Jewellers, Swiggy, Kaynes Tech, Anant Raj"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1783662187615",
+          "title": "QualityKiosk Accelerates AI Reliability Vision with Strategic Leadership Appointments - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblhfTGNzN21iRW1rbnFnSklldnowV3ZEUWhvZXRZTWxMSnQzbnJXLWNNMDFUd0x6eFBrWkhEdzBVa0d2X25JZUYyOWRWY0NmSWJ4UjNjWmNDTnVwU2RxODhwem5vQjc0YkFVc0hpV0lZTFMtZFZRQ0haVmlrTzhFQ1V3VjdUeXEzSFhobktHVTZjclRTeEkzQ0x1dGhva3JTNWREaU40R0tEblhpNkhza2poREE0ZzZBSUo3RTVsR3hyc2MxYzlPS0VjYXJVS3B5aU5r0gHTAUFVX3lxTFBuWF9MY3M3bWJFbWtucWdKSWV2ejBXdkRRaG9ldFlNbExKdDNuclctY00wMVR3THp4UGtaSER3MFVrR3ZfbkllRjI5ZFZjQ2ZJYnhSM2NaY0NOdXBTZHE4OHB6bm9CNzRiQVVzSGlXSVlMUy1kVlFDSFpWaWtPOEVDVXdWN1R5cTNIWGhuS0dVNmNyVFN4STNDTHV0aG9rclM1ZERpTjRHS0RuWGk2SHNramhEQTRnNkFJSjdFNWxHeHJzYzFjOU9LRWNhclVLcHlpTms?oc=5",
+          "time": "17h ago",
+          "body": "QualityKiosk Accelerates AI Reliability Vision with Strategic Leadership Appointments  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "QualityKiosk Accelerates AI Reliability Vision with Strategic Leadership Appointments ThePrint"
+            ],
+            "tldr": "QualityKiosk Accelerates AI Reliability Vision with Strategic Leadership Appoint"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1783662187615",
+          "title": "Virtual Galaxy Infotech Wins Prestigious TECHNOVITI 2026 Award For AI-Powered Cybersecurity Platform ‘Cyber Sentinel’. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPXzExWjZncFY3YU1ELXE0bkktT2JmTFNLbHY5S2VUX29uaFRSNEVscy05LWM3SzRreXNpTlR4cHVVajB4eDJ4UWRBbUpodXdfOEo0NXBZWWFKX1JNaFhJZTB6a1U5MTNSXzlBZmV1eFNrd2lZaXZ2VDhGN3pQblhHT21WMVNlbWN5cVBYMzlmc1RDS0ozalRsT1hmUi02dll1Wm02NlpDMUlReHJsZ1p2Ry1UWDhzZXZSU2N1UEVENjl4R1VZazFMdThRZGM2aE1vYnBGaDVXbm45VC1MckNHaW13?oc=5",
+          "time": "11h ago",
+          "body": "Virtual Galaxy Infotech Wins Prestigious TECHNOVITI 2026 Award For AI-Powered Cybersecurity Platform ‘Cyber Sentinel’.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Virtual Galaxy Infotech Wins Prestigious TECHNOVITI 2026 Award For AI-Powered Cybersecurity Platform ‘Cyber Sentinel’."
+            ],
+            "tldr": "Virtual Galaxy Infotech Wins Prestigious TECHNOVITI 2026 Award For AI-Powered Cy"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1783662187615",
+          "title": "Shiprocket unveils Fastrr at SHIVIR 2026 - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0hTT0tjUm0wWFg4LUNPR0RvZDVZamp1azZodkNrNUY2UU1lVVNLVGRsdlZiQTlzREdZZnRYNExhOWVacjdzalJKT3NUdkw5QWZhNFFpdVhxQ3c0XzFSQXRXX0NCVFdkWTlwVFYxWWFDYm9tcG9PQ2MxRU44QU1zaUxNV0VheW5PVkdnVFZvU0xoRFkwcnNRMHVNNmp3RG_SAZ8BQVVfeXFMUEtIU09LY1JtMFhYOC1DT0dEb2Q1WWpqdWs2aHZDazVGNlFNZVVTS1RkbHZWYkE5c0RHWWZ0WDRMYTllWnI3c2pSSk9zVHZMOUFmYTRRaXVYcUN3NF8xUkF0V19DQlRXZFk5cFRWMVlhQ2JvbXBvT0NjMUVOOEFNc2lMTVdFYXluT1ZHZ1RWb1NMaERZMHJzUTB1TTZqd0Rv?oc=5",
+          "time": "14h ago",
+          "body": "Shiprocket unveils Fastrr at SHIVIR 2026  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiprocket unveils Fastrr at SHIVIR 2026  Devdiscourse"
+            ],
+            "tldr": "Shiprocket unveils Fastrr at SHIVIR 2026  Devdiscourse"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1783662187615",
+          "title": "DigiTech ASEAN Thailand & AI Connect 2026 Returns to Connect Technology Leaders, AI Innovators, and Business Decision-Makers across ASEAN - malaysiasun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbzdCMjloaHVYeHJhOHFvQmNVS0RPazFxaUpZZlQ0QTNFX0dGUEpVWnV0ZEhoNmtYVTE2MFVlRVcwTmF1MDlFZDVNaF9fWTNKWVJyOXdERldxT2Q1akFUUUpGQ01QcGRFSTQwSzl4Yzc0RVdPcG9RWE5SXzFiTmRXM0JtMmt4QTRQUWV4Vm0zLThCVHIzMk9ZWGd5RTY4WFl2RTktUmNVNjd6cjVvQWh4Q0dTT0RlRDRJLTBFMGJzWTZ6N2J4RHVlMVVkdkJzUUE3ZWlxUmhMUnZ0QXJmcUhhY01yWV9leTZaUGxHRF80WjNSX1RUS0FVaEc4X1packVIdnZnWlJJSQ?oc=5",
+          "time": "23h ago",
+          "body": "DigiTech ASEAN Thailand & AI Connect 2026 Returns to Connect Technology Leaders, AI Innovators, and Business Decision-Makers across ASEAN  malaysiasun.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DigiTech ASEAN Thailand & AI Connect 2026 Returns to Connect Technology Leaders, AI Innovators, and Business Decision-Makers across ASEAN malaysiasun.com"
+            ],
+            "tldr": "DigiTech ASEAN Thailand & AI Connect 2026 Returns to Connect Technology Leaders,"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1783662187615",
+          "title": "Bahwan CyberTek Appoints Amrinder Singh as Managing Director and CEO to Lead its Next Phase of AI-Driven Global Growth - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOU3RBMG5ucUpqN0pqRTJiLWpqdWlVSjYzXzZxd0w2VkN5LXo1bEp2UzBaa3MybktBTjNxRTZONlo3cFp0dWNuWnZNSm5ON2o4eTRGTHFDck0tLUxrU3o2QXRnNWU4cUEtb05BeGgzXzVqYVVETmxUQURJczRCeUNzUDloX3NmVU96S3B1STV2N1JXVHBmQ19SWHpTNnYydUFOaVpTUzdTUWdHZ1NpV3hLOFk2VHNsZjVmc28xdjltU1gyTXZNOTZVVXlHb0NmLWNmTVJzSjNtc29MTWVqeHVNSEpIenNMbnpJbnM2RUF6aVF4VXJBWXd0eUptLUg0Ml9IXzhWZUZ5SdIBhwJBVV95cUxOU3RBMG5ucUpqN0pqRTJiLWpqdWlVSjYzXzZxd0w2VkN5LXo1bEp2UzBaa3MybktBTjNxRTZONlo3cFp0dWNuWnZNSm5ON2o4eTRGTHFDck0tLUxrU3o2QXRnNWU4cUEtb05BeGgzXzVqYVVETmxUQURJczRCeUNzUDloX3NmVU96S3B1STV2N1JXVHBmQ19SWHpTNnYydUFOaVpTUzdTUWdHZ1NpV3hLOFk2VHNsZjVmc28xdjltU1gyTXZNOTZVVXlHb0NmLWNmTVJzSjNtc29MTWVqeHVNSEpIenNMbnpJbnM2RUF6aVF4VXJBWXd0eUptLUg0Ml9IXzhWZUZ5SQ?oc=5",
+          "time": "18h ago",
+          "body": "Bahwan CyberTek Appoints Amrinder Singh as Managing Director and CEO to Lead its Next Phase of AI-Driven Global Growth  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bahwan CyberTek Appoints Amrinder Singh as Managing Director and CEO to Lead its Next Phase of AI-Driven Global Growth Devdiscourse"
+            ],
+            "tldr": "Bahwan CyberTek Appoints Amrinder Singh as Managing Director and CEO to Lead its"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1783662187615",
+          "title": "AI demand fuels growth, but risks cloud Malaysia's tech outlook - malaysiasun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd0lrVzFHWXVQUXlNSXVUUW8waUt5YUg4Y3FGdXh4NENiRzdjZS1KamhYNlJ2TUtYZWItd0RLcUMydjBLR1NLZHcwaXBLNlNFbUROQWNwYzBZSjdFOXVFVDgtS3VpOFpZd3pKblNNbWhfekhEMTliRV9MMl9HcmJoQ1NiUjVhSlVCT1dkeEctM2ZLSzMtckRTY0pNRE5JTzFmbXlFTGxB?oc=5",
+          "time": "18h ago",
+          "body": "AI demand fuels growth, but risks cloud Malaysia's tech outlook  malaysiasun.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI demand fuels growth, but risks cloud Malaysia's tech outlook malaysiasun.com"
+            ],
+            "tldr": "AI demand fuels growth, but risks cloud Malaysia's tech outlook malaysiasun.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1783662187615",
+          "title": "Exhicon's Capital Boost: A Promoter's Statement of Faith - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMllSb1ZGOVVHNG9VemdLbXktUjhpcWNIdzhfVFYySUVuVTh6b2JvSDhGMkxvTXRMd3Fkaks3cXhidkZZZXZKbTNHbTMtTGdXWDBRdUJfT2wtSzVEbXNKbndqanNKRGY0WGc5WWRLTUxJemJRazB1UmFQck81NXI3aUJ6LW1yZmlvQjRWUHRGRzFqWVhuSmJkaUJJTlhWSS1yODdDWHVSbEh6UlFWa0YtUtIBsAFBVV95cUxOMllSb1ZGOVVHNG9VemdLbXktUjhpcWNIdzhfVFYySUVuVTh6b2JvSDhGMkxvTXRMd3Fkaks3cXhidkZZZXZKbTNHbTMtTGdXWDBRdUJfT2wtSzVEbXNKbndqanNKRGY0WGc5WWRLTUxJemJRazB1UmFQck81NXI3aUJ6LW1yZmlvQjRWUHRGRzFqWVhuSmJkaUJJTlhWSS1yODdDWHVSbEh6UlFWa0YtUg?oc=5",
+          "time": "19h ago",
+          "body": "Exhicon's Capital Boost: A Promoter's Statement of Faith  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Exhicon's Capital Boost: A Promoter's Statement of Faith Devdiscourse"
+            ],
+            "tldr": "Exhicon's Capital Boost: A Promoter's Statement of Faith Devdiscourse"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1783662187635",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "5h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1783662187635",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "5h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1783662187635",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "7h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1783662187635",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "10h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1783662187635",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "9h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1783662187635",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "9h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1783662187635",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "8h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  The News Mill",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match The News Mill"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1783662189083",
+          "title": "Indian father accused of attempting to murder his 2-year-old child in North Carolina",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is facing grave charges of attempted murder against his young child. The infant, suffering from critical skull injuries and severe trauma, allegedly received delayed medical care. Pasunuri has been charged with multiple counts of child abuse and attempted murder.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is facing grave charges of attempted murder against his young child.",
+              "The infant, suffering from critical skull injuries and severe trauma, allegedly received delayed medical care.",
+              "Pasunuri has been charged with multiple counts of child abuse and attempted murder."
+            ],
+            "tldr": "In a harrowing case from North Carolina, Kiran Netha Pasunuri, an Indian man, is"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1783662188930",
+          "title": "Gurugram Chokes After Heavy Rain: NH-48 Sees Massive Traffic Jam, Commuters Stranded For Hours - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQblhhS3NxU1R0SFBseGhoY3BoMGlha20wS3BoMG1tR3FOaXBSbkVtMjcwblk1N05meVg2dEpka3RfOUVfckxJeXdRLU4zM193YXIxZDRfbW8zYTQwWXQ0UUstb3UwTkJsZER5TFhMcnRWWHEzMnJkTEZ0Vjg2VGgzeEREM3QxXzMyanBjVlRlTjdXQlNfNkpFWHFwOElGbFloMTZrREw1S2tJSVpRRzRXMm41SmxMNVpfY0tDdnVCODR5MDV5aHNrSk9hWmFKR1VWZF9GRDlKVWxDQdIB3wFBVV95cUxNWWZVVHZsRWhIb2lGNXJVUTZBbWFRM3RLZEpsNkMwZkZKZ3VHbzVCbms3YVNvamxLcXhHU2ZidkY3NVpkUkJjX1JCc2Q4UHpTUDk4NXpzS2h3aUdhSGZtbkxOSG5hWEk0NkVZM0JTanA1X19pZUxXQVZxZ3RhbnNyZ1dSR3dMNzlLZTJqc05PYzk5T2lJWERhdVE5bmVHckhCZWF4NGozSmRheTBxdVV6TUlORjFadmpWZ1piT3ZBXzE5a2NLYmhWUzNyekY4RExmMXpjUTNhb0JhU3FESWhz?oc=5",
+          "time": "20h ago",
+          "body": "Gurugram Chokes After Heavy Rain: NH-48 Sees Massive Traffic Jam, Commuters Stranded For Hours  ETV Bharat",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gurugram Chokes After Heavy Rain: NH-48 Sees Massive Traffic Jam, Commuters Stranded For Hours ETV Bharat"
+            ],
+            "tldr": "Gurugram Chokes After Heavy Rain: NH-48 Sees Massive Traffic Jam, Commuters Stra"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1783662188930",
+          "title": "India Weather Update: Delhi To Maharashtra, Heavy Rain Causes Waterlogging, Traffic & Disruptions - curlytales.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHJqdS00ZU1GXzJhU1JEaXE5YVR6QkxUQXlDV1JiU1R1VzRBZXVONjJFNEpjcmtXbnluV1ZzOHYxZVZiZGpZRzBhRXVpSFVjaUZ4c1VMMGs4bjJ0dXY2Rlk5LW9QNzlUdmwxUWVLM1VzRnAyVWV5MV9tZjRxU0tyb3FIUDlPVGlBQW14MWlpcDRET1E4cHJCOUdfNnE3akhKNktWM2E2T3RQaWhKVzZLTU1FM0JmVDY1eFFyQ0xQUjMxb3ZHSTB0SzU5QdIB0AFBVV95cUxNSk9pRmNzNmZJWjZRQzI4VkNvcHlFNF9oaVpDZjhoY3hXN0d3MjYyVWpGUGlmTWNvcGNMODZJQlBfMEhQeFdUS0plcUctYnR5YUVUdzhrWDcxUnZ3U0dKT0U5WElyYU01emx5RllxTjhTR3ZCOEVkczRtS01FbFlORmwzck1ZYWZFWHBEZU93V1JfVHFBZDZXMmcyWnN6SElmNGlDZTQwbVhPaHJwSHhLWC1Tcmx2Zm0yZlZWV3cwblhZNFhlaFJDeUF6d3duZXpC?oc=5",
+          "time": "23h ago",
+          "body": "India Weather Update: Delhi To Maharashtra, Heavy Rain Causes Waterlogging, Traffic & Disruptions  curlytales.com",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India Weather Update: Delhi To Maharashtra, Heavy Rain Causes Waterlogging, Traffic & Disruptions curlytales.com"
+            ],
+            "tldr": "India Weather Update: Delhi To Maharashtra, Heavy Rain Causes Waterlogging, Traf"
+          }
+        },
+        {
+          "id": "mumbai-city-4-1783662188930",
+          "title": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTjRsVC1MeUt0cW03VmZaZU5ibDVpVGJpR2hNeDZKOE1ibWNvNXBiZFdnbWhrNjRFTzFwLXNkd3RQN3M0dkRNTWRxSVJ0X3J0aUlsZ2dVWHBIckpWZlVwMy1MUUlOZDhveGctTi1WLXY5eVg2NEJGeGhMOWFIY2Zkal9zb3dySWNOTmMybUU0OWQ2VnZscTVybllZSWtwclJuMjJYNV84N1RwemFlS0RveVB3X2NtWmZGbW9jYkZpcTJkMU9ZbUVBMFNEQ09MMXU1YzJma2ZZcw?oc=5",
+          "time": "19h ago",
+          "body": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains also impacted MSN"
+            ],
+            "tldr": "Monsoon mayhem: Mumbai-Pune Expressway, old highway shut after landslide; trains"
+          }
+        },
+        {
+          "id": "mumbai-city-5-1783662188930",
+          "title": "Delhi Latest News Today on July 9th, 2026: Heavy Rains, Metro Expansion & Civic Actions - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFh2Wkgzdm0wRVVKNWlfYWVGcXlDbGg5NEppOEhqWVpVOUdfRE02RjhjTTNDMzVla3JjQXdtNlBPY2JHY3puaG5lZ0h5eG02RXlsbi1zbXBfY29PT2FUU2pVUmx1SG8wM29Wa3QyOEIydGIyUHY2bUh3MzJIMFkwZDRNWWtQSmRwVjBhWGFXX3o4TFI0Z3dGX1dZN1ZOMzZiSUVqcmZCT0E4QTFwenU0TEVKb1FEYndtM2RZSVlWemx6M3p6X2dVdWNwTdIB0AFBVV95cUxQa05zZlllMngxNUxORTVUMEZfYlF6dTJ1ZDIyZlhEM29kM0VWb2RoV3pVQU01YllEWlE0SF9SMjA4S1BlNFVGVEVHZVluV2c1QzhpSzcxR3ZETmt5ckJwTmZQdFpQbFBkaExSQWc3T0dHTTRuRUg0RWNRM3Vwc2dVNlpJWUY3RFZQdWk3bXFMWkRraFdCNVk3ektXbXozRFhyVmFRWUR4aXdSeHNqUGpER2o1QjlHRk1vODlhZUdzakxyd2VkT1JfVGdkTUhqSncx?oc=5",
+          "time": "13h ago",
+          "body": "Delhi Latest News Today on July 9th, 2026: Heavy Rains, Metro Expansion & Civic Actions  LatestLY",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi Latest News Today on July 9th, 2026: Heavy Rains, Metro Expansion & Civic Actions LatestLY"
+            ],
+            "tldr": "Delhi Latest News Today on July 9th, 2026: Heavy Rains, Metro Expansion & Civic "
+          }
+        },
+        {
+          "id": "mumbai-city-6-1783662188930",
+          "title": "Delhi-NCR Reels Under Monsoon Chaos Waterlogged Roads, Gridlock In Gurugram Prompts WFH Advisory - ABP Live English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT1pNUl9MZEh5SldHaml4dnlfWWtmOFpHZnRwS0U2Wm4ySXFuNTVSN0FEdzJieEZKMl92cDdDaVZOUEItcGlCNUhHVHlhX1lPdVNqWVc0czhTT2hzTTROY29ndWRQTjZDQ1FVWUpWNWdzYkM3dWd3c1d1UGk0cS01SEFDQkEyRDVkaWQ5RWpQYjFNc3NaVGlaOHZUbGtBZURLRmNEeTlSdFhma3ZUVTFQT2swQnN1OVBGTThyN2RPeFZNQnNLeGNRLXl5R2YybG91MjFRRnJVdWtjOGI2enJj0gHkAUFVX3lxTE5hdEowdWlMYzRUdlNMLVh3ZXB3Rm82a2ZPZEQtSER2eXh0bkpDTkxoSmdSSEVtVE9qdFVna2hjcWF4dzlYREZsRkV2bHp6VkhDZnJudTUzdmlOUlNNVElLekJuNldTYXA1Sy0zMHdCc202QjVheGxzMGxNdG5vLUZIQ1RDSjBIaTJKX2tla3dpVWJYd0padHUwalB1U2h3T1pLaDBqcDBYcDVxc1RpS2NFTTBBNV9HS1B6RXdqQm4yVE1Xd0tvMFdVSXAyZjFRWU0zV1kwN1BTSjB4RmJYODhLX0phNA?oc=5",
+          "time": "23h ago",
+          "body": "Delhi-NCR Reels Under Monsoon Chaos Waterlogged Roads, Gridlock In Gurugram Prompts WFH Advisory  ABP Live English",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi-NCR Reels Under Monsoon Chaos Waterlogged Roads, Gridlock In Gurugram Prompts WFH Advisory ABP Live English"
+            ],
+            "tldr": "Delhi-NCR Reels Under Monsoon Chaos Waterlogged Roads, Gridlock In Gurugram Prom"
+          }
+        },
+        {
+          "id": "mumbai-city-7-1783662188930",
+          "title": "Noida Latest News Today on July 9th, 2026: Heavy Rains, Elevated Link Approved & Real Estate Boom - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlltRURBU0FxV1JzX25BU0FUZXpIdExEQzBjWTZnTFVjZWROd18xSDlwNVlmZ05DVVB3NnYwazlNb3o1MUd6dl9ORlI2RG9rYUlkMzhrZWFwMEZkODRqUGs4a2RURWdlSmhUMEhEbFBnQzJJT1NGZ0NSaThtRWlTdEp4R2NidW51SklYVkR6RzlOaVE2NG0zUk91VzhybWUtVjI1SFp4R1laNVFtSV9NTEljRV9DUm15b2l4TXdiWHVpSzkxVC00MWdtT3JJN05SSFEtNHNnQlE1S3ZpOUHSAd4BQVVfeXFMT0ZZbUVEQVNBcVdSc19uQVNBVGV6SHRMREMwY1k2Z0xVY2VkTndfMUg5cDVZZmdOQ1VQdzZ2MGs5TW96NTFHenZfTkZSNkRva2FJZDM4a2VhcDBGZDg0alBrOGtkVEVnZUpoVDBIRGxQZ0MySU9TRmdDUmk4bUVpU3RKeEdjYnVudUpJWFZEekc5TmlRNjRtM1JPdVc4cm1lLVYyNUhaeEdZWjVRbUlfTUxJY0VfQ1JteW9peE13Ylh1aUs5MVQtNDFnbU9ySTdOUkhRLTRzZ0JRNUt2aTlB?oc=5",
+          "time": "12h ago",
+          "body": "Noida Latest News Today on July 9th, 2026: Heavy Rains, Elevated Link Approved & Real Estate Boom  LatestLY",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Noida Latest News Today on July 9th, 2026: Heavy Rains, Elevated Link Approved & Real Estate Boom LatestLY"
+            ],
+            "tldr": "Noida Latest News Today on July 9th, 2026: Heavy Rains, Elevated Link Approved &"
+          }
+        },
+        {
+          "id": "mumbai-city-8-1783662188930",
+          "title": "500-600mm rain continues to batter Western Ghats in Maharashtra; Mahabaleshwar among worst hit - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLVVKcjFxZTNpOGt1ZjltT19NeGxMcVVvRHlTQ192TW94VlpjNlBscE1VOFNIU01fNk1jRDNPYTFULUVNS2NBWUlHTUpkRHRzLU5lSmtqZi1UMWYzTHhuak9xdThsT1lILVJsZHBMT3N5aXBOZnhDakRhbzQyM2tHd3BhbU1rVW5RY255c19ETUxJR2NidnhPUGlSR3FNNHZIQjhjYlRVeWxJT1V2OHBRZWtvOGxJUnZmZmRXN0xfNGNwVlBVMHpvQmdkSldmaGdqZ19MMC1WTndkUQ?oc=5",
+          "time": "23h ago",
+          "body": "500-600mm rain continues to batter Western Ghats in Maharashtra; Mahabaleshwar among worst hit  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "500-600mm rain continues to batter Western Ghats in Maharashtra; Mahabaleshwar among worst hit MSN"
+            ],
+            "tldr": "500-600mm rain continues to batter Western Ghats in Maharashtra; Mahabaleshwar a"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1783662189083",
+          "title": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher....",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]"
+            ],
+            "tldr": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offe"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1783662190420",
+          "title": "Gold Rate Today in Aurangabad 10th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "4h ago",
+          "body": "Gold Rate Today in Aurangabad 10th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 10th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 10th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1783662190420",
+          "title": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWFzMzIyRHBiSzdmbjZyVUtGbnlGRTQ5Z0M1bm51M1dwN3Q4NDl3eTAwenhyRVZlSkEzcnlVTmhVOElkOTlhX1RUejFEZkV4bmVVS3FpenBjUkh5RmRHVU5XREhTdElfWGdMMW54eEoxdGdPLW9DbVZqRWwxNkd6Y0FrdWtsV1VqMmJhUGlBckE4WUE2SzZ5MzBRWXNJNFd1amZXLVctbw?oc=5",
+          "time": "10h ago",
+          "body": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts  The News Mill",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts The News Mill"
+            ],
+            "tldr": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts The Ne"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1783662190420",
+          "title": "Maharashtra ATS raids multiple locations over alleged links to Pakistan-based alleged ISI handler Shahzad Bhatti - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX1IyeUdqcW9CWnktU1FYOTFyd2V3OVZsWTdESzN5NDI4WGpMMWo2and3Xy1kSUNqUzFkQ1JWTVhjdjl2T3I5TDNvWC1XZ213T2lxSW9VT0FkcnpWaGlkR1owbXdYVk55bEFyeUhLSjFRSXBDdzhKanNkN19WV1BndGpuWDhRTmxvSjZ1LW1zTWJlc3BXVkNWWjltRG93dlpST1hqRnpLMWQtRGtsdzVYZlU1OUt2ZXFyUzJBNzVUaUNpRDFNZnVjY3huZXhZb2cwNUh1Rm53aW54ZEJUME14Vzdhc2lmREpjeVBqSFZPeC1qMFF3RFlKNEI4UFBqSXg1V09INzlrbw?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra ATS raids multiple locations over alleged links to Pakistan-based alleged ISI handler Shahzad Bhatti  ANI News",
+          "category": "sports",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra ATS raids multiple locations over alleged links to Pakistan-based alleged ISI handler Shahzad Bhatti ANI News"
+            ],
+            "tldr": "Maharashtra ATS raids multiple locations over alleged links to Pakistan-based al"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1783662190420",
+          "title": "Tremors hit central Maharashtra’s Nanded, Hingoli, Parbhani districts; houses damaged - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjNIYVBtei1VRndJQk5YZDQ3WjZTNmh5ZHlBMzB1TUwyMHZkU0tGQ0VKQ0U1Zk5RM3M4cHJWRnY5QzZSeHFudnR0Z2QtN19Oc1JvVnp2YVV6Tnk3OUlRVmthSjhRbU5OMkxfdktCR1htZ3RHUUJJQnFNRExTQTgyLWF3ZmdCSlpvUUpOTXl1TV93bDl3RHMxR1JHaUFGTjRHNzdWMmFIZjF4Vkc5TzVBdF9vUHhWY2NDUHl4V9IBvAFBVV95cUxPNjNIYVBtei1VRndJQk5YZDQ3WjZTNmh5ZHlBMzB1TUwyMHZkU0tGQ0VKQ0U1Zk5RM3M4cHJWRnY5QzZSeHFudnR0Z2QtN19Oc1JvVnp2YVV6Tnk3OUlRVmthSjhRbU5OMkxfdktCR1htZ3RHUUJJQnFNRExTQTgyLWF3ZmdCSlpvUUpOTXl1TV93bDl3RHMxR1JHaUFGTjRHNzdWMmFIZjF4Vkc5TzVBdF9vUHhWY2NDUHl4Vw?oc=5",
+          "time": "13h ago",
+          "body": "Tremors hit central Maharashtra’s Nanded, Hingoli, Parbhani districts; houses damaged  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Tremors hit central Maharashtra’s Nanded, Hingoli, Parbhani districts; houses damaged ThePrint"
+            ],
+            "tldr": "Tremors hit central Maharashtra’s Nanded, Hingoli, Parbhani districts; houses da"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1783662190420",
+          "title": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdBb2xONVQ3M0l6aHhjQm9JX1lKbldhWktCZXRYRmVLdWwxdUNBRGhUZFdBWlJ0bV9VSUxLR2hIbW9ZVVZ4V1M3VWhiek42WHc0UE91SGVHV3RoMGR0OHc5Q1NBSENMQkZ0eUwtQnNBbGp6XzRZZkVXeFdjSmVoTWVVRlJVNHE1UmFsWVI4cXZBeGw2eV9rcDY1SzJzWG9lV3BPY09R?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09%  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% News On AIR"
+            ],
+            "tldr": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% "
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1783662190420",
+          "title": "Maharashtra To Probe Lands Owned By Church Missionary Societies - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWVjejVERW04NjladkVQVFYyc2lWa0xTOUF2Snk4NnlKWHBPdVozZFZDUkUxMVpWUTFvd2tpbFlrZkJQYjdZazhVUEg4RG96Y3ZSdy1faE9NTnVlLU9nbE9WOVo2UUlNc05kWnA2U2loN3RZRnduWl95QmZTTXFVQWd4ekRITTZ4aVBqMTZEU0NQNVhWay1NR1VmbF9RbzctNnZDNHh6bTdoMVMxT292dnVpVdIBuAFBVV95cUxORmhsRzNfMElXRDVVcnc2bjRZcTVhcGcta0dKMU9PbHg2QVlQVm1wY0xGcE55UEFEeF9vMTRDeXhKczZzUTNaYkNfQ3J2UUJpRVdmeGtiY0xWeWFzZUd5NnFSRldNYW1QMm5heVczSGhSaVNsSkp3X2R1elM4eXpHSjRRc3RCbHd3SlRvNUxNMGFmVVFvUmJ1ZVBqOGxINWVudW5yNEVvNWRwendFZEpIanhMZnNxZ3I4?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra To Probe Lands Owned By Church Missionary Societies  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra To Probe Lands Owned By Church Missionary Societies ETV Bharat"
+            ],
+            "tldr": "Maharashtra To Probe Lands Owned By Church Missionary Societies ETV Bharat"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1783662190420",
+          "title": "In TCS Conversion Case, Court's Lord Krishna Mention While Giving Bail To Nida Khan - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGNuSHJXd3JaRGpvb1NucXkzX2JaQ1B4bXNmeUM1TkpSak5tSXZJazBrbXZuWXVkR2tOdnkwTHE5OUxLR1QyRVgzcGxCVmZ3VVJXbmgxU0IxeDVzV0IxNjVYVWk3dmd1aGJ3eUFDay1laU12SXQxOWtPWENjU21TbnU2Wlo0NkNSUVFad20zM2NwM1JLVEhtTU9hWTR0YW9kaUdvdmRyZU40bFdJaUxrRGhoTG9qdmxuNEdOeklfVURFRVRZWHYxVtIB0AFBVV95cUxOUlFsNkxQRjB0T2N6S2JRVEhqZTNoT2tQaFd6bnp4WThVOW9TODg0VnlVSUl6eThJWnNfTzZuRXBDY0FIenhSbzhrdllQRmlUWDY3eHJCdEs4R3VCanZ3eDdSN01SSktLZ05fUC1rUUxLSHRjTUx6YW1SNTdjeDhfZ0lOcl83VFA2WkZxMDNORnNURFJKWVhoSnRnb0FnQnpOdXRYMEh6ZGM1N2kweXhNWnNJSmxNUjNMSVNiaWVlcmFoYXBaaldVR0hJT0c3Mzda?oc=5",
+          "time": "3h ago",
+          "body": "In TCS Conversion Case, Court's Lord Krishna Mention While Giving Bail To Nida Khan  NDTV",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "In TCS Conversion Case, Court's Lord Krishna Mention While Giving Bail To Nida Khan NDTV"
+            ],
+            "tldr": "In TCS Conversion Case, Court's Lord Krishna Mention While Giving Bail To Nida K"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1783662190421",
+          "title": "Gang from south India suspected in theft of forest official’s gun; CCTV captures five accused - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2Fkd2xNS1Q3M1U2Wkh0VUhpU0todGVtVWlTX0JPbmRfQ21jOFpUMjBrU0NCeGZxXzl0Vl9KQWt4cldudXB1OXVKSGZEYTRvNkE4YVNBWVk5RjZSYnBJbF9oR25JN2pDb1A3bG9adGNsYTE4SXhLZlVJcGVqRjV3STFPTzNHWmE3OTdSaHVfVGgzN3ZCeFJNTGFiY2cyTlZtNlhJenZnTjdienZIVFhNVEhHRjRSR05rTGRteGJzZHBwUkpsTE9aWmZMQTJRcERtejJBWlRZSXFKUkNGSlBSMVlNbEZHRDM1V21YWlg4ZUJ6bWVNbVBFS2FsZDdxZ9IBgwJBVV95cUxOUVBGZ2FNSHE4Y0tCN1ZoU21UMG9JZzVvM0xCWEltSjc5NXR3QzNWZ2NaSDB1dHdFTWdMdngxbHljeXhOd2ZtVkhtcHJYdGF5aGNvVUxHcHo4bUc1WU94enlTVjlsd1pRdlFmbzZDS1VDYnNSQnFuVlVFUnUtREUtX19yd0czZk8zQmhqUTQzbzVuYTlXR3RTNGdiSVowZ2pfU21Ia0ZuSDhjWjQydmpVaFhDR2hKNm10a2dJYmF5RFJsNXVmOV82T2VOSkk3VWZPbjBBWGVELUlyUGY3YkItekFKYU9RU2Z6ZkRlYW9kSldhcVZtdG1MYlF6eDB2UjJfMF8w?oc=5",
+          "time": "11h ago",
+          "body": "Gang from south India suspected in theft of forest official’s gun; CCTV captures five accused  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gang from south India suspected in theft of forest official’s gun; CCTV captures five accused The Times of India"
+            ],
+            "tldr": "Gang from south India suspected in theft of forest official’s gun; CCTV captures"
+          }
+        }
+      ]
+    }
+  }
+}
