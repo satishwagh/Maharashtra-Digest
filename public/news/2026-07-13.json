@@ -1,0 +1,777 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T05:04:14.725Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1783919049475",
+          "title": "38% dropped: Maharashtra removes 92 lakh Ladki Bahin beneficiaries after verification - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUQtY3VhQnMxY2cwQWdONklKUUVuMmNoX245NWlCTWFTQzRkenpEcjVuUlZHWmpzd3M0NmgtM2daTnJQeGpRTnQwVThhT0FaZWlQclYwdkh3Qkh5NVloaUpsOEJWMTdPM0dfRnVsT2FSazloQllSSUFPckFSZG9BWml5dUJvRjR2bU5SR1d1NUh6eGdQTmM0ajh6TWt3SGg3TjFIWWRQSW8xcl9ScnFfRGtzRGZHYTZoM3lsRkxTVXXSAcABQVVfeXFMT3lELWN1YUJzMWNnMEFnTjZJSlFFbjJjaF9uOTVpQk1hU0M0ZHp6RHI1blJWR1pqc3dzNDZoLTNnWk5yUHhqUU50MFU4YU9BWmVpUHJWMHZId0JIeTVZaGlKbDhCVjE3TzNHX0Z1bE9hUms5aEJZUklBT3JBUmRvQVppeXVCb0Y0dm1OUkdXdTVIenhnUE5jNGo4ek1rd0hoN04xSFlkUElvMXJfUnJxX0Rrc0RmR2E2aDN5bEZMU1V1?oc=5",
+          "time": "3h ago",
+          "body": "38% dropped: Maharashtra removes 92 lakh Ladki Bahin beneficiaries after verification  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "38% dropped: Maharashtra removes 92 lakh Ladki Bahin beneficiaries after verification The Indian Express"
+            ],
+            "tldr": "38% dropped: Maharashtra removes 92 lakh Ladki Bahin beneficiaries after verific"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1783919049475",
+          "title": "CAG raps Maharashtra as Rs 82.78 cr helicopter lay idle for 17 months, flags Rs 2 cr avoidable cost - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkM0UHNQclVLODR6bV8wOGhuSFNsVnp1Q3pkd0oxNWp6T3Q1S09MUGFmYlFpM2p0c3Vwb0lYRmhWcGtENFA3OEZueEVMZGhkbTIxUkRLLXh1MENBWmhZcHJUQnEtTjFpUTBCb204YlJKWnl5VkxIU3BLQWJtN1E1VmIzQ3BBamJ6ei1hclpJVlhWbXNIbUZCTFM2aTBsdy15R3p5LXo2RFNqSDBBWDlKNWFXVmtJVmpSVmFQVVpUQWlFd0E?oc=5",
+          "time": "1h ago",
+          "body": "CAG raps Maharashtra as Rs 82.78 cr helicopter lay idle for 17 months, flags Rs 2 cr avoidable cost  Telangana Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CAG raps Maharashtra as Rs 82.78 cr helicopter lay idle for 17 months, flags Rs 2 cr avoidable cost Telangana Today"
+            ],
+            "tldr": "CAG raps Maharashtra as Rs 82.78 cr helicopter lay idle for 17 months, flags Rs "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1783919049475",
+          "title": "Maharashtra Housing Act amendment to pave the way for redevelopment of 13k dilapidated buildings in Mumbai: Explained | Hindustan Times - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS2xabGNrOEVibUN5OV9JWi1vNkhTOFhBcDU3Z3F4ZE9ONUVaMHloR0w2dkpCZWZxQVFFLWNqYjVTNXJWVlplYnFBUnN1YnlkWDdfcjdZX0VUOTlybzFIT0ZabTFtenR3RlkyS0tZcGkwd1FhbUE4Qmxxb0M4c3ZHZHg2dWs4REE2REZGV3V6Z2E4bnI2NWt4WlZ0UXJSbGdZLWZxVDlhZWdFZEtFbFgwN09YX3RBLTZmMzl5UDVhTjNNcHZ5TTQxS0ZxeU04a1MzRUpaZjVySnlSRjJMeTJrYmRSNVV0QmFibVd5U0c0aVVwLXlsNzZKS002X21fWS1heldYcEhzYzltZVpVMXpUM3NjbElMbEZlTDRpbGZjMGFUOV9w0gGqAkFVX3lxTE01MFBuYU02azdBczNtWWtaOTk3ZFE5VzFWUnVfa1dVOF8wNmtuVmlFX2w3dTdNZGVJSWtyMGQ3SHB6UU0xTk14NFh3Q19YNmVzWGozQkk4eEplREU1emVYbkt5SmxIZGFqR25rdjBULThwMzFZRi1XaW5hZHJrb3lDWGNZWVZDVlZRTlVfZXYyNFJwcTdQZkFoQ3Q5WjVWcmZHVEY5Qlhzdi14TVBrUHN6U3djdWkzZ1EwU0otTDBoVy1sbEcyZmE4b0F3Sk9PanYzNXc1UldsTVhoTEhBc2J4ekdLWURSaVNsWDBlYms2VWw3MUNnZFJ1eTduX0ZxNXZ5VldUTThmZ091SjhxMkdnenhQTWoxVENXMmZFVFRNQUNkaWJPMWhPb0E?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Housing Act amendment to pave the way for redevelopment of 13k dilapidated buildings in Mumbai: Explained | Hindustan Times  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Housing Act amendment to pave the way for redevelopment of 13k dilapidated buildings in Mumbai: Explained | Hindustan Times Hindustan Times"
+            ],
+            "tldr": "Maharashtra Housing Act amendment to pave the way for redevelopment of 13k dilap"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1783919049475",
+          "title": "Maharashtra approves plan for 145 rail flyovers to eliminate level crossings in three years - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQa3pWZ3VYNnMyczhVVTM0ZFN6eUdGYjZVSEF1RWQxdU5DbU9fdVFuRXhkMXRGTGwtX1dzTExjWFpzcFIxM1I4X0JYMVNfcmE5UlhCY2ZfV1lFNXM5dk5mb2NISmhnMWtrSWNVSmJxTF94bEdtdlE4N1pGSGliREo5cjdiR2VFMDhmQ3dKTGk1eWNOT1MwZW1Nb3pSa0V2X3V4bHVMVC1OWUtpb1NvRVNqZFpsVk13S2p1MlpZc0FXWGlYNVhjWFdITFFJLUFDelpwb3NIcUIyOGNYd1h6WlBkaXB3UVlDR3I5RWJqaW5VTGQ2NWR4Rjk4OUN6YkRGb1lMZGxGdXdYSlY4Zk5FeWFRZ9IBkAJBVV95cUxQa3pWZ3VYNnMyczhVVTM0ZFN6eUdGYjZVSEF1RWQxdU5DbU9fdVFuRXhkMXRGTGwtX1dzTExjWFpzcFIxM1I4X0JYMVNfcmE5UlhCY2ZfV1lFNXM5dk5mb2NISmhnMWtrSWNVSmJxTF94bEdtdlE4N1pGSGliREo5cjdiR2VFMDhmQ3dKTGk1eWNOT1MwZW1Nb3pSa0V2X3V4bHVMVC1OWUtpb1NvRVNqZFpsVk13S2p1MlpZc0FXWGlYNVhjWFdITFFJLUFDelpwb3NIcUIyOGNYd1h6WlBkaXB3UVlDR3I5RWJqaW5VTGQ2NWR4Rjk4OUN6YkRGb1lMZGxGdXdYSlY4Zk5FeWFRZw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra approves plan for 145 rail flyovers to eliminate level crossings in three years  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves plan for 145 rail flyovers to eliminate level crossings in three years Mid-day"
+            ],
+            "tldr": "Maharashtra approves plan for 145 rail flyovers to eliminate level crossings in "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1783919049475",
+          "title": "Andhra CM Naidu terms Vietnam boat tragedy 'very tragic', says Govt monitoring situation - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX1ozZDhyam1DdFZ6QXFGLVdfdHFmS3NmNWpwQXJRSVRuNlQ0ZWpqTlA4amhQMVVjTlQzdWFRSGJWWEFQX2hqVVRqazllNHN6LUF5WHhIdnlwMHFsQ3ZBNG1OR25qcmZkVDhrQWZweWNaZTZUWUxRcGxJWHItUXhjc1VpYW1EMmVVc3Y2V3dQTFpxekJqUWdMc3ZCYWM4N2pYajNXUlNYb0Z6MXdVaDFWUmJwVG05cXMxOGc4LXRLQ3p3T0NwZ00zX2NpYVJVODluTlVPanEzM3djNGFONXQ5VjUxWQ?oc=5",
+          "time": "14h ago",
+          "body": "Andhra CM Naidu terms Vietnam boat tragedy 'very tragic', says Govt monitoring situation  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Andhra CM Naidu terms Vietnam boat tragedy 'very tragic', says Govt monitoring situation ANI News"
+            ],
+            "tldr": "Andhra CM Naidu terms Vietnam boat tragedy 'very tragic', says Govt monitoring s"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1783919049475",
+          "title": "Demand Grows to Include Urdu Poets in Maharashtra Govt’s ‘Kalavant’ Scheme - Clarion India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlB3T3dFd0tVMnhpcjNhOW1jWHBPVTNDeENMRXI5a2hhSGlBa3loMHRFQm1SRkt4MFlqXzh0Q0o1T0JUb2FPNEZwVkNwM0pMdlhPUnBuUDJTTzVqUmFyMFE3T18xYS12QmNwNlQwNEZmd0lwMU44UFU0LUVFNEpQWmtJaXZ5M3MybGJ6YVh6S3BLS0JfMUZ5UFRjZVgtQQ?oc=5",
+          "time": "19h ago",
+          "body": "Demand Grows to Include Urdu Poets in Maharashtra Govt’s ‘Kalavant’ Scheme  Clarion India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Demand Grows to Include Urdu Poets in Maharashtra Govt’s ‘Kalavant’ Scheme Clarion India"
+            ],
+            "tldr": "Demand Grows to Include Urdu Poets in Maharashtra Govt’s ‘Kalavant’ Scheme Clari"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1783919049475",
+          "title": "Government convenes all-party meeting ahead of monsoon session of Parliament - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSU5IbVZiX0ZFQU5Rc0lVaHlZV3pDLU5OdzVlWksyNDhna1lvdm92UE8zSldXbTVyOEdOQmlvV3lOR0k1SnBvMTZ4T0Jpbk5IRm1Ya2p3bEFCdXBmVlZtcU11NXkwOW5CTjREN2pkaUg4TndaMm9HdklBeENFTC1SRUtPdjBrQXJqQWROalhGZGRPWWNDUVltdmdJLUxpYmFLZ2oyLVVZd3dWV2JfbDhkTXZCSTdoY2w4N2lJaA?oc=5",
+          "time": "22h ago",
+          "body": "Government convenes all-party meeting ahead of monsoon session of Parliament  indiagazette.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government convenes all-party meeting ahead of monsoon session of Parliament indiagazette.com"
+            ],
+            "tldr": "Government convenes all-party meeting ahead of monsoon session of Parliament ind"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1783919049476",
+          "title": "UK police arrest suspect in murder of former minister Ann Widdecombe - malaysiasun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXdkR1FHVkJlaDNDLWpBQW5LdmxGRmZwNDJIek4xZ2FheHI2S2hRbHBqLWJTRHBtR3dCSlBQRUI5emxoeTliSVdsNGFjS1VFaXJIYk9tNFc1amZOSTcwRTNjaWYzZ2hWZkxKYWJRMVAwTEtCYVMxWGhrSG52QjV3Qm1Pd0o3ZUFOMW1kbE53aFBzLWNaNENmNFFPSmgxb01BdklUV2t0VEV2MHkyVXpRaw?oc=5",
+          "time": "15h ago",
+          "body": "UK police arrest suspect in murder of former minister Ann Widdecombe  malaysiasun.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "UK police arrest suspect in murder of former minister Ann Widdecombe malaysiasun.com"
+            ],
+            "tldr": "UK police arrest suspect in murder of former minister Ann Widdecombe malaysiasun"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1783919049475",
+          "title": "CAG flags Rs 3,541 crore excess spend, budgetary lapses in Maharashtra govt’s Ladki Bahin scheme - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3MxUVZkYmRrQ3lXc2JCaW1NSERFZnlhU2VYOHBMcXZNbUFOWllJd2RTYXVFY3U1ZUt2Y3I1V2F2YzJURk9JRFktSlk1cXRUelNhdGNHYW5hUm9DNnZQTExwQlhoUl9Yak0xUzJjQ1drMDhKNmQ2TmJPUG9fclZJYk1UeXNlVW5NbDFHQjFJWF9iOGEtWDF1emZSckMwcVY1Sy1DM2RWVGRKY1Z1VlBTTGJVWFU0emlDT3hKU2R5TnRlMWZmZXVEV0dEdmHSAcwBQVVfeXFMTnNzMVFWZGJka0N5V3NiQmltTUhERWZ5YVNlWDhwTHF2TW1BTlpZSXdkU2F1RWN1NWVLdmNyNVdhdmMyVEZPSURZLUpZNXF0VHpTYXRjR2FuYVJvQzZ2UExMcEJYaFJfWGpNMVMyY0NXazA4SjZkNk5iT1BvX3JWSWJNVHlzZVVuTWwxR0IxSVhfYjhhLVgxdXpmUnJDMHFWNUstQzNkVlRkSmNWdVZQU0xiVVhVNHppQ094SlNkeU50ZTFmZmV1RFdHRHZh?oc=5",
+          "time": "11h ago",
+          "body": "CAG flags Rs 3,541 crore excess spend, budgetary lapses in Maharashtra govt’s Ladki Bahin scheme  ThePrint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CAG flags Rs 3,541 crore excess spend, budgetary lapses in Maharashtra govt’s Ladki Bahin scheme ThePrint"
+            ],
+            "tldr": "CAG flags Rs 3,541 crore excess spend, budgetary lapses in Maharashtra govt’s La"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1783919049396",
+          "title": "No Justification for Rs 3,541 Crore Spent Under Maharashtras Ladki Bahin Yojana: CAG - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMi0zQU1kRmh5RHR3NXZaVTRDc1BfMlJTY1VUUGpSeUgzZDRyNzJXU0ZmLUhVellfekg2NnVnMkxuQ3JYY1lyNVpxV2lqNHBRZ2dyR0NDTnhLbFRicFZjcW0xVGhWLVV0UUVwYUw0SjFLU2toRWRuRmpSYWJyNWFBaVNxQjYxSElua2JYcDVmZ3Z5eENNQ2JPY3BvYU9aenBEc3FBX2NjNlNjSTNhUzJYQVRHdktwSFZzTmfSAboBQVVfeXFMTTItM0FNZEZoeUR0dzV2WlU0Q3NQXzJSU2NVVFBqUnlIM2Q0cjcyV1NGZi1IVXpZX3pINjZ1ZzJMbkNyWGNZcjVacVdpajRwUWdnckdDQ054S2xUYnBWY3FtMVRoVi1VdFFFcGFMNEoxS1NraEVkbkZqUmFicjVhQWlTcUI2MUhJbmtiWHA1Zmd2eXhDTUNiT2Nwb2FPWnpwRHNxQV9jYzZTY0kzYVMyWEFUR3ZLcEhWc05n?oc=5",
+          "time": "21h ago",
+          "body": "No Justification for Rs 3,541 Crore Spent Under Maharashtras Ladki Bahin Yojana: CAG  TheWire.in",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No Justification for Rs 3,541 Crore Spent Under Maharashtras Ladki Bahin Yojana: CAG TheWire.in"
+            ],
+            "tldr": "No Justification for Rs 3,541 Crore Spent Under Maharashtras Ladki Bahin Yojana:"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1783919049439",
+          "title": "Sensex, Nifty Slump: West Asia Tensions & High Oil Prices - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUJDU2ZVX0ZtcWZVdkRTMG9JaDA4R1YzdER3dkF0bjJGaklUWGJoNngxYXFZZmdYeEN3d0Q0SDJab0gtT0h4UHdveVBwMUtkUXNpMkdzQ1NEQmxKbFB4aV9JSVpGMzZlMjVYNGxPZ2ZOZjJ2RGNSRmNZNEViQ1hwZEs4V1ZiRUV6TF83Mi16LXI2Umh0VGg4WUIyVnFGd1ZwT3F5ZEEyN2bSAa4BQVVfeXFMT0FITTdpdzJGazB0ajJ4eWhTZFN6d25SdzJiSHJLSFpyeGlhZENoZUtXRVpxOFU2UGtNMUZQdXV3VUl5VnItNTZWeHV2dnFTNGI2aGM0QjR0NERpMEEzRnpqd05UWm1Ea3pnZTVFRWo4ajF1WlZ5TTBDaW1pT3NfTHVvRTNvbFJaREhsZjRGQmxWN2Juc2J5Xzk0MWtZUkg3YVg0YmJ1Rm5RRDNkZmhn?oc=5",
+          "time": "Just now",
+          "body": "Sensex, Nifty Slump: West Asia Tensions & High Oil Prices  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Slump: West Asia Tensions & High Oil Prices Rediff MoneyWiz"
+            ],
+            "tldr": "Sensex, Nifty Slump: West Asia Tensions & High Oil Prices Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1783919049439",
+          "title": "Stock Market Today: Sensex, Nifty Tumble As Fresh US-Iran Escalation Spook Investors - Outlook Money",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRzJrVmpEb21mZ3dVWEFYUFZwdXhnMGhhdjVrcmhRU2tqb0NEeXRJUW92UzVnSjZPUEhsckljeDhoem03bFNYb2F0ZF9wdEJTVjhnRlJCOE5mMGQ1Q3h5bUlaTVhTeGFEZ2F6RmZBUHlWWUNxWHBkS2ZMMkZiMF95Z1hZSFFkemRpYkVZTFJfTVJYWE1NRVhNaVJfY25rYVVwOVhB0gGwAUFVX3lxTE83bEJqeUY4RHZ5cW1PZ3dMQVJfbXBkVmdhalRBLVpkNElTU0xaaU8zQlFONXRCZ1ZDOVBVRXF1QlpVZVF3MG5WS3I5dHZYb3J1QTd5eWtUSlFsMmYyZ2VXZ25NVFlsamZRODRacGd3TFdJN3ZORm1Od1U2a2c3eURIQ0RHekdrY3BXN1loelNsMlBqSjdvR2lRenNLYkVDNHMteEQ4R3VzVU1fdEp0N0Ux?oc=5",
+          "time": "1h ago",
+          "body": "Stock Market Today: Sensex, Nifty Tumble As Fresh US-Iran Escalation Spook Investors  Outlook Money",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex, Nifty Tumble As Fresh US-Iran Escalation Spook Investors Outlook Money"
+            ],
+            "tldr": "Stock Market Today: Sensex, Nifty Tumble As Fresh US-Iran Escalation Spook Inves"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1783919049439",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "13h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1783919049439",
+          "title": "Stock markets open lower as renewed Middle East tensions push up oil prices - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSXJOUFUxV19WSGN2MTIxY3U0UlJIRHgzUmJjeWI1MXVZX1Fsa2JvcnZIWUpLeDZ3R0JSTkpQN2xHbUxkSlF1OFhuWWFDbGhGMC1xUkZLQWt4Q05uMUhHazFOT3FJdkFJZGF6MnJjaXU1Q0R6aTZ2QUhQdjZwaTVkUHlWWG5kU3JuREtlaVl2OXd2ZlhiV29sVXdoRUxhazZfdUExZDJB?oc=5",
+          "time": "Just now",
+          "body": "Stock markets open lower as renewed Middle East tensions push up oil prices  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets open lower as renewed Middle East tensions push up oil prices The Indian Express"
+            ],
+            "tldr": "Stock markets open lower as renewed Middle East tensions push up oil prices The "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1783919049439",
+          "title": "Today's Market: Sensex Today Trades Lower | Nifty Below 24,100 | Metal Stocks Bleed - Indian Stock Market News - Equitymaster",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3ByR1dJUEhVWHd0djhIYTFnaTVENGpLWXNRakdpd0pVNXRZejRBVnhXdFpfaXU5bDlsY1VKdlFTY0hkVkVEYnhvVkxvSTN3ZWt6SEFYR1pGcG9KWkYtZk5QQnpTUndtSFFFb0ttdVl6SVl2eDRNNy15RGVYWjJZSmZaeFRaVmVLY011RTYwV2hWVTBlZy0zVlF1NEF5dTRrVXFxdnh0d0hWXzh1NTJ5dDl2OVZTSkJZbk9WWHFYU2NFQQ?oc=5",
+          "time": "Just now",
+          "body": "Today's Market: Sensex Today Trades Lower | Nifty Below 24,100 | Metal Stocks Bleed - Indian Stock Market News  Equitymaster",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Today's Market: Sensex Today Trades Lower | Nifty Below 24,100 | Metal Stocks Bleed - Indian Stock Market News Equitymaster"
+            ],
+            "tldr": "Today's Market: Sensex Today Trades Lower | Nifty Below 24,100 | Metal Stocks Bl"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1783919049439",
+          "title": "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks to buy on Monday, 13 July - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQzBnTDh3cTFlQ0t2cDdjNU5VUlVUci1yaWczcEZmdzFlWl9ZcnhiUkZLemhRd2VMMXhDQ3RHVW5UdWwwdFMtRGF1S0IxUExXREhWaEtuR2xEdnhZQlg1MHM4ODZPOTliU1F2dnVyZHdpZzQ2ZHdwQkZOSU1xUGVsQlZkaDhLdDl1bmFIUWVJUnF5dHp3RFlXODVrNEh6dHNvbzVnN0s1c0dYNEwtMUFJcFJnVng5aFVUMlV6ZW51Z0RjdVZqaVBDVHlmbjNQRGVqVThWOEVxMGNXTGpHbFNMdmJ4UFlNbWthNWhkdzd4MFM1UkRjQWZaT0k4M1lnSXF5MWRPTklpb9IBhwJBVV95cUxOQzBnTDh3cTFlQ0t2cDdjNU5VUlVUci1yaWczcEZmdzFlWl9ZcnhiUkZLemhRd2VMMXhDQ3RHVW5UdWwwdFMtRGF1S0IxUExXREhWaEtuR2xEdnhZQlg1MHM4ODZPOTliU1F2dnVyZHdpZzQ2ZHdwQkZOSU1xUGVsQlZkaDhLdDl1bmFIUWVJUnF5dHp3RFlXODVrNEh6dHNvbzVnN0s1c0dYNEwtMUFJcFJnVng5aFVUMlV6ZW51Z0RjdVZqaVBDVHlmbjNQRGVqVThWOEVxMGNXTGpHbFNMdmJ4UFlNbWthNWhkdzd4MFM1UkRjQWZaT0k4M1lnSXF5MWRPTklpbw?oc=5",
+          "time": "2h ago",
+          "body": "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks to buy on Monday, 13 July  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks to buy on Monday, 13 July livemint.com"
+            ],
+            "tldr": "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1783919049475",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "9h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1783919049475",
+          "title": "Piyush Goyal advises Gorai residents on private builders and redevelopment - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0IwT2RLbFpiRklSeDBNWjV1S2ZNNlJZNW5CUmxCdHpyX2xfdmJvVHNuNi1oOEkzbDRPQzdCV3hVV0Z1NkVFaXFwVXZlLWlxaVNJY2ZTOWt2U2NsU0ZOUXh6aUJlWmpyVEYwTU50TmdkZ2hZOGQtQndyLWdRMXN0bWRxV19sVFpEWDFGM2hZZTU1RUc1TXE5T0x5d3ZWRUhhZjdVWWdlcWF5VTd0eTBXM0V1X2twTU42NnAtTVBpa1B0dWw0Ny1pa0N3?oc=5",
+          "time": "16h ago",
+          "body": "Piyush Goyal advises Gorai residents on private builders and redevelopment  The News Mill",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Piyush Goyal advises Gorai residents on private builders and redevelopment The News Mill"
+            ],
+            "tldr": "Piyush Goyal advises Gorai residents on private builders and redevelopment The N"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1783919049476",
+          "title": "Maharashtra approves lower stamp duty for 99-year lease agreements of Mumbai housing societies: Explained | Hindustan Times - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPNTVQY3V3aTc5TW95UFRCZGlxU1Zwd3EyMENXcmExaFQxc3I2a2lCV1hyak92ZTRlOHEwQlpNMjRzU1hicVRvNnhVdVo2SU04SHlBb1BQNEEtVWZFRUlkX25ER2x1ZjhLX0JWLUotUWNaMG5hbU5xUHlVenBkQmJuTFVoNDU1UzM4Y0JDVDZoSThSNjhBREltVHBHd0RRVk9Ia293TG04RnBwRnhGZTJIT2s1VExsRGhZSVlZYW0yQnA1NmtPYUtlU1AwTHFKTkxkQ19yRXlvQVZ2ZUdxTFF6bzNNUm5rWnlITW0tblhuUlhwR2pZZmNDSjJuS3dEbUdUSkhGemFNOGd2T2t6MzRVTGtPSEvSAZoCQVVfeXFMTmpCRFBjTHAtQjV5dnBET1Iyak5lTDZBMkV4UnFOSTFkRnVLdGNRY2N1R1B2MVluM0llbkhUSHkyQnNGSXltV2loNjMySWFHSVFWdDBVYndPRG8tQ1BwaEVrWEJ3bzl1NllEWnpHdFh5bGlUM2liczcwa21uVEZFQU9xdmdXRWNORVFOa29HRThkLWxmMDhubmNkOWc1WUtEdXVjMU50UFB1WFEwZXlPRlVGY2Y5WnhFR280dmhHZUxZTUxXaFVjVm5Zby1wMnNlNFF3N1RYTTg1Y1JrN3FTVDdUMnpUNE9aUVZmZnBaa0hFZnVxaVZ0WTdHLWpReHcwNVpxVXpVYzB4cl9FSW1JSE5ZaWxYeVp3RWNR?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra approves lower stamp duty for 99-year lease agreements of Mumbai housing societies: Explained | Hindustan Times  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves lower stamp duty for 99-year lease agreements of Mumbai housing societies: Explained | Hindustan Times Hindustan Times"
+            ],
+            "tldr": "Maharashtra approves lower stamp duty for 99-year lease agreements of Mumbai hou"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1783919050724",
+          "title": "Jalgaon Could Emerge As North Maharashtras IT Hub In The Next Decade, Says Dr Deepak Shikarpur - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcU5WaEJWaDBMMG9SODRvcGxhTThvUFJjMEloSlBJcW5YZ2xGZ0V1VGJZZzFnaW10QkYzcmtyc2ZCN1pCT0RqdWlRTDA5bjdadmw0YjVJQXBCV051TFBsODJZS0xKWDc2WXZKNzlnTy1RNml2aElIWGFpSUxPTWpBVnVWMThpblM3Qy1IRVFNYS1NeThTcjBhdkxhSFZ6Y3lPR3o4UW45SnFkQmJDQnlZRGJRVGdxT2k4VTNySmJLNXB1cnd4Vk5LRF930gHPAUFVX3lxTE5WQnI5X3Ffc2ZhcDR5WkhSTE1IYUsxeWVwYkxpZkJYTXVMdEhITXZrbC0xZ1RGRFVKRk1ieTBtSHdQZDh0SlNVaWZ0N0xOd2Vmbjd3S0g3SUs4d1lTQnA2alUzTndqSERHTFkzNkpLdGtlN1RRM0ZOOGgtek1paU1WREl1TWRxdWhhQWZnSU5rUTVjRXBxSUNLMkpfWjZoY041WXVfTGtWTlNrY0RMWWUyMXQ0Y01CcHpjV0Y1MlhGbGNGZk5rNUZmay1zWlY5VQ?oc=5",
+          "time": "18h ago",
+          "body": "Jalgaon Could Emerge As North Maharashtras IT Hub In The Next Decade, Says Dr Deepak Shikarpur  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jalgaon Could Emerge As North Maharashtras IT Hub In The Next Decade, Says Dr Deepak Shikarpur Free Press Journal"
+            ],
+            "tldr": "Jalgaon Could Emerge As North Maharashtras IT Hub In The Next Decade, Says Dr De"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1783919050804",
+          "title": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2toNzd1TjVCb0lRaGpScXB5UEUtRm1RQXVUVXdpTDNtMV9id0dITzFHM09Tb3FGWTVud1ZyOW5sZ3l5eW1sSGlQeHlDOUJSWW1pWjhRckR6bVJtWGZ5aXkxLVB0cWNhUWgyOW5NdVJLbTg5QnFhRXFVaUlRVUY2U2lBQThQdmE4a0psSmFlT2p0d2EyeXgxMVZPSjB4Zw?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News News On AIR"
+            ],
+            "tldr": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akash"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1783919051874",
+          "title": "Indian-origin tech leader killed by husband in Georgia over domestic dispute, wounded son runs to neighbors for help",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "In a shocking domestic violence incident in Georgia, a man is charged after allegedly shooting his son and killing his wife. The injured son sought refuge with neighbors while Sheetal Wrzesien, the victim, a tech leader, was lying dead inside the house. The husband was arrested and charged with felony murder.",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a shocking domestic violence incident in Georgia, a man is charged after allegedly shooting his son and killing his wife.",
+              "The injured son sought refuge with neighbors while Sheetal Wrzesien, the victim, a tech leader, was lying dead inside the house.",
+              "The husband was arrested and charged with felony murder."
+            ],
+            "tldr": "In a shocking domestic violence incident in Georgia, a man is charged after alle"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1783919053298",
+          "title": "The Bombay High Court ruling that could change cluster redevelopment of old buildings in Mumbai forever",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/bombay-hc-clears-mhada-cluster-redevelopment-bandra-worli-adani-10782945/",
+          "time": "20h ago",
+          "body": "The Bombay High Court ruling that could change cluster redevelopment of old buildings in Mumbai forever. [object Object]",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Bombay High Court ruling that could change cluster redevelopment of old buildings in Mumbai forever. [object Object]"
+            ],
+            "tldr": "The Bombay High Court ruling that could change cluster redevelopment of old buil"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1783919050804",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "6h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1783919050804",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "4h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1783919050804",
+          "title": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RSMDExX3Z3TmRWaHN6Z2N4UlpWSkRkdWFPRkNpR25qRmJYNnFzTzlodW50dVBXQ2I0a2J2T09wTHNteW10bUJjOTNzWlViZWJXdXRiVFFEd1BwQWxzR3F6QXdEdjYtbS1sTEZydXQxRVFvYk1QOVcweElBQlU3ZWhsS3IwZEhoNFd1N0tyd1dCRlp1S2RXNmphU0ZLajhTSGc?oc=5",
+          "time": "10h ago",
+          "body": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1783919050804",
+          "title": "KKR vs MI, 65th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmU3M3RwbTZta3VrUG9EZHIyQ0FWSjBiRWhDSDhUZVlqLWZTYkZxZXZyaUZPektIM25TRzJZZjUyOEZwNEd1aFJDU1BzclBVLUlOMVg1WEJOc2ZLWXZIbTQwQVRfakpFWWxDNUUyemNCd0xaa083T1ZwOUNOekxncE9jUGZTWmNHTGZEVzZDNFRUYjJlS2JCYjcwaGwxQnVNbFE?oc=5",
+          "time": "11h ago",
+          "body": "KKR vs MI, 65th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KKR vs MI, 65th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "KKR vs MI, 65th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1783919050804",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "10h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1783919050804",
+          "title": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTU0MnlmNThzbUlMQ0Z2YnRETlY0SXllQmlDNTFKbkNzY0JPYVFMejJuV1NpWnFtekN4Znl3X3lkelR2T3ZUNHBTWW5HdG9ZV29BcHFxeVIyMHpJNDdnbzhidWpzb1N6Zml6clRPb1haWFA3RS01SHdtVHFEUG9faVZWMUZZN01OME50TnNDZ0Nhb0U5Yld6R3FDNzlLbGtZalE?oc=5",
+          "time": "10h ago",
+          "body": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1783919050804",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkdGTk95N0RrdFJTb0NFSlM4ZjZIcXM0ZlppSzRRSzhia2o5LTd5S0w2YVA3YlByYldzU3BTdkFZTGVVMVRDcEJFRHdKQlZNRnlpa0JoUkRWM2p2XzVVQjlxRm1aclhqMk1jaFRjRmpkeDdERkpBRHYtZDhjTHhPa2NoQWRPcDZrekdOZUJZRlNySnBaX0pfekdzNFF4V0xUSlE?oc=5",
+          "time": "10h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1783919050804",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "15h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1783919052056",
+          "title": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZVBUdEo5dDN6SWhjQnVCT0ZGVXRUU002UE9MelluYzVxemYyVXlVNk9ISFo5NHJsMUdQRkxhLUpuMVNlX0cxcGZ1OWNpVGFjTjJ3SXg1a2NxWlN3WTN0Y1pMcGFwczhmMHpFeHpSZmdBYXZyN2QwOWxHQzRFMjZxQVRmNTFMdHNCMUtsaFdsRmNiSndwRXk0YW9qRVhaZnZzWmlBMWhfaXUwblpCWm9haHQ0a2JPemoybWQzZmFfbjAwV0tsUVdmSVhUQjRhNk1MNTdSazZ3RVRWdGRRVHJub1pPZ2owby1JVzBMWWI2Yk9mZ3NUbVE?oc=5",
+          "time": "17h ago",
+          "body": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic MSN"
+            ],
+            "tldr": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy r"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1783919051874",
+          "title": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]"
+            ],
+            "tldr": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, "
+          }
+        },
+        {
+          "id": "mumbai-general-4-1783919051874",
+          "title": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]"
+            ],
+            "tldr": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1783919051874",
+          "title": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher....",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]"
+            ],
+            "tldr": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offe"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1783919051874",
+          "title": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]"
+            ],
+            "tldr": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1783919051874",
+          "title": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]"
+            ],
+            "tldr": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with mur"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1783919051874",
+          "title": "Indian student drowns in Germany; four questioned",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian student drowns in Germany; four questioned. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student drowns in Germany; four questioned. [object Object]"
+            ],
+            "tldr": "Indian student drowns in Germany; four questioned. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1783919053298",
+          "title": "1,856 trees fell, 3 died in 11 days: Why Indias richest civic body cant predict the next collapse",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/1856-trees-fell-3-died-in-11-days-why-indias-richest-civic-body-cant-predict-the-next-collapse-10783552/",
+          "time": "3h ago",
+          "body": "1,856 trees fell, 3 died in 11 days: Why Indias richest civic body cant predict the next collapse. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "1,856 trees fell, 3 died in 11 days: Why Indias richest civic body cant predict the next collapse. [object Object]"
+            ],
+            "tldr": "1,856 trees fell, 3 died in 11 days: Why Indias richest civic body cant predict "
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1783919053343",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1783919053343",
+          "title": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "6h ago",
+          "body": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1783919053343",
+          "title": "Will It Rain In Mumbai, Thane And Palghar Today? Check IMD's Forecast For Maharashtra For Next Four Days - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2hIZC1ZQlhOa1Z4NXVGR01oc3J2VlNGZTRLZzRTaTY4M3pqQi05d3dyNEIwVzkzWXlvTmZFYkc4WXlKWHBLeF9wWmtYanMyVVVvRDdzS0owQ28wcGJYcHRJLTF6N25FV1pRbVVnNnNGczhLcGZwWFpQaXVWM293Y0h6WW5ZU0tva1RfTnQyYktNZHhRSzNDQ0s5alNCUUJTTmZ4aVQyODRkWWRmbm9RMmpRdlAtRjdJLXZPSy1FRmYydmUyb0hIWnVpbTBYcEJDMXg5VlJ5TWUtVjjSAeMBQVVfeXFMUHFJdWZ4V0hKMjdGWnFHZnA2ak5LTlMyQ1puRkR3aXNFSWdHOEVJdklHb3R2eWlMLVhRMjRXU0NKaDhnUmYtWnJGcFctSlg2d0ZMdURMTU04NGM1TTFoSmktNnJKTWdTa0tnclkyckl3VWgwZkRXX1RUZ0dtMVhURHFqSVB2cWprRHdhTUxBRDNoeTNwVm5DR2tRMGg4QjJZalNHeDJPSVRPZVVWRU1ENlBFUW9IS0tlNWNaNmZPS213NFFXZENGWGVrVXpSb3M4bnFHQXppM0xiT3NzcFZTYlBYWDA?oc=5",
+          "time": "3h ago",
+          "body": "Will It Rain In Mumbai, Thane And Palghar Today? Check IMD's Forecast For Maharashtra For Next Four Days  NDTV Profit",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Will It Rain In Mumbai, Thane And Palghar Today?",
+              "Check IMD's Forecast For Maharashtra For Next Four Days NDTV Profit"
+            ],
+            "tldr": "Will It Rain In Mumbai, Thane And Palghar Today?"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1783919053343",
+          "title": "CAG flags Rs 3,541 crore excess spend in Ladki Bahin scheme - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWVPZHBrRTBMaGwxRjRiYzdUYUktWkV4WG42Q3U2dnBFMzJ3SVVDNFN4YnpyOVBPS1g5U3BoaVB1ZUlsTjhQaWVWdmp6anBtR1hPWXpDX0dJUnhQb2hoR3MxWXowNmpLakNPWXBvRHFHSG05c2FlTG1WUzBJdk1XcU84c19UTGo5T3pNbTZVSV9vLUtENUQtN1ZaekgwbXVXVUx2N0JOVHhoUdIBrAFBVV95cUxNNmdZVXhMeGxVU2FmNmU1eXVPVHVlWHZIZWxfTmhabjNUUC16NU5BaFFBTFdnX1FHVDdfLV9XQ1Fqb1FjejJDZVFkRWR6T01zZlpqZTg4UGdqTXdGdXF0NEE5czZhZGtZU19vcklmMzJTRm9ZUFZYVFJHMTQ4NFBsSktybUJjNEJTMkRidk95S192eFJIWXRXTnlLdENHd2JvQk9VTEFRSk9ETVJy?oc=5",
+          "time": "1h ago",
+          "body": "CAG flags Rs 3,541 crore excess spend in Ladki Bahin scheme  Rediff",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CAG flags Rs 3,541 crore excess spend in Ladki Bahin scheme Rediff"
+            ],
+            "tldr": "CAG flags Rs 3,541 crore excess spend in Ladki Bahin scheme Rediff"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1783919053343",
+          "title": "Maharashtra Weather Update: Rains likely in Mumbai, Thane, Pune, Raigad, Sindhudurg, Jalgaon, Dhule, Nagpur t - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPMVc4SGtNRG5ON2taUUFhQnhtRWxPNGZuQ2pxOFQ2MHlqdlZTaFl5Um50SldVNlJaWURURUlZZENJaWJzS3U3YUhGSGZ3eFdic3REMTQwdGUtMFg0cjN5WnU1UkY0MXRVZDZHa0ViUDJDTGF4Q0hldjZ0Zm9UU2RmTVFTVmJOd1JralgwQjJxcjljMERrdXdUY0VJT0Z3SlFiS05BcTJYdFFkd3lBelNsSEd2QmRKZGhhRHBRZmJQTHFWbzlWRTU5VFhLLWtSbjRicGdicEp1MXRIRWEwRFBHZjdISlI3WEhzajRIZ1dMd2VYYVdNRFhLR1g1U0htM0t2eUg5RjlLVlIxMWhMcC1WTTFmN05fZHNpT0I1cEM1cnR2d9IBogJBVV95cUxPMVc4SGtNRG5ON2taUUFhQnhtRWxPNGZuQ2pxOFQ2MHlqdlZTaFl5Um50SldVNlJaWURURUlZZENJaWJzS3U3YUhGSGZ3eFdic3REMTQwdGUtMFg0cjN5WnU1UkY0MXRVZDZHa0ViUDJDTGF4Q0hldjZ0Zm9UU2RmTVFTVmJOd1JralgwQjJxcjljMERrdXdUY0VJT0Z3SlFiS05BcTJYdFFkd3lBelNsSEd2QmRKZGhhRHBRZmJQTHFWbzlWRTU5VFhLLWtSbjRicGdicEp1MXRIRWEwRFBHZjdISlI3WEhzajRIZ1dMd2VYYVdNRFhLR1g1U0htM0t2eUg5RjlLVlIxMWhMcC1WTTFmN05fZHNpT0I1cEM1cnR2dw?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Weather Update: Rains likely in Mumbai, Thane, Pune, Raigad, Sindhudurg, Jalgaon, Dhule, Nagpur t  India.Com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Weather Update: Rains likely in Mumbai, Thane, Pune, Raigad, Sindhudurg, Jalgaon, Dhule, Nagpur t India.Com"
+            ],
+            "tldr": "Maharashtra Weather Update: Rains likely in Mumbai, Thane, Pune, Raigad, Sindhud"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1783919053343",
+          "title": "Gold Rate Today in Maharashtra 13th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "6h ago",
+          "body": "Gold Rate Today in Maharashtra 13th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 13th July 2026 : 22 & 24 Carat, Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 13th July 2026 : 22 & 24 Carat, Gold Price in Mah"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1783919053344",
+          "title": "Maharashtra ATS raids multiple locations over links to alleged Pakistan ISI handler Shahzad Bhatti - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYl9VYTY0Wm1tcy1aQk5Ba3dpSGJXTWl3RXd2akRseEFHRzk5RlBKNkJYeHVhRUNpOG9XTkVwWTN0TjV4QVhPT1UwUklFS2lYWW9pcGxOekVqZVZJcDRqLWZOS3lNY2xaQ3pES09ab0l5aE9EY0MtOEJPVXNIV1J1dWh5emdhSzFOUWFIbzJ4bFA3dlBKaWZUZW9LTjVnSVZ5aVZkQjNIWms5c2ZYbWpjcGR6SEczeHkzZE45VmU4dWN2YzB3dXJGRmNRRQ?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra ATS raids multiple locations over links to alleged Pakistan ISI handler Shahzad Bhatti  The News Mill",
+          "category": "sports",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra ATS raids multiple locations over links to alleged Pakistan ISI handler Shahzad Bhatti The News Mill"
+            ],
+            "tldr": "Maharashtra ATS raids multiple locations over links to alleged Pakistan ISI hand"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1783919053344",
+          "title": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdBb2xONVQ3M0l6aHhjQm9JX1lKbldhWktCZXRYRmVLdWwxdUNBRGhUZFdBWlJ0bV9VSUxLR2hIbW9ZVVZ4V1M3VWhiek42WHc0UE91SGVHV3RoMGR0OHc5Q1NBSENMQkZ0eUwtQnNBbGp6XzRZZkVXeFdjSmVoTWVVRlJVNHE1UmFsWVI4cXZBeGw2eV9rcDY1SzJzWG9lV3BPY09R?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09%  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% News On AIR"
+            ],
+            "tldr": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% "
+          }
+        }
+      ]
+    }
+  }
+}
