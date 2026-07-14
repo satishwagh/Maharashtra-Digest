@@ -1,0 +1,796 @@
+{
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T04:31:48.626Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1784003500417",
+          "title": "Maharashtra sets up panel on Pasmanda Muslims, signals BJP’s outreach push - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM29ZQTVLb0tITHBSZzRaMTFOaFN5Zk5TbXRwampEeUc5dk1Td1o4N2Fib01ZbnhoelFNYWUwdzlXMnlkeFBkb2huZ0I0TTMzQWtkNUZISVVYYjFDaGhwVkRMQW5veDJOa2VFdjVoZllqdF9RcnB5aHhMQTNVeVdYdWJNMk9wVml2RGNrMXBZRjVTUmdxLTdZS2k1NDdSZ0FvZVFHdHlwdGtQekxHUXRzUFpwUEZBUDRxd2FRcmotU0VSd9IByAFBVV95cUxNNzZSN2hMdDFWbHBMSW5OZkhDR1BYRFV4bjFsVUFJUlVOd21rTXd3QlBNM2h4cDBxQ2w0LWhDVFVNQmJDUTVzQkNzb0tScVU2UHpzMFhxZHdSekRkMkdmeW9RYkFScERJZFNUZ2RnNTBjZW9oOU1HZFc3Yl9rdWtYY3JvbmZZOC1EVFhKalVFUVBweXFjNkJyTXducDN0bGVsdmUwUzVpTEg3d2p5eWhDMnRlOHJlanFHcFd0WEk0eGoxU1RiaTg0aw?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra sets up panel on Pasmanda Muslims, signals BJP’s outreach push  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra sets up panel on Pasmanda Muslims, signals BJP’s outreach push The Indian Express"
+            ],
+            "tldr": "Maharashtra sets up panel on Pasmanda Muslims, signals BJP’s outreach push The I"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784003500417",
+          "title": "Devendra Fadnavis overtakes Sharad Pawar as Maharashtra’s third longest-serving CM - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN3E0UmdndXZFLV9sRS1ZYjRHYi1kSUI2c25TT0JKdUd0LUFvV0lsLVdVY0ZTeEFXaTdXUDByUnpObWE3V3FWaEtaYmFaOVhmdHkyd1dlQjdYcFZjLUVJM3Z4bEtsN1N5RUx4dkRBZl80OG9VWW16NGFCMjVuVkgzbXJHd3ZudmRoYnhPV2ZFOEdmQkp4YnFzZ1NVb2xqa1NFVk9PVFhBbkdkRkpYOXdrNTVudlR4T29PdEZPYVZ1V1JoLUkzZUVYS1l0X3QxVGxFQkxfdGlXQ3ZLNS16ZUI1MlhSU25DRFZqam04MzUwZ0RhSjZJN3dJ0gH3AUFVX3lxTE83cTRSZ2d1dkUtX2xFLVliNEdiLWRJQjZzblNPQkp1R3QtQW9XSWwtV1VjRlN4QVdpN1dQMHJSek5tYTdXcVZoS1piYVo5WGZ0eTJ3V2VCN1hwVmMtRUkzdnhsS2w3U3lFTHh2REFmXzQ4b1VZbXo0YUIyNW5WSDNtckd3dm52ZGhieE9XZkU4R2ZCSnhicXNnU1VvbGprU0VWT09UWEFuR2RGSlg5d2s1NW52VHhPb090Rk9hVnVXUmgtSTNlRVhLWXRfdDFUbEVCTF90aVdDdks1LXplQjUyWFJTbkNEVmpqbTgzNTBnRGFKNkk3d0k?oc=5",
+          "time": "9h ago",
+          "body": "Devendra Fadnavis overtakes Sharad Pawar as Maharashtra’s third longest-serving CM  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Devendra Fadnavis overtakes Sharad Pawar as Maharashtra’s third longest-serving CM The Economic Times"
+            ],
+            "tldr": "Devendra Fadnavis overtakes Sharad Pawar as Maharashtra’s third longest-serving "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1784003500417",
+          "title": "DIGITAL SIGNATURES MADE MANDATORY FOR CRITICAL GOVERNMENT DECISIONS AND SENSITIVE DOCUMENTS - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2xCTU15ZTJ5TThjdWtsV2x0RkQ2aHo3WFFRTFhRd2Zibm4tc214WWdmemRHVGVLRWhCdEJ5cjYyc1BpVGVEcTdxVUVPRkVkNWtSNjJtT1V4SWhoQkVkMTdmYVYtWXBDMzdrWlZ1R0F2SVpEQVNUVFNVb2x4cjc3aW9oS1VDTXBLOFdEMDZkeXpGVTBMZ1pWVtIBoAFBVV95cUxNWWdUdUVwRVAzSlJ2cmpRQ3ZSamlOcGxwbWNSUi1wMHBKVmVxZ0NEemxhSEZGMDA2MmI5VEotLU9aR2lPdTluYk13WlhlQlRHMHBJY3ozV1RrNHRsdC1tdGRXX3hReVQwZFFXMU5FZWdRRHhaLVZWUWl1RTRpbVRMbENId2V5ZWRrZW0wejlOaVE4TjJfbDhwVXp2VGt5dUNu?oc=5",
+          "time": "12h ago",
+          "body": "DIGITAL SIGNATURES MADE MANDATORY FOR CRITICAL GOVERNMENT DECISIONS AND SENSITIVE DOCUMENTS  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DIGITAL SIGNATURES MADE MANDATORY FOR CRITICAL GOVERNMENT DECISIONS AND SENSITIVE DOCUMENTS Marksmen Daily"
+            ],
+            "tldr": "DIGITAL SIGNATURES MADE MANDATORY FOR CRITICAL GOVERNMENT DECISIONS AND SENSITIV"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1784003500417",
+          "title": "Devendra Fadnavis becomes Maharashtra's third longest-serving Chief Minister, says BJP - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEYzeXdUTEd6MEdCMHJNWE9NQTdUZW43ZFNVaDRxQWFteUVyY005YUd5cGhndWRMeXE5M05fWVFQVTdBWkVZOHZXZ3h4clZHLWdBTHdRSXdtR1l4UG1yUW5fVWhXNlc2dVFiT2k3MXBVajdhbnFVTUxqTkVHOFQ5YUtBc29HR0Fidk5vNDZUcm1oR0JUc2xJVG1Od0VwQ3o2dWEwRHQzUUkydTFVRTNXY0F5OTltdWVfM2h6XzA3akN6dUpQRDZvcGtiRmtxTlluT19xQ0VIUlFiR0pFVmlVN3h30gHiAUFVX3lxTFBQRjN5d1RMR3owR0Iwck1YT01BN1RlbjdkU1VoNHFBYW15RXJjTTlhR3lwaGd1ZEx5cTkzTl9ZUVBVN0FaRVk4dldneHhyVkctZ0FMd1FJd21HWXhQbXJRbl9VaFc2VzZ1UWJPaTcxcFVqN2FucVVNTGpORUc4VDlhS0Fzb0dHQWJ2Tm80NlRybWhHQlRzbElUbU53RXBDejZ1YTBEdDNRSTJ1MVVFM1djQXk5OW11ZV8zaHpfMDdqQ3p1SlBENm9wa2JGa3FOWW5PX3FDRUhSUWJHSkVWaVU3eHc?oc=5",
+          "time": "19h ago",
+          "body": "Devendra Fadnavis becomes Maharashtra's third longest-serving Chief Minister, says BJP  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Devendra Fadnavis becomes Maharashtra's third longest-serving Chief Minister, says BJP Mid-day"
+            ],
+            "tldr": "Devendra Fadnavis becomes Maharashtra's third longest-serving Chief Minister, sa"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1784003500417",
+          "title": "Uddhav Thackeray appeals to Sonam Wangchuk to withdraw fast - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjBzZXFGam1mYlhWZDFBaDNqWkp5Z05LTmZxZnlyam80YjRocGFrdlRzNGVSYU9NY2xPeFRoUjhhQlZvUHYwWUx4R0tBUjk5V2JsZjVqWm9NcUliZi1YM3IzVkRjeUZaN1pucUpsMnVWdEZBa3V1MUwxMXd2bGNfcER5REU5WEphVnJDQWpJelBZOEFhLXZnQ1lYSm9ZRXV6ZjRaNTZSWWkxS1FWcXhjRVA0dmJTZlY3Vms2WmJiVHVsZVlGejdpOFVn0gHQAUFVX3lxTFBhRXVWMW1tZUxhUXhnQTBvaU9iUXI4MTZlMWpBMlQ0MHhnQmRkemRLdjRqOFZFemVZdkRjMTlpNDQ2WU9XSGRDVDZhVVFYYUlTZG1lcE5QSVlnOU5vLUFnbEVoMjh6SGxGeWZvaVpUeDFVd3ItUnBZdlpJODluQktfYURNeEtkZ1YzXzBjVVdYOW1jdzJaLTJ3MGNvN3N6MTZMaFRKcDhWUG9fUGhGdlFFMEhIazhuVTdVTVBiV1Q5TWZ3eHQ3bjhMUi1LeVVYRFM?oc=5",
+          "time": "18h ago",
+          "body": "Uddhav Thackeray appeals to Sonam Wangchuk to withdraw fast  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uddhav Thackeray appeals to Sonam Wangchuk to withdraw fast The Hindu"
+            ],
+            "tldr": "Uddhav Thackeray appeals to Sonam Wangchuk to withdraw fast The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784003500417",
+          "title": "81 Lakh Women Dropped From Ladki Bahin Scheme Post e-KYC: Minister; Oppn Claims Irregularities - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX1RoTnU3VFNNblluaFdmVHNkYjdJRnJLNGY4NWtCOWFWeEw1Zkg0SmV4YXlTWlZiUWcxcG5kUFBpRmUtVzViMDYxUEE3bzZTZ3JCMlJHS0xzRmN5NklIcldrd0RhYmw3Zzc0a1I0TjdYQWYwYkdGRzJrZkhCRWFJS1RsRTVBVnVVOEgtTVc5bnI2NXZqUkdfak9wOGJCUzNqVzduLW9VY3hxUHNCU283QmVDcjFkUWlzdVdqUTZWang4LWVNZVpCYkowVjB6WVp4R0sxMHlwR18zVklrTVVZbDRn0gHnAUFVX3lxTE54T0NHTlZMcU1UUXB3ZnVqWVk2VVZiLUs2eV82MEFxX2ZpdmtQMEdzZnRQZWRtY1VkZG5VY0EwWkd2ekxQR2NSZE9XaDZDcnBuVDJ4LWE3MzhaMHZPSTR6ajJwV2FNZEFwV0IyemFOWTdqRnVZaGFUYk5CcGtQbk0wQ3oxc3dxbGdVMTBudjQ4aUpwMW01VDhzejBjcmQzdEltNW5HOVluQlNHdHVOMlprMnRSUU9SMmpqTDRNZ3luZE9mVEFKN2pJbXgwR05iODlJRmQyR0ltZ3M5MmFqZnp6Y3ZFa3Fmdw?oc=5",
+          "time": "Just now",
+          "body": "81 Lakh Women Dropped From Ladki Bahin Scheme Post e-KYC: Minister; Oppn Claims Irregularities  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "81 Lakh Women Dropped From Ladki Bahin Scheme Post e-KYC: Minister; Oppn Claims Irregularities ETV Bharat"
+            ],
+            "tldr": "81 Lakh Women Dropped From Ladki Bahin Scheme Post e-KYC: Minister; Oppn Claims "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1784003500417",
+          "title": "Uddhav Thackeray backs Sonam Wangchuk, CJP protest over NEET paper leak issue - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVG5GNjBnd1ZEZjBqb21keU9OOUtSb21nbkdpZm9XMXZZMkxZYm1lckxEVmRtQ0dqdlpCeWJlb1d5aFdVTXRaa1hZX0dYcURsNTBoZE5OM25scV85Ymdjdk4wcXRjcWZIMlhsYnFBWDFsaFhMTWJkVHVqckFBQ3FHVHBCcW9qSVAxazc3enZMYjVGOWN3dGR2TjU3aGU1R3ZmN2NIN1hUSVpuQnp1dy1KRHV6S1JLUjdteVBrLURBQk1MckdqVktiaGVGaVI0ZGthUVE?oc=5",
+          "time": "19h ago",
+          "body": "Uddhav Thackeray backs Sonam Wangchuk, CJP protest over NEET paper leak issue  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uddhav Thackeray backs Sonam Wangchuk, CJP protest over NEET paper leak issue ANI News"
+            ],
+            "tldr": "Uddhav Thackeray backs Sonam Wangchuk, CJP protest over NEET paper leak issue AN"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1784003500417",
+          "title": "Denied state benefits: 9.2 million women excluded from welfare scheme - INDIA - GENERAL - Kerala Kaumudi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWZPZUZKTmVVQVJoOXo3RFVKcElhX1BicWhFU2oxZ0xxVXVyaG9Ma3pQQVZGMk1RZS1rNkdGTUdJd3ItSHhzaEk3T3FYaTEzREN1UDBzbDhUZm1vdkFBOUczRm82cWM1SVoySXBzYUZCQUY4S0ZPYUJqZFdFd0JyY0h6enJna0RmYkktN1dhbndiV0NSR1M1REdEUHJHaUdPZ01TYg?oc=5",
+          "time": "14h ago",
+          "body": "Denied state benefits: 9.2 million women excluded from welfare scheme - INDIA - GENERAL  Kerala Kaumudi",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Denied state benefits: 9.2 million women excluded from welfare scheme - INDIA - GENERAL Kerala Kaumudi"
+            ],
+            "tldr": "Denied state benefits: 9.2 million women excluded from welfare scheme - INDIA - "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-1-1784003500417",
+          "title": "Maharashtra to recover Ladki Bahin funds from 14,298 men who fraudulently claimed benefits - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNckY5b2l0d3NRdnBMYnFkb0JROWt2c1kyQ2tLWDI5Ml8tWlpRaW9SLXBqcjY4aWROMDFDUW9wUkg1VjZHSHV2dTg0YjJSU09BN1pkUmdaNXVkdmtsYmNCNXlKUE9xWVBES0V1REY2WWFNTWFpZWxHSnFoWUxLdEE4ZTNXVnprRGozSmNZWWZzQ0VUMkRFUklucTBTRGREZ3ZBcUVaY21PeDNYNVNNN3h2MkluYU9xMkhBT2FtWTQ2cXR2cHBkVkVPTDBuMHlzendkZjBET25NMkhSS1lxS0gyQnpyZnI0TWI20gH2AUFVX3lxTFB4OVBMX1hBWVVEWFdpN0FtX21hVG9GMnNJRWJaRjZVMjZrVGhBQzlzSjJ2ZTByaEVodzVnV1VlTkJfYUJfdHBqcmNrNGI4TWMwS3RMaFVGNVgxOW4tbHF4QW5VVDROM2wyUllUTDB0YTI2QXhJUE51ZnAzSDZSZXVmRkhhdE9hOF9MWDNIOURiM3hVdzBIVF9RcDVSWEF6LWdINzY2M1gtRWZLdjdaakVpSFZFdHFJSlZqYUdnSzYzOUV4endPaDBELXRFUDRDV09CZTVnVWlDMkFwOTVqelJacG1Hd0RlRHFJcnhIZkV6ODRsbDlOZw?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra to recover Ladki Bahin funds from 14,298 men who fraudulently claimed benefits  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to recover Ladki Bahin funds from 14,298 men who fraudulently claimed benefits The New Indian Express"
+            ],
+            "tldr": "Maharashtra to recover Ladki Bahin funds from 14,298 men who fraudulently claime"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1784003500417",
+          "title": "Centre and Maharashtra state govt to provide Rs 11,200 crore each for Urban Challenge Fund for civic infr - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON1hIdWN6NGNNNExpal9sQnp3d2VIcWp2Y2FDOEdCa0xOUUpfTjRxVmg0Y0lXemxSRkZZSmt2X3hlX0M4eVlCaXFkWmlweGhtQ3d4QkVDRVJyaXdlQTF6eUtVck9sLVVqZThwblRNT3VoaG1qYnE2YzZkNXEydU1PdjQzUHVEdkZCOEhSajVZNVp3N3pMNmJnWWQ3ZzltendRV2RFYm5tQmlvRWhDSEVhMzVFZnBtbFg4N2pGSVRsdzdzUHFKV3lXMTA3VTc5NzdKYVZNMUI2dFgzdjFCN1JJdkNWZXZxRjc0TXZfUW5KQzFVaHUtZzhGS05vRjBLMkxUREswSGNDSUViTlnSAZACQVVfeXFMTS0zcXRldFQ5MlRUTHlUWkF3ZENneXJOLTFZR2lrTUpQWkczcE1qTDFBREZyZmVyNHpKTGVqelMyLVZEMEpBMUFpLUVxOUJnUVEwUVYzdVNUSDNheHNGek5hcncxR3NmdnVlVUxpTXFOSTZYTzlBZmw0dDBYX1p2VlBQcy1CNm1UcVRkR3BJVUp3d3VnM1BrVTJsaVBSQUdlMTh6NF9fNDBoMkw4N3h5NjV0TjlFVjQ2NVhjWEVnZmthQk1zZmRZZVZmcGE0Y0Fwa2VBYkRDbTU1R1lDUXJ3akUtQmJLWTFEREt2RHpWNGQyMlZDeGZmR1ZGTkozajVoR3dwQWJBSVFhcWMxZWJJclU?oc=5",
+          "time": "11h ago",
+          "body": "Centre and Maharashtra state govt to provide Rs 11,200 crore each for Urban Challenge Fund for civic infr  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Centre and Maharashtra state govt to provide Rs 11,200 crore each for Urban Challenge Fund for civic infr The Times of India"
+            ],
+            "tldr": "Centre and Maharashtra state govt to provide Rs 11,200 crore each for Urban Chal"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1784003500427",
+          "title": "Why trust in history matters while investing - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmRTcEpWZVVpaDd3QlIyRGpGRERuZk9hU1dYMl9fNTd6dzlzNjhDVmZhdEdWdURNZU1VdzNnSHdoOXM2X2tPOTJKZ0lLaFFvVWxfMXN5aGtFTUE2ZGJzY1NIckV3SjJwNUM0OG1VYlJLZ1dEZVdONUhnaUU2NUtDYkZiUUNKVjJzeW5vVWVKZzFnQ0dXa3ZDMG5nN3h1RW_SAawBQVVfeXFMTjRGZ2dMenFlR2o1d1IyNkx4b0ZfQ3oyQURMdTNQMUJWU0dwcU1Bbl9uRHY2MnBhTzd5VlRpLXVXR0ZxNHVBVnFuMDExMkhERnM4eS1vZXVYZHg1cXJkRlJGaEhYdkxGV3VYRi1JREt3N0FfTnlQdGU1YUttX1NpTnY4TWg0SGZLUkloVXUtck1sTDBZQjRuV053UG50cFlQUHFwdUtrMjFBMFQtVg?oc=5",
+          "time": "10h ago",
+          "body": "Why trust in history matters while investing  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why trust in history matters while investing The New Indian Express"
+            ],
+            "tldr": "Why trust in history matters while investing The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1784003500427",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "18h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1784003500427",
+          "title": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGxnTW9wRXkzQ1dNakgxekV3eHZxVWRaWVVTOFVCYlNmN1p3bUwtOHdkUXVDUVlRcjBOMjJ0WTZFa205aExGMVRHZ0VPWDlsRVZ0bUpsVU1kZ2lJdVhnY0pmZ2JwbzJ4ZXBZMTBKb2F3VGJwQllZbFpNamVmU3JlOXFVOFExUF92bnRZODRKNVVZWU43ajZZTk1EZjRUNzcwYlVRVkwyRlJnejZWdWtXMjhkeE9UUklHdktKeFpyUFlTaVBFa0FhLVJrYXBlOUZwUm9aRGpLZUV2dW1jemc?oc=5",
+          "time": "6h ago",
+          "body": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why?",
+              "Sensex, Nifty Outlook Goodreturns"
+            ],
+            "tldr": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; Whe"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1784003500427",
+          "title": "Stock markets end flat as West Asia tensions, higher oil prices weigh on sentiment - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZm1wMHFvTUpLWm5CN1hEYzAxZVlVdEUwSWp3SHBNbmNvSGpiMmxuNnpYRHpyQ29POXNYRklLSHp6RkpqQ0x5cDQyR0ZKb2ZsVldHb055eTRzQjlGd0lYTHRVTTFfNk94ajY0b2FlMW9qWk9DWjRlRVZWWXZwYkpXZ190V2ZpcWpmS2w4dEZ3cDRIX2lid2ZPYUctMjR1Q3d6YzIweFVGcmQ5Vm9FQ1VFSEtOTG1MaVRrQm9xSjdoeWR6SU41ZXVPU3RLMDVmS2dz?oc=5",
+          "time": "17h ago",
+          "body": "Stock markets end flat as West Asia tensions, higher oil prices weigh on sentiment  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets end flat as West Asia tensions, higher oil prices weigh on sentiment Deccan Herald"
+            ],
+            "tldr": "Stock markets end flat as West Asia tensions, higher oil prices weigh on sentime"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1784003500427",
+          "title": "Sensex, Nifty Recover Amid IT Gains & West Asia Tensions - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDlLR29SbElyQl9TbTNudnc2SWhHWENJMTFIZlJSMEVvV3h6YldNOHNPQVhHby1QOUZMTTVwWTF4VXVONmR6REpEbmtETnAxT1hreUs2ejlaUmN4R1dFWkFMZ21zeDNpUTcyN2o2Rkp3WFhSajAtbERoWlJRb0NlWW5DbTFIWFNQNUp5SkMzdm9abEJ0NnB5VXZlbTBlU3pXNG8wX1NsUDd0b1JCcVHSAa4BQVVfeXFMT1A5S0dvUmxJckJfU20zbnZ3NkloR1hDSTExSGZSUjBFb1d4emJXTThzT0FYR28tUDlGTE01cFkxeFV1TjZkekRKRG5rRE5wMU9Ya3lLNno5WlJjeEdXRVpBTGdtc3gzaVE3MjdqNkZKd1hYUmowLWxEaFpSUW9DZVluQ20xSFhTUDVKeUpDM3ZvWmxCdDZweVV2ZW0wZVN6VzRvMF9TbFA3dG9SQnFR?oc=5",
+          "time": "16h ago",
+          "body": "Sensex, Nifty Recover Amid IT Gains & West Asia Tensions  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Recover Amid IT Gains & West Asia Tensions Rediff MoneyWiz"
+            ],
+            "tldr": "Sensex, Nifty Recover Amid IT Gains & West Asia Tensions Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1784003500427",
+          "title": "Stock Markets Slump In Early Trade On Rising Tensions In West Asia, Higher Oil Prices - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2hVV0VUT0Z6NFRVbzNrQk8xeEY4T0xIODJhd24tRFJzUXJxeUgwekN3Y3ZpaE5sdEJGcjAwei1tZnJEOGloTFdSa09neHhGYTNicGtwbjRXZE1BcTRIVG96SVE4MlQ2cFVEWkNVM1Vwc0tHbXdsd1VXSk9tRC16TFMzYlJwM05DYVZ3c1NiOXhBNXQtYk1MMjhDRjdUT2E2WXNXX0FHT1paQXNtYTdPalBPakFpaWJTXzdGMVhLclA1SEQ2c2fSAcYBQVVfeXFMTk9oVVdFVE9GejRUVW8za0JPMXhGOE9MSDgyYXduLURSc1FycXlIMHpDd2N2aWhObHRCRnIwMHotbWZyRDhpaExXUmtPZ3h4RmEzYnBrcG40V2RNQXE0SFRveklRODJUNnBVRFpDVTNVcHNLR213bHdVV0pPbUQtekxTM2JScDNOQ2FWd3NTYjl4QTV0LWJNTDI4Q0Y3VE9hNllzV19BR09aWkFzbWE3T2pQT2pBaWliU183RjFYS3JQNUhENnNn?oc=5",
+          "time": "23h ago",
+          "body": "Stock Markets Slump In Early Trade On Rising Tensions In West Asia, Higher Oil Prices  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Slump In Early Trade On Rising Tensions In West Asia, Higher Oil Prices ETV Bharat"
+            ],
+            "tldr": "Stock Markets Slump In Early Trade On Rising Tensions In West Asia, Higher Oil P"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1784003500417",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "11h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1784003501773",
+          "title": "Rs 19K cr AI data centre to create 10,000 jobs, boost MP’s digital ambitions - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZHI0VWQwa2NPMzM1akRjODR2ZlVoOEw3RXIxSFExSmVVT2JZOS1VMGN6cklHeDRvejZyWGdNS281Zy0tcFVRbm8zMUZNRUZyTm9KcUVLRWJBbk02Q3hrV2duZnl5U2VKT1lkQmNkTjEyUG5Tc2xxSDZsMzcwc3BDZmJiVDlZd2pFbURjSm9QSC04MjhHaDBwQXp5U2JiV3Jmek81bEF5ZjZ5SHotY3pzWmluUEF4R3hUN2daUHdBMmxhSWVxZHJtcFBsZFpDMWxUcU5iYTJ5aEFQbTJTLVB5Wlk0UWFNd9IB5gFBVV95cUxOZHI0VWQwa2NPMzM1akRjODR2ZlVoOEw3RXIxSFExSmVVT2JZOS1VMGN6cklHeDRvejZyWGdNS281Zy0tcFVRbm8zMUZNRUZyTm9KcUVLRWJBbk02Q3hrV2duZnl5U2VKT1lkQmNkTjEyUG5Tc2xxSDZsMzcwc3BDZmJiVDlZd2pFbURjSm9QSC04MjhHaDBwQXp5U2JiV3Jmek81bEF5ZjZ5SHotY3pzWmluUEF4R3hUN2daUHdBMmxhSWVxZHJtcFBsZFpDMWxUcU5iYTJ5aEFQbTJTLVB5Wlk0UWFNdw?oc=5",
+          "time": "9h ago",
+          "body": "Rs 19K cr AI data centre to create 10,000 jobs, boost MP’s digital ambitions  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rs 19K cr AI data centre to create 10,000 jobs, boost MP’s digital ambitions The Times of India"
+            ],
+            "tldr": "Rs 19K cr AI data centre to create 10,000 jobs, boost MP’s digital ambitions The"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1784003501773",
+          "title": "30 Lakh Farmers Accessed Maha-Vistaar AI App - fintechbiznews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWU4MzlqZ0dmRVhtU0w3LWphSFhKSmN1LVVEUUVQTk9KZWoxVlhDeFgybHgzbURDTkZzT0tzTjd2YjZJbFE5Q3BSUUM4S0FUajluM0NNZUxrRGJia3VlYjNuZFlQdkNmLVU0SzdIWEFGZ0Y3OS1PMHVoRUEwb3ZKcGpIVFlUMkhJbWQ3bzJHbHVPdnZhemo4Y21pVQ?oc=5",
+          "time": "21h ago",
+          "body": "30 Lakh Farmers Accessed Maha-Vistaar AI App  fintechbiznews.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "30 Lakh Farmers Accessed Maha-Vistaar AI App fintechbiznews.com"
+            ],
+            "tldr": "30 Lakh Farmers Accessed Maha-Vistaar AI App fintechbiznews.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1784003501773",
+          "title": "Future-Proofing Allied Healthcare Education: Preparing India's Workforce for the AI-Driven Healthcare Era - eHealth Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEpBZ2c3djN3VzlwVkZNb0xyQTBDZ1VBeWlxTzQwMlpqVzQwZGxhRUd1aE9hdVBuUGNWYmNJV1NLd1BpUUpWamRQVWtkbGVqRE44U3U2dEVzcmU4S2FNTm50MGY5S2pqRC1iYmhrRVJwb3Myd0w3ZHhQcjhZQVFIXzZOYlBJWjJhR0pWaUN4ZXJsTkVhRXdGVkF0X09jQkZDZ1JjN21zLXhfdWpRWXZhX29WTFMwZTVlZmNnalpmLV9ydUJYSmxIaFpUNzZRM3lpX1YtVm9TNjBpeXZJ?oc=5",
+          "time": "20h ago",
+          "body": "Future-Proofing Allied Healthcare Education: Preparing India's Workforce for the AI-Driven Healthcare Era  eHealth Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Future-Proofing Allied Healthcare Education: Preparing India's Workforce for the AI-Driven Healthcare Era eHealth Magazine"
+            ],
+            "tldr": "Future-Proofing Allied Healthcare Education: Preparing India's Workforce for the"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1784003501773",
+          "title": "India to prioritise terror financing, maritime security, AI governance at UNSC: EAM Jaishankar - malaysiasun.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjViY0lTMWo1RFpsbDlWNEpkYV9nT3pjNUtNbHUwM0Q0Nk9adDRsZTB5bnpwaElTcXpUOHdwaENFQk1LS2R4c1NyeGtDLUZoWmM0VWFLWWVaRnpoYWFnUnlHbzltZzB4TGFPaEd0OGMteFRtaGg3blE0dGJ3a2NuOExhMUtjelpJM2RpNlo0elpJUEt3MEM0QXRvaHN0ZDZvcnhlSXY2WlhHTWU0bW9HUjlpdVZJcFU0Wm9ZVjhDWGJiUDRyNm1kZFN1WW1CQQ?oc=5",
+          "time": "10h ago",
+          "body": "India to prioritise terror financing, maritime security, AI governance at UNSC: EAM Jaishankar  malaysiasun.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India to prioritise terror financing, maritime security, AI governance at UNSC: EAM Jaishankar malaysiasun.com"
+            ],
+            "tldr": "India to prioritise terror financing, maritime security, AI governance at UNSC: "
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1784003501773",
+          "title": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczBRR2o2XzJ4WkhQWXAzalFWQ253NEtITmJiTUhJS3dTZERzN1A4MWVySWdZLXY3emVrczNMZUsxVW1XcWZieVRFUUxHVjFaSklZUFpQTS1fY2ZpakhpZXpzSzhma3ZmZU9Pazc4RVFfS0dpcV9PVWxacEptS0VFNUl6b0lPbC1FWng3NEtXeHM2ZDlkSDZHbXlBbWJkWTgyTm92dnFQYzhaQXVuQTFnMXBmSWlHUQ?oc=5",
+          "time": "14h ago",
+          "body": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation hrtoday.in"
+            ],
+            "tldr": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Pro"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1784003501773",
+          "title": "Uttarakhand STF arrests accused wanted in digital arrest cyber fraud case - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjdMQlVjVjVaVmRXTEFYbTlvMEpEMjlwWjgtb2RKY3B0X1ByVGJxaDdKOUlveXYtSllUaVVQU0ZialpIcjhMbUU1U0VfUmxnMG1jVEhabkhDWEI3aExERVdQWElHWVhkdjVTdUpudTE0X0E4YVJ0aXZfSG9icGlOZVBqRHY4TDRmdHpJX3lQdkpNS0RSbnJ6dnJJMmlncVFlei1FWUpQZVRUbWdaN0Z2NzFlZlFvaHgt?oc=5",
+          "time": "14h ago",
+          "body": "Uttarakhand STF arrests accused wanted in digital arrest cyber fraud case  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uttarakhand STF arrests accused wanted in digital arrest cyber fraud case indiagazette.com"
+            ],
+            "tldr": "Uttarakhand STF arrests accused wanted in digital arrest cyber fraud case indiag"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1784003501773",
+          "title": "From ABHA to AI: How Ayushman Bharat digital mission is building one of the world’s largest digital health ecosystems - organiser.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc1VnNEJ2VGNKSWJWdVdiWGxQUXlnNW5zZGdqaWNMX1Nyb0pYc0M4aGhEQWR1YmJSZlpvcVNLdEEzR1hXc01Ga1F0LXY3NXRlM1VsUzIwMTRBX3hhZEV2QmRSZmR0RzhfcGI0X0ZudVFZMXZPUENUNS1VWXpha1dmZzB2UU1SSGpPUUNGVEJhWHM2N1FoaWtwekxYa0UxM283SVZxS3lKa1FmVTY0M0Fkck5jRnVZdXVFWjY2VzJqQU5OWWtEbHNrbEg2QTRyNTF2aGVYR3YtcXFLdjZocDdneEJCZm9sODBCNGRzVGc5SDF4RlNKMWNtN3FCUdIB-wFBVV95cUxNc1VnNEJ2VGNKSWJWdVdiWGxQUXlnNW5zZGdqaWNMX1Nyb0pYc0M4aGhEQWR1YmJSZlpvcVNLdEEzR1hXc01Ga1F0LXY3NXRlM1VsUzIwMTRBX3hhZEV2QmRSZmR0RzhfcGI0X0ZudVFZMXZPUENUNS1VWXpha1dmZzB2UU1SSGpPUUNGVEJhWHM2N1FoaWtwekxYa0UxM283SVZxS3lKa1FmVTY0M0Fkck5jRnVZdXVFWjY2VzJqQU5OWWtEbHNrbEg2QTRyNTF2aGVYR3YtcXFLdjZocDdneEJCZm9sODBCNGRzVGc5SDF4RlNKMWNtN3FCUQ?oc=5",
+          "time": "21h ago",
+          "body": "From ABHA to AI: How Ayushman Bharat digital mission is building one of the world’s largest digital health ecosystems  organiser.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From ABHA to AI: How Ayushman Bharat digital mission is building one of the world’s largest digital health ecosystems organiser.org"
+            ],
+            "tldr": "From ABHA to AI: How Ayushman Bharat digital mission is building one of the worl"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1784003501769",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "9h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784003501769",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784003501769",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNThXZ0JSNWZ0dWw5XzkyQUt4VDdqRUFpdm1MMXRqTUpzaWw0RzEzMzZOb2pfcTlLSlJzWDhaYXVPU0dQcGdyTHhKQTBtU0NEekNpTWtHNUZWSWR5cFdQMzBHRVBCTzJ3b0V0QzlYZFo3RDFCN3Q3S0pzOHlTSWRYczR2UlQtUjFuWTB4Q2VoNkk0aUg2aURpdFRENnBZbjNyTmc?oc=5",
+          "time": "23h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1784003501769",
+          "title": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ3ZmcWVzZGtFZE81UUVrQzFUTzdnWDhjbzBLLTl6RElKNG9rUS1yTFJTdUtVdk85T3hob3ZMYUtFTmdhVV9JX0paVUlEa2FuN1l4OTdRTmVTRU5tc25vNy1GaWV5U2tfa2xZMWFPVXhURGR0NnVWQTUyYVRqMEtDbnR2UDk5QmhXNVBTaGd1NWVjYndDRUxzVmFnOA?oc=5",
+          "time": "5h ago",
+          "body": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets News On AIR"
+            ],
+            "tldr": "Virat Kohli slams record 9th IPL century as RCB beat KKR by 6 wickets News On AI"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1784003501769",
+          "title": "Is Hardik Pandya Headed To CSK? - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEpqOXhyMGRRa05zZzFLckhEOWNEMFJqS3lsbmRaTTdVYkJQOVZmeHNMVzRwYkthRU1oOUtWODBzMy1wejBFQ1VYVVMxbmkybXN3N2xaN0dJSjlUNHVRYWp0djRfeXlfajcyRG1LVmczVjVKUm8xUGdRbzJBc2tOWTYxcmI5X19ZanV30gGLAUFVX3lxTE5wSmo5eHIwZFFrTnNnMUtySEQ5Y0QwUmpLeWxuZFpNN1ViQlA5VmZ4c0xXNHBiS2FFTWg5S1Y4MHMzLXB6MEVDVVhVUzFuaTJtc3c3bFo3R0lKOVQ0dVFhanR2NF95eV9qNzJEbUtWZzNWNUpSbzFQZ1FvMkFza05ZNjFyYjlfX1lqdXc?oc=5",
+          "time": "19h ago",
+          "body": "Is Hardik Pandya Headed To CSK? - Rediff. Is Hardik Pandya Headed To CSK?  Rediff",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Is Hardik Pandya Headed To CSK? - Rediff.",
+              "Is Hardik Pandya Headed To CSK?"
+            ],
+            "tldr": "Is Hardik Pandya Headed To CSK? - Rediff."
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1784003501769",
+          "title": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1N6LXhQczVWQjZVUEg4NGRfMi03QWp1WER5bW1aQS0wUnpGOUVlX1NSSDBXSWhtS1NoOVNESjdIM2pKQWlJMXBKSUM3M1FyUWFHZHk3cnlBT29LQUFscUlURWVIbU1XcUNvRjNPalNZX2tzOVM2d3Bma2taclkwOGxXVm5XeUtzNjdISG1rZENWQkNXcFhWY2xqYzNidzgwN01kMXg3M0t4Q2FXN3FGMTF2RkltWG5rMk9DQThpOFU3WWJTUkx3WnpGaFktR1o1NnJTRkEwNnhnQTZPb1E?oc=5",
+          "time": "18h ago",
+          "body": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches  Goodreturns",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches Goodreturns"
+            ],
+            "tldr": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matche"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1784003504216",
+          "title": "Team India look to shake off T20I hangover as road to ODI World Cup begins",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "After a disastrous T20I tour, India begin their ODI World Cup build-up against England at Edgbaston. With injuries forcing changes, Shubman Gill's side will look to reset, test combinations and lean on the experience of Virat Kohli, Rohit Sharma and Jasprit Bumrah as preparations for the 2027 World Cup gather pace.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After a disastrous T20I tour, India begin their ODI World Cup build-up against England at Edgbaston.",
+              "With injuries forcing changes, Shubman Gill's side will look to reset, test combinations and lean on the experience of Virat Kohli, Rohit Sharma and Jasprit Bumrah as preparations for the 2027 World Cup gather pace."
+            ],
+            "tldr": "After a disastrous T20I tour, India begin their ODI World Cup build-up against E"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784003504217",
+          "title": "Virat Kohli, Rohit Sharma close in on all-time India ODI record in England",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Virat Kohli needs 68 runs to surpass Rahul Dravid's tally of 648 runs. Rohit Sharma requires 239 runs to move ahead of Dravid's total. Dravid currently holds the record with 648 runs from 20 matches. This series presents a big chance for Kohli to claim the top spot.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Virat Kohli needs 68 runs to surpass Rahul Dravid's tally of 648 runs.",
+              "Rohit Sharma requires 239 runs to move ahead of Dravid's total.",
+              "This series presents a big chance for Kohli to claim the top spot."
+            ],
+            "tldr": "Virat Kohli needs 68 runs to surpass Rahul Dravid's tally of 648…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-2-1784003502969",
+          "title": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]"
+            ],
+            "tldr": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, "
+          }
+        },
+        {
+          "id": "mumbai-general-5-1784003502969",
+          "title": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]"
+            ],
+            "tldr": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1784003502969",
+          "title": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher....",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]"
+            ],
+            "tldr": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offe"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1784003502969",
+          "title": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]"
+            ],
+            "tldr": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1784003502969",
+          "title": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]"
+            ],
+            "tldr": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with mur"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1784003502970",
+          "title": "Indian student drowns in Germany; four questioned",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian student drowns in Germany; four questioned. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student drowns in Germany; four questioned. [object Object]"
+            ],
+            "tldr": "Indian student drowns in Germany; four questioned. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1784003504458",
+          "title": "Was helping citizens, had no grudge against doctor: Shiv Sena corporator seeks bail",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/kdmc-hospital-assault-shiv-sena-corporator-ramesh-mhatre-bail-plea-10785055/",
+          "time": "8h ago",
+          "body": "Was helping citizens, had no grudge against doctor: Shiv Sena corporator seeks bail. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Was helping citizens, had no grudge against doctor: Shiv Sena corporator seeks bail. [object Object]"
+            ],
+            "tldr": "Was helping citizens, had no grudge against doctor: Shiv Sena corporator seeks b"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1784003504458",
+          "title": "Teachers on SIR duty protest sharing of personal phone numbers, cite round-the-clock calls",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/sir-teachers-duty-personal-numbers-sharing-10784944/",
+          "time": "11h ago",
+          "body": "Teachers on SIR duty protest sharing of personal phone numbers, cite round-the-clock calls. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Teachers on SIR duty protest sharing of personal phone numbers, cite round-the-clock calls. [object Object]"
+            ],
+            "tldr": "Teachers on SIR duty protest sharing of personal phone numbers, cite round-the-c"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1784003506624",
+          "title": "Beed police’s AI platform clears test, may transform criminal investigations across Maharashtra - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPc083SENvc0UtejlLV1htOUlOOWVhZ0VWUFBrcUlBTXl2WVRpT1Nfb3V6QmY2UGNlNDk1X2NOWW5WUTZ0WXRCRURQYjZfbVV2ajE5bHdzVnN4aF9VakZMVFRLWVdtd0NGM0xtSUtXc1laMmJyN0ttc2FUMzNtZmhYWVVwckhIaWdabUlRNlRrT3BWWThkakc3MWxxQ1M5LTBUcF9uVWpuemdzX1BaQzZNSTNOb01Xa3had3RzTW5IRGNoVk8zbGpCd2JDVExpRlAwa3hScUQ5NE5XVWZDaDd2NFJ0Yjg3TmhZb3BKRFZIamlJWFp1cUpVRklFT1RNeWxK0gGGAkFVX3lxTFAyeGcwVmtrbnVSLUwzM1N5TjRwbjYzcFVLNzFOMlVCNlQ0U3JNOWhJVk5XY0s4QkNFMld0ZHBRMXl4VU5oM2JCUVVydXhGUWNSM3VULXh1Qi1Hak9LWFhHdm9kdHlzRDdpaFQ1TUFRdzJCckswM1p1Tzl1RTJQQlE2MEtLWkNHQldZd3BQTmdPcnhWTFd2cFNhZUNJcmhQbEZoTDFyUXpqRkdMSnJYdHp2LVNHR0Jxcm05V3RVYVJDYlFkbzNYNDB0dzVaNlp0a190ZjdTSlBNeWc1UV9NN0s1VXFBSWJPNkpLMGNWV05GVjFtdFFxMncwR3ZwRnZGVVd0RmJrUHc?oc=5",
+          "time": "11h ago",
+          "body": "Beed police’s AI platform clears test, may transform criminal investigations across Maharashtra  The Times of India",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Beed police’s AI platform clears test, may transform criminal investigations across Maharashtra The Times of India"
+            ],
+            "tldr": "Beed police’s AI platform clears test, may transform criminal investigations acr"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1784003506624",
+          "title": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "12h ago",
+          "body": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 13th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1784003506625",
+          "title": "Kharif sowing gains momentum across Maharashtra with revival of monsoon - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0VuMXU2M25RaFliRkp1Sm9CcnY1UlN0c1JXZ09yZUxISGpNVWNtclJLZ3JkWnpUVzZmX1V1UUlTa2FPZ0Y5MU9lUmgzOW9NVjlCd0dDb0FMQ3VUaHY0ekxJYnBIbXVia184TmRkRGJwRUc0V0lOdm9fWWpSa3hCNjREdkpVS1Y2aVlhc1dEUDQwYUoxNjZNOFFVX1hwQQ?oc=5",
+          "time": "7h ago",
+          "body": "Kharif sowing gains momentum across Maharashtra with revival of monsoon  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Kharif sowing gains momentum across Maharashtra with revival of monsoon News On AIR"
+            ],
+            "tldr": "Kharif sowing gains momentum across Maharashtra with revival of monsoon News On "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1784003506625",
+          "title": "Maharashtra minister Sanjay Shirsat targets Aamir Khan over third marriage - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTVjUEt6T2h5WVpYdzVHcWo3WXhkekVxZHo3YzlHY2NfT2dWbzgzbjd0c0hiUnB2SHZtRk9mMmVhX0VRVlpzWDhwUUZPOHNXYUttbFkwV240SmVWWFBFQ0p4NlhnOUZwSklwbGhVbUd5UmN6cVd6SzBkODJvZG1WS182c0dRaXdMVGNTZjZWalphZ2xRVnVza0V2M1dpZ2gwTXAw?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra minister Sanjay Shirsat targets Aamir Khan over third marriage  Telangana Today",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra minister Sanjay Shirsat targets Aamir Khan over third marriage Telangana Today"
+            ],
+            "tldr": "Maharashtra minister Sanjay Shirsat targets Aamir Khan over third marriage Telan"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1784003506625",
+          "title": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF - PW",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CcEx0VU4xWFBsQkowcWpxaVZiVE8tVndIVVhzNUx5eDNzMHdkRVJ2Wkc4SXpscjFRZnpNTEpmQ1c0TjdHdnRDZ3N5NDhmc3loekFwREVhYjJLNXY4Mng1c0dYSGVLUlVVRW5RdGFYV1NocFVSODNvZEZ3?oc=5",
+          "time": "Just now",
+          "body": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF  PW",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF PW"
+            ],
+            "tldr": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Meri"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1784003506625",
+          "title": "Mumbai Weather Alert: Will It Rain In City, Thane And Palghar Today? Check IMD's Forecast For Maharashtra - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd0QzVXJNcEVkSjBhZzgxeGRwNlFUUTlwMG1jLW05QS1ublAyRkhRZ3NFZmcwYTdWekJsMVhLeEdfaEdKa0hKc0JaRlZ3cDJpY0NqRDlyTkV0V2E5VnR1ZGs2V0NyNjZlbUdCVGRYbFlzMWt0V1lBbTY3ZHdpVkxUYXkxcklhaFVLOGh3aTlhcUIwMU9LbzZ0MkVsV01HTzNNbDRiZnMxYWJKU3ctNFpXRW92WV9TUVREdTBQTU1zUERsX292V0szbFk0dmFxY2FKX0h2MVE5VTBZVjTSAeMBQVVfeXFMTTNwN1E2akdZSC1RbV9GMTN5ODZ0ZjR1c0dabU5VLTg4bFdLbXQ2NGZaaHRQUk81cFVQSFBjb2JJWnJFU20zSVFHRmFjTnVxRkFUSWJIS2FXSUlFRXRoR1d5elV1clIzZXl1VVYxbHJoNEtJYzc0eERJZzU5Z050NDRYd1JCNEJpV0Y5UzJEN2lYd2xjMFFRdFRxU2xyRF9VdkFoVWF1TGtzYzdnTm9YTDRnOTBHaHZla0ZzRllYdE5IYVdXNERoZWQ2UVY4RDN4TWhpWVVBalQzdzF0NDE4RVZZelU?oc=5",
+          "time": "2h ago",
+          "body": "Mumbai Weather Alert: Will It Rain In City, Thane And Palghar Today? Check IMD's Forecast For Maharashtra  NDTV Profit",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mumbai Weather Alert: Will It Rain In City, Thane And Palghar Today?",
+              "Check IMD's Forecast For Maharashtra NDTV Profit"
+            ],
+            "tldr": "Mumbai Weather Alert: Will It Rain In City, Thane And Palghar Today?"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1784003506625",
+          "title": "Sudhir Kataria Joins JSW Motors Limited as Associate Vice President – Head of Enterprise Applications & Plant IT - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2FOX1d2THJkMVJDSkVHV0YwSVNoRXZUeFBTeVRSYi1NeGRodkxzdW1xVFZnVmZXSTlZT0dlWTJrVFNVVDAzX2E1aVN0YmZ4YXFib2xOaTRHdUhtamhDZGM3UDdGVUVtNTNsdHFiMG1pWGNQVzY3d0tnSFVoV3ZoTmZTTlBkbFV6V1JXQzVnNEFyNl9zZGttWUdtNjFkNjBfaUNVb3VYZ0E2STkyOWRFQ1luWnR0Vy1ja1FXRlVWSnNnbjFHZEtF?oc=5",
+          "time": "17h ago",
+          "body": "Sudhir Kataria Joins JSW Motors Limited as Associate Vice President – Head of Enterprise Applications & Plant IT  hrtoday.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sudhir Kataria Joins JSW Motors Limited as Associate Vice President – Head of Enterprise Applications & Plant IT hrtoday.in"
+            ],
+            "tldr": "Sudhir Kataria Joins JSW Motors Limited as Associate Vice President – Head of En"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1784003506625",
+          "title": "​Illegal hoardings mushroom again in Sambhajinagar on occasion of MP’s birthday - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSWx1S0hKdHBmSkpVMWoyb3hodTZad0Q0NDZZVXRkX2dHNlJKQVBlQ3MxNk5MR2pFWWgwWHFfcW13T1FJVkUtNGFkcHh4bTdCaXZINVUxX1dsc1U5YkcwQXBWejNxNGhjbXVzYy1ha1VaSzJtOExjRklsN1JpaFhCaWxxR2RmdTdvTHlLdXFidFpBclUyalVQVmcwR0FuamhvcktkNEFPY3JTWVM0d2c4WGtsdk9adXFqN2o3V2RUVWlHSWp6YXhnaWYtVkh5aHh5dnAzUFFXaUJyQWExY0U0cTh3WW16a0xDcHBV0gHwAUFVX3lxTFBFUFRhRjdkY0swRUtSdVJ0aUs0Ym8xRGlZb0pfU0tVY3NKME5OSnZqSG55dm1RUVdNbm5CWXZKbGlaWWRVa3JZZUk5WFlOc3BxQzZFODZPQUM3SFF3SGwyR1ZYQUxIb2RURER5MjBVMFRBdF9NVWJPMy1YNnRIbTl3Mnhic2FhbXBBUzIwSGp2R0gxVGpaWl9feEpvZjlCcHdGYWpkclkwaE43ZDltenZKajVjbklOb0swdDV2eWxsNlNNdG1oTHFYREVlT09vWFNRXzlwM3ljUjh1SngyQnBtOFppU3Yxei14NE5jUXkzMA?oc=5",
+          "time": "9h ago",
+          "body": "​Illegal hoardings mushroom again in Sambhajinagar on occasion of MP’s birthday  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​Illegal hoardings mushroom again in Sambhajinagar on occasion of MP’s birthday The Times of India"
+            ],
+            "tldr": "​Illegal hoardings mushroom again in Sambhajinagar on occasion of MP’s birthday "
+          }
+        }
+      ]
+    }
+  }
+}
