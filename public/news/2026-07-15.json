@@ -1,0 +1,791 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T04:31:29.206Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1784089883773",
+          "title": "Mumbai Diary | Sr Pawar’s dilemma over supporting NDA on bills - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObVpuT2tDWXJrRk1Yc1hncGtxbmFnQ1NURUJmMEI4eWJDVGpWRm9odUhvbGRBRkNNWTlCQko4TEFlbmdTNmhXOHRNdkdOZ1JMNHMzS05rWDlHVWZpZm1HbjltRm1TeGEzZVFnYmpaLXBqSXRCbTI5cU90dkpReUk2M2NGa0RSUTBidjgydEttbXRUb1BUYUpyZE9kTDctT2puYXhHQW54YmptY3UxdTRN0gG8AUFVX3lxTE11ZnZxTGZQWFRyalJLTW9OMkhJMEFnQ2NtUVRRaGZjN2RJT0Qzc3J5VXp5ODNpT1hCUXdlX3R0LXpTODZJbXpla3VJZ3pmTGRuUFVVTzlpVklfQm5rck02akh1S3BVMklFcVdmUXQzODNEdWp6dkpuSXVHNVVlbzU4VS1VSlhkQ1VpbjBpQXcyTS1jQVZzZ0NJOHZyVFZuWXVpVjRsZlFTRjdHZHB3WFhsWFg4TndqLVNQZXRB?oc=5",
+          "time": "1h ago",
+          "body": "Mumbai Diary | Sr Pawar’s dilemma over supporting NDA on bills  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Diary | Sr Pawar’s dilemma over supporting NDA on bills The New Indian Express"
+            ],
+            "tldr": "Mumbai Diary | Sr Pawar’s dilemma over supporting NDA on bills The New Indian Ex"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1784089883773",
+          "title": "One NCP Again? How Sharad Pawar's Next Move Could Reshape Maharashtra Politics - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdmE4Z2JsWTBiNUNOZFZzalFuV0pKTExTRm5JaWl6ak9DcGZ6d3NuVlZzYVFKWnJKSS1FT3ZiLWFCQU9HamJabnNMWU9WMXRoZUdRUXBJUEZPcHIxcWdSaUY5ZEszdGcxWlJLLVFTYUxoWVZtUXk3QV9rdDROQmJxLS1nb0NYNlVzSTR0S3VURWNHV3pMZV80OG5LaWR5emJLZjZOZVJwZm5ERTFVVS1qc2hDdWlheWtkek4xRU1Yd1hmdGVDQVNXaWhKMFJFS19UMXVEczlESFhZWXJEaGo2THBsZlRMUlJyVGNNZFJFTGxsVG1Tc3RhUTlmeU9Qcmg0LTQ1S0Y5SdIBhwJBVV95cUxQdmE4Z2JsWTBiNUNOZFZzalFuV0pKTExTRm5JaWl6ak9DcGZ6d3NuVlZzYVFKWnJKSS1FT3ZiLWFCQU9HamJabnNMWU9WMXRoZUdRUXBJUEZPcHIxcWdSaUY5ZEszdGcxWlJLLVFTYUxoWVZtUXk3QV9rdDROQmJxLS1nb0NYNlVzSTR0S3VURWNHV3pMZV80OG5LaWR5emJLZjZOZVJwZm5ERTFVVS1qc2hDdWlheWtkek4xRU1Yd1hmdGVDQVNXaWhKMFJFS19UMXVEczlESFhZWXJEaGo2THBsZlRMUlJyVGNNZFJFTGxsVG1Tc3RhUTlmeU9Qcmg0LTQ1S0Y5SQ?oc=5",
+          "time": "1h ago",
+          "body": "One NCP Again? How Sharad Pawar's Next Move Could Reshape Maharashtra Politics  News18",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How Sharad Pawar's Next Move Could Reshape Maharashtra Politics News18"
+            ],
+            "tldr": "How Sharad Pawar's Next Move Could Reshape Maharashtra Politics News18"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784089883773",
+          "title": "Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journey - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2VtRzFBS1JmcmJISHVDX2lrbF9BaW1GcU5XNTRQZ1NsR2dTRk04MzJsdkhlZDhLaUJFUXBFZGZDRFJQczZ6cTh1Q1hUZXJ3SmdmUlRmREhNc0dkYkZfc0UwYTh1RHEtdGI2ckRNVVh3WkJGYW5velRDUW94MWpTZ0d6aGNackhOQzRYUW5HdVNrdVE5U3RtcdIBnwFBVV95cUxObm44YjZ0Y2d0VDh1dWdnVkJDSTV2Yk5Nb1JJSXhFSTA2S3JtUk5qUmg2Tl9iSU9MZmxYYk1EOEZ6SVd3cmdBdTlOZnJiS0FLWXFxQl9qNG9IZmxMUUNPTXZ2RWxBYm1EOFZnakZCSElUUDlSMnB1UWFNeTByWDdJcmVleThJaW82UTAyalRyemRFRlRsSGJrdDMyMVRmdE0?oc=5",
+          "time": "2h ago",
+          "body": "Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journey  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journey The Indian Express"
+            ],
+            "tldr": "Pre-poll masterstroke, post-poll burden: Ladki Bahin scheme’s Maharashtra journe"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1784089883775",
+          "title": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm03dy16RHc5X1JFNlZuQ2dROHNoMC1VR1V5c0VSenV6S29XZzVjb0g3VktjZEZhdHpSR2ZRdWJmZlZ0cFB5WlplRktHeUJGSWcxTjZsXzJEQkgtVWpXODBwRmJIejhERlp1Xzg2Z1B5NF9KQWhFUW9FQk5oWVA3cVNjS0FQQ2xhVTZ0LWtraElhUTZNaXZpZk8yYVBWS1hibkJsVHV4aTdWSmlPdl9LLUpFWTJkdTlJ0gG-AUFVX3lxTE1wVFlPd21xWl80WnhPeFg1cVphNGYxNmtfMmNsSUQzeGtvaXVLamd4RmNlZ2c2eUVObVVmdkVsYlduYko1bmpGZ216eWhGRG5DOGVCc3BVNjdPdVNwN3RkRUVpTE9fSE15ODVxcEtWWTZLRF9rUzNxTEMxd0VveVA5Qm53VDVpRUJyb2w5eEJEZW1xalJfWDM2Zk1MYzBKazRtU0FIVjUtQ056cTRNSU1iaTZnVHowcnhadzlkZGc?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women ThePrint"
+            ],
+            "tldr": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for wom"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1784089883775",
+          "title": "TET 2026 postponed due to police action, not paper leak: Fadnavis hits back at Rahul Gandhi - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOR0xSc1p1THgzcVlBckZWbFp1Nll0aWJyMXhhYm1hZWRYNkI5cmdaRGU1ZURVVC1zQlBhMUR1aHBZa0I0anNsVGUyX3hvZ0NaTGJWY3otRXp5LTk2SjdoOGhVX2dqN192bGJ5Q1lHTERYSTRRNlJWeWtHdjdOQWdHVDY5dXZPUVZkSU9RRzFfNEtXZGFiNW5xN19Jb3lNdWVkT3pvRWN6MFZJMGRqTTBaUjJpVUtjT0tvVUNHbFVUS2lvZnJMeWNPVzlPaHlSVTMydHI2Z2x2bGdwaXAxcVJpaEhtbXpfazVMSG5CenBNcVVTdXF3aWhWb1poWUHSAfwBQVVfeXFMTkdMUnNadUx4M3FZQXJGVmxadTZZdGlicjF4YWJtYWVkWDZCOXJnWkRlNWVEVVQtc0JQYTFEdWhwWWtCNGpzbFRlMl94b2dDWkxiVmN6LUV6eS05Nko3aDhoVV9najdfdmxieUNZR0xEWEk0UTZSVnlrR3Y3TkFnR1Q2OXV2T1FWZElPUUcxXzRLV2RhYjVucTdfSW95TXVlZE96b0VjejBWSTBkak0wWlIyaVVLY09Lb1VDR2xVVEtpb2ZyTHljT1c5T2h5UlUzMnRyNmdsdmxncGlwMXFSaWhIbW16X2s1TEhuQnpwTXFVU3Vxd2loVm9aaFlB?oc=5",
+          "time": "14h ago",
+          "body": "TET 2026 postponed due to police action, not paper leak: Fadnavis hits back at Rahul Gandhi  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TET 2026 postponed due to police action, not paper leak: Fadnavis hits back at Rahul Gandhi Mid-day"
+            ],
+            "tldr": "TET 2026 postponed due to police action, not paper leak: Fadnavis hits back at R"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1784089883775",
+          "title": "Fadnavis challenges Uddhav to read 'Ram Raksha Stotra', calls him 'frustrated' over protest plans and support to Wangchuk - thehawk.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaC1KVHY1R3VIRVI2WFByOVEzRllOXy1ITGo2c21ZNjVLUWlWM0ozVUdVTHVTX0ZHR3liNW1NOVhkVXhFZkdmYXdXSWVSRzdjMmFSMDJfT0NFV1RTR2lYYUFkX2JyUlo3NHd3TnEzeVpWdWtyQnZGbDlUbU8wUVRaY3ZqOG5kNHl0OC16em41bHdQckVpYk5XLTFmYzVnZThUQW1NNjdPZTFRZ3VCODcydWFsekQwMDNmYXQtYWtKN3NiMWxZbXNmenI2V3NiTzdFdWRBcExDbEtRVzJBRGlUN0w4eno?oc=5",
+          "time": "14h ago",
+          "body": "Fadnavis challenges Uddhav to read 'Ram Raksha Stotra', calls him 'frustrated' over protest plans and support to Wangchuk  thehawk.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis challenges Uddhav to read 'Ram Raksha Stotra', calls him 'frustrated' over protest plans and support to Wangchuk thehawk.in"
+            ],
+            "tldr": "Fadnavis challenges Uddhav to read 'Ram Raksha Stotra', calls him 'frustrated' o"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784089883775",
+          "title": "Maharashtra cabinet approves Urban Challenge Fund to provide financial aid for civic infra projects in sm - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPVkg3T1ppX0xtRFV1M3hBOW15VndkNnJfY1NEYlBDWnJuWGFuMndHYVA2TE1vZG1KOXo4Q2F4VEF1VGJXemI5QXZRRVY0RTk5eW42V1R4VG02LVJiRWFKcVBYZ1ZfR3g2UHJpNXVPNWtGLUNBaFUxSkI3bVdLelNEV3p0LTdER0h1MEtZcXVDZzhtZkhWLW5qT281VjNaenVHZ0xReTZ4Y3FiZ2laMWVldkk5MlF5UHpiZWFpUkVKVXltX3oxWXg5M29jQzZ1aG9SakQ5NW5jcXBOaTRYOEhDcGhKdUc0ZGJvWFNuY2FVbk4zeXl4VWZKZXpxdmRzOXM4dTg5Rm9lWDh0bG11OG1SMUpaVUFsSVAwcjhoME5paDV3RnpraTU40gGsAkFVX3lxTE1LcDdqTzFxV21CX2Rva2h1SXlYRTF5V242Q0pYeXhCWER0MndCUkVDVVRYcjNtbUZQZzJua0pEaF9fS0FCV05VcmhxdlQtdjlXNEVsZldtb1BPVDhQTXh1VlROdWJHVVJOUk95M00yT2t3VTR3TTBrU3JoU0ZsWUVXOTJMZDFBdVlDYjdJLXBSa2FJeVplTEtQX3JkUkF5T0lXVTMtanRIdmJibXNwaS16RXJKTGdBNkVDbkV6dG5sc2g4YU1YOWRFVWx0dEp6emRjN2tyR0tPUjM1WTlBT3dkc1NyR29WZkdOVEJFMldvWnRrbkk4b3BITWI2VjZ4VjlzZEswemljYmVuV0pQQVpVZGd4M1k0WUMzQUFWX3o1Z0ZFYTE3bDROR0F4WA?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra cabinet approves Urban Challenge Fund to provide financial aid for civic infra projects in sm  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra cabinet approves Urban Challenge Fund to provide financial aid for civic infra projects in sm The Times of India"
+            ],
+            "tldr": "Maharashtra cabinet approves Urban Challenge Fund to provide financial aid for c"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1784089883775",
+          "title": "Fresh churn in both NCP factions after late-night meetings with CM Devendra Fadnavis - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd2c2RUpYNzA5dUtQZXlaSWZMTFJoUFllRXEtVExNTUhCbEVoQjk1X3NOUXhQZEZoOS1aZ2lhcnozU0RaVWVUVW5TZS1VbmVhaTN3dW9RYU5obWVqSnV2NlVYSV8yOG1WaTFWZkF5OW9zWWNlTWpYY2pUNVFpQk5pVkM1cTBJS1puTWVzZGVLdWpWVlFNNjBDMFh3cG9hMUpBbzJSRXZLMVlQS2pfWElnS3VHTGlBZER4R0VFblNNSEh0b19IR3NLeFJGOXIzOU5ra2sw0gHTAUFVX3lxTE13ZzZFSlg3MDl1S1BleVpJZkxMUmhQWWVFcS1UTE1NSEJsRWhCOTVfc05ReFBkRmg5LVpnaWFyejNTRFpVZVRVblNlLVVuZWFpM3d1b1FhTmhtZWpKdXY2VVhJXzI4bVZpMVZmQXk5b3NZY2VNalhjalQ1UWlCTmlWQzVxMElLWm5NZXNkZUt1alZWUU02MEMwWHdwb2ExSkFvMlJFdksxWVBLal9YSWdLdUdMaUFkRHhHRUVuU01ISHRvX0hHc0t4UkY5cjM5TmtrazA?oc=5",
+          "time": "9h ago",
+          "body": "Fresh churn in both NCP factions after late-night meetings with CM Devendra Fadnavis  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fresh churn in both NCP factions after late-night meetings with CM Devendra Fadnavis The Indian Express"
+            ],
+            "tldr": "Fresh churn in both NCP factions after late-night meetings with CM Devendra Fadn"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1784089883802",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "5h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1784089883802",
+          "title": "Markets tumble in early trade as rising oil prices dent sentiment; Sensex drops 553 points - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYTg2Yk1WZnRWSnhCU0JFRUVGNlJETFVqVlQzTjJ2ZnlrME9ObXNTYVpsZEJMMndfb0RoeXcxRnVMTTh0bUEtNzFRTXR5QXlFcWNSSGlHdzgzRWV4ZVZzN0Z4T2VCam5DUzdGSWhkQkJONTBlQTJHWlVFaVdOUS04NVlGQVlqd0FQNEFmSEpQdmRiOU16cmVNckhiR2prVnBad2x3VnVKd3JJMS1ISHNmbmNlbGJYRHVsY3JsdFN4cVo5ZElLcmxMTGk3aUotZWtsWXlwSzdXcVMxUzhXOHY3M3dCLV90QdIB7AFBVV95cUxNNUFRQTV5MHB1VHdUN3gwSkJMNjZWRDRMM1FjemNvWGI5LTNEWTF1di12N0dnRWZGSlZhVlM0aWVaU2I5S2p0TTFiVzE5cXM3U2pSOTVHU3dQNjRnWGIxWmpoVFpzUGVvLUlpbk1raVFybTAxeG10S3NwUmFlZ2RkRWRRcF80RlBwUW14SXhLaDRsbkVkU3lmVnFnYjVJazJZaUdIaEZldndiQjBsMmJRZ0FiMDQwVlhBMUo3TVR1Ym1ER0NKYzZ1OGEtWHV5SWdkM0lKRnRBMzl5LUJDUXNTV3dKVkx1OWFyR3AwNA?oc=5",
+          "time": "22h ago",
+          "body": "Markets tumble in early trade as rising oil prices dent sentiment; Sensex drops 553 points  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets tumble in early trade as rising oil prices dent sentiment; Sensex drops 553 points The Hindu"
+            ],
+            "tldr": "Markets tumble in early trade as rising oil prices dent sentiment; Sensex drops "
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1784089883802",
+          "title": "Sensex Nifty Fall: Oil Surge, West Asia Tensions Drag Markets - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZk9nTXB3YzBEdnRZckpGOXVlVUtjQkFVVHV4VVR6Z0FOcWVlbWp4RHBaM0Y5YzIzY1lnTG9ONVh3RG9uSU9xSlRQSWpYNjVfNndEcHR0TVREU2pJd1dkYWYxU3h6N2d4S1kyLS1oX3dzMlFmbTJ3bVNfaWMwanFkOF8wNEthenFMNDFFcUU4bHo5SnNVUGpRdmQwVjViMFR0WG5VbEdMLTdPc3JmWlhfZNIBtgFBVV95cUxQUUhlUDA2bkptTXhXcXlGbHY3RXBBbTFMbDBnRE54MW9KRUYycUdESkJnWVBtWExqZGZBRXo4MlZNb04tYVpnWnJqU0RJUTBpZk1qMG5fUUdqUHp1VjRDeHdRVkFJY3JxUnZvVVFUeU9vLTJpWmtHdC1wYTQyRzRzU2RyYk1SOUttNGNHV2hnMXA4aTVRSThjQVJTc2tIeWxWU3ZIRmpzaGZ6QjBxakFLV3JWSUIyUQ?oc=5",
+          "time": "16h ago",
+          "body": "Sensex Nifty Fall: Oil Surge, West Asia Tensions Drag Markets  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Nifty Fall: Oil Surge, West Asia Tensions Drag Markets Rediff MoneyWiz"
+            ],
+            "tldr": "Sensex Nifty Fall: Oil Surge, West Asia Tensions Drag Markets Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1784089883802",
+          "title": "Sensex Drops Over 560 Points, Nifty Slips Below 24,100 Amid West Asia Tensions - Ommcom News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTDc3T3lENzJFdlRBREdjZWhORTc2akQzQTNDX2NLRmVZQng3WWM1d2NHMEU2NkRicDNSbHdQNXVidURaM0F5TzBraUcwT2J6M3FYNmZtLTBmUmxCQnRraTdMd0R5MWd4ZWhONEJLaGZxRkUtbHdwczdHZ1BVTmlvVUg2ZzBrelNWM2F3alE1aDNUQk1vazh2aFN0OWRzejl1RXhFSXNVWDdjbXdxU1N2ZTRlQXU?oc=5",
+          "time": "17h ago",
+          "body": "Sensex Drops Over 560 Points, Nifty Slips Below 24,100 Amid West Asia Tensions  Ommcom News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Drops Over 560 Points, Nifty Slips Below 24,100 Amid West Asia Tensions Ommcom News"
+            ],
+            "tldr": "Sensex Drops Over 560 Points, Nifty Slips Below 24,100 Amid West Asia Tensions O"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1784089883802",
+          "title": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2JzQUJabDhtVHRIaHQxMktTVVFtd0lWWmtTR1ZwLWN3dlVnS0tEQVZyVVhZWEtIWUNIZm9pQVdqbV9JNkR6RW9YLUNsWFVLMXJSMXlHdkxjTkdESk5YXzM1eDFHZ1BFc2psSHJjY0V3eGhfTEFrYVMxZU1HbG9PTjA0QUh1QUFDTmwtTjhfTGNMY1VVdzFzanNRU0RVUm9lTEphNVJKRlpZOHFfaTNIX09XVC1Fd2VHdWl1VzAxcVFKb0QwREgyRnNCQnZhQWhtRnVMaXlJWlBPeFVsUlE?oc=5",
+          "time": "20h ago",
+          "body": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows Goodreturns"
+            ],
+            "tldr": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Am"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1784089883802",
+          "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
+          "time": "18h ago",
+          "body": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias Goodreturns"
+            ],
+            "tldr": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trad"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1784089883802",
+          "title": "Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1ZScmptWnF3dmRnSmNlSlZzQzhGYlpBZElzckd4bEpHVEFROG9WeG1qak5Sd3pTOHBnNjVrZ0dISWJBRlYtbWRhdmI5Q25Gc1NFOXlDV3dFblFRblNuU1NNMl9fTHRhZlVpc2tYRTZ4WmdWSWxyVGVBc1JobnpsamtJdGNqems4SFNNTjctRy1QRFluSENaSXNVSWwwX0pxbEV6YzVXQUtROU02WGgwanY2TWNKLVBNNmNFMmNaTUxuZGJkcG5YeFJzNkdfLUVZQ012VFd3?oc=5",
+          "time": "17h ago",
+          "body": "Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street  ANI News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street ANI News"
+            ],
+            "tldr": "Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on D"
+          }
+        },
+        {
+          "id": "mumbai-finance-9-1784089883802",
+          "title": "Sensex falls 500 points, Nifty slips below 24,100 amid US-Iran tensions - National Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHV5ZkdyaVhabDVRZlMtMVFZUm14VWYzUUpMWnp4VUxNVzdSSjBTTEg4MWFYNk1YNkMteFY4YVdTOWFDamhsSXhRNWtTd1B5SlRaRHJsNUJFVDlqdU0zWGx3b2hQSlRRQWpzLURhQ2JVUjBGM3daVmdnNndKVUxtY1o1azRudTFIMWxCNDJPTVg0S05nN3pxMmJXNnI4ZDM2Vm5sU1E2MHdKT0FFYmZYZ0pJMkMyQzAwSDEwOGVTYk1vQdIBwgFBVV95cUxNcHV5ZkdyaVhabDVRZlMtMVFZUm14VWYzUUpMWnp4VUxNVzdSSjBTTEg4MWFYNk1YNkMteFY4YVdTOWFDamhsSXhRNWtTd1B5SlRaRHJsNUJFVDlqdU0zWGx3b2hQSlRRQWpzLURhQ2JVUjBGM3daVmdnNndKVUxtY1o1azRudTFIMWxCNDJPTVg0S05nN3pxMmJXNnI4ZDM2Vm5sU1E2MHdKT0FFYmZYZ0pJMkMyQzAwSDEwOGVTYk1vQQ?oc=5",
+          "time": "19h ago",
+          "body": "Sensex falls 500 points, Nifty slips below 24,100 amid US-Iran tensions  National Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls 500 points, Nifty slips below 24,100 amid US-Iran tensions National Herald"
+            ],
+            "tldr": "Sensex falls 500 points, Nifty slips below 24,100 amid US-Iran tensions National"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1784089883775",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "5h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1784089883775",
+          "title": "Navi Mumbai Airport launches International operations with Air India Express flight to Abu Dhabi - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOODFqRkd1LTNmeER0VHAxT0xULWRqZmkyUHJGUElqdGhVWGNlQTBlZUl6NVdxZFNwNmFfRjVEV2lWVzFPdjBKaGdJbnVscDlxRGhVRGpHWXhpRFl2UjRoUExvamJyek1tMm42TG4za0wzeDI2RXJpYk1sYkVXRUV5VDBBQmE4ZVk4NnVHLWJSQy16MWxuMVExaFRtNktWRHdydEdFZUhPS05RTVdyVE02T1FlYThZc3V1X21yMEJnQnNBZUt6VkJOakZ3YjJrT1hNOGZfTTJfVnVjbnIzS3VLQ2FCR3gxS0HSAewBQVVfeXFMUFRzQ0gzSmdiNGdvNUlKOFRjbmVTWmNxMi12anEtZVc1X2ZJb2RYdkh5eXROZ1JELXNaM0FzY3g2TEdYaW5ZYjgzeGZsQTdIbzBDTW84V2xSd0N3WFBoRVRkYmZ2cnRmY1VuZXhNY2RMbDV4RVJMSmFRQ3RiTzIwVm9pa2pjYjlzeW1mVVpDREl6cHdiRWt5TnhYVmZBc3I2eEk0N2tOX1owb2lvM2VNN1IwQzltcVY2eW5qVzlwSVBKYzdQY09uMmd0V1c0bGM2UngwWlp1LVYtc0RoSzhXZ2dLWDdHNHZvY3J3Rk0?oc=5",
+          "time": "Just now",
+          "body": "Navi Mumbai Airport launches International operations with Air India Express flight to Abu Dhabi  livemint.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai Airport launches International operations with Air India Express flight to Abu Dhabi livemint.com"
+            ],
+            "tldr": "Navi Mumbai Airport launches International operations with Air India Express fli"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1784089885102",
+          "title": "'Digital Square' and 'ARISE' initiatives to future-proof school education in Kerala - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeXZsVHRiTHBaNlhfOUNGWFUyc1VYQVBDc3U5THEzelJkZ2c0S1V6ZEFsN3hWSWlBNlZFQUdtUXFsdXY2aFhfSklaeEhMenNyNkJaUGVCbEplSy04Z09PRkFXaklZeWlsYV9ZeTRzaTJVVW1sRlFBTXZDVXhhNWFZTHFjN2NDOEt2bnNKcm1LeEVvZmVneTNiMTNqUHNCdDdfZFVLVlExNkdxT2VDbncwNmpQX1NUc29tdDRhdllNUERKZmhRR09BSlBxU2hQNGFiRzZMUWdFWHBQX00xbDF5NTJn0gHiAUFVX3lxTE95dmxUdGJMcFo2WF85Q0ZYVTJzVVhBUENzdTlMcTN6UmRnZzRLVXpkQWw3eFZJaUE2VkVBR21RcWx1djZoWF9KSVp4SEx6c3I2QlpQZUJsSmVLLThnT09GQVdqSVl5aWxhX1l5NHNpMlVVbWxGUUFNdkNVeGE1YVlMcWM3Y0M4S3Zuc0pybUt4RW9mZWd5M2IxM2pQc0J0N19kVUtWUTE2R3FPZUNudzA2alBfU1Rzb210NGF2WU1QREpmaFFHT0FKUHFTaFA0YWJHNkxRZ0VYcFBfTTFsMXk1Mmc?oc=5",
+          "time": "2h ago",
+          "body": "'Digital Square' and 'ARISE' initiatives to future-proof school education in Kerala  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Digital Square' and 'ARISE' initiatives to future-proof school education in Kerala The New Indian Express"
+            ],
+            "tldr": "'Digital Square' and 'ARISE' initiatives to future-proof school education in Ker"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1784089885102",
+          "title": "India's Next Growth Engine: States Race to Attract Global Capability Centres Beyond Metro Cities - The Indian EYE",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUZaVlhqaVVvTmw2LVhhM1Vsb21rTENib2ZJLWxUMUtxV1FTVlRPNGtOTnJLN01TWm5kNTNTYm8tdENLVTBhYkhaMXZBekdxNlc5WXBISFhlbXVmN1l1MlVBNmZHOXQ4dm80NlhZak9PMGFQZmxCQ21xRHJPUUV2TW0wa2xEMGVFOGJGcTY2NU1xRU8ybEpGRE5iaVN3N3FXbjlsZzcyQTJjTEY5c1N5RGVPb2NWTXdPUGQ3WnQ5RzUzNkZLbGVfQ3EtQQ?oc=5",
+          "time": "14h ago",
+          "body": "India's Next Growth Engine: States Race to Attract Global Capability Centres Beyond Metro Cities  The Indian EYE",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's Next Growth Engine: States Race to Attract Global Capability Centres Beyond Metro Cities The Indian EYE"
+            ],
+            "tldr": "India's Next Growth Engine: States Race to Attract Global Capability Centres Bey"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1784089885102",
+          "title": "Big Data, Bigger Challenge: Does Gujarat Have The Water To Make It Work? - Vibes Of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnpQYlJGeURhOUx3bzYxR2R2X2FWQmNRSTJNSlhuMjVKazZPY0RGeHpWUDdQbFU2UlFxRDJubUZFb3A0VmUwaG1DOXZSR2otQ2NDcF92UTB3M3RZYmRLRktTNHRBaFpvZk83ZFhSRmpzSEllRUhxYnpOVE43OGc1bnl3dUM3aTBZMnVTUTRnN0VvWWc?oc=5",
+          "time": "12h ago",
+          "body": "Big Data, Bigger Challenge: Does Gujarat Have The Water To Make It Work?  Vibes Of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Big Data, Bigger Challenge: Does Gujarat Have The Water To Make It Work?"
+            ],
+            "tldr": "Big Data, Bigger Challenge: Does Gujarat Have The Water To Make It Work?"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1784089885102",
+          "title": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors - Machine Maker",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3FiZGpkSnhfTHlCczNrMV9VcE85U1ducFE4Q0o5VWxuMkphQnpPWlEwYzlvSnltaE50VnI1M0RwT1V0OEJlUktRVDl1VVltTEQxbUF4eDJyTGs1c2J1VU9oYl9KZmtlNGRfMmk4VjNCQUJvTWh6UWpqUW9wbnp0M2R1b0RQZVptcklsUXo3ZVgtcUpLZkg0?oc=5",
+          "time": "19h ago",
+          "body": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors  Machine Maker",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors Machine Maker"
+            ],
+            "tldr": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors Machine Maker"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1784089885102",
+          "title": "Automation Expo 2026 Highlights AI and Industrial Automation - SMEStreet",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmw4b2VRSmZBZWJaMHhWMXNUOGl1MnZNaS01bk9tbkNOa0FaMjN4QmlBLV9LczdWb3hqOEFyZGphaVMzZTVQU1VHRDlaZ0ZxZVRaZW5ULXlZNmtabGIwa3hBb1RiQU9XczFwZVlBUmZDRzBUZnZWcVRZNGREbWxFVmg5LV90X1NoYkFfWjBsZ3pqLWd2RWp2YVVtUzd1ZW5FNlpV0gGjAUFVX3lxTE9mbDhvZVFKZkFlYloweFYxc1Q4aXUydk1pLTVuT21uQ05rQVoyM3hCaUEtX0tzN1ZveGo4QXJkamFpUzNlNVBTVUdEOVpnRnFlVFplblQteVk2a1psYjBreEFvVGJBT1dzMXBlWUFSZkNHMFRmdlZxVFk0ZERtbEVWaDktX3RfU2hiQV9aMGxnemotZ3ZFanZhVW1TN3VlbkU2WlU?oc=5",
+          "time": "18h ago",
+          "body": "Automation Expo 2026 Highlights AI and Industrial Automation  SMEStreet",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Automation Expo 2026 Highlights AI and Industrial Automation SMEStreet"
+            ],
+            "tldr": "Automation Expo 2026 Highlights AI and Industrial Automation SMEStreet"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1784089885102",
+          "title": "Automation Expo 2026 Returns With Focus On AI, Cybersecurity, And Intelligent Manufacturing - outlookbusiness.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYWVWajMybW1rV1NXZnI0MUJRaGhySGw5bFJpa0c5dGUwZHVpVHVaZmZsZVFIM3VlcTB5YXVJdXJCZF9iZ3FncGVOdzZMSTNwMDlydUk0bzdOdFM2bGNnZGtSZmRvSDIwZ3UyMEdteGczTXI0SzcxNzFqMVZCNFJ2UVc0UDZzWm0xV0FUZVRBYVpPUmhJY0hBQzdOeXVtZEJqNzB4NEZ3b0tRbWctWXNGTGFxU29DejA1OXJyYnM4TVozMVAtbXgyVE5lXzNodi11YjZTaklNVTUyVjMwVUhzQ2NsWWNGZ9IB5gFBVV95cUxOYWVWajMybW1rV1NXZnI0MUJRaGhySGw5bFJpa0c5dGUwZHVpVHVaZmZsZVFIM3VlcTB5YXVJdXJCZF9iZ3FncGVOdzZMSTNwMDlydUk0bzdOdFM2bGNnZGtSZmRvSDIwZ3UyMEdteGczTXI0SzcxNzFqMVZCNFJ2UVc0UDZzWm0xV0FUZVRBYVpPUmhJY0hBQzdOeXVtZEJqNzB4NEZ3b0tRbWctWXNGTGFxU29DejA1OXJyYnM4TVozMVAtbXgyVE5lXzNodi11YjZTaklNVTUyVjMwVUhzQ2NsWWNGZw?oc=5",
+          "time": "14h ago",
+          "body": "Automation Expo 2026 Returns With Focus On AI, Cybersecurity, And Intelligent Manufacturing  outlookbusiness.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Automation Expo 2026 Returns With Focus On AI, Cybersecurity, And Intelligent Manufacturing outlookbusiness.com"
+            ],
+            "tldr": "Automation Expo 2026 Returns With Focus On AI, Cybersecurity, And Intelligent Ma"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1784089885109",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "6h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784089885109",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "12h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784089885109",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "12h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1784089885109",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "9h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1784089885109",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNThXZ0JSNWZ0dWw5XzkyQUt4VDdqRUFpdm1MMXRqTUpzaWw0RzEzMzZOb2pfcTlLSlJzWDhaYXVPU0dQcGdyTHhKQTBtU0NEekNpTWtHNUZWSWR5cFdQMzBHRVBCTzJ3b0V0QzlYZFo3RDFCN3Q3S0pzOHlTSWRYczR2UlQtUjFuWTB4Q2VoNkk0aUg2aURpdFRENnBZbjNyTmc?oc=5",
+          "time": "16h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1784089885109",
+          "title": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RSMDExX3Z3TmRWaHN6Z2N4UlpWSkRkdWFPRkNpR25qRmJYNnFzTzlodW50dVBXQ2I0a2J2T09wTHNteW10bUJjOTNzWlViZWJXdXRiVFFEd1BwQWxzR3F6QXdEdjYtbS1sTEZydXQxRVFvYk1QOVcweElBQlU3ZWhsS3IwZEhoNFd1N0tyd1dCRlp1S2RXNmphU0ZLajhTSGc?oc=5",
+          "time": "15h ago",
+          "body": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1784089885109",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "7h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1784089885109",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "16h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1784089886320",
+          "title": "Vidyavihar Flyover to Open on India's Independence Day After Three Decades of Development Limbo - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hFYmQxOXVXTGVjRWlRaVJHREdUdjhBNExqMUlPLUFIUVUxQlJOaWVXMHZOdW1mVTJDcXV3a3BjZkNXRWY2UWl3Z1VjaDJlWVc0QkFoT3hNQWtCS29nTnBtRGgtOUFucGUzS0kzd005MVVia2dFLURIMEk0djFqSmJFS1RnNmNONDZfTjBMNjlyRGxNbl9XWmg4Y0R5N2MySW42bk9xRzltbFktLXhFY3hRWURsSzd5RVBuZGZSdGl0M1g0ZnNNRNIB2AFBVV95cUxQOEdnSGo3Mzh0OXlEUDRQSlk2WGVldEMxZlF5UWs5eUduZ3NWeW1fa3YtN3JocVpyT3N4cUxOTmI5blhiZWo1MV9aQmpKWGhSTzlINFA2WnBnRVJJdGNLdEY0VDh4NE9CUzJ4dDkyYlpsV2RtVEo0b0xWTkh5RGx1MnlaUU05ck1iR3BHeGJjRkp0U0FlS1N2T3AyazNqdjhncGVVclA1cVlHdk93WlQxZEZVRERuUWtNdDJmWmE4QmtrSTdnQThKTGVDV2h3cm14elA5c0Vrczc?oc=5",
+          "time": "22h ago",
+          "body": "Vidyavihar Flyover to Open on India's Independence Day After Three Decades of Development Limbo  Swarajya",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Vidyavihar Flyover to Open on India's Independence Day After Three Decades of Development Limbo Swarajya"
+            ],
+            "tldr": "Vidyavihar Flyover to Open on India's Independence Day After Three Decades of De"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1784089886385",
+          "title": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ19tN3RwZHJLRjYySlktQk1TWVdBLTZkLWF2YTRmUWNHWGpMRDB6TkpUeDA2TlVLYUI0LU9lRkF5TWNqNlhHdjBPWFNyVWlESFE0b1pmX3RYUm1TMVB4WXdhcXRCWlZHaUppN2g2dEg2V2VmWXJ2ekJWcjYzQUVYTHVXbENBaEhUWnd5Q1VKOE04a3hBVWYzZFRxVzVfbEpVQ21kZ2hMTzNYN0s1bVhKcjg4LUdPeGt0VzRnSVlhc2IyanZ1MWhSdDN5alYwMWtaV05VRHNnUlZ3b3VPNHc?oc=5",
+          "time": "22h ago",
+          "body": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic  MSN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy rain disrupt traffic MSN"
+            ],
+            "tldr": "Monsoon havoc: Mumbai-Pune Expressway, old highway shut after landslide, heavy r"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1784089886210",
+          "title": "Meet Mira Trivedi, Indian-origin student in New Jersey who's pushing her school to not call Hitler's symbol 'swastika'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13h ago",
+          "body": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery. Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery.",
+              "Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike."
+            ],
+            "tldr": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstand"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1784089886210",
+          "title": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]"
+            ],
+            "tldr": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, "
+          }
+        },
+        {
+          "id": "mumbai-general-6-1784089886210",
+          "title": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]"
+            ],
+            "tldr": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1784089886210",
+          "title": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher....",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]"
+            ],
+            "tldr": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offe"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1784089886210",
+          "title": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]"
+            ],
+            "tldr": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1784089886210",
+          "title": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]"
+            ],
+            "tldr": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with mur"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1784089887687",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1784089887687",
+          "title": "Maharashtra restores maternity aid for construction workers, raises benefit to Rs 25,000 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUzRaa2tVMTRGTy14Qi1ZR1lsOU9TZ2RCbWxRMVMzbi0zSGhneGo1TVJ2bGFkR1JwM21zbGVvU0Vrcll5ZmNRTHgtaUJQUExyRUtfMWNmMTZ2VG9Fa2tuODBFdXptSXVndXJJRXE3bVVyZV9FRWkwQ05hVEVIZmE0bDMwV1NJWjBWTVpfM1ljWmNKaXNLTnNOTmU2aVdxNGd3UlV4Sk9MOFJZdGlaeXVaOG8wNXhycmRxZ2lDbk9yTU84Q3RDd2ZEbUFqckpvemNjT3ZoalZEMTJENEIzNy1vMmZnSEFyMkZRN1VCcFJueDI1N1p0Z2xzaEpfeGzSAfwBQVVfeXFMTlM0WmtrVTE0Rk8teEItWUdZbDlPU2dkQm1sUTFTM24tM0hoZ3hqNU1SdmxhZEdScDNtc2xlb1NFa3JZeWZjUUx4LWlCUFBMckVLXzFjZjE2dlRvRWtrbjgwRXV6bUl1Z3VySUVxN21VcmVfRUVpMENOYVRFSGZhNGwzMFdTSVowVk1aXzNZY1pjSmlzS05zTk5lNmlXcTRnd1JVeEpPTDhSWXRpWnl1WjhvMDV4cnJkcWdpQ25Pck1POEN0Q3dmRG1BanJKb3pjY092aGpWRDEyRDRCMzctbzJmZ0hBcjJGUTdVQnBSbngyNTdadGdsc2hKX3hs?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra restores maternity aid for construction workers, raises benefit to Rs 25,000  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra restores maternity aid for construction workers, raises benefit to Rs 25,000 The Times of India"
+            ],
+            "tldr": "Maharashtra restores maternity aid for construction workers, raises benefit to R"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1784089887687",
+          "title": "MNLU, Chhatrapati Sambhajinagar announces 2nd CCI—MNLUCS National Antitrust Moot | Register Now - SCC Online",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTllHRTVmU3Q2Nk9BcEpZOW52ek9QcEM3dzQ4MHNiMm1KZUdjWFFQUVl3dnBsZVZENFNYUzhBVUd0Vmh2Tk9lbko4QjMzWjVrYk8yV3h0cFRoUFNhX3NNRS1yOGxYZkxGR0tBbWdxQ3ZIU25DY2NRTWZCOFFtQUtlQnQ3UVhEWGFkWWtKbkJvMHJWMWtBX2pGZi15MldPQmd5ZlBHNjM2OTBNeDQ2YmpFWXFoRXNib0twblljdER0NA?oc=5",
+          "time": "20h ago",
+          "body": "MNLU, Chhatrapati Sambhajinagar announces 2nd CCI—MNLUCS National Antitrust Moot | Register Now  SCC Online",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "MNLU, Chhatrapati Sambhajinagar announces 2nd CCI—MNLUCS National Antitrust Moot | Register Now SCC Online"
+            ],
+            "tldr": "MNLU, Chhatrapati Sambhajinagar announces 2nd CCI—MNLUCS National Antitrust Moot"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1784089887687",
+          "title": "Gold Rate Today in Aurangabad 14th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "18h ago",
+          "body": "Gold Rate Today in Aurangabad 14th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 14th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 14th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1784089887687",
+          "title": "Maharashtra government duped women under Ladki Bahin scheme: Congress - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQakc3T3d0NmlfbWFNLUVvNTJFYU9tX3RvbXEwOHh6WW1GUFNJRDU4VElXNlZaOEI4aFN3eTNuYlBscDB4M2ZPSXNqaWgzQzlnY3Z6eTYySFFJVElWbkg3aEdjS3RFUVhjYk0weGp6WjgxelVoWXpidzZpWUxlbVV3ZTNkOHptaXdqYjA3bW5Od1VoWUpJNWJoZVlQYjZCeDBDOHV0d3FVdFJ2LVJZLWJtVjNSS1AyNHRqdEs4cDZrX1h6eUJPLUlKck92enF5S0VtQjJPempqV09JUERQ0gHcAUFVX3lxTFBqRzdPd3Q2aV9tYU0tRW81MkVhT21fdG9tcTA4eHpZbUZQU0lENThUSVc2Vlo4QjhoU3d5M25iUGxwMHgzZk9Jc2ppaDNDOWdjdnp5NjJIUUlUSVZuSDdoR2NLdEVRWGNiTTB4anpaODF6VWhZemJ3NmlZTGVtVXdlM2Q4em1pd2piMDdtbk53VWhZSkk1YmhlWVBiNkJ4MEM4dXR3cVV0UnYtUlktYm1WM1JLUDI0dGp0SzhwNmtfWHp5Qk8tSUpyT3Z6cXlLRW1CMk96ampXT0lQRFA?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra government duped women under Ladki Bahin scheme: Congress  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra government duped women under Ladki Bahin scheme: Congress The Hindu"
+            ],
+            "tldr": "Maharashtra government duped women under Ladki Bahin scheme: Congress The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1784089887687",
+          "title": "CM Devendra Fadnavis announces 145-flyover project for a ‘Railway Gate-Free’ Maharashtra - Metro Rail News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObV82YkRobGx5Y29xQ2xScnNCTFVzUWZFc2Z5TWtEUHZmdHNSbk9zUnc3V0VOWXEyUHdJZkVBdHhqOUUwMzR1RkNpZzNIUFJsaHNISWFyS21nM19BemVYZ0VOY2ROQ3g2SENEMzA5SDk4M1NVZlVfSlNDZk1zRWNYOHhHMkEtbmRZRnBHUDNuZTNMWklOZElMakhKWllVQWlPaUZIUDZuanRJNTJHa0hPZXRB?oc=5",
+          "time": "17h ago",
+          "body": "CM Devendra Fadnavis announces 145-flyover project for a ‘Railway Gate-Free’ Maharashtra  Metro Rail News",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CM Devendra Fadnavis announces 145-flyover project for a ‘Railway Gate-Free’ Maharashtra Metro Rail News"
+            ],
+            "tldr": "CM Devendra Fadnavis announces 145-flyover project for a ‘Railway Gate-Free’ Mah"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1784089887687",
+          "title": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNG42NjJNSGkyUTQtazRTZW5vSEdkWUowano4XzJwMzlBd1VSdTc2WDFPcS1kUW9RdmJNNkEwQUtqcFgtSmE5M2V2TmtYeThiRndDd1M2YXl3X0R4ckx0UW9ZTDNDSGFlSVVUbFBUU2FUWHc3QWpVTEJsdHJaa1NNR1JhOWgtTnp4UjE5NC1xTjVTY3EzaHB1YlU3bnpoZFlEWHdWQ0FFLUtMMUdSUkhLeXIxdG9xWm1ablBaSG9PZXdfYTBwTDZXYndWRndzMW1EMkhPczVRZHFPcl9CVWd4cFF5bk1TT21xR1RCNdIB7AFBVV95cUxPNG42NjJNSGkyUTQtazRTZW5vSEdkWUowano4XzJwMzlBd1VSdTc2WDFPcS1kUW9RdmJNNkEwQUtqcFgtSmE5M2V2TmtYeThiRndDd1M2YXl3X0R4ckx0UW9ZTDNDSGFlSVVUbFBUU2FUWHc3QWpVTEJsdHJaa1NNR1JhOWgtTnp4UjE5NC1xTjVTY3EzaHB1YlU3bnpoZFlEWHdWQ0FFLUtMMUdSUkhLeXIxdG9xWm1ablBaSG9PZXdfYTBwTDZXYndWRndzMW1EMkhPczVRZHFPcl9CVWd4cFF5bk1TT21xR1RCNQ?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today  India.Com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara, Sangli to witness rain today India.Com"
+            ],
+            "tldr": "Maharashtra Weather Update: Mumbai, Thane, Raigad, Nagpur, Nashik, Pune, Satara,"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1784089887687",
+          "title": "Maharashtra Congress chief Sapkal accuses BJP, RSS of exploiting Ram Mandir issue for politics - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa1M0RTFZbTNGQmZjQ2ZoWllzdWg2c0xpZUVYVHBkb1NRUWFzQjNxaEY0LWlBQk8zRHJubElDRW92RS03bUhkbG1fWDU4cEZjZklLMzRtOGlCQlVXeUMtbmZFVlFMRW9OQjFGZjUwaFhMaDAwNkRGR3kySkZSclBxZWw0SlBlOV9lRkJOcDludDJWZFFUdkhqQkJWcElFQUh3akM3ZG95V3hHbmY3cWNhLUhjdTh5SjBYZUcwWmVKQTZpYnF5UnVhZy1abUJibGdHZjRQbHFNeDNNSFFPa1ZjcUlfelR1a0czTy1VbDZPS213bHdiLVZIME5ERGlWUdIB_gFBVV95cUxPa1M0RTFZbTNGQmZjQ2ZoWllzdWg2c0xpZUVYVHBkb1NRUWFzQjNxaEY0LWlBQk8zRHJubElDRW92RS03bUhkbG1fWDU4cEZjZklLMzRtOGlCQlVXeUMtbmZFVlFMRW9OQjFGZjUwaFhMaDAwNkRGR3kySkZSclBxZWw0SlBlOV9lRkJOcDludDJWZFFUdkhqQkJWcElFQUh3akM3ZG95V3hHbmY3cWNhLUhjdTh5SjBYZUcwWmVKQTZpYnF5UnVhZy1abUJibGdHZjRQbHFNeDNNSFFPa1ZjcUlfelR1a0czTy1VbDZPS213bHdiLVZIME5ERGlWUQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Congress chief Sapkal accuses BJP, RSS of exploiting Ram Mandir issue for politics  Mid-day",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Congress chief Sapkal accuses BJP, RSS of exploiting Ram Mandir issue for politics Mid-day"
+            ],
+            "tldr": "Maharashtra Congress chief Sapkal accuses BJP, RSS of exploiting Ram Mandir issu"
+          }
+        }
+      ]
+    }
+  }
+}
