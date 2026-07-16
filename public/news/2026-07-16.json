@@ -1,0 +1,799 @@
+{
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T04:42:21.961Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1784176936683",
+          "title": "Pawar vs power: NCP (SP) leaders push for BJP alliance as Sharad Pawar resists - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblhiVWF5c04wRmlWcDZmYzhwdW80Z0ZoYzA0dDhva3c4U2x3WlRMTVZ6WmZlTEgyM09haEZULVczb3hXYTl6OGh4OEZYZkRaZ2h1Q2dlMHIzV2ZrSEF5VUFGUm9WanNxQTFLUU1hQUktNzdFR1N3bXJjbEtERi1HWTRKSDh6UUROVm9rRnRsMk1tMVR1b3NCYVhXWWlqMlRWeEIwSTJ4LU1kTVVEZWJFREVaaVFXbDE4ZEdvdXB2d21hVW50VFpCbFR6Q2h4YmRWYTgyNWJ30gHjAUFVX3lxTE9odW5pbDJxNFhZdjRmcVkyeEtEUC1mcnB6bWNzZ1ZVbGRSemdNV3B3and1U0pHdEpaNUZFWnVOdDlENGFkOHEwRUd6ZVJOQkJJaENMZXVfNlc1dUdoTGg0bDBVMjhGOEw0UFVUY2J3QTNPWEFnc1M5LVMyQ196Yjk5aHhQVzdOWVRVOEs3S1ZyRF92bGhKNWt4T3BIb2N0TTgtVzFKZDFDR3ZmRHRTWm1NMUJzUkpoWk83ZUR1ZndLTmNHdEJpc2ZFRmx1cmlFTUVIbWxucE93U19lR05QUjRhTm9Z?oc=5",
+          "time": "12h ago",
+          "body": "Pawar vs power: NCP (SP) leaders push for BJP alliance as Sharad Pawar resists  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pawar vs power: NCP (SP) leaders push for BJP alliance as Sharad Pawar resists The New Indian Express"
+            ],
+            "tldr": "Pawar vs power: NCP (SP) leaders push for BJP alliance as Sharad Pawar resists T"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1784176936683",
+          "title": "Maharashtra waives Rs 48,000 crore farm power dues; Fadnavis makes announcement in Mumbai - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd3NTQ3RSTGVNaFp6bGdFS2dZLU9MbkxfMjZ1Q3VKV0YzWVZzVERJRzVQWFJJODlveXpKcXdkaExiM0Zlc1BrdFF0bTFTUVNCcW9vZGtqZWFtS0Nta2ZjdHZZUzF1OUFFb19ZT2ZpMVBlaXA2eE1RS2Z2bzRDZ085Z2xPdEdieTUwWGpaVU5oYTIwY216SDRGZ0NSUlVJb3VTOGxzZ2p6RVNUOXhhM0x0a0libHF2UlFUbjlzWTM4czFTbW5NNXZXRXlka0xqS0J2OU16WDRfdWhlaVpaX0xJbNIB5gFBVV95cUxQRXA4QlU2Y0NkLXk0MXlhUjAxZWJ3NHFmS0pkZHMyVzRNaEoyQThXckVjMVVOaGhlcmRLb1FGeFRCakZzSmZjWWczdVp4Tk1tOW5UUWtzN09NYk9vaXVxc0RERzJkRnNBOWdLdWFMdEVJRTJleHhxNFY0X01odEVEdVdrbmxxdDJlZjJBX3E5V0dBc3l2anNfMW9IMWJ5elJCcUtCNGhNUWZRVU5aLWdRZU43aHhpdlZOeFRsemNVU0Rua1kyTzJleTBKSUU2c2pOMTdQaU1EazVMNkF0dEh4cmhEZ0FiZw?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra waives Rs 48,000 crore farm power dues; Fadnavis makes announcement in Mumbai  Mid-day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra waives Rs 48,000 crore farm power dues; Fadnavis makes announcement in Mumbai Mid-day"
+            ],
+            "tldr": "Maharashtra waives Rs 48,000 crore farm power dues; Fadnavis makes announcement "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784176936683",
+          "title": "The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYVRpNHRFWUM2TmJYTGpwajVQT2FMNFNRLThJaVB2TmZkZ1laeGdaSENzbnFBaVBRRHp6NDNRdjlWQVVObU1aT2oyS2Rzc1hTbmxCdkxuTHl1OFRwTXBJbm1ZZWhpcTFBeVlFVWtWVlVYcjZXVmo4bGQ1UGNQU1JVVXRXMk1pNGVIajBkZzdJczZMYmN2UEl6Z0F3ZVh0Wm9DcXFCTDBpbWRobi1EanNWV08zLWRSeDFwN3FLWHEtQTJ0VGNG0gHEAUFVX3lxTE9hVGk0dEVZQzZOYlhManBqNVBPYUw0U1EtOElpUHZOZmRnWVp4Z1pIQ3NucUFpUFFEeno0M1F2OVZBVU5tTVpPajJLZHNzWFNubEJ2TG5MeXU4VHBNcElubVllaGlxMUF5WUVVa1ZWVVhyNldWajhsZDVQY1BTUlVVdFcyTWk0ZUhqMGRnN0lzNkxiY3ZQSXpnQXdlWHRab0NxcUJMMGltZGhuLURqc1ZXTzMtZFJ4MXA3cUtYcS1BMnRUY0Y?oc=5",
+          "time": "13h ago",
+          "body": "The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England The Indian Express"
+            ],
+            "tldr": "The Daily Catch-Up: Sharad Pawar speculation, Sonam Wangchuk, India vs England T"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1784176936683",
+          "title": "NCP, NCP (SP) developments create a buzz in Maharashtra politics - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV19mYWwyRnhxSTVWRWZReWpneEFqcnZ5bXhDdGVqa3pwX2k5SnoyNVJ2YUZLZW1WRVNHSGJKRTF3YXZUMUNrdENCeDQ1OUJrSDVPcHZFVXU5enU1UGxiVERabk12QnR6dDJ1cm1GT2NLaU5fNG9FNUNGY0FqWUQ4NnR6U2RoMXo3SE1YVUltWmUyeThtZFFzMUZDMHdHZG9hOEFuWVV3d3VfWHJJRmxzejdHcUdlUXM3NDVraXZXLXRsMzFWR2F1M053?oc=5",
+          "time": "22h ago",
+          "body": "NCP, NCP (SP) developments create a buzz in Maharashtra politics  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP, NCP (SP) developments create a buzz in Maharashtra politics Deccan Herald"
+            ],
+            "tldr": "NCP, NCP (SP) developments create a buzz in Maharashtra politics Deccan Herald"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1784176936683",
+          "title": "Late-night meetings between Maharashtra CM Devendra Fadnavis, NCP leaders fuel fresh political buzz - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQa2M1NXMyaVlhanJ3QlJXc1dXeWVaTEpDYUU2Tkp2bVUwSy13SVpGc1VvWXFkYnlxZmoyNFFUaDhOaWxRTk9EZEI1Z3VnTEtHQmJkUjJDSTd2YkhRQjFMV0hiY2FRMWVBTkJtNHFpMklzU1ZDcDJ1SWhjNS1ZZXdld0VZY25nOFN5dXpPWVdNZVYzUTB2eXZ1WV82UFduNV9PUDVtOEJHMlZhQ2Y0MGMyRzUwWUdyRlQ3MWdkaDlDQkRpRENzQ256Ry10Nm54b0VRVmVtaEI5YjROM3I2WS1HdDAzeDhLRjJxQVB4UUl4RHdScnpmNjU0SlctSmpNcHNCSnfSAYcCQVVfeXFMTllvUDZBelNKclVTN252MEJxNTNhUVRvMUtERXZHZlZGdkdabEhxd0VXeWlFZmt4SmYwQkJZcDRSY1QtcWMyelBKSDBuTFRYZnZpVENxdWNDb2ZzQ3hXaldCUC1fSFAwNkIySVFfWWVvVzVXdTZLV0UzZFhfNGJVaUcyb1BTa24wVzl6RlE3ei01UmdRc3A2VmlxT2N5MVpqMFFXYXJxWXlUTmNiNHZzQW9MR0Fnb042X0F0OVNpeWJRTVNsS1BMUXZrMXdvek9QUHJEd21lSFlZUjNxbUhjQkJqeWJxRUw1Z01jd01sNk8zSkV0NmplT3I5c001Z0hYamZaMUhEblk?oc=5",
+          "time": "18h ago",
+          "body": "Late-night meetings between Maharashtra CM Devendra Fadnavis, NCP leaders fuel fresh political buzz  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Late-night meetings between Maharashtra CM Devendra Fadnavis, NCP leaders fuel fresh political buzz The Times of India"
+            ],
+            "tldr": "Late-night meetings between Maharashtra CM Devendra Fadnavis, NCP leaders fuel f"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1784176936683",
+          "title": "Maharashtra to Frame Comprehensive Seed Policy to Ensure High-Quality Seeds for Farmers: Agriculture Minister Dattatray Bharane - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTHFua3Z2NG9HS3RpamRDeFJ2bHdqOUpfWDFPVHROc0YwTUpMdnpUb0ZReFVVYmk5cVFOMVB3N1FTeFBQSGtxODBrMW5ZOGZDRFhKc281cHdqaFlWUlFWY3FQdWNmR2dSVFFHZlpaV0JrNkp1bm4xZUkzMGxfV0ZaLWlxdE55VjdIcm0tV0tkbw?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra to Frame Comprehensive Seed Policy to Ensure High-Quality Seeds for Farmers: Agriculture Minister Dattatray Bharane  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to Frame Comprehensive Seed Policy to Ensure High-Quality Seeds for Farmers: Agriculture Minister Dattatray Bharane Marksmen Daily"
+            ],
+            "tldr": "Maharashtra to Frame Comprehensive Seed Policy to Ensure High-Quality Seeds for "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1784176936683",
+          "title": "Maha govt adds Ajit Pawar’s birth anniversary to official celebration list - thehawk.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQlhySnB2cDVOel9zUlduWTQ3YU1UZjhhMXFxazR5MVg0dWRnSVg5TmJ2cjNxX1dNU0c4aldYSUR0S2hsN2RPQVM5b3pnS3ZfdklXVU1IMUFLQ0ZaYUJHUkhjRDR3RmRtUzh5UkkzWFpfOE9ZYU9aa2RyYWtlMnI3SE1FZDZSVFdHTXZZM05zUVQtQUtCeEk5bFBYbnVick1jcXhXV3lxc3Z6S00?oc=5",
+          "time": "14h ago",
+          "body": "Maha govt adds Ajit Pawar’s birth anniversary to official celebration list  thehawk.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha govt adds Ajit Pawar’s birth anniversary to official celebration list thehawk.in"
+            ],
+            "tldr": "Maha govt adds Ajit Pawar’s birth anniversary to official celebration list theha"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784176936683",
+          "title": "Shinde Bats For Delimitation, Says It's Necessary For Better Governance And Development - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTmtBTjJyaUtwZVZmX3F3R2JOMk9sZWJGYzJMdXFSdmtQanQtTnh5MlZSNW5OaWFXZXRtaU1zM0tXTll2YU9QSUZpeWxneFNaSHFCQUhaSl9zakg2bnltakt1aDFNaU1nYjVzSkJEUlR6OUtGUW9RU0NWRVZiME1neFVUS2M5MFg4OUdjMnlQbjZnQWh3VHlKSGZtQzFBZzVyRXlRWWhIT0ZuTFl3bTJVT1gyZnJIalVWT1VkZXdSdFJlaG4zUWpBZUo0VUhiRXFtdXRSRzM5QmJCa0JH0gHiAUFVX3lxTFB2SUFPdFYwR25LRWxyaXcta2Nnc3dOaDBiMjZVckZuX0JzdWdxaXVuWGVpU1dfRlJ0dlNzM3BFeVJTb0FjRkh1ZVZXMXhFZkJiT1NCcWRCelFabEpfTy0waGV5aG1UZkM5c19WTmIwRFFVZnRwbFVOMVlsMThfeDBpN2RXal9ycVd2MEE3R2Jvd3J1aWlpNmVjUTg0dVRjM1VkQkVGVnBJaWYyc1RrRWp3ZlNTdlZ5U1J4VlhMZ1d4d3pEZmxsaDV5dVRRbV9tZ0JpcjVtc1R6eDJiSUc4N0VMbkE?oc=5",
+          "time": "16h ago",
+          "body": "Shinde Bats For Delimitation, Says It's Necessary For Better Governance And Development  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shinde Bats For Delimitation, Says It's Necessary For Better Governance And Development ETV Bharat"
+            ],
+            "tldr": "Shinde Bats For Delimitation, Says It's Necessary For Better Governance And Deve"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-10-1784176936683",
+          "title": "Pink E-Rickshaw Scheme 2.0: Key Routes In Mumbai, 40% Subsidy & Safety Features Explained - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUE5yVVdralgtQUxxTWpHZmt4dTBBRDFCNDhGMTZiT2RNeXNkaWpMdXRnTFBRdlJYMWl6WmhqVk5aMGhzUVJqV1p2ZWNOUmNycG80SEJRNHZpdzVmY0x2WGFIb1g2MEM5VG9MdDN6VXpsRXB5b2dLak9tRUFMZFBGSzlscUt2SFl2azlvZGxSemk5Z2hTMlNaUDlDQWxJRXBDNjNGbFR3Zkxwcm9EV0c2Zm1keFJURVNJbVBnZ25FdThDSEZF0gHMAUFVX3lxTE8tT1loSHJSSUVJcUJOejRwN0xWRHAwTzJYOGpZdHMtWmc0a1RHaXdjSkNEMnhzaVlhckYxWU53eUliY2lUSEtLeHJISEEzNC1pcVNzWXdUTzhTb0E4eUpHaGZLREpCQ0xGUTM0OUVST2tzZEZFdllKekFoYVo2TG12X0t1Z2dtV01jUVdha2Q4YWpEM3ZZZFpkdTZ2NGlic25ybTRpVmNZQkRpV0QtNjA2bGh1VDhTNjU4akIwMC15NW83eVJSeFVlcWR1Rg?oc=5",
+          "time": "12h ago",
+          "body": "Pink E-Rickshaw Scheme 2.0: Key Routes In Mumbai, 40% Subsidy & Safety Features Explained  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pink E-Rickshaw Scheme 2.0: Key Routes In Mumbai, 40% Subsidy & Safety Features Explained NDTV Profit"
+            ],
+            "tldr": "Pink E-Rickshaw Scheme 2.0: Key Routes In Mumbai, 40% Subsidy & Safety Features "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784176936542",
+          "title": "Maharashtra To Waive Rs. 48,000 Crore in Farmers' Power Dues, Promises 12 Hours of Free Daytime Electricity - RuralVoice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQlFXZzJBQlRUZEREQlFaWDFOclphM0kzVFlWSnB2YUpRdy1LamduYUFhMzlKdHllRkVpbVpPT1JrSXpsY2VCOG56ZGdHNUpJU21sRGplTWREWEtDTjBzUVJTdGtPX0NhTFlHajBZWjlOSGc2QVFsSHJ5WDBGVGZjRW5XLWw1cjJkU1FBRGhyMVczejNENS0xYkpBWk1KU0lOU0kzblBadFZ1TGpramUyV2V1dGJIalk4RkxmUlVkbWdVNXNXckdsRGFRZDdRLWxwRFp5Q3Jzd3BPTUFW0gHcAUFVX3lxTE9CUVdnMkFCVFRkRERCUVpYMU5yWmEzSTNUWVZKcHZhSlF3LUtqZ25hQWEzOUp0eWVGRWltWk9PUmtJemxjZUI4bnpkZ0c1SklTbWxEamVNZERYS0NOMHNRUlN0a09fQ2FMWUdqMFlaOU5IZzZBUWxIcnlYMEZUZmNFblctbDVyMmRTUUFEaHIxVzN6M0Q1LTFiSkFaTUpTSU5TSTNuUFp0VnVMamtqZTJXZXV0YkhqWThGTGZSVWRtZ1U1c1dyR2xEYVFkN1EtbHBEWnlDcnN3cE9NQVY?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra To Waive Rs. 48,000 Crore in Farmers' Power Dues, Promises 12 Hours of Free Daytime Electricity  RuralVoice",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra To Waive Rs. 48,000 Crore in Farmers' Power Dues, Promises 12 Hours of Free Daytime Electricity RuralVoice"
+            ],
+            "tldr": "Maharashtra To Waive Rs. 48,000 Crore in Farmers' Power Dues, Promises 12 Hours "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1784176936543",
+          "title": "HISTORIC DEBT RELIEF: MAHARASHTRA TO WAIVE 48,000 CRORE IN OUTSTANDING POWER BILLS FOR FARMERS - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUZJZzZjbHN6bHZTajlQTHVycFBZd2E3aTdDUlBJWjV1UU50dTRocndsTDdXN1EyQ2JwRGdfbERHV2VXSkY3QXR1UEc3SjZnVDNGcjhWZmM2QnN6TnB3SzZHMlIxLUtJdkowQWM3NXI4MDR3NkswSTBtejBPZWxhb1BxNFMydHhjSEZnWGVyaFd3VG8wZUR5TFNVbXhrbnlxRldULUF0UXXSAagBQVVfeXFMTnlGSWc2Y2xzemx2U2o5UEx1cnBQWXdhN2k3Q1JQSVo1dVFOdHU0aHJ3bEw3VzdRMkNicERnX2xER1dlV0pGN0F0dVBHN0o2Z1QzRnI4VmZjNkJzek5wd0s2RzJSMS1LSXZKMEFjNzVyODA0dzZLMEkwbXowT2VsYW9QcTRTMnR4Y0hGZ1hlcmhXd1RvMGVEeUxTVW14a255cUZXVC1BdFF1?oc=5",
+          "time": "15h ago",
+          "body": "HISTORIC DEBT RELIEF: MAHARASHTRA TO WAIVE 48,000 CRORE IN OUTSTANDING POWER BILLS FOR FARMERS  Marksmen Daily",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "HISTORIC DEBT RELIEF: MAHARASHTRA TO WAIVE 48,000 CRORE IN OUTSTANDING POWER BILLS FOR FARMERS Marksmen Daily"
+            ],
+            "tldr": "HISTORIC DEBT RELIEF: MAHARASHTRA TO WAIVE 48,000 CRORE IN OUTSTANDING POWER BIL"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1784176936543",
+          "title": "After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricity dues - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUTdfbzZqNmdVYlhqeGlCQ1FLaG1SZjAtVDZhUXFwekUzZ2MxWnp4OGJyU2ZPNWNfRk1JZGdmN2VKYmZ2UHh4N2s1ODZYdHppWlU1NnVEdExDbTZ6MjJuTTZkRmowRHpmb1pkRXlCM3UwVmFkNWpPNGxqdjVSWGQ3S0ZkQjlSOEY5VEdMSU9lcmhTUHN5YVprTDVVTU8tU2RQTThqQjlMOGdwQmNNRmtPZUtsVEpudWotSUxkWkI4S2ZJOG9TN3JaM2lVLU5FSVJhUW1RMFNXRmRQQdIB4AFBVV95cUxONkFfNlVpYTRCYUQyUVowMWkxaTJVbC1sbGRYcDlnYVZXQ0JydmhBTVVROGFUanZwa0xaTFV6X2diaWtJems0S19aalFZNG9sT2lsbTZiNWNnejJOZmpHY21UMzRFTTN4SjBXU1VnMnd3QzVPWUd3dXl3eENiV1dHZXYxVk5JUE5vd2RCYXY0b05xWlBpSFBNcWxrblFhbWZvdVFHSm81aC1kS2JqLXpBWm5rcDdxQmxLcGtiTmM5eTV1ajByVGVoSnBJd3pwZjJpVWxCRUw1SVVVajVuUFY4Vg?oc=5",
+          "time": "9h ago",
+          "body": "After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricity dues  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricity dues The Indian Express"
+            ],
+            "tldr": "After farm loan waiver, Maharashtra to write off Rs 48,000-crore farm electricit"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1784176936582",
+          "title": "TechM Q1 Preview: Will IT firm surprise market with earnings? - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "8h ago",
+          "body": "TechM Q1 Preview: Will IT firm surprise market with earnings?  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TechM Q1 Preview: Will IT firm surprise market with earnings?"
+            ],
+            "tldr": "TechM Q1 Preview: Will IT firm surprise market with earnings?"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1784176936582",
+          "title": "Stock markets rebound in early trade; Sensex jumps 553 points - Awaz The Voice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOci1lUVJ6RjNmZWNMUnRueWNkWmUxRE05c2xVaDlaTG03amdrSFRXZldRV1B6Z3RUUG9qZ1BQNi1Ob1BrTkdUSlJzd2gyM0FqY25ySEhwWDRYN3MzTlk0U3E3ckFaVUc4dW1sb3M2U1NOTDRYY2pyQUxoX1psQTg2aGpZVFg4VHZ1OS1EYTgtSnBlejFmaVZMWlp2OUFPNWQ3SlhqcXhhNTRxaG9IZ0E?oc=5",
+          "time": "23h ago",
+          "body": "Stock markets rebound in early trade; Sensex jumps 553 points  Awaz The Voice",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rebound in early trade; Sensex jumps 553 points Awaz The Voice"
+            ],
+            "tldr": "Stock markets rebound in early trade; Sensex jumps 553 points Awaz The Voice"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1784176936582",
+          "title": "Stock markets recover on buying in bank stocks, rate cut hopes; Sensex up 130 pts - Press Trust of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX180ejVnRE1uN0lGT2s1YnZlWVdkTEI1aThUd2RNWHlZZ19xOTBaV0E1amRnTWZiY1oza0lISzcwVTYzY2E1TXFjUmc4T2V1aVY0RGl5cDhDaXVScndCRXN2SlQ3U2l0LUNJVjFGajRKS190QkwydVZ2akt6eVRSQzBDSEdTNjR4ZGFsWVBsM0c2TnVYNlQzZ1Nlb0RwaHVPSkZDd1VOOVpLMENEQWNwaFFlamxpbHdwVGpFQW1NYkUxa2xSRnk0?oc=5",
+          "time": "16h ago",
+          "body": "Stock markets recover on buying in bank stocks, rate cut hopes; Sensex up 130 pts  Press Trust of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets recover on buying in bank stocks, rate cut hopes; Sensex up 130 pts Press Trust of India"
+            ],
+            "tldr": "Stock markets recover on buying in bank stocks, rate cut hopes; Sensex up 130 pt"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1784176936582",
+          "title": "Nifty, Sensex Stage Sharp Rebound After Biggest Crash; IT Stocks in Green | Why Is Stock Market Rising Today? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNREtCVkJBSTdvNXVMMXExWU4zT2xiUnlTV0ZDRXFld3ZzYlpWbm1pQ0dGcUl1dDBfWkg2Vl81T2N0MC1nMHloOHZZZWdYMXl2WjNMM0s4Tkh0eTR0TmJBMWxtWGRwRXpaWHZUUVNoQmZXaTRRS284TTdFblIyMXBabVltMWx0WnhYZ24zWGswaFRraVUtalJzcnVEOHRXQmNDazZJd0d0YTlJZl9EQWVITDgtWC1JS3RuLVVPeTJoc3hYenViMDlZLXZnTURCemJkMWVYbnBuTHA?oc=5",
+          "time": "21h ago",
+          "body": "Nifty, Sensex Stage Sharp Rebound After Biggest Crash; IT Stocks in Green | Why Is Stock Market Rising Today?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty, Sensex Stage Sharp Rebound After Biggest Crash; IT Stocks in Green | Why Is Stock Market Rising Today?"
+            ],
+            "tldr": "Nifty, Sensex Stage Sharp Rebound After Biggest Crash; IT Stocks in Green | Why "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1784176936683",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "14h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1784176937967",
+          "title": "Open Vision Engineering Raises $11 Million to Drive Next Phase of Pocket's Growth - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDZlU2xpSUFxdDZOdl9tamtKc1Q4Vkk2UVJTTGxDRTBtc2RSbm1oSE5hYjJZcVVIX0R6UXZFRnFXMVRsV093LXZCXzZ2VWJ4M2Y3aS1yWW9YWnlwYXJaR1phVGZyOVhWcFlyMUpwMUwzLTRIbVBGa0FnaW1aMElrQzhDOU53VmRZQmNtSDZZcFFaYTZBRHpwYWFCMXhtUVV0R3gxMlNjVG5FUUVoYm1GNUdWbzZQVFVzQkkwc1NMdHFHVE9RZDdqbzJLWjZLTXVzSGRqNHZpRk50M0JYcEloTS1pcmtjZkdabU5EcFp3S3ZtN2xyZzlnSNIB-AFBVV95cUxPaDZlU2xpSUFxdDZOdl9tamtKc1Q4Vkk2UVJTTGxDRTBtc2RSbm1oSE5hYjJZcVVIX0R6UXZFRnFXMVRsV093LXZCXzZ2VWJ4M2Y3aS1yWW9YWnlwYXJaR1phVGZyOVhWcFlyMUpwMUwzLTRIbVBGa0FnaW1aMElrQzhDOU53VmRZQmNtSDZZcFFaYTZBRHpwYWFCMXhtUVV0R3gxMlNjVG5FUUVoYm1GNUdWbzZQVFVzQkkwc1NMdHFHVE9RZDdqbzJLWjZLTXVzSGRqNHZpRk50M0JYcEloTS1pcmtjZkdabU5EcFp3S3ZtN2xyZzlnSA?oc=5",
+          "time": "15h ago",
+          "body": "Open Vision Engineering Raises $11 Million to Drive Next Phase of Pocket's Growth  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Open Vision Engineering Raises $11 Million to Drive Next Phase of Pocket's Growth Business Standard"
+            ],
+            "tldr": "Open Vision Engineering Raises $11 Million to Drive Next Phase of Pocket's Growt"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1784176937967",
+          "title": "AI Pilot at Adv. Bapusaheb Bhonde High School Reports 31 Per Cent Improvement in Student Performance - Prittle Prattle News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDhHaFJKa0ZiYlllRVlXbGVJd2VyME5RcTQ4S2pLZ1E1WmJONXRNSjhZSjlVU01OS2NFeVVmcVRaM0RDR1hndE5aUnJxeXExQURhdWZpMDZycnBsWTdyQ2pUTTZNWUxNNERVU0llLTJOV1c5RHVDMXN2RHktbzFIUXJkVU1VWElmTzFFYVo5Z0d4ZHJXNW9ZRkR6SWNLTzBtN0xSenVOdHB5VThYWXNmVms2S2xJRks0LTFyM21peGR1RHJ6cGhUTXJJdUFleFpDTU05bU11STAyNjhfSlE?oc=5",
+          "time": "15h ago",
+          "body": "AI Pilot at Adv. Bapusaheb Bhonde High School Reports 31 Per Cent Improvement in Student Performance  Prittle Prattle News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bapusaheb Bhonde High School Reports 31 Per Cent Improvement in Student Performance Prittle Prattle News"
+            ],
+            "tldr": "Bapusaheb Bhonde High School Reports 31 Per Cent Improvement in Student Performa"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1784176937967",
+          "title": "Dubai Police organise workshop with Microsoft to accelerate adoption of AI solutions - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2ZDclEwczV2LW1JOXBlNUJRWlhwUDZhdzlwanpmWjBxNEMwMFYzQ2ZQNWZWdnNQTjFhV3d2cFR3ZWJDMzlBTXNMVUdwMDQ2S2JEVTBTZEtjOU9VdVkxRjFXX2k2RXo0Q0RoLWVWY0RHNl9fWWdPQ29GZlhJNmNyV3c4Yk03b1N3aWVlS3RabHhhVk42WEdZN0E4U3JfN2d1UHFCeGhWUjNvdkVXMmstZEpjVUlDZEJKWjlnVzhzaU10YkJYeEc4?oc=5",
+          "time": "20h ago",
+          "body": "Dubai Police organise workshop with Microsoft to accelerate adoption of AI solutions  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dubai Police organise workshop with Microsoft to accelerate adoption of AI solutions indiagazette.com"
+            ],
+            "tldr": "Dubai Police organise workshop with Microsoft to accelerate adoption of AI solut"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1784176937967",
+          "title": "Anand P. Joins upGrad as CEO – Learning Centres and AI Partnerships - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNVFKUFRXbDdPME4tdDRoTzFwSFoxNDM3MXQ5dkRUOUdkcUJFdV9ZUUNvOXluWGFGdzQ0U1VsYWhWdVZmRXdkRHIxVnNaSF80VnFIdDl5UDFpeGpfOVpuMHN0UEF1ZzlLLXMteXpZcHBWXzVlYmw0S0xCcW9HSnI5VF9vakVNRmYyM2tfNQ?oc=5",
+          "time": "20h ago",
+          "body": "Anand P. Joins upGrad as CEO – Learning Centres and AI Partnerships  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Joins upGrad as CEO – Learning Centres and AI Partnerships hrtoday.in"
+            ],
+            "tldr": "Joins upGrad as CEO – Learning Centres and AI Partnerships hrtoday.in"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1784176937967",
+          "title": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors - India Technology News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWJ6Y0xVLXR4Qzg0NmI4RVJKN0tzMklIcUlXMW9tY2lEX0h6NnpTSVRfZ2FUSkI3M0JRc1B5Nm5mQ3daQ1RNWjVWemI3QmVTWEdVZ0hrMURRdEt0Y2RQanhsdjQzOGt5dlVtRldkQlprdlJ0MVVjMURlcmMwVWdHbTMtem14ZUgxbTNnSklSR1pHbk5h?oc=5",
+          "time": "20h ago",
+          "body": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors  India Technology News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors India Technology News"
+            ],
+            "tldr": "Automation Expo 2026 Returns to Mumbai with 700+ Exhibitors India Technology New"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1784176937967",
+          "title": "India Can Become The World’s Next Superpower In AI And Deep-Tech: Dr. Mashelkar. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVUF5RHRacVJ3SlhlaUN6b1JpZndORDh2RnFJWDdKY0lxU0swUWJaX05fc0UxZ2FKYTFuMXNDT2tPVlprVGFlS1lkMUdlX0U5Z1NOY0lhQlg0ZlBXQ01EbVZKYjFXTE96LWxHRE1kWnlfYWlPVldFc1hUczdITlJCbjhUUlA2MHJQMDRhaU5SZXRUaDNuZkJKY3ZSaU1EeGk4YS1GMDhXYjYwZ0pVQmc?oc=5",
+          "time": "18h ago",
+          "body": "India Can Become The World’s Next Superpower In AI And Deep-Tech: Dr. Mashelkar.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India Can Become The World’s Next Superpower In AI And Deep-Tech: Dr."
+            ],
+            "tldr": "India Can Become The World’s Next Superpower In AI And Deep-Tech: Dr."
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1784176937967",
+          "title": "L&T Technology Services Reports 11.5% YoY Growth in Q1FY27 - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVlRU251aVBRNkxQNnFQU1pRVk5aS2U0M1YtbXlFUzdOMTl5em5aUzVyZEdkc0JHVDNNVmdheVhoUXZZRXp2ZVA3MzloZnoxdHFrRlVVV0dsYU9yN3pYeEIwaVRVRHNjdzhhQ3luZXlGR2l5eE1oZEI2Vjk0MlhoTGZibi13MWFyZEl1em9xaVBtcW0ycVRIOGh0czVjUTZxS2NBelRtWHVENzNDdkE?oc=5",
+          "time": "22h ago",
+          "body": "L&T Technology Services Reports 11.5% YoY Growth in Q1FY27  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "L&T Technology Services Reports 11.5% YoY Growth in Q1FY27 ANI News"
+            ],
+            "tldr": "L&T Technology Services Reports 11.5% YoY Growth in Q1FY27 ANI News"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1784176938022",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "3h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  The News Mill",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match The News Mill"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784176938022",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "15h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784176938022",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "13h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1784176938022",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "17h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1784176940335",
+          "title": "Gill's chase at Edgbaston showed why India already have Kohli's ODI heir",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Shubman Gill's unbeaten 80 against England in the first ODI at Edgbaston was a lesson in calculated ODI batting rather than outright aggression. On a seamer-friendly surface, he absorbed pressure, rebuilt after India's early setbacks and accelerated at the right moments to steer the chase. Even cramps couldn't derail his composure, reinforcing why Gill, who is still uncertain for the second ODI in Cardiff, is rapidly becoming India's premier chase specialist, much like Virat Kohli.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shubman Gill's unbeaten 80 against England in the first ODI at Edgbaston was a lesson in calculated ODI batting rather than outright aggression.",
+              "On a seamer-friendly surface, he absorbed pressure, rebuilt after India's early setbacks and accelerated at the right moments to steer the chase.",
+              "Even cramps couldn't derail his composure, reinforcing why Gill, who is still uncertain for the second ODI in Cardiff, is rapidly becoming India's premier chase specialist, much like Virat Kohli."
+            ],
+            "tldr": "Shubman Gill's unbeaten 80 against England in the first ODI at Edgbaston was a l"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784176940335",
+          "title": "Lionel Messi shines as Argentina pull off stunner against England in Atlanta to reach WC final",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "7h ago",
+          "body": "Argentina clinched a dramatic 2-1 win against England on Wednesday, ensuring their place in the FIFA World Cup Final. The defending champions staged a remarkable comeback after trailing for a significant part of the match, as England's lead crumbled in the final moments. Next up for Argentina is a face-off against Spain in the grand finale this Sunday.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Argentina clinched a dramatic 2-1 win against England on Wednesday, ensuring their place in the FIFA World Cup Final.",
+              "The defending champions staged a remarkable comeback after trailing for a significant part of the match, as England's lead crumbled in the final moments.",
+              "Next up for Argentina is a face-off against Spain in the grand finale this Sunday."
+            ],
+            "tldr": "Argentina clinched a dramatic 2-1 win against England on Wednesday, ensuring the"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1784176940335",
+          "title": "Watch: Messi's reaction after Argentina players find England goalkeeper's secret penalty notes",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Lionel Messi and Argentina teammates sparked a viral moment after their World Cup semi-final victory over England, as they inspected Jordan Pickford's penalty notes taped to his water bottle. The England goalkeeper's preparations for a shootout went unused after Lautaro Martínez's stoppage-time winner sealed a 2-1 comeback. Messi's amused reaction quickly became one of the tournament's most talked-about moments.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Lionel Messi and Argentina teammates sparked a viral moment after their World Cup semi-final victory over England, as they inspected Jordan Pickford's penalty notes taped to his water bottle.",
+              "The England goalkeeper's preparations for a shootout went unused after Lautaro Martínez's stoppage-time winner sealed a 2-1 comeback.",
+              "Messi's amused reaction quickly became one of the tournament's most talked-about moments."
+            ],
+            "tldr": "Lionel Messi and Argentina teammates sparked a viral moment after their World Cu"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1784176940336",
+          "title": "'Leo is still performing': Harry Kane uses Messi example to reveal his England World Cup future",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Harry Kane has refused to rule out playing at the 2030 FIFA World Cup after England's heartbreaking semi-final defeat to Argentina. The captain admitted the loss felt like another familiar tournament setback, with England unable to protect their lead. However, Kane insisted he will take his international future year by year, inspired by Lionel Messi's continued excellence at 39.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Harry Kane has refused to rule out playing at the 2030 FIFA World Cup after England's heartbreaking semi-final defeat to Argentina.",
+              "The captain admitted the loss felt like another familiar tournament setback, with England unable to protect their lead.",
+              "However, Kane insisted he will take his international future year by year, inspired by Lionel Messi's continued excellence at 39."
+            ],
+            "tldr": "Harry Kane has refused to rule out playing at the 2030 FIFA World Cup after Engl"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1784176939287",
+          "title": "Kasheli Metro depot achieves 23 per cent progress as MMRDA advances Metro Line 5 project - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd1lfWWFfWDNIb1FEbnZqZ19IUG1xd3VUZTBQenBjTmRpXzZrUGd5UGNKZzZ5ZDdLSmJtTlVTVnN3U2gyOE44enpxdkU0OERqQ0Vma2l4aTZkUFJJSjMyOTdlUnNOQm1TRVRVMGxtWWIzNjk3Z2lVMzN2SnQwWFctRW50M1BsOGpOTDVWdGw1RHFUaHNxUGtva0lzSWdneWFFODVRU19TOG1keHZzLWhUd3lzU0NkZGVCUXB5OGZkQk42eVBKSXdKZ1FvR0xDSlQ5Y0pEbmpiY0dCTGtFUTlrRVpXNjcwTknSAecBQVVfeXFMTndZX1lhX1gzSG9RRG52amdfSFBtcXd1VGUwUHpwY05kaV82a1BneVBjSmc2eWQ3S0pibU5VU1Zzd1NoMjhOOHp6cXZFNDhEakNFZmtpeGk2ZFBSSUozMjk3ZVJzTkJtU0VUVTBsbVliMzY5N2dpVTMzdkp0MFhXLUVudDNQbDhqTkw1VnRsNURxVGhzcVBrb2tJc0lnZ3lhRTg1UVNfUzhtZHh2cy1oVHd5c1NDZGRlQlFweThmZEJONnlQSkl3SmdRb0dMQ0pUOWNKRG5qYmNHQkxrRVE5a0VaVzY3ME5J?oc=5",
+          "time": "21h ago",
+          "body": "Kasheli Metro depot achieves 23 per cent progress as MMRDA advances Metro Line 5 project  Mid-day",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kasheli Metro depot achieves 23 per cent progress as MMRDA advances Metro Line 5 project Mid-day"
+            ],
+            "tldr": "Kasheli Metro depot achieves 23 per cent progress as MMRDA advances Metro Line 5"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1784176939287",
+          "title": "MMRDAs Kasheli Metro Depot Reaches 23% Completion, Boosting Metro Line 5 Progress - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZldSLTZSbkNGX3pWeWpQQi03cXFVcnQ1V3M5UXN4MTB5OFJENHFUV043VFRkZmE5RkVrRld4WTNSMlBET1dtVjZNMndxZUhfOHRKd2JCWG8zYjBzS1V3NE44Q3gyWXBITGVBenNGTDNfRGpnNlNoOW9rcXBIOThiWENRTUhpVE1lMDlwaHM2SVpTYjh6S0tta21YaUpZWnVJalVmMzV2Y19aZm1XVFI0Q1lGM05qYzVia1FIUldfONIBvwFBVV95cUxPZldSLTZSbkNGX3pWeWpQQi03cXFVcnQ1V3M5UXN4MTB5OFJENHFUV043VFRkZmE5RkVrRld4WTNSMlBET1dtVjZNMndxZUhfOHRKd2JCWG8zYjBzS1V3NE44Q3gyWXBITGVBenNGTDNfRGpnNlNoOW9rcXBIOThiWENRTUhpVE1lMDlwaHM2SVpTYjh6S0tta21YaUpZWnVJalVmMzV2Y19aZm1XVFI0Q1lGM05qYzVia1FIUldfOA?oc=5",
+          "time": "16h ago",
+          "body": "MMRDAs Kasheli Metro Depot Reaches 23% Completion, Boosting Metro Line 5 Progress  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MMRDAs Kasheli Metro Depot Reaches 23% Completion, Boosting Metro Line 5 Progress Free Press Journal"
+            ],
+            "tldr": "MMRDAs Kasheli Metro Depot Reaches 23% Completion, Boosting Metro Line 5 Progres"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1784176939164",
+          "title": "Meet Mira Trivedi, Indian-origin student in New Jersey who's pushing her school to not call Hitler's symbol 'swastika'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery. Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery.",
+              "Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike."
+            ],
+            "tldr": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstand"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1784176939164",
+          "title": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]"
+            ],
+            "tldr": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, "
+          }
+        },
+        {
+          "id": "mumbai-general-7-1784176939164",
+          "title": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]"
+            ],
+            "tldr": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1784176939164",
+          "title": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher....",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offer was higher..... [object Object]"
+            ],
+            "tldr": "Rishabh Agarwal opens up about rejecting $1 million proposal from Meta: The offe"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1784176939164",
+          "title": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object Object]"
+            ],
+            "tldr": "Indian-origin man posed as CIA agent to secure fighter jet deal: Report. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1784176939164",
+          "title": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with murder 8 months after wife found dead in US home. [object Object]"
+            ],
+            "tldr": "Cough syrup, 4 calls to 'girlfriend in India': Engineer husband charged with mur"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1784176940586",
+          "title": "Volkswagen India expands Maharashtra network with new dealership in Chhatrapati Sambhajinagar - ET Auto",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUklfemg2TG9NcWUwSzJDRjFnYnFmMDJBZnpSNmNrSkJNUlV0UTk2YzdBU3Q5YllJeVZKb3ZraVQtWk9GRHlYNU9zejc1b1U1QXZGNExkSXdBZV9FSy1NTWJKNVZUYnBBdHY1Q2xVZ2pLU0JzQ1NlLWRTWE9PLXdyaUw4YklGS1ZCaXRYV3BQeklCaVRTLUUyeFQzZS1HdVkzcmZOTy1ZT1NIbXhyM3FremRPOFZwbl9QRkZWa0E3UkNSeGdvODgwdDNqSG5QMl9sWXh0WUVoZUZzelVDa01IaUVDX2dwNzlubjl3d3Exa1oyUVBNQk5MOTY2RUhFcFUzLXNXUGpCSzNJMEXSAZACQVVfeXFMT2k0RGxFaEQtaGtPNldxeURSdFUzUEtjU1J1OThDeHFTdm42cHlKT01OYnQ0bHU3SS1CZHNxOUh3UUgzZTdnTV9BSGlxT0ExQ0tLSDJ2YUdic0xIeXRuYWRxM2tUX0NNbnFEQ0NyS1Q4eEEtRUtVRlpPN25YYnk5QWFYOUxDVVF2UnN5TU5GdTVyZEh3OWdTMVRfMkpSUXlfUXR3QkFDTFRMNVJVTThzaUZRVVlWamlScTZhYVV3ci1PWDJ2QVhSYTJCZUVLck1wOGtiWGpTRVZfMVJqdWY0WFVCR0RtZHdBSjQxUFhCTVNKOFdWbzNpU1Rxd3dYQ2lZYnRvMzh6ZXY3eHFEbWoxOUY?oc=5",
+          "time": "15h ago",
+          "body": "Volkswagen India expands Maharashtra network with new dealership in Chhatrapati Sambhajinagar  ET Auto",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Volkswagen India expands Maharashtra network with new dealership in Chhatrapati Sambhajinagar ET Auto"
+            ],
+            "tldr": "Volkswagen India expands Maharashtra network with new dealership in Chhatrapati "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1784176940586",
+          "title": "Gold Rate Today in Aurangabad 16th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "2h ago",
+          "body": "Gold Rate Today in Aurangabad 16th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 16th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 16th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1784176940586",
+          "title": "Volkswagen India Launches New Retail and Service Outlet in Chhatrapati Sambhajinagar - Autocar Professional",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDdSZTd1MmRPcGhwbnJJSDVCZUNnQXlHWEw3T2lfc3RZNFFNM0luUFlCMnFENUlSdEtGdHFEQk9jM1ltb1FrV2ZVTE1CZ0loODg2cExPaS1pb3JUNjJfdF94SU5hN3lXWmNQMWY3TlFORmdUSWc5ZmJxamkweXRaMjdkTVJpeTF3M1o1czR3Q1dHVmhaY082Q3JJRmt2OUpqLTFwRkw4UzVYUXRzRGthV1J2b0dGaWpiVnRCVm82RdIBxwFBVV95cUxNa2lGUWd1WU0zdUUtRTRNZ1p2dVc1bU5rM1ZSa1NRU0Ytc2xmeUw2dzFNaGc3VE5LMVZ4ZTlyNFREeDJZOWl5OHZhUTlKaWVvTEZ0cmJRXzRBVGJQa1dZeVUtMTg4WWpFWnpCZjVsX043ekhxZk5BTWdpSmZqMzZmS2Y4aEVJRmZELTlGVjRlUmFhLVZiZC1vTHNURHp3SHRRZ2ZNaVc2aW55LVY2bmtER0RsMXl2OFRIX3lZUzdlekJnMXFqbjVF?oc=5",
+          "time": "16h ago",
+          "body": "Volkswagen India Launches New Retail and Service Outlet in Chhatrapati Sambhajinagar  Autocar Professional",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Volkswagen India Launches New Retail and Service Outlet in Chhatrapati Sambhajinagar Autocar Professional"
+            ],
+            "tldr": "Volkswagen India Launches New Retail and Service Outlet in Chhatrapati Sambhajin"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1784176940586",
+          "title": "Government Invests Rs 200 Crore in Ather Energy via India-Japan Fund - Siliconindia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUExrT2M1UXRpc1AxZngwWTBDZmFzM0VnZ3RMYmJfVzZVWi1VdjBraENmMzhKdE0tT3VGQi1maU1qellqWW1sTWFLSURmakQ5R0JEUG9uRHA0bzFCbTc4MzFMMUI3dEt5cXRVTHFTR1dZQWRIbmRaNk5nNHppSHNHQlhVSVp0OTB6T21OY0V6S09vQmp3THhNZHFrbjFQb0RRWmI1bzJta09yQ3JrNllOZkRKaDBmcHNIVURXSjZiaHBjZXNLbnJMVGdGcw?oc=5",
+          "time": "1h ago",
+          "body": "Government Invests Rs 200 Crore in Ather Energy via India-Japan Fund  Siliconindia",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Government Invests Rs 200 Crore in Ather Energy via India-Japan Fund Siliconindia"
+            ],
+            "tldr": "Government Invests Rs 200 Crore in Ather Energy via India-Japan Fund Siliconindi"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1784176940586",
+          "title": "BJP govt ignores farmers at its own peril, will be voted out: Maha Cong - thehawk.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVM4ZVZXbHJvdHhhWFRyNDYwMm9MRk1qUHdTZkJfbWZ5WDAwQ0hkQ2RnVFZJeDd1QWdZT21mRFA4SC11djl4R1l6QzRKZ2VLMUtKY2hEVnlBOVJMc0tsODJtanFjazFOWnQ5N2RQeUpRMW1PdEJqQjlLTW1NQURNaHRJUXRpR1hiR0JTaDZDMm9WN3B1Y1EyNGxXTE9KZm54c2Y4SW5B?oc=5",
+          "time": "11h ago",
+          "body": "BJP govt ignores farmers at its own peril, will be voted out: Maha Cong  thehawk.in",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BJP govt ignores farmers at its own peril, will be voted out: Maha Cong thehawk.in"
+            ],
+            "tldr": "BJP govt ignores farmers at its own peril, will be voted out: Maha Cong thehawk."
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1784176940586",
+          "title": "Govt to invest Rs 200 crore in Ather Energy's Rs 1,200 crore fundraise through India-Japan Fund - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR2FhcWxPVUdNb08waFRQRkdkTDJWbEQ5TmVVY1RuTDhSU2p2QkY1RloycWN6TzlLNkpMb2c4THgwX2RmUkRqckpGODJiUDB2YUtuekNLeFFTVkRnQWdUMWt2UU0zT29MODZjOTI0cEdWa3dxUWZXbkdGcFNoX2FoR2dtSlZ1SVdQSEZqaFNvdkRza3JxaWRUYk05ekVzVFpHUXNXM3l0M1hhVy1yZ0Y5ZVM2SHc5bjRmdDdyalN6WC01eFNwaUd6aGR5X1FEUi16WVptTUM3Q3ctX2VadVpsdlEzWmV1QQ?oc=5",
+          "time": "14h ago",
+          "body": "Govt to invest Rs 200 crore in Ather Energy's Rs 1,200 crore fundraise through India-Japan Fund  Deccan Herald",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Govt to invest Rs 200 crore in Ather Energy's Rs 1,200 crore fundraise through India-Japan Fund Deccan Herald"
+            ],
+            "tldr": "Govt to invest Rs 200 crore in Ather Energy's Rs 1,200 crore fundraise through I"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1784176940586",
+          "title": "Fadnavis seeks report on issues delaying Chhatrapati Sambhajinagar water supply project in a week - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbkF0ZjBkSnQxQ1ZpWTgzWE10V2FxYXJRV09fWHhLMlc1RmZSVEx5VnJ5M292aUZtTzZFZFBWZTNwWlZyakFKMi1DeUtydUpsNkdjQ3BBSWYwcnkzN3hROVBia29fZHFsZ2JZQmJ5Sml2dk9CTGpybC1SZkZxVzJxMjBnQ2dHeTlWR093TnhoUF81bUl6VGl1ZHlZTWtmMjVPYVUxNEFBMk5FSXhJd1poRjFESW9UWm45c3BWTjh2eUxzTmRGVlZ0em4zenZma2pzRjhkWVQ2RlVseFhWeTQxNG9yaFJ5RGF1Ym0tSXRselNaX1BoX19La21EZ20zNTdYU2h2ZWxKbDJJQ1XSAYsCQVVfeXFMUG5BdGYwZEp0MUNWaVk4M1hNdFdhcWFyUVdPX1h4SzJXNUZmUlRMeVZyeTNvdmlGbU82RWRQVmUzcFpWcmpBSjItQ3lLcnVKbDZHY0NwQUlmMHJ5Mzd4UTlQYmtvX2RxbGdiWUJieUppdnZPQkxqcmwtUmZGcVcycTIwZ0NnR3k5VkdPd054aFBfNW1JelRpdWR5WU1rZjI1T2FVMTRBQTJORUl4SXdaaEYxRElvVFpuOXNwVk44dnlMc05kRlZWdHpuM3p2Zmtqc0Y4ZFlUNkZVbHhYVnk0MTRvcmhSeURhdWJtLUl0bHpTWl9QaF9fS2ttRGdtMzU3WFNodmVsSmwySUNV?oc=5",
+          "time": "11h ago",
+          "body": "Fadnavis seeks report on issues delaying Chhatrapati Sambhajinagar water supply project in a week  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Fadnavis seeks report on issues delaying Chhatrapati Sambhajinagar water supply project in a week The Times of India"
+            ],
+            "tldr": "Fadnavis seeks report on issues delaying Chhatrapati Sambhajinagar water supply "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1784176940586",
+          "title": "Ayush facilities set to expand in Sambhajinagar - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTV81Tktnblo4aW0yNnNNUTIweE91R3FDeXZMMWVVWmR4LTZrMFNHLXl4aEMxdDhqd2dXeUpYXzlpbDQ0cVFoY2JYQWsyZU5ZbzJOb0ZKdlE2ODdhNFBTSXJMX0QyVHpCSEVSVHNzVy1nVmwtbUVrSG1laHdwenEyLWpoRDZRNjBPZE05RUtUY3NOMUZGUzR3V3g5VjBmcWhfXzR5Qm5lc05NWkRUQUhrOWdydUJmdzFGZ2Z2TkVlMGNvSzU1dHN5UtIByAFBVV95cUxOTV81Tktnblo4aW0yNnNNUTIweE91R3FDeXZMMWVVWmR4LTZrMFNHLXl4aEMxdDhqd2dXeUpYXzlpbDQ0cVFoY2JYQWsyZU5ZbzJOb0ZKdlE2ODdhNFBTSXJMX0QyVHpCSEVSVHNzVy1nVmwtbUVrSG1laHdwenEyLWpoRDZRNjBPZE05RUtUY3NOMUZGUzR3V3g5VjBmcWhfXzR5Qm5lc05NWkRUQUhrOWdydUJmdzFGZ2Z2TkVlMGNvSzU1dHN5Ug?oc=5",
+          "time": "11h ago",
+          "body": "Ayush facilities set to expand in Sambhajinagar  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Ayush facilities set to expand in Sambhajinagar The Times of India"
+            ],
+            "tldr": "Ayush facilities set to expand in Sambhajinagar The Times of India"
+          }
+        }
+      ]
+    }
+  }
+}
