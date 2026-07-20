@@ -1,0 +1,794 @@
+{
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T05:09:18.520Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1784524153216",
+          "title": "Fight should now be launched to change government that is not accountable: Uddhav - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSHlSUURBd3N0TXlTRmk5dGNkV3EwYzYwVmwwdU95SWlNSkl4QnJENWdrczNlNVBYY3Nnd2wzWEItQ1lYVjR6VWdKdVJILXhFVW9xNEFqVXhhd21hV2pYUlZnZnBKR3g5cVlPclN3UFZzMENhMWNYTHNqSm1TSnJQMXk3d283RE9zVFdKXzI0MlE4eW50WFgwMFlZbHk5bGxPbE5LNl9PeWRvbTV2R19ZbTF6ZFhoZS12anVKTXJNbGMwRURzMDFaTjMwXzlfSTB3VUtfNzJ1ekhKZDZnYWlnOHowONIB4wFBVV95cUxPSHlSUURBd3N0TXlTRmk5dGNkV3EwYzYwVmwwdU95SWlNSkl4QnJENWdrczNlNVBYY3Nnd2wzWEItQ1lYVjR6VWdKdVJILXhFVW9xNEFqVXhhd21hV2pYUlZnZnBKR3g5cVlPclN3UFZzMENhMWNYTHNqSm1TSnJQMXk3d283RE9zVFdKXzI0MlE4eW50WFgwMFlZbHk5bGxPbE5LNl9PeWRvbTV2R19ZbTF6ZFhoZS12anVKTXJNbGMwRURzMDFaTjMwXzlfSTB3VUtfNzJ1ekhKZDZnYWlnOHowOA?oc=5",
+          "time": "15h ago",
+          "body": "Fight should now be launched to change government that is not accountable: Uddhav  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fight should now be launched to change government that is not accountable: Uddhav The Hindu"
+            ],
+            "tldr": "Fight should now be launched to change government that is not accountable: Uddha"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784524153216",
+          "title": "Maharashtra Seeks Higher PDS Quota, Mulls Raising Ration Card Income Ceiling - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUpubU5kTzlDQW5GUEdIQm83V1NPbEctV3JsY3Y2VjJGZnZ3YlBWbzhiNk5lc3BDeW1IZ21xbktaakRDUVhMQVJvT3ZnaWRHZHE3Nnphdm1uZEswVGhZTlpXN2NDOFp6VVpSMFhSZXlBVV9RZm4yQmxlTnlxbkhwSXVNX1cyd0hZTDVOVDFYQWNNVjdwcml5WmVFdWF5cWo2bzI3a3hYTWFUS3ZlNGN1LVg4cmVhS1UtRmZqRDhOS0FYVWxSa3NWSGJpaFFDMXduWldUWNIB2gFBVV95cUxOeVZjQTZNa2gteTZqN0NLaDd2R1pJUWVMN3JyOHUzcnBVZTNmVDJ4TmMxVjlqazlfcjVNckp0SGRUYnpKd3JvZVBfajJxX3BkQ0lYQ1lrQTdhNUlIbmxmenFTeC1BRkNDZ0R0bTU2d1hycGRJamdIUXp0c0dPRkRuMTh1ZzI3WmpVUzVhYUdZUXhTcHN3bkZGaEtmTUFEbXZWYWVrcG9oTkk5S3drWkl0U3BtdGM4LXIwRWJtcFVlT3kzODVEaXpSOFgwZFE5M1Y2RHYya2lFNWhDUQ?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra Seeks Higher PDS Quota, Mulls Raising Ration Card Income Ceiling  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Seeks Higher PDS Quota, Mulls Raising Ration Card Income Ceiling Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Seeks Higher PDS Quota, Mulls Raising Ration Card Income Ceiling Dec"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1784524153216",
+          "title": "Fight should now be launched to change govt that is not accountable, says Shiv Sena (UBT) chief Uddhav Th - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOWWRBUVc5M2MyNEsyUUtpTG5oRzlsZ0cxaTZCdWx1N0RuMEJCZDlEc0xoWGF2emNFd0JXUUpmZkJfSG5yODJCdUhCUWtXWHc3U2RLdm05ck5Od1FCRzVYLUdYSXZreU9Na19BcVQycnZEbzVlODNyZEZ1YjY3V1RiVVp5WTB4Zk5lVlFXU2hpUlZOSnBnTDVpbzU5VUlKMzEwWlgxQmlidFd4a0N1UG9WUzhyR0JZUXYxdmIxZTNpUUV1aXJaWjhQQWNRUFRsZ2dBMlRuWFFEel9vcEV0am5LUWZ6T0xKSUxfSzJhREhheFp5ekdfbFJtUk5RVldjRVVFYl9qSWM1d3hRYWZyYkUtanItMlhOQdIBlgJBVV95cUxOWWRBUVc5M2MyNEsyUUtpTG5oRzlsZ0cxaTZCdWx1N0RuMEJCZDlEc0xoWGF2emNFd0JXUUpmZkJfSG5yODJCdUhCUWtXWHc3U2RLdm05ck5Od1FCRzVYLUdYSXZreU9Na19BcVQycnZEbzVlODNyZEZ1YjY3V1RiVVp5WTB4Zk5lVlFXU2hpUlZOSnBnTDVpbzU5VUlKMzEwWlgxQmlidFd4a0N1UG9WUzhyR0JZUXYxdmIxZTNpUUV1aXJaWjhQQWNRUFRsZ2dBMlRuWFFEel9vcEV0am5LUWZ6T0xKSUxfSzJhREhheFp5ekdfbFJtUk5RVldjRVVFYl9qSWM1d3hRYWZyYkUtanItMlhOQQ?oc=5",
+          "time": "14h ago",
+          "body": "Fight should now be launched to change govt that is not accountable, says Shiv Sena (UBT) chief Uddhav Th  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fight should now be launched to change govt that is not accountable, says Shiv Sena (UBT) chief Uddhav Th The Times of India"
+            ],
+            "tldr": "Fight should now be launched to change govt that is not accountable, says Shiv S"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1784524153216",
+          "title": "Fight must be launched to change govt that is not accountable, says Uddhav attacking Modi rule - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFFzRWFHbG1wWHl1RURHSXdsbng5NWhIaE9rZHRiVFZrTTNhS0drUjEzdEVXS2VTNlZWVU54aGFUa0hiNnJ2dHRRQzBJTE5MMklvcUg2YTloLXJUNGFLVGdhYURZZDdZbWFXZGJaUGFTNTNBQVNkUmhFNzlxWjRCZ25XYnpDQVBGek4teVFBc3I5SFhNM0JUNEVMU29rbEN0RUZvbmc5NXJZRVBaSWZNS0NmQXhCdnQzSjVNWkl4Ylp0QUZFaVdV0gHMAUFVX3lxTFBsV3ZxVnBIZnBYVXJlNmhOd1pPb015OXF5WDNEdjRwYTJ2M3BXd0JKa2FFd2JRN2IxWE9lUERhSTNCVzhmRTdVZm5qbmtVSmp2NnJTSF9xRUdVeThWZ2Q1ekY2MWNxVVdEV3RWbkdZZHl5bncwY0hNbWV6SXQwSkZYOF9Ub00yY1J3QzgyZUFNLU53WEc4bXRUbW9UeXdMdXl3OWpGUnd4ODhFbnEzNXNqOU1xNTZZeVNVYUZRenMtME5sS2ZqYnVGRk9kTQ?oc=5",
+          "time": "13h ago",
+          "body": "Fight must be launched to change govt that is not accountable, says Uddhav attacking Modi rule  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fight must be launched to change govt that is not accountable, says Uddhav attacking Modi rule ThePrint"
+            ],
+            "tldr": "Fight must be launched to change govt that is not accountable, says Uddhav attac"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1784524153216",
+          "title": "Fight Must Now Be Launched to Change an Unaccountable Government: Uddhav Thackeray Backs Sonam Wangchuk - Mumbai Live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkstVjJtbTlMVTJCTnZUS2ZoaXRYc0Q3ZUo4dVFnaWV3OTBTV08xTHBSRkdTSWN6X3B1NmlreF9QNGl5RlA4U0xwVGdkRE9XTnR3YUxUZEY4NzRObV9KTFFueENVamhrdGphLWZBSFdwcEJsRkdRLVN0ajhaeHM2d2k0Zk11YkpORWlqa1lBU1B0MDViSllJclNzT3oyX2lZVnVjUWJoUzRUMTREODNDUm9jSXlRS2fSAbwBQVVfeXFMTnFtaXRzNlp6RkdKbE1XaFA5R0xvZVFyWjRXaTBDRkYzZVA4cmpkSXAtSm1RbGJORk5tdnNqS3g4ZGo5WTRYLUo1R3g4UXVZeE9MTmoyZTVJOEVpU1l5T3NHWGJUODk4WVZRcTJQbWczckc3SFJkVVVhdXpSN2lEelJ0cWQ5M3JNVGtGMU9QTEVJMUFHTS1NVFhjaHBVdUNKZDE0czVkNVU4OXVqYXd1a3BnYmFyX2k4OWNzdHo?oc=5",
+          "time": "1h ago",
+          "body": "Fight Must Now Be Launched to Change an Unaccountable Government: Uddhav Thackeray Backs Sonam Wangchuk  Mumbai Live",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fight Must Now Be Launched to Change an Unaccountable Government: Uddhav Thackeray Backs Sonam Wangchuk Mumbai Live"
+            ],
+            "tldr": "Fight Must Now Be Launched to Change an Unaccountable Government: Uddhav Thacker"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1784524153216",
+          "title": "Hello Mumbai News Impact: Maharashtra Government Transfers MAHADA Joint CEO Vandana Suryavanshi to Forest Department - Hello Mumbai News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeFB1Sk5ONGpJaXFNVkdHeUlyWWRMWWt5SWhmSFhYTWlsdlJVSXM1VHo5NTJaODF1b1M3N2xLWV9FTHFDaTVORTF3bmhLa0QwVFZYWFFRZjM4cGJETWhCOGVRQ1haNkl3OWYxUGxjaG5HU0VVSll1SXFJcXd4LTNPeWZvNG5SUVJ0SkhqWGx0cUItUm9QZG9Pa2E3LTFwV2RDem44bTVZcHZLUzVLcFJoWG85WEUtSm5ramdZLTk1M1E4UDZxTHptNDRxVGlXS1FDeW92b1NlU01BQ1A3LVI0a0t5N05ZZ0swZlpER1pR?oc=5",
+          "time": "23h ago",
+          "body": "Hello Mumbai News Impact: Maharashtra Government Transfers MAHADA Joint CEO Vandana Suryavanshi to Forest Department  Hello Mumbai News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hello Mumbai News Impact: Maharashtra Government Transfers MAHADA Joint CEO Vandana Suryavanshi to Forest Department Hello Mumbai News"
+            ],
+            "tldr": "Hello Mumbai News Impact: Maharashtra Government Transfers MAHADA Joint CEO Vand"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784524153216",
+          "title": "FIFA WC Cup final: Restaurants and hotels in Maha to stay open till 4 AM - thehawk.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclJoSlRkS3Nsd1RrOEhRbWtkOE5DT0pPN1U1bzFKOWltMV94Q0tYN1g5UkVSSk5iNGg2NlBaTmJ4c1FGOEZ6dlVNMjdfNDJxZ19jeVlzV3d6Mi1JWld0djAzUkwxaVJJVDBQR3F2cm5KT3B0RkExbmVSbkFHdzBtY1F0UE9KWHp0Ri1oYUg0cjFXbkl4cl9OT2J2VHFHVmwzT0RHYXlEcVRPZw?oc=5",
+          "time": "4h ago",
+          "body": "FIFA WC Cup final: Restaurants and hotels in Maha to stay open till 4 AM  thehawk.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FIFA WC Cup final: Restaurants and hotels in Maha to stay open till 4 AM thehawk.in"
+            ],
+            "tldr": "FIFA WC Cup final: Restaurants and hotels in Maha to stay open till 4 AM thehawk"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1784524153216",
+          "title": "Maharashtra allows restaurants, hotels to stay open till 4am for FIFA World Cup final - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDdRdHhrcDFCOVd0U1gxczVQTGhES2pLNE5WTGVuSEFKTVZqeWxFcjZsQTBYTWlmRUNBZ21WUmxpR2dQR2JMMFhacTJOb092TDRPQWNPMHd1bkRBQ29CUFVkeXJoV2ZjUzctenBfd29JRlhUcU8wMzNKRmJyakVERmNSZGJLNlVPdlRBNU1vVU9TZnNNX2oxOFhuUl9yT3F3bjI0cFh1Z2NIQ0hHa2J4U1gyRV9lR0gzWm9ab3hRcHB0dHJTNDdZVUdqSG54Y1A0b0RJSWtQaFF4ZEpucFJqMnFINnZWREpxUlZsRVk2QdIB9AFBVV95cUxOb3lNWkpCV2pkOGltZUhaQnc0a2JKUTVUb0pRQkI3eVpPVUF0Q2dUY3p6V1N4ZUNWb2UyWjNzYkhwZThHU01zVDZvM21jcEVDT1BaTWNYMW0wc0xNcXpxRXFKZDJUOUhybjRweFBuSzRIeTZJQjFZX3RJU1ZKemw1S01xcXlZYjFjYmJwSEhyU3V1eWRONVZhQ0ZqQXRBcEg0OXVkU3l2RHhrWDVDVG9rQVR2M3VCSFNOVU1sbkVNamhPWURsSkFVeEpPX2tVaDltN3RHZEdmTmpJNkRicGhlSFE0M2FKTVkxcFdRNWFMdGw3ODIz?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra allows restaurants, hotels to stay open till 4am for FIFA World Cup final  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra allows restaurants, hotels to stay open till 4am for FIFA World Cup final The Times of India"
+            ],
+            "tldr": "Maharashtra allows restaurants, hotels to stay open till 4am for FIFA World Cup "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-1-1784524153216",
+          "title": "Tug-of-war over finance and more | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeW5NT3hXcXFCNkJjOFVJZ3BxOGZ4UmxJbEJCcHFwcF9TNm9QZ1Y0VV9VSVZRQldGeTEtWTk0MEZTeFhVQlNHVlF1MUs1NGV3WFlJWUF6WjJXQUhlMVpVNDI2NFpEcXR0MEpGNkVkSW9qdVNpdDBMT3FQbjFZaWRBMnZYRGlqNFJiR012MndaQkFkYjVXM095a0QyMGkxcGxrenMw0gGoAUFVX3lxTE1SLWFEY3QxaTl2UGdoZUg1dVdfOFdtbGJkWVpQSmFBallJRHJnazZzZ1lrVndONVRYcXc2Zk9WVVlXNjhqMXJMTHRQdnltQnYwSWVydFNKV1VJLXphcy1mY0tsMEo3ZkNqTGZYekx6YWQyTW5mRC1Zdk90MFh1a1BOT01Qb1F4M0l6S1V6eDEtQTBhZzR4WUZtc1FOMngzX3lQRFNwLTNfcQ?oc=5",
+          "time": "2h ago",
+          "body": "Tug-of-war over finance and more | Mumbai news  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tug-of-war over finance and more | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Tug-of-war over finance and more | Mumbai news Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1784524153267",
+          "title": "Domestic markets end in green amid hopes of de-escalation of West Asia conflict - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUFucnNXSks5ZHVwYlBTU0xtRW1FTDE5MXk5bWgyOWhuQzkxOGpOZW9pbWxoalBILTgxSHpGcHdza3dVMExZSHRXZmR2QkZJb2E1VTlvZzE3WjA1N2xqUXpUVWJvSWJxMXczVmhCaG9zTGotWFE4LUxxa254bFp4d3ZJNmxqQmJ6Q2FBd2JhZDZNbzA?oc=5",
+          "time": "10h ago",
+          "body": "Domestic markets end in green amid hopes of de-escalation of West Asia conflict  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Domestic markets end in green amid hopes of de-escalation of West Asia conflict News On AIR"
+            ],
+            "tldr": "Domestic markets end in green amid hopes of de-escalation of West Asia conflict "
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1784524153267",
+          "title": "Stock Markets Tumble: HDFC Bank, Crude Oil Spike Drag Indices - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX2VyRXBrRnRkdzdPMFJsV2ZwLVN6Y3lHRXlDcFNLY2ROUU1jX0tMcUtMcDB5MXVITHM5eF9VUXpaTTYxZlczLWJVQlZGTjlrUndwSHVyQllSWTVGZWtPUzlWU0FrXzlwT3d5aHFxVHNReUFwN1M2eXZnd0lSTXpvalpWSkRHbnMyS3Mzems2UXh0V3dDSERqNmRESWdrZUNZNy1TRHFwODFWeTE1Z2JhWdIBtgFBVV95cUxNX1lZTmtlY0pMOHpMdFNRejlfbERnZVdoS21mNzhncmQ0RnR5Y1hCRDFVM2ZNRGJDN21NUUFySkQwWVFzNHNxdEJOaFl1dC03UjVGcjJuWlBsak0tSXFPV3dzS0I0YkM2cUJkdHdrcUxYNEpqamxRQjNxbnNSSDNMeER5VHdqSTJUakEzNXdfMTVidG8tV0lEeGxrQ1U0ZU5NaVN3eXg2WlUwdmgtWEJWallkcVZoQQ?oc=5",
+          "time": "Just now",
+          "body": "Stock Markets Tumble: HDFC Bank, Crude Oil Spike Drag Indices  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Tumble: HDFC Bank, Crude Oil Spike Drag Indices Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Tumble: HDFC Bank, Crude Oil Spike Drag Indices Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1784524153267",
+          "title": "Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQWtKLXdEZmhGeHByVU1Od2NyeXlzWm9mdHpiWWpOVjJmbERNaVlyUWFuNnFuZUtUMzlGaEt2Y1dRUjE0bFR1WFpnNmpWVy1ubFhRQkxKWF85LWcwTWg0a1hRNl85ejdjYzI0SzN4SUJWNFByR2dGeU9ONFJzUy14dmd5TXc2ZzViUUtqTjBZMkQtLTVYTWRrT1lGalYzSkp5dFFoalF4ck9Qc1pBaVhZQWo5cU1XVG41ZU12Mms1N2luY1FUMkpfSWhJaHlEczJ3M2kxb0FPSG9yQjBYTllJdWZyX2xObVlFU0liY0V1VnN2dnYzdVBrcdIB_gFBVV95cUxNdzRuYnZkSDBuZlZxM1pxOFlsMHktRHhwNGFpd0JnT2w3WnhvVm9zXzB6SHRNenZUQTNLTTY4SUdpV2hldHJxeTlMaHg4NGFud2tVc0tPVU1jV1BxRGdRZjBHdzc1N3VFaFRqVGxjMjVJN2FPaV8ta21TV3FKckw5YzNlWHVKV1BpOWNPY3I3T3F5SmhNWkdxdWwyUWVkREdZN1NMMURBUlVtbXdCRUJJcnFxelJWcUZucDdjMGFibEQ4NXpIanZiVnNHcVhPeVpWNGNOM3RxakdLcW5qYWlGQi1jYW54aVVlY1JIbDhyWVpkNzdYdVBuVm1IdzVaUQ?oc=5",
+          "time": "2h ago",
+          "body": "Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus today; check list here livemint.com"
+            ],
+            "tldr": "Stocks to watch: Paytm, Reliance Industries, HDFC Bank among shares in focus tod"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1784524153267",
+          "title": "Stock Market Outlook Today, 20 July 2026: Sensex, Nifty May Extend Rally as Q1 Earnings Take Centre Stage - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHc5MVhFdDlKbThlYVJPYjlyNTY0eDF5dE91MVNqSWlqaV9ydFlaWnROWmFnV2RCY3h4MG5wRmdydktDSktNNy1zdUpZbkFmbGpmd3NrcWk2emR6VElONy00MjNvejFBZEdxMzVsbjBReWt6dllWbDNGSVRFU1lUeUJCdW1CS2xtV2pxaXUtT00xc2YxM0RjdWcyZ2x0NmxmbXFYZW1ZUWVVcl9OMUJncWVpdktLVVh3Y0VSazctV0lZUVlINXdPa0hqR3Z4Smc2bUItZ0VQNVDSAeMBQVVfeXFMTW9LRXhkVHExeEZYT2pRRFdIV01ZZ3ptY1VFdUFLVzdMQ2ZFOVQwbXBQS2o2dVM1MVhKYzZtOVhIcWhfZ0o4OVhpcmFLZEVlYUdUWTFQUjFXSVhDdGpoaUVzZi1DOHByVTc0NHB1Z01WQkVqWWhGZk16WDBjMllHakRCTjIxbUk0VWZFZldWQXNwbDhRSHh6OE5fX3ByUWdOOWZIRjlrc2g0Ulp0akdQdGt1OGhZX0ZMejh0WGp4clJNYUZodDdVZUhrZW1lbkRwdjdWakxDVkxjYVozMkUyc3Jfb3M?oc=5",
+          "time": "8h ago",
+          "body": "Stock Market Outlook Today, 20 July 2026: Sensex, Nifty May Extend Rally as Q1 Earnings Take Centre Stage  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Outlook Today, 20 July 2026: Sensex, Nifty May Extend Rally as Q1 Earnings Take Centre Stage Goodreturns"
+            ],
+            "tldr": "Stock Market Outlook Today, 20 July 2026: Sensex, Nifty May Extend Rally as Q1 E"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1784524153267",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "20h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1784524153267",
+          "title": "Mcap Of Five Of Top-10 Most Valued Firms Jumps Rs 1.54 Lakh Cr; TCS Biggest Winner - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWdKeWZjZ1o2cXpOaE9JS1pNZUFNeFc3ZWxKRm54N1d4QnhRWWh6SlFVbzBsUHFseVRMSGJILTBGWHFkZHVVNDhpOEJaUlNzejFIVkxQUG10cXZfVlZTbC1JbUJvSkhFX3lQSnp4dDMyYXlzaHlLSHNQQ0hVQXk0ZTFBZThTMzVXdDQ4NUpPc2FqemxidFlRam9pOEI0S0l0Q0NVc1Iyb0ZHRTk2Q1kwelhtdWZxNjhaTmpDTnJHWdIBvwFBVV95cUxNOWdKeWZjZ1o2cXpOaE9JS1pNZUFNeFc3ZWxKRm54N1d4QnhRWWh6SlFVbzBsUHFseVRMSGJILTBGWHFkZHVVNDhpOEJaUlNzejFIVkxQUG10cXZfVlZTbC1JbUJvSkhFX3lQSnp4dDMyYXlzaHlLSHNQQ0hVQXk0ZTFBZThTMzVXdDQ4NUpPc2FqemxidFlRam9pOEI0S0l0Q0NVc1Iyb0ZHRTk2Q1kwelhtdWZxNjhaTmpDTnJHWQ?oc=5",
+          "time": "22h ago",
+          "body": "Mcap Of Five Of Top-10 Most Valued Firms Jumps Rs 1.54 Lakh Cr; TCS Biggest Winner  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mcap Of Five Of Top-10 Most Valued Firms Jumps Rs 1.54 Lakh Cr; TCS Biggest Winner ETV Bharat"
+            ],
+            "tldr": "Mcap Of Five Of Top-10 Most Valued Firms Jumps Rs 1.54 Lakh Cr; TCS Biggest Winn"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1784524153267",
+          "title": "Value of 5 out of top-10 companies increase this week: Top Gainer TCS's value rises by ₹72,000 crore - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcm5yZXQtSVkwYV81alhOemtNMDFUNktrRW44eHpuOUlXNHpIbHpVeHRMdFV2NUVndS12bVlhVTZHaXVIME4wMG5OaFBIVy15Q1poOHRBWTNrNDJjRktGeUhBdE1DeE52VzhpTW44UmNnSFNNdEIyWklfTUJRVjJDNU1tcHlmSDRXb3dXZlRnY0p4WkxpWEl1UnpoS2cyYlNGc2JtemZJYmMtR0VJdEotNWlTVXlXZDdW0gG-AUFVX3lxTE5CRUNkX1pzSzVaTF9heG1SdndMN0JVeE5WNk1tSnRYUFZyelMyMWV1UXFwdm5HbW1IRXZOYXZvU0RzSHFqVWtIek53Ums5aFJkZUY4bnczS21DUzZfS0ZwaWQ5RDJYU29sN05UUTllUFpCSE9XbVZXZkw0OU1oOTc2U2lxeUtEMUtkeGN5cmZEcVpuUGRNZEhTMmh0TFJfQm1SeTdJb0xqajFuT1AwYlNxMHphaHRKb21GTFlEdVE?oc=5",
+          "time": "22h ago",
+          "body": "Value of 5 out of top-10 companies increase this week: Top Gainer TCS's value rises by ₹72,000 crore  Bhaskar English",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Value of 5 out of top-10 companies increase this week: Top Gainer TCS's value rises by ₹72,000 crore Bhaskar English"
+            ],
+            "tldr": "Value of 5 out of top-10 companies increase this week: Top Gainer TCS's value ri"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1784524153216",
+          "title": "Maharashtra govt issues strict directives against fire and electrical hazards, check details here - Mid-day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWGtNVjdhQURBODFMYXVKQW1WZS1tWnlWaEkxZ3l3VWpHemU3LWp0dTEtdXVqWTlqbWlzdGFzSXpkZ1RWc2t3bDM2RlMzclBUaWFIalp0bjc0MlBsT0NvRWRSNXZUNmowSmt6ckx4c1BJVFdiWG9FX0VCOFpkQnBMTy1kNVJEY1paYzNpTjdpUWtSemtQNGJJQW5qVE94bUh3bllvX3QyenM4U0U1NG1ud0xKdmYyZHludzY2ejVpTVl3aGRzREU5dUQ1OUlETUhyLWZSYjBKYlVxTlJQOVlNSDJSV1pqUGxVUi1FQ2ozZUlMREFMZlNRbnRPME1HZ9IB_gFBVV95cUxQWGtNVjdhQURBODFMYXVKQW1WZS1tWnlWaEkxZ3l3VWpHemU3LWp0dTEtdXVqWTlqbWlzdGFzSXpkZ1RWc2t3bDM2RlMzclBUaWFIalp0bjc0MlBsT0NvRWRSNXZUNmowSmt6ckx4c1BJVFdiWG9FX0VCOFpkQnBMTy1kNVJEY1paYzNpTjdpUWtSemtQNGJJQW5qVE94bUh3bllvX3QyenM4U0U1NG1ud0xKdmYyZHludzY2ejVpTVl3aGRzREU5dUQ1OUlETUhyLWZSYjBKYlVxTlJQOVlNSDJSV1pqUGxVUi1FQ2ozZUlMREFMZlNRbnRPME1HZw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra govt issues strict directives against fire and electrical hazards, check details here  Mid-day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt issues strict directives against fire and electrical hazards, check details here Mid-day"
+            ],
+            "tldr": "Maharashtra govt issues strict directives against fire and electrical hazards, c"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1784524154561",
+          "title": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety - Pharmabiz.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tV3JvbWtxcHlXMXUtMFY1S3FGaktWNXRZUEc5RDdjczZQVE45YXdQMW9sNk5la2djcTBvMHNNY0o1VW1BM3Q0dllTVWVTQVRFc3RVdXBKcHlqSUJGWGNEcGFQaVA2SFR1b2Rn?oc=5",
+          "time": "2h ago",
+          "body": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety  Pharmabiz.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety Pharmabiz.com"
+            ],
+            "tldr": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1784524154561",
+          "title": "AI data centres likely to be real-estate sector's next growth pillar - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHdvN3VacmNwZ1B1LWdqbWFJUlJqSW0tUEpaamtsTllKdjBGOUtHaGlMSnA1QzlDWWtQWjBhdGFxYm1YS2Q3ZmdzNmp2UzFkMnVGTG9vQXFMcV9KVDI5SE52NC0xRHRLaWlib3lrS3NEUkxKeTM3Q2htTlIxS1VTdWpfaTV4aXlfM1FaX3FuYXotZEp3X3B3QjhaYUdLdjgtbVNSdmR4VFZsWFZRSFQtRC1TQUhWdlB0bmJVdjdFbU1lYTdNemVRUlJkYkxSSXBRVEg0dk5FY9IB1wFBVV95cUxOZHdvN3VacmNwZ1B1LWdqbWFJUlJqSW0tUEpaamtsTllKdjBGOUtHaGlMSnA1QzlDWWtQWjBhdGFxYm1YS2Q3ZmdzNmp2UzFkMnVGTG9vQXFMcV9KVDI5SE52NC0xRHRLaWlib3lrS3NEUkxKeTM3Q2htTlIxS1VTdWpfaTV4aXlfM1FaX3FuYXotZEp3X3B3QjhaYUdLdjgtbVNSdmR4VFZsWFZRSFQtRC1TQUhWdlB0bmJVdjdFbU1lYTdNemVRUlJkYkxSSXBRVEg0dk5FYw?oc=5",
+          "time": "11h ago",
+          "body": "AI data centres likely to be real-estate sector's next growth pillar  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI data centres likely to be real-estate sector's next growth pillar Business Standard"
+            ],
+            "tldr": "AI data centres likely to be real-estate sector's next growth pillar Business St"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1784524154561",
+          "title": "ASI's New Audio Guide Tours Shift Focus From Archaeology To Administrative Optics - thedraftworld.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXgzVWtJNExZWmRDY29TS19pSHVUcUdOT21sTFB3NTdSRFh1UVBOc0dKS25CblZrQ1lhY1FxaUlqMGwxUkZ4TDRiaDdQcHRtajhVYl85bF9URVNZUTR2ZS1kTFVtc1BmNGQ4ZW11eUFrdXhJdHM1Vk5YX2Zpbm9kZEkwQjk2MjZGSWF0LVZNWEVXb1FPZWZFWktBVVZKTGxCbE15Vlo5WDd1ZXpxVTFtN3lUQzIyRjJKbGc?oc=5",
+          "time": "18h ago",
+          "body": "ASI's New Audio Guide Tours Shift Focus From Archaeology To Administrative Optics  thedraftworld.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ASI's New Audio Guide Tours Shift Focus From Archaeology To Administrative Optics thedraftworld.com"
+            ],
+            "tldr": "ASI's New Audio Guide Tours Shift Focus From Archaeology To Administrative Optic"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1784524154561",
+          "title": "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in education, AI, digital sectors - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObTIxZmJfckxuMDBNdmcwUFlHT0w5VUFoQm1WbUY5VzZHYTJZYnc1NmNMZ0hQbWtDVWhkdU5HTldETFhObkh6LV9NX09mM2J4NVdMeEFNWWhmUW1nbWpPT1doVUtUMUxSUXhIc3dSU3N0S1hDTnY0czhmWUpCU2hHWWxHcFVETkVrVlRnZGNBOVBMTUZTTG4yWF9ablFIZXJnTjBaZkNaU1pYMFE2Nk56bmVVVjlxU1paeDFJcF9veTYxRzZraTRVNWl6U3gzY0ZPODlvdXV5UHladFJyUzFmYk930gHnAUFVX3lxTE9kSmRJOWFBWG9nYzVuNVo1UnFhbDdKM0Y4aVFNMUotb2R5ek1IdnpUOFV0Vmg1SUpUcG5TM2xLSHJXVGgwWVYxUlo5MF90MEpKVXo2ck90d2hFT1VodVRNSWhFLWptaHdiWGxXMFhxdHdkeldGSS16RHpfTEJYZ09GUjVhUDlZNkdvOFFMQkVBZUl2RXAxWVhRWHZ2OGZKUXJsb0tDcmJHNE9jWVREQW4xMXk2OWQzbFFfOV80cktLVndaMTdTTVFxUm42RzQ2SmlDSVlsYk1xS1lMeUxEYS0zdU1nUV82SQ?oc=5",
+          "time": "21h ago",
+          "body": "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in education, AI, digital sectors  lokmattimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in education, AI, digital sectors lokmattimes.com"
+            ],
+            "tldr": "EAM Jaishankar meets Zanzibar President; discusses expanding cooperation in educ"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1784524154547",
+          "title": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2toNzd1TjVCb0lRaGpScXB5UEUtRm1RQXVUVXdpTDNtMV9id0dITzFHM09Tb3FGWTVud1ZyOW5sZ3l5eW1sSGlQeHlDOUJSWW1pWjhRckR6bVJtWGZ5aXkxLVB0cWNhUWgyOW5NdVJLbTg5QnFhRXFVaUlRVUY2U2lBQThQdmE4a0psSmFlT2p0d2EyeXgxMVZPSjB4Zw?oc=5",
+          "time": "20h ago",
+          "body": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akashvani News News On AIR"
+            ],
+            "tldr": "IPL 2026: Royal Challengers Bengaluru beat Mumbai Indians by two wickets | Akash"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1784524155798",
+          "title": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway - MSN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ2RMbFVnN0NJdXdaWVVDY3BBZ0tibVZUbEFJSUNzVFI3SWdSU2ZGamxGVmQ1TDBFTHZiU2R2d3NFejJnRS1xTDVyUmJsY1FjQlktM2w0TzRnb2dKRVA0TkZZMXY3cFZCbWIxU2NvOFlON0RWZ3Q4QVFPRk5DNExGZmRoQmVfS0JXV3RsLVlyeGVCMjNEd3FqRjZrT0dCNzIxaUZOV19VX1cyUDFoM0tNcWE5am11YXdWVGFuV1d6a1lmbjdoc05yRGdEcUI0WUNsbXVSNEpzblVKa2hBS2ZQS2VsZ1ZCd21FQ1JQRXoydjRUMkdV?oc=5",
+          "time": "18h ago",
+          "body": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway  MSN",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pune-Mumbai Expressway, old highway MSN"
+            ],
+            "tldr": "Rain batters Mumbai: Landslide near 'Missing Link' exit, traffic suspended on Pu"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1784524155798",
+          "title": "Mumbai Latest News Today on July 20th, 2026: Heavy Rains, Doctors' Strike Called Off & Aamir Khan Security - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLXFiazdxd2xtdURzbUFrUXRVTEtMR3BfOFRJM050bWsxT3J6em5aWXZaMW5FUzRJN1F0cHRtVnBVLW01eWN5TGpEYmlnWjY2RHp0ZXN5R1JKUENTZVJHME9kVldQZkwtaW00c3F3TzJwU2tnRTZ4MzU5SEtUWkJVal9wMTNlNVZla3R6UXc1X1U1bHBuVWxDa1NadUNqMGkyQmx6ZllmZHlJTlZZWE1JVVJTdTJWNEgzVV8tcEdtRGtmbWNfQnN3YzY5ZUN2MzlWRjA4QmxGNmJXeEtBWk1OVVZ3a9IB6AFBVV95cUxPQ0ppZnZqZEl4Sm9GOUE5eHc4UWVMcElSYkVuQXRpQjVMZl9LVk1CanBraEYtMW85NWhpdjRYVW9WU1lRZ25jOFdmdDdibjBpZ1poejc1ejFUWVdFMm1rMFIyRVV3dmtwS3BVeTRnaDNnZ0d2bTV6a3FFNjE3RzhXRDVKVG83aWFaTjBVdjhRZVFvVk1iT1RVNVdGWHRsUjhKWmlmbThFOEpib0kybDZ0cUFsYVQ4QzNsTlhrOHVKR0Q1M0ZmNXZjTllIWUNoNzA3ajYwdk9JYWFCRkNLLWhIeVFHWElnb21q?oc=5",
+          "time": "2h ago",
+          "body": "Mumbai Latest News Today on July 20th, 2026: Heavy Rains, Doctors' Strike Called Off & Aamir Khan Security  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Latest News Today on July 20th, 2026: Heavy Rains, Doctors' Strike Called Off & Aamir Khan Security LatestLY"
+            ],
+            "tldr": "Mumbai Latest News Today on July 20th, 2026: Heavy Rains, Doctors' Strike Called"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1784524154547",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "15h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784524154547",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "11h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784524154547",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "16h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1784524154547",
+          "title": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RSMDExX3Z3TmRWaHN6Z2N4UlpWSkRkdWFPRkNpR25qRmJYNnFzTzlodW50dVBXQ2I0a2J2T09wTHNteW10bUJjOTNzWlViZWJXdXRiVFFEd1BwQWxzR3F6QXdEdjYtbS1sTEZydXQxRVFvYk1QOVcweElBQlU3ZWhsS3IwZEhoNFd1N0tyd1dCRlp1S2RXNmphU0ZLajhTSGc?oc=5",
+          "time": "15h ago",
+          "body": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs LSG, 47th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1784524154547",
+          "title": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTU0MnlmNThzbUlMQ0Z2YnRETlY0SXllQmlDNTFKbkNzY0JPYVFMejJuV1NpWnFtekN4Znl3X3lkelR2T3ZUNHBTWW5HdG9ZV29BcHFxeVIyMHpJNDdnbzhidWpzb1N6Zml6clRPb1haWFA3RS01SHdtVHFEUG9faVZWMUZZN01OME50TnNDZ0Nhb0U5Yld6R3FDNzlLbGtZalE?oc=5",
+          "time": "16h ago",
+          "body": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1784524154547",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "18h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1784524154547",
+          "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkdGTk95N0RrdFJTb0NFSlM4ZjZIcXM0ZlppSzRRSzhia2o5LTd5S0w2YVA3YlByYldzU3BTdkFZTGVVMVRDcEJFRHdKQlZNRnlpa0JoUkRWM2p2XzVVQjlxRm1aclhqMk1jaFRjRmpkeDdERkpBRHYtZDhjTHhPa2NoQWRPcDZrekdOZUJZRlNySnBaX0pfekdzNFF4V0xUSlE?oc=5",
+          "time": "15h ago",
+          "body": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "CSK vs MI, 44th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1784524154547",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHB3MkJiSWxhOGZWdERRYm9rWEpBX2JYMTFReXNhVndrcGVsMVo2RDBZeFBPbkJTOFFpNXZ6X2xhUkdwT2RxczNVNHNDZmI3M2lxajRmQkU5ZUcxZnppckpJY29uV3VhUTFmZ0xVRklhVGUyQVFDQ2N5X1ZId3p2M0RsTmxtMnRXdVZ0cm1RUDZsZS1KNlJVMlVYbTdTTlE?oc=5",
+          "time": "16h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1784524155616",
+          "title": "Who is Swaran Singh? Indian-origin psychiatrist to join House of Lords as UK announces new peerages",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Who is Swaran Singh? Indian-origin psychiatrist to join House of Lords as UK announces new peerages. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin psychiatrist to join House of Lords as UK announces new peerages. [object Object]"
+            ],
+            "tldr": "Indian-origin psychiatrist to join House of Lords as UK announces new peerages. "
+          }
+        },
+        {
+          "id": "mumbai-general-2-1784524155616",
+          "title": "NRI wife says neighbor called cops when she and her husband were arguing: 'Police took my husband to the station, I don't know what to do'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "An Indian woman in Texas sought help on social media after her husband was taken by the police based on the complaint of a neighbor who also told the police that the husband frequently shouted at the wife. The wife said when police came they saw minor injury on her as she was pushed during the argument.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian woman in Texas sought help on social media after her husband was taken by the police based on the complaint of a neighbor who also told the police that the husband frequently shouted at the wife.",
+              "The wife said when police came they saw minor injury on her as she was pushed during the argument."
+            ],
+            "tldr": "An Indian woman in Texas sought help on social media after her husband was taken"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1784524155617",
+          "title": "Meet Vaibhav Bhaskar, an Indian-origin student who broke Florida's high school record with 11.99 GPA",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Achieving a stunning 11.99 GPA, Indian-origin Vaibhav Bhaskar has rewritten the record books for Florida high schools. His extraordinary performance sparked a critical review of grading practices, acadmic burnout of students. Vaibhav said he was not burned out but tired and now it felt surreal that suddenly he did not have anything to do after his high school graduation.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Achieving a stunning 11.99 GPA, Indian-origin Vaibhav Bhaskar has rewritten the record books for Florida high schools.",
+              "His extraordinary performance sparked a critical review of grading practices, acadmic burnout of students.",
+              "Vaibhav said he was not burned out but tired and now it felt surreal that suddenly he did not have anything to do after his high school graduation."
+            ],
+            "tldr": "Achieving a stunning 11.99 GPA, Indian-origin Vaibhav Bhaskar has rewritten the "
+          }
+        },
+        {
+          "id": "mumbai-general-5-1784524155617",
+          "title": "Meet Mira Trivedi, Indian-origin student in New Jersey who's pushing her school to not call Hitler's symbol 'swastika'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery. Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstanding surrounding the swastika, often mistakenly associated with Nazi imagery.",
+              "Advocating for its roots in Hindu and Buddhist traditions, she initially faced obstacles but has since garnered support from classmates and parents alike."
+            ],
+            "tldr": "In New Jersey, student Mira Trivedi is on a mission to clarify the misunderstand"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1784524155617",
+          "title": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, accuses boss of bullying. [object Object]"
+            ],
+            "tldr": "No, I am in Dublin: PwC worker remotely works from India; lies when confronted, "
+          }
+        },
+        {
+          "id": "mumbai-general-11-1784524155617",
+          "title": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-foot cliff with family. [object Object]"
+            ],
+            "tldr": "US court dismisses charges against Indian-origin doctor who drove Tesla off 250-"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1784524156901",
+          "title": "25 transfers in 20 years: Meet Tukaram Mundhe, the IAS officer Mumbais restaurants fear",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/25-transfers-in-20-years-meet-tukaram-mundhe-the-ias-officer-mumbais-restaurants-fear-10794309/",
+          "time": "3h ago",
+          "body": "25 transfers in 20 years: Meet Tukaram Mundhe, the IAS officer Mumbais restaurants fear. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "25 transfers in 20 years: Meet Tukaram Mundhe, the IAS officer Mumbais restaurants fear. [object Object]"
+            ],
+            "tldr": "25 transfers in 20 years: Meet Tukaram Mundhe, the IAS officer Mumbais restauran"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1784524156901",
+          "title": "FIR against contractor, others in Mira Road crane collapse death",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/mumbai/mira-road-crane-collapse-kashigaon-police-fir-contractor-negligence-10794050/",
+          "time": "12h ago",
+          "body": "FIR against contractor, others in Mira Road crane collapse death. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FIR against contractor, others in Mira Road crane collapse death. [object Object]"
+            ],
+            "tldr": "FIR against contractor, others in Mira Road crane collapse death. [object Object"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1784524157069",
+          "title": "CGST Aurangabad Introduces Weekly Walk-in Meeting for Faster Taxpayer Grievance Redressal - A2Z Taxcorp LLP",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUhYM1Z2d3BwYWhoSXA3bEZMT1FneGJ4eGFnODEtMU1KMHRHeHVnbUUwRXo3SU0ySkNhN3hKazJwRHVFZDFWVk02QTd2bVBRc1hueWJaQ0ZFSHN4UGJxS01tbGlRWk4zNVlEY2dNRXFwWWtDY0pvNE5pWnJhUC1POFkwMmZETXQyU282RUVZdS1EYU4wZUU5cmwzM1lVVE5ISzZFWnA0VmRmbmxNM1g3cHliOA?oc=5",
+          "time": "Just now",
+          "body": "CGST Aurangabad Introduces Weekly Walk-in Meeting for Faster Taxpayer Grievance Redressal  A2Z Taxcorp LLP",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CGST Aurangabad Introduces Weekly Walk-in Meeting for Faster Taxpayer Grievance Redressal A2Z Taxcorp LLP"
+            ],
+            "tldr": "CGST Aurangabad Introduces Weekly Walk-in Meeting for Faster Taxpayer Grievance "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1784524157069",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1784524157069",
+          "title": "Gold Rate Today in Aurangabad 20th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "10h ago",
+          "body": "Gold Rate Today in Aurangabad 20th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 20th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 20th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1784524157069",
+          "title": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF - PW",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CcEx0VU4xWFBsQkowcWpxaVZiVE8tVndIVVhzNUx5eDNzMHdkRVJ2Wkc4SXpscjFRZnpNTEpmQ1c0TjdHdnRDZ3N5NDhmc3loekFwREVhYjJLNXY4Mng1c0dYSGVLUlVVRW5RdGFYV1NocFVSODNvZEZ3?oc=5",
+          "time": "3h ago",
+          "body": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF  PW",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Merit List PDF PW"
+            ],
+            "tldr": "Indian Army Agniveer Result 2026 Out at joinindianarmy.nic.in, Download CEE Meri"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1784524157069",
+          "title": "Maharashtra Monsoon Latest Update: Mumbai, Pune, Nashik, Nagpur, Satara, Palghar likely to see heavy downpour - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLW1FWm9pNm9FUmFFTDdLUGxrbDBlZVZrNzZPa1psd1g0SF9WZmVueXJwZnp4R0VzeHFqQm41cThZUm1GdHl3eVA2LXdaZlpSNlBPNWZ3MkhkLUFCMTJJU052a0JHQ3VZd3ozb29Jb1lwNXR5NGhEdm5HT0V5ZUZXdjl6S0NrSDV2a1FTdnRQamxMOUNCcmx3b3FpOFVwOUJ5bmtNcVA0NVNmb1hNTFpDaEZPdHRNYjMxQ2F0aW1DMUZENWRMZUJqZFN6VFJOWWZ6YjFoRzg2aXZsTUhrWTl0MjRqaVRDTzdBVTc0QkpkWTNCdnNnV0EzZWhwT2lZSWxsRElqS1h6ONIBhwJBVV95cUxQLW1FWm9pNm9FUmFFTDdLUGxrbDBlZVZrNzZPa1psd1g0SF9WZmVueXJwZnp4R0VzeHFqQm41cThZUm1GdHl3eVA2LXdaZlpSNlBPNWZ3MkhkLUFCMTJJU052a0JHQ3VZd3ozb29Jb1lwNXR5NGhEdm5HT0V5ZUZXdjl6S0NrSDV2a1FTdnRQamxMOUNCcmx3b3FpOFVwOUJ5bmtNcVA0NVNmb1hNTFpDaEZPdHRNYjMxQ2F0aW1DMUZENWRMZUJqZFN6VFJOWWZ6YjFoRzg2aXZsTUhrWTl0MjRqaVRDTzdBVTc0QkpkWTNCdnNnV0EzZWhwT2lZSWxsRElqS1h6OA?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Monsoon Latest Update: Mumbai, Pune, Nashik, Nagpur, Satara, Palghar likely to see heavy downpour  India.Com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Monsoon Latest Update: Mumbai, Pune, Nashik, Nagpur, Satara, Palghar likely to see heavy downpour India.Com"
+            ],
+            "tldr": "Maharashtra Monsoon Latest Update: Mumbai, Pune, Nashik, Nagpur, Satara, Palghar"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1784524157069",
+          "title": "​SIR: Several Sambhajinagar residents struggle, others say process is easy - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQTFvZjVZbm95RFFMNlJ5bnNoaWt0SnJYNnI4OUdFVWtvVEJrSHg5dFNaMmFsNDZJSEpPd1BHRVBGNUZfSVQwdEF3bk5taHVSX2t1WmlWS3VmOXN3VFJVVjl3SFNVMXg2YmpIbGxVWVk0bjJrZUNIOWtXVkw5T2RGQnRob3FGVVByNWVjMWRJZFV2NkZuUlJ5bWpJSG1tV2xCZGw3SG8zTHR5VzQ2Y09lREE4ZFBja19vODlqMExxZ2VQWm00WUk3M3VwNEdQaWF6MzZ4U0Vucy1WY1lZTUUyQW9aNNIB6AFBVV95cUxNaW1GalEyODM2UGwyYWdHelNiMTY2NFdydlg4UlpHNTVOMmQtVHJtTnhsZWtLYmsyaHpCUEVNNVF4UmluLVJKakx6WlZ3Snd4Z3pOcTc3NFVFeXNwbmpEYWtwaGFFUmZoczFDQm1qR0I4S29pSVlJeUR5MElmY3hJMDFJeExUcGxjUUZZWVphdHVDbWIyTktfODhuSjRuZnNjR0x1UExUZEVvcWFkZ3JoRGRuOThTWlBiS19xWWd4TE1UN0JyVEF2Q3NSUkNoTzRfUExuWlBuTnBRMTdvOVpHeFB3NV9UQzNB?oc=5",
+          "time": "12h ago",
+          "body": "​SIR: Several Sambhajinagar residents struggle, others say process is easy  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​SIR: Several Sambhajinagar residents struggle, others say process is easy The Times of India"
+            ],
+            "tldr": "​SIR: Several Sambhajinagar residents struggle, others say process is easy The T"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1784524157069",
+          "title": "Silver Rate Today in Maharashtra 20th July 2026 : 1 KG, Silver Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZEdlMzQ4UUtJQ2ZyTUxQWHJNSzhqT0Z0Ql9HQXp0RkJwV3QtX1JyU1U4aWlZVW1fVnI4aE90UkpMYlZNVHFQTW0zMWJxUXBUaDVEX05KalBXY3FlZFdzSzlrcUFMOFJjN1ZnTFJyX09oYmU2bWhPc1dLZw?oc=5",
+          "time": "1h ago",
+          "body": "Silver Rate Today in Maharashtra 20th July 2026 : 1 KG, Silver Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Maharashtra 20th July 2026 : 1 KG, Silver Price in Maharashtra Business Today"
+            ],
+            "tldr": "Silver Rate Today in Maharashtra 20th July 2026 : 1 KG, Silver Price in Maharash"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1784524157069",
+          "title": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzdBb2xONVQ3M0l6aHhjQm9JX1lKbldhWktCZXRYRmVLdWwxdUNBRGhUZFdBWlJ0bV9VSUxLR2hIbW9ZVVZ4V1M3VWhiek42WHc0UE91SGVHV3RoMGR0OHc5Q1NBSENMQkZ0eUwtQnNBbGp6XzRZZkVXeFdjSmVoTWVVRlJVNHE1UmFsWVI4cXZBeGw2eV9rcDY1SzJzWG9lV3BPY09R?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09%  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% News On AIR"
+            ],
+            "tldr": "Maharashtra SSC 2026 results declared; overall pass percentage stands at 92.09% "
+          }
+        }
+      ]
+    }
+  }
+}
