@@ -1,0 +1,798 @@
+{
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T04:51:48.774Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1784868702290",
+          "title": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQend6ZnNjcVN2UHdXaGZ4T0U0NzBudWpMUk9LYUNrSy1UdVVvOEM3MkoyX3pkOHNNeHA2WjN4dWJhMmhSdkJ3Q2lhQUc0OHRiWlhlQklsU1dwcXB1aTYyMmN6VTU4N2JBTm5oV0t1eklsN0dkYjFsVmhlUEdQbHBLQzhmSkYyT3d1bkl2Rkk5djREYUlmRkk2NDdDWFNrSXF4WGFfelZXeG5rQQ?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport News On AIR"
+            ],
+            "tldr": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1784868702290",
+          "title": "Maharashtra makes Aadhaar authentication mandatory for farmers seeking loan waiver, puts safeguards in pl - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNclVVX0FJM0pSYVRnVlYwcHd4b0xKNHVmbUplc2F6ZFd0bFB2aTRvNU9pOUs3M2hPa3MxTktlVnZhcXlsYWI1a0xSeklOeW95bWdXNlFPemhYbHR0S3QtMXBmVGFUOG4xZzhjSlZZdWlLaWhvbXVlQVhNS3lXeFU0Rk5iOUJVYWlrMHpMWE5vTG5BRmVzUjhKYzI3MzA1cjh2LVktT2FqYmxuOGU0RVg0dHN4TmRrWTdBNjdiQVVJNzRNVGVPM2NpcEFYLXF1V2NXR2x6TVNCSkJBbVl1N0JZWnluQ082d2k1QlpVWkstd0lMVzM5WnBVRjNuVmJOcFNERjdURVVFTUdNY2gxeVHSAZMCQVVfeXFMUDgzQW1Eb3RnSXJ5UldmbFJ1SzRqOEgwdGM4bHVLeFozZ3pkdGk5ZlI5RkhRdDRLN1ltSFFyOGlRM2NnZUFBU2djOGwwX0Rlb0hYSGQtZ0xqWjNKUVRLQUFkTW9RUGpQVFZ6T1Uwc0RyaHk4OEF1bkVuYlRLZk9LNGF0OXBmY3BacUstQUJMZFluZ0NaNVBUanNmdGI0VEpZRlNRV3pnbERTRVlpVjNzYlFheDNxMHRaUlBhWDJ1NnBleHVhSW5OVXRnZVhwdW9oaXY5ZW9SVDhkblFXbjNZNnhwRHVRajM0Z3Z5OHB1R0JQZUJxbGFkdEVCNUNZMXJoZ0ZNRHNQVnFVeEpwOGV4X0xPcjQ?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra makes Aadhaar authentication mandatory for farmers seeking loan waiver, puts safeguards in pl  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra makes Aadhaar authentication mandatory for farmers seeking loan waiver, puts safeguards in pl The Times of India"
+            ],
+            "tldr": "Maharashtra makes Aadhaar authentication mandatory for farmers seeking loan waiv"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784868702290",
+          "title": "How Maharashtra aims to make Mumbai-Pune road travel seamless for next 50 years - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMElqLU8wc0FPS3dkbWVVTkJqZGhCbUdxWG9mY2Vzb3U1R3pvNUNBVUFsVHh6SGE4bHRKSWpWLVBNZnJ2dUZMT2tnREo1Wm1mX3p3SnZ6SlA4U1NJdERhbVFJQy1SdVJHd2kzbURkS1NsbkNoOGgtdXQxWFZ3WS02ZF82RTkxRHpOcTNJTVlVdnlPWHc5VFo3a3lHaWh1dmNqMmtrZzE5QkwzQ24yQjdjMnZJUEI5UWVzUFctNTdNYk4yWkd5cC1QTGhIU3drTmloc3hZTjlLNzA3NHFnVUd4SXN5VDnSAeoBQVVfeXFMUDRSMXg5TjljS3Y1UUxTak1lbFpVZmNtdmJWMlFvVU5uV2MtR1ZKQ0xrbDlGRl9rLWhVdWc5a0xQRjdibWxjTXBuNmlFRVVYRC1jZkZnbkxPTXNacDFsTUJ2OUo3cHoyRVZMdkxqX1hlSE5xam9udjJNYkNCSXF1VFliVlM4QTFPN0JRU3NpRHpkekQ2RnA4eGF6eFNWRkhZMFBKVExnVDNvR2xZZE55RVFadFo1ekZGc3ZacTJxd1BuY0hnS3pFSjQ2V2Z1SXBBRUI2SWx2ZjNfZi1ZR3hkUHFSTU14SGZJdjh3?oc=5",
+          "time": "14h ago",
+          "body": "How Maharashtra aims to make Mumbai-Pune road travel seamless for next 50 years  India Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How Maharashtra aims to make Mumbai-Pune road travel seamless for next 50 years India Today"
+            ],
+            "tldr": "How Maharashtra aims to make Mumbai-Pune road travel seamless for next 50 years "
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1784868702290",
+          "title": "NEET row: Uddhav, Raj Thackeray announce Mumbai protest on 26 July with no political flags—‘We will thrash anyone who….’ - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQm9kdnhwVXY5QnNUNy1CSjFKTzc0WG81cC1ULTA5YlNKRHN1aUM1X01wa1dQWFFsSFBGVVpHMXB1TWJVSGNtWmZ5VXVqUXRjUFhib3RZLVFQOXoxS3NGanJHZV95REc3N3FnUE52STZMa3dsWVpOOEdIQnpIZ24xTy1TLWo3aS1XTVQ3MDlQT3hoUUhqRFVrMWotT1hvN190c0FJUFJIVjBLbWR4cnJtUF85TlB6ZzU2WEROT1AzU25vMVlWYzNkZ1ZxaklJX1dKQ2xWNjNNVTMyZEoySUw2LTQtN19iVXVyYldKVTlydWRROHE3UEJpSWZ3NTdvVzY5SkHSAYcCQVVfeXFMT3l0UXVveGE3UUt1RHJRenRrVjFiZDAtVGFndDFGeWVoYjJFLXdQNTVMbzdIajVKQUNVUG1qNFVic1FaTS1zZzBPZWotbDN1MnpYQzZHNWtKUThmbG9QZXd3VElpd3J2Wktibnh5SXJ4YmNoT2lWQWt1OFdxeldoQXdsVERFSUc4cWlfLU1DZVh3QkcybVRXdG1DdGVoYnlGcjdwNkRzS3l4OE96eUFDdFRDLXc5SUEtY2dwZVRzOVpFekJ0cUNQbFNLS3lJUGt2ZTd2R21SOVRncnNEcllZTHVnS084cm9mNUN6R1lmbV85X3RGN0NBSy1hdnB2eXFGQXFUM0VPeUE?oc=5",
+          "time": "18h ago",
+          "body": "NEET row: Uddhav, Raj Thackeray announce Mumbai protest on 26 July with no political flags—‘We will thrash anyone who….’  livemint.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NEET row: Uddhav, Raj Thackeray announce Mumbai protest on 26 July with no political flags—‘We will thrash anyone who….’ livemint.com"
+            ],
+            "tldr": "NEET row: Uddhav, Raj Thackeray announce Mumbai protest on 26 July with no polit"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1784868702290",
+          "title": "3,500 VBA workers detained ahead of Maharashtra bandh called by us: Prakash Ambedkar - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPczk2bW9HTVo5Tm5MeVNWRGVyTDJRdWEwTkx2TTFJSThrWEVKZjFlX09XOHRhc1YteGxTQkFKbGVUUkpPQ3dGUGRHZEFxRG56Z2loanlqMGtSWTFxdk1NRlVsZ01vRkxmTDhtTzJkM3RqR3htZGt6VThoQXJjbWptU2ZwaGlDV25RNmdKcmJzZjZMd0VnQ1JvNHBMUjhma3FIRmZfSnloWlhRRE1IM3VTX1BYZUhDXzdNV050T3FiVEFHMDEwOUVEaEVvbmFENHp1cGpRQkM2a29jU25Pc0dhSUFGNFAtUGRxMEQ2M1RzONIB7wFBVV95cUxPczk2bW9HTVo5Tm5MeVNWRGVyTDJRdWEwTkx2TTFJSThrWEVKZjFlX09XOHRhc1YteGxTQkFKbGVUUkpPQ3dGUGRHZEFxRG56Z2loanlqMGtSWTFxdk1NRlVsZ01vRkxmTDhtTzJkM3RqR3htZGt6VThoQXJjbWptU2ZwaGlDV25RNmdKcmJzZjZMd0VnQ1JvNHBMUjhma3FIRmZfSnloWlhRRE1IM3VTX1BYZUhDXzdNV050T3FiVEFHMDEwOUVEaEVvbmFENHp1cGpRQkM2a29jU25Pc0dhSUFGNFAtUGRxMEQ2M1RzOA?oc=5",
+          "time": "22h ago",
+          "body": "3,500 VBA workers detained ahead of Maharashtra bandh called by us: Prakash Ambedkar  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "3,500 VBA workers detained ahead of Maharashtra bandh called by us: Prakash Ambedkar The Hindu"
+            ],
+            "tldr": "3,500 VBA workers detained ahead of Maharashtra bandh called by us: Prakash Ambe"
+          }
+        },
+        {
+          "id": "mumbai-politics-0-1784868702178",
+          "title": "Maharashtra: 10 new MLCs sworn in; CM rides on motorcycle to Vidhan Bhavan as austerity measure | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm5TYXJrYzhfMmhaNTdZVFIyTnFJb2ZfZ2JRUWdlQ1NNeUctTHE3eDFUa3JSdy1XMnhHSjRXY0pXX1hUUE1QQndFTS1sTElFS1RoaDhzWWIyNVRBRXdsRkdNTlFXZ2stYm5tV0dtWGJzSlhsZThtQnJ0LUkwc0V3WnpTZzdDZzRkMTF3RzJRNmlYakpKdEJCckdyc3NmWVBfVmxkNHNYUzNIOEl4d3RQbGlmUHVTYWIyWVBV?oc=5",
+          "time": "7h ago",
+          "body": "Maharashtra: 10 new MLCs sworn in; CM rides on motorcycle to Vidhan Bhavan as austerity measure | Akashvani News  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 10 new MLCs sworn in; CM rides on motorcycle to Vidhan Bhavan as austerity measure | Akashvani News News On AIR"
+            ],
+            "tldr": "Maharashtra: 10 new MLCs sworn in; CM rides on motorcycle to Vidhan Bhavan as au"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1784868702178",
+          "title": "Devendra Fadnavis Birthday Highlights Maharashtra's Employment Vision. - Sprouts News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb25MdlJBUHNjbmQwRVRsN0FjRGQ1VDd4SGJVRDZ3bFdBcERDd1V3Q19UQThWa0EzYlpHa0ZWZEljRHQtdVFxSVUzNWpValBqakE5blZ2UGJxRm85a25rdExVNHlfcm5fUDVMM0l4RHB2MkxvdDA5YURPYlpwV0VqSnd1ZGt0UQ?oc=5",
+          "time": "12h ago",
+          "body": "Devendra Fadnavis Birthday Highlights Maharashtra's Employment Vision.  Sprouts News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Devendra Fadnavis Birthday Highlights Maharashtra's Employment Vision."
+            ],
+            "tldr": "Devendra Fadnavis Birthday Highlights Maharashtra's Employment Vision."
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1784868702178",
+          "title": "‘Very big day for Bengal’: Union Ministers, CMs in Kolkata for BJP govt swearing-in - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHl0UXNoMk51Z1NXcGszazdUZExXWWxFeTFYWUU1VzBRaGFmZ29ZU1paSUF0RmxySS1GYW95MDVSaV9lUmFIUzl5WnphcXlNQUZjWFZRRWhTSDVheWRnLTU1YlFFT1llYjlmZWRnVUpZMWxhMGp6N25JODFVRjJBQ1VUaF9kbzIyTm5MeWVlYU1ISVJZNnhEcUtCU2QyVVNDOXlEZFBUNnc?oc=5",
+          "time": "23h ago",
+          "body": "‘Very big day for Bengal’: Union Ministers, CMs in Kolkata for BJP govt swearing-in  DD News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Very big day for Bengal’: Union Ministers, CMs in Kolkata for BJP govt swearing-in DD News"
+            ],
+            "tldr": "‘Very big day for Bengal’: Union Ministers, CMs in Kolkata for BJP govt swearing"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1784868702178",
+          "title": "Maharashtra Rolls Out Rs 44,800-Crore Infrastructure Fund To Revamp All 423 Urban Local Bodies On CM's Birthday - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObWJWZlVTRk5ESDNVRDM3M0d6YzI5OEoxZG9QZ3dITTVGMWtWdE1Tc2FoR0ROLTk0ZHFzbnUzbjVfTGNVRzRVUUVOeDdlVVhkeVVOSkE0Nm9UWEY0WlhHT015RFl0cnhFSUhjMlozYXVEOGc1ejRCc09KbjVacGV5WGN2YW9pay1LUVA4T1VEN3M5MHhmekZVMGsyM01MLXNSbFZXNk1XZWg5MThLRG9YcTNob3pzdzM3OUhEVzR0LXRibWRjTnlFM01Ba2JTZE5iOGl1anhfSThYUTR00gHsAUFVX3lxTE5keWpqRWJkejN1UWtOUzlUdWJFZ0prakxMT1hIM3BYUTRsTUJBYnZhbHhXRUlPQlA2NnpVZGd1UTJ2c05KZ0ZXb0R1RVhEdXFiVFJzYXFDYXd3NnNiaG5UbTR2Y1JpS2NLZlEyaXFMRktjeDFBMUw3YlBBWG1UMlprQnh3dGNhdkwxRDlpQ0hUZXloOVVUTG9lRmxwQS1Wa0g4Sy1jNy1BcGd3eTNsTXVYYUEwczJZRE1WbEtIZ0Z2bHJnWW4wMlhHTmkzZlVLcGFjclJWWEhLb01sdWhkMUZCTHVxTVpzRjRYUTRi?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra Rolls Out Rs 44,800-Crore Infrastructure Fund To Revamp All 423 Urban Local Bodies On CM's Birthday  Swarajya",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Rolls Out Rs 44,800-Crore Infrastructure Fund To Revamp All 423 Urban Local Bodies On CM's Birthday Swarajya"
+            ],
+            "tldr": "Maharashtra Rolls Out Rs 44,800-Crore Infrastructure Fund To Revamp All 423 Urba"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1784868702260",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "4h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1784868702260",
+          "title": "Stock markets tumble in early trade as crude oil prices hit USD 100 per barrel mark - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaF9zS3R4bWxrZkVpWF9lTF9fa2dsVk5YN3JVMW5EbVlER0tJT0RTNjA0QWpfTEZLWFNiLVVReTF6WWJYU2RyZk1Ud1JzekRudnVvLU9FeE9MQlN4THVWQXk5d3RlbUtSekplbHBwZ2pkb3M3RVFKUk9Gc0J6YjdJTXo2UHRHNjBvMmRsT25UdHJXVHh3elRnem1ZMXE4X0hKWlpZalpxbmR2ZnY3RkJDOVhubVo3NVVXbmJCUGk3X2E1NWRYejI1VFR1X0JCd1dhZnZF0gHgAUFVX3lxTE90TnlXQWRod3I1LUM0cVM3dzhqeVR1cDRCWUhZN1lOZkZMWUlkcGF5d3NwbXdYWkd5QURXRlQybG9CNFFiZ1EwRVd6cjI5OXlZVTUzR2ZlSFdWWjlNNmkzbGN3YUJIbzMtNTJ1alQ4M3k1eUhjeVFjNkVtRGlidnRMazhSMFE5NjhDemxaTFhjYWNnVVNWakVJUUhjY0R4dmZkM2VMbER1ZGRDaVc0VEs4S3BmUE9RQ0tLLU9JZEttZFg4bHA0QlZHZU1UNzhPaHpwVFNXMmpneWx4UnNQMG5K?oc=5",
+          "time": "Just now",
+          "body": "Stock markets tumble in early trade as crude oil prices hit USD 100 per barrel mark  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets tumble in early trade as crude oil prices hit USD 100 per barrel mark The New Indian Express"
+            ],
+            "tldr": "Stock markets tumble in early trade as crude oil prices hit USD 100 per barrel m"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1784868702260",
+          "title": "Stock markets fall for 4th day; Sensex down 363 pts on surging crude oil prices - Metro Vaartha",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWW44clpwSFBuOUFLR1Z1WkpsYnZsMzU2cVI1NjV6M2xwTDJKYjR2dEVpMlVHZlhNVC1OU3Fxd1BlTG1GYVhpbnNsZDJiRE1JZVVWZUhfS3pCVzlMTEY4cmY1SXdJRmJ0RkVaZHlYUVZkWG5nUDZkUHNydmpPX0VweGUtb0Y3Qkc4TmZQdUl6MmxrQkVBWlBhTXJBeUxfUnNhbGRPUlI1V3dpZ3JSbmpWNVVpRVYtMl9RSVRrLU5WT1BKd0110gHSAUFVX3lxTFBROFZqVzd6b2JsUHFST25BSURmSTlNSEFFMzFOZHhnNDRVMDdZRVpMaTJGeHROQldLbm9tbDFMbnF5bDA2bGtjQ2R3Tk8wZ1FwYnNWWTBnZHdtVURua3lsZ1ZJVi1EUl9wZmwyS2NSUlFQWDNmc1N5c2IyZ2ZuWjN3b0J6VmcxNHdxbWc2Qk5uU0ZacWd0Tk1ucGNSeWJyVGZnSjFieUJwRFZDRVlwRUJwRWs0c29pVHFPVlJ1ZkZscEt5aTJRRVpvZ2lpUDczVTZNZw?oc=5",
+          "time": "2h ago",
+          "body": "Stock markets fall for 4th day; Sensex down 363 pts on surging crude oil prices  Metro Vaartha",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall for 4th day; Sensex down 363 pts on surging crude oil prices Metro Vaartha"
+            ],
+            "tldr": "Stock markets fall for 4th day; Sensex down 363 pts on surging crude oil prices "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1784868702260",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "5h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1784868702260",
+          "title": "Stock markets extend losses to 4th day on surging crude oil prices - The Sen Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd3ZwMFpmUTBkMDJIaWFHQ194UkppaThWdzVIdm5yMnlVVkhTS1Mwc3B2RGFKLXJDaERLZmVNSmE0NHRrOGVXaWhQN1RPM1lnVWdBdktVaTNtWDMxZ0ZkUE9TYTJyaDQtTUlrc1IwTFNPTmFoOVR5X0Y0Q1FZTzJYSmtPYmlDdmsxSUNwaFdUYkJOT0lWMHc?oc=5",
+          "time": "17h ago",
+          "body": "Stock markets extend losses to 4th day on surging crude oil prices  The Sen Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets extend losses to 4th day on surging crude oil prices The Sen Times"
+            ],
+            "tldr": "Stock markets extend losses to 4th day on surging crude oil prices The Sen Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1784868702260",
+          "title": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyMlF3dnFDT0RCNF9EdUp3dXNRbEpnRFJMVmJiTjVYQ2dDTTlzUWU0c3NtX1cxc3ZBOTZuV2N4aWRCMEZWbUc2OEo1WjlFV29VdXg2Sk1oUHNKd2drN213MUg1NDVldnB0cmJKcWg4VQ?oc=5",
+          "time": "6h ago",
+          "body": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison Moneycontrol.com"
+            ],
+            "tldr": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Perfo"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1784868702260",
+          "title": "Sensex, Nifty Extend Losing Streak To 4th Session As US-Iran Tensions Push Oil Prices Higher - Ommcom News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlhod3RMbjhsbFF2S1NTdWNybjBQUm1pRmpSeTVaOWo5Vk1zcFRnTW1zdjk5OUdWYnB6UUtDUjhPV01tVnR0NEpCRmtiTkFLNVpvZ3E3NVF6Ykx5Wm42ZC1PUjd4c1VLY0RJdWo5dmJlUmk3RTJDRHR1MG90MFNiTklhcVN3X2lIMGo3cjF2Z3JUYV9YQ2xuNU5kcnFGMDVralNRT1BGVmZpUjQyd3R4a1o0M3hTLUdyR1h5ZnllWDdwNHNXYlVPVw?oc=5",
+          "time": "17h ago",
+          "body": "Sensex, Nifty Extend Losing Streak To 4th Session As US-Iran Tensions Push Oil Prices Higher  Ommcom News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Extend Losing Streak To 4th Session As US-Iran Tensions Push Oil Prices Higher Ommcom News"
+            ],
+            "tldr": "Sensex, Nifty Extend Losing Streak To 4th Session As US-Iran Tensions Push Oil P"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1784868702290",
+          "title": "Uddhav, Raj Thackeray announce Mumbai morcha on July 26 over student protests, NEET paper leak - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX3pZNEMxZEhGbDhFZ20zTkYwVVlRMUdrSDB3RFhZVkk4blJBYnRBaHdZSTdHZjU4TXRCY19IMXZJeFFWYXJVYXQ4cTdqMU1TdmU0M2tnRV8ySmg1YjFQSmpkdlBtOXBkLWFjZ0NKY2Z5OW55Wmp0dGZwdHlBTG5ORFk5TzdyUTJRTS0tLVpSdTlfSVpxQXFxUE9iVHNBSVRQY190TjlMNVp0eTVlVVRjU3BfQ3NEYS1TYm9xbGM4dlRQOC1VNnlzVlA3NktMYjRvZlJvb0hiVFRVRTdWb3ZhX0lEbm1VRTVEVlpvUNIB-gFBVV95cUxNaV9pUTV3NFZmRXFFVEF1dENLTFNSZ0NqOWpvM0NoN1ZCNkpiRmxfSTVzUzFKX3U1VnhCNk1LQ3gya0V0bTJ3VDc0TVpINzhZS2p6Q1FFWE5YQ0s4TGhSNGFoVG52RUdIODE4UkNOUjBYQ3RTMWxZQWZ5SDlSYlF4ODN0NWxKSEdNejNwWjZrcWg5d3BPNXBTcE4tZFNlaVR6T01FUXQ5YWNDcmJqQU5uc29FUS10NkNJVG5aQW95QklVU2JQMnZISW43cW9ZZkh3bEtEWndqRVU0azVwbnA1NWtCR3laSk5JVXJpWXhOTDdlbmVweEVLOW1R?oc=5",
+          "time": "20h ago",
+          "body": "Uddhav, Raj Thackeray announce Mumbai morcha on July 26 over student protests, NEET paper leak  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uddhav, Raj Thackeray announce Mumbai morcha on July 26 over student protests, NEET paper leak The New Indian Express"
+            ],
+            "tldr": "Uddhav, Raj Thackeray announce Mumbai morcha on July 26 over student protests, N"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1784868702290",
+          "title": "Thackeray cousins announce July 26 Mumbai march backing CJP student protests - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkVpVFI1NEdPel9xcUROZkh2NlJaOVV4NEtHcWhuMUNmYUZXVERFa3lOMS1jTHVmeVlHMmxtZ0pqUFBOVFpnajdtaHhoY2V2VFhkS1lfdHJ0Rmw5b09iSEx3Yl9iNExGZzlwNWRjdmc4UmVYSzk0dXZpeUNzTGNpT2QxQ25WUTRCRVFoVDZEamlVVDJJZ2s3XzZDakhHV0tRcG8xT0xWemgyYzBTcDJwNmZ3MDR0Y1NHeW1CdHFVYUVtVlFKR05WcUlrYXRnZlnSAdYBQVVfeXFMTWo4bUczalBwNDZieU1oOXc1SnZHNGFHRTVSS2lHbElhZ2JEZ21zTDlTUlRlQlp2S1dON285UnBmT0lsTWVsdzRBaGE0WlhvVDgwSEVCMDg1ZjJpbWZpRWJ2SEpPeG5BY3ZpMy1UUzhOYmlwX2c0TEdGNy1HVnFfNFZTZU9FWlp6TVRoZHo1WEltc1dPTGw1NG9kR2VMWmVVRkIzZUlMak1xMTRlSXZGbThVbGV4OWJMb3FwM0psUTQyeGNJbVI5czZOb01SdXd5QlpIeUcwZw?oc=5",
+          "time": "18h ago",
+          "body": "Thackeray cousins announce July 26 Mumbai march backing CJP student protests  The Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Thackeray cousins announce July 26 Mumbai march backing CJP student protests The Indian Express"
+            ],
+            "tldr": "Thackeray cousins announce July 26 Mumbai march backing CJP student protests The"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1784868702290",
+          "title": "Uddhav, Raj unite over NEET row, announce march in Mumbai on July 26 - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZldYdXJQSTUxck5zQkcxUlZxYVluc1IwbF9nZkJVZFlyTk9pMk81dXQ5dFdqOVRpZkNBWkpXRWxPT0NncjN0d2NzYUZjNGxnMTB4ZzJTalphdnRRXzBneG4zakZSbFVCVndXZ0szRXZIeE9Ha2x4Z1pVZmZNODV0bElkRHVFUUhZU01GRUprOFFaVEdXakprbXdGT2RHWWdQaWZmUzhPLW9aNGpmckpGQXhMRXbSAbcBQVVfeXFMTlFGNUk5dnFnS1RWNndOMk45NndxZldQRjRmTWw1Y3FyME5HaE5QTDZyRWxFUE1qX19hcFN6UHlTMUJhUWlHRGwxdVRUZVU3ZzV5aG96dzBibDVCVkE4cFRwLWJUTXpXOHExT245dHRlMFhaUjBrUnp6VWRMVHRPcllZcnl4Nm1RTnVJRlF0TWRlSHE1RWExc1BTenRkdXFOWlFNUDBWZXFuT0RSdGJsZjAwVkJfV2sw?oc=5",
+          "time": "17h ago",
+          "body": "Uddhav, Raj unite over NEET row, announce march in Mumbai on July 26  Rediff",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uddhav, Raj unite over NEET row, announce march in Mumbai on July 26 Rediff"
+            ],
+            "tldr": "Uddhav, Raj unite over NEET row, announce march in Mumbai on July 26 Rediff"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1784868702290",
+          "title": "Uddhav, Raj to hold Mumbai march over students' concerns - Awaz The Voice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVQ1WFk5eEpucklEQkRGbjFUS1AybDI5TXN4dHJfc09vcS1KMDUxMHp6dm1hdF9wQ24wV0c0UlMxWEFQZE5CS3MzR25ReVcwVzk4VGlxTEpYczJmY3h5c1pjcHdackh1eDNJYklMMzdvUWJQNU5GNkpOTS14OXczVWNyZzB2bUVISUg4cUY3LUNDWUpDRGpwSEJ4dkNqaFdLeUZzcDJhUQ?oc=5",
+          "time": "21h ago",
+          "body": "Uddhav, Raj to hold Mumbai march over students' concerns  Awaz The Voice",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Uddhav, Raj to hold Mumbai march over students' concerns Awaz The Voice"
+            ],
+            "tldr": "Uddhav, Raj to hold Mumbai march over students' concerns Awaz The Voice"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1784868702290",
+          "title": "'Will thrash anyone': Raj Thackeray's open threat to disruptors ahead July 26 protest in Mumbai | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMmVFOHBlVnB0VExFM2Nld2MzaTBMUjdabkR3VGw1dkZDS3ZBZkZ0SUY0UkdoM3lRRXVwemk2Qjl0eXNLdTd3elUydk53ay1NX1d4ZUtVMzI4RkhlQk8zN244NHRGQmt6NWF4eE1DQ0JVcm5IMzZCcF92cnh5eWpFSDQxVlhYdVNIMnJQSnViUmJFeHJ0NjMtODJubkhaQ3pTb0JwUDk5OHNwLWZuckNYTTZDcjRBalpHX3JMZlNWLUlHcmRPTGZOeXdtVjUzUnNYT0ZIVFdmUzV3RFRMbmpKajRrdVhDZ0dBRVJoZ045WFc3TjNaX3ZyeDRYRUxDWVNIdm1UYdIBigJBVV95cUxOeDNMbGk3cGpmZnlkclVsOFJCZk5DQ0FMOEJ6bDJYS1VyUTM1TWlmR1FKYXBQd2JvNEdmdlFfd0dub0xSbkZEb0hzSmlOTnpteFFEYXdvNUwwUWIwVVFicHlReUFjSUZvVm8yUEF6eDVNYmJmQ0lzTHh4ZWJGeWNnQVV4NldIWWJ0RklqVEw3SFkxR0dTSk1JczJpRmNWdlgyM1RJcGQ0aUc0by1iMjhWUGwwXy01ejJRNHM0QlU2NWJZQ1FORUJfQjh0RTUtejhvdVJWcXU0Vnd5dG4xX3BVTk5fdlUxVGt1NnEtUWkwem1TZERqTUZJUVU5RE9BbnRFYTVaQ2dISDJnQQ?oc=5",
+          "time": "21h ago",
+          "body": "'Will thrash anyone': Raj Thackeray's open threat to disruptors ahead July 26 protest in Mumbai | India News  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Will thrash anyone': Raj Thackeray's open threat to disruptors ahead July 26 protest in Mumbai | India News Hindustan Times"
+            ],
+            "tldr": "'Will thrash anyone': Raj Thackeray's open threat to disruptors ahead July 26 pr"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1784868702290",
+          "title": "Mumbai police driver removed after viral video shows him threatening student protesters with fake drug charges - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjk2M3VLZzdWRk9iTU9VcXNOQk5lVnE4YXVfN216cnFfTF9qd1d2N2Z5YXRodV9EeHJzc0hiRHBmc1RRLU1SbzRFV3A3T3FBLWNwUFZPT05zR0h4OFdyc1ZzZmN1cEdfbXJ5ZkJsUVJVZXpxTlhHWUlpWHB6TTBHdEZRMXZnOXZkbGpZSDhaQUg3TGJfMkl0US05aXpQRVdaWjVQd0FzZ1RMVjdTQWZ5Mk56M0xZNUxrdXBiWWVBTFAzb2EwazFoeXRXeDJGVnlRaUVZ?oc=5",
+          "time": "15h ago",
+          "body": "Mumbai police driver removed after viral video shows him threatening student protesters with fake drug charges  Telangana Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai police driver removed after viral video shows him threatening student protesters with fake drug charges Telangana Today"
+            ],
+            "tldr": "Mumbai police driver removed after viral video shows him threatening student pro"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1784868702290",
+          "title": "IN PHOTOS: Uddhav and Raj Thackeray announce Mumbai protest on July 26 - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0QxU3pVbEZRMmF1N1ladFZ3RE5uM1hlZE83Tmx4aXJaR2x5R3gwaDhFWWRsUnhtdXBtcHZMNVpVTkdua1I4aDNkcVp2RS02cGs3cDBRZ21hUEFJYTgwS3AwZzdfYldweDMzTVVsNU42NDFLeFBMcjBGYXJmQXdud3JzOHlzYUVkVlFxOUVxSzloYzE0TFlpWWVqcXFRSmFFd3hjWVRSNkcycjdKZHI5N3V4YVBqM3g4ZlpIVDNjV2VBTXM?oc=5",
+          "time": "19h ago",
+          "body": "IN PHOTOS: Uddhav and Raj Thackeray announce Mumbai protest on July 26  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IN PHOTOS: Uddhav and Raj Thackeray announce Mumbai protest on July 26 Mid-Day"
+            ],
+            "tldr": "IN PHOTOS: Uddhav and Raj Thackeray announce Mumbai protest on July 26 Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1784868703582",
+          "title": "AI Data Centre Leaders Map India's Infrastructure Roadmap - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcDJZNTJVM2t4Qmdrbi1kT0MzaFhqY3g5OFI3UnRkdVN2OFVOSUY5ZEVsU0tHdXpmN2JqMXNWdGMwZ2pQTlFoVkpnaXVxTFJFY0lHc21oRTRNbHdLV0plSHJKaFBEejJRWnpuN1B2Y3dzYk1IQW9DcEtWMWItS3Z3YmpOdVJyVF9Ja1hWWDVUYnE5LTJLSGFCM2htc3VubmlyM0RFWV9majM2NHdwZk1iSjhPODBZUWwwWGxxTEp1VGhyaEZ1YlRrS1VoaG1ySFJ5LVdlSWtHMG1FWDU2azVXXzZ0eTLSAeQBQVVfeXFMUHAyWTUyVTNreEJna24tZE9DM2hYamN4OThSN1J0ZHVTdjhVTklGOWRFbFNLR3V6ZjdiajFzVnRjMGdqUE5RaFZKZ2l1cUxSRWNJR3NtaEU0TWx3S1dKZUhySmhQRHoyUVp6bjdQdmN3c2JNSEFvQ3BLVjFiLUt2d2JqTnVSclRfSWtYVlg1VGJxOS0yS0hhQjNobXN1bm5pcjNERVlfZmozNjR3cGZNYko4TzgwWVFsMFhscUxKdVRocmhGdWJUa0tVaGhtckhSeS1XZUlrRzBtRVg1Nms1V182dHky?oc=5",
+          "time": "17h ago",
+          "body": "AI Data Centre Leaders Map India's Infrastructure Roadmap  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI Data Centre Leaders Map India's Infrastructure Roadmap Business Standard"
+            ],
+            "tldr": "AI Data Centre Leaders Map India's Infrastructure Roadmap Business Standard"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1784868703578",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "8h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784868703578",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "11h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1784868703578",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "17h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1784868703578",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMHB3MkJiSWxhOGZWdERRYm9rWEpBX2JYMTFReXNhVndrcGVsMVo2RDBZeFBPbkJTOFFpNXZ6X2xhUkdwT2RxczNVNHNDZmI3M2lxajRmQkU5ZUcxZnppckpJY29uV3VhUTFmZ0xVRklhVGUyQVFDQ2N5X1ZId3p2M0RsTmxtMnRXdVZ0cm1RUDZsZS1KNlJVMlVYbTdTTlE?oc=5",
+          "time": "17h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1784868705581",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1784868707301",
+          "title": "Father's 'Govardhan Parikrama' in Mathura pays off as Mayank Yadav makes a fiery return",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Two years after injuries threatened to derail his career, Mayank Yadav announced his return with a fiery 2 for 18 against Zimbabwe. While his father prayed for his fitness during the Govardhan Parikrama in Mathura, the Delhi pacer touched 149 kph and reminded everyone why the Indian cricket board never stopped believing in him.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Two years after injuries threatened to derail his career, Mayank Yadav announced his return with a fiery 2 for 18 against Zimbabwe.",
+              "While his father prayed for his fitness during the Govardhan Parikrama in Mathura, the Delhi pacer touched 149 kph and reminded everyone why the Indian cricket board never stopped believing in him."
+            ],
+            "tldr": "Two years after injuries threatened to derail his career, Mayank Yadav announced"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1784868707301",
+          "title": "Captaincy weighed him down, freedom set him free: The remarkable second act of Root",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "Joe Root's remarkable consistency guides England to ODI series victory. He scored 249 runs across three innings, proving his enduring value. Root's game has evolved, making him a headache for opposing teams. His enduring passion fuels his desire to be England's greatest batter. Root's presence provides comfort and freedom for younger English players.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Joe Root's remarkable consistency guides England to ODI series victory.",
+              "He scored 249 runs across three innings, proving his enduring value.",
+              "Root's presence provides comfort and freedom for younger English players."
+            ],
+            "tldr": "Joe Root's remarkable consistency guides England to ODI series victory."
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1784868707301",
+          "title": "CWG 2026: India's complete schedule, timings and medal events on Day 2",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Indian athletes begin their campaigns in five sports on the second day.  Para powerlifters will compete for medals in multiple weight categories.  Gymnasts and boxers will also commence their events during the morning sessions.  Swimmers and lawn bowls players are scheduled for heats and section matches.  Several medal events are planned for Indian participants throughout the day.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian athletes begin their campaigns in five sports on the second day.",
+              "Para powerlifters will compete for medals in multiple weight categories.",
+              "Swimmers and lawn bowls players are scheduled for heats and section matches."
+            ],
+            "tldr": "Indian athletes begin their campaigns in five sports on the second day."
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-2-1784868704814",
+          "title": "NLIU Reserves 20 Hostel Seats For Outstation Students; Locals Await Allotment In Bhopal - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1BEOFhzVnFBaGpoa1ZqcWtkNW5qWWlCTGVkQ2FBTVFmV0F0N0g1dnVMMUVWRFhVYlBtWmlMcVM3dUUzT2x6aEpLUFloN2lFdEpzMVBidUJzY0ZpNVlOSmcwNVNwV3hEeXFjeEdhbVRGQU5VS1R6MGhjTUhxd3YxZC1sMTdoZ1gxLUptWWxLVlhhbWdMQVZQbHotUmFYZVVWdlRwaWdwbDFydkxkWjlVLWFYYkNmcExUNGFfT2Q0MFNKcHc?oc=5",
+          "time": "2h ago",
+          "body": "NLIU Reserves 20 Hostel Seats For Outstation Students; Locals Await Allotment In Bhopal  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NLIU Reserves 20 Hostel Seats For Outstation Students; Locals Await Allotment In Bhopal Free Press Journal"
+            ],
+            "tldr": "NLIU Reserves 20 Hostel Seats For Outstation Students; Locals Await Allotment In"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1784868704814",
+          "title": "Indore Cannot Be Ignored, Says Former Lok Sabha Speaker Sumitra Mahajan - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0VmSnBvVGJDYk1meXJFTDhRQ3B1U2Z0bk92Yng3M21UM3hrZVp4dFYxeTIwZGh0YXRjMEtONEtiODc5aTJJQlN5cHRNakNOOEY3YUxHY3QzNmNLaHZDY0ZTTVRhU2NMUjhTdXc1N3FiaXdxSUk4Nmx1dUwtR2YybWJ3dEtTakh5T09nSnp2cHA2dE5MeTQxM1JWVy1yT1JxRG4wOEdZLWpSODNOVUHSAbMBQVVfeXFMTkdhOEdWQ2ZjR0ZEUXluX09rUGF3a1RtN0V3eXRZUTZ3Vk81YUx2cHA0bVpSM1hXaWJJeVR4aThQeVNHanEyS21SNGpuX213Ykw0RWZMdEVFc3ZYLUVYR1FwcHp5eDFIR3h3UW5SZ0RYN1NEM2xVWVhUZW43R1IxYXY2ajB5MTNpZkFfSWx4LWx6MWJaRmpfa053eGd6a0J0em1aTWdqYzBaVHE2YjBJbGdoZnc?oc=5",
+          "time": "4h ago",
+          "body": "Indore Cannot Be Ignored, Says Former Lok Sabha Speaker Sumitra Mahajan  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indore Cannot Be Ignored, Says Former Lok Sabha Speaker Sumitra Mahajan Free Press Journal"
+            ],
+            "tldr": "Indore Cannot Be Ignored, Says Former Lok Sabha Speaker Sumitra Mahajan Free Pre"
+          }
+        },
+        {
+          "id": "mumbai-city-8-1784868704814",
+          "title": "How To Keep A Great Project From Getting Stuck In The Pilot Phase: Scaling Strategies From Siddharth Pani - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX1loOG0tTXY4cFFIQUwxTDFuWGd0c21LTjlUelBRaTJtdjdLVnB1YWFTU2lReEI1ZzRXZTV2bEZwdW1pVTlFclZmY29LbjhtbldfYXJzRnpnMHpfT1FDdU9lLThEenNyYjV4X3pRSWp2WVBITGxwTC1wS1R1cDJha1lSOFpHLTRuYjdZRTFUUV9OS05XWFNXREE2Wm5nOHZNN3U0MndPdWtrUFM3U3FpQm10WEJTalBpdlVEMnJKSmMwYTRIa2dTNkdpTzJIeHJNa3FQZDNoOHp5VXZtZDIwT0psUdIB6AFBVV95cUxQZ2o5c19PY1VBb2QxejdvT0xTcnJ1aThxVFIyVDNtNmxGT3BENGY3WU5LLWttSHZJd211aUZoZFMzOFRqU1dBdGdWRVJhbjhWMFN2ZmRNVjZGSTVIeUhOYWNVaEV4U0dSUTZEbWktb1JCazZyOGx0d0xwMzFtYUpDWG05M1RsZ1ExSEJldEUxczlQSUpVVEZ5ekVJZzZZc3dTM0ozS1otbE9WaW5NcG1scm1icXBVai1IY1F5NFdTcTA4bDhqRHpEcFVnU3hfVVBYaFB1cU4tVVRUcW1aTTFhYjY0Z3lYajZ4?oc=5",
+          "time": "15h ago",
+          "body": "How To Keep A Great Project From Getting Stuck In The Pilot Phase: Scaling Strategies From Siddharth Pani  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How To Keep A Great Project From Getting Stuck In The Pilot Phase: Scaling Strategies From Siddharth Pani Free Press Journal"
+            ],
+            "tldr": "How To Keep A Great Project From Getting Stuck In The Pilot Phase: Scaling Strat"
+          }
+        },
+        {
+          "id": "mumbai-city-9-1784868704814",
+          "title": "Ujjain Administration Reviews Security Plans, Traffic Management & Facilities For Mahakal Sawari - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFVnSklrdWFaTmdnWUtWaXlYS1JrTXd6NWFXQ3k0cVdHWG1jdTJqcHdUMW1BX21iNG5XejZ1SXJaN2hlSVVSN0tRREE4eUdkQnFzXzNZcXVoZnljSmxZZGRjOFBwMm5RTGpFbVg1SjJVa21QMXItY2pDQnZrSVZjU2xHZlJyNVNCd3ZwaGpxblV0Z1JOazhtRVBMdWpDX3I0MmtPRDZ1RllXN2hWVWtPMERjSWtvRTdtUE9iS0dtWmd5MWRSNnlXMGZXRGjSAdIBQVVfeXFMTjU2RFpzeHhLSUl6Y2JuTmM2bjU1TnI2ZzdzRllnTkpDVmU5M3IteTVKUFRWNWtMN3ZDOG5YZDRJUGNhamNUdUxyTWhCYVdVNVpmVWIxU2VJdm9WbWlzNEhaUjRRdjNLTm04TTN0YjVvalVKaF9tQXNrZDItaEgxdlBDekZkNFgwWGFWeTloNV9LREpfZklSZWFsNk9KcXRZV0Z1WkJjcWowQUgwN0hFeFROZ2ZpY1J0WkVYRGc2OTNLV2NsYU5YVW5uQjRPWkxrYm5R?oc=5",
+          "time": "17h ago",
+          "body": "Ujjain Administration Reviews Security Plans, Traffic Management & Facilities For Mahakal Sawari  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ujjain Administration Reviews Security Plans, Traffic Management & Facilities For Mahakal Sawari Free Press Journal"
+            ],
+            "tldr": "Ujjain Administration Reviews Security Plans, Traffic Management & Facilities Fo"
+          }
+        },
+        {
+          "id": "mumbai-city-10-1784868704814",
+          "title": "Ambulance Staff Member Risks Life To Save 7-Month-Old Infant Amid Chamba Landslide - VIDEO - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2VHMGo4NGtmdUxoS1BfSVlRbkhaVFRFVGhDSDBtVzZKb3U0b1pEYkxMRE15VWVuX1BYUW5kUmo1eXdJQ2hfT2Y5OGVaWHVxN0pqRll0QVRSdzRxQnBLRmU0bE14LW5oWWxlcGszUjNXU29KZTdVNXY0eTFOWHVyQnU4YVFibVN1d0dkMlhvSWR4Y0h3NWw2clZrNElYOVhleU5kaHVxSVFteGl5enhyTHBKYUxZZWJCTF84cXZ5blB6Nktz0gHKAUFVX3lxTE04TTFUeUZaam9sQnFCN2ZTYWtVX3ZoWVg4ZkU2a0pOOF9CRWoxQy1EMFlCWDh0X1VleFMyYlYxdE1JQTZLYkE0ZlhHN1hqMS1sWmlSTnI5WlQzbWlfSkU0ODI4Uy1sT25RdDVCbmhNR3V4TmRZYm5fNVRGNkJvS1ItdjJyM0FGcVJUMGtrNzRjZmZNZnF4RDFXcUxqem01NHpEQkpMMHNDMGw1REMtVVNMLUw0T1J4WmswYUoyZ05qZWIzeFpFT2hRUXc?oc=5",
+          "time": "14h ago",
+          "body": "Ambulance Staff Member Risks Life To Save 7-Month-Old Infant Amid Chamba Landslide - VIDEO  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ambulance Staff Member Risks Life To Save 7-Month-Old Infant Amid Chamba Landslide - VIDEO Free Press Journal"
+            ],
+            "tldr": "Ambulance Staff Member Risks Life To Save 7-Month-Old Infant Amid Chamba Landsli"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1784868704887",
+          "title": "India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency - hardnewsmedia.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnJCQ3plWlJLOGdYU1dIckItNUVRdHZwYzZsNm5ETEN3OWlTaWdGd0RXQVNnSkFXRkg0dTUtX2dLOW84a09MbXVTY1NQX3NJX0lYQnRwVDFVNlpWWjhQcXJGMmhVTEIyaWFCQlc1eUNvZFIxc0RuMW9OVjR3bnVSMDF6RFFxeEZVYkdfLXZzNW1JSklYR0tPQnFkeFhDT1AwaEh1bnY2WVVYS3c?oc=5",
+          "time": "20h ago",
+          "body": "India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency  hardnewsmedia.com",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency hardnewsmedia.com"
+            ],
+            "tldr": "India’s Monsoon Deluge Reflects Intensifying Global Climate Emergency hardnewsme"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1784868704887",
+          "title": "UPSC Editorial Analysis: Climate Change as a Universal Threat - INSIGHTS IAS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM20tcl9TN2JiM0puTG56VnlHd3Riek9qcDRoeTB6X1RGVHByeTZfaThIdTdmSERSMWhoTmV4VzZaek1OM09teEtnX2VMc3pvSnVfbTY4TnZiSWZjRWtDZUJIQmFldWxBYlFicUMxYzVvLV9odmRSQ2hMTHhycmpRRUZoVEU3bmU2dmV3ckR1bEFza2xabnhqdGN6SjJsWkFhV2RvTU16bw?oc=5",
+          "time": "18h ago",
+          "body": "UPSC Editorial Analysis: Climate Change as a Universal Threat  INSIGHTS IAS",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "UPSC Editorial Analysis: Climate Change as a Universal Threat INSIGHTS IAS"
+            ],
+            "tldr": "UPSC Editorial Analysis: Climate Change as a Universal Threat INSIGHTS IAS"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1784868705580",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1784868706878",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1784868706878",
+          "title": "NICDC organises cross-learning site visit to AURIC Smart City to strengthen industrial corridor development - India Shipping News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcWV2YzdSMjNiTGx2eXB1bHlrUjFxTTMxZ0FSZ0xxQ2Q4VThfcEhBU0xjSUM1ejlVS2NXLUkzaVBCMW1qSTdFYVdvVUZxaGs5b0EtTHhBMTF1eXNySWV2Tlg1WTJucFFFUUZZdktTZWQ1MUFwR042eUxpTF92dVVhd2pLSU1fa1hWWlhiZzEtVXlibW1VSW9RQ1FOT2Q4NFBPOVVLYTJaWDlWWUFHbng5WGlSQkd5V3hmRkZ5N3BxNHVzMFdyU3BhVExwU2ZzeUl3SXZ4MnpaRUMweVRmay1Odg?oc=5",
+          "time": "Just now",
+          "body": "NICDC organises cross-learning site visit to AURIC Smart City to strengthen industrial corridor development  India Shipping News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "NICDC organises cross-learning site visit to AURIC Smart City to strengthen industrial corridor development India Shipping News"
+            ],
+            "tldr": "NICDC organises cross-learning site visit to AURIC Smart City to strengthen indu"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1784868706878",
+          "title": "Maha forms high-level panel to probe alleged irregularities in Nizam-granted 4,120 acres of Tuljabhavani - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOa0k2UVp2Z1NuMmR4Z1VLdURpa1UteUhuUFdUNTZtb3N4WmxtX2d1Y3ZLTGt2U09Rd0k0Y0FrNGNHaWJDWVUxdUZZa1ZyZ3JNaTRIUGhESTU0dzZmb1otdE9hRHVBekVLR0JiS3RsMkpBdjJvZXVRYVVCZ1FFZ0VaeGs3cjJDbmVBc0JOYkYxM2htRzBUd0RZWnlhQXV6ZnI3SHV0VTN3bDc2YjJlV01nSmFWOF9fbmtraXFhY0pNQzRlQ1p5N1JmdEFfZUpMUXBYdzZ0UktJd2cxNDRtWkxIQkNqZjNua05QLS12cFhkSEEzVkJiQzZtS1dTdS02NDlkWUNnS0JiYXlBcDZlVUY3TC1zSzVHQVF4SXFNcktfdjlseU3SAaMCQVVfeXFMTmtJNlFadmdTbjJkeGdVS3VEaWtVLXlIblBXVDU2bW9zeFpsbV9ndWN2S0xrdlNPUXdJNGNBazRjR2liQ1lVMXVGWWtWcmdyTWk0SFBoREk1NHc2Zm9aLXRPYUR1QXpFS0dCYkt0bDJKQXYyb2V1UWFVQmdRRWdFWnhrN3IyQ25lQXNCTmJGMTNobUcwVHdEWVp5YUF1emZyN0h1dFUzd2w3NmIyZVdNZ0phVjhfX25ra2lxYWNKTUM0ZUNaeTdSZnRBX2VKTFFwWHc2dFJLSXdnMTQ0bVpMSEJDamYzbmtOUC0tdnBYZEhBM1ZCYkM2bUtXU3UtNjQ5ZFlDZ0tCYmF5QXA2ZVVGN0wtc0s1R0FReElxTXJLX3Y5bHlN?oc=5",
+          "time": "8h ago",
+          "body": "Maha forms high-level panel to probe alleged irregularities in Nizam-granted 4,120 acres of Tuljabhavani  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maha forms high-level panel to probe alleged irregularities in Nizam-granted 4,120 acres of Tuljabhavani The Times of India"
+            ],
+            "tldr": "Maha forms high-level panel to probe alleged irregularities in Nizam-granted 4,1"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1784868706878",
+          "title": "Maharashtra Weather: IMD warns of flash flood, heavy rain – Check forecast for Mumbai, Pune, Thane, Raigad, P - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSWtIWXJhZnBEQThJX2Q4X25vTXd0ZzR5cDY2Q19Ic2pseWJNbHZDcFB1alRzNDRDeHk2cHhnV085VjEzU3RUc1BmazZwMDdjYUdQU3hKQloyc3V0ME1QbHY3Z0tTVl9pdVRMZmQ2Q01ia29GVmdtUWZQRUFfdFZQR1g3RE9NMF9OdTZGTlpVSnNmWjRWWG5qZ2c5RERXMElnellfWFRkbWRBSFlWX09xLV9wQzhIVEJ1NUU1M3NtdE1YUVRjVTAwWWppNF9zdVdNTS1tZUlseVUyUDJ1a3Q0SDhHb3RHMDB0MWgxWHVRMV9EbTU2bWVsQmZ30gH_AUFVX3lxTFA4bW5DcTJNRkxWY2Iya2JVNWlRbHFTakllaGlmWjI4bzBJUk04UXI0NFV1cDdPRERhcnVxcnFEdTdKci1jMFR4NlVQVTRRUG96dEpIQ3kwVkZYR2ZMclFBOHN3T1JNMk1IeThaUWVBLUU0N1JHWW1LNWcxd0VPVDZuX09PQ1lDYjZfbUliNGd6a0dZQjI4MksyZ3E4cTZ0VE1MSi05MXNvcWlZX2lDY05CNE0yRnRRSkhDZC1JRTJsa1IxTDhQRkZiQXE0anR3VFRnNlFvWjVuMExXYXBYMjBXdzFmV3JuT2hKNW1hb0VFaTNOaVJIbjZqbGR1aDZkNA?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Weather: IMD warns of flash flood, heavy rain – Check forecast for Mumbai, Pune, Thane, Raigad, P  India.Com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Weather: IMD warns of flash flood, heavy rain – Check forecast for Mumbai, Pune, Thane, Raigad, P India.Com"
+            ],
+            "tldr": "Maharashtra Weather: IMD warns of flash flood, heavy rain – Check forecast for M"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1784868706878",
+          "title": "FDA suspends licence of famous sweet shop in Chhatrapati Sambhajinagar over food safety issues - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3dkX2laYTdDaWpkb0dTQURNNkx2M0ZLVGdNbDRlMmRWOGpzMXpPSkZYSGJDaHphcmY1d2ZYYkhEZUU1WlRKTHQ1NUNMN2dEdFBfRFNVUVNmU2FOcV9nazVZY3VNR3dlY0t2LURYT0l6T2FBOGROZG0yWnZWNWJTdXh1dk1mY2hkN1hPTlBWeGlKR1F4U1hySGY1ZFd4QWdINnVvRVFROVhjazRXS0lPYVdST19QeHV5amJHSmdDNXJkQ2tXaURQWdIBzgFBVV95cUxPeTBCR0RTSTFWOG1jVFE3VTlOak9uRk1wNzJmSEpGUGZMeTVfeTRXRVhKcjBZXzJyUXh6RW1aRGg5c1hsd1VSbEwyU2I0NTNRUDItS2NTNGpuM053bWNicU5fSDRCYXJpOGtuWm1XNEh5aHZ6RzBnRWp2VnhTcXV1UWhGZWxpS011WEFQZU5ST2JmNXFBbk1mYUlYQW52SnJfaWFLMnprdkFXa0xJUG9fWGZKak1KSzFzeHBLRzZqcWdORmM4bFRKVFo5NFpCQQ?oc=5",
+          "time": "18h ago",
+          "body": "FDA suspends licence of famous sweet shop in Chhatrapati Sambhajinagar over food safety issues  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA suspends licence of famous sweet shop in Chhatrapati Sambhajinagar over food safety issues ThePrint"
+            ],
+            "tldr": "FDA suspends licence of famous sweet shop in Chhatrapati Sambhajinagar over food"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1784868706878",
+          "title": "From Marathwada to Konkan: How water and food security vary across Maharashtra’s regions - India Water Portal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelNycGY1dk84M1Jfd3YwOUNWSDIxcFhlUndYX3FDYzBjSVJlcmpsY0lIR1J0VFVkQ3oxMzdmUVNVUVJOS0pBcGllbmZzQnAyU1lkYUdWR1Z4enRWUDVwUWhPaEpKVGNsZmJ6bXJWV01FN2VnOHgyZHJaOWFzMldFeEMyWFdzUnFrYkZOQWhvSy1hQ1ZsdkNZRTVOVHdpcUlkd21kY0hUQ3E2endNTklsVU55dXRjV3I0TFhKTElQYnF3U2hKVlJhVGl4ONIB2AFBVV95cUxNSHY2cnhkSGFsMG9hdmtDZ0kwbWY4QUhDOFNHVTFuSE5ZQkswNndKWHNOUGgxTl9CeHN1QnBOYjAzLUxDMWdyS3dBbEhFQlFNdXV3c2NMeXpkTl9pWmhQbVBMUERZUWJwczgtSkh3RkkxdU1ZY1lqTnFRMGwtM1RCQXJSV3M0aERJZW1wY000NTlERWVVWGNSVDA4X3ByUVBpdjIxbXQ2NG9jR0oxVnRTdXpFQ3RPV0tTRXBLZFdPV0RHdjdhVXRzRXNuNFk0WTczdFE4MEY2SE4?oc=5",
+          "time": "22h ago",
+          "body": "From Marathwada to Konkan: How water and food security vary across Maharashtra’s regions  India Water Portal",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "From Marathwada to Konkan: How water and food security vary across Maharashtra’s regions India Water Portal"
+            ],
+            "tldr": "From Marathwada to Konkan: How water and food security vary across Maharashtra’s"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1784868706878",
+          "title": "Gold Rate Today in Aurangabad 23rd July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "22h ago",
+          "body": "Gold Rate Today in Aurangabad 23rd July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 23rd July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 23rd July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1784868706878",
+          "title": "Bandh over action on Jantar Mantar protesters gets mixed response in Marathwada, western Maharashtra - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVXd5cUlMZ3lRejRZLVdBYzI4bUlGaWtxV0t2X3NLNzl3SnFUZTlmTmE0ckJKU3pmckhQMHAwWXN2R2lRN1FRMnJsNXRsSk1HbWhhN0NsSHNPN3c4bUh1cnhQYi0tMlY0ajZiZ2FCNlJULUdZWUlPbVVaWWFTZVVTOWwxRlM4bTBpdkdLWjY5MWlpYmZGcW9VUnZUSTdacDlvWWJZWjBnVFRPQU1ORXQ2c2FCOU5fRU02bVdVQjNCeVlpcm1Kc0l4cWFtQm9pdndONEZ5WF9UbUE2VEJaMUo3RjdsTnB4bGY3SFBZVUlyVVpyanVBMzk5d2dkZWZYYjlPN0RwNGx3WWJhWlhVTWfSAY4CQVVfeXFMUFV3eXFJTGd5UXo0WS1XQWMyOG1JRmlrcVdLdl9zSzc5d0pxVGU5Zk5hNHJCSlN6ZnJIUDBwMFlzdkdpUTdRUTJybDV0bEpNR21oYTdDbEhzTzd3OG1IdXJ4UGItLTJWNGo2YmdhQjZSVC1HWVlJT21VWllhU2VVUzlsMUZTOG0waXZHS1o2OTFpaWJmRnFvVVJ2VEk3WnA5b1liWVowZ1RUT0FNTkV0NnNhQjlOX0VNNm1XVUIzQnlZaXJtSnNJeHFhbUJvaXZ3TjRGeVhfVG1BNlRCWjFKN0Y3bE5weGxmN0hQWVVJclVacmp1QTM5OXdnZGVmWGI5TzdEcDRsd1liYVpYVU1n?oc=5",
+          "time": "10h ago",
+          "body": "Bandh over action on Jantar Mantar protesters gets mixed response in Marathwada, western Maharashtra  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bandh over action on Jantar Mantar protesters gets mixed response in Marathwada, western Maharashtra The Times of India"
+            ],
+            "tldr": "Bandh over action on Jantar Mantar protesters gets mixed response in Marathwada,"
+          }
+        }
+      ]
+    }
+  }
+}
