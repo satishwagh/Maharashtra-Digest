@@ -1,0 +1,797 @@
+{
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-27T05:28:09.057Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1785130083425",
+          "title": "Fadnavis Rules Out Move To Delhi, Says He Will Remain In Maharashtra - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0ZiWG92SUhidWUwMWZuWUhNTm9GbVkxTU9fSTllOTdaUTEwTDIxaU94MWs3Z2lkRFJERlJ1MkNZSTRpOU1mUDY0dWFFeXRDek5iRWVXZFdSSElGb01jeXpYa0RWYWdweXB1LXFfYnA4UnVDSGZHTzd6QzBkR1pfbWk3ZmVodElyLUxvSDhDTDdRUUNzZy04Y1RVdEowRjJhd2JDOVR6dzZ0RGhqX0JtRGROTm5qcHQ1aHFQSkZ30gHDAUFVX3lxTE9tYU96U2VDdFU5R0ZBemhvWjcxM1A4eG1ydHhIZE9kem5ucTN0NzhuVGdPeWhvOEpuZ1BGbFFIQlMxYTVNV2FrM1JiS2M0VDMxc25YTFZFVHBBRFFzb3k4WHYxTnY1R2trZy1Ca3g2SFhISDcwX2xUQkpOTEQ3My1mekplX0dFcWt0N0Y4c0hlUGNmUzhOM3UwVlM5YjRnWjdiZ2lxWU1kd1ZFbkdkMkpDd1hKYWtsQUd2b05jWWFYNVNvdw?oc=5",
+          "time": "11h ago",
+          "body": "Fadnavis Rules Out Move To Delhi, Says He Will Remain In Maharashtra  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis Rules Out Move To Delhi, Says He Will Remain In Maharashtra Deccan Chronicle"
+            ],
+            "tldr": "Fadnavis Rules Out Move To Delhi, Says He Will Remain In Maharashtra Deccan Chro"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1785130083425",
+          "title": "Pralhad Joshi a ‘temporary’ Education Minister? Sanjay Raut reiterates Devendra Fadnavis to join national politics - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRFRRcEtkaEkzV3JrVjR0RGwybkhqXy0yRkNabDFNbllydVlDMlhucXFIdmdETVFmSlpXVzNZaVBLRFBJMURCb2pXRnRVcENZcU5MNlNZejZGYXhmTUZRZm9fYXlJZ3BzT3R3U1paM2FOMkhsSmhNOXM4R0tuX01CZGplOFZqX2pVTkRnXzdwdTBNZ09ldnBmSjJfQ29rc3ZrQklKMU5XTU9rd0xOcno0eU1wV2k0TGtUZ2RKZVBWem5Od0dPNkZycDZCWGZsYklTMzU1M1R5OE1tbnBHMnU2ZWkyWlZYZTNPZ0I5TXB4R1lUMTRzWDFoUm91a9IBgAJBVV95cUxQaXQ2YmdUOERwa0RxRE15YW9oQjA1dm5kdDJ0V3VxMTRPbmxROXRJTnNzUi0weGdMdlJKX2MwTFlTSGNyb0I4bkl1NC1ocmVtNmRqZENpdGppOUFBVV9JMlpUOG85VVp1d3IwQ2FQTUp2QUQzQUprV21PbjNMTUxKaE81eFdCMHlvQkVVX2w2ckw4MC02b2RwZzF0dHdPV1piSlBRajNpQjRyUndMUVVZeGpXbjJCcy02NC1rR0w1dDFuMFJobEgyX0RsSTJ0YmxPR0UzSUdOM2RMOFJTLWt4U3hhQ1hUN01VYjFiS0FWWDBPWkl1cjdsaGxkY2pOTkE4?oc=5",
+          "time": "11h ago",
+          "body": "Pralhad Joshi a ‘temporary’ Education Minister? Sanjay Raut reiterates Devendra Fadnavis to join national politics  livemint.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pralhad Joshi a ‘temporary’ Education Minister?",
+              "Sanjay Raut reiterates Devendra Fadnavis to join national politics livemint.com"
+            ],
+            "tldr": "Pralhad Joshi a ‘temporary’ Education Minister?"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1785130083425",
+          "title": "Pawar-Modi meet and guessing game in Maha | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0hZRWtHM0k4NnZSWGsxY2VqeFFFRjVEdlpkOWZhMGpyTElNaVI0TXN2d2RxeEpGM3EyZXRBdGV0TG5Ga1dRTXQ3dDd1VE5fX2g2T2VuUF90VmI0Z3NyYTVHSWdQXzNIV2szeHBCQ3Rjdm1FTkxGcnE2YnprVmkxV2FJYS1rdlV1S1E5TGR4X3NEQ2RzUG0xaDJVdWFyUjdYbkRMeHJIV1FGcmRxbkI1a9IBtgFBVV95cUxNNlh5bkNiNTlfbjh5WTBYb2pQdkhZUWtwX3RCUkctTzhTdFo1TDJIdHFadThMcDhia1ZvaFU5QzN0bFMtU2tnTTVkRkxNbm1TcWh6TXY4U1NxUEJERVNoWHAyYmFwRjYwWU9tUEwwOHJuN0NiTTRHR2xmVExiTVlSLVJNUi1Jb0R4RzFCVzdxN0ZzTDNDMnVBN01wNm1SNGhfVFFMOGVmd2xtdlNGMUlwM1IyYUdrUQ?oc=5",
+          "time": "2h ago",
+          "body": "Pawar-Modi meet and guessing game in Maha | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pawar-Modi meet and guessing game in Maha | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Pawar-Modi meet and guessing game in Maha | Mumbai news Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1785130083425",
+          "title": "Maharashtra govt to minority schools: Don’t demand minority certificate at admission - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaXBmbFYwZDFhYWdPc3VCNm8ySHdhMWpULXRSOThMZHg2QVZ2X2tZcDFMZjJxRFlXd1R3UVJCVC1UUGM5bGJKTnBFa0E2YzRkWGVRdVYxSmYxWF9uLS16MWJjRW4yZC1taTM2dmNkSUdpRjB5Yk15RnhzbGRzR1FnUkFaam9EQlozMlRxQ0g1elU2dEt0QmExTzIyR1FmdlVUYkpXaWNkOWo5UnRxaWFZMGpPb05oVVBuaTFPUmE4VXBmVEdCLU53clR6Q2JFUFdDNlFPX3ZFc0h1aFBwbWk5VWtiei1LNlNWbk5PNtIB8gFBVV95cUxQUXptTU5CVnVmRWpld2FZZDRfWFJfYmpUOHFpNFZWWkJWQkliVG5uZnVZVHVxRTQ3cUJKOW5sV20wanJuemFtWkVEcmJGODhCTFFmZzhFZlBoM3RLS200YXp4NThFbmIzSk1JODZOckZ4Tkh2NDN5eHpjNk94S3MxRFU3U0o0MlJXdG1YQkdJcWpiWkNEOHNfQ3VNVzlubUo1MVRlQ3VULUlDbi1VLXQ2S0QzM0U2blB1bGV3UDJWdGFrMlB4dVhncUJiTkhGNW9nUENNbFExaXZzYlhRZnVObk55bGd1aVdFSHktZlE0ZU4xdw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra govt to minority schools: Don’t demand minority certificate at admission  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt to minority schools: Don’t demand minority certificate at admission The Times of India"
+            ],
+            "tldr": "Maharashtra govt to minority schools: Don’t demand minority certificate at admis"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1785130083425",
+          "title": "I Will Remain In Maharashtra: Fadnavis Rejects Rumours Of Being Inducted In Union Cabinet - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzNzVVhFdGdwQkVGeWtJM0pkUlFZc3JOdnBvOVpGZVRPX3JQc0M5NHNFeG5fSHptbGNBWks5ZUt3QnVYMnhORDRqYm1PTEo0TGx3bWFYUHd3OHhERVlWWmpwOUFQTHZJMjNZVWMwaE1qamdpRm52NFo1WWlHLVVZdUlOWS1rREM1NWxYTXJRR2hrOTFfWG9KNWVhQ0lnOG1EX1Y0cTVuQXpJVzBlb2NtVjl30gG3AUFVX3lxTFBIb1ZGWUV0WlhUNW9jd3hoTm1SVDZtdXR3Q0ZNV1dYU3pHaGh0c1NRVmFhcjBBTkc3SjZmZWJEb2FoVERySnN6TV9zSlpDbldsMDJncjd0TVBrYkNOVC0tVC0yMnRVemdscWVTMk9XRVRJU09MTHJWYjhRTHR3anQ1ZWlZVDV5andWM1l5R2Z0NVZ1YmQ4dWlBZ05EWTlfRGlmdVV6ZW91QVdIcVRJQ1NLZzIzcGhLUQ?oc=5",
+          "time": "19h ago",
+          "body": "I Will Remain In Maharashtra: Fadnavis Rejects Rumours Of Being Inducted In Union Cabinet  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I Will Remain In Maharashtra: Fadnavis Rejects Rumours Of Being Inducted In Union Cabinet ETV Bharat"
+            ],
+            "tldr": "I Will Remain In Maharashtra: Fadnavis Rejects Rumours Of Being Inducted In Unio"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1785130083425",
+          "title": "'My work is in Maharashtra': Fadnavis rules out Delhi shift - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnJGTkVjZHVwMXIxWWZPbURydzV1UlpMeHNLWE9JUWp5ZWpxZlVBVllBZndrc3NNc00wNUJUZUhqckpiX3gzYlo0T1lZY2gyV2x5ZE9OQUVlR2VWcm9ndl9sWE8wRTZFTW1CbmZxSnhnYmtoSml2aV9JZktaeVpQWFZONzlfZ0QyYlRoclpMcDNjd1BTMjh0Vko1S2I1aG43bnczNTdGZw?oc=5",
+          "time": "17h ago",
+          "body": "'My work is in Maharashtra': Fadnavis rules out Delhi shift  Rediff",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'My work is in Maharashtra': Fadnavis rules out Delhi shift Rediff"
+            ],
+            "tldr": "'My work is in Maharashtra': Fadnavis rules out Delhi shift Rediff"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1785130083425",
+          "title": "Countdown to BJP govt's fall has begun, says Aaditya Thackeray - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY2JEQlliOTFveklMVUFYdDZzMjdaNkxYeTFhbWV6SFhTU3VoSWljWDFhcUZyOEdjc2JMb0F5TGtvQTZBLXFDX0diNEEwbWc0TUItUEcyUUJodUhGVUFsTmdHV1RWbHVPblU0VGhOa1hBaVFWd0JHZS13TnRhYko0YWhTSHRGbmQ3UEkwYlJRYjJvUU5ad2lreW0yWGQ4bVFLLUpzdjMwYzhFSEdvZUdYdV9JLVQ3NDdzUHdnWEp3QWRxMFNnSGZaU3ZRUnduOUFVUXBvTVlxQU90RWVXZUM3ZUxDd0lYTWloUjExX3hyOWV5aWdOZTFOU2NR0gH6AUFVX3lxTE5jYkRCWWI5MW96SUxVQVh0NnMyN1o2TFh5MWFtZXpIWFNTdWhJaWNYMWFxRnI4R2NzYkxvQXlMa29BNkEtcUNfR2I0QTBtZzRNQi1QRzJRQmh1SEZVQWxOZ0dXVFZsdU9uVTRUaE5rWEFpUVZ3QkdlLXdOdGFiSjRhaFNIdEZuZDdQSTBiUlFiMm9RTlp3aWt5bTJYZDhtUUstSnN2MzBjOEVIR29lR1h1X0ktVDc0N3NQd2dYSndBZHEwU2dIZlpTdlFSd245QVVRcG9NWXFBT3RFZVdlQzdlTEN3SVhNaWhSMTFfeHI5ZXlpZ05lMU5TY1E?oc=5",
+          "time": "12h ago",
+          "body": "Countdown to BJP govt's fall has begun, says Aaditya Thackeray  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Countdown to BJP govt's fall has begun, says Aaditya Thackeray Mid-Day"
+            ],
+            "tldr": "Countdown to BJP govt's fall has begun, says Aaditya Thackeray Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1785130083425",
+          "title": "'Votes can be stolen, but not people': Uddhav Thackeray trains guns on Nitin Gadkari over ethanol-blended petrol at victory rally - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQSHRyTlZSSE9nTHhKb2FUdkZZWGVLa0FVVjNzSDBQRnNVOGU1QnVwTzV2SjNsb2JKOGMwcTAtUlk3d2tJWWRzc1dMUVAzbEdKa0todjY0YnVPcnpIaFRmTW5Ray04T182TUxubGxFMG5pTmZoSmtnTmRwYVlVSkZmejZCMnl0b3RPTWFOSGVPcWw3ZkU3YTlSMWVzNkJPOG9ad1FEN3ZBLWR5ZVpPeHM1SHZ6c1NpS3c1OUVNT1VwZDZqeE9iWURiSHRDSXJYblNjNmM3UE9hbXFzOG0zeG9vSWNzT094VmJvOU5VVnI0M1FjdzFJY2R3dnNMSjhlMUV2QU13SFF5Q3dXWlJaRGF3Mjd2RkxVX2xvRjA0bWJnQQ?oc=5",
+          "time": "18h ago",
+          "body": "'Votes can be stolen, but not people': Uddhav Thackeray trains guns on Nitin Gadkari over ethanol-blended petrol at victory rally  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Votes can be stolen, but not people': Uddhav Thackeray trains guns on Nitin Gadkari over ethanol-blended petrol at victory rally Deccan Herald"
+            ],
+            "tldr": "'Votes can be stolen, but not people': Uddhav Thackeray trains guns on Nitin Gad"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1785130083469",
+          "title": "Stock markets rebound in early trade as crude oil prices drop sharply - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOXzhIUjlGOVpkb2k3TUNqaFdmVEhJUlFPajd6ZmlMR0Rxc2g3VGVTSHA2ek1OaTFfbTNKU0dOMU91YUNONVZ3NUpkRlVkdHFuNFV3Q0hLZUZDOUR4OC1SaVJTZVI1UjJ2MVYzaTBFTzFRcjZ3MkptRll3MG1ROXNJY3RwN2ZvZXE0YzJtanF4ZTBBXzFYZERCVEFad2tSakpPWkUyUW5rMDM5Z2oyLUFZTFU2MVVjTnNGRHF5VTZraEx1V1BJWkpNRTJDTdIB0gFBVV95cUxQc0JqcWtVbW4wZkFaYmVZZzRseENqd19SSGVwT1pIMFBtOUFlVEVQQ1NxZ1BrWGN2aEZDUWs4SUFGQWxsYzZYakJxdUxhZDhoaVVjQ0x3SzZOQURvRm1hODF0TmhlcDNZckZRSGxZQ0dNd2FjanN6dlFXT3Z3ckVCejljNDl5WlpXRThUZXJVbl8tSTZ1Q1FCMHU4ZERoUXVteDR5OWxZeExZbGhFbHhHR2psanJjMEZ0dXdBTkRXb0VyUkNDekdfOVlsR0NYN0hVTkE?oc=5",
+          "time": "Just now",
+          "body": "Stock markets rebound in early trade as crude oil prices drop sharply  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rebound in early trade as crude oil prices drop sharply The Hindu"
+            ],
+            "tldr": "Stock markets rebound in early trade as crude oil prices drop sharply The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1785130083469",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "6h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1785130083469",
+          "title": "Sensex jumps over 500 points: 3 reasons why the stock market is rallying today - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMENfY0hvWWdRbUtCLWlJX2pyWGFHak9HWmhpVjJ2d1pCZ3pxSEliZDV0Q0pRS3locDlZWGJwQ25Qakk2N2tUQ3owYzlyRWNvOFJhb184RzhSWF90TW1NVFh1QVJIenZNVWtfSnBWT1JJQXp1Ni1rN2RfakNBN3VyWVQ2dmhDLWttUl9adldMbENJelA3LXAwUkNIZC1ib2RjOS1pX2N5dWV4dHVVaGJ6bmJZTklraXVOR2ZiR0tIbmZycDVGbzcyN0JEM2E5T2V0cDVjNl8xcTMzZHZpUlV0eEdkVG9uTlYzTmI4OG5sUmVidHBfaWfSAfsBQVVfeXFMUFlsVXpseHhzbDcxdlpodjExS0FpNWVWeEVwVGF2cHp3QWlaR1FZNW82WThUeGNDZVZ3MVBjM1R4RElJUl9zQkJISkVDMDBMRDBmYldyV3doMEc2ZDNCVTFmbzZVU05rUzB5bE5jYVVDNFZObGZCMnQxdm9kRkt0U2trTEFKenBsWkUzU24xX05yXzlnZmk1S012NkJSV0p6VlRoZmdKdFJwSmRJSmNvX3VQUTZZaXhFdzVUem9EUlU0aDR5M2gwdkV3NEd5cUpxUjNxbjRPYnZlS2pUNnNjMS16a0FYTzdYQnp2XzBYQjR4MGh1Z0pxck9qMFU?oc=5",
+          "time": "Just now",
+          "body": "Sensex jumps over 500 points: 3 reasons why the stock market is rallying today  India Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps over 500 points: 3 reasons why the stock market is rallying today India Today"
+            ],
+            "tldr": "Sensex jumps over 500 points: 3 reasons why the stock market is rallying today I"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1785130083469",
+          "title": "Stock Markets Rebound as Crude Oil Prices Drop Sharply - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0pRUTZlYjdtazhRMkdtZVExTVFPa1h2c3pEQWFkX1ZST0ZDSDJGdG5SOGZ1SXhJT1lJejV2QzFJMC1HR09GM0hIdmtUWi1WMmVlX0oyM081djFFVk1sQ1o2cUx1VGRsY1NmeVJ2R01DRFFUQjB5eEI2eUFSTGlsMi1wVGIxSVVzeVJydjg3eTdMcWJTX21wblBTNDd6dzNwY3FNYXIyUFFsZ9IBrwFBVV95cUxOX2NiU3oyeGUybUh3RWtUSFlsNGwwMlFFb2JyaXF6Z3J0RTgxTko4MHdLSzRtTlBKdGFtQ1Y5Yl9rRWJxZHJsYjc4OVI3a01mb2cyVk5haXY0anhDdzZJdzZRWnJyc1o0NjFCSnpGSUtodG5vY3JLbjFxOTBWR3VCc1lFQVhLcTZNSTZkZTJMYUp1WDdqYVM2MFVBWkRVcm9IMTJTTTVkSzl5LVNxaEM4?oc=5",
+          "time": "Just now",
+          "body": "Stock Markets Rebound as Crude Oil Prices Drop Sharply  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Rebound as Crude Oil Prices Drop Sharply Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Rebound as Crude Oil Prices Drop Sharply Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1785130083469",
+          "title": "Sensex Today Rallies 624 Points | Nifty Above 23,900 | Infosys & TCS Top Gainers - Equitymaster",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU0dybUh3UGdiZnJmSDBfNzFyTkEtSEJFTTZmeXZPWEMxelBPVHR4SjBwbEIwYWNQXzBRRzdROXdFb1dCV3VGOV9qYjBKbkREcFUtZTVOMnhtX21VeWF0Q2ZQNG1pa2pUSml1Z3UzLXZCR2MxTmpvU2xyZmVYRmhBdmJpSl8xdk54MXliUlJQcjdSMkw5Q1VLTWVTMWRWM20xbkFnWkdTd3U1cGlxSk4xTXBGQ0FfQTZzOVRKcmRVbnlmY3dyVjREUDloS2xwYl9GaVE?oc=5",
+          "time": "Just now",
+          "body": "Sensex Today Rallies 624 Points | Nifty Above 23,900 | Infosys & TCS Top Gainers  Equitymaster",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Today Rallies 624 Points | Nifty Above 23,900 | Infosys & TCS Top Gainers Equitymaster"
+            ],
+            "tldr": "Sensex Today Rallies 624 Points | Nifty Above 23,900 | Infosys & TCS Top Gainers"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1785130083469",
+          "title": "Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list here - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdGtfYXluU2VmQkdYTWNOZ0ZMcDZpSWY0RVphVWxkVHA5Z2I4U1hFSktLNjdtMmRRSktmbU1qU2dvMEllYS1yeUphZEJoRXpiVUtlUEE3WnY1Yk1Ic2l2Yk9QbG9QQUxxRVZXWXU0djZRYWRCazFtbEFXVXJJTTFxZ1NMaXBQaFEtQkpKUGlWQURPNGUyUC03UUQ1WkNxaHpYTXhTd1JiVFRUQ0Z1cmNjVUs0ZjltVDk0Snl6aVJyRjB4dHVudHl4SU1CVTNyX0JqdkhjemJhd3k2ZlRudG9CenNhbWZaZTdJcWVn0gHrAUFVX3lxTE50a19heW5TZWZCR1hNY05nRkxwNmlJZjRFWmFVbGRUcDlnYjhTWEVKS0s2N20yZFFKS2ZtTWpTZ28wSWVhLXJ5SmFkQmhFemJVS2VQQTdadjViTUhzaXZiT1Bsb1BBTHFFVldZdTR2NlFhZEJrMW1sQVdVcklNMXFnU0xpcFBoUS1CSkpQaVZBRE80ZTJQLTdRRDVaQ3FoelhNeFN3UmJUVFRDRnVyY2NVSzRmOW1UOTRKeXppUnJGMHh0dW50eXhJTUJVM3JfQmp2SGN6YmF3eTZmVG50b0J6c2FtZlplN0lxZWc?oc=5",
+          "time": "3h ago",
+          "body": "Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list here  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list here livemint.com"
+            ],
+            "tldr": "Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1785130083469",
+          "title": "NIFTY IT Stock Price, Nifty IT Market Indices, Nifty IT Price, Stock Performance & Comparison - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IeUt4dlFyQ00wblZFOFE3QW9zeUU4V0xTUFJsZllvLVY3NVhjbUVyaUg1WDBJRWNQX0lRTVVGTFJRdVZyQnVwT2c2TmozOXNlYmcwTDc1ZkI4c1k4RHp5V2ItZXlUVC1GRUU4TQ?oc=5",
+          "time": "8h ago",
+          "body": "NIFTY IT Stock Price, Nifty IT Market Indices, Nifty IT Price, Stock Performance & Comparison  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NIFTY IT Stock Price, Nifty IT Market Indices, Nifty IT Price, Stock Performance & Comparison Moneycontrol.com"
+            ],
+            "tldr": "NIFTY IT Stock Price, Nifty IT Market Indices, Nifty IT Price, Stock Performance"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1785130083469",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV01qdGVkYzBWQjk2Qjh3N19LWXlBdm1fUjV2T2kwS2JwTVZpc01FVDZ0MTkzT1haNnBrSmdtdzQ1OGp6el9ONDZxMlo5T1VacVl4Y3I2ZGRGOUxMTnBYX04yZk1lQQ?oc=5",
+          "time": "12h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1785130083425",
+          "title": "At Mumbai rally, people happy with Pradhan’s exit, but slam govt. on E20 - PressReader",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzMzZWk2d1JLc2N1dVMxTVdmYkx3YzRPWE11amRUY080NUk3UVp6c29XdEZJOHBoVXhsS0szTzhGUjhJakpqVEVfY1lUY1EzNXo2UUs0QmJWWE1NelBXN1Z1MkdLeElmWUxCZWZpcy1XVVlBb1JBelJFY3ljclkzdUdRZHpDUQ?oc=5",
+          "time": "5h ago",
+          "body": "At Mumbai rally, people happy with Pradhan’s exit, but slam govt. on E20  PressReader",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "At Mumbai rally, people happy with Pradhan’s exit, but slam govt. on E20 PressReader"
+            ],
+            "tldr": "At Mumbai rally, people happy with Pradhan’s exit, but slam govt. on E20 PressRe"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1785130083425",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "10h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1785130084717",
+          "title": "Afghanistan showcases digital ambitions as major tech exhibition opens in Kabul - India's News.Net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHJJamZ5VEVMcGpVdXZBSUZteEtSdno3djJSTGtTNGFjT2Y5SjkwN1lhQ3ZGbVQwQ2pXV2FBazdyNk1sOVJiLVM1WGhKaVQwamFmNVAyVURCaVRrMHItNWhkVFlZX1JWSEpTcXUwazRzNUZ3Mkp6NktEVmozd0hMTTdxa21XMUQ1QzF1Nm14LUg4b2R6eDZXUEVlajRUbTZ3MHZqR1BtYmFMN21YdXRUank0RHY2NUlRbkQxeUNn?oc=5",
+          "time": "1h ago",
+          "body": "Afghanistan showcases digital ambitions as major tech exhibition opens in Kabul  India's News.Net",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Afghanistan showcases digital ambitions as major tech exhibition opens in Kabul India's News.Net"
+            ],
+            "tldr": "Afghanistan showcases digital ambitions as major tech exhibition opens in Kabul "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1785130084686",
+          "title": "Nashik: 29 Teachers Honoured With ‘Post of the Month’ Award For Digital Teaching Innovation - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUV9xMDJNQUNhcU4tTjRIUFFzYjdTTnU3T1Q3a2lzN0o4SlhhanYyTHJxcjNQakhaX1dxWFd6dDVRQ1RBYVc5MWYwNHh0WFA0cW5CN0d4eWFYeU83Vi1wby1fSlFZU1dTRDRMNFBSdEdsLWNmNDh5VVRfekZtdUV3QjdsdXhmcE5jbDlfSkp1WmZha2hMc1ZvajAxZUFsNHhpMlJtZkc3MVdRbG1oU2xkRGV3Y2E5cTMwb2RfM1lzZGVSTEXSAcgBQVVfeXFMUG50RENDdG1zYzQwSTJSSEpCY01wN0J6OFJGLTJTLXJibWNHcnlzZ3VObUZTNjBhaFlyUGNEWDg0WHpVUmpscGl0OFVEREVHWFA5U0V4V0RqczFtLWlXeFlrLTRsZEgybE1DUmVCQ0tmbmpQSGVCY3dzMXJ2bXV2SjQxeUN5VTVsZnRRMTM3SU5BQXV6aEdLSm1FSkI2c3ctWnQ0MGZKN240RGdxRFNlSE83bWlHLUt2T1JMYVhmYkJ4R2NlZVRiTVo?oc=5",
+          "time": "17h ago",
+          "body": "Nashik: 29 Teachers Honoured With ‘Post of the Month’ Award For Digital Teaching Innovation  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nashik: 29 Teachers Honoured With ‘Post of the Month’ Award For Digital Teaching Innovation Free Press Journal"
+            ],
+            "tldr": "Nashik: 29 Teachers Honoured With ‘Post of the Month’ Award For Digital Teaching"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1785130084752",
+          "title": "Hardik Pandya trade: MI want CSK duo as part of swap deal, Chennai Super Kings ready to offer cash-plus one player to sign Mumbai Indians captain - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalhDX1NTa19zVmtxUkFtNXprRmxpVWVrOUJfOEpPRnBGV3N1X2t6cndua2NlWWJyS1JMaG9pOTJtTmZkSzJ5TmpYV2FzMlhub1Z0VV9JNE1DRDA3V2JkaGhCZ1B3QlV5cDVHZmU4SzlIcnotaGJXdTlDUGZ0WC01X1R3?oc=5",
+          "time": "21h ago",
+          "body": "Hardik Pandya trade: MI want CSK duo as part of swap deal, Chennai Super Kings ready to offer cash-plus one player to sign Mumbai Indians captain  Yahoo Sports",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya trade: MI want CSK duo as part of swap deal, Chennai Super Kings ready to offer cash-plus one player to sign Mumbai Indians captain Yahoo Sports"
+            ],
+            "tldr": "Hardik Pandya trade: MI want CSK duo as part of swap deal, Chennai Super Kings r"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1785130084752",
+          "title": "RPS vs MI Live Score | IPL Final 2017: Mumbai Indians lift IPL 10 trophy, beat Rising Pune Supergiant in ... - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU2ZfNUpKeGg4dGpONjl4VUFWNTFCTGY2MFkzQU4tb2w0d2xOM1VSWS1sN3VsR0h6Q0t6TXlrc1RCbmxfUUxjcEwwaHUwVVpJTzJxZzlKUW4wQlZqQ3FLQkx1bWZWNWpOQjctb09LOE53MU9JZVVoNWdnRjdTTlF3UnhmTzZvT2RmdkY2Wl9oSUpBRC01UkFPajRzSXJYYWppdHBOZ2V6NmEwZVF2R2ExSV9iYTRzbDdHX0HSAb8BQVVfeXFMT216Q3h0SkhVR09ycW5lS2I4dDZCTG96N0ZKNHZDZTUyMHZwcTg3dzFpRHZPbF9WWmpNNFJjMkNXaU5RTUJab1JCQmxxZTQxc1I2aWZIU2Z3UlhRbk10eWYzZXBwNUxwM1d0UEFTTjduaEdtVHdsUEhOV0pKVG9uRmlwZVVFdVB5N2psaERtZjczTjRVOXZFWUU0MjVfTlJ0eEJFN1lwSGhmN1phWW1lVzJ6V0Ftb1FzeU9oNlpncWs?oc=5",
+          "time": "8h ago",
+          "body": "RPS vs MI Live Score | IPL Final 2017: Mumbai Indians lift IPL 10 trophy, beat Rising Pune Supergiant in ...  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RPS vs MI Live Score | IPL Final 2017: Mumbai Indians lift IPL 10 trophy, beat Rising Pune Supergiant in ..."
+            ],
+            "tldr": "RPS vs MI Live Score | IPL Final 2017: Mumbai Indians lift IPL 10 trophy, beat R"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1785130086000",
+          "title": "Mumbai Latest News Today on July 27th, 2026: Rain Alert, Byculla Fire & Key Developments - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGNiMEI3bnZ1QVdqR0ZYSFMyaVdFdFVfV2NzQ1ZwYVlWclNQZFRzVVYwb3IxaW14ejhic18wUG16UXpsU0FWTnVZTnpLUGNkOUNQQTNYVElRTXhMbS05TVpMb2tldVdlX0tiSW5Yck95N1FNVTlZOW5VNDc2YmJzYXF4dFpvTjA2QmZLQ3VvLTJkYzQzc1ljT3kwRU90MmlQR2ZXbnVYeU0zTHBwUVJiODdGYkFYQmhzd3U0SDBqRDdOUTFJb0gtaG0wcjDSAdIBQVVfeXFMTnF2ZkgwMEd0MTdWc3ZGaGlYOWM4Z2pKbUhDSGRKazVBLXFmWVJSSk9lWjRkakUzMFRUV3lOd1gtOERxMWlGeC1ONU9aLVV3Qmx2TDNqdTkwdG1vYTJQdUFtTnUtd2Fzc3FqdUJpMUpYOHpTU2t4THNKM2xKelhhMG10cTJDNEppOWU0YjlYeFNzeW5aTS1jMUNQMzJDNHdWVDk2Yl9FUG9HZXJ0RVo2YVpTWEFGMlY0RllNa0lkV0MzZVloUnZuQ2lsY2NwVnRMbDNn?oc=5",
+          "time": "2h ago",
+          "body": "Mumbai Latest News Today on July 27th, 2026: Rain Alert, Byculla Fire & Key Developments  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Latest News Today on July 27th, 2026: Rain Alert, Byculla Fire & Key Developments LatestLY"
+            ],
+            "tldr": "Mumbai Latest News Today on July 27th, 2026: Rain Alert, Byculla Fire & Key Deve"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1785130087362",
+          "title": "Meme placards, a 3-year-old protester and Gen Z energy mark CJP victory gathering in Mumbai",
+          "source": "Indian Express",
+          "sourceUrl": "https://indianexpress.com/article/cities/mumbai/meme-placards-3-year-old-protester-gen-z-energy-cjp-victory-mumbai-10804365/",
+          "time": "20h ago",
+          "body": "Meme placards, a 3-year-old protester and Gen Z energy mark CJP victory gathering in Mumbai. [object Object]",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meme placards, a 3-year-old protester and Gen Z energy mark CJP victory gathering in Mumbai. [object Object]"
+            ],
+            "tldr": "Meme placards, a 3-year-old protester and Gen Z energy mark CJP victory gatherin"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1785130084751",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "15h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785130084752",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrd1Y1TkRnNFhpTFM2NlQwanlTdGxvUTZKQmlhUzh6M1ZFZEZEeHhJZFVkdzZoZnRsVFM5SDIzb3RhU1ZPcFZzUi1nWEh6Uy1UbFhEVjBOVGNuRl9iZ0RWV0lYajk0ZE84MGdkRGtaaFc1RGhXT3phRmh3?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1785130084752",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "5h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  The News Mill",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match The News Mill"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1785130084752",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "11h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1785130084752",
+          "title": "CSK Ready to Spend ₹20 Cr to Rope in Hardik Pandya from MI? Report Makes Massive Claim - MensXP",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWFN0cms3QU5SUFptZzhWVGpsUlpMMW52bE9idHh6UnZuSW55VFNCc2MxM2NvOWkyNzdTVi05QjhTbWgtTl9PY0lvRDBhUEdtRGx1a0lfTHlCTXFuVTUyakZZNnNXRHVlODFpNkNyb2d0a2NqNUp6cGM5cEIyNzlaY1dpNlFzNlZYTWlHNVVRX2Y2SjZaelgxeXpQSVlmaHBBQzMwSFo0alVSZXJNM3BqbWYxZTFkOEloMHVDYzNpX3BCWlNHT0lrby1nenZrVUVWSnJSczdmMXZja2ow0gHiAUFVX3lxTE9ZWEtKY1U5bjcxTE5FTC0xN3VSamJ2Y2pQdkp2T0FxdzZwYXpTTGw4RU05MjdqeVpRLUNWRGRMYTdZMFJRNXhYMDUtTkxLOTIwQ1AxRTl4WGdiOHJ2TU0ycmRUUXRYWEl1ekphTEplOXZDcTFNQ2hhaFlnY1JCcVQ4c0ZTWHE2WDZYdjNWdE9XQUU0LW1qdkg2N0xLLTJoWExHRTgwTk9zcHFUMnhQdEI3Y29FS2l1MUJSM3ZsbVpsNE9ZSG02alUtQldJWGFJMFlKSWQzTE8tZl9kcTJQZUN3amc?oc=5",
+          "time": "Just now",
+          "body": "CSK Ready to Spend ₹20 Cr to Rope in Hardik Pandya from MI? Report Makes Massive Claim  MensXP",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK Ready to Spend ₹20 Cr to Rope in Hardik Pandya from MI?",
+              "Report Makes Massive Claim MensXP"
+            ],
+            "tldr": "CSK Ready to Spend ₹20 Cr to Rope in Hardik Pandya from MI?"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1785130086170",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785130087539",
+          "title": "Anahat Singh: What's in the name? A word from Nanak's prayer, now India's squash sensation",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "The name Anahat comes from a line in Guru Nanak's Japji Sahib, discovered by her father on the day she was born. This is the story behind the name, the sporting family that shaped her, and the extraordinary journey that culminated in India's first-ever World Junior squash title at just 18.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The name Anahat comes from a line in Guru Nanak's Japji Sahib, discovered by her father on the day she was born.",
+              "This is the story behind the name, the sporting family that shaped her, and the extraordinary journey that culminated in India's first-ever World Junior squash title at just 18."
+            ],
+            "tldr": "The name Anahat comes from a line in Guru Nanak's Japji Sahib, discovered by her"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1785130087539",
+          "title": "'Why different rules?' - Abhishek's poor form sparks Samson debate",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Former Indian cricketer Hanuma Vihari has questioned Team India's continued backing of Abhishek Sharma despite his poor run in T20Is, arguing Sanju Samson was dropped after far fewer failures. Citing Samson's match-winning performances in the T20 World Cup, Vihari accused selectors of applying \"different rules\" and urged them to judge both players by the same standards.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Former Indian cricketer Hanuma Vihari has questioned Team India's continued backing of Abhishek Sharma despite his poor run in T20Is, arguing Sanju Samson was dropped after far fewer failures.",
+              "Citing Samson's match-winning performances in the T20 World Cup, Vihari accused selectors of applying \"different rules\" and urged them to judge both players by the same standards."
+            ],
+            "tldr": "Former Indian cricketer Hanuma Vihari has questioned Team India's continued back"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1785130085960",
+          "title": "Mumbai: Mahalaxmi Multimodal Hub Nears Completion; Travelator To Handle 4,500 Passengers An Hour - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVktJekVlTkdIM0ZpNC1HRUNEWlZLdmg4TzRndW13RzV4MzNLVGdjVkRWQVFqTFJNc2lqWUZIRUJBTUZJUlBVNHM1bGpGNElRYV9RR2VDS2ZNUkk0aFlrUXRla2xuNHdCSzFzVDVYSmM0Y3JJemhSWDJPVklkdXRMMENlQTU2OHVOcFZ5UjNXa2dDdUFfRzNaYTNrQzNndUltcnRpNzNWekJuT0QzR3lPNXh6cjlMdmZQNE1jaHVDOEpCd1p2OFdqX1RWcTTSAdIBQVVfeXFMUElqNW1UWHZWbmI5akdPT3F0ZzRGT250cjBtamcyZGhNb3lmMTRyZ3Nya21xVEMzSjU4V2NlakpZYm5oY3R4STBhN2RwTUpzRmI0a0pQWmJIQ2s0WUhBUHZlZE45a3F5eGVnWkhNMjJGWDRpcy0yX1d5MkFsdHdzNW5xazdTemhIOEt4MXVvRGw3aTZISzNMcmRQUmVmMkxrd1NHNzNKUVlPN0Ffby1xZVJvb2ltUUVyX1pieTBoM1REelJDMFVaemFwdkZQYV93by1B?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai: Mahalaxmi Multimodal Hub Nears Completion; Travelator To Handle 4,500 Passengers An Hour  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai: Mahalaxmi Multimodal Hub Nears Completion; Travelator To Handle 4,500 Passengers An Hour Free Press Journal"
+            ],
+            "tldr": "Mumbai: Mahalaxmi Multimodal Hub Nears Completion; Travelator To Handle 4,500 Pa"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1785130086000",
+          "title": "Ahmedabad Floods: Traffic resumes on 2 highway stretches as water recedes - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGNoMmF2czRaMkJSeFpHZmpJQUFzNWJINE55REtmc2VsZVpkT3FpQjBiS0RZRWZIR2RFM2otdEVZYjV3VGZEOEsyTmZnbHlTOUprS2l1N2oxV3RobldQaGh6azM3X205a3h5XzJfOGlOcDZxRHUzTjFmRGZieThUb3VOUTJ0NXdzUlRHaXBpcEU0YV9iVnUyWTgwSGZNMjhJNlkwUVhSM0JiNDBKNnFGczNrbTVVT01wcTJheEdyN1VMaklhVTl4aNIBzwFBVV95cUxPNTZsWW1ZSTB6Z1pCVGpaV3FoTHp3dGRYenktQVRVd1N1VkNsbTRrUVNBZk1DSk4zemN3aXhSbnAyNVI1OXBJMUl3YURabzR5VnRMc3FwNVM5UWlkRUgtZDE3blpxN1VNUGRvQ3pmOTVlLWtmeFJkel9LaFJRZ294V1Q2blNvY0hDeHBQTTdrRkpMQ2hBaDkzZmswZ19HZ0U2YmJGcGxaeC1jd21sRHNENVpyWlprNUFuN29rTWZqaFNQbTlKY2JIc0RhbVNZV00?oc=5",
+          "time": "15h ago",
+          "body": "Ahmedabad Floods: Traffic resumes on 2 highway stretches as water recedes  The Indian Express",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ahmedabad Floods: Traffic resumes on 2 highway stretches as water recedes The Indian Express"
+            ],
+            "tldr": "Ahmedabad Floods: Traffic resumes on 2 highway stretches as water recedes The In"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1785130086169",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1785130086169",
+          "title": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]"
+            ],
+            "tldr": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; d"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1785130086169",
+          "title": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]"
+            ],
+            "tldr": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. ["
+          }
+        },
+        {
+          "id": "mumbai-general-3-1785130086169",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1785130086170",
+          "title": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]"
+            ],
+            "tldr": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroo"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1785130086170",
+          "title": "Father saved for years so that I could study in America but...: Woman's 'American Dream' turns into 'Make in India'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Father saved for years so that I could study in America but...: Woman's 'American Dream' turns into 'Make in India'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Father saved for years so that I could study in America but...: Woman's 'American Dream' turns into 'Make in India'. [object Object]"
+            ],
+            "tldr": "Father saved for years so that I could study in America but...: Woman's 'America"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1785130087442",
+          "title": "​​Marathwada division ranks second in Maharashtra in SIR digitisation - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGljb0tENmlMTVFFb0ItaHZUVV90a0JTemttQkItSW5uTmFNZGhkTTFuYVhaWEpXNmctMm14cVRaR2dhcXBRaGlEQ2JEYU1QTFZCOWlNZzJ5QlNpSnlGVTZLeXZUQTNybnZwWTV5cjNueVNMOF9POFdaeEFqSXRlY0hIcEk5eWVsdkZmc1VISFRYZTlBVW1RdC1zM2pXWnBnMXRQaHhnbFgtNjVoLV9TTzFGdHpQZGYzNVBZX2I2M09qeEtQOVliR2gxeWgtb0VIdWtscmhFbTJGTHFLcFHSAeMBQVVfeXFMTldWNVVVZHdsMHJWaUl2ZlRpb3pxcHlOaE5lUkQwYzUyUVFBVGgxTG5SeERzN1FxZ2dOdVhfM19kd0pkLXU0dVd1ZThVcmZycl9KR0NaelJhbmxPRzhVN3FTdWZsRnZDUVJ5dm5sT0xCY2VLWHNnX1V4QmtEcmVLOW80VXZFSjNXRDBlTC1CTTBFVTFGQ3FHeGNsVHFJS1MxWm05Rmo2Vk1wRkZveFhKWFlwUXZpam43czlfUWtPTUx1VTdVaFRET1BhZkFDV3Zfb0w5bXprV0dVM0J5ODdrelhBbjA?oc=5",
+          "time": "12h ago",
+          "body": "​​Marathwada division ranks second in Maharashtra in SIR digitisation  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​​Marathwada division ranks second in Maharashtra in SIR digitisation The Times of India"
+            ],
+            "tldr": "​​Marathwada division ranks second in Maharashtra in SIR digitisation The Times "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1785130087442",
+          "title": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHJURkVjRWVpOFMzQXU0LUdXV3RkYWFlR3I3ZUVVR0lraG1xNjl2TEt3WWJGeUdxR3B3dF81bE95Wi1vTno1Q1FVUHZhN2VfcGJmZ3A5eG9rMUtRSV9DM3Fxd3lEOVFuWW9RQ2E5SktPOHJYNW1qNlFfM1lfVno5bnJJSjlyX3l2UEZMSjBJcGV5b0REVVYtUW01YlJrSjlmdGo5ZnZ6NFRlUjFMc082b0dVVTk0c0pRbnlCZ19aNVlaZw?oc=5",
+          "time": "7h ago",
+          "body": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill  News On AIR",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill News On AIR"
+            ],
+            "tldr": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shak"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1785130087442",
+          "title": "Gold Rate Today in Aurangabad 26th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "12h ago",
+          "body": "Gold Rate Today in Aurangabad 26th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 26th July 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 26th July 2026 : 22 & 24 Carat, Gold Price in Aura"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1785130087442",
+          "title": "Dipke sparked a revolution, must get security; will speak to CM Fadnavis: Sena minister Shirsat - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3lUa0J4YmZMbWNUUW5ndDl4MFktWHpYQWVZN0NaZ3FTNnhxZ0pDR1Zoa0h6dktZalVMUU1FazF5MzJKeENhaUhiaHJqaktseVpDTWdzM2lCYXJ3TXFaLUt5NE5xUWg2ZVc2RWRmN2t5SnJtd25LMWVjR0hPVldscXZUbjhJQ3hQM1g1ZzFTNTgyTVBUS2dlU09NV2VqemVWQ1pzaXZZQVQ3bkdPaWFBS08xei1QclR2a2JkcHZzMFFPdGxFa0HSAcsBQVVfeXFMTzdvcFJIeWNzLWVyUlg3bDJHMXM4ak85T2haUnFHM0I4X29hVlpTdFBTcmxKOWMycUVOTHJ4TV9BUkNvSnd3TlBTZktGOGpFS2VtMGlvaGRKSXpSTXN0MmN2YlN0dl9RUDVIOXFuLWROQUxLWDk5LVh2Y0d3cFNkdUtwei1PSHprZ0RtcmxWM01DU3lnNHNnbnQ3S2V3MWI2dzREelNwUTRvakl2Z0RxS2o0ZFlkZXBCcldaN1VGSUJ5VkhicTd1dUFaeHc?oc=5",
+          "time": "16h ago",
+          "body": "Dipke sparked a revolution, must get security; will speak to CM Fadnavis: Sena minister Shirsat  ThePrint",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Dipke sparked a revolution, must get security; will speak to CM Fadnavis: Sena minister Shirsat ThePrint"
+            ],
+            "tldr": "Dipke sparked a revolution, must get security; will speak to CM Fadnavis: Sena m"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1785130087442",
+          "title": "Shiv Sena minister Sanjay Shirsat visits Abhijeet Dipke's family, seeks security for CJP founder - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeGVSR1Z0RFBCM2lDSlMwYllkVVNjZWgzS0FaQVJXZElSdTF1Rlk1ZVdqY19zLWFmVXRXNE4yQl9fMmo2VGJ6MzVkN3I4S1FQLUpjM241cFZIZ3lpUnhzcURWdEpQTWQyVWR3MWc3cThHNlNCajRPM3Q2Mk1pZF82TEZ5VDcxMW9WTDJXMWRGa2c5RjRNQTJHd3BERUx6RGpmbzlYUXJ4c2dpWUZhOHdjRXFKalFFa2FzU05GalFqU2xpV3pfYy1OX1NmanZwbEZrTTU3T1d3eWZ5WU9oc2RSaWxtenRVOFhveEJFSGxJX0dGR1lDLXZxUFhDcjBRZGtsNVlZeGlTZ9IBhwJBVV95cUxNeGVSR1Z0RFBCM2lDSlMwYllkVVNjZWgzS0FaQVJXZElSdTF1Rlk1ZVdqY19zLWFmVXRXNE4yQl9fMmo2VGJ6MzVkN3I4S1FQLUpjM241cFZIZ3lpUnhzcURWdEpQTWQyVWR3MWc3cThHNlNCajRPM3Q2Mk1pZF82TEZ5VDcxMW9WTDJXMWRGa2c5RjRNQTJHd3BERUx6RGpmbzlYUXJ4c2dpWUZhOHdjRXFKalFFa2FzU05GalFqU2xpV3pfYy1OX1NmanZwbEZrTTU3T1d3eWZ5WU9oc2RSaWxtenRVOFhveEJFSGxJX0dGR1lDLXZxUFhDcjBRZGtsNVlZeGlTZw?oc=5",
+          "time": "15h ago",
+          "body": "Shiv Sena minister Sanjay Shirsat visits Abhijeet Dipke's family, seeks security for CJP founder  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Shiv Sena minister Sanjay Shirsat visits Abhijeet Dipke's family, seeks security for CJP founder The Times of India"
+            ],
+            "tldr": "Shiv Sena minister Sanjay Shirsat visits Abhijeet Dipke's family, seeks security"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1785130087442",
+          "title": "​Bizman duped of Rs15L on pretext of getting loan at lower interest rate - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFFQZm5XOGM2Um5NY1FVZW5xbnVHSnVtZjZQd21pMlUxdlFDV1daUmVxdzE1a29hSnpfY25OclBHeU1md1dUajIzc25rb3A5UkpWSVNscE9tcVNkZUJ5VEV2Wkp6SnFIRW1TdHR0aDE5ZHBwQWd4d0FUS1N3RkFMakJHN2lDU0ZpOFNVTk40OXZtbGdYNnR3T2JPWlVZVkZ6QkZNRUhsWk95SEhOUlFicklka0VZZEQyeVVBcFRERGpQQkhuZGxROENabVVQUnpmd29nd1A0TE1qbVBpV3V3a0dYVdIB6AFBVV95cUxQUUx6eV90ZzZDQ0ZxNktZclFRbHdsbkpEb3dSQXVXWkY5NHZ6bTVycGlDR0dqZVpkSlc0M2x2X0FVZHZydzBpVzJYR051dmFZYVJub1J6TVNVZmxmcnJ6VUs3V0JSTV9Ib2RXQktfVWFZdGQzOG9UajlEeVJFYTNWV0JyY3h6SGFBTWJHdEFTYzlCWDU1VGZBMFZwSnBkc0dCVEI2bFhPOUpfaGN6NHZSUWNvNWR5YmVEVFJYUGlKQTFmTVpzMXp3N1E1YkFxakZFYkN5eHZ4SjhsY3R6a3RjVmpmdzd4VG5k?oc=5",
+          "time": "11h ago",
+          "body": "​Bizman duped of Rs15L on pretext of getting loan at lower interest rate  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​Bizman duped of Rs15L on pretext of getting loan at lower interest rate The Times of India"
+            ],
+            "tldr": "​Bizman duped of Rs15L on pretext of getting loan at lower interest rate The Tim"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1785130087442",
+          "title": "Top 3 faces behind Cockroach Janta Party movement - The Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzViczNsV1NkR1NkQUJ1WlhWNTZUY3l1ZldnTE5zZkV1UmNpM3g5Smptd0MxSjU3WFRMZFV0MHFRZmh3UW0tcXlCZEJCdmNvb0hCRDJjeE4wMTljZVJLSHBhckptSkZSbmVxOHpVVzVmakVudlB1aEhNWV9faHdlUGZCczBUd1RCS3M4eEhkOWjSAZYBQVVfeXFMTkRXT09MdEJHNGMyLWkwbmV1ejQtSlJtOW51dy1DV0FoMjluM3E3T2NHSDBoa3RwU1lLRElGMGVSMndURVdMZUI3NFAyVnZqVXJvSXkzMVZXZEgwbFZMYzZKTXFLNllqWXg4UGRBYzNNLTZHcVJReGctM0NTQks3dFpvdlo4ZEVTeE5md2VNZmx0NkFvUFZn?oc=5",
+          "time": "19h ago",
+          "body": "Top 3 faces behind Cockroach Janta Party movement  The Business Standard",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Top 3 faces behind Cockroach Janta Party movement The Business Standard"
+            ],
+            "tldr": "Top 3 faces behind Cockroach Janta Party movement The Business Standard"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1785130087442",
+          "title": "Mumbai Weather Update: Thane, Pune, Nagpur, Nashik, Mumbai, Palghar likely to witness heavy rain, IMD issues - India.Com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaDdTZmNTb2ZHQ3ZvN1JYTkhwUVFvaGEtVTNUdzlfWEZHdzROSHRPeXBXRmZZVWUzbVhUcG8tQkZpNzIxRThHY0RMcDVBNXUzT0k0bW5VZkJmSlRETmpjSk1YU3dUNnRvbDBQRkIxOFdndER4eWVHNDIxX2pKckVnSGpUQUo2Ui1Ea0FIODBqb0lpSjdiYkVmR0ZMWW41ZU50S3dRUEstT1Z0QkFFVFR5QTBYR2REZGd0SXJlRE5JZVJsTHVGeUg1YUVnZy10dUxReG1ub0tueWJzV1FMVTNCUlVFcVNnTm0xam5Ma1JMZzZfbzlfSGtXWjdZOTNlZUFLNzlfVzQyRDQyQXPSAYsCQVVfeXFMUGg3U2ZjU29mR0N2bzdSWE5IcFFRb2hhLVUzVHc5X1hGR3c0Tkh0T3lwV0ZmWVVlM21YVHBvLUJGaTcyMUU4R2NETHA1QTV1M09JNG1uVWZCZkpURE5qY0pNWFN3VDZ0b2wwUEZCMThXZ3REeHllRzQyMV9qSnJFZ0hqVEFKNlItRGtBSDgwam9JaUo3YmJFZkdGTFluNWVOdEt3UVBLLU9WdEJBRVRUeUEwWEdkRGRndElyZUROSWVSbEx1RnlINWFFZ2ctdHVMUXhtbm9Lbnlic1dRTFUzQlJVRXFTZ05tMWpuTGtSTGc2X285X0hrV1o3WTkzZWVBSzc5X1c0MkQ0MkFz?oc=5",
+          "time": "3h ago",
+          "body": "Mumbai Weather Update: Thane, Pune, Nagpur, Nashik, Mumbai, Palghar likely to witness heavy rain, IMD issues  India.Com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mumbai Weather Update: Thane, Pune, Nagpur, Nashik, Mumbai, Palghar likely to witness heavy rain, IMD issues India.Com"
+            ],
+            "tldr": "Mumbai Weather Update: Thane, Pune, Nagpur, Nashik, Mumbai, Palghar likely to wi"
+          }
+        }
+      ]
+    }
+  }
+}
