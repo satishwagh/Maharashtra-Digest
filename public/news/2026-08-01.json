@@ -1,0 +1,798 @@
+{
+  "date": "2026-08-01",
+  "generatedAt": "2026-08-01T04:57:24.564Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1785560238778",
+          "title": "Maharashtra govt forms committee for ‘performance audit’ of SRA Act - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjBhVnF0SjM3NG1rbXMxU3NmSHl6Wk1XUE03RzJZZDVVUnp4QVBvQWhKUkQwTUNybXJSYm9uQmVhdktXdGU0T1lSRHlxX3pqMnJkZ20xUkFaU1dFWW9fZDl1VjFZNXJqcVY0Z2NUTTdQMndmeGpUNmhWd3RiaFNpUjhYQnNiaURoSWlJb2J4a0paNWdrMW9GQnNlbU02alM4MFHSAacBQVVfeXFMUG9rbUVFeXE3Nk5sUUxSZGZqSHdUelhTTlZHcjFuVFpXNkkwaFZZZE1CWTNXa3JXTmp6d0N6S1Y4Tk5iekNZWGo3RGpVRnlPZ3BxcjRnT3VraGptazNuY212UkJ2THFaU1RiaGduUVBHSVhaVEk3RHVzWDJyNVRBc1hsbzNIcXFBZkJjWm5ydlRMUy1QeldtVjVyM2p0VjN0dUduS1dGSXc?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra govt forms committee for ‘performance audit’ of SRA Act  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt forms committee for ‘performance audit’ of SRA Act ThePrint"
+            ],
+            "tldr": "Maharashtra govt forms committee for ‘performance audit’ of SRA Act ThePrint"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1785560238778",
+          "title": "President Murmu clears Maharashtra anti-conversion law; state notification awaited - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOUc3TFFZblZVWjk2VnR6YXZPSzVnUlZUQTJaUjBXblhHaDJiVDdrbGROMUwxWmdVMTJiZWgzZkFIOHRJbXFUb3dyU3A3ZDUzSUNOU0tONDNYSXV3NE9OLVo5ZGNmUERJMlVCdHpGMUx2cHhWd3RBMkxxbkN5dzBXZU9WckhtVnY4bVp5eWdQRTljbnlSZ0s4OTVVMDJpdnVNTXBMMGVJekdWUW5FR01Hcnk5b1d6UDZCNmNHdVpYTGhkd1gxM25rNktXdnZSWUtqbmRqWXJB0gHcAUFVX3lxTFB3Ym44VjR6T1pGNVBZSk1sR2dabXFhelFHX3dzYUlfcjBXLS1kSjExTm9ScnFFb3FURmdPcDJoTTA3NFN5SWlTYi13R1hrcFk0djFBRXVaLVo1LWdMb21ENmt2cFRCXzR3T3FtRXBaMXBTQzNialJLLUdaTU5jYnpaRi1INWh3M2FFc1lwNHJCOHZiSDkxUks3aXZlSjBYbWJMQVptdjBzREJMMTFHcHc4M1dHa3RpSGJpb3lGN2M2ZXJiXzlDYlNlbjBGeVlmajh4bExWOWJycnJCS24?oc=5",
+          "time": "16h ago",
+          "body": "President Murmu clears Maharashtra anti-conversion law; state notification awaited  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "President Murmu clears Maharashtra anti-conversion law; state notification awaited The Indian Express"
+            ],
+            "tldr": "President Murmu clears Maharashtra anti-conversion law; state notification await"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1785560238778",
+          "title": "Maharashtra freezes fresh orchestra licences, renewals to plug dance bar 'loophole' - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYUtnNUJicVdlZ18tcWo1a3ZUM2RBREEyOC1EVWF6aXRUdlZfQ3Y2VUtjOUFJVnFkLUw1MW94R2FkdFVCb3o4aFc0RW9oTDVGeVZIb1BRRi1GeWNmMGZERGJ0X3JscG1xdG1hdWp1dWxselBfekE4U1NNYTZudkV5QlpBMExaTmR4cGhMdmliRXFfQ3ZoMEJiV21ub1d4M29qclhjTmZqOHNvRnpRVEJDemR0VVZYZ0hJbmtYS0pkQnBTS1VCbmgzbkpHOS1DNHFGLXpZalJGU3VJT0ZRWGFEQzk5Mnh6dmZhaHfSAe8BQVVfeXFMT2I5WVlvSkxNNU84ZEMxV3BGVmQ1VXFaNDlwVVZXRnZuc0dhcTlOVlBJUC1WN2pYb3RzSGUwaGU0N3o4QWhpdDRrR2YzbURSZDJqaGYwMS1qNWxsR25XajYyRERFY0xKR3BpMHRDekkyd2FPM0hpYTNiSWRKN0RmeXJVaGNHUkpKV2R2dXVfcGstbWFmVHRWM1FNLVBEZmFTWllSdThPbmpuQ05XeWQyb2paUW10T1lFck9NcWpZLWFCVUhOamdHSU1IOUk3a3Jsc1k0NzNnQXJJX1VhaFZRNDJlNzAxWjlTS19tUFROMmc?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra freezes fresh orchestra licences, renewals to plug dance bar 'loophole'  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra freezes fresh orchestra licences, renewals to plug dance bar 'loophole' The Times of India"
+            ],
+            "tldr": "Maharashtra freezes fresh orchestra licences, renewals to plug dance bar 'loopho"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1785560238779",
+          "title": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women - Press Trust of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWW5vNEFaamVKcjRZR0U3S0xlaHkyd0pQRmNTQ3Nkejc2UVdVczl6TVFybzJHc1hnZlptbDVabnFiOU54NEp1SmowSjBtZFFNT0ZuQi1vd2NBbDJEcWhZTmduWEc1a2ZPTWN2WGhFakdSRllzalRYWkt1dl9pbENVRGN1YjJ6TG10ejNENzFLYUp4Rm1pSDJGWWZoXzRtNEdJWjF4QTk0em1SR3d1c2NlRzBEQ0trMnQ0T0FLUUNWNmpRSkFUaHN3?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women  Press Trust of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for women Press Trust of India"
+            ],
+            "tldr": "Maharashtra govt proposes to double subsidy under pink E-Rickshaw scheme for wom"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1785560238779",
+          "title": "Himachal Congress hits back at BJP, defends vigilance probe, slams Kangana Ranaut's remarks - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUS1vZjhYUlFYR1hXSURYWElKRTE2bTFJemh6ZzFMZ3RpZkh2aDZyV01QMGV2ZmN5T3NWNjBDV29ILXdnU0xtNEhHZjFvZVZXYVAxRV8wRWxxbEFRZmw5RU5EV2YyZnRnSjZmVVdRLVVoMFdxak1NVUd6TlI5QV96dUhRMC11RDkwbEdhWlZKZjdxbzRMNGFvbnhYS01RS1c3c1dyMzdkakhpaW80YXF1LWhuNmtDYjRIc2NQX1BsRnVkaVdULWREcngtMA?oc=5",
+          "time": "16h ago",
+          "body": "Himachal Congress hits back at BJP, defends vigilance probe, slams Kangana Ranaut's remarks  indiagazette.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Himachal Congress hits back at BJP, defends vigilance probe, slams Kangana Ranaut's remarks indiagazette.com"
+            ],
+            "tldr": "Himachal Congress hits back at BJP, defends vigilance probe, slams Kangana Ranau"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1785560238779",
+          "title": "Bombay High Court questions cleanliness certificate to Mantralaya canteen, asks FDA and lawyers to reinspect premises - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNODBFM1NDeS11X1dIeWtPVUFMSHZwLTdtS3MzTWpvNjktYk50WFRQOXFNdmYwMnl6enJra05RRzktRzhnYW9hYVpkY0VoUGFFUFB0bXdBdnowVWJaS2R3YzhWbjBwZUNzbFJCV0hrR2N2bE9WRmFoNG85bEhuRlE2UWhWVm9qTkFiZ09ZZ2tqZDFjSXl5clRtaURpY2pCaDNITzNOTHlkU044a2tqQ19UbV91d2hrUlcwWDROUXRlZFc1YTFWZllaYnVOR1hKLUxsMGhhU0FNZzF2OWVlOHZ6OXF5NnZBeHJkVE0ycmNZRko4bWNsaU9qUVdLc3kycDNTWGx6RUl0dzR3dk1f0gGTAkFVX3lxTE00NHJEM3VvTk84VnRpS2RrRDJneDlDSURyMGpPRDl1MmMzLTdQY25nMHhkU2lraEw3bUJFOE43UW1PLWM1Qkl1TnFwVjNLOG9LZVpxODNHWWhhSXRfZjJpM1RnUk5KLWlWZHdLOHB3RXVOZFlhc1k0eWlad2FPVnJOZ1B5cHFVU28wLUxpRHJLT3JSNjRnRElZQUFvQXd4dkhFYVl4V0RfQjVaZ3Q5RWtCRGRwRkpoTmpieTNYWmJRb3dyMW00Rk9Ga3hUck9BM3ZzZHhMRjZneTlPa2JHb2tiQTBUZ3puVDBGQ2RDZjVjZ2FRUmJpdW91Y202Y3ZTdGhKWGFpVkFrT3daWWRIY3AtTDBr?oc=5",
+          "time": "18h ago",
+          "body": "Bombay High Court questions cleanliness certificate to Mantralaya canteen, asks FDA and lawyers to reinspect premises  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay High Court questions cleanliness certificate to Mantralaya canteen, asks FDA and lawyers to reinspect premises The Hindu"
+            ],
+            "tldr": "Bombay High Court questions cleanliness certificate to Mantralaya canteen, asks "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1785560238779",
+          "title": "Bombay High Court questions FDA's 98% clean certificate to Mantralaya canteen - deccanherald.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdmlpY2NxOWVxeS03N3JqZHhTWUQwT2tZdWhxd3BwclZGQ0YtQkhCQ0w5Nnp6aXpMTEdWTTdyVldudXZ1eDA1cEFfV2xEVndCTGJpT3NRWGNGQXZuUzU4YW1MbnE0RlhPSlQ2MDVWVGxMMGx0RG5JQ2pLUWxNZURBOHVpbWg2UFNaY1F1aU9ybG5wMXA4M0dNY0R6QVdOeEZITURydXN2eHdFUHF2MFhnZjduaVVBSVB5TnY0eFNQWlE0Z3VaZURMSENvaWlVbndzSHhRdEw5NWtSMlpG?oc=5",
+          "time": "15h ago",
+          "body": "Bombay High Court questions FDA's 98% clean certificate to Mantralaya canteen  deccanherald.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay High Court questions FDA's 98% clean certificate to Mantralaya canteen deccanherald.com"
+            ],
+            "tldr": "Bombay High Court questions FDA's 98% clean certificate to Mantralaya canteen de"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1785560238779",
+          "title": "Maharashtra govt edits online-only order, allows ministers to opt for print newspapers - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbW1PcV9WelJpT0piZzhzaFAtcmwwTjdSdUVkcFBYY1Rhc2NGRHhrWUhkdkZOMnpqLUVjLVRkaXlBNnJ1NkVZaEttclJlV2VTVTNqWC1yemF4Z01paFMtSVRtXy10VjVrU2dGd0cySFh0aWZUSndMZlhvYmM4LTRwOElEOTRtdFFYc3dHTjFKcjJvY2hpeE5TTFA2X1RSNVRTNEowdHVvbWJOSTBBckZPQnhZemhOZkRfaEpFaNIBwgFBVV95cUxNVmlUZzJRMjV4UDRlMXRFcTQ3MGFkYlNzZjM3MkVrSGNsZ2pXV2Vvdi0tVHZ2eG5wQkNaSUFhdkotYjEzUmQ5M21nREJEVi1TRVN5ZkRoUG1BUnhQVm5XdkViOE9weFlfWXphV1hFdDl2bUo5cDBKQ1ZueElNLVM1OEwtcTA1OC13bWR4SmFLZW5vWVhOODJtaHZuUzZWRjlkaVlXUmxMdHZ0SnluY0o2NXRQeVIzQ3I3OUJHODdYLVBqdw?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra govt edits online-only order, allows ministers to opt for print newspapers  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt edits online-only order, allows ministers to opt for print newspapers ThePrint"
+            ],
+            "tldr": "Maharashtra govt edits online-only order, allows ministers to opt for print news"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1785560238804",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "5h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1785560238804",
+          "title": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "11h ago",
+          "body": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' The Economic Times"
+            ],
+            "tldr": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' Th"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1785560238804",
+          "title": "Stock Market Holiday In August 2026: NSE & BSE To Be SHUT For 10 Days This Month; Check Full List - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcWxhelM1eVZjSnpzVmNlZmNxVVdOc0EydTVnLWJHLVg4LUxzczZKdWdhZE1UazdIWF9kRy1QWVBmYXB6Q1JJb2VJcE5VNWhzTENLYTlmNjdCOFVob1lIS3hhVmRzREpJQXhTZ0R4R1g3b0U5OUdUYm5VdEtJTHJJWkF0VHBZTjNHSkx4RDlUa3FjMDF3QnNFSFNfMGV3Vk1nSWhfd1A0YmtncVNOZ2tWSENncHpsZXQxY2t2UmNxRlo3S3M1WWkxaGRmZXVRUXNvSlFYUHFINEFpWDJzN2Rr0gHfAUFVX3lxTFBxbGF6UzV5VmNKenNWY2VmY3FVV05zQTJ1NWctYkctWDgtTHNzNkp1Z2FkTVRrN0hYX2RHLVBZUGZhcHpDUklvZUlwTlU1aHNMQ0thOWY2N0I4VWhvWUhLeGFWZHNESklBeFNnRHhHWDdvRTk5R1RiblV0S0lMcklaQXRUcFlOM0dKTHhEOVRrcWMwMXdCc0VIU18wZXdWTWdJaF93UDRia2dxU05na1ZIQ2dwemxldDFja3ZSY3FGWjdLczVZaTFoZGZldVFRc29KUVhQcUg0QWlYMnM3ZGs?oc=5",
+          "time": "2h ago",
+          "body": "Stock Market Holiday In August 2026: NSE & BSE To Be SHUT For 10 Days This Month; Check Full List  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday In August 2026: NSE & BSE To Be SHUT For 10 Days This Month; Check Full List Goodreturns"
+            ],
+            "tldr": "Stock Market Holiday In August 2026: NSE & BSE To Be SHUT For 10 Days This Month"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1785560238804",
+          "title": "Markets extend rally to 3rd day, tracking sharp rally in Bajaj Finance & foreign fund inflows - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDROOUN2OHUzVVAzcGlvTU9jbEtHd21rZE5kS2ZNME44d2ZCUTNLbzV0Z2hRY05XNm00U09SMkZhei14aVNJMEtmRktxNXRvVmFURGthWnFkdFBpOUJHVUl0dTlYZWNWZUM1N1RVXzN3Z1RNOVIzNEl6REZjU2xscklBMGJ3X2NSZ0N3UWhham05X3REQXEyemNNa3lNR2NzZ2ZESVNxQ0t1Q0FXbnoxV0lFWVh3QzllU1BwNHZJb2I3UVRnNWZSTzVmU3F1X1UzV3fSAdcBQVVfeXFMUHYydFpRRm5XY01Zb3pOUmFOcUVqTFA4ZUlybUFiRWVYZVRtQVBfcDdNWXA5RVhoZklJemtEenFyUmxYSDk2bFB0T29kWkw2b1lRQTczMHNWNEFNUXduN1BHV0ZDX3lwR1NtZFdtUGprVkZyUkcwM1N5M0NPYzBQNTgtcHBzWk1HenpmYjExNTltOXVBMWNCelZCQm9yLXZKOE9Hb0IwZEN5Qm5BbDlWWkNfRFlWT1Z6aXQ0ODdmWlZCcXNQdGpPcGVYRWhkTzdjYjFmblo2RFk?oc=5",
+          "time": "10h ago",
+          "body": "Markets extend rally to 3rd day, tracking sharp rally in Bajaj Finance & foreign fund inflows  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets extend rally to 3rd day, tracking sharp rally in Bajaj Finance & foreign fund inflows MillenniumPost"
+            ],
+            "tldr": "Markets extend rally to 3rd day, tracking sharp rally in Bajaj Finance & foreign"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1785560238804",
+          "title": "Markets trade higher in early deals; Bajaj Finance surges over 6% - deccanherald.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenlPQldmUHU3OXZQTkVSQVdOSTdVM3JKUFAzVGRXTnZ0X0Z0TXpWaEowQ3l3X0ZhYXFHX2JyUVlNQ0taZlk0dzN5MEFhZTVDQ25uT3ExVEhfVGYxZnY4b1lZaEhIQ3BOcHE2V0RfVEY5OEI5dmNOWnRJU3V6WHNTc05uaF91a2RjTE82dUx0MVJSdms0S0ZYV3lhR3ZjZ1ltYUc2NWtaaFdMeXVyQ0NkYUdnRHg2eVFU?oc=5",
+          "time": "22h ago",
+          "body": "Markets trade higher in early deals; Bajaj Finance surges over 6%  deccanherald.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets trade higher in early deals; Bajaj Finance surges over 6% deccanherald.com"
+            ],
+            "tldr": "Markets trade higher in early deals; Bajaj Finance surges over 6% deccanherald.c"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1785560238804",
+          "title": "Market indices end higher for third consecutive day amid positive global cues - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeFV6RWQ5clM3SWNyMlJOQzNhdjVzcXVnblFSbFhnQk02bU9vdFB2Znd6d1NmN2ZRU3plc2duWjlhVF81eG5Oa1pRTzNsY2l0TGdVR2l4QVhydzlvaXBsdkljR1VGNUcwUjNVRHBmdjdxbHdyNVV5U3dKRTlUaWU5Y1hOUUstdmtzNS1mVnVxUlhEMFpLT3N0aW96TnhwSFNheS1YWG9faXhSa0JRNTFpMk92YXFmVm9CUE1oS29uaUZPQ01ITjRRc1d2akdNVmtyY2xUNDljRFh2Mzc00gHcAUFVX3lxTE14VXpFZDlyUzdJY3IyUk5DM2F2NXNxdWduUVJsWGdCTTZtT290UHZmd3p3U2Y3ZlFTemVzZ25aOWFUXzV4bk5rWlFPM2xjaXRMZ1VHaXhBWHJ3OW9pcGx2SWNHVUY1RzBSM1VEcGZ2N3Fsd3I1VXlTd0pFOVRpZTljWE5RSy12a3M1LWZWdXFSWEQwWktPc3Rpb3pOeHBIU2F5LVhYb19peFJrQlE1MWkyT3ZhcWZWb0JQTWhLb25pRk9DTUhONFFzV3ZqR01Wa3JjbFQ0OWNEWHYzNzQ?oc=5",
+          "time": "16h ago",
+          "body": "Market indices end higher for third consecutive day amid positive global cues  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market indices end higher for third consecutive day amid positive global cues Mid-Day"
+            ],
+            "tldr": "Market indices end higher for third consecutive day amid positive global cues Mi"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1785560238804",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "15h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1785560238804",
+          "title": "Stock Markets Rally 3rd Day; Bajaj Finance Surges 8% - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekxJcWR2OW9PSFhwMDBSa1V5M1hOaUNOZGJ0eHlDUGRta3B6V2hFQ0ZQLXdPNVE2V2c3Nm8tWV81WExKcDF4dXQ4U0dHeFA4TUlfUmJDUUY3bDJhbzJ3VFFDUVhzREZRbWFHeGtCWVZyVG5MTEd0aEd1V3A2M0x4T0ZpZ1Q4WTg5X3VmdnJGOWlsV09od3loU2tmMWduTmwyOHBFQ0Y0cDZqQdIBqgFBVV95cUxOekxJcWR2OW9PSFhwMDBSa1V5M1hOaUNOZGJ0eHlDUGRta3B6V2hFQ0ZQLXdPNVE2V2c3Nm8tWV81WExKcDF4dXQ4U0dHeFA4TUlfUmJDUUY3bDJhbzJ3VFFDUVhzREZRbWFHeGtCWVZyVG5MTEd0aEd1V3A2M0x4T0ZpZ1Q4WTg5X3VmdnJGOWlsV09od3loU2tmMWduTmwyOHBFQ0Y0cDZqQQ?oc=5",
+          "time": "18h ago",
+          "body": "Stock Markets Rally 3rd Day; Bajaj Finance Surges 8%  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Rally 3rd Day; Bajaj Finance Surges 8% Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Rally 3rd Day; Bajaj Finance Surges 8% Rediff MoneyWiz"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1785560238779",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "9h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1785560238779",
+          "title": "Digital Revolution Transforming Healthcare Services - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWh1QWJJRXI5UU5LLUhfc2NQOENueUhmaFd6V3paX2M2V0kxN25WR0RHdHVnVmczOVR0dlhyX0dEc2tFV2F5bmZXdnptYjJZNlh3bl83aXRYM2V4LUVObUhneWZuTVdzZk0wRUxqNTNvd09KVEpMbXdkcExtTDJ1YlZCc2xBRFk3T2IwaEhVUUU?oc=5",
+          "time": "18h ago",
+          "body": "Digital Revolution Transforming Healthcare Services  Marksmen Daily",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Digital Revolution Transforming Healthcare Services Marksmen Daily"
+            ],
+            "tldr": "Digital Revolution Transforming Healthcare Services Marksmen Daily"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1785560238779",
+          "title": "Tata Mumbai Marathon to be held on January 17, Maharashtra Guv Jishnu Dev Varma becomes first registrant - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVjJ5bXYzdUNDYjI3NnUyakYxUlpBeHNiWm03WG5jY19KZ1lBaTJBQmhOUVVVVXlqaWhCOGw3U1dnREt6elA2UHFQcDJVRC1xa3Q5Y0lHNGh6Y0xvUGZwaFpNczhXNmkwT3VqSFFjbkluWGxYdEtTQlV5Y3llNml5NzJUQ0xXRllQTmxYb210bjhkM0E0YWpCNzBaSFJFUXV2TDNxeUZ5ZGEyZUZmakd1SFJSbEM3OUQxRG9DQzk3ZmwySTVqNXBPaXF3WEFYWnBsd2NsT1RJLVB3Y0dPRkY5SUdjUGpsWHNqd3ZNOVhKX3JiRG9Ic2ladVNEeUVKUdIB_gFBVV95cUxPVjJ5bXYzdUNDYjI3NnUyakYxUlpBeHNiWm03WG5jY19KZ1lBaTJBQmhOUVVVVXlqaWhCOGw3U1dnREt6elA2UHFQcDJVRC1xa3Q5Y0lHNGh6Y0xvUGZwaFpNczhXNmkwT3VqSFFjbkluWGxYdEtTQlV5Y3llNml5NzJUQ0xXRllQTmxYb210bjhkM0E0YWpCNzBaSFJFUXV2TDNxeUZ5ZGEyZUZmakd1SFJSbEM3OUQxRG9DQzk3ZmwySTVqNXBPaXF3WEFYWnBsd2NsT1RJLVB3Y0dPRkY5SUdjUGpsWHNqd3ZNOVhKX3JiRG9Ic2ladVNEeUVKUQ?oc=5",
+          "time": "1h ago",
+          "body": "Tata Mumbai Marathon to be held on January 17, Maharashtra Guv Jishnu Dev Varma becomes first registrant  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tata Mumbai Marathon to be held on January 17, Maharashtra Guv Jishnu Dev Varma becomes first registrant The Tribune"
+            ],
+            "tldr": "Tata Mumbai Marathon to be held on January 17, Maharashtra Guv Jishnu Dev Varma "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1785560240203",
+          "title": "Mumbai’s Sir J.J. Hospital Launches India's First Gov AI-Powered 'Lazy Eye' Clinic with Bynocs - Digital Health News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOV9LaDdmNkEwZmZQSGh1Q2p1V3RXa2FWNkVIX1dzZ010NWVxWk1UeEJQUllLSktoak1uSzJqLWo4aEwwcWU2SDV4aGc4WC1rQUxYSFNKM0tsOFM1Y1VTbGt0SndIQ05LUkY3NUNod1JkSy1vRE1kYW01cEE5bDhwZzl0M0lUOGZIVUdSeTdscURTS3RRd1loRWxSRk0tc011bDdySXZ1Tl9ZdnNrcDZuaHIxSjFaaXpWQ3FWbldSV2pZMVU?oc=5",
+          "time": "11h ago",
+          "body": "Mumbai’s Sir J.J. Hospital Launches India's First Gov AI-Powered 'Lazy Eye' Clinic with Bynocs  Digital Health News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hospital Launches India's First Gov AI-Powered 'Lazy Eye' Clinic with Bynocs Digital Health News"
+            ],
+            "tldr": "Hospital Launches India's First Gov AI-Powered 'Lazy Eye' Clinic with Bynocs Dig"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1785560240203",
+          "title": "AI-powered factories gather pace as manufacturers race to build ‘factory of future’ - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPenFYOU5USEJWVDI1YXJxV2Z1TFdWUEp2S0E0V2d6NmFrMUx0aXBDWXhZbFBPTUdIWVVIZ2t6SjdwcnVLZm5tRFFTYzFDanJTSEhDVG92cnJsRUFvanIxWHZOLVNqcjhQd2VtSzJydTZVUmhjZlVIU0UzdmlBdEhRalp0T2VrclFxNV9WUFpYZ3A3QjlIYVI0Z0tMaVB5OE5uNG5JQlp2NFhNMHl5ZWd1YVhZQkNZRXpSWDFYOXFEQ05FdlhPblJHdHQtS3AzNnlLcUJYd1lNVGpscWsxc21sQVhNMmVIS0RHSHdN0gHwAUFVX3lxTE5iTzdSZHc5OG9kVE53Z2pFa1JIcGhWcXp1QXUyYVpVZXBXWElfb2xKN3RkTlhCWENlUWNNcTY2dDJvb1c0dGFwa2F5UzJyem1TTk5NYVlsSUtJdjlfT0J6TlpjUjhNR1NDVVlUaERZREdwT2FHUVYzOTZJWUNEQVpBb0xfSmhKamJEWjlJRHhaRlFzNHNPSVN6MTFLM09yUjRPaGxyZldhUnlJRlFiVjNBeGhxZGs0d0x5Y19IZHQ5aXU1S1kybGhqcE9Xck4yUjFfUzZ5RU1LQXZlWFVodWUtdXYtcWluYlRtSlJXQ3BMVA?oc=5",
+          "time": "19h ago",
+          "body": "AI-powered factories gather pace as manufacturers race to build ‘factory of future’  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI-powered factories gather pace as manufacturers race to build ‘factory of future’ The Times of India"
+            ],
+            "tldr": "AI-powered factories gather pace as manufacturers race to build ‘factory of futu"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1785560240203",
+          "title": "From Digital Adoption to Intelligent Infrastructure - Construction World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTF4NFMzMlJGSlFtT1B2blVhSGxoSU92Y3ZvVVNQdXdMcnBUVmNoQUFmbEF2eW5DSWpfRWZnQTJHX2JXVTlPaUhLMXBsUk4tT1QteEMwLURUdV9SVGFlTWYtaElUaEsxWGRUOFFfb3lXY3l6YnlHN3l0cTB6UmRrODBoeDFBaXdTYXBESmw5SkNoRHpaSHdHQVI4TFpHV3NpNEk3Q2hkbGxSbGluZGFHRXdXcFM5QzRZdG1CdFNVQkMxbGZi?oc=5",
+          "time": "10h ago",
+          "body": "From Digital Adoption to Intelligent Infrastructure  Construction World",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From Digital Adoption to Intelligent Infrastructure Construction World"
+            ],
+            "tldr": "From Digital Adoption to Intelligent Infrastructure Construction World"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1785560240203",
+          "title": "Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMnM0UTY2LXZJNk5KdTBqaTJWUVktdWhxRkM2Z2M5cDdlZ3p3U0ZSZmxRSjZkN0l0S2xUaF83eFltQjRKM1VPc2hLVDR1QWlILTd0QlBWdzhpX1h6Q0dzUlJwWFJ5RC0zWllIaGpVeXowcWFfZ1Z1cFBqbHJVbklXeEllendYaUQzQnZGSXYwUzBnRXBIN2xsUnZDNWlVZEhITEE1QnVCUTRfbWRKTDZXRzhuWU5udjRuSDNiTEVObkVpSTJaVXJHMjhYOUlSU0lvbXFUSTR6LUR6SV8yeXpqLWRULVVwQnhUWFFmeVJnQzJ3YnBqaFIxV3lza0oyT0RJTHfSAYICQVVfeXFMUDJzNFE2Ni12STZOSnUwamkyVlFZLXVocUZDNmdjOXA3ZWd6d1NGUmZsUUo2ZDdJdEtsVGhfN3hZbUI0SjNVT3NoS1Q0dUFpSC03dEJQVnc4aV9YekNHc1JScFhSeUQtM1pZSGhqVXl6MHFhX2dWdXBQamxyVW5JV3hJZXp3WGlEM0J2Rkl2MFMwZ0VwSDdsbFJ2QzVpVWRISExBNUJ1QlE0X21kSkw2V0c4bllObnY0bkgzYkxFTm5FaUkyWlVyRzI4WDlJUlNJb21xVEk0ei1EeklfMnl6ai1kVC1VcEJ4VFhRZnlSZ0Myd2JwamhSMVd5c2tKMk9ESUx3?oc=5",
+          "time": "10h ago",
+          "body": "Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations Business Standard"
+            ],
+            "tldr": "Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Ope"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1785560240203",
+          "title": "The AI gold rush is lifting India’s ‘picks and shovels’ companies - Malay Mail",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjk2Sl9CRVFuTTNCNkpWY0ZiX3FaOHFfR3h3cWpGZ19wWlA2alFrYlhfSzNwbkpwVFlXd2YzMHNpSFB0SThRUFRtWVYzQm9aSzhVcE9QOUVVdUp4UFBRYldKZXA2S3VrTC1UdzJuVE1WU2dxSF9HU1RKX01oZ2EtVC0zZHdLRXlLQ1l2eTdmanNNbmd2akJzc2JFTG9rd01JbjFjN1JuYXZVWUpCWUxOak1TVU5ybFJ6c3Ywa0J30gG-AUFVX3lxTFBCOTZKX0JFUW5NM0I2SlZjRmJfcVo4cV9HeHdxakZnX3BaUDZqUWtiWF9LM3BuSnBUWVd3ZjMwc2lIUHRJOFFQVG1ZVjNCb1pLOFVwT1A5RVV1SnhQUFFiV0plcDZLdWtMLVR3Mm5UTVZTZ3FIX0dTVEpfTWhnYS1ULTNkd0tFeUtDWXZ5N2Zqc01uZ3ZqQnNzYkVMb2t3TUluMWM3Um5hdlVZSkJZTE5qTVNVTnJsUnpzdjBrQnc?oc=5",
+          "time": "15h ago",
+          "body": "The AI gold rush is lifting India’s ‘picks and shovels’ companies  Malay Mail",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The AI gold rush is lifting India’s ‘picks and shovels’ companies Malay Mail"
+            ],
+            "tldr": "The AI gold rush is lifting India’s ‘picks and shovels’ companies Malay Mail"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1785560240158",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "8h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1785560240158",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1785560240158",
+          "title": "Vettori: Hetmyer's innings and his fielding set RCB apart today - Cricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczJpb3pNTkdnVmtKRE13TV94dWR5dlo5alB4UzljRGt5UGRnaU1GZGlqRGEwZFlPd3Y5WHRZdldEWmM0M2dWdkxUZTk1c0NZZWpXXzlTUElYamkwa3JkNzZtemltNEprN1BVc3k0MTVQUERlOWF4RG9SVWdZdW04UmtqNHJSTUpiOGJOazZPUW5MekFTMTZqVXJmb2ZVYTdWVl9Xalhoc2RxLVdnR1FN?oc=5",
+          "time": "9h ago",
+          "body": "Vettori: Hetmyer's innings and his fielding set RCB apart today  Cricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Vettori: Hetmyer's innings and his fielding set RCB apart today Cricinfo"
+            ],
+            "tldr": "Vettori: Hetmyer's innings and his fielding set RCB apart today Cricinfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1785560240158",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "8h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  The News Mill",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match The News Mill"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1785560240158",
+          "title": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BrR0xnVlg3ZGtobG5zMExtcFRXMnBPWmJ0bFlzcmNjMHV0OU1GX2VqZUVMUTBiQUVhLTZYLUdxXzBJUnU4NEU5ZFl0TFZGOXNMRGZCeklFamxMTWpOclhURXV3ald3V3AwRU1hRldCWmgzbkJnbl9PMkVJNHNKSDlR?oc=5",
+          "time": "10h ago",
+          "body": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistic"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1785560241648",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1785560242719",
+          "title": "Why Neeraj Chopra's silver meant more with Yashvir by his side in Glasgow",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Neeraj Chopra secured a silver medal in the javelin throw at the Commonwealth Games.  He shared the podium with fellow Indian Yashvir Singh, who won bronze.  Yashvir achieved a personal best throw on his final attempt to claim the medal.  Chopra expressed happiness at sharing the podium with another Indian athlete.  This silver medal adds to Chopra's extensive collection of career achievements.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Neeraj Chopra secured a silver medal in the javelin throw at the Commonwealth Games.",
+              "He shared the podium with fellow Indian Yashvir Singh, who won bronze.",
+              "This silver medal adds to Chopra's extensive collection of career achievements."
+            ],
+            "tldr": "Neeraj Chopra secured a silver medal in the javelin throw at the…"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1785560242720",
+          "title": "CWG 2026 Day 9 medal table: India’s standing after historic six-medal day",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "India enjoyed their best day of the 2026 Commonwealth Games, winning six medals to take their tally to 23. Harsh Singh and Asmita Dey claimed historic judo golds, Neeraj Chopra secured javelin silver, Yash Vir Singh won bronze, Tejaswin Shankar earned India's first decathlon medal, and Yamini Mourya added judo silver as India closed on ninth-placed Wales.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India enjoyed their best day of the 2026 Commonwealth Games, winning six medals to take their tally to 23.",
+              "Harsh Singh and Asmita Dey claimed historic judo golds, Neeraj Chopra secured javelin silver, Yash Vir Singh won bronze, Tejaswin Shankar earned India's first decathlon medal, and Yamini Mourya added judo silver as India closed on ninth-placed Wales."
+            ],
+            "tldr": "India enjoyed their best day of the 2026 Commonwealth Games, winning six medals "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1785560241441",
+          "title": "Deluge with monsoon deficit is India’s new climate normal - Scroll.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkpzWTVSdnI4OFpfM0pnZXFmbG9YNnNjWDVZNkJjdEJuNEVNcUdSRi03TnNHS3VfOXhZeEVyX0pQbTZ2SlM3anBXWlhuaHFXSG5xeHFqZTd0cTV6Mk8yR2NZaG1LeEpGRmZERjBDM29lVENUOS14UVZVaUJkcERzTEUwcVdrWlZNN0tJd3hBY2YzR011c2FocXJB0gGaAUFVX3lxTE5uSnNZNVJ2cjg4Wl8zSmdlcWZsb1g2c2NYNVk2QmN0Qm40RU1xR1JGLTdOc0dLdV85eFl4RXJfSlBtNnZKUzdqcFdaWG5ocVdIbnF4cWplN3RxNXoyTzJHY1lobUt4SkZGZkRGMEMzb2VUQ1Q5LXhRVlVpQmRwRHNMRTBxV2taVk03S0l3eEFjZjNHTXVzYWhxckE?oc=5",
+          "time": "14h ago",
+          "body": "Deluge with monsoon deficit is India’s new climate normal  Scroll.in",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Deluge with monsoon deficit is India’s new climate normal Scroll.in"
+            ],
+            "tldr": "Deluge with monsoon deficit is India’s new climate normal Scroll.in"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1785560241647",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1785560241648",
+          "title": "Indian-American couple announces graduate fellowship for University of Texas students, says it's 'simply an open door'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-American philanthropists are making significant contributions to American universities this year. Anil Kochhar and his wife Marilyn paid the education loans for graduating students at North Carolina State University. Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas. This fellowship will support students with expanded resources and financial aid. The Bhatias hope their contribution will inspire future generosity among recipients.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American philanthropists are making significant contributions to American universities this year.",
+              "Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas.",
+              "The Bhatias hope their contribution will inspire future generosity among recipients."
+            ],
+            "tldr": "Indian-American philanthropists are making significant contributions to American universities this year."
+          }
+        },
+        {
+          "id": "mumbai-general-3-1785560241648",
+          "title": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]"
+            ],
+            "tldr": "'Only thing keeping me in Canada is the amount...': Redditor says getting reside"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1785560241648",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1785560241648",
+          "title": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]"
+            ],
+            "tldr": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; d"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1785560241648",
+          "title": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]"
+            ],
+            "tldr": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. ["
+          }
+        },
+        {
+          "id": "mumbai-general-7-1785560241648",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1785560242969",
+          "title": "How Maharashtra ACB trapped forest official using Rs 40L dummy notes in bribery case - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS0FRcFJhQkhVTFZuT0daV2ctN2ZZOFl4RW1ycTZUdl9UVUUweWRRTlFlTWN2Rm1YQWpUZ0kwS05aLU5Ed1ZHVTJMVXp4bkFUYkNmVXBZb0ZlSGQwbEJxSTJMbkJMUHY1eklaempuY0hzaUVIWGJ6ZjAycU91VndkOG5mTjhncjJFa3NQVGRBUERSOWZKMkV4NHFqVGtSYklEcjVpcjV4dzVQUnk1dW51WEYySWs0RUQ5Ul9jOGJMdVFWRkhPdTR3eFZrZkg0Q0o1U2xjTHBFRUYtdGJmbFZWdlB2aFBCQkJQU01HYVJZYVNra25N0gH6AUFVX3lxTFB5UVFKZEloOThqdWxTY2g3ZmtWbG5nRHc5NExrMVprMlkwQ0E0OU1vSVdGS2NFR2o1SW9ONUs3OG02LXlzdlF3MXBmWm1GcG5jUlMwTTBRSlJIOWExT0tiTEtRZnlqRUdtZHhnUmpKNW5lV3JaTFFjM3BocGY0dkVRSVhkaVVtNFpaVm5mMEZlZk5uVGJoUk9lbklDQjRCbTlCQnFwVldKa3JfQnl4WThBd05uT01zbUR6eTBSQmZMX05GR0ZZVlMxVWZkMkVYMDdnUTlUaGN4QnBQU1RlZnFuc0NYRy15VHBkX25Vak1VTTdfeXlGakdwU3c?oc=5",
+          "time": "13h ago",
+          "body": "How Maharashtra ACB trapped forest official using Rs 40L dummy notes in bribery case  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "How Maharashtra ACB trapped forest official using Rs 40L dummy notes in bribery case The Times of India"
+            ],
+            "tldr": "How Maharashtra ACB trapped forest official using Rs 40L dummy notes in bribery "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1785560242969",
+          "title": "Uddhav Thackeray speaks with Abhijeet Dipke, assures him of Opposition’s backing - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW5laFFGZUFiUXdwWFduTHJ6UEh1V3dxQTZMYjZ2bF9MYWNSczdfczdoZ1JkdE0xN2tDU0ZHVjlNSUFzSmxkcmE2ZzBmczBVRmYxdFhISlY2TkxuMExldGlUZzRJcHA5c3VoaG1CYWppaS1lc21Kbm1Nc0hIVjktSGxsX05SeEJ4b0NDb2U2Rk5zNnF4MDktQ3RGZzZJS3N0TkhSWGNUVWgyVktjWlBLS21jY9IBuAFBVV95cUxORE5XX2JJRHhkcHVUSnV5QzB5c2l4azVVRlpPMy1vQm1kVERzNkFzajJUcVhMUjNxZHM4SHlSYTk5blhOWTFrZl9UTHVkeDNvLWoxQ1l1dkQ1Q2MzUHN5WGd4MVdzdFNvb2JQcE9oRDRPb0pna0dna3ZtZ3htSlluQjczdUFzaTEtemFRTk85Z1B0U2RwWTBYU0Vhb3ZlUHZVNjBSTzhLb2l6S1JhYU9QaXU5bnVJbmtf?oc=5",
+          "time": "16h ago",
+          "body": "Uddhav Thackeray speaks with Abhijeet Dipke, assures him of Opposition’s backing  ThePrint",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Uddhav Thackeray speaks with Abhijeet Dipke, assures him of Opposition’s backing ThePrint"
+            ],
+            "tldr": "Uddhav Thackeray speaks with Abhijeet Dipke, assures him of Opposition’s backing"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1785560242969",
+          "title": "Maharashtra: CM Directs Withdrawal of Cases Against NEET Protesters with permission of concerned courts - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTlobnRrRmxBWGxxM1RwV1JpX1hvS2Z0M0w1WWhDRXBaRVpfZm5XWHA1SUlLODVUVVpIYVI1YTZXQkktRFBJNUVRNDFsd0twQ1JrRWZJU3hWVmhOUnNXMkRSd0VtNzh2Q0UtRzNnejJJOXBVOVZDRDFBSlE3S09VTXZHRExHdXhEdUUzYkpWdlJ5c3diOTltNTZwbm9uM3g2aTJRYlFER2otZjNlaGJVZ0tXbTRrZHZRVXJFV25FVlJmUFdsWWlB?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra: CM Directs Withdrawal of Cases Against NEET Protesters with permission of concerned courts  News On AIR",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: CM Directs Withdrawal of Cases Against NEET Protesters with permission of concerned courts News On AIR"
+            ],
+            "tldr": "Maharashtra: CM Directs Withdrawal of Cases Against NEET Protesters with permiss"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1785560242969",
+          "title": "Express Special: Not just paper leaks, Maharashtra identifies 203 exam malpractice cases for fast-track courts - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNDRnSktYWUpMRWV2M3N4SzlOMUZoTkV0anJnZHZLVzV4cVhNbDNkb2p3V3EzcmpVb1R5aFE1OEdpMzJfWlR2MTNFZUxpWmJiQmlzWXdIbl9BYWdVbm1aOUFpM0x3SG15dEhUTExJaUJSSFQyZHNDNExfaFNKalB4TXM1QjJ2Q1NWNjZQVVlub2hXTU1NNU41UXNrSVZlZFM4SjVqNE01Xy11dVJjMmtDcHVlUWoxTzg4ZHU5bVMtNTJLMGNsU3ZsWGZFV0dxYjFqYmI1d1JpZkJlS3VISXNQVlc4T3Q5TzU1XzdzWHVPRHA5NVY4OEFfZUNB0gGAAkFVX3lxTE9qNjFrd1k3ZFlRTjBSRm4zSFBjUlg2b19CaG9Zb1EwLWpocnlaZV8wYnU1LU51VnVXdjFSZDFQVGJnUzZGVUZwbWowSThOMFU2bmN0cW9sMndKRzBlbWNGSWRfZ0xlODZ0NTBVNmNVQkFyWTh3YkZtR19mV1FtUVJlZ0luUjVWUVVSTVAyXzlnRHNyazRpWmVOQUJQQnNVYVdMZHFTN3RXMk5TRTRleEFoUW1tbklWdjc4MFZ5aDlmVVBic0VWZDFLckk2dVBGVFJaN2FteGhXbnh1NmdBVXBKd3NnUDdiU1pyaDRGc3ljYVl5MnJiUnpCd3Z0TFJJcG4?oc=5",
+          "time": "3h ago",
+          "body": "Express Special: Not just paper leaks, Maharashtra identifies 203 exam malpractice cases for fast-track courts  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Express Special: Not just paper leaks, Maharashtra identifies 203 exam malpractice cases for fast-track courts The Indian Express"
+            ],
+            "tldr": "Express Special: Not just paper leaks, Maharashtra identifies 203 exam malpracti"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1785560242969",
+          "title": "Huge Question Mark Over Judiciary, BJP is Filled With Goons: Abhijeet Dipke Says His Fight With Govt Not Over - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ0NUMlItQmVYblBySVRjdDF1aHgtU19MXzBhbWdESXdrLWJkT3NFZTQ1X0JkSXJMcjVLTEdzaElMZktQVHRnQ2dvR2VaUnl2TXR5UXVHTHpBYnBVeEdrdXNobTN2bTA4a0RHbGxIRHdoZUtUMlA2ZlRIZXFvdFY2SmxndFVGSDJxODF4VjRva0JoOUHSAaYBQVVfeXFMTUktQlBLc1F6MV9OWXlqUUhlZXRCX3Y5eV9MQ2NVdVhnLW1NZlF1VU42em1GU2NzWDZNSy01VjNpMVFhd3VMNlNKcEhfWWNVV211M1duVDJrU21sbUpfejR1bFI1aWJXQXA2RnRWTWE0Vnlsb25OVDVrbXR3UThNRFNfeHVoSGkzcFdKSzBqMHBUWjBOS3Q1clVlY2hPa3lDaGJSakpUQQ?oc=5",
+          "time": "21h ago",
+          "body": "Huge Question Mark Over Judiciary, BJP is Filled With Goons: Abhijeet Dipke Says His Fight With Govt Not Over  TheWire.in",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Huge Question Mark Over Judiciary, BJP is Filled With Goons: Abhijeet Dipke Says His Fight With Govt Not Over TheWire.in"
+            ],
+            "tldr": "Huge Question Mark Over Judiciary, BJP is Filled With Goons: Abhijeet Dipke Says"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1785560242969",
+          "title": "Auto parts maker LAPL Automotive to open IPO for public subscription on August 6 - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaDdnUnM3bWdCTkppR0NKczRzczkwcE5TTWJCbko3cGxvN2lDZUhSZUlyRnV1cF9saUUtdVhXYnRybmk5OWZReXZhb1U1Vm1tYzBobzZhWmtXckhMd0lILWxpcy1NaUhpS2ZFblhuUHlHRDJ6R0RCU09STlNXWU5jSVd4REN1cWpGZklVTXlUdW1ZYjE4eTBIdTNJN2xlSXJfVU81elBhcFFHQmJiZmNRWEJTSVFwS2ptNmtvUXZMclEyS1FPUncwYU1VTW1PdG5KVTF2b2lETEZoSjZBdWfSAd4BQVVfeXFMTmg3Z1JzN21nQk5KaUdDSnM0c3M5MHBOU01iQm5KN3BsbzdpQ2VIUmVJckZ1dXBfbGlFLXVYV2J0cm5pOTlmUXl2YW9VNVZtbWMwaG82YVprV3JITHdJSC1saXMtTWlIaUtmRW5YblB5R0QyekdEQlNPUk5TV1lOY0lXeERDdXFqRmZJVU15VHVtWWIxOHkwSHUzSTdsZUlyX1VPNXpQYXBRR0JiYmZjUVhCU0lRcEtqbTZrb1F2THJRMktRT1J3MGFNVU1tT3RuSlUxdm9pRExGaEo2QXVn?oc=5",
+          "time": "12h ago",
+          "body": "Auto parts maker LAPL Automotive to open IPO for public subscription on August 6  Moneycontrol.com",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Auto parts maker LAPL Automotive to open IPO for public subscription on August 6 Moneycontrol.com"
+            ],
+            "tldr": "Auto parts maker LAPL Automotive to open IPO for public subscription on August 6"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1785560242969",
+          "title": "LAPL Automotive IPO Opens Soon: Know All About It Here - IPO Central",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94LThwTVZFOTdtUDdJUTlzMlZBNno2VEh1LUJMTTYwVGtyazNRRWZ3T0hEbVJyX3UzZm1WOEgtb1JTQ29wbVFDR2k0RXJnQUdVclJOVFhYQUt4VUVvS1ZDWVQ5LVBZcURrdEhqUkVrWUw3M1U3QlA3aA?oc=5",
+          "time": "23h ago",
+          "body": "LAPL Automotive IPO Opens Soon: Know All About It Here  IPO Central",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "LAPL Automotive IPO Opens Soon: Know All About It Here IPO Central"
+            ],
+            "tldr": "LAPL Automotive IPO Opens Soon: Know All About It Here IPO Central"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1785560242969",
+          "title": "Forest officer held for accepting Rs 5 lakh in bribe - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0lpZXJsdW1YQ3FZSEtROWg4clo4cGN2Q3g5VmI2dFpab2l2UHc0aXVLOUFRLXIxbEloWmd3a3YwSWxlX3ZCV0VGV0RjcEJ1amhoOVJ6RFJHTFdvYjVSbi1kVXlTMER1T3dsRlliS09xbUd1R0V5NDIyeXg4YTVOT09qSVJnVFVfOWVjRmRvTG12bzNqd1UxaEpoTW8tVmFGeklTUHRaZXpDMGtOZVBaaFBZOERseU8xRUVoaW5pYWVYeTlOcnQ0aktmTFpzaDDSAc8BQVVfeXFMUF9JaWVybHVtWENxWUhLUTloOHJaOHBjdkN4OVZiNnRaWm9pdlB3NGl1SzlBUS1yMWxJaFpnd2t2MElsZV92QldFRldEY3BCdWpoaDlSekRSR0xXb2I1Um4tZFV5UzBEdU93bEZZYktPcW1HdUdFeTQyMnl4OGE1Tk9PaklSZ1RVXzllY0Zkb0xtdm8zandVMWhKaE1vLVZhRnpJU1B0WmV6QzBrTmVQWmhQWThEbHlPMUVFaGluaWFlWHk5TnJ0NGpLZkxac2gw?oc=5",
+          "time": "11h ago",
+          "body": "Forest officer held for accepting Rs 5 lakh in bribe  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Forest officer held for accepting Rs 5 lakh in bribe The Times of India"
+            ],
+            "tldr": "Forest officer held for accepting Rs 5 lakh in bribe The Times of India"
+          }
+        }
+      ]
+    }
+  }
+}
