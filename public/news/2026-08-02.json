@@ -1,0 +1,804 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T04:57:49.725Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1785646664162",
+          "title": "Withdrawal of cases in paper leak protests: Aaditya seeks clarity on Maharashtra govt notification - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSVl1SU4za1ZMU3htVS00T09CbXN2dkZxZWpFMlVGNF9BdFcyc2xIcFB6QXk0OTlWeGNLTnZOdGZBSENIcG1ta0Y1N3RzYWxlR0dkQlF0bERyQTcwMFUtSFFVcWJnU1Y4ZWpJMGVhZVp0eDNqcFpRZHlsN3BDRTVEa0lCUG1LTGRIcmxEVWgzeXp2MFBDTHhxd2NDLUJmMjhEYVhxSHJPRGxZNThfMjluY3hjMHpPS1JMYmNJck51T0hCRWhwYk5yNXF0S0szNVBtMUHSAdIBQVVfeXFMTUlZdUlOM2tWTFN4bVUtNE9PQm1zdnZGcWVqRTJVRjRfQXRXMnNsSHBQekF5NDk5VnhjS052TnRmQUhDSHBtbWtGNTd0c2FsZUdHZEJRdGxEckE3MDBVLUhRVXFiZ1NWOGVqSTBlYWVadHgzanBaUWR5bDdwQ0U1RGtJQlBtS0xkSHJsRFVoM3l6djBQQ0x4cXdjQy1CZjI4RGFYcUhyT0RsWTU4XzI5bmN4YzB6T0tSTGJjSXJOdU9IQkVocGJOcjVxdEtLMzVQbTFB?oc=5",
+          "time": "13h ago",
+          "body": "Withdrawal of cases in paper leak protests: Aaditya seeks clarity on Maharashtra govt notification  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Withdrawal of cases in paper leak protests: Aaditya seeks clarity on Maharashtra govt notification ThePrint"
+            ],
+            "tldr": "Withdrawal of cases in paper leak protests: Aaditya seeks clarity on Maharashtra"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1785646664162",
+          "title": "Aaditya Thackeray seeks Maharashtra DGP's clarity on withdrawal of cases against student protesters - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaTZUYjhBYW04UU8xVkFucHd6MHVQM3Q5X3pUNEFtUFFYNmk0S20ybElkeG8zTS1CbjVtZktnQWdsc0J5X2o5bGFjRDVESWNYYlBaSU9reVdpbnJjSDg1NTJCS2gtWGlnbHFLbnliTVZoTmdXMDBCaWlrb2s3cWctc01ZRndPdmNJb1dKLUo4azFvMDViWDdLWng0X28tLUlBQUpOMUhrc2RWUmRsMjRZRE5EeVhaTEhWc2pmYjVobHhLb2E3TndFb3N5VEs2WHRhV29CbUFrOC1RVWNlNEJCQWJ4T3ZPa2dHZHNfX0NxcmZGVXJScUhCMzlvWHlDSnNxdHfSAYcCQVVfeXFMT1FMREFqTGNUeUh2aURkOEJDUGlqWFRUaDhqX2Vvcm85RklWazNBcFdha1AxVlh6bEJrQmdJQ0wtTmx5T01BcWxvdUE1dnlNZzhoa0piZlh3cW1JWXNmYjJPVldGTF9fTnoya3cyOTRvMlp2MFV0NTBTNlRDMzhFczJjaXc0Z3hoc2ZHRF9oYnNZNkowNlJGTTVnOEt6Tm0zMGpXV3FodWFTUG1IWjBmaEtHb19zNlhzSXZlOHhxRkM4ZUFoREVNb3dTTXBYb3RTQlcyRHIxbFB6QmVpbWc5Z3FJWVcxZ1FpS0dZQUlnUGNKRHBoek4wNm5Nbm9jQklYanV1am5pcVE?oc=5",
+          "time": "12h ago",
+          "body": "Aaditya Thackeray seeks Maharashtra DGP's clarity on withdrawal of cases against student protesters  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aaditya Thackeray seeks Maharashtra DGP's clarity on withdrawal of cases against student protesters The Times of India"
+            ],
+            "tldr": "Aaditya Thackeray seeks Maharashtra DGP's clarity on withdrawal of cases against"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1785646664162",
+          "title": "Soon, Maharashtra to have platform to track ambulances, provide info on charges - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWJrX2pYVldYbmZvZHVHbE9ETmhNQW5FaGRRaW5yb1pBLUFWTW9tZEg1ZktETU5UbEVHdWxjTHhOUDB0UjktRUc2NEFwU3dkT3VNTlpXSnlxRGpyRWF4Qy1FQ1otRFVEbm5ZdVpRZzE4U0hBOUYyVkVldGVmM3dLejlrM0tJRWt4cXJ4b0FmRXFmb1dBX0ROOU1Db296SllyWnFzSDQyUnV6bUMtTFJOdGJCM3JlcEw30gG_AUFVX3lxTE9VWC02eUVVamY0ckVjSnhHWmNKOW1RcnhxTGhEbDRmcGw2dUZaeHpMZXBVMmtHZnZvR2pibFd5YmtfT3NyRnNxaHNGYmJmenNsdk9MR2x1ZldPbkpvbEM4d1J0eTVLQ0hUY3RUMHA3SDVneXhHVmdtamRKT0xJcEhSdXJWNkNJZ2gweU5xRXMtWExfcGhjRW5sT0xlZzdJY0RvYnRCSm5aQVUzOFYwZjJCNVdZRWx4YlFxRWlEbmtN?oc=5",
+          "time": "15h ago",
+          "body": "Soon, Maharashtra to have platform to track ambulances, provide info on charges  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Soon, Maharashtra to have platform to track ambulances, provide info on charges The Indian Express"
+            ],
+            "tldr": "Soon, Maharashtra to have platform to track ambulances, provide info on charges "
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1785646664162",
+          "title": "Aaditya Thackeray writes to DGP over implementation of NEET protest case withdrawal order - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYXRsQm1VWkNRcW55WVR4QzJXNE9nRndHZ2JFZVpfZlQ0a1RDc1VKNzBqRlFBbjN5OEVBaWRNd1NiYU1GUy1tajBzMXZEdFNxY1YtT0g4T0g5TEd5YmkyMzBMTG8wNXhQajBmVHViZkRucWpDZERnN0JVX2RaV2FPSTZDYlFka0pLR01EbEpYRERXRFhTelBZbzRnXzJZQWpQU05jYVg4bS1JekVNRmFxNUU3M1JSODV6MHY3UzBBcTVLRGRXVjVjZUpsM2M2aDNQajVQLWw1Sk5xZTc5ZDVsNHhLZFNKdFoyNFoyTm9TMlp4Z1R2RnfSAfsBQVVfeXFMTTJvVWgxRVNXMWhSUmRlQzlDYVYzbHVCRmNkV3c1eTZBcC1samdqcmNFYmVHWUREUVNTMnBfT09HcHlnRmlvUl9DVUw3emNCUURSbm40X2pQTkxjS3N3VTltU2JjNlVjTURNaXB2UktNVDZHdnduVy1TWDY4SnZaZzJfS2pxZG5jTGlEQnRkMHVZOWQwSG1iazhkaExTWmxsRmRLVWVQQ0Mxei1BRmZWeHBQRXozXzZ0d2IwTVU0SEp5dVBuOWUzX0hranRsMTJaVXFkUjRfN2xCS3dDcGt3bWtJZ2g2eVdaRmU1X0RYS3lhNUFSWjlsZ1RWMTA?oc=5",
+          "time": "12h ago",
+          "body": "Aaditya Thackeray writes to DGP over implementation of NEET protest case withdrawal order  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aaditya Thackeray writes to DGP over implementation of NEET protest case withdrawal order Mid-Day"
+            ],
+            "tldr": "Aaditya Thackeray writes to DGP over implementation of NEET protest case withdra"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1785646664162",
+          "title": "Rain-related incidents claim 16 lives in Maharashtra since May 24: Govt - Press Trust of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX2RaS3BodVlTVG8ydWFXczY1d2lCWG1wdzlpdXF3OXRXY25CZXIzWG5ZY2VEbHdXdHJVbVhTdjFDX2ZHTkV0dXVGYlR3Tmo3WC1CMm92ZG5qRUVpUHFILWJUVjlMNEJMNlItTEpGWnQ0Uzg3S3NEVTI4QzhYbXhVLTNERW8zbXhIZXBRSFRuQ3pyWXROaHpyMU1DenA1V1hrQlQ3S1BJUTJRLUxHaElHbGNvVkxlM0pLcDY4?oc=5",
+          "time": "8h ago",
+          "body": "Rain-related incidents claim 16 lives in Maharashtra since May 24: Govt  Press Trust of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rain-related incidents claim 16 lives in Maharashtra since May 24: Govt Press Trust of India"
+            ],
+            "tldr": "Rain-related incidents claim 16 lives in Maharashtra since May 24: Govt Press Tr"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1785646664162",
+          "title": "'If you love India, why live in Dubai?': Raj Thackeray targets Vivek Oberoi, R Madhavan - deccanherald.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYVh0VjRMOU1XaUVIRW1Xd21xa0lOTy02TXJ3Tjk4bGtuaWduWGJ6RU1kUGRtbnZTLTJubHhBNVhUbGhpR1ZxamVOZ1lFUjVldFdhNHVPSWpIUFNUT0tDZkxBbjlzTlR2WmxpRHN2b2pyWFpoR2NkVm1ZblVFX1lJQlNaT0s0WmYzLXMxRmFPVWlkWjlGV3FJNzdjSC0xb3dKN2xra2JFNjBqNll0amxFRmh0V21NaVQ2MkRRTVg0VUtyYWJ1dlN6ZV9RQWYzT0VSUUltQjhjaGZZSk1PLXJCbGdCSnM?oc=5",
+          "time": "17h ago",
+          "body": "'If you love India, why live in Dubai?': Raj Thackeray targets Vivek Oberoi, R Madhavan  deccanherald.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'If you love India, why live in Dubai?': Raj Thackeray targets Vivek Oberoi, R Madhavan deccanherald.com"
+            ],
+            "tldr": "'If you love India, why live in Dubai?': Raj Thackeray targets Vivek Oberoi, R M"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1785646664162",
+          "title": "\"If you are a patriot, then it was your duty to be present in House\": Sanjay Raut slams PM Modi - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTHNvYmRXYk01NlpTXzJFek5QUGxSVTVwWjhtdThLdzJPQURNaDdHWUFXYkNJRTBVOEktdnNTNDk1c3lzeGtORWVieHY2alZBSUVERGxZMFg1Wm5oOUhkZmVMcFV6aTdTN19aWVZmcTl3dzlTaUJhbExud3NLT0V4c0sxUHN6U21GMnhQQUNMRkl6aDd0WDlNRkV0d2dQNmc5bDR4SmRJLUF2YUFIMlNnQUV2aHhiYzJEbFNWclBRUTI1WFlLRTZXa19ENUFTNmFTcm9CaDhEY2w5M0FwYWdzRmx6N0xFdw?oc=5",
+          "time": "22h ago",
+          "body": "\"If you are a patriot, then it was your duty to be present in House\": Sanjay Raut slams PM Modi  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"If you are a patriot, then it was your duty to be present in House\": Sanjay Raut slams PM Modi ANI News"
+            ],
+            "tldr": "\"If you are a patriot, then it was your duty to be present in House\": Sanjay Rau"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1785646664162",
+          "title": "Real-time tracking, improved services key features of proposed Maharashtra Ambulance Policy | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXVmWGZibi0xYlU2LVdrRElvOUNrSGdXTWx5dmFjRXNHMTRyalBsRHNCWk1FQjJMSHA1Rnd2ekQ5Q05wOThJSE1GVjlRM0gwZzRvTXdNcGlFcFQ0cjlkY1NFcDdtSWtqZnVaYnU0OHdQa2dfVXlnaEdwQ0dhUjdsTjF5MlFZR3hsdThGSlcxZkFzRVNfTTU5bWJjNjZac2dDakJCdERIdW40M3E2Wmk0SlJxcjVkMFUtMzJVTG5wUi1EbkQzVFVSYjJFRjhlLUt0RW1IU3p5YjVqbV80YTU3ZVZmMGxFRDNGWlZTcjhnUVlwQdIB9wFBVV95cUxNUUlVRDRfVjI5VmtzVExWaHctV2l1VVRJeHZMMXcyWEptOUFSeGdWdmdNVG1NZk9YUnROaVdzVkwtNmtmWE8tVTJLRW8zc3pEc1JmVFBGZ1B2NXVBem83bnFyZ0ZxYXRVb1RIOEFjZUJoUk15bUFoV1l4Zjg1OU9VblFfdTdTaUYxNHVucVRaRVdyYzVJUHBwQkJuS0RSRktRQlVaR0lKZWhQMW5iTmc2TWhKclB0TktmZk5jVVdjdER1VzVDR0VKdkozQ003dkhDelExNzU5V3B6YUtiR3dwYmczUGotNWJZMjNvSTVGSTBodWdzRHhj?oc=5",
+          "time": "19h ago",
+          "body": "Real-time tracking, improved services key features of proposed Maharashtra Ambulance Policy | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Real-time tracking, improved services key features of proposed Maharashtra Ambulance Policy | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Real-time tracking, improved services key features of proposed Maharashtra Ambul"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1785646664139",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "10h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1785646664139",
+          "title": "Stock Market Crash: Bears Take Over D-Street As Sensex, Nifty Log Worst Weekly Fall in 4 Yrs Amid Iran-US War - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWlvX2sxQVplUC1GY1BJSmJMd0Zkc1BRempXMzRoRUhTS1VnbWQyYWdJMVJOTURadkxLa1NrM0JXN3RFQXJBTTBGcDduQ1FaU3VRQTdXSVhBY2NHbm0yNTBFS242V184R3cxNS1JQWtFcUZWUkI5ZmJ2aTdJcDdDd29vQnlucms2Z3U2dUFDQ3NEUXpWNm0xZzllUXN5TTFaeF9TR3NsbjR0Qmd5M3JCRGZZY2NlMFk3VlVlSEk0UW9uRlhBOGpab1ZSY3VxaURTamVhMVB4dw?oc=5",
+          "time": "11h ago",
+          "body": "Stock Market Crash: Bears Take Over D-Street As Sensex, Nifty Log Worst Weekly Fall in 4 Yrs Amid Iran-US War  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Crash: Bears Take Over D-Street As Sensex, Nifty Log Worst Weekly Fall in 4 Yrs Amid Iran-US War Goodreturns"
+            ],
+            "tldr": "Stock Market Crash: Bears Take Over D-Street As Sensex, Nifty Log Worst Weekly F"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1785646664139",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV01qdGVkYzBWQjk2Qjh3N19LWXlBdm1fUjV2T2kwS2JwTVZpc01FVDZ0MTkzT1haNnBrSmdtdzQ1OGp6el9ONDZxMlo5T1VacVl4Y3I2ZGRGOUxMTnBYX04yZk1lQQ?oc=5",
+          "time": "18h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1785646664140",
+          "title": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0tuT0d3S2tscVlhVTY2eHktNWY3YU03ZDhuUlNwa05YcGVpYno3VWM1bU1ldFVJTVZLNEZOTEo5NFpCT3RYZnBRTmctazdreEc5R0xiT281bUtBSGVjSTMyWWZPS2NzTXNfUUREQTVTekQ1V3ZVeTZRZDM5a3d2Y3FoQ3czeDQ0RzM4?oc=5",
+          "time": "15h ago",
+          "body": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates The Econom"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1785646664140",
+          "title": "Market weekly wrap-up: Sensex, Nifty gain over 2.5 per cent on positive global cues - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnFSV2NOUDFydHdjWmw0M0hCLXdIaVdlQ21IWDBFWHBnb2pVVHNUNDUtVV9TTlBYaU16RHA3VjVuVk9jR3FxcFpwc1lsOXp0Q3BCOFlBVVVjcGNLOGJ0b0ZUTmFOVlRyUnhXODNhQTVSVUlkQ2pPRlhDbnNhYlNIYUlYbWJhVXBXNDAybG9wS3o3S3RLNFQxVWJhZ2hpVW00N25laUZULTVWSlpIUElmTDducnA2bGZtR05fOERheko0Sk02Q2xkQzhfWXYzMU5Qc25RaW1fTHI3VEJCR0ZMYdIB4AFBVV95cUxORnFSV2NOUDFydHdjWmw0M0hCLXdIaVdlQ21IWDBFWHBnb2pVVHNUNDUtVV9TTlBYaU16RHA3VjVuVk9jR3FxcFpwc1lsOXp0Q3BCOFlBVVVjcGNLOGJ0b0ZUTmFOVlRyUnhXODNhQTVSVUlkQ2pPRlhDbnNhYlNIYUlYbWJhVXBXNDAybG9wS3o3S3RLNFQxVWJhZ2hpVW00N25laUZULTVWSlpIUElmTDducnA2bGZtR05fOERheko0Sk02Q2xkQzhfWXYzMU5Qc25RaW1fTHI3VEJCR0ZMYQ?oc=5",
+          "time": "18h ago",
+          "body": "Market weekly wrap-up: Sensex, Nifty gain over 2.5 per cent on positive global cues  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market weekly wrap-up: Sensex, Nifty gain over 2.5 per cent on positive global cues Mid-Day"
+            ],
+            "tldr": "Market weekly wrap-up: Sensex, Nifty gain over 2.5 per cent on positive global c"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1785646664140",
+          "title": "Dalal Street opens on a tightrope despite Wall Street's blockbuster night - Indiablooms",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGg5Z1NiZjI1eTZsNUVyWFVrYmE4WmZ3MDFxTkU0WHRzZmZBV0hXcklvdW4wYTV1U1huSGpjbmkzRFVSU1pXNVJDaHJuSFQxWURBS3FyV0NPUU5OOEF1MlB1S3pKNnFaT0JqT256cUNEUlFJZlZ0SXc5U1UtNWtYSjI0V3VLQWdPeWNMbFZUZDF1enNhcXJBSm5uNXhKcl8wTUlNaUQtblczZXlINWF3eWlReHMzbzA?oc=5",
+          "time": "18h ago",
+          "body": "Dalal Street opens on a tightrope despite Wall Street's blockbuster night  Indiablooms",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dalal Street opens on a tightrope despite Wall Street's blockbuster night Indiablooms"
+            ],
+            "tldr": "Dalal Street opens on a tightrope despite Wall Street's blockbuster night Indiab"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1785646664140",
+          "title": "Market Data - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOF8xZWRnSzlMMmF4ZjNKYUNPSGM2SjdqaTFRNlFPclBHLVo4QkNmZXI1T2oyYjBoVGdRR2NmQVFNNjVhZS1KQ0FvYzhYbUVmZjBKYzlCVFZFUnlxejhqNkRVc20tVjNj?oc=5",
+          "time": "19h ago",
+          "body": "Market Data - The Economic Times. Market Data  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market Data - The Economic Times.",
+              "Market Data The Economic Times"
+            ],
+            "tldr": "Market Data - The Economic Times."
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1785646664140",
+          "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
+          "time": "12h ago",
+          "body": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias Goodreturns"
+            ],
+            "tldr": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trad"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1785646664162",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "10h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1785646664162",
+          "title": "After Mumbai Pilot, Micro-Zoning for Property Rates to Reach Thane, Navi Mum - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMkpEbFZsYlBHUjVDYmpYcjZnVGhveWdUeGoycTJjajhneVJzVXV2NmRFblk2alR1VXQxeXYzdzM4eFkxZElKYW1lZDFlcFV1UlF0clpDelFMWG04OXVXM2NKWGNPcHBBdVVXNlV6eGhhRGNYQ29MUk1NOEgtaDdVeDJ3bi1MQ0RaYUJxOUdYcklOdWxyNW5XbFpYQ2VjUkg4SjlDUWt3N2NTX1NfVzBHSFdLT2VuWmQ2UHMzMnBGVkFmd3pOYVVKOUVtX2c2cWZPZ2FLM0JUbHhNdFZhTEZDbTZn0gHnAUFVX3lxTFBrZGd0TlZBQUd6U3FxbElPdkxuVmZYTnRkSk5zQ0hfSDRYMEhVdFJTdUZKWVhoNUFmdFluQnVnLUlScm9paEplTWN4RmVrdG9DMWEtQldXQ1VmMkc1d3JrRG9FUVlFTEtpZGFEdzFhUFBHTHBjTmhZd3E3RFQ2ak9fTGVsVkpXcnI2X0QtV09tSHRFeGJQR3c0bjNuSmxqemFDNUVjLWlIWnA0aHgzczBOSDJ5anJTZTNIdzF1Znl4bHd0NzdydEE3ZlBYVjJLY3Q4ejdWanpKaDc4NGtiMXBfdjRCS0E0TQ?oc=5",
+          "time": "9h ago",
+          "body": "After Mumbai Pilot, Micro-Zoning for Property Rates to Reach Thane, Navi Mum  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After Mumbai Pilot, Micro-Zoning for Property Rates to Reach Thane, Navi Mum The Times of India"
+            ],
+            "tldr": "After Mumbai Pilot, Micro-Zoning for Property Rates to Reach Thane, Navi Mum The"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1785646665435",
+          "title": "India, Rwanda identify critical minerals, healthcare, digital technologies as priority areas for trade cooperation - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdVEzQ29MQ0dyWDktWlRtX2R6dmhoWk1fOHFWMjRtNExqekxGbDZqdjExUkpkOWRlWElqWS1sUlhSN0Nlcml5Tm0zOHc5dDM4MWI2a09Fb2FBYTNhb0w1S29lX1V0WEpXb09WNXYzS0E3NzZLdWtUbkRiWXFzODZ1VU9iLUt3UnBOTTJvMFpzUjFzaG56SEVCcHh1V2xSdG0tb2R0ZTdoNXB1eGFZeFhKLUVoS1NvX0xMU1VKOWlIS1lKTGhFYmpJeDVMT3liZm1KdVBjaHYwOGc5eGRmN1NMZW1vUlFXWjdpZGk0?oc=5",
+          "time": "20h ago",
+          "body": "India, Rwanda identify critical minerals, healthcare, digital technologies as priority areas for trade cooperation  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India, Rwanda identify critical minerals, healthcare, digital technologies as priority areas for trade cooperation indiagazette.com"
+            ],
+            "tldr": "India, Rwanda identify critical minerals, healthcare, digital technologies as pr"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1785646665435",
+          "title": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczBRR2o2XzJ4WkhQWXAzalFWQ253NEtITmJiTUhJS3dTZERzN1A4MWVySWdZLXY3emVrczNMZUsxVW1XcWZieVRFUUxHVjFaSklZUFpQTS1fY2ZpakhpZXpzSzhma3ZmZU9Pazc4RVFfS0dpcV9PVWxacEptS0VFNUl6b0lPbC1FWng3NEtXeHM2ZDlkSDZHbXlBbWJkWTgyTm92dnFQYzhaQXVuQTFnMXBmSWlHUQ?oc=5",
+          "time": "19h ago",
+          "body": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Product Innovation hrtoday.in"
+            ],
+            "tldr": "FatakSecure Appoints Raushan Singh as Head of Product to Drive Next Phase of Pro"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1785646665435",
+          "title": "Maharashtra Expands ‘Vinoba’ Digital Education Platform To 45,000 Schools, Benefiting Over 31 Lakh - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUxkRjVUaG5PeVdiaVh1MWQ0NU9xOFdGU19yWjFKRHFndHllcWFTaG1ET1VQV2hvVTdaMXMzal96bUFHd1RReUxObGNFRDhWR0VaR3B1LXVpcmN1WmRtZmd0QXI0SldIQzQyR09zQUd1RVltcGtSM0N4NXEzcXhxVXY5T0VvNHhGb3dsWm8xMHh4UXNvMDNwMWdaUmlGWTBGcld1SF9pLU9xWUNoMFhiME1pdHR1ZDNRUGp0b2pxT0IyZ25YN3lGTFE2VUtFbndCOThoeVlvTGl6VE1zcE1McnZHTdIB4wFBVV95cUxQUUxkRjVUaG5PeVdiaVh1MWQ0NU9xOFdGU19yWjFKRHFndHllcWFTaG1ET1VQV2hvVTdaMXMzal96bUFHd1RReUxObGNFRDhWR0VaR3B1LXVpcmN1WmRtZmd0QXI0SldIQzQyR09zQUd1RVltcGtSM0N4NXEzcXhxVXY5T0VvNHhGb3dsWm8xMHh4UXNvMDNwMWdaUmlGWTBGcld1SF9pLU9xWUNoMFhiME1pdHR1ZDNRUGp0b2pxT0IyZ25YN3lGTFE2VUtFbndCOThoeVlvTGl6VE1zcE1McnZHTQ?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Expands ‘Vinoba’ Digital Education Platform To 45,000 Schools, Benefiting Over 31 Lakh  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Expands ‘Vinoba’ Digital Education Platform To 45,000 Schools, Benefiting Over 31 Lakh Free Press Journal"
+            ],
+            "tldr": "Maharashtra Expands ‘Vinoba’ Digital Education Platform To 45,000 Schools, Benef"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1785646665435",
+          "title": "Business News | SVF Music's Biggest Hits Arrive Exclusively on Hoopr Smash - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDRORS1LQnVRemlFM2FndExsRHRWYVdFcW1LQWZrTUkxUm15WUVLdktsMDQwOHpjdEF1MFBRbWp5dWU0ZkRpT0Zwd000dE9iUy0xbnBlMFRUcjFKRW9nS1d5LWE5bjNPMkJWSk9TcDhDZHJkLVFfVklOb2VBM21vcHRCdFFwOUtkZ0ZtNXVIbG53YjI0Q1FnTE5FXzRjR3BJdW1wZzROWmMwQVhNXzJiRzhIOTc3Um1hc1o2cThn0gHDAUFVX3lxTE1uTkFtV3NMbUw4SFZsbmxyWHYxaTZUY1ljV09yVTBYUUQ0VS1IbGZmM3d5eXJYM1NEaHRhWEdUeFlMYzhOTy1xUEgzTUM1ZDM4VkIxN01Bb25WNW1VWFl2YzlJUC11V29rb2p5TXk2bDk4V3ZrZ3FRMEkyNWZGVGZ1dEJCOERVZTlsY2xHRDVFUzVhQWJuZ3dYb2Ita01YWndXNDlpZ3pCbllydFY5UG5qdGNtZm1Yb1dIR1g0NEZveVFJQQ?oc=5",
+          "time": "17h ago",
+          "body": "Business News | SVF Music's Biggest Hits Arrive Exclusively on Hoopr Smash  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Business News | SVF Music's Biggest Hits Arrive Exclusively on Hoopr Smash LatestLY"
+            ],
+            "tldr": "Business News | SVF Music's Biggest Hits Arrive Exclusively on Hoopr Smash Lates"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1785646665504",
+          "title": "Could Hardik Pandya leave Mumbai Indians? No IPL 2027 trade talks yet, franchise says - Sportstar",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdERpNldpT1NtSTR2Z0Y4OENFSVRtR3B4OFlMLVBtZUtneWRrcTJ1dktyMnJLV0xjdVM1ZFQ3bUdib1FHM0J1Rm5LVnFiQmYtNlZLbHZRWHEtQmVmcFpWd0RlS2pTdWhVY2I0dlNZUjhuZnRaTFBhbGZyVnBBS0p5TklVd3l5aUtHQnR0TDNSV21IaF81QVdtdWMxWXN6Zk9NYjBza1puSUd5TXA0UzFXY1JRRVZuSHlqMjFtdEVwVkxtaGFvUXhZdDdaV3BidGRDbnJr0gHaAUFVX3lxTE51dzJ0eEtTU0l5ZWZRdjdJWU9LV3pvSHRMMWt1SUc5aHVRTkZXVlc5czNXRURZQ19tcXh0RDhRN1REXzQ0T1F6NmJuLVBhNWlKcnhQajlUV0dQZDhERDhVbS1YUzFHUWpiejlRN19ta0sxdWpYT1czbEo4MF8zY2NFQ25oc0dfUkhaT3pORnZxbEdnc3lma2xtUVdlbDZoeE1GS1ZmSTZVWVJwQmhscGdGOWdQSER3SWJBUFNEemFsem5KX0s3eEJKMF96VTNDTVlHTkgwcWJHaUVR?oc=5",
+          "time": "13h ago",
+          "body": "Could Hardik Pandya leave Mumbai Indians? No IPL 2027 trade talks yet, franchise says  Sportstar",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Could Hardik Pandya leave Mumbai Indians?",
+              "No IPL 2027 trade talks yet, franchise says Sportstar"
+            ],
+            "tldr": "Could Hardik Pandya leave Mumbai Indians?"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785646665504",
+          "title": "Suryakumar Yadav to follow Hardik Pandya out of MI: Mumbai Indians could make Tilak Varma next captain forcing SKY exit - Report - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTMtZERhVk9SWnl6azZ2ZkJvR0k2bEM0OWtpVlFJUnh5TnQ0MmU5aDh4QVRWOXVDd3RpUDJEY0FKNnFPZURub2pNamtOMFQyOFQ3OHg3Z2ZzUG9lS09GWExnMUpjQlBTVllyWk41UXc2UlNmeVlwSHF3Ym1RN2dFYXpVbU5meHdwN0E?oc=5",
+          "time": "15h ago",
+          "body": "Suryakumar Yadav to follow Hardik Pandya out of MI: Mumbai Indians could make Tilak Varma next captain forcing SKY exit - Report  Yahoo Sports",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Suryakumar Yadav to follow Hardik Pandya out of MI: Mumbai Indians could make Tilak Varma next captain forcing SKY exit - Report Yahoo Sports"
+            ],
+            "tldr": "Suryakumar Yadav to follow Hardik Pandya out of MI: Mumbai Indians could make Ti"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-4-1785646665504",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "12h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1785646665504",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1785646665504",
+          "title": "'Ideas are being evaluated': MI deny trade talks amid rumours of Hardik Pandya and Suryakumar Yadav leaving ahead of IPL 2027 - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZkFpT2FNMmtxRVpSaUZYMFhGbk5Lc0xpLVQ2bDlMWW9Ia3lBaFQ5SDBVc2pYcFREeXUzUEpUZ3dEbmpBTEtaWkliVm9LNkpOaVZ6Mzh2dGVON19KODI2MUlONGFBTXp2UmZhdERBNVR4X09xUnNJamJQVzcyVUMyVUZhVGM?oc=5",
+          "time": "11h ago",
+          "body": "'Ideas are being evaluated': MI deny trade talks amid rumours of Hardik Pandya and Suryakumar Yadav leaving ahead of IPL 2027  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Ideas are being evaluated': MI deny trade talks amid rumours of Hardik Pandya and Suryakumar Yadav leaving ahead of IPL 2027 Yahoo Sports"
+            ],
+            "tldr": "'Ideas are being evaluated': MI deny trade talks amid rumours of Hardik Pandya a"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1785646666681",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1785646668249",
+          "title": "IND vs SL: Warm-up match reduced from four days to three ahead of Test series",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "India's warm-up match against a Sri Lanka XI has been shortened. The practice game will now be played from August 7 to August 9. This fixture will take place at the NCC Ground in Colombo. The two-Test series against Sri Lanka begins on August 15. This series is part of the ongoing World Test Championship cycle.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's warm-up match against a Sri Lanka XI has been shortened.",
+              "This fixture will take place at the NCC Ground in Colombo.",
+              "This series is part of the ongoing World Test Championship cycle."
+            ],
+            "tldr": "India's warm-up match against a Sri Lanka XI has been shortened."
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785646668249",
+          "title": "The promise, the pain and the gold: Asmita Dey's journey to CWG history",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Asmita Dey's historic Commonwealth Games gold was shaped by far more than what happened on the judo mat. After losing her father, battling a Grade-2 ankle injury and overcoming severe financial hardship, the Tripura judoka found unwavering support in coach Yashapal Solanki, who stood by her like a father. Their emotional embrace after the final told the story of resilience, sacrifice and a dream fulfilled against overwhelming odds.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asmita Dey's historic Commonwealth Games gold was shaped by far more than what happened on the judo mat.",
+              "After losing her father, battling a Grade-2 ankle injury and overcoming severe financial hardship, the Tripura judoka found unwavering support in coach Yashapal Solanki, who stood by her like a father.",
+              "Their emotional embrace after the final told the story of resilience, sacrifice and a dream fulfilled against overwhelming odds."
+            ],
+            "tldr": "Asmita Dey's historic Commonwealth Games gold was shaped by far more than what h"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1785646668249",
+          "title": "Land mine blast survivor Soman Rana scripts golden CWG story",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "The triumph was particularly significant for Soman Rana, who was a national-level boxer before the accident abruptly ended his sporting career. He had trained alongside Vijender Singh and represented the Services Sports Control Board at 2005 Senior National Boxing Championships.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The triumph was particularly significant for Soman Rana, who was a national-level boxer before the accident abruptly ended his sporting career.",
+              "He had trained alongside Vijender Singh and represented the Services Sports Control Board at 2005 Senior National Boxing Championships."
+            ],
+            "tldr": "The triumph was particularly significant for Soman Rana, who was a national-leve"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1785646668249",
+          "title": "CWG 2026: India’s medal-heavy day delivers seven boxing golds",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "India enjoyed its best day of the 2026 Commonwealth Games, winning 16 medals to climb to fourth in the standings with 39 medals overall. A historic boxing campaign delivered seven golds and three silvers, while athletics, para athletics and judo added six more medals. India also reached the mixed 4x400m relay final and remained in contention for more success on the final day.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India enjoyed its best day of the 2026 Commonwealth Games, winning 16 medals to climb to fourth in the standings with 39 medals overall.",
+              "A historic boxing campaign delivered seven golds and three silvers, while athletics, para athletics and judo added six more medals.",
+              "India also reached the mixed 4x400m relay final and remained in contention for more success on the final day."
+            ],
+            "tldr": "India enjoyed its best day of the 2026 Commonwealth Games, winning 16 medals to "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1785646666680",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1785646666681",
+          "title": "Indian-American couple announces graduate fellowship for University of Texas students, says it's 'simply an open door'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-American philanthropists are making significant contributions to American universities this year. Anil Kochhar and his wife Marilyn paid the education loans for graduating students at North Carolina State University. Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas. This fellowship will support students with expanded resources and financial aid. The Bhatias hope their contribution will inspire future generosity among recipients.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American philanthropists are making significant contributions to American universities this year.",
+              "Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas.",
+              "The Bhatias hope their contribution will inspire future generosity among recipients."
+            ],
+            "tldr": "Indian-American philanthropists are making significant contributions to American universities this year."
+          }
+        },
+        {
+          "id": "mumbai-general-3-1785646666681",
+          "title": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]"
+            ],
+            "tldr": "'Only thing keeping me in Canada is the amount...': Redditor says getting reside"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1785646666681",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1785646666681",
+          "title": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]"
+            ],
+            "tldr": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; d"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1785646666681",
+          "title": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]"
+            ],
+            "tldr": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. ["
+          }
+        },
+        {
+          "id": "mumbai-general-7-1785646666681",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1785646666681",
+          "title": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]"
+            ],
+            "tldr": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroo"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1785646668187",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "8h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1785646668187",
+          "title": "Union Textiles Minister Shri Giriraj Singh reaffirms Government's commitment to transforming India's cotton ecosystem at the 56th Foundation Day of CCI - PIB",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52OHBnRjJCQU5GOWpIVm40Wm9pVkZsTG15cXVtU3hsQjVENXBacVlna3AzSGppcEM5UlRsVHVoYnp1SmhGNnE2d3BIQVpMV3N4eGJrU1lRZXRvaVdYVHJUMm96SGtVOE9iRElfRkYyX0RGMEFzUC1JdEJn?oc=5",
+          "time": "15h ago",
+          "body": "Union Textiles Minister Shri Giriraj Singh reaffirms Government's commitment to transforming India's cotton ecosystem at the 56th Foundation Day of CCI  PIB",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Union Textiles Minister Shri Giriraj Singh reaffirms Government's commitment to transforming India's cotton ecosystem at the 56th Foundation Day of CCI PIB"
+            ],
+            "tldr": "Union Textiles Minister Shri Giriraj Singh reaffirms Government's commitment to "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1785646668187",
+          "title": "CJP calls on PM Modi to withdraw protest cases in Maharashtra - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXVFN0RoMlVZaHBESzZXSHdSazV0N3pZbUw4bTVVOWVuUWtoSURTN1pBSkxBZ0RVTTJKY0NTNmkxQk1kTEJCSkQxUjBrY2tVQzFfVjB1YU1TZWtGU1BVdTJ1OFZDTnJQbDJMeVdxNURLd2hjczBqT2lYX2tPOV9vV3lLS3dVZmlQVHphblJURmhoa1o4T1lDSkUxaEhzLTVuX1BWdkZPM1hxNEd2?oc=5",
+          "time": "2h ago",
+          "body": "CJP calls on PM Modi to withdraw protest cases in Maharashtra  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP calls on PM Modi to withdraw protest cases in Maharashtra The News Mill"
+            ],
+            "tldr": "CJP calls on PM Modi to withdraw protest cases in Maharashtra The News Mill"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1785646668187",
+          "title": "CJP founder Abhijeet Dipke falls ill at home in Maharashtra - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmJrMlZuMDhVTW9DOUhPT1FHU0YzUWpjeklVY2l1cjVDWnpUQV9CVjRuRlBlZm5vQ29tQk5TdXBGOVJkM0VCNjlLam1UdjgwV25zaDRUNm5kWm1Oazg0VkM1aW92c3VWdEZFRkNOaUM3bk5sRmdNRGdkTzdfNUVGU0w0X3hyOVIzY3Z4dFJ5R3c3UUo3OEotOHZ5S2UwUDFxcjFNaUF6VnAxVnZDWVlZNUlpYmt3RlgzN0xnbTVMN20wQ2lmb0JxdUk3QkRrQdIBzgFBVV95cUxQTmJrMlZuMDhVTW9DOUhPT1FHU0YzUWpjeklVY2l1cjVDWnpUQV9CVjRuRlBlZm5vQ29tQk5TdXBGOVJkM0VCNjlLam1UdjgwV25zaDRUNm5kWm1Oazg0VkM1aW92c3VWdEZFRkNOaUM3bk5sRmdNRGdkTzdfNUVGU0w0X3hyOVIzY3Z4dFJ5R3c3UUo3OEotOHZ5S2UwUDFxcjFNaUF6VnAxVnZDWVlZNUlpYmt3RlgzN0xnbTVMN20wQ2lmb0JxdUk3QkRrQQ?oc=5",
+          "time": "21h ago",
+          "body": "CJP founder Abhijeet Dipke falls ill at home in Maharashtra  The New Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP founder Abhijeet Dipke falls ill at home in Maharashtra The New Indian Express"
+            ],
+            "tldr": "CJP founder Abhijeet Dipke falls ill at home in Maharashtra The New Indian Expre"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1785646668187",
+          "title": "Maharashtra to add 200 MBBS seats with NMC approval to new private medical college in Aurangabad,... - Medical Dialogues",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQem9JQ3pxell6ZzdvRHhBaGNTMmxmanRaZC1ucjNJNWR2ODNodmVNT3lyMTZqWTVwVUNPY2RHWTR5TDVYT2NtbGpRWU51SEwwV3QzUHEzQll5U0VyWExObmVVRjRFa2N6MWtKZGd6YmE3NDBpVzZFVEZCYzVhdWdlMUh4R29NRkliaVByUVZsQTJrOXJWV29TMnloeVE0VGR1R2xFZHk2V1JOUm0tOTZUU04wX1Fka01rZkYxQ0loWVRJRjhTWWo3ZkNlbzdnbzFkdEd6RkEwOGhMbU16d25uY0wtMkV1QUZrU3pYNWlkYUVRT3ZyWnlNV1JNZUVBd3pmc0J0c3RpdlJpbEQyTGM2enRjQdIBmAJBVV95cUxPYUNsRVR4U3JQbXZSSVoya0xWSkE0VEZqOHVVb28xNTZtdnp4NjhPcFdRcUdoUC01NmFHemxDZmxWazRic1N2WWtydl9ycnMxWkQyNEdnTjhGeU9JdG5vSThSQ3pLTkZDRm9oQ045aHFPOXNwaXJLSF9FeEhYZFJ5LUM5UXJPVDlMd0NTT2VaOGI4M1kzRkxPb0ZUVDFZOW5GUURiMUZ0WDNfZGxHQVJyeENZUGJQNnk5bjVTajBrb3dZejI5RDdyV3dLVmhKSWtxUHFLeTZwaVlnOEJKLWZyQV9yWjZIOElCMGxIWUU3aEpnOUppX0ZQTGVGUWxuRFhpMDZvdFVwWHRlM29Ba2FhMU9SbE81RWpH?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra to add 200 MBBS seats with NMC approval to new private medical college in Aurangabad,...  Medical Dialogues",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra to add 200 MBBS seats with NMC approval to new private medical college in Aurangabad,..."
+            ],
+            "tldr": "Maharashtra to add 200 MBBS seats with NMC approval to new private medical colle"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1785646668187",
+          "title": "CJP's Abhijeet Dipke falls ill at home in Maharashtra - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjNsZ1FZU0NuSGZSRUp4MmtuY1RIWVJQblBWMEx1VXc3OHBnMm5iV3RjeGtUb0wzaGJpWUFOUlBmXzlTOGN3LUxnZlBseGtQenNxUzZySUYxY3Rpd005SHRRamRvTks3V3hhMWs0Q29hYmFhUTI4c0hQZS1ZeVU3ZDhvWjFnNWFucTNQRGpORTR4TVlIR2VwdUR4M0RZUHpMLWxYeEVxTjBlYTlxa3ZYOTFUclg4cXMzN3hob3E1b0txN1cyUEZlc3E0TnJPdy1sNlE?oc=5",
+          "time": "21h ago",
+          "body": "CJP's Abhijeet Dipke falls ill at home in Maharashtra  Rediff",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP's Abhijeet Dipke falls ill at home in Maharashtra Rediff"
+            ],
+            "tldr": "CJP's Abhijeet Dipke falls ill at home in Maharashtra Rediff"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1785646668187",
+          "title": "'Rs 60,000 salary and US education?': Why RTI activist sought probe into Abhijeet Dipke family's finances - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVGFYMV9jLXA4cUZHbTVBSFd5Nmh6Z29FeGhKTTJlQTNBRHJQeDFacC1IUmgzZ0pKemNJblpyS0E4U3oybTlkeU1PSHE5X3ZBUFFGdlNzOEpqSVpWUEN1WUgtZjQ3SVh5SVNKZjlacjdjRGNBV3R5akI2R2ZaZ2NJeXdXWF9kX0JlTlptSDY5aHpwRUNSLXRjTjhpanA2YWQzN29mWURaUGZyY1daQWJLX0gwdWpOLVVfRjAtM0htZDk3SHVlTUI1eERWYmlKSm83Rm15a1NHQndBU1RfNlFqeFBpWXdOYTdxZmlmRWtBc2xXbUJudnEyaGFrMEo0UXdpcGpyaFRXbW3SAY4CQVVfeXFMUGM4NVF1YUJWdWg2Z0NLM0lTNUwzeFZTUFVTLUdUdXlaV1g4SllMQ0c4LVZ6ejhhUE9PTXdMWFlKY3BVaGxOTS11VGx4blBpMEoxQm1lSHN0NG9oZ3dNYXZUVy1GRE1pSUhFTnpfRjVjREZBc05NWWlZZm5pdUpNQThfTDdNaGhvSEQ5ejlmeTBBeHdZNVAxOVRaRzFhZmZnSEo0OEdTV0ZWYjJ6ZFBabjdjd25NYk1BXzlYY09iTkVGclhJbVpiYk1pbFFfeERaVTRTSEFWXzJQLWlfb1l3NHRkTmc0MVhQUVhpNHNGWlVBOVVIeHJPMWFsLVd5V0daSkYxTU9ES3B6Ty1FRC13?oc=5",
+          "time": "Just now",
+          "body": "'Rs 60,000 salary and US education?': Why RTI activist sought probe into Abhijeet Dipke family's finances  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "'Rs 60,000 salary and US education?': Why RTI activist sought probe into Abhijeet Dipke family's finances The Times of India"
+            ],
+            "tldr": "'Rs 60,000 salary and US education?': Why RTI activist sought probe into Abhijee"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1785646668187",
+          "title": "CJP founder Abhijeet Dipke falls ill in Chhatrapati Sambhajinagar, doctor advises rest - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmNET1JyLUdYbzRDeUtsazdCOUhHT3FnTDBoZnFNdjhQcmR1MkxCeFFONmJVQndTOEQzSWRyTW5pOEJSc3o1OG5WTWxxbkkxUlF6TTExb083ampPekFValAzcHFhMl9pVHkxMGY1MDZVeTh5OTgwRndJLW5lUWlYV3lZUEtVbnZoM3FXejJ3ZjIzbWRKRkxneHh5VWVnY0x1NXJUdzdRVFpsd2xvZDQ5R1BB?oc=5",
+          "time": "17h ago",
+          "body": "CJP founder Abhijeet Dipke falls ill in Chhatrapati Sambhajinagar, doctor advises rest  Telangana Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP founder Abhijeet Dipke falls ill in Chhatrapati Sambhajinagar, doctor advises rest Telangana Today"
+            ],
+            "tldr": "CJP founder Abhijeet Dipke falls ill in Chhatrapati Sambhajinagar, doctor advise"
+          }
+        }
+      ]
+    }
+  }
+}
