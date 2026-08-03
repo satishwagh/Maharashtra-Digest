@@ -1,0 +1,788 @@
+{
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T05:07:13.046Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1785733627785",
+          "title": "Maharashtra: Congress unveils action group to regain urban lost ground - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3RJRW55Z0NZZlhGOWpHa05UeDRybTlwZUs4dnVjblVaOEJJSlRkM3JYbUlXUnVheXRNT29XQ3czeVNvcjduUW4xcjZHcTJESk9uWW5oakdkZ1l5N0J1Q3BDSV9HYTZLYjdUcjRWdUttWjhiTlZUZU1MdlhwU0luSlBycUg2TnhmeFA4X0g0ZjdhejZrdUViQmt3aDJFaTY0Y1BlZHM1Z3BCck0xYXllbGR2aFp4S3ZsQklLc1hmdTQ3Z0pVMUx0T0pTVG3SAcwBQVVfeXFMTTN0SUVueWdDWWZYRjlqR2tOVHg0cm05cGVLOHZ1Y25VWjhCSUpUZDNyWG1JV1J1YXl0TU9vV0N3M3lTb3I3blFuMXI2R3EyREpPblluaGpHZGdZeTdCdUNwQ0lfR2E2S2I3VHI0VnVLbVo4Yk5WVGVNTHZYcFNJbkpQcnFINk54ZnhQOF9INGY3YXo2a3VFYkJrd2gyRWk2NGNQZWRzNWdwQnJNMWF5ZWxkdmhaeEt2bEJJS3NYZnU0N2dKVTFMdE9KU1Rt?oc=5",
+          "time": "7h ago",
+          "body": "Maharashtra: Congress unveils action group to regain urban lost ground  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Congress unveils action group to regain urban lost ground The Indian Express"
+            ],
+            "tldr": "Maharashtra: Congress unveils action group to regain urban lost ground The India"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1785733627785",
+          "title": "New project, old battles | The Hindu - Internatio­nal - pressreader.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTjBjbzI5eHZfYUFFUDlXM3gzVWp6ajk5eEZmeVpGakU1TU41b0w5bWQ4SVRhOUVCTDJ6SmtGTUJQVjlMOEF0QlY3dW1VYXBjOXhheGtQWmZKVHJENVN6NWZkb3lqWWtuZThyamhPUFZFMzJ5UEhNb2lfZkRHa2VGVG9jcXRfY1VkaGdXSTZVUDY?oc=5",
+          "time": "5h ago",
+          "body": "New project, old battles | The Hindu - Internatio­nal  pressreader.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New project, old battles | The Hindu - Internatio­nal pressreader.com"
+            ],
+            "tldr": "New project, old battles | The Hindu - Internatio­nal pressreader.com"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1785733627785",
+          "title": "Raj Thackeray takes swipe at Madhavan, Vivek Oberoi for govt praise: ‘Why live in Dubai?’ - The Federal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVEzRXFqVkZEVURKUW5HVGJieXJxR0dsckdJZFp1UGNQN0Y4V0E1WkwtTm1EU19sc3J5SzdoS1FyT2VvQkhHaVVQZlFQSjkyT1RLLUJLNmpfQlhYVVJtRVJpZzdCLWNOQk9IM0FXdTlyc2ZJTEp0T1dnbVJ6Ym5lUWxGT3BseXFwTGRTTnlMZkVrX3NFSVFzeVU1YmdtYWpBVnc2bTlObXYxVUYtMHBIODVTbjB5OTl2TjVDTw?oc=5",
+          "time": "16h ago",
+          "body": "Raj Thackeray takes swipe at Madhavan, Vivek Oberoi for govt praise: ‘Why live in Dubai?’  The Federal",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raj Thackeray takes swipe at Madhavan, Vivek Oberoi for govt praise: ‘Why live in Dubai?’ The Federal"
+            ],
+            "tldr": "Raj Thackeray takes swipe at Madhavan, Vivek Oberoi for govt praise: ‘Why live i"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1785733627785",
+          "title": "Maharashtra To Roll Out Labour Law Reforms, Rules Due By August-End - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGVCckdnbHZacnI5Z3k3Zjl2R1ZKelpyUjNELWRTaFB2TXhmd1VNU0xMOTVsNVFEakh4QzVNWEt6bVJkSS1wRktIZkdSS3M1SXNTNGZCNUNKM2tONXJpYUNpWENxSkp3WWVvRWlXWkRRSXJkUm5vcVhEdzhEUllGV1pYV0ZmVWxiU2dqTmkwUG5CU3ZieFI1OFhMRUpTQVpIcmVYLVR1ejNtMGFBQU5Ic3QtRdIBuAFBVV95cUxOUlRON0NrOXFRWG9MZ1N3Z3BlVVdpbG5KMFc4VGdyZWpnMl9HU1ZjaHctWW5CdFNVbU9NVmFiRkFEdjYyTzBCVlloRU9KampuOGR4ckI1b2tpZWpESkF4dVZMVHV2XzB6aGVtaW9RRFd2NkFTNkZWTmRtUnNlVjJTQVFNYUd6VlE5QVFWak1QNFlKX3NReTMteDFrY2pSSmhJMXhEWVNfWnUyWS1fNWhCZ3IxZWZOQ00z?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra To Roll Out Labour Law Reforms, Rules Due By August-End  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra To Roll Out Labour Law Reforms, Rules Due By August-End Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra To Roll Out Labour Law Reforms, Rules Due By August-End Deccan Chron"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1785733627785",
+          "title": "Vikas Pansare Takes Charge as Maharashtra’s New Director of Tourism - travelworldonline.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWW9GMXNqTGlJLXh5M3hQM0lOQXBCVDlsclhtbVBYc3ZUY0RMM0FHeEVTMG9zcGh2dXpocXlSSWFVNGE1OENmMG1ZX3puZXJQU08yRHJDbEVDQzduODZsTHhOemlJcU1FT3huZ3ROVW5mSkFsWE5ETmhaNFFXbDdVTm1rcDJva1l3dTBSbmhwZEtCMXowd05ubWphOEw?oc=5",
+          "time": "6h ago",
+          "body": "Vikas Pansare Takes Charge as Maharashtra’s New Director of Tourism  travelworldonline.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Vikas Pansare Takes Charge as Maharashtra’s New Director of Tourism travelworldonline.in"
+            ],
+            "tldr": "Vikas Pansare Takes Charge as Maharashtra’s New Director of Tourism travelworldo"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1785733627785",
+          "title": "Grand memorial of Chhatrapati Shivaji Maharaj to be built in Kothi Meena Bazaar, Agra, with Maharashtra Govt support - Hindusthan Samachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEUtVk9JODVXZlE4dF82bmNOQzhmc0pfLU9qdVN4MjVZNm5TeGw4TnhUMWMzVmFUNjdOQUNlTGVQZGtWYTh0VkJvUUdfaUo0YjdPUHAyTTM0NEFxVkZYa2xvVFR6TFBsMnd6Vy12Yjk3NE82cXFZay1IWFNOZHhjQ3hPblJObGJ0VkUwY0h3?oc=5",
+          "time": "21h ago",
+          "body": "Grand memorial of Chhatrapati Shivaji Maharaj to be built in Kothi Meena Bazaar, Agra, with Maharashtra Govt support  Hindusthan Samachar English",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Grand memorial of Chhatrapati Shivaji Maharaj to be built in Kothi Meena Bazaar, Agra, with Maharashtra Govt support Hindusthan Samachar English"
+            ],
+            "tldr": "Grand memorial of Chhatrapati Shivaji Maharaj to be built in Kothi Meena Bazaar,"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1785733627786",
+          "title": "'Why only private eateries?': After Bombay HC's query, FDA team reaches canteens at HC - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaFNFdWh2T3JVVGdNRW1ScFVFMnBQZ2dTcGhLUnJZTGkxN1BBeDlvM1FaLUJKMDB0dkVmX3BPaTFBdVhuYW0xMm95VTZQR0hIZ3BzNE0xby11MXpZX2Z6WEIyWi1KMWtBSlMxNVZzUy1rN3BMeG5FX2k0SS1DQUpDZ0E4VllfbndwQU9xdmJVUkNxNUR0NGt2NzJQMFJhV05RV183SG5VbDJVZGRkUnZnYUlMOEUyS3BVMlgyOW5hd0FRU0U5M3oyM3V3NmdtNmVWOUttRTN2cW1jQzBLczA0UHRfdEFNZDhJR19aa25uWGcwV2pCMGd6UUg5LUtRR08yLW9B0gGDAkFVX3lxTFBoU0V1aHZPclVUZ01FbVJwVUUycFBnZ1NwaEtScllMaTE3UEF4OW8zUVotQkowMHR2RWZfcE9pMUF1WG5hbTEyb3lVNlBHSEhncHM0TTFvLXUxellfZnpYQjJaLUoxa0FKUzE1VnNTLWs3cEx4bkVfaTRJLUNBSkNnQThWWV9ud3BBT3F2YlVSQ3E1RHQ0a3Y3MlAwUmFXTlFXXzdIblVsMlVkZGRSdmdhSUw4RTJLcFUyWDI5bmF3QVFTRTkzejIzdXc2Z202ZVY5S21FM3ZxbWNDMEtzMDRQdF90QU1kOElHX1prbm5YZzBXakIwZ3pRSDktS1FHTzItb0E?oc=5",
+          "time": "21h ago",
+          "body": "'Why only private eateries?': After Bombay HC's query, FDA team reaches canteens at HC  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Why only private eateries?': After Bombay HC's query, FDA team reaches canteens at HC The Times of India"
+            ],
+            "tldr": "'Why only private eateries?': After Bombay HC's query, FDA team reaches canteens"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1785733627786",
+          "title": "Govt aims to complete Coastal Road project by Dec 2028: Piyush Goyal - Eastern Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOG1aQW5tcXF5RW9IZFJYWDAtWWdUNXJuNzR3cTIzM0l6T3ZhSUdGM3liUzVWX0V5YnVnM1FyaEtRRlBKQ2NOcjlNNzRqSVF0TFVrTXFvWnVPdF9sZTJPVHpiRVdOU080MVJuUWgtQmMxTHhmOUVmQ2tCMVlzSERUZjdiVEFUTE5oRjU4dTJsaGpQY0cxQ1NZT19NX0hWWEpwTHhFRG1DbjM?oc=5",
+          "time": "12h ago",
+          "body": "Govt aims to complete Coastal Road project by Dec 2028: Piyush Goyal  Eastern Mirror",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Govt aims to complete Coastal Road project by Dec 2028: Piyush Goyal Eastern Mirror"
+            ],
+            "tldr": "Govt aims to complete Coastal Road project by Dec 2028: Piyush Goyal Eastern Mir"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1785733627755",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "5h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1785733627755",
+          "title": "Stock markets surge in early trade as crude oil prices drop sharply - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUxDejdXT3pBMXItVmFRWU1pd3BZSXlLRFRjM1dRWWctbTBpY0wwV05lR0Uyb2t0Y3BkTXdNR1dzczY0R2plcThRRUU2QUxXZE1rekQtbFBJSXBIQkg1SUEzMnoxWlNralNOSnVHQ1VveFJLeGdodm04V1YxNTZuZGpvN1BISDVxNk1GbzdMSGRTNC1yTzhPY0JSYW91UnRHQmxUS3ZSaWdaOHJsQVp1MkhQRFh4R0kyS2ROVnBB?oc=5",
+          "time": "Just now",
+          "body": "Stock markets surge in early trade as crude oil prices drop sharply  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets surge in early trade as crude oil prices drop sharply Deccan Herald"
+            ],
+            "tldr": "Stock markets surge in early trade as crude oil prices drop sharply Deccan Heral"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1785733627755",
+          "title": "Sensex, Nifty surge up to 1% amid easing oil prices, US-Iran tensions; ITC, IndiGo, Bajaj Finance lead - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTkxNF9aeXhFV2tGNGxoN2E0TmRwZUJkTWlWSEVxYW5zVDh2M3NXYkE5M2FPNW1jWUZkNmhLcHdlbEVfS0NZQjIxbFZkWnF2eTdNTVYxRWJ6c3RzT0cxZW1oTmhPQkFxc0FNVTBPWEFtMUVMQUNvc09tS2loMm5ibExKZ09TWkJfaFZCSFRkZy0tVVUtbGppaFdUZmxrVHZmY1ZkSU1RZ2dWTFdRWldGU3FOQ2o1QkFYOVRpajBFdWo1aHhMLWh1ZXRjdVR5ZHlQZ1BKZ0k0a9IB5AFBVV95cUxOV3V2U2FCSi0tYVZKWTlUd2RKc3V2M09CbVBEVmk1NWRYYXU5Xy13YnJ1d01SWFRKT1pFc0tkTDhmTHgyVG9YbzZLMkp2UEpwelBpMVpUVUFORmR5RmdJTFZ1NFNEVDZfbGNUSkdpUDhGVkFnVVpLaHBUbDV5T0RncTRVWm1iRXVjLTBBM3FoNDVmdEkxYnZMWnZfdmRGbVZrY2hHNm5IZF9wSm45OUVIWUNuRU1jczRoekdpVG1vbE1fcWtsMjBsRzZ4eE0zcWRrY0k4U3BFUTBiXzhDQ0tTR1FmWEI?oc=5",
+          "time": "Just now",
+          "body": "Sensex, Nifty surge up to 1% amid easing oil prices, US-Iran tensions; ITC, IndiGo, Bajaj Finance lead  Fortune India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surge up to 1% amid easing oil prices, US-Iran tensions; ITC, IndiGo, Bajaj Finance lead Fortune India"
+            ],
+            "tldr": "Sensex, Nifty surge up to 1% amid easing oil prices, US-Iran tensions; ITC, Indi"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1785733627755",
+          "title": "Today's Market: Sensex Today Trades Higher | Nifty Above 24,500 | Metal Stocks Shine - Indian Stock Market News - Equitymaster",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmhNZ0p2LXJVVHBXYjAxMFlNX0V5UFM0eVRvQlFFNWRZN0x4eEJlZVFOclZPVHpib0ROSzNQSnJ1QmU0bGExLTBWTEZMZE9lVW0xU3JJTXFrcmlCM2lfOTdNek5mR0EzUmRXRV9MaEN3ZkFReERwaGJPdlYwOG1oM3RvcUtCci1hQUZTSDRwdkRqV284Q2VmM3V2TTZrbDFaSXZGeU1TNW02MFo2ekRaXzJSb3F6TzFnNF9KTnNWRGptZw?oc=5",
+          "time": "Just now",
+          "body": "Today's Market: Sensex Today Trades Higher | Nifty Above 24,500 | Metal Stocks Shine - Indian Stock Market News  Equitymaster",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Today's Market: Sensex Today Trades Higher | Nifty Above 24,500 | Metal Stocks Shine - Indian Stock Market News Equitymaster"
+            ],
+            "tldr": "Today's Market: Sensex Today Trades Higher | Nifty Above 24,500 | Metal Stocks S"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1785733627756",
+          "title": "Markets trade higher as Nifty crosses 24,500, Sensex up 0.7% - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXdvTGQyQnVrODdxZEpBdXYwQWVrY1NvbXllT0hyRVFXVEJRWWJGekxwTzEwMFJ1Y1pXbG1Sc1I0YlZDTUFZZllOTy15V2dUelBJNjE0S0c2eVN5ajB2bGQ1bnZnbXVPbGp3RjNjbzdFT0pYVWlMSkRJWGlBX1VsbVVtdTdKRm1qcW5uT3g2RjhGamxpdXAwQnNkejZYclVoVDBodUtEMFVnODTSAbIBQVVfeXFMT2RzcU1lZEpxeDNUejIzTmdyWGt2VUVDSWItUFluOTE5aUp4U0xrTVV3WjR1RFBJMFB0dUVraUgxRmpJRUIyX2d4T2NXUExYNnR2QUJXWkRoejhvb1NyNkV4di1RMDZhY0luMmxxYjNDU3ZoVXVnNzdkTGlJR0g0dTRHRVNYUTdNN1N4NHNWQ19mTWcxRkQyNnFEbTNKeEF4YVd1THE1Tmx5NG40azlsdVVIZw?oc=5",
+          "time": "Just now",
+          "body": "Markets trade higher as Nifty crosses 24,500, Sensex up 0.7%  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets trade higher as Nifty crosses 24,500, Sensex up 0.7% The Indian Express"
+            ],
+            "tldr": "Markets trade higher as Nifty crosses 24,500, Sensex up 0.7% The Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1785733627756",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV01qdGVkYzBWQjk2Qjh3N19LWXlBdm1fUjV2T2kwS2JwTVZpc01FVDZ0MTkzT1haNnBrSmdtdzQ1OGp6el9ONDZxMlo5T1VacVl4Y3I2ZGRGOUxMTnBYX04yZk1lQQ?oc=5",
+          "time": "6h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1785733627756",
+          "title": "SENSEX surges over 500 points, NIFTY50 above 24,500 as drop in crude oil spurs positive sentiment - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQUhjM2JCbWhmNXhyN2RuanlHY0M5Um1qekFNd2drWVdvclNFdFlNT25NZmRaeUpOU0lNZ003dWphSHBHTFUwLVM0MnZWTll1eVl6VWxsRFdNMXNuT2ZoeGJxZ1R4aEZpYlpaSkpETTNmaGxSMzJmZlloaS00Y2UzWG12SE9Rbk5aalNyMHg2RTU3MEhrMERfbFB5YVFjZDVZSUpqczEwaTc0MFZnWU9OVGtFdzBnVEw5N3ltTllDQUFLdnh3LUtaZWxHUi0yeDBkaTZDLXgyaXRxNER0aUoyMGxzWkFZNEJkYmpjZg?oc=5",
+          "time": "1h ago",
+          "body": "SENSEX surges over 500 points, NIFTY50 above 24,500 as drop in crude oil spurs positive sentiment  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SENSEX surges over 500 points, NIFTY50 above 24,500 as drop in crude oil spurs positive sentiment Upstox"
+            ],
+            "tldr": "SENSEX surges over 500 points, NIFTY50 above 24,500 as drop in crude oil spurs p"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1785733627756",
+          "title": "Stock market today: Gift Nifty hints a gap-up start; seven day trading stocks to buy on Monday, 3 August - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUNzOVI5QWxaTlFyQUowODM5YzliV1RvaDdxd09pdGlLQjhzcmpkY053MTdBZldwdnQ3WWhpX0hadEsxa3hBdkI4TmVsN1BCUjFBX2FQRWV6VHNkN001NndFQjdjamx2TjY0RjJ0ekxjS0dZYTFnWUhrMUFjVmlNMG1qVk4wQjJSbHVkTV9WYzdTOXB1WkZibzdjWDQ3b3lFaC1OV2RDeVA2OVpBZVBqOEVRNGhoaV9pRWZoZzJXSXNYVnN0N2I2NVBtd2VSWXlvNlNBMm5obFNHbmRpS2phbnBGZ2lFRDRaalplR0Rpdk9yVFVHZFcyQUpDWkVKYndh0gGGAkFVX3lxTE0zbHdIR0ZiMW1RQ1pLQlF1THh4LTBnVmVUcXdGaWowd25KbjRweGR1d2ZvUklDNW9DUmdPRU9HOWRrRXpTOHRzbnBRUkFUN25JYVFIbzk1WHp1amhNSjhxTVFJUzY0bkNMOUlkcXpjYm5oSDh0WHpGOXhKUWViaW1ONU5HVExGMlpod0l2WXhEVUtmSk5QVjBJeWlzeXhPZ2M5MU5OeGgybzN0enltaUJxeUl1R2pOUVJPa1NKbHdsX21wdUJXQy1oM0dyVzlFR2dFNHZKbmxkYVp3cHJJb0g5NkhlbjRBLWlxN2MtSGRMaGVKSWhScTRSUHc5Q0N5dzRUVDZPaXc?oc=5",
+          "time": "2h ago",
+          "body": "Stock market today: Gift Nifty hints a gap-up start; seven day trading stocks to buy on Monday, 3 August  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market today: Gift Nifty hints a gap-up start; seven day trading stocks to buy on Monday, 3 August livemint.com"
+            ],
+            "tldr": "Stock market today: Gift Nifty hints a gap-up start; seven day trading stocks to"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1785733627785",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "9h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1785733627785",
+          "title": "930,000 farmers to begin getting loan waiver benefit from Tuesday | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN095WmRJNllyTzJkNmpkQnlBdUVvb1QzTjRjYlhTaDhxd081d21ORWJFSVdLTlVMeDdRY2kxeFVCUmhkUVlRNERxZnBEWGp4ODNsZVN4V0syY2NrOW9DUS1Ha3BCT1hBQjljV3FCNVc3SE5SeUZQRXNmOW9EZWxtVnJwbl93YnV5Q1JBeTFzMnl3MVZHZHcycmVzYV90QVV4SjJnRnVpU3BwR1REMWQ5TTJ0RDczZDlwSFAtYVVNd1FiRGVUNTNPWFlDUnVpY0xvaTNrODln0gHWAUFVX3lxTFA3T3laZEk2WXJPMmQ2amRCeUF1RW9vVDNONGNiWFNoOHF3TzV3bU5FYkVJV0tOVUx4N1FjaTF4VUJSaGRRWVE0RHFmcERYang4M2xlU3hXSzJjY2s5b0NRLUdrcEJPWEFCOWNXcUI1VzdITlJ5RlBFc2Y5b0RlbG1WcnBuX3didXlDUkF5MXMyeXcxVkdkdzJyZXNhX3RBVXhKMmdGdWlTcHBHVEQxZDlNMnRENzNkOXBIUC1hVU13UWJEZVQ1M09YWUNSdWljTG9pM2s4OWc?oc=5",
+          "time": "1h ago",
+          "body": "930,000 farmers to begin getting loan waiver benefit from Tuesday | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "930,000 farmers to begin getting loan waiver benefit from Tuesday | Mumbai news Hindustan Times"
+            ],
+            "tldr": "930,000 farmers to begin getting loan waiver benefit from Tuesday | Mumbai news "
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1785733629147",
+          "title": "Arjun Tendulkar makes IPL debut for Mumbai Indians - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3pOTVQwUmtkVVpBUXlrVUZFbl9yMllFaGhkakRaMXk0cy1uZzYzZzREQjhFUzhNMnJvTG9YU1lhYkpKbGhSYldfRjRQRGxYM3lHZU9qSVZRTmwzUElkVnZ1bGVWLVVpQTNFYWpJWWcxRkxIWldlSnc1Tm5zYmVoNkhsc3RsSHl0Wi1V?oc=5",
+          "time": "4h ago",
+          "body": "Arjun Tendulkar makes IPL debut for Mumbai Indians  The News Mill",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Arjun Tendulkar makes IPL debut for Mumbai Indians The News Mill"
+            ],
+            "tldr": "Arjun Tendulkar makes IPL debut for Mumbai Indians The News Mill"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1785733629147",
+          "title": "Mumbai Indians issue major update on Hardik Pandya amid trade rumours: Report - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMU9sZzBieVVtSVdQMlhpZnZBNndtSEt0UThMUENOcjN2TTU4RlBfMTlwa2VVVFNiT1g3VUtGYlhnSXo1TElPbkw2eWc2NWFvZ05ZN0NvbHkwNU9XNjVwdmhJODhqMHcxVzBQaWlsRDNaUTQwU0lGR1dnb2xUdXB2ZlVYTGtiVTJ4UF9VeWpVNTI0SjFBd1RvendpNWxvMDItcmY2SGVkdUlDdFA2WHdhY19hSkFqbFFhRUx6TXFSLXF4MHVYUWpHVFVlYUNpRDRNZTlnTXpibWJ0Y0JyZXo1T09seTnSAeQBQVVfeXFMUDFPbGcwYnlVbUlXUDJYaWZ2QTZ3bUhLdFE4TFBDTnIzdk01OEZQXzE5cGtlVVRTYk9YN1VLRmJYZ0l6NUxJT25MNnlnNjVhb2dOWTdDb2x5MDVPVzY1cHZoSTg4ajB3MVcwUGlpbEQzWlE0MFNJRkdXZ29sVHVwdmZVWExrYlUyeFBfVXlqVTUyNEoxQXdUb3p3aTVsbzAyLXJmNkhlZHVJQ3RQNlh3YWNfYUpBamxRYUVMek1xUi1xeDB1WFFqR1RVZWFDaUQ0TWU5Z016Ym1idGNCcmV6NU9PbHk5?oc=5",
+          "time": "18h ago",
+          "body": "Mumbai Indians issue major update on Hardik Pandya amid trade rumours: Report  Moneycontrol.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians issue major update on Hardik Pandya amid trade rumours: Report Moneycontrol.com"
+            ],
+            "tldr": "Mumbai Indians issue major update on Hardik Pandya amid trade rumours: Report Mo"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1785733630319",
+          "title": "Hyderabad techie killed in US road accident days before India trip",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Hyderabad techie killed in US road accident days before India trip. [object Object]",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hyderabad techie killed in US road accident days before India trip. [object Object]"
+            ],
+            "tldr": "Hyderabad techie killed in US road accident days before India trip. [object Obje"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1785733631380",
+          "title": "Another review on the cards? More changes likely in India's backroom staff after the Sri Lanka Tests",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "India's injury crisis shows no signs of easing. Jasprit Bumrah will miss both Sri Lanka Tests, joining Harshit Rana, Nitish Kumar Reddy and Washington Sundar on the sidelines, while Sai Sudharsan awaits fitness clearance. With key players breaking down repeatedly, the BCCI is likely to part ways with head physiotherapist Kamlesh Jain and team doctor Dr Rizwan Khan.",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's injury crisis shows no signs of easing.",
+              "Jasprit Bumrah will miss both Sri Lanka Tests, joining Harshit Rana, Nitish Kumar Reddy and Washington Sundar on the sidelines, while Sai Sudharsan awaits fitness clearance.",
+              "With key players breaking down repeatedly, the BCCI is likely to part ways with head physiotherapist Kamlesh Jain and team doctor Dr Rizwan Khan."
+            ],
+            "tldr": "India's injury crisis shows no signs of easing."
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1785733631381",
+          "title": "After historic CWG gold, Mirabai Chanu declares Asian Games 'make-or-break'",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "For the 32-year-old, the celebrations are over. The focus has shifted completely to the one medal that has remained painfully out of reach throughout her glittering career — an Asian Games podium finish.",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "For the 32-year-old, the celebrations are over.",
+              "The focus has shifted completely to the one medal that has remained painfully out of reach throughout her glittering career — an Asian Games podium finish."
+            ],
+            "tldr": "For the 32-year-old, the celebrations are over."
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1785733629146",
+          "title": "IPL 2026: Dates, format, fixtures and team details - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "8h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details  DD News"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details  DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785733629147",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "16h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1785733629147",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "11h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1785733629147",
+          "title": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemxYcTdhZGFnUW5OQkd6YnBlQUdaY2E3OU43YjVZbG5abVhSajUzbXk0MmJPWE9WUTlKLS1yamM3V3VLWEZlUEYyaHNZSmNmRWFlN1pfek9abENzX3hFWl9yQVBWdmVDYU5fOXBadThxSTFPYXhJUXdDVndoOUxYWUhaaw?oc=5",
+          "time": "9h ago",
+          "body": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+            ],
+            "tldr": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1785733630320",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1785733631380",
+          "title": "Auqib Nabi replaces Jasprit Bumrah in India Test squad for Sri Lanka series",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Auqib Nabi claimed 104 wickets across the last two Ranji Trophy seasons, including 60 wickets in the 2025-26 campaign, playing a pivotal role in Jammu and Kashmir's maiden Ranji Trophy triumph. He was also part of the India A squad that toured Sri Lanka recently, where he claimed six wickets in two first-class matches.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auqib Nabi claimed 104 wickets across the last two Ranji Trophy seasons, including 60 wickets in the 2025-26 campaign, playing a pivotal role in Jammu and Kashmir's maiden Ranji Trophy triumph.",
+              "He was also part of the India A squad that toured Sri Lanka recently, where he claimed six wickets in two first-class matches."
+            ],
+            "tldr": "Auqib Nabi claimed 104 wickets across the last two Ranji Trophy seasons, includi"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1785733631381",
+          "title": "Over to Ahmedabad! Neeraj Chopra receives CWG flag as 2030 countdown begins",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting rights for 2030. India finished fourth in the medal standings with 39 medals. The closing ceremony showcased India's culture and aspirations for Ahmedabad. Olympic champion Neeraj Chopra and PT Usha accepted the ceremonial baton. Ahmedabad will host the centenary Commonwealth Games in four years.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting rights for 2030.",
+              "Olympic champion Neeraj Chopra and PT Usha accepted the ceremonial baton.",
+              "Ahmedabad will host the centenary Commonwealth Games in four years."
+            ],
+            "tldr": "Glasgow hosted the 2026 Commonwealth Games, concluding with India receiving the hosting…"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1785733631381",
+          "title": "'Overwhelmed by the love': Rahane thanks fans after retirement announcement",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Ajinkya Rahane expressed gratitude for fan support following his international cricket retirement.  He received numerous messages and tributes from the cricketing fraternity.  Virat Kohli praised Rahane as his favorite Test batting partner.  Sachin Tendulkar recalled Rahane's dedication and composure during his career.  Rahane's leadership during India's 2020-21 Australia Test series win was highlighted.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ajinkya Rahane expressed gratitude for fan support following his international cricket retirement.",
+              "He received numerous messages and tributes from the cricketing fraternity.",
+              "Rahane's leadership during India's 2020-21 Australia Test series win was highlighted."
+            ],
+            "tldr": "Ajinkya Rahane expressed gratitude for fan support following his international cricket retirement."
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1785733630319",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1785733630319",
+          "title": "Indian-American couple announces graduate fellowship for University of Texas students, says it's 'simply an open door'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian-American philanthropists are making significant contributions to American universities this year. Anil Kochhar and his wife Marilyn paid the education loans for graduating students at North Carolina State University. Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas. This fellowship will support students with expanded resources and financial aid. The Bhatias hope their contribution will inspire future generosity among recipients.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American philanthropists are making significant contributions to American universities this year.",
+              "Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas.",
+              "The Bhatias hope their contribution will inspire future generosity among recipients."
+            ],
+            "tldr": "Indian-American philanthropists are making significant contributions to American universities this year."
+          }
+        },
+        {
+          "id": "mumbai-general-3-1785733630319",
+          "title": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]"
+            ],
+            "tldr": "'Only thing keeping me in Canada is the amount...': Redditor says getting reside"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1785733630319",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1785733630319",
+          "title": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]"
+            ],
+            "tldr": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; d"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1785733630319",
+          "title": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]"
+            ],
+            "tldr": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. ["
+          }
+        },
+        {
+          "id": "mumbai-general-7-1785733630319",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1785733630320",
+          "title": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroom recordings, will be registered as a sex offender for 15 years. [object Object]"
+            ],
+            "tldr": "Indian-origin doctor sentenced to jail for six months in Ohio for secret bathroo"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1785733631635",
+          "title": "After NEET protest win, CJP to chart next move at key Maharashtra meeting - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdE9QNW81TE5qZU94a3F3bFFWTzhPYU9aS0JkM2ZXR3JFbS1SWng5Z3ZzZktmR0pDTzhGX2JtNFV2UTZOazZ3cEZUUkM4cVY5cW5NVG1JbXRHcGZFcnhYTEtJVUt6R0ZYM1l6RGZEMndrcTlUNnpnc2xmd2VmaDNZQnJpU3JqNTFneDN2am9ObXI3MUE0ODR0YTJCaG02d3ZVOExmU1BEYmg4aUxNbGQwMFp4aTRnaUt5OC1WSDZsWDU2M04tZVVTa1lGQ3dQQdIB0wFBVV95cUxQYW5RLWxQWktUTmwzZDFsUGRkeVRRWldlN3RNZE5QRGtaaXptWXdBVFNFRWJvNkVkZVRKeFB3TGJtVUljaGsyQllRdHRYQWlOakt2NGZLZE56MGZYR1RVaVpZWnNoN29JamdROFd1eW9Ua1F2NUZCRmI3clNBcnJENno3dzkwc2VCcUN4TW1WRFNxNGpPWmIyWU11cEt2cFFuVF9LS1M4a25zQTk1V0Z1akZma0ZZSkktYWJGdzBPMEdraEk2aW9QTUp2MWE1eEFpek40?oc=5",
+          "time": "2h ago",
+          "body": "After NEET protest win, CJP to chart next move at key Maharashtra meeting  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "After NEET protest win, CJP to chart next move at key Maharashtra meeting Mid-Day"
+            ],
+            "tldr": "After NEET protest win, CJP to chart next move at key Maharashtra meeting Mid-Da"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1785733631636",
+          "title": "CJP top brass to meet in Chhatrapati Sambhajinagar on August 5 to decide future strategy - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeHBYUmZscWRKNEVTWWtyTnppazNkLWVUQmQybnN4em56MTd1MU9TaWVBYkJ4XzlUelc2b2RXYk5ieUk4Z1JmWUVIWk1nREVnNnZDNDl1dTJBMHZXUm9Hd0U3X0JYUG85Y3dtNk56elN4VVFVRndlQXRZNmVKUFhhZGhPRFV1eVZtQTBZZ0lpa3pOVVgyUG45ZDdQRUVVOXFrd0xQZW9SMmlXcGdNX0hWYVFLRmhTNUdJVHZ1ODI2V3NMb1dobEdJWjJ4VVItTG42UkJZQzdZVlVnUWs?oc=5",
+          "time": "16h ago",
+          "body": "CJP top brass to meet in Chhatrapati Sambhajinagar on August 5 to decide future strategy  Deccan Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP top brass to meet in Chhatrapati Sambhajinagar on August 5 to decide future strategy Deccan Herald"
+            ],
+            "tldr": "CJP top brass to meet in Chhatrapati Sambhajinagar on August 5 to decide future "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1785733631636",
+          "title": "Maharashtra: CJP Founder Abhijeet Dipke Celebrates 'Friendship Day' With Youth, Promising To Stand With Them - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUkwbDNkUlduQ043a3NoYndad2hkbE5OY1BaM2Vhd19RbTFUTHBpZGRxUC1WYzRlM3hYUUJOdkVoTVQ2M0hJejR2c2d6MGtFbURJZHAyRUFBTmRlVzJmMV9nR0Vfc3Z0ZGtKQV9CMHV1RkFORE02ZW1vZGpMSG96b0VCcmtrZGQ2N0I4SXVGbHFyV0tVNTFoUTM2dUhHMjN4Nm1BS21heWhicWhkTkdTMU9hRmxhUHpELXJrbWM1ZnJkOUhFVk9ub0JBSjlpN3ROaTZ4NUsxQnpTTzBfN2lPS1EwYW8xS1FvaUHSAe8BQVVfeXFMTUNTejNJdW9HZVBTdW1oanhnQUlXM2wyaDBCT0djcS1PU1lwNFVUTzg3WlZ6R25KbmV1RFFwb3ZRRU1vRFc4eUczYWYweS1mSXZCenB5anpuRkdWeXpYbjdmWHl1UWx3ajk2OEIzX3RkUVdCQVFkczgtaVRfSzZxaXFwajg2bUVGUFE2QTZmZGJLWnRGaGNKN3pFZlNHbkdLd1NqSWRMNVdobXlMUFFIeDNqVG93VzFZVi1lWC1aN2oyc2FkSWtsMkR1endoaVBBYVVERV81Sm1LcnQyNGhWUGN0aFR1UzdGSmljVGhEMVE?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra: CJP Founder Abhijeet Dipke Celebrates 'Friendship Day' With Youth, Promising To Stand With Them  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: CJP Founder Abhijeet Dipke Celebrates 'Friendship Day' With Youth, Promising To Stand With Them ETV Bharat"
+            ],
+            "tldr": "Maharashtra: CJP Founder Abhijeet Dipke Celebrates 'Friendship Day' With Youth, "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1785733631636",
+          "title": "CJP's core members to meet in Chhatrapati Sambhajinagar on August 5 to chart future course - Udayavani",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDNNVEZRcHFDLTBNc3lSeVFEUy1lSkRydk5JTGJQRGFpMEpKU2h0ZTdKRjNWajJuczZRaC12ZjBmd3oyemdPd25pVGNmSS13dEdSUmhTRXdWRlJvNzlCb0FULXU4bmNmWTVRem5XUFNHOWFFWWF6V3VPQUZBTFc2NmhTU2hmMjBmQUktT05NWDh5RFFybkI0aUNRaDM3d0xSMjBPdEREQ1JPVkMwSTU3UVJNSUV2MDhvaTdxbGo1TGxabkxCU05zWmVMTURieFRB?oc=5",
+          "time": "15h ago",
+          "body": "CJP's core members to meet in Chhatrapati Sambhajinagar on August 5 to chart future course  Udayavani",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP's core members to meet in Chhatrapati Sambhajinagar on August 5 to chart future course Udayavani"
+            ],
+            "tldr": "CJP's core members to meet in Chhatrapati Sambhajinagar on August 5 to chart fut"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1785733631636",
+          "title": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmE2UkVoa19zWHJXZjFORXZNTnAwWkdIeW93SnpTdERlWVZSOFQ5V3hCbV8yY2YzcXFfY2w5M0xjWjJPaU1fZG16Sk5UUlFVdnlLbmhxc2FvSHYybWNId29Ga2tuZEx5UjJ6cVduUGhxUXhXUGJDYXhDd0NkYWY1ank1S0doeW1zSzJHZlFaY2U5dkI0ZHNneHRVcUNKdTVGOHBJbzJfalhNUmtxTzNvcGxud2ViYmc?oc=5",
+          "time": "9h ago",
+          "body": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day  DD News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day DD News"
+            ],
+            "tldr": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Fo"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1785733631636",
+          "title": "What is CJP's next move? Core members to meet in Chhatrapati Sambhajinagar on Aug 5 to chart future cours - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdkw0ZU5teUdlYWl3UG5KZW13RzE2Mk5XRUhiSGgyUnhiQ3hvUTk0aExxRi11R29CU1FfSDNPekNfSWFXR1ZLdG5hREM3Tm1LM3NGdDBNX0RUU3MxTDZidTlGQVdaaFlOVGVrRTA0Z25FM0F4Y1V5dzBfRTJUcm1KQmxKQmFoWVRYX0lIRTc2ZVl6R3IwSjVxMEMyR0JIb2hoSHBBVWRjdVdWNWFKZVFSSHdnaUFhOXZlSGlmc2pKYUxNdDJIOTNxRFAxdGh4R0c3eVIwVGJrYTRSSWFXY3FDM1JyVTMxM1I0RGU0dWJhZldsTnBCQmJndG1ZYm5jcUxMbVB4VXNQNkhGaWFmaWZz0gGUAkFVX3lxTE1vOXc0dWZibWRTUUJPV2xDTDVJY2pZUF9FTV9Kc25KeE5xbXZnaWVfYnlFd29tVDRZS1h4bHROZ0FUV2U1cldqSUF6QWE1MFZWM2d0UmJEWWc1LUFHam9DOEhGUUJ1UjA3YTJOTHU2RC13RUpTRUZpS2F5ZkdMT3FXcHZTMnV1eGgtTEhhNVNLYjZqTmtPeWlMMjlnVlBYR1BTcElrYVk0LU5GR2NtOTh4MFVfUVNsM1hEaXVKUkJJaERKNUFjYUVvSjc4VU16U19WSnc5UkY1anlDZEhVaW14QkJVUE15WTJjNl8xNXVFdmxSdnlZbXdkNXhabmZ0SHhydXdTY3ppLXBEZXp2R3RWZTdOcQ?oc=5",
+          "time": "18h ago",
+          "body": "What is CJP's next move? Core members to meet in Chhatrapati Sambhajinagar on Aug 5 to chart future cours  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "What is CJP's next move?",
+              "Core members to meet in Chhatrapati Sambhajinagar on Aug 5 to chart future cours The Times of India"
+            ],
+            "tldr": "What is CJP's next move?"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1785733631636",
+          "title": "RSS leader terms CJP protest ‘anti-national’, urges case study: ‘Decode the chronology’ - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQODc3ek5sVkc3UndqTlNBS2VyOTlHbWZKMDRkV3lES1R2NTRDSnlmUHdBLUlDUU16Y1JodTI1aFFDOWVtV21NdjQ0Q0pVenZiSlhZMlRUX1RDREhLbG1xcHduVUVUWEZYdTdUVjAwRV85OGotMVQwWlBkaWFIa2p2ZVZocVgxNTAyLS01TktYTXZiLVdwbEJfWFp1SWI2SWZVM3Y3Q0VNNUtBU2xTaHZSVnZHZ29pUzJ2NlZwZ3MtenXSAccBQVVfeXFMTWZPRUFjajVBLVdYMTQwbWZ4ZnNoVV9MVTN6bG90b0hMM2RkSXNEdldyakszbVlkXzI3S19UV2lNdVBBOGFWbmZuUEdFelZFV2pWREEyUl95eGRrZVF4cXA4S2RmdUxvRWxrOFVZTktkcWVreFk2WmVpZHIyLW00dUgycnBuT3d2dXUxaWx4OVpRTEJmQ0ZZMllCTjlSTmE0elprNzFsOGJjcGJCN3hYTWgzUnNsbFQwUlBSMjVKMFdQN2QzUXdaTQ?oc=5",
+          "time": "7h ago",
+          "body": "RSS leader terms CJP protest ‘anti-national’, urges case study: ‘Decode the chronology’  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "RSS leader terms CJP protest ‘anti-national’, urges case study: ‘Decode the chronology’ The Indian Express"
+            ],
+            "tldr": "RSS leader terms CJP protest ‘anti-national’, urges case study: ‘Decode the chro"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1785733631636",
+          "title": "Toddler Dies After Falling Into Pot Of Boiling Curry at Home In Maharashtra - ABP Live English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdzhCMExxdHdGUTdYTDBwbkNNQXdwdXpJM05Pd3YtSy0tdklzN2s3bmZtclRXVmJ6a0NvY3ptY2JnZXUwVUtXeHN2STl1UU1fRzBkRFF5Y2k2REVQRDhoczVIQlA0RmpjVEEtTFBlWm9oSVZBTnUyejl5TUFzX2EtS2I0VnA5MU5qd2lsZmxpcFZWYTJ4UGVrUzRfNHRUX1FsUHJWbTBQRHprVmZKVDVsRFJwQXBiOFk1cGRMcmlJd2pLQW1HTktTZVpyaENkelI5ZV9aQUFubXh4UG_SAeABQVVfeXFMTVYxekVRTk5KVElVeUVqYUxCRTVCYURxLW8zckVFV1ZCMzNrNFpkcEpPTEZ1c3NrakQ4TFVLdjl1NzZlNWJhOG5KVE1Ia0lnci01MVQtdU1qdFFSRkFhN2VORENTdmk1ejItZjI2OGx3NVZIQllmRF9BVzR2Uzh0c050ZWlKZ1BBbDU1eS1FSS0tenhoODhSRm5HMmhPSXpwVk8tZTlFZU5vS0tva25pT2d5QU1CUkc4TmZxVVBzem1LdkhkVExpdmRyNE5ENVRGcnNfSF9ucTdLak83SmYycU8?oc=5",
+          "time": "1h ago",
+          "body": "Toddler Dies After Falling Into Pot Of Boiling Curry at Home In Maharashtra  ABP Live English",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Toddler Dies After Falling Into Pot Of Boiling Curry at Home In Maharashtra ABP Live English"
+            ],
+            "tldr": "Toddler Dies After Falling Into Pot Of Boiling Curry at Home In Maharashtra ABP "
+          }
+        }
+      ]
+    }
+  }
+}
