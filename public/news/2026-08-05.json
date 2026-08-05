@@ -1,0 +1,796 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T04:46:16.925Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1785905171695",
+          "title": "Maharashtra Cabinet Approves Unified Electricity Billing System for Government Offices in Mumbai - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnhyTU0xODRiZkFLelQzc25UalU5UEdXZ3JVNThzdzdIX3hjNUZHUEQ2WE14d3JvdUJPSkJCM2ZyMnVFTkJmcHpDTzBUQTlOd2Zkem5oN1oxTUF0NXVsLVZpaDBBQlBNZWFCVFdhZk5mVHVEdktIQXNMdUw0YUVqMkVZeTJpTlg3ejJxNk5yQmZMZk5pQ0x2Y2lwdGFZWjVNSGI0RDJsd3JKSDRvTHpRUVJtNUdPcHVFa1dYRHliN2U0OVBNeFhHNk15WDdGLVR2VE14atIB1AFBVV95cUxOVnhyTU0xODRiZkFLelQzc25UalU5UEdXZ3JVNThzdzdIX3hjNUZHUEQ2WE14d3JvdUJPSkJCM2ZyMnVFTkJmcHpDTzBUQTlOd2Zkem5oN1oxTUF0NXVsLVZpaDBBQlBNZWFCVFdhZk5mVHVEdktIQXNMdUw0YUVqMkVZeTJpTlg3ejJxNk5yQmZMZk5pQ0x2Y2lwdGFZWjVNSGI0RDJsd3JKSDRvTHpRUVJtNUdPcHVFa1dYRHliN2U0OVBNeFhHNk15WDdGLVR2VE14ag?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra Cabinet Approves Unified Electricity Billing System for Government Offices in Mumbai  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Cabinet Approves Unified Electricity Billing System for Government Offices in Mumbai Marksmen Daily"
+            ],
+            "tldr": "Maharashtra Cabinet Approves Unified Electricity Billing System for Government O"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1785905171695",
+          "title": "BJP MLC urges govt to fast-track protection for wetlands, mangroves in Navi Mumbai - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcU56ZHhxOUJlalpuQ2dWZzd1WkJFdy1GUU1QUmdLMDU1alRaN0ZxaWxlWkFLelYzT1VQZkZYMnFreWRtU3hXakRwUUhKQUZMVzItbHJZX3ZRVjVrN0tCa202T0JSM0ZnUVB1ZGY2YkJDWkhkRWFkYTdZZTlxbzM1QkFCakRHX1MxZ2tFU2tGd1NpMGdydk9GYld2V1JWUk1UM3RmYWlWVU5LTFE0T2xncmViQlloSGPSAbwBQVVfeXFMT2g0dU02aU9FMGY5NHpjREtUdmpPMk1NY2g5aXpCTkZqcU43Y3E1X0FWcVdPVEd1cW1BbnktV2NTS3M0cTZ1clVrMW9Za1Rnbm5lbU53bnJUS2xISmREdno0ZURyN3R0aE93dlFaaVNnaFEtZ2NuVkw1VjNWWjVEeHVIRzVvVkFER0l6WEkxMzU5ejROLWdZeEc2NTBKT05FNEN1bkpVWTRGNlh1YTNRTjhrbnJGOERjR3hyVjE?oc=5",
+          "time": "15h ago",
+          "body": "BJP MLC urges govt to fast-track protection for wetlands, mangroves in Navi Mumbai  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP MLC urges govt to fast-track protection for wetlands, mangroves in Navi Mumbai ThePrint"
+            ],
+            "tldr": "BJP MLC urges govt to fast-track protection for wetlands, mangroves in Navi Mumb"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1785905171695",
+          "title": "Forget Super 30, Maharashtra plans its own ‘Super 100,’ and it’s not for everyone - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0xMWXFPM0FWR2dBQlNYWWtzUk5sZGUxRDM2ekNlVDVHbjRHX2thaDEwd0Q2b2xPYWxCM3RLV19fR0U4djd3MWprUUF1SHhxREl6SEMtU1FDTzlVTFlCNzh0cXdBWGh5ZFFpZXIwemxUVmhIeDNVVXRzUnEwVFlkaDBrTmpNT19ZaHB3Y2dsNDhzWUhseTRNMkRRRGRyTFJ0X19LODBtRks3bVp2TWl5OEs5emozZVJUZHhTcEhhMnNpeDRmeXZNUl8xWEtzT0t1T2xaVElwY0RnX0dQX1Zac0l30gHoAUFVX3lxTE53WnQzeTNmemgxZFllcmdQbmJDYW9RSldLejlWaUd5S294bk1lN0t6T012dldDSGJuNEhUUE1DcVppQ0R1Wmp2WGs3bmxILVpQWm5RdXdNZHk2OTFJY2hFeXZ1V2Zic3NWbW92clM5dDhnY3hkZE92a1ViZ3UtRUEtLUtIOEsxellQV1J4aVgxdlAwYzVrY2hJQk9iTjNzeGN3OVk5MzZtZ2I5S0JFZXFZRkxud2lsZnRrSm5aR18yVXk3bTMyT1ctY3BXcktlQzRfX3hUVWQ2WEVRSXU4MkxtclJCQ05pSHU?oc=5",
+          "time": "14h ago",
+          "body": "Forget Super 30, Maharashtra plans its own ‘Super 100,’ and it’s not for everyone  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Forget Super 30, Maharashtra plans its own ‘Super 100,’ and it’s not for everyone The Indian Express"
+            ],
+            "tldr": "Forget Super 30, Maharashtra plans its own ‘Super 100,’ and it’s not for everyon"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1785905171695",
+          "title": "‘Gungi gudiya’ jibe: Devendra Fadnavis accuses Congress of making low-level remarks for headlines - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVzdzNk5TYlJkWWNrNWlkUnhieHJPSEl6UGllWHFsalpyQVNseHZhcXFobkZKbHh6ZkhMcDEwSmlaUlV0UTBUOFR4U2hvSGJCM21wYTZUOUQ3bG96aGFTTnF2Um9xdVlJcGFwQjlETTlTMW1fRElLdkFDWXRiSGpzOFRycVdFbVRXSW5lVmhZcnBiYlNER29fWl9mNENyb3VKSURtME5wQkt4RmVJZEM3cG5WTEZXMkZLTlNPZnpXd21KdGI2RDRsZFBEdTYtbHN5ckNacklLWlpEVnBkY2JHbHhnVXhyNmhJSUs3Nm9IeFHSAfYBQVVfeXFMUEcyOHI3M0hTUzc0cHpza3k3YmxTQTZuS01RMnNxMXBhd3U0bWVRVW5xV1dTWGlsUzRsYnRReDRiaXRJODJYR3lQYXRqa2s2TlA4dlZWNzNOZF9aSGlMcTVuZWFYNEpXZGtlTnJ0N0ZIR2FaTkpxai1LQXUwbHg2V29EX3A2MDU0VXdwUnQyVXVaSUZfbkh6TTQ0anR5dDFSR3dNb19LSzhoWndSa3RRUWdYUFBjYUdxQWRzZzdzaUJGOEhnNzJKdkgtaDlXdVlqMUdMQVRRWnhVcnVTX2NoYm9LeGx5ZUw0eFZwZDVPbzZOWnFMWmR3?oc=5",
+          "time": "15h ago",
+          "body": "‘Gungi gudiya’ jibe: Devendra Fadnavis accuses Congress of making low-level remarks for headlines  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Gungi gudiya’ jibe: Devendra Fadnavis accuses Congress of making low-level remarks for headlines The Times of India"
+            ],
+            "tldr": "‘Gungi gudiya’ jibe: Devendra Fadnavis accuses Congress of making low-level rema"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1785905171695",
+          "title": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlotTXdHSHRaSzVVNjNTWmJvYWJySkFuN01fTmlKQnJPd3paNzN1dXpqaDJ6ang4aFZBN0ZDcHhOZm5ra01GbE1ZNmZaeUhLbURJYnBhRTdwdGItZUJLZ3hsT184LUREVGV3eEhvT0FibGJuejEyV1k3ekVELTdQai04ZnRtRnk2TnFMX3BpTjlzdldfYlpUUDdNWlZpeWdwcHUzQW8xa19GTW9LdXplWXYtdk5kYlducUsyUkJoUQ?oc=5",
+          "time": "8h ago",
+          "body": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain  DD News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain DD News"
+            ],
+            "tldr": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra bra"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1785905171695",
+          "title": "Maharashtra’s Anti-Conversion Act Unconstitutional, Says Waris Pathan - clarionindia.net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclRybkg5X0Z0WTdmNEJMMVV1N3Z5Wkx5LTd2MG1TXzZPTVhpOUJHZFZCTFkyQzNzSmhablhPTWI3NlFoX2xxaHVPbG0wR2RSelJkNXllaTBjTVJua3ZaOTBkSklrbEhwUUg1S1Z2MWVsTjE4R013Z3RsbVlxUHo3a0UxVkhzRFRSajg5cUktSTFYYXd3X2pVcw?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra’s Anti-Conversion Act Unconstitutional, Says Waris Pathan  clarionindia.net",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s Anti-Conversion Act Unconstitutional, Says Waris Pathan clarionindia.net"
+            ],
+            "tldr": "Maharashtra’s Anti-Conversion Act Unconstitutional, Says Waris Pathan clarionind"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1785905171695",
+          "title": "Mumbai-Ahmedabad bullet train: Bombay HC allows mangrove felling for power line - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRDZNeV9PWDItdW1yazRSSGF1RS1fdHpXajRUZHk2b1BGa0N5OUxaTXVuTWJ2TGVScWJHc2JTR19aODM0NG1hOGtHVVZnSk1qZ1lvQlRWWG51UmdvMkk3dFhGZzNxV0t6WmhBUWVzanJENUNfMmthbEluVUJndnU4R0xWRE5vTFg4RGZvMGktUzRnbmlvaURKWE1jc2VCVTdzQTBPQVhlNGNreGI2R1JBSzBfaHVlOW9JVlo5SzJJREJLT3Y0cGdJNjl1RW1MVWhIRFlwSlhsTzJuTjRYbllQWWtlTURXME3SAecBQVVfeXFMT0Q2TXlfT1gyLXVtcms0UkhhdUUtX3R6V2o0VGR5Nm9QRmtDeTlMWk11bk1idkxlUnFiR3NiU0dfWjgzNDRtYThrR1VWZ0pNamdZb0JUVlhudVJnbzJJN3RYRmczcVdLelpoQVFlc2pyRDVDXzJrYWxJblVCZ3Z1OEdMVkROb0xYOERmbzBpLVM0Z25pb2lESlhNY3NlQlU3c0EwT0FYZTRja3hiNkdSQUswX2h1ZTlvSVZaOUsySURCS092NHBnSTY5dUVtTFVoSERZcEpYbE8ybk40WG5ZUFlrZU1EVzBN?oc=5",
+          "time": "11h ago",
+          "body": "Mumbai-Ahmedabad bullet train: Bombay HC allows mangrove felling for power line  India Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai-Ahmedabad bullet train: Bombay HC allows mangrove felling for power line India Today"
+            ],
+            "tldr": "Mumbai-Ahmedabad bullet train: Bombay HC allows mangrove felling for power line "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1785905171696",
+          "title": "Congress calls Sunetra Pawar ‘gungi gudiya’; NCP retorts, ‘Forgot Indira Gandhi?’ | India News - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDBYMFdpUUctYUgyU1VEa0ZYQ0ZmMndfM1dCdmI2YnJvRlNqUVY4VmJZeWtLbWFCOVRJRGI0YnNtSGFESFFDRHdYZUFJVDZEcUJaSlAxMjJjWUg2Q3V3S2ZMZFdpdHlCTVVkOUl0LXZvc09YSTVNOFpXUzdsbm5iUFlvU3FXRU1GaXNBUngwbGdzU0xHQkZscmJieDBnQjJTSnRCSmtVOEh2VDRLSUJKNHZvcTNlbHYxckVqVEdHLTRMVndER3c3Z1A5Sk02REFKUmc3TjNYTGnSAdgBQVVfeXFMTUQwWDBXaVFHLWFIMlNVRGtGWENGZjJ3XzNXQnZiNmJyb0ZTalFWOFZiWXlrS21hQjlUSURiNGJzbUhhREhRQ0R3WGVBSVQ2RHFCWkpQMTIyY1lINkN1d0tmTGRXaXR5Qk1VZDlJdC12b3NPWEk1TThaV1M3bG5uYlBZb1NxV0VNRmlzQVJ4MGxnc1NMR0JGbHJiYngwZ0IyU0p0QkprVThIdlQ0S0lCSjR2b3EzZWx2MXJFalRHRy00TFZ3REd3N2dQOUpNNkRBSlJnN04zWExp?oc=5",
+          "time": "15h ago",
+          "body": "Congress calls Sunetra Pawar ‘gungi gudiya’; NCP retorts, ‘Forgot Indira Gandhi?’ | India News  hindustantimes.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Congress calls Sunetra Pawar ‘gungi gudiya’; NCP retorts, ‘Forgot Indira Gandhi?’ | India News hindustantimes.com"
+            ],
+            "tldr": "Congress calls Sunetra Pawar ‘gungi gudiya’; NCP retorts, ‘Forgot Indira Gandhi?"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1785905171636",
+          "title": "Indian shares likely to open higher ahead of RBI rate decision - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
+          "time": "2h ago",
+          "body": "Indian shares likely to open higher ahead of RBI rate decision  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares likely to open higher ahead of RBI rate decision Reuters"
+            ],
+            "tldr": "Indian shares likely to open higher ahead of RBI rate decision Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1785905171636",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "13h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1785905171636",
+          "title": "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market. What SEBI's new closing rule changed | Hindustan Times - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQREFIdW1jWDRicnp0SDBocDZ1RkQtRWU5RkpHUHBrSzZndERlZWlMZ3IzTlNOM0N5WDZEYVlMTll2a1RQYzFjeElqaE5vaC15a2VRdExTN1VSOERkWmdnRXJoM1dtcUtuOVFoUzNvLWRXN1h3OFFJZTZYakFUWnJlVDU1ajhoS2x4dzJMajhwbUM4RncycFdHUi12SzNJUjZkRllBd210SkhFSGZTVjJjUXlLYkJrR285azRPODdGSkptbEFlOUM4N0ZWU2ZOaDZERm1WRTlnc3BuTVB3REpNcmQtZzlrdmVQRnhaaExUWFhKVFhkbk13anZVVUtkeVFkNzExSWpOX214YU41NFdJRWM0OWHSAZoCQVVfeXFMTkRRaXo2dktmaTJpb0lkXzJYbzRqWXMxMUtDS2NGcEFoUGExcmc2aVlhSHJaX25HaDZzallHM2ZTamo2dHlpTTBsREg0VW9ER2JvcjR6U2x1N0NJdTc4V1BzdjgyN0FrRXVqX3E5MV9mQzZMNW10SlhLd3o3akVjMTREQjJNTW9vZVZXd1Z4Q0psc19zbHRYc2JsclRwckhPeEx1TDQyb3g1NDlQcjhXaW9qMnZYelpMNFE1MHdqTXRaMXRmSU55TkVhZU9XZURSYUV3OG8zS1d6cmtJUWJvSll4OVBfckMyZXhNbERtT1cyTlBkQzBvNkxLclBKdlpoRVVBQ3pmSVZ3MloyN0hURlhDeE5JLWlXNkFn?oc=5",
+          "time": "21h ago",
+          "body": "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market. What SEBI's new closing rule changed | Hindustan Times  hindustantimes.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market.",
+              "What SEBI's new closing rule changed | Hindustan Times hindustantimes.com"
+            ],
+            "tldr": "NSE Nifty up 1.6%, BSE Sensex up 0.7% — same day, same market."
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1785905171636",
+          "title": "Nifty and Sensex Stock Market Dynamics - indianewsnetwork.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjRUQjNsRDJORGxYMkphTVV3R3FHeFBTYUloTkk5Wlk5akNobFc4ZU1qTXJ6ZHplWlVQZWtjOTIzRDU0WUdJeC1WY25pYjN5R2JYMHlKdmNSSTljUm5iY0xsT2wwQzhuVWdGQ0FKaGRTVFlnLWJ2Z0dlX1NaU19BMFpNZEhWVFBvV1JtdHFFVHVSM0F6b0NoMXp2SFBZVWN6amJ5SDU4WQ?oc=5",
+          "time": "9h ago",
+          "body": "Nifty and Sensex Stock Market Dynamics  indianewsnetwork.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty and Sensex Stock Market Dynamics indianewsnetwork.com"
+            ],
+            "tldr": "Nifty and Sensex Stock Market Dynamics indianewsnetwork.com"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1785905171636",
+          "title": "Stock Market Holiday Next Week, 22-26 Dec: BSE, NSE Trading Halt on Christmas 2025; See Full Holiday Schedule - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ0tUYnNhQmlsbHAyaVpoOTRhMTJhd25fRU9KQWNsTFVXNnZDSHhaNmxFa3Z1a1BOX24yLXA1Q01zZzVRcEhxSXprT0FaU3RXN3hNOEplX2Z2M29XOVJfaVROdk1qQm1FckltSnJQVHZjd1BpZnducjB3TmxBamExbHo0UDJUQWcwa25Fck9GOVdCNTAtT1pkRkZnNFpKNEQxeDFiOGhONUZRcG1XdGRfSnpmc0tRVXF6N3VudlZ1QV9WdF9rWEZwbmJJakVNX1JEMTRiUUtrWXBUSVdXN0E?oc=5",
+          "time": "14h ago",
+          "body": "Stock Market Holiday Next Week, 22-26 Dec: BSE, NSE Trading Halt on Christmas 2025; See Full Holiday Schedule  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Next Week, 22-26 Dec: BSE, NSE Trading Halt on Christmas 2025; See Full Holiday Schedule Goodreturns"
+            ],
+            "tldr": "Stock Market Holiday Next Week, 22-26 Dec: BSE, NSE Trading Halt on Christmas 20"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1785905171636",
+          "title": "Stock Markets Trade Mixed Amid Introduction Of New Closing Auction Session - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXRVNUdLeUcxejU1MDdjOHVnX0h6T3ZQNVZBd0FNbURQdExUQlNRV29abzVxOGhtQUtJdFZHT2J6T1Q3OHJvS05MODZzOHBpU1A4THJKZ3RrQTVpNGJiQ29nMjExQlpma2R1Ul81SWRQdVQzaVdhWEZEckRCTkx1Vy1lNG1xTHEyTC1vVkRsVzlqYllvaVZjdUQ4MU5WN1Z0NUdTM0NDOXB2VlF2azNGN1RlVnhGYUtwWTVSTTV6b09VWU5tUG5oTdIByAFBVV95cUxNaXRVNUdLeUcxejU1MDdjOHVnX0h6T3ZQNVZBd0FNbURQdExUQlNRV29abzVxOGhtQUtJdFZHT2J6T1Q3OHJvS05MODZzOHBpU1A4THJKZ3RrQTVpNGJiQ29nMjExQlpma2R1Ul81SWRQdVQzaVdhWEZEckRCTkx1Vy1lNG1xTHEyTC1vVkRsVzlqYllvaVZjdUQ4MU5WN1Z0NUdTM0NDOXB2VlF2azNGN1RlVnhGYUtwWTVSTTV6b09VWU5tUG5oTQ?oc=5",
+          "time": "23h ago",
+          "body": "Stock Markets Trade Mixed Amid Introduction Of New Closing Auction Session  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Trade Mixed Amid Introduction Of New Closing Auction Session ETV Bharat"
+            ],
+            "tldr": "Stock Markets Trade Mixed Amid Introduction Of New Closing Auction Session ETV B"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1785905171636",
+          "title": "Sensex, Nifty Fall as New Auction Session Impacts Markets - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWg5cjdmRzhNZGstZDFRRDRPbEl6cVBwaWN2VEQ2akFtX2MtZDJsYlpFTEJzRTVnYjFubjVPNV9IV3FfWm0tbXdOakxlVkJGMk4tVEdsUWtxaW5zbVZVOVRCODB0alJHYktlSzFtZzJCRjJnTkpmNnVNd2dHcHJ5UGZ6NDc3TThWN1lwdzNiVmZUQ2FVMDlmR092b00yb3ZlcHBGLWUyWjRhUTJG0gGyAUFVX3lxTE8wbzVDZGptYkdMVzg3Uzh6RTV2TVcteVNDOUVxc3dxNEV1Wi0yelQ1aXBTdHNGclI5OERzenpqQlMwQXFGU05lSUk1TjVIc3FWekZtdVgxRkROLTdpanVCSENweWhtdXI3VkQzWURySFg3X0lSODlHMW1yUUZiZVVOMnRUU0ZnVjJvOEpoZzM3b2ZYNmJYY21vZlpNa2ZkcGtwbV8ySXRqcHhTMlp6eHB4clE?oc=5",
+          "time": "17h ago",
+          "body": "Sensex, Nifty Fall as New Auction Session Impacts Markets  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Fall as New Auction Session Impacts Markets Rediff MoneyWiz"
+            ],
+            "tldr": "Sensex, Nifty Fall as New Auction Session Impacts Markets Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1785905171636",
+          "title": "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekJ2anc5Nl9hUXJxY1ZHRDgtUXp3UmE0MHp4VzhZQnJTMC1LS1VXZDdoOWJPM09jWk9XdXY3Vzl0YzgyaG95Zk84ZERtUVRMaHY3MTRIdmhvbEVkMDJ1ZVNUTG8zd1ZlYkctRWFpOE1NT0k0d2c1NksyTjVQU2lPWmZ5cWVxSHJLQ1lJV3hnb25fV2E1c05mdk85SDR1Mm9Ra3IyUDBHdS0xT1E0eFIyUDhoZDkxY18xQnk0bFplaw?oc=5",
+          "time": "16h ago",
+          "body": "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's new closing auction stokes sharp Nifty swings, options volatility on weekly expiry Reuters"
+            ],
+            "tldr": "India's new closing auction stokes sharp Nifty swings, options volatility on wee"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1785905171695",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "11h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1785905171696",
+          "title": "Maha: BEST composite billing, prepaid meters mandated for govt offices in Mumbai - Cityairnews",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHRheEx6U05GZ3dXRHRfV0dydXFOR0lZaGw4ZXlrTE5US0c1U0hNS3FaVTRHSl9YalVFc3JtWkpVb3hhNm9nUldscy14TGNNem52dmNoV0w4bGhMaHJuT0NfZi1naVdlUzlNcnRhT1Y3YWlnRVVLblBQM0dfbUtSQWc1UDcwcUhMR29XbC15ZWp4T2FwTWU1V3JycFc4U1RoM0dUekZSYXZFTV9WT0hqMmxmbjQ?oc=5",
+          "time": "10h ago",
+          "body": "Maha: BEST composite billing, prepaid meters mandated for govt offices in Mumbai  Cityairnews",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha: BEST composite billing, prepaid meters mandated for govt offices in Mumbai Cityairnews"
+            ],
+            "tldr": "Maha: BEST composite billing, prepaid meters mandated for govt offices in Mumbai"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1785905172973",
+          "title": "Building an Equitable, Transparent CSR Ecosystem for Maharashtra Through Technology - Elets eGov",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUnlGY1R5Yjg4VzV6T2o3TmNzejNiTTZGZEpGQWdnaTREQ0laOUNFdXhCWVVGSXFsR1dCTFY4MDFvQzhaTEZWS3E5bG5zQmg5TXpjbWpLUGFjSjhXRE5MMW5ZTWJ2bjVyNVROSUhEZ05IU1pJZjRFMzRWUWZCZU1IM2lmYk9RNkE4VEVaNDJibnR6N3JyVzFYRjJMX3ZLX2Z1NHpSc0M1MDRERnFSU3JCMlo5WFNlVnBPeWpfZg?oc=5",
+          "time": "16h ago",
+          "body": "Building an Equitable, Transparent CSR Ecosystem for Maharashtra Through Technology  Elets eGov",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Building an Equitable, Transparent CSR Ecosystem for Maharashtra Through Technology Elets eGov"
+            ],
+            "tldr": "Building an Equitable, Transparent CSR Ecosystem for Maharashtra Through Technol"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1785905172974",
+          "title": "Samsung Innovation Campus is Inspiring More Young Women in Maharashtra to Build Careers in AI - orissadiary.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3lpd1FJR1lVNXZ1WVd2WEFKa2YtZ1NaTU5IeGhaelNzWE90UGhnZ1BqMVRYcDNDb0pCbzZ3MmkyNWVUU3N1eC1SZ2dtai1halljVzY1Wm5EZGRKMTNZLUZHbU1TVDZyTG9xZ3prV01WRW5yMkp1VnVaMnVBN0lMZlN3OEZOVEdKZTI3ODhud2o1VWxwVENoaVQxRF9oTVc4a2Izb0R1cmxGTk42dERUYlJiNXg3aFg1S0E?oc=5",
+          "time": "18h ago",
+          "body": "Samsung Innovation Campus is Inspiring More Young Women in Maharashtra to Build Careers in AI  orissadiary.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Samsung Innovation Campus is Inspiring More Young Women in Maharashtra to Build Careers in AI orissadiary.com"
+            ],
+            "tldr": "Samsung Innovation Campus is Inspiring More Young Women in Maharashtra to Build "
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1785905172974",
+          "title": "Maharashtra Offers 2.17 Lakh Engineering Seats: What the Numbers Mean for Students - Youth Incorporated Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWhyMVpjR0dYLWVTMWxzNV9kTTBKUXpocHV3UVhITVpDMlVtRC1FTHFSVVFINWRTdmpISXFXUmx6Qlg3TjJydXA4UDdPbWRILTFhcGU4c3JaZU9qSjRZY3FJcDV1Y0tPakJLN2hEcnp4ZXpmellGdXNaZk5SQWtTRFJRWmYtTXp1aHZDWm51RDVRclh2cE1BNEZUZmVLblZBTElUMzhINA?oc=5",
+          "time": "8h ago",
+          "body": "Maharashtra Offers 2.17 Lakh Engineering Seats: What the Numbers Mean for Students  Youth Incorporated Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Offers 2.17 Lakh Engineering Seats: What the Numbers Mean for Students Youth Incorporated Magazine"
+            ],
+            "tldr": "Maharashtra Offers 2.17 Lakh Engineering Seats: What the Numbers Mean for Studen"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1785905172974",
+          "title": "Reinventing the digital workplace: Why infrastructure modernization will define the digital-first era - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUkVWc3AzbTh3YTd2N2xpRUpyZEMtQmdVUWUzS2swR3gzbGw5NkdERHlybElrdnZuOHFIT0ptZ296SFJXU1FqRVg5VnI0R1dSU04taW5GOE01VHZUWXZEbFBRcG9qSng5TU5GN3BqV2thYXRJeGFub2U2VFJLb1BJOThxSjU2RGkwM25scmI4aVFjWU1kN1VhQTM4YUprdTJNazdPU0NDYzNKMWNjaER1UHVxdFg0TzZHcDV1cE1SeElkRWEtSWpHQ2VGN0d2SHhjRU1VQmtvWEJEV2hPUU52YzYxS2N4Zw?oc=5",
+          "time": "17h ago",
+          "body": "Reinventing the digital workplace: Why infrastructure modernization will define the digital-first era  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Reinventing the digital workplace: Why infrastructure modernization will define the digital-first era Express Computer"
+            ],
+            "tldr": "Reinventing the digital workplace: Why infrastructure modernization will define "
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1785905172974",
+          "title": "MNLU Mumbai Launches MBA in Entrepreneurship & Digital Business Law - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdWlHanFNTFczZXJFZ2d1QzFuWVM2OHU1dmNiT1JjalBMNU1hSWV2aGUwVkFFZ3JTbnhmNGRBRnpPOEhLWjZBNGE2bnlrMmxMVmRORk1vUExlZEM0cFNuYkJJSTYtX3YzUDZLelNGUE5jdTNFVFZkX0ZMYnQ5dDV4TXN1UkxzenVCaEkzbHJ6Q0hMMkw4OUtsRW9SeENDbWMwNG85QzJBUDJRUzBqaXVNSS1ZNWJweXJLVDhSOTBtcTZQRHlXWW0xYzJiY0hLbWlOQ2E2ZHQxcXhTT2MzanBZ0gHkAUFVX3lxTE9TSFoyLTh3eEotY0xzZzY4VGZ0encxYVNlOGdHNWt4WFhkV2hvVkh1SDBHaDNVMUtsVW1qR1B1SVR3UlhUYmZHWkVDY2JmVk9UM0dhSVdrOWRDNUhvdVhmVWRIWHVEaXhhVi1IVm8teG4xVW8tNW5NMjlHWjFhUjE2VnpnMWNSZjlvQldCQm1rRGxNWjQxUUNMcUQ4YVN0R2NlTF9uSFpDY0pkc1NaaDlVdDJQUUc3RGdmREVxR0dTeUdmNDJJWW9oaDRFXy05bVI4VVNUNXRGSGhFWklrR0d2NlVMUg?oc=5",
+          "time": "19h ago",
+          "body": "MNLU Mumbai Launches MBA in Entrepreneurship & Digital Business Law  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MNLU Mumbai Launches MBA in Entrepreneurship & Digital Business Law Business Standard"
+            ],
+            "tldr": "MNLU Mumbai Launches MBA in Entrepreneurship & Digital Business Law Business Sta"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1785905172974",
+          "title": "Actor, Performer & Creator Jugnu Ishiqui Marries Technology Entrepreneur Ryan Balchand in an Intimate US Ceremony - Sangri Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjNfbXg3ckdyZG5KYWlvd053b2ZpaVhITTJvaFc1cUNINko4Y1h2LVpyY1lxYkl3MVQtMWpMeDZ3eGc5V211TDlsQUIwRExOcGJmT3dmUHpUTFVTUUdHc3hMNmp6cUo4UnVra2JUYXlaMVVnMV83YWRZX0txYzExNkUtQ25Tdm11TWNZTXFaNW1SdjZTeFlFbzlBNGo4bjZYYXgxTHhySGczX1RSM25sMXd5QjA2bDhMUzRfal9FQ2ptOXU3WkVXMnljeDJvMFd2bnJKR2hmaVUzbUh0VG5MVWs1VXVNaXNJTnM1NnI2ME1tT2Y5Y2gwNFZn0gH6AUFVX3lxTE5uM19teDdyR3JkbkphaW93TndvZmlpWEhNMm9oVzVxQ0g2SjhjWHYtWnJjWXFiSXcxVC0xakx4Nnd4ZzlXbXVMOWxBQjBETE5wYmZPd2ZQelRMVVNRR0dzeEw2anpxSjhSdWtrYlRheVoxVWcxXzdhZFlfS3FjMTE2RS1DblN2bXVNY1lNcVo1bVJ2NlN4WUVvOUE0ajhuNlhheDFMeHJIZzNfVFIzbmwxd3lCMDZsOExTNF9qX0VDam05dTdaRVcyeWN4Mm8wV3ZuckpHaGZpVTNtSHRUbkxVazVVdU1pc0lOczU2cjYwTW1PZjljaDA0Vmc?oc=5",
+          "time": "13h ago",
+          "body": "Actor, Performer & Creator Jugnu Ishiqui Marries Technology Entrepreneur Ryan Balchand in an Intimate US Ceremony  Sangri Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Actor, Performer & Creator Jugnu Ishiqui Marries Technology Entrepreneur Ryan Balchand in an Intimate US Ceremony Sangri Today"
+            ],
+            "tldr": "Actor, Performer & Creator Jugnu Ishiqui Marries Technology Entrepreneur Ryan Ba"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1785905172967",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "3h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1785905172967",
+          "title": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYU5yV3Fhdi1qd0xYLXhjR2JWZFVRb1NTc3lNdjJ3Z21FUF9la2ZRNUhQOEU5WTdkeXRQMnI3YjYyNjRTdXBTYkVHcjdvQmc2QnA2STRXbnk3QUtNZ3N2WkdUMmNrcEk4Q1dpek40bTlJVzR0bGlPLS1aZ2dQazl1WFNmOVhPMUJFdmVyRDdlcUFGZGlSWHRDR0JuOV96dWFJb0E?oc=5",
+          "time": "9h ago",
+          "body": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RCB, 20th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1785905172967",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "10h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1785905172968",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - thenewsmill.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "7h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  thenewsmill.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match thenewsmill.com"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1785905172968",
+          "title": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemxYcTdhZGFnUW5OQkd6YnBlQUdaY2E3OU43YjVZbG5abVhSajUzbXk0MmJPWE9WUTlKLS1yamM3V3VLWEZlUEYyaHNZSmNmRWFlN1pfek9abENzX3hFWl9yQVBWdmVDYU5fOXBadThxSTFPYXhJUXdDVndoOUxYWUhaaw?oc=5",
+          "time": "9h ago",
+          "body": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+            ],
+            "tldr": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1785905172968",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "14h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1785905172968",
+          "title": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb1N6LXhQczVWQjZVUEg4NGRfMi03QWp1WER5bW1aQS0wUnpGOUVlX1NSSDBXSWhtS1NoOVNESjdIM2pKQWlJMXBKSUM3M1FyUWFHZHk3cnlBT29LQUFscUlURWVIbU1XcUNvRjNPalNZX2tzOVM2d3Bma2taclkwOGxXVm5XeUtzNjdISG1rZENWQkNXcFhWY2xqYzNidzgwN01kMXg3M0t4Q2FXN3FGMTF2RkltWG5rMk9DQThpOFU3WWJTUkx3WnpGaFktR1o1NnJTRkEwNnhnQTZPb1E?oc=5",
+          "time": "16h ago",
+          "body": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches  Goodreturns",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matches Goodreturns"
+            ],
+            "tldr": "IPL 2026 Full Schedule Announced: First Phase Dates, Time & Venue For All Matche"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1785905174068",
+          "title": "FBI nabs Indian national Harmanveer Singh over Canada-based gang's drug trafficking racket",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.  He is linked to a Canada-based organized crime group led by Ravinder Dhanda.  This arrest is part of a larger international law enforcement operation targeting crime syndicates.  Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.  Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national, Harmanveer Singh, was arrested in California for alleged drug trafficking.",
+              "Authorities charged thirty-seven individuals under \"Operation Hard Ball\" across multiple countries.",
+              "Another Indian national, Nitish Kaushal, was also arrested while attempting to cross into Canada."
+            ],
+            "tldr": "An Indian national, Harmanveer Singh, was arrested in California for alleged drug…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-1-1785905174067",
+          "title": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]"
+            ],
+            "tldr": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city cha"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1785905174067",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1785905174067",
+          "title": "Indian-American couple announces graduate fellowship for University of Texas students, says it's 'simply an open door'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-American philanthropists are making significant contributions to American universities this year. Anil Kochhar and his wife Marilyn paid the education loans for graduating students at North Carolina State University. Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas. This fellowship will support students with expanded resources and financial aid. The Bhatias hope their contribution will inspire future generosity among recipients.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American philanthropists are making significant contributions to American universities this year.",
+              "Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas.",
+              "The Bhatias hope their contribution will inspire future generosity among recipients."
+            ],
+            "tldr": "Indian-American philanthropists are making significant contributions to American universities this year."
+          }
+        },
+        {
+          "id": "mumbai-general-5-1785905174067",
+          "title": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]"
+            ],
+            "tldr": "'Only thing keeping me in Canada is the amount...': Redditor says getting reside"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1785905174067",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1785905174067",
+          "title": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; developed cerebral fat embolism. [object Object]"
+            ],
+            "tldr": "Indian man dies in road accident in Detroit; his two-wheeler was hit by a car; d"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1785905174067",
+          "title": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. [object Object]"
+            ],
+            "tldr": "'Found lying in pool of blood': Indian man found dead in Israel; suspect held. ["
+          }
+        },
+        {
+          "id": "mumbai-general-9-1785905174067",
+          "title": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition. His parents think they know the reason why Singh lost. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award competition.",
+              "His parents think they know the reason why Singh lost. [object Object]"
+            ],
+            "tldr": "Meet Connecticut's Aangad Singh who could have won Presidential 1776 Award compe"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1785905175539",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1785905175539",
+          "title": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts - thenewsmill.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYWFzMzIyRHBiSzdmbjZyVUtGbnlGRTQ5Z0M1bm51M1dwN3Q4NDl3eTAwenhyRVZlSkEzcnlVTmhVOElkOTlhX1RUejFEZkV4bmVVS3FpenBjUkh5RmRHVU5XREhTdElfWGdMMW54eEoxdGdPLW9DbVZqRWwxNkd6Y0FrdWtsV1VqMmJhUGlBckE4WUE2SzZ5MzBRWXNJNFd1amZXLVctbw?oc=5",
+          "time": "6h ago",
+          "body": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts  thenewsmill.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts thenewsmill.com"
+            ],
+            "tldr": "Centre approves renaming of Maharashtra’s Aurangabad, Osmanabad districts thenew"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1785905175539",
+          "title": "\"Will inform everyone\": CJP to announce future strategy, action plan; emphasises grassroots awakening over politics - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOME5wU1JITmxYblVzQmMyeWpjTElyV0tvRmN4RmZWUzN6d2I0dlFuWXk3ZW1MYXpIMWVMb3RRTW84Ry1JVmtla1NiM08tNWtaNmZVdVB1MDI2OTE0Vm9FdTh0WTJiUFFiQTRvVzFCWHJTd3d3cEd3SXExVXZJS3VkbEFqdUNTMGdNU2h5RDlfSEVxa3MtWUY4RDRUa2VnWnZqLUpyaklEc1VTbF9CSHdtMno2TW8wT0lTbFRBbk9wTVdqQzBYNjJZU3Z6QXR0bkwzZ2taaGR0Y2swekItYVRLZmI4RDdIRzVGV3c?oc=5",
+          "time": "8h ago",
+          "body": "\"Will inform everyone\": CJP to announce future strategy, action plan; emphasises grassroots awakening over politics  indiagazette.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "\"Will inform everyone\": CJP to announce future strategy, action plan; emphasises grassroots awakening over politics indiagazette.com"
+            ],
+            "tldr": "\"Will inform everyone\": CJP to announce future strategy, action plan; emphasises"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1785905175539",
+          "title": "Dipke welcomes Mohan Bhagwat’s youth outreach, calls for Gen Z dialogue - National Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDdqemRUdEJIaVZyQmtiRzNLcmF1cjJtbDNNRXNmSW9yUWxwYXN6Wng5QXM2TXB0Wm9nbzUyUGVhVkczT29ydmZpRm1zaEV0aTN0ZG85elhNZmpnX0JseUdOMDNkSDM2dS1rNnplUkY2eWVpNnlIMnV2cEJNdnZMQlNxaFVaeENYRVpsUV85VGh0b3BybjVXTzQyemRSdWowXzF3d1JqOGtLWW8zRkZoU2xNQUYxSjc0REZWSU9JMWtCcmFRMENJSmV5andzQdIBzgFBVV95cUxQdDdqemRUdEJIaVZyQmtiRzNLcmF1cjJtbDNNRXNmSW9yUWxwYXN6Wng5QXM2TXB0Wm9nbzUyUGVhVkczT29ydmZpRm1zaEV0aTN0ZG85elhNZmpnX0JseUdOMDNkSDM2dS1rNnplUkY2eWVpNnlIMnV2cEJNdnZMQlNxaFVaeENYRVpsUV85VGh0b3BybjVXTzQyemRSdWowXzF3d1JqOGtLWW8zRkZoU2xNQUYxSjc0REZWSU9JMWtCcmFRMENJSmV5andzQQ?oc=5",
+          "time": "18h ago",
+          "body": "Dipke welcomes Mohan Bhagwat’s youth outreach, calls for Gen Z dialogue  National Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Dipke welcomes Mohan Bhagwat’s youth outreach, calls for Gen Z dialogue National Herald"
+            ],
+            "tldr": "Dipke welcomes Mohan Bhagwat’s youth outreach, calls for Gen Z dialogue National"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1785905175539",
+          "title": "CJP protests in Maharashtra over FIRs against students - thenewsmill.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGdFdjZOeHRDVFBVZWhuWGx2bXJJWmE5dFp6Y3ZRUE1kZmxXQk5ab183eVpoS1lzeHNZN3ZtTU1fU2NSb01HYzUxS1lfTTEtRFFmN2tVSVIzTlVVTXJvRVR2MXhXTUd5VExoWmd5T2VfZEw4RWlUb1VzQ2otWmtNNkhZeWZrbGxPRjUyZjNGZkJYeEw3MUhGM3JDYlRmVld1T28wRi13?oc=5",
+          "time": "1h ago",
+          "body": "CJP protests in Maharashtra over FIRs against students  thenewsmill.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP protests in Maharashtra over FIRs against students thenewsmill.com"
+            ],
+            "tldr": "CJP protests in Maharashtra over FIRs against students thenewsmill.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1785905175539",
+          "title": "Abhijeet Dipke Ready to Show Scholarship, Loan Letters if Emperor Shows Degree - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcExoVWdUTTliWkNvSGkyVWJld29OZzZTanV3eHNFbVE2WW1KMFhqdlVXNEtkYkF5LW9ud2owNU0zbzdyVVcwd0M3NHBLckIyMHJGdnY1V0c0dUtScm9zeF9xN0VCTWU1RjVzbmtpWmhRYTd6dG9qdzVUc3JkeHNscU92ZGF6cHNpNktpdzdsR2UyZl9kb2NWejBsSktlZ9IBpgFBVV95cUxNYjBhLU9DMUc2Qkd5azhFY202STBkRWpaeXAwdGR5aFVyMDV6Z2FJVUw3REUtZ3VIOWRObS1DV2pRODdwRmtaSGpEVHVlc1V4VXdtZ0p1SGJYU2dXY0l5cEFZX3pLLUhMSVBJbFozVkxuTEJhQ2YtOUY1TDNyajBOb19JTFNRMzhXbjQ3UkRralFPb3RkMEZydUo0dUxJU2lKZ3VJV3VR?oc=5",
+          "time": "22h ago",
+          "body": "Abhijeet Dipke Ready to Show Scholarship, Loan Letters if Emperor Shows Degree  TheWire.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Abhijeet Dipke Ready to Show Scholarship, Loan Letters if Emperor Shows Degree TheWire.in"
+            ],
+            "tldr": "Abhijeet Dipke Ready to Show Scholarship, Loan Letters if Emperor Shows Degree T"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1785905175539",
+          "title": "LAPL Automotive Limited Launches ₹32.40 Crore Fresh Issue IPO to Fund Capacity Expansion; Opens August 6 - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa2UwcUs0eWZqVDdMbE12SXJRc3I2UlhTM20zU1BvMG5yY016VE1CWE4weHdHZ2FRLVZkOFg5c0ZaaExEQWR3dnZzSGRPd1dzNWJldVZjZ0hDemlpVERZaksyREFWMjhvWkoxb1pHU3BXQ09VRnhmVEpKS19CYUJlVDZXTmVZZWVZdC1UMGQ5Nm9WNTZyYzZ1bWtwanhXU2FSTDNsVDB6am84aTRGUnpLWFRfN3A0aExJRVQwVFc1X1NrNkhUM3NhelhTX1NrUVFad0hJM0Y4S2lmN0tRU1NXR3lIbTVQSGRrczVHeA?oc=5",
+          "time": "21h ago",
+          "body": "LAPL Automotive Limited Launches ₹32.40 Crore Fresh Issue IPO to Fund Capacity Expansion; Opens August 6  ANI News",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "LAPL Automotive Limited Launches ₹32.40 Crore Fresh Issue IPO to Fund Capacity Expansion; Opens August 6 ANI News"
+            ],
+            "tldr": "LAPL Automotive Limited Launches ₹32.40 Crore Fresh Issue IPO to Fund Capacity E"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1785905175539",
+          "title": "Mysuru’s Alifiya Vagh shines with 6 gold medals - Star of Mysore",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0UjV0WXh1TzlMZVVOOG9NQUJLb0hSSTMzUE9mRHdjLUcwX2tsT1NzOGFUWnlyUmh1aE9TQnUtX0NlLUVkN28wdDV3LW10M1BDWm4wdTZzU2lMSmlXSFJLOVNGUERwZDM2RWZPQ3RSUHlCbTB4RjJuMzlFTHI?oc=5",
+          "time": "14h ago",
+          "body": "Mysuru’s Alifiya Vagh shines with 6 gold medals  Star of Mysore",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mysuru’s Alifiya Vagh shines with 6 gold medals Star of Mysore"
+            ],
+            "tldr": "Mysuru’s Alifiya Vagh shines with 6 gold medals Star of Mysore"
+          }
+        }
+      ]
+    }
+  }
+}
