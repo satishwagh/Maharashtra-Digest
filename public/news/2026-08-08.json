@@ -1,0 +1,796 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T03:11:33.564Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1786158688089",
+          "title": "Maharashtra bans 114 literature items ‘linked to terror outfits’ - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkozQTlQZDlXZVV1dWd2YkJfS1F3SjRuaE9sNlVBUlhEdzBCdnZIOElwYW84ZUJDNDJEcVB3NHMtZV9RdEVENzdHS1E5N0pkLTlIUGJaN3A3UldiS21NOGdTblRTS1MxbHY4eXE4ZkFEM1RuTEhvZUYybVQtc2syNzNvb0hTcklDUk8wRlFGLXpVUm5pYnVBTjF0cWFrNkUyZTY2Q01JNElyeE5TT19MaXp2bHBySnJ2M1JfQzY3N0JaNXPSAcMBQVVfeXFMT1JKM0E5UGQ5V2VVdXVndmJCX0tRd0o0bmhPbDZVQVJYRHcwQnZ2SDhJcGFvOGVCQzQyRHFQdzRzLWVfUXRFRDc3R0tROTdKZC05SFBiWjdwN1JXYkttTThnU25UU0tTMWx2OHlxOGZBRDNUbkxIb2VGMm1ULXNrMjczb29IU3JJQ1JPMEZRRi16VVJuaWJ1QU4xdHFhazZFMmU2NkNNSTRJcnhOU09fTGl6dmxwckpydjNSX0M2NzdCWjVz?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra bans 114 literature items ‘linked to terror outfits’  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra bans 114 literature items ‘linked to terror outfits’ The Indian Express"
+            ],
+            "tldr": "Maharashtra bans 114 literature items ‘linked to terror outfits’ The Indian Expr"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1786158688089",
+          "title": "NCP(SP) questions Maharashtra govt on different take in Owale and Chitalsar forest cases - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRlc2RGpwTzQ2RG5EOGJwWDBxUTUzSEIyc1ROY0Ftc1pBNnlNNGFiZzF5d09WbmoydUpxSUlJbXNHZldZUmdTNVZVWGJjVWYzSEYtNks2bmM1N2pLV0k2djZuN213Vk9OM0ZkRENSM1Utcjlhb2NZTFhYNzBRYnBqUGlzc3NleTZjb3QyN2ZYeDc5VjFnZ3otc2d5eFBpRVFyUGpfRktEN29zUUpLMGpES0lGaElhWmRzMTFzd2xYREVrYU1OS3RCb2JqbHR1TEd3UEdDNW9HZU1wN3pBUlFsWW1kOXZyQWpGMFJaZ1R3MFJCZ9IB9wFBVV95cUxOcmlFYjRpYnFXM3YtQ3IxQ0NFVVlVODJmOEM4VzBZZ29PMVIxeGlEako1SWw3UHZWVTI1T2ozZ1RIdENaXzBpdTZ3NmhqYjRYUmNZN2FIX3pRTlgza1B1OG52TEt3ZVRTTWhEbGMxeFdpMlhuRC16VmQ0Uk01VTF6cDcwSUNiNWpDV0tZMDUwdjduS19RUGQwczJQOWNoVFhOdi0xV0Y3d2E3YUVuVnk1UEJ1Z3NrbUlRNWY0TDEwT2dTX18xNnVGSG1ZaDdGdGRxMEt3SjdLLXVjMEgwYjNWaEQ4eVNTTlBjbG5JSUlOQnVsWXFqRExz?oc=5",
+          "time": "8h ago",
+          "body": "NCP(SP) questions Maharashtra govt on different take in Owale and Chitalsar forest cases  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP(SP) questions Maharashtra govt on different take in Owale and Chitalsar forest cases The Times of India"
+            ],
+            "tldr": "NCP(SP) questions Maharashtra govt on different take in Owale and Chitalsar fore"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1786158688089",
+          "title": "Prashant Kishor Meets Sunetra Pawar, Parth To Discuss Strengthening NCP - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzFTdzJSY0wtZzFGNHFwYzZYbGlJalJRZ0E5V1NFTEQwWDB1NkFNcTQ1SHBNcUJiYkJPUnRSYjA3bXg1R0t6MEE0ZWxTNlZ0dWxDV25fS3BDOWZTUFphVDNEcExBZnBkZ2pLMzZCZDVqYkhrUVg0OU8zSWlOT3BNSktTS2F0cUV2bC1XXzJJazJJN1RIQk5KTUNpSl9VSDVVY2psOHl6aTlra1YzVHA3SEJ3SktqS0FSOVprSdIBwgFBVV95cUxPRVlGSzJMLWZtcE5fRk5BWG5mNUd4TU12TmhidnJWTlhIMEhyUllsLXVtT1JWSkZOUkttMUxHeDFiX2VmMlp2ZDBNY0M4c09VUFRPVkhHYlk5UGgybGNrcTFGTWRqbl9CUjRIeE5EOVFBWmYtV1pYQWM5WEtHUlh0UVVBVXBaVnNXaFdUY1owaVRQV0J0SEdjN2h4Ui0tVUtUeDdvU1ZOQ0RZREZ3WG5nSWp1d0JLVmdIaTMtU3RGSHFhUQ?oc=5",
+          "time": "15h ago",
+          "body": "Prashant Kishor Meets Sunetra Pawar, Parth To Discuss Strengthening NCP  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Prashant Kishor Meets Sunetra Pawar, Parth To Discuss Strengthening NCP Deccan Chronicle"
+            ],
+            "tldr": "Prashant Kishor Meets Sunetra Pawar, Parth To Discuss Strengthening NCP Deccan C"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1786158688089",
+          "title": "MP Sanjay Dina Patil Holds Separate Discussion with PM Modi; Seeks Faster Development in Northeast Mumbai - marksmendaily.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFhGbHA3UDRpcEltZnJyM3FrUmlhS1U1M1hzd1loWHRXUjBQTVZsMWxERlE3QUw4RS1TWnNCc2x2QjZJNUp4SHcyWTlrckwwM21Lc1dKNjNOT3JiX2pjZURJdzh1SngwaWNhNWh5T0pHeXhCYW1Ra0ZHQ2ExcnBXaEJBU1o2VkloZHNRdWRqNDQ0UUQxTGo1LTUtSEhoNkk1NHg0UG0xNUEyV2pRUHZsTkpZeEZMbG9RVW0tbjB3c0pKcUpnVkdEOEs2MU41Q3M4Rm0wZHdEU3gtNURmS1FJ?oc=5",
+          "time": "8h ago",
+          "body": "MP Sanjay Dina Patil Holds Separate Discussion with PM Modi; Seeks Faster Development in Northeast Mumbai  marksmendaily.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MP Sanjay Dina Patil Holds Separate Discussion with PM Modi; Seeks Faster Development in Northeast Mumbai marksmendaily.com"
+            ],
+            "tldr": "MP Sanjay Dina Patil Holds Separate Discussion with PM Modi; Seeks Faster Develo"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1786158688089",
+          "title": "BJP, RSS practising politics of 'double standards' over Gen-Z: Opposition - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3FUYzN4OXJVbDg3b1NhX1pLMlBPbFZ5MFkzVmJNNDEtT2ZXSTdqbGJ2MGJtQ3puX1FTUEd5WV9vS2JuWXlBa19KLW5Yay1QUWtFMzRqdFZaclZUdWV1SThuUDlDbDI4bGlYV1RkUy0wMEV5c2N3TmVsVzlUVHA3Sl9jYTdUa2doSDZoRzdLWGJ1MkYyVGdhS3NMTlpRQi04NWM3a0xUUWtYeVF1ODBsOU93S2dDWWlYR3h1OQ?oc=5",
+          "time": "17h ago",
+          "body": "BJP, RSS practising politics of 'double standards' over Gen-Z: Opposition  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP, RSS practising politics of 'double standards' over Gen-Z: Opposition The New Indian Express"
+            ],
+            "tldr": "BJP, RSS practising politics of 'double standards' over Gen-Z: Opposition The Ne"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1786158688089",
+          "title": "Maharashtra govt bans literature of proscribed outfits glorifying violent extremism - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVNaYXJXVXR3RE5BMTY0cmo0cmJHMW9jVXNlTmx0QVlxNzljWnFrRjNLdWo2Zk45WmRtdkIxZ0p4ZmlLa1V1Nk9IelpvVU1QUXZuSGlYd1pBaFhlazByTmFvRHVTckRTY1BVWXlweVZhektJdThpeFFkZnVodWJ1R0hBaGhTZHVtNHZSX3ZNbE9ZUjBFYXpNYmdBam95U1IzSVpUZG1tTHk0TUIxRnl1cU5aZE9hWkNkalHSAb8BQVVfeXFMTjVEb1NnTzlReXl5M0FRQzZTeUZpVzd3T3RkRkU0MzNoejAwaWdHenMxeEZ2X3VYd0VHYUFtMkpHNktQZGhhTkV6bVFpR2hlSGtMMGFzMy1SRTUzbXVRMUVNcHVjUEVWR0RmdjRoZkdIS00zM0w0R1YtVlhVRE9OM0E0bEdJZ0ZaQXdsUjROQmF1X0pvNXcxS3dPYUZ6UEpxdDRZSF9Hbm8wa0dPQVd5dGJibE4tRnN6UGZiWnQwZXM?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra govt bans literature of proscribed outfits glorifying violent extremism  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt bans literature of proscribed outfits glorifying violent extremism ThePrint"
+            ],
+            "tldr": "Maharashtra govt bans literature of proscribed outfits glorifying violent extrem"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1786158688089",
+          "title": "Maharashtra govt bans literature linked to proscribed terror outfits glorifying violent extremism - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLVIybXlHRzVLOVBhYXIzd3FqZllKNGtzV2d6ZUpDU3JWRDROeGtlZGNkdExkTnIzRG03dXZlLUxmSHMxb2pBWkR2b2FVRGh4ZlFrMWl1MjctbE5ya05NeWNEaXJYMFdTNVB6LTl3dG00X0F2eUhFNmdDWklwaV9OUlpmVWR3UjFMc29fd2RTcUJERWRUVGNDWldpTGQ1RHFJbHZ3cVRseTJ4MFZzMnJPSDRJcmd2R1BQSmFXcUE1NWlqUjJ0Zm93bUpoY1VvUVJmZUtoU0xaNmIydHFnTGdwUXFNb05HMVZJeXVOQzlR0gHzAUFVX3lxTFBOR1VjcVJTQUw5ckxXbk9jaXJyM0tzNmg0aEI2SWpYWVNTbERaMm5FaFhPc1BWTzFSbi1DeThNdGZYMEtMX25pbzFoNzh3WVF2RTRaUjRlNW5GSi02TDZwLWdmMDlRRkxKLUpDejhEby0yUl9ERU5ROW82LVhKYlFWZS1HOUFMUEY2eVlnUi1LaGlRSGItZUlpY3RKa1RzYzlfdndBcFppaU1DallwOGotdHBCdGpFUWhwd0w1aXJpNGlTbFRoUk5BZUE0clVLX2E4RENYd1pSWGxvLWJSVjRXZFRKUzJ0NDFnU09wM3V0WHFOUQ?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra govt bans literature linked to proscribed terror outfits glorifying violent extremism  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt bans literature linked to proscribed terror outfits glorifying violent extremism Mid-Day"
+            ],
+            "tldr": "Maharashtra govt bans literature linked to proscribed terror outfits glorifying "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1786158688089",
+          "title": "Rs 10 Lakh Cover, Free Treatment: Maharashtra's Big Safety Net For Govindas Ahead Of Dahi Handi - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVExrMzNnLUlKVVE0YjE2akRzdXVhQ2xxNENvVWNxTkVnbVpJVVItMlgxMDBVNmE3RlFiZWcxX2tMYUplOWtlTEozOGZLeUppcHZZd201TnhDUDlQUkRmODYxSWUySGlUNjg3VFNnenlrNFJqT0hMRXdJWUpaeklQdTRUN0tZSVZLdGNqX0UzaTZpNzQ4NTU1UlhZeExlQUtwczQxaTZqdElMM2lIUGdpMFkwNWFpeVlNc1dwSDBHMDNyMTRKaDRDOFYzMTlleDZsOGRPLVFzUlQ2RVUtYmZTci1hRnlCUmxwbDZjMFlB0gHuAUFVX3lxTE1UTGszM2ctSUpVUTRiMTZqRHN1dWFDbHE0Q29VY3FORWdtWklVUi0yWDEwMFU2YTdGUWJlZzFfa0xhSmU5a2VMSjM4Zkt5Smlwdll3bTVOeENQOVBSRGY4NjFJZTJIaVQ2ODdUU2d6eWs0UmpPSExFd0lZSlp6SVB1NFQ3S1lJVkt0Y2pfRTNpNmk3NDg1NTVSWFl4TGVBS3BzNDFpNmp0SUwzaUhQZ2kwWTA1YWl5WU1zV3BIMEcwM3IxNEpoNEM4VjMxOWV4Nmw4ZE8tUXNSVDZFVS1iZlNyLWFGeUJSbHBsNmMwWUE?oc=5",
+          "time": "19h ago",
+          "body": "Rs 10 Lakh Cover, Free Treatment: Maharashtra's Big Safety Net For Govindas Ahead Of Dahi Handi  News18",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rs 10 Lakh Cover, Free Treatment: Maharashtra's Big Safety Net For Govindas Ahead Of Dahi Handi News18"
+            ],
+            "tldr": "Rs 10 Lakh Cover, Free Treatment: Maharashtra's Big Safety Net For Govindas Ahea"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-11-1786158688089",
+          "title": "Over 1 lakh auto, taxi drivers across Maharashtra learn functional Marathi in 3 months - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXl6TzBrUklReXRvUkFfdDJiWkEzd1VKYkRBX0k4ZjFaRHVFNEV2OFI3SklySjVvdS16dTNXZW1PaVMxTVRRVkFMeHAtanNsbXhkTWJYeExKcmtaWnBFZERlRHp6MkJUaGNreV9fN0s3M1ZBUU5FeFdlLVlKTHhpUEJrYkh6LUFiMHB5WDNZVms1dk9OaUJIc0d1WVhnOHdMTk9yTUFsMlV0RlF0Mlc4OGROTGpZWnlPNzY3VlpjLXREVUE1UVloQ3RRTm1DN1BWOVNRUkFOWHNkandxbXlfY1RXUVUwcF9oQTRNakQ4ZkjSAfYBQVVfeXFMT0c1LWxLNF9jLU9lVjE3YVFOUmx5Z3dIOHF6OFNCRTlhZkNid0JtX3pyQm0ySEh5WjA0MktHcFd4bzllam4wMzZwcl9IOXBhdzVaUm9WMmhIejUzQ1lNUFRNZE1YMTMtZWNRZ2lZZ3lrQzlkYkpRRjUwQzJHellOOE9QSkI2T1VFYWVKS1hZbjZ5Qzk1d0RzMVU5M0NnZE5ON0prLW9tMEg5dFFzcHUycG5abHFhMS15TDJTRzZYSENVZTJLc2kxcE9LREh3MFlFLVFHV3N0dDFXSmE3OTFSdVBBUTczc3h3bkRZUW5HdFpVMUJvTUNB?oc=5",
+          "time": "13h ago",
+          "body": "Over 1 lakh auto, taxi drivers across Maharashtra learn functional Marathi in 3 months  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Over 1 lakh auto, taxi drivers across Maharashtra learn functional Marathi in 3 months The Times of India"
+            ],
+            "tldr": "Over 1 lakh auto, taxi drivers across Maharashtra learn functional Marathi in 3 "
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1786158687989",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "7h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1786158687989",
+          "title": "S&P BSE SENSEX (^BSESN) charts, data and news – Yahoo Finance - Yahoo Finance Singapore",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yYzlrMEVjMWljSjJsV2E1TUVwS0lfTEZVZDJXVHBMZWxBTjZLVXFrU2VoM2dTUXpQZzVISkxfa0VrT3JaY2VYamo0cUR6LWNuYlFDcTZSUQ?oc=5",
+          "time": "23h ago",
+          "body": "S&P BSE SENSEX (^BSESN) charts, data and news – Yahoo Finance  Yahoo Finance Singapore",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "S&P BSE SENSEX (^BSESN) charts, data and news – Yahoo Finance Yahoo Finance Singapore"
+            ],
+            "tldr": "S&P BSE SENSEX (^BSESN) charts, data and news – Yahoo Finance Yahoo Finance Sing"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1786158687989",
+          "title": "Stock markets decline dragged by banks, elevated crude oil prices - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVDlLblpFNWRMVHlqb3NnSzRGRldveXd3QUwxM3U1aDlQTXl0NUpaT0tqU0s1aG9QUVMyU19tNk0yXzhkWjg2UnhzTjQ3Wkw4d2d6RlEzekVNZ3U1bWFmVFFvdHhwY0JwVE93XzQ4WEZYbjNxV2dFN05oMklRZVJHS1lVQll2V0ZLZnV5YkF0YzRoZW40SllzM2lYbElUTkRQ0gGgAUFVX3lxTE9UOUtuWkU1ZExUeWpvc2dLNEZGV295d3dBTDEzdTVoOVBNeXQ1SlpPS2pTSzVob1BRUzJTX202TTJfOGRaODZSeHNONDdaTDh3Z3pGUTN6RU1ndTVtYWZUUW90eHBjQnBUT3dfNDhYRlhuM3FXZ0U3TmgySVFlUkdLWVVCWXZXRktmdXliQXRjNGhlbjRKWXMzaVhsSVRORFA?oc=5",
+          "time": "4h ago",
+          "body": "Stock markets decline dragged by banks, elevated crude oil prices  Daily Excelsior",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets decline dragged by banks, elevated crude oil prices Daily Excelsior"
+            ],
+            "tldr": "Stock markets decline dragged by banks, elevated crude oil prices Daily Excelsio"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1786158687989",
+          "title": "Stock Markets Decline: Banks, Crude Oil Drag Sensex, Nifty - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLXdCTl91Q1l3d1NCTmFyamxKaW9RZjRLX3ktMVM3aVJzeENWaXhvVlJIOWJzYlJlaGVDa3FLdWdJYWcyQlVHTFdkX29XQlFBcHpEWFk5dEp4WDBnMnFyUUpXd1N4SzFMZUlZMDcwdVVaTmUzNFpTNlFHdHBWUzZvbW5SbG1wVFo4SWdsM2c5UzZyMEZTWTJzalBBVGpZNEdLWHY3NGFvUkpXWlHSAbABQVVfeXFMUFVjNy1NOS1CMDhGZl94YkV3YTZCWGZkMW5YcVo2UHJpM2pKbEtLb044VnpVQU9vb2F4NDdla0RlR2hOdmhFQjVvMF9pbUdndTNkZDdRd2oyY01yemRlbzJHRmJUV0xZd0NPbk1DVEVpcUZCdGdpdDQtQjJtTTRMb1ZybkZGSzQzcE82R0dnZEVpN0FPVjhmVEwxYjRPWDI2clRHRWJyZHY2MVBrMTFUSmQ?oc=5",
+          "time": "15h ago",
+          "body": "Stock Markets Decline: Banks, Crude Oil Drag Sensex, Nifty  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Decline: Banks, Crude Oil Drag Sensex, Nifty Rediff MoneyWiz"
+            ],
+            "tldr": "Stock Markets Decline: Banks, Crude Oil Drag Sensex, Nifty Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1786158687989",
+          "title": "Sensex, Nifty decline over 0.6% - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tV01qdGVkYzBWQjk2Qjh3N19LWXlBdm1fUjV2T2kwS2JwTVZpc01FVDZ0MTkzT1haNnBrSmdtdzQ1OGp6el9ONDZxMlo5T1VacVl4Y3I2ZGRGOUxMTnBYX04yZk1lQQ?oc=5",
+          "time": "10h ago",
+          "body": "Sensex, Nifty decline over 0.6%  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty decline over 0.6%  News On AIR"
+            ],
+            "tldr": "Sensex, Nifty decline over 0.6%  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1786158687989",
+          "title": "Sensex, Nifty fall in early trade as financial stocks drag - telanganatoday.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPem1yX3pLVURHZ3FYbFRiRExiSUhtcnBvc21TU0ZncjhIUWxTRmFMWUFBMXNMVkJ0UGlneThMaEtfZGxMRDlmQ0tlMHU0MXFVOWtpZXg2eHdHVFJDcjU4eXcyQ1pPRGJhUUNoSTd1SWM4dDVoZFhIWW42MExkZFBrdzE3dENGbG5YcFpFZg?oc=5",
+          "time": "22h ago",
+          "body": "Sensex, Nifty fall in early trade as financial stocks drag  telanganatoday.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty fall in early trade as financial stocks drag telanganatoday.com"
+            ],
+            "tldr": "Sensex, Nifty fall in early trade as financial stocks drag telanganatoday.com"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1786158687989",
+          "title": "Sensex slumps over 450 points, Nifty loses over 65 points amid rising crude oil prices - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXEwbDRQLXJOazl3NjBYVk1uaGtvemZmVlNRazJOMlZ3RmxnbDVYVjdObHVkNEZLd3ZteUEzVmJ6RFd3VVg5WTVIa1BSaVFwY19UN1U4a3Z1Z0N0cW51eERDQXJ2dGwyT3IwYmk4cGk2ZHFtSHc0VlFtNWtTemtrSWo5NXUwTEtHVUF6WHVELTZFd3dnR1Y1UEk1ODFyV1hMbWVKZTZBTEprZk5XdmZFRzNCR2ZoblExQi1CNEhDMDFUTzZwVG5XeVFXbjF1MllqbXR1X1llaTVXc1loQzdGRjB1SGhVLVJF0gHoAUFVX3lxTE01cTBsNFAtck5rOXc2MFhWTW5oa296ZmZWU1FrMk4yVndGbGdsNVhWN05sdWQ0Rkt3dm15QTNWYnpEV3dVWDlZNUhrUFJpUXBjX1Q3VThrdnVnQ3RxbnV4RENBcnZ0bDJPcjBiaThwaTZkcW1IdzRWUW01a1N6a2tJajk1dTBMS0dVQXpYdUQtNkV3d2dHVjVQSTU4MXJXWExtZUplNkFMSmtmTld2ZkVHM0JHZmhuUTFCLUI0SEMwMVRPNnBUbld5UVduMXUyWWptdHVfWWVpNVdzWWhDN0ZGMHVIaFUtUkU?oc=5",
+          "time": "15h ago",
+          "body": "Sensex slumps over 450 points, Nifty loses over 65 points amid rising crude oil prices  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex slumps over 450 points, Nifty loses over 65 points amid rising crude oil prices Mid-Day"
+            ],
+            "tldr": "Sensex slumps over 450 points, Nifty loses over 65 points amid rising crude oil "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-5-1786158688089",
+          "title": "Maharashtra: 114 ISIS, Al-Qaeda, Hizbul Mujahideen publications seized across physical & digital space - organiser.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ2NMWHYwbHlBZF9aZzRzWmNqWTFaV2JKMWN3VW10SGZKREItZFVNbDNGTjRkMHJqM3lpeTRrQU1fYmtKb25EM0k0ekZoRHZfVkpIbm93NDlEbjFrdVJlU1MwaGIySy15YmxmMDdiMTZGQXFXZGRvdmlSVXBGZktUSTVCc0tOMzFmcDNJdU9rWFpOM2t6NUN4R2g0YVNHV3J2Wl9JY29kcFR1X0xVU0FTbGhPU2tWRVFzcGtBSDlhN0Riak1KN04xdzdhYldxQnRtSlo1amVVaXhLVldwTEHSAeMBQVVfeXFMUEZ1c2FGdXdlTHAyTkdEeURyaWkteXZSRTJ4bUs0RlA3VWp4R3kwcjI5eWlBRE16c1BKbEYtaVZ1YUFzbzZlYU5DUGswX2oxZjFIWnotVjZsUGNWZnlwYjVhVFdfZUoxZjNEc3lOZnJFSDJmck1oQzNnTjJUOHBkMnIySXNJaWIwRkFUd2h3LXZIeTJqN1ltV2ZtRHdiSDhqSjNqYjZnUzJ5dGF5SVVDYVFtMW41RVZseVAwRjZrMWYwelJtVERVTVIwX3Rhal9odjhTQnBfOGhhR3ZrdDRlMWVmQ1k?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra: 114 ISIS, Al-Qaeda, Hizbul Mujahideen publications seized across physical & digital space  organiser.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 114 ISIS, Al-Qaeda, Hizbul Mujahideen publications seized across physical & digital space organiser.org"
+            ],
+            "tldr": "Maharashtra: 114 ISIS, Al-Qaeda, Hizbul Mujahideen publications seized across ph"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1786158687975",
+          "title": "MMRDA ropes in Singapore’s Surbana Jurong for Mumbai 3.0 master plan - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX2R2RTVNcGxOTW45SW5TcVVJbXJoUFZUcGpmOEp0OXdBUWNpWFoyYmw3MUNaeEVpd0lET1lyRmR2MWpYN1JGYmMtYU10SjZxcnM0eEVqOUlZanZ4NFVtSUVZazFyM3RPcXcta2hoRlRMMFExdHlZcjk0bGhiVldiNG0yX0pGUnZZaWpQYjg5bWtMWk1Eel80eFZQQ0JyLS00TndpRWk1Z1RoSXRUa2hQZlQ2dGF5UFN6d2l2ZnQ4WmtoeHM5cEVvZVo0S2VHdnhWLVUxbkw1REhaRkdKUHZyQWxDaEN2VHV2eHpyVHU2R3BYOC1ydzBVWdIB-AFBVV95cUxOX2R2RTVNcGxOTW45SW5TcVVJbXJoUFZUcGpmOEp0OXdBUWNpWFoyYmw3MUNaeEVpd0lET1lyRmR2MWpYN1JGYmMtYU10SjZxcnM0eEVqOUlZanZ4NFVtSUVZazFyM3RPcXcta2hoRlRMMFExdHlZcjk0bGhiVldiNG0yX0pGUnZZaWpQYjg5bWtMWk1Eel80eFZQQ0JyLS00TndpRWk1Z1RoSXRUa2hQZlQ2dGF5UFN6d2l2ZnQ4WmtoeHM5cEVvZVo0S2VHdnhWLVUxbkw1REhaRkdKUHZyQWxDaEN2VHV2eHpyVHU2R3BYOC1ydzBVWQ?oc=5",
+          "time": "14h ago",
+          "body": "MMRDA ropes in Singapore’s Surbana Jurong for Mumbai 3.0 master plan  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MMRDA ropes in Singapore’s Surbana Jurong for Mumbai 3.0 master plan The Economic Times"
+            ],
+            "tldr": "MMRDA ropes in Singapore’s Surbana Jurong for Mumbai 3.0 master plan The Economi"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1786158689385",
+          "title": "Cloudflare introduces AI monitoring tools for enterprise governance - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJ5UjRQVDRtSW5SbkNRZjJvU0hnVlhVcXhzNGkzbnoxUDVJVnlTMTNrUzR5NmpsNEdBUzI1ckNuVzczQ2NGeUs5Q1pYYTR1Z1Bxc0hadFpwNXlWb1JZZjJDbF9XYTBTTVE3RW1heUNKSkdjUzVTVDZUOHlzVmJjMmZ3VTVsTTY5MzNRekZpVUN3YTMtcUU3eDZoWFNadjJaQTBmVjJnVmM0ejhDQzFHUA?oc=5",
+          "time": "12h ago",
+          "body": "Cloudflare introduces AI monitoring tools for enterprise governance  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cloudflare introduces AI monitoring tools for enterprise governance Express Computer"
+            ],
+            "tldr": "Cloudflare introduces AI monitoring tools for enterprise governance Express Comp"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1786158689385",
+          "title": "EROS Universe Launches India’s Biggest AI Creator Audition Across Mumbai, Hyderabad, Bengaluru & Chennai - EIN Presswire",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQWNCTE1FUmFFemlLS0w1M3Z0SVl2ZEJNOW1XUUhLTTlITWtjMFE1UlNNSjVvR0JiRGlqVzkwN002OFZ0SFpDbU9KaUdXYkVRT0ROak9mWnZ1S0dURDR0VlpGOE9KLUpYT3daaElZbktjSDV4MWZpODIwRm8zeVlYcmxLRG9sNkR5akh1eFBfU0Z3MEZJd3FiWkg0LUhSQWpPczBabzNjWGZYVml0X0FZd19leTllZGw3amlxRU1UNml1bDE1bkRCV2RvYTBpcGUwc01vS2VQNlc1cjdBUEN2LQ?oc=5",
+          "time": "17h ago",
+          "body": "EROS Universe Launches India’s Biggest AI Creator Audition Across Mumbai, Hyderabad, Bengaluru & Chennai  EIN Presswire",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "EROS Universe Launches India’s Biggest AI Creator Audition Across Mumbai, Hyderabad, Bengaluru & Chennai EIN Presswire"
+            ],
+            "tldr": "EROS Universe Launches India’s Biggest AI Creator Audition Across Mumbai, Hydera"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1786158689385",
+          "title": "AI safety must keep pace with adoption in financial sector: CEA Nageswaran - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU0FCck5VTXBPaTNpRVpMZjA5T3lSYmFfZmZPRGV5VGpqelg2aGZwQ09ZSzF3UzRpOFlsMHBvNHpFLUtXb1hyRjJHS2RsRXMxUGk3YmNDYXpJSUQ4NmU3Q01YbFd3ZVlEbWE5MkVHdEZxMnM3b2VYejdVNnBLRy1VTnc5cDg5RVFfQnJSa0w5WG1qQ0U4eWVzN3E3b1BZOWtUS1FTWm1GZjBUemhhSHJwYnZzX3dXOHVHTDZSd185Y9IBxAFBVV95cUxOZ1JJWWN2cjJ4ZllodXZMbWxPaTJ0RnZzbkVGNnoxUDJUUUpzcFB4U1ZTQnV4SndzMkFQb1FpVUxyZXNZTVhnUzc5VmdMWHBGSEhlNHVxQ01mNTZKelhQY2ZrU25haEpxeTl4LVREdFFUeGpHYWtvWUJHX1p3ajE2SFB3UXA4RDlNMkszU3dDY1o5S3FFWkp3c2VjNEtobC1wdm5Xa3pYQ2p3VmdRZDVISWNoVVRjVzU0VnVubjd5c0d1YmdU?oc=5",
+          "time": "20h ago",
+          "body": "AI safety must keep pace with adoption in financial sector: CEA Nageswaran  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI safety must keep pace with adoption in financial sector: CEA Nageswaran Business Standard"
+            ],
+            "tldr": "AI safety must keep pace with adoption in financial sector: CEA Nageswaran Busin"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1786158689385",
+          "title": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEpuTHFFS09VX3VGOEJvU25UZVY3N1Y5b2NFYlRtT3lnLUhnb1VDOEVjc29kQTR4aDBYZmtnTXVmSHFfZlN6STl5dFM3djdoVWpVNlNzdW1INzk1QkpMMWNEYkNWcndjT1hwMUVlZnY5NVpsaVVYOXY1WDhBNDdTZjEtcXhzdzEwOHYtdno5WmtLWVFLUUdkZlFzVWRsZ0FSUFJjUzNkWVJpbXh4Vmo3UklkeHRqbm1pYTRESHJUN1hWZDFySjdNMDFOT2NDTnE2aVhWdkFBYzJVMjdTNXRjSjJFQU1xUGNlU1g5atIB7AFBVV95cUxPOEpuTHFFS09VX3VGOEJvU25UZVY3N1Y5b2NFYlRtT3lnLUhnb1VDOEVjc29kQTR4aDBYZmtnTXVmSHFfZlN6STl5dFM3djdoVWpVNlNzdW1INzk1QkpMMWNEYkNWcndjT1hwMUVlZnY5NVpsaVVYOXY1WDhBNDdTZjEtcXhzdzEwOHYtdno5WmtLWVFLUUdkZlFzVWRsZ0FSUFJjUzNkWVJpbXh4Vmo3UklkeHRqbm1pYTRESHJUN1hWZDFySjdNMDFOT2NDTnE2aVhWdkFBYzJVMjdTNXRjSjJFQU1xUGNlU1g5ag?oc=5",
+          "time": "20h ago",
+          "body": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions The Tribune"
+            ],
+            "tldr": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in "
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1786158689385",
+          "title": "Wonderful enters India, plans AI deployment team for large enterprises - financialexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT21rbHBmY08tNWVUYzhuLVdFMk1fcWhQcWt6ajFZMDVrbmtDZ0Q5aHRpUUNoOFZKZVZ6emxZV3hvdTNENDJyX0xLWG44T0JnS1J6OXUxeDh5Zi1uU25raHFXaXEzdDJ0REEtV0h4b3NoMFNBSks2T29kVlp1dHBnX0NuSG9CNDRFeUtlZ3R1dnBkSFBQcE1CejBQNjJyNEJOMmFqWlZKbE1yVkdRTzFPWTROQXVFV3ctSFNrQmRmLUs4YnPSAcoBQVVfeXFMTW9fWWdOWGZmdFNsRlN1N1FXQzdCcUM1T01UbDdHX3ZaMDZKTUx3YzZGRVptbk9tdzd5dUViS0ZmY01JUjhTTExKRjFVV2tITmZ4SGxBYjdaVG9RU0h0bnlhZGJMME1pSjJ1eHRqV2xtZmJ5YjdZU0psSGlvMTdSVG1KTVBqU3Z4VW41QlI0ZnRsTTlMOUFXQ1B0RkJudkduVUNwS2RReC1tMjZRYk5PbEp5WHdEZjRwQWRqWU9nREhSaUhRRDlKQkszZw?oc=5",
+          "time": "11h ago",
+          "body": "Wonderful enters India, plans AI deployment team for large enterprises  financialexpress.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Wonderful enters India, plans AI deployment team for large enterprises financialexpress.com"
+            ],
+            "tldr": "Wonderful enters India, plans AI deployment team for large enterprises financial"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1786158689385",
+          "title": "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Generated Fake Tickets - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUDd2ODRZdG9Jc2J2Y19xem5IUjJCZk8wWDZXdE5pSklVR0drdjFMdTd1eFJ0U1p6RmdKam50Z2ZZYUd4WFNNaEQzVU5HMEdQeEw2MkVUZTVLNFZZaGJNSmlROVZoNzBrQ05EeGcyVU1kSk54aHppTC1paU5BdnJzZjdLcldocEZmd1p3RFFmTXU2eUVyWldlWHgwc1NNMXhNcmRoV21IcFp4bHpVMlYydV9kbHJZT1ZiZ1BWQTdvWVdqdWdXcUNUcmt4eHZQSmQxSGfSAdcBQVVfeXFMTTY3S0l5T3NaY3RGaS1lN1ZKQ3JEUml5RUxGbm5lMnhaU0Y1ZkdpWUk5LXNfS0NFNWxfUWVGWUY3Y09VM1NNS3AtV1FQRXhvVzRwSEJuSEw5TDlCSjQzODVZZUI0OG10bnNBSzhRY0JwRVdhUWxLLS1EZWlSbUwwNHY2VjRKRXNGNGYwV1NCaXVTT0toazhxaWk0TXJyMndLUWNBNTVycFh6QUR6OFVrNDE4NGRHdG5UMDJxWUFIdm1OVkw0X3RfdVI2QmtWN0hlMVcyT21iVnM?oc=5",
+          "time": "7h ago",
+          "body": "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Generated Fake Tickets  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Generated Fake Tickets Free Press Journal"
+            ],
+            "tldr": "Mumbai Railways Seek Double Ticket Checking Staff Strength Amid Rise In AI-Gener"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1786158689457",
+          "title": "The Hardik Pandya trade: Which team will sign the India all-rounder from MI for IPL 2027? - sports.yahoo.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDdVdGVSNU8wZlFBVjB6NWw3QXprSlNmdHRxOE9KODRMelY1ckVYWmVYV2JjWUNwU1JuNVJTV1l3OVE4WXN2Mm1FTTVPclkyM0NGS09tcjV1TU5KcTV6dnZvLWlVX29NeEl3S24zaXFzaWd0SjFaYllORWV0Q3dEcEZfVnU?oc=5",
+          "time": "9h ago",
+          "body": "The Hardik Pandya trade: Which team will sign the India all-rounder from MI for IPL 2027?  sports.yahoo.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Hardik Pandya trade: Which team will sign the India all-rounder from MI for IPL 2027? sports.yahoo.com"
+            ],
+            "tldr": "The Hardik Pandya trade: Which team will sign the India all-rounder from MI for "
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1786158689457",
+          "title": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move - sports.yahoo.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGsyZEplbkRfM0w2dFcwYjZqZkgyVm1YWm5IaU9vSW5TdFd2b0gzT0E0NUZLRDhTbzN3Tm1aU1pvS3hObkV3cGx0WHRzYXhrWnNScE15MVFCaVRFVFdSSzB1SktfdTVMZzlnNnVhWHFvUkQ5Ry1XRTFPMkZFUl9MTXFWd0djM251SEE?oc=5",
+          "time": "7h ago",
+          "body": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move  sports.yahoo.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move sports.yahoo.com"
+            ],
+            "tldr": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya link"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1786158689458",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "18h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1786158689299",
+          "title": "Ex-India pacer with 504 first-class wickets set to become Karnataka's new head coach - thesportstak.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT2xkYXN1VUQ5ZG03X0RGYVdoTS1hSm9pS05XWklGN2hIMVk4ZUotb1E5ZXpuZ0pLNEprTG9xZVNIU0xKOTlVVjM1WVllZ0lQMG0xcnVodEJDLVdXcWNLODktSS1UaU9xMWJnVDc5NGZwdlNXbVBTbWR3WTcwclJ6WHdNQWdpYlVMLWJhcmFEMWhSTUZTaVh6VFZ5TWVKb3pfZ214WHRaR2l5TzBtbTBycGswUmZTajlJbGJ5ZDRmZ3NpRWhEdWt1YkllRUFyUTFIMGwwcHpCajJJdlQ0Mk1LSjJ3TTRyZ0VTYkN6VtIB7AFBVV95cUxPT2xkYXN1VUQ5ZG03X0RGYVdoTS1hSm9pS05XWklGN2hIMVk4ZUotb1E5ZXpuZ0pLNEprTG9xZVNIU0xKOTlVVjM1WVllZ0lQMG0xcnVodEJDLVdXcWNLODktSS1UaU9xMWJnVDc5NGZwdlNXbVBTbWR3WTcwclJ6WHdNQWdpYlVMLWJhcmFEMWhSTUZTaVh6VFZ5TWVKb3pfZ214WHRaR2l5TzBtbTBycGswUmZTajlJbGJ5ZDRmZ3NpRWhEdWt1YkllRUFyUTFIMGwwcHpCajJJdlQ0Mk1LSjJ3TTRyZ0VTYkN6Vg?oc=5",
+          "time": "23h ago",
+          "body": "Ex-India pacer with 504 first-class wickets set to become Karnataka's new head coach  thesportstak.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ex-India pacer with 504 first-class wickets set to become Karnataka's new head coach thesportstak.com"
+            ],
+            "tldr": "Ex-India pacer with 504 first-class wickets set to become Karnataka's new head c"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1786158691939",
+          "title": "IND vs SLC Live: Jadeja, Kuldeep & Suthar put India in command ahead of day 2",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "IND vs SLC Live: Jadeja, Kuldeep & Suthar put India in command ahead of day 2. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs SLC Live: Jadeja, Kuldeep & Suthar put India in command ahead of day 2. [object Object]"
+            ],
+            "tldr": "IND vs SLC Live: Jadeja, Kuldeep & Suthar put India in command ahead of day 2. ["
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1786158691939",
+          "title": "India vs Sri Lanka: Captain Shubman Gill's time to take centrestage",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "A year after taking charge of a team in transition, can the captain emerge out of coach Gambhir’s shadow in Sri Lanka?",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A year after taking charge of a team in transition, can the captain emerge out of coach Gambhir’s shadow in Sri Lanka?"
+            ],
+            "tldr": "A year after taking charge of a team in transition, can the captain emerge out o"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1786158691939",
+          "title": "'Having skill is one thing': Shikhar Dhawan drops big verdict on Sooryavanshi",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "'Having skill is one thing': Shikhar Dhawan drops big verdict on Sooryavanshi. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Having skill is one thing': Shikhar Dhawan drops big verdict on Sooryavanshi. [object Object]"
+            ],
+            "tldr": "'Having skill is one thing': Shikhar Dhawan drops big verdict on Sooryavanshi. ["
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1786158691939",
+          "title": "'I got angry': Ashwin reveals why he stopped talking to Sanjay Manjrekar",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Ravichandran Ashwin opened up about the initial sting from Sanjay Manjrekar's critical comments, which fueled his desire to elevate his fitness and refine his bowling. Manjrekar later praised Ashwin in an article, acknowledging his remarkable performances. As a testament to his skill, Ashwin concluded his career as India's second-highest international wicket-taker with 765 wickets, solidifying his status as one of the country's finest all-rounders, still active in T20 leagues.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ravichandran Ashwin opened up about the initial sting from Sanjay Manjrekar's critical comments, which fueled his desire to elevate his fitness and refine his bowling.",
+              "Manjrekar later praised Ashwin in an article, acknowledging his remarkable performances.",
+              "As a testament to his skill, Ashwin concluded his career as India's second-highest international wicket-taker with 765 wickets, solidifying his status as one of the country's finest all-rounders, still active in T20 leagues."
+            ],
+            "tldr": "Ravichandran Ashwin opened up about the initial sting from Sanjay Manjrekar's cr"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1786158690699",
+          "title": "Noida Latest News Today on August 7th, 2026: Firefighters Killed, Heavy Rain Alert & Jewellery Robbery - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTlZvT19TcGdEdUJoLXVFcFJCdWtpY3lubjI0dC1iYnprZDF1amhKRkNjYzlSWEQ3d3RaZjY5Q0dyXzNyN1N4M3BzTE1JclZvcy1CS0N4Q1JhVlZ3TW54TVowWHdUS2VRS0gyRXdyYkdHa1pyVzB2ZTZ2SFpDZktBTFFVdkhCUDA1emwwR0FsVC1TbzEwY0Z1cHNoRDJ2MmdBT3lOVl9taVVoekE5Z05MVVdZREJZQXQxRl8tYWZ2amJNWktWTkI5UVJLMHhaN0pfdFIxOFg4MmlMMEVBaE9XS3lQQ0dFN3V5VEHSAe8BQVVfeXFMTVpxV1BOQ25ZdWtvYW1seUV1Q25Ya1NkQ3k3NEl5RFdDTVNfNmdJby1PRng2WVpPTXNJRGMxMUpZbFhnU0JPTG5qeTlzX29Yd2ZfalpWR19mTHRyRGc2c2pSZ2dUdHh2clVVeHRNRGZlaHFlN3lDQjF1X21xYkQ5MnJxUTBnQmRVWlFpc3JKNkQ1RHc0bU1EZ2JibzE2SWFkdDhtbjFwOHF1S24xN3hYUDJSYWMtNURmd0VvSzdZN2ZQeHVzZ2IwLXBZOHBXLVhkSDFwdHNWSmp5WUYtdjRIU1VUWkt2OFM3aVhrakNVMkE?oc=5",
+          "time": "23h ago",
+          "body": "Noida Latest News Today on August 7th, 2026: Firefighters Killed, Heavy Rain Alert & Jewellery Robbery  LatestLY",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Noida Latest News Today on August 7th, 2026: Firefighters Killed, Heavy Rain Alert & Jewellery Robbery LatestLY"
+            ],
+            "tldr": "Noida Latest News Today on August 7th, 2026: Firefighters Killed, Heavy Rain Ale"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1786158690916",
+          "title": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]"
+            ],
+            "tldr": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was r"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1786158690916",
+          "title": "'Exploitation will never be tolerated': US sues Indian-origin landlord for 'sexually harassing' tenant",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "A landlord faces a federal lawsuit for alleged sexual harassment. He is accused of retaliating against a tenant who rejected his advances. The tenant's furnace was not repaired, leading to a fire. The Justice Department is seeking compensation for the affected family. This action aims to protect tenants from landlord misconduct.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A landlord faces a federal lawsuit for alleged sexual harassment.",
+              "The Justice Department is seeking compensation for the affected family.",
+              "This action aims to protect tenants from landlord misconduct."
+            ],
+            "tldr": "A landlord faces a federal lawsuit for alleged sexual harassment."
+          }
+        },
+        {
+          "id": "mumbai-general-4-1786158690917",
+          "title": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]"
+            ],
+            "tldr": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city cha"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1786158690917",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1786158690917",
+          "title": "Indian-American couple announces graduate fellowship for University of Texas students, says it's 'simply an open door'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian-American philanthropists are making significant contributions to American universities this year. Anil Kochhar and his wife Marilyn paid the education loans for graduating students at North Carolina State University. Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas. This fellowship will support students with expanded resources and financial aid. The Bhatias hope their contribution will inspire future generosity among recipients.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American philanthropists are making significant contributions to American universities this year.",
+              "Jyoti and Nishi Bhatia established an endowment for graduate fellowships at the University of Texas.",
+              "The Bhatias hope their contribution will inspire future generosity among recipients."
+            ],
+            "tldr": "Indian-American philanthropists are making significant contributions to American universities this year."
+          }
+        },
+        {
+          "id": "mumbai-general-8-1786158690917",
+          "title": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Only thing keeping me in Canada is the amount...': Redditor says getting residency looks remote, decent job not enough. [object Object]"
+            ],
+            "tldr": "'Only thing keeping me in Canada is the amount...': Redditor says getting reside"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1786158690917",
+          "title": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Way better than America's Independence Day': Texas influencer enraged by advertisement for Indian Independence Day event in Frisco. [object Object]"
+            ],
+            "tldr": "'Way better than America's Independence Day': Texas influencer enraged by advert"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1786158692194",
+          "title": "HC upholds state ban on Maha govt doctors’ private practice - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdnllWnpiWVRHNlY3aU41T1BSb0FIbXBNcUxMc0JNZHRzUE9aRjBLeDZQSlM0Yko5bzVITkZFSk9DeGYzcWN5Y2xHT1d3UFdYZ3huV2xhNmxVa0swbW9nX1BQRjM5WFF4NnBTVmJvUVktcUItLW5VSzZpYnE5d3dvcE9vc0xhVVdJX2YySXd3TV9qYzRRN3R2OC1VcGxUZkFYUnVHTXBjUnRaeWRnRnh6YlREblowc2F0MkJaZ3FyYmc1cjllS2ltOGF0czRrTk5qNXfSAdcBQVVfeXFMT3dtOFprbVRoN1JQZExWdjZNZDVDNHhDVUNxM0NTeFA5M0dGaWRaQlFHbXlucXNRQjhHWTRyV2V2bUtsMUEwTFpUM0ZKUDdrakt5ZGZ3YjVoTHFLQ2RCc25kNXZMaTRvMm53NzF2T05hZE95RXRsNzlNQlF0V0Zoc2dFSlU3ZnE0VkZtMU1hRkNhQ0Rwb0RGQXl2UFdSZ0dHeDduVWhEbU03WU1TbUZ0blNrb1h2UGhfelFJQjRyczVHODFvUzBzdjVNRUg0MVVaeXhuYWFVRVU?oc=5",
+          "time": "10h ago",
+          "body": "HC upholds state ban on Maha govt doctors’ private practice  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "HC upholds state ban on Maha govt doctors’ private practice The Times of India"
+            ],
+            "tldr": "HC upholds state ban on Maha govt doctors’ private practice The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1786158692194",
+          "title": "'Not For Police To Decide Whom I Meet', Abhijeet Dipke Confronts Police Officer At His Maharashtra Residence - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY2pHcmM4cVFSRkdEOFpxQkhkc2tQNF9QYjZBbmNUTnM5aHdvUm92dnB6bEdxaHF2c25iTzgyS2xDZXNPMERJV3h5MXhjR2c5S3hmNlc5ODNxRGdDeHFleGtIajJSQWtNRklIb1ROX1lBRG5hd3BHZjlqOEsxblRjc3k5dWpOVFJoM21DZTVxenA1VEp2bXNBdGNWQm90RkppMlVlUmZsQ0w4Y1ZFYkRqS1JqYUE1NVpYQXBNRkpqZTVKMHIwMHVrUHowMFcwS1Q2ZHJsMUJSc2poSXRNakpwSU1zVWUzM25jRzE40gHwAUFVX3lxTFBvUVIwcHRlWGNYSGo4Zk9FcmdNak1mX3V5YmtBbFF1VXRDRVdzMzM4NFVkTFJ3M1JmM0pobXRGQW82aXRUNk1jTWxGN3JXVEUxNG9KUWZTUEU3YWo1b0wtZGZRcmZhNUhTekN5RjlxMndJV1dxdFJEOTJ6bXNXWXlZVlQxX1VnVDlFdjVRWGJUUms2TmdEYUJyUE1rVWN0ZzVxTDZTOU81TWpuUGpGMlBaUTlNWnJwQ1Q5M1J1WHRSV29ZOU5TWFhIakpBTDF3Y1ItUEw3VDh6M0dUMmxOM3pWNUNiWUkxZUtpeThORlBFZA?oc=5",
+          "time": "16h ago",
+          "body": "'Not For Police To Decide Whom I Meet', Abhijeet Dipke Confronts Police Officer At His Maharashtra Residence  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "'Not For Police To Decide Whom I Meet', Abhijeet Dipke Confronts Police Officer At His Maharashtra Residence ETV Bharat"
+            ],
+            "tldr": "'Not For Police To Decide Whom I Meet', Abhijeet Dipke Confronts Police Officer "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1786158692194",
+          "title": "Abhijeet Dipke lashes out at cop in viral video outside Maharashtra home; netizens react: 'Who are you to...' - theweek.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdVplXzJPMW8tZ1JmUkZGdmJBUTl2ZXJzdGFYMXhaQU1Va05tLTB1YlZHRmV4RXpGalJRUXlSOXE2NHJBSFJCb1lXVHVaczg1Vy1qWE02MnJzYnNQLUQzLU5hZnVTVVlvVmtJOHhPaTVoZHh5dGZxRDhUeFZrTExXWGFfdHRPYnA3aXFOUkJtbWNFWkllelFfMG1TWDlJWVh3UlZ5R3ppUUxZT21pV2JQNUE2akxfTVpWbENLRk9GTkE5a29wT1g4eGtOWEtXN0tNNkkxSnh1eS1WWHlONVhXbzM0TFowMUJZaHFZMtIB7AFBVV95cUxNdVplXzJPMW8tZ1JmUkZGdmJBUTl2ZXJzdGFYMXhaQU1Va05tLTB1YlZHRmV4RXpGalJRUXlSOXE2NHJBSFJCb1lXVHVaczg1Vy1qWE02MnJzYnNQLUQzLU5hZnVTVVlvVmtJOHhPaTVoZHh5dGZxRDhUeFZrTExXWGFfdHRPYnA3aXFOUkJtbWNFWkllelFfMG1TWDlJWVh3UlZ5R3ppUUxZT21pV2JQNUE2akxfTVpWbENLRk9GTkE5a29wT1g4eGtOWEtXN0tNNkkxSnh1eS1WWHlONVhXbzM0TFowMUJZaHFZMg?oc=5",
+          "time": "15h ago",
+          "body": "Abhijeet Dipke lashes out at cop in viral video outside Maharashtra home; netizens react: 'Who are you to...'  theweek.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Abhijeet Dipke lashes out at cop in viral video outside Maharashtra home; netizens react: 'Who are you to...' theweek.in"
+            ],
+            "tldr": "Abhijeet Dipke lashes out at cop in viral video outside Maharashtra home; netize"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1786158692194",
+          "title": "Gold Rate Today in Aurangabad 7th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "11h ago",
+          "body": "Gold Rate Today in Aurangabad 7th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 7th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 7th August 2026 : 22 & 24 Carat, Gold Price in Aur"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1786158692194",
+          "title": "Video of Abhijeet Dipke with Maharashtra Congress leader falsely shared as meeting with Jharkhand Congress president - FACTLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVBPS2MtYlFaUF9wRUpnRHh5RHNOMlVTRmR6Y1JaZ2piMVgtRUJjVGxybWk4VndOMGNHa2VzTmc4b0JGUWpFeHYwUlNuQjNZSnNCSERPQjA3WmVxLXlVX3hJVkJndHJQbE1iYUVuc01fWHh1ZnlIcFNGZENNc24zMU0xSm1Ra0w3XzB5bUdVRU96WnBqaUlYUVRucG13WkJYY0FoX1pydUFsa1Y3MlFPT1ZoNWcwTWNNYzZrTkZBT3h2SXFNN3hrYWF1LW5PRzNz?oc=5",
+          "time": "19h ago",
+          "body": "Video of Abhijeet Dipke with Maharashtra Congress leader falsely shared as meeting with Jharkhand Congress president  FACTLY",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Video of Abhijeet Dipke with Maharashtra Congress leader falsely shared as meeting with Jharkhand Congress president FACTLY"
+            ],
+            "tldr": "Video of Abhijeet Dipke with Maharashtra Congress leader falsely shared as meeti"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1786158692194",
+          "title": "After RSS chief Mohan Bhagwat backs Gen Z, Dipke urges him to make BJP stop 'anti-national' jibes - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeGIzbU5lcGtqTXNDSjdPM2wyWG43MzdTckF0Q0xpQTM4SVhjYXlGNmpOdm5FYi0zamNnVzliNERLM1JjZG41Q1UwSk9VSGFSNUoxVUV1TEhfTGRsWmVkdWhNdXlqakFKajBjdXhaaV9BMjhmOTBydE91WjNyWGdQcm1CZk1iTDV4UGVOWW1laVVRUUFZcjFENF9UdDQxRUMxUEhfaFpudmJTVjJiMWZldmhmUS00VGZ2RGprQWJXVmJ3NTNfeHRfaTBqTmpYWVhYOGgzUUVBTlRpRm9qMnfSAesBQVVfeXFMUFVwT2lGdFFNMW5CbEhRaXM4bnBlN3hMRjVWamZkdDZETE1GNl9DY3lYZXZvN2Z5VGJqN0tiNTVJTW9sMHlSbXhaTHgtS0F4Wm1lQ1YzQlRqd1A3aTVSNng3Z29tN3JnWTJzTEh2THA3ODJpdnRPUGdvNW55WXVmVFVfNV9NZDZhU0ZVREtYWEZCalhnZ2p2RFV5ajdxcjlsYnhrVnhZZy16bHJmQWc1ZmVSMEVSUk1ybnY1VzhKbW5Wam9PS0NaSUFHOEN6Z1o1SFJIV1NNWmw0UUZLQkF5bk1scUJXV3lqVVBVSQ?oc=5",
+          "time": "19h ago",
+          "body": "After RSS chief Mohan Bhagwat backs Gen Z, Dipke urges him to make BJP stop 'anti-national' jibes  The New Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "After RSS chief Mohan Bhagwat backs Gen Z, Dipke urges him to make BJP stop 'anti-national' jibes The New Indian Express"
+            ],
+            "tldr": "After RSS chief Mohan Bhagwat backs Gen Z, Dipke urges him to make BJP stop 'ant"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1786158692194",
+          "title": "Letters to The Editor — August 8, 2026 - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUTJiLVdCUllGSThpd2xKRWZxM3hFUzhXZk55N0M5Si1NSHlPM1JsRmx1VF94YmJobW4weWNjMGpwLTJxXzBqWW9LNnVIclFsdlBFdDVsQ2VhR3pzTjhyeENVSEJHTWxNTWFKdV9EdUVLSkJ1MUNnMWVscnRWZ2FmTTV2RDdlcVBtSUd3YzJQa3gwMXp6T2w1MnJzaDRpU0dGVnJB0gGjAUFVX3lxTE5RMmItV0JSWUZJOGl3bEpFZnEzeEVTOFdmTnk3QzlKLU1IeU8zUmxGbHVUX3hiYmhtbjB5Y2MwanAtMnFfMGpZb0s2dUhyUWx2UEV0NWxDZWFHenNOOHJ4Q1VIQkdNbE1NYUp1X0R1RUtKQnUxQ2cxZWxydFZnYWZNNXZEN2VxUG1JR3djMlBreDAxenpPbDUycnNoNGlTR0ZWckE?oc=5",
+          "time": "8h ago",
+          "body": "Letters to The Editor — August 8, 2026  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Letters to The Editor — August 8, 2026  The Hindu"
+            ],
+            "tldr": "Letters to The Editor — August 8, 2026  The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1786158692194",
+          "title": "Dipke makes Independence Day demand to PM Modi, CJP asks: ‘Who ordered pellet gun use?’ - Telegraph India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGYwRVUyaDhBbHpxYkhXaGxVQUkyaTY0Q1RUc251d1MtUHRvMFdva1VKZGxjVk92UWZGd2U1cDBZdXFCUWZQeXJVUUtrRTVHUU9zNmxYd1Bya0VnQ1BycWZYZmJNaWR6Ui1peFpVby1tZzJuY1N4VWJlMklqekM4cTFlcUVpSzZFQ1l4cHFjMnota3M0NDRMMDBVYVgwU3FNY3JiOXFvQ2Nuck93SXI0aWh5ZlVCcGVFeTNqR2xVV09KMVZtSWRmSnhHRkJ6S2I2UElTeEtOb9IB3AFBVV95cUxQcnJZYlpURDRkM0NWYWp6bW91VFhCT1MwSnNfRWZKWE80MVljSFVmdHNmNXpVZTlHbkV3LVRrbGdCRjdpd3JOZ19DZVYzWkJDQ0RyRGtsaTY2SVlRLUZqNWpnQ2hMLWhPY1psT2NXZTFSN2xyRlhWaEFteERiWVFpblkwNnBjc2k4Vkl2T3VQQnd1V3NVQzFCLW9YRjVKeWViUlFtUU52a0FTSzdWSnR5WFltaGNwX2h4MWdlTmxrMndYaVlHNXdicXhyZFhsdlpOZE5aSVFjcFVKQWVq?oc=5",
+          "time": "10h ago",
+          "body": "Dipke makes Independence Day demand to PM Modi, CJP asks: ‘Who ordered pellet gun use?’  Telegraph India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Dipke makes Independence Day demand to PM Modi, CJP asks: ‘Who ordered pellet gun use?’ Telegraph India"
+            ],
+            "tldr": "Dipke makes Independence Day demand to PM Modi, CJP asks: ‘Who ordered pellet gu"
+          }
+        }
+      ]
+    }
+  }
+}
