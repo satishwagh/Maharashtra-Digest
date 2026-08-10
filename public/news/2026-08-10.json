@@ -1,0 +1,796 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T03:28:59.139Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1786332533597",
+          "title": "Gen Z flips political script - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclJsM2dhNHVQalFNdk1HM2M5aTc0QTBVT3FlV242akVuZkt5MmRESXVkZ25ZakJxQVBVVHhEN1JMNTRycEhBMGNzUnhkVDJ6U2Y3VHBtVW5tQmVxYlNvTnB2dU9WMjljWktPZTVyU2pHcUpSNlFYQkF1bVNtdktmdW16eG9lNVJ4Nmh0OGpBMTR3UlBmemgxMlFFZml3cEsyVktVM9IBpAFBVV95cUxNclJsM2dhNHVQalFNdk1HM2M5aTc0QTBVT3FlV242akVuZkt5MmRESXVkZ25ZakJxQVBVVHhEN1JMNTRycEhBMGNzUnhkVDJ6U2Y3VHBtVW5tQmVxYlNvTnB2dU9WMjljWktPZTVyU2pHcUpSNlFYQkF1bVNtdktmdW16eG9lNVJ4Nmh0OGpBMTR3UlBmemgxMlFFZml3cEsyVktVMw?oc=5",
+          "time": "4h ago",
+          "body": "Gen Z flips political script  Mumbai Mirror",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gen Z flips political script  Mumbai Mirror"
+            ],
+            "tldr": "Gen Z flips political script  Mumbai Mirror"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1786332533597",
+          "title": "‘Third Mumbai’ city will attract outsiders, locals will suffer as govt non-communicative: MNS chief - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNEgwU0UtRWZ1SHBENDFnTzFxWW5EOHd6N0ZOV0hVbTlCRzNTVEd6NVdyRGcyRWl6RXlfTGhONnV1SHNLd01IOWl1Ukk1eEZ3MzRRU080WXd2eFdlXzkweGk0eVhuZUxHamRSQTRfZ3VoNzJsWXlka3J1Wi1KVlNjQVFQTW5vSThYcTRKRDZCUndscmFuRFdqbldpcTdwOFJ1aW1ZcHhVQ3pTNXhSOVZJRUYtRXBRLUFsazlfWGc3WDJMLWtmY0FEYXJn0gHPAUFVX3lxTE5pZUhtY0hwMkN4VGdkbXFua3RYTkNGcGh6ZGt4SGthUHZTaERnamxDcUU4a1QxTWpJOUFYeDlXOWVDZmltcDdDSFA3bnZXMmxZWHAxUXZJMjBwSm1NYkROVlVnb1BSdWIyQWpOM3VnWG01ai1ybXNacmVScl9fRXd2VEdFTmFDbGM3Z2o3cVQweDFrMzF5T1lJZFd4RVNFTjlFTXlyYkdnRWF4LTJ2cWtKRTljVDRzYnZmRjRkSnFfbFBJNkZlT2dKQ3N5eE1Cbw?oc=5",
+          "time": "16h ago",
+          "body": "‘Third Mumbai’ city will attract outsiders, locals will suffer as govt non-communicative: MNS chief  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Third Mumbai’ city will attract outsiders, locals will suffer as govt non-communicative: MNS chief ThePrint"
+            ],
+            "tldr": "‘Third Mumbai’ city will attract outsiders, locals will suffer as govt non-commu"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1786332533597",
+          "title": "‘Third Mumbai’ will attract outsiders, locals will suffer as govt keeps them in dark, says Raj Thackeray - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUjVKZlFLVTktWVNPRWszUnR4VlU3SGg1b1pTV2VCZjdtejVhYkQwcUZ4ck9qcUNDWUNHazNNTkxDOGNnRVhIQ2U4dXJfRjd3eXdsR0p1MGxXbjJQSWh5YmluTXVkN2tsQUo0S2liOGxkdzByMkxJVDRkdHNVR1FIaE80M2g2aDQxeHdGWlNubVFQNnFiZ21zbVU1QS00NFpueTBYdXNaSlNoRWQ2T3k5c0h4LXFWdWRFTmMyY28xY2JJTkI1X3NqYWJVbkZab2Uybjg5aUpnWDRrUVdERzhRYmJnR09nMDdCaDQwYUlIZVRCWkM3ejBxV0FnUEbSAfwBQVVfeXFMTVI1SmZRS1U5LVlTT0VrM1J0eFZVN0hoNW9aU1dlQmY3bXo1YWJEMHFGeHJPanFDQ1lDR2szTU5MQzhjZ0VYSENlOHVyX0Y3d3l3bEdKdTBsV24yUEloeWJpbk11ZDdrbEFKNEtpYjhsZHcwcjJMSVQ0ZHRzVUdRSGhPNDNoNmg0MXh3RlpTbm1RUDZxYmdtc21VNUEtNDRabnkwWHVzWkpTaEVkNk95OXNIeC1xVnVkRU5jMmNvMWNiSU5CNV9zamFiVW5GWm9lMm44OWlKZ1g0a1FXREc4UWJiZ0dPZzA3Qmg0MGFJSGVUQlpDN3owcVdBZ1BG?oc=5",
+          "time": "13h ago",
+          "body": "‘Third Mumbai’ will attract outsiders, locals will suffer as govt keeps them in dark, says Raj Thackeray  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Third Mumbai’ will attract outsiders, locals will suffer as govt keeps them in dark, says Raj Thackeray Mid-Day"
+            ],
+            "tldr": "‘Third Mumbai’ will attract outsiders, locals will suffer as govt keeps them in "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1786332533597",
+          "title": "Politic | Education, Freedom and the Sangh Parivar - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa19hcktaLTZsY3JzWFAtNEpMS1BUUkNZd0JXNGdFU1RZelVCN2VfSW4ybUYxRklpd3lUcFFHYjAtU2pVZW9abVNTdGRwMkl5RlhCVmtNR2NmSXlxZmxCelFLT0VfWk9BT0pkSE5NbUFjdXlVY3p0bFJEQ1RxWHVkeNIBkwFBVV95cUxPNzNSdzZXbHV6MUFuak1uT1IzVE96SHdYbS0xcnk3eVFNdlk0WmM2d09DVW9FNTAtVEhXTV9mZ1NFM1ZZXzNmMWE0SVM2YUZVMmNPSFJianJISk0zaDVYdGVHd2phcjJHMGQtNWVvRUtXdGM5NU1GQ29WY29Rb0FSMG5iVzd1Z0xBb3hHNzRxN3RSMHM?oc=5",
+          "time": "20h ago",
+          "body": "Politic | Education, Freedom and the Sangh Parivar  TheWire.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Politic | Education, Freedom and the Sangh Parivar TheWire.in"
+            ],
+            "tldr": "Politic | Education, Freedom and the Sangh Parivar TheWire.in"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1786332533597",
+          "title": "What Bombay High Court’s ‘private forest’ ruling means for landholders across Maharashtra - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWNNYXhrWFloX0hmTnlFVG42clJRMVFITmRWZ0pLRTUzbTlzaDIxa05FLWZxMnRXX0JKdDNwV2dWVk5pcldVRm5NYjBMRTg4OFBVdkJnQVVqUHM4UHNURV9naGs5UW14QWZyQ2N6ZHJNcVVPcGIxU0dhN3V6ZDJmVUpTY3ZUVDBMUmtSQ2xtUC1Rd1pFUm5EeFViY19fU3RKLXZXd3Y5Nk5WTXQxdUNsUnEwSTQ5MG9oa0RPTXNn0gHEAUFVX3lxTE9DbUVfUUFzR19UbUQ4VEVVUkl3OGNxRExrYmZmczBSd3l3Z1d6eWltUGxCSGZMOTc5WDFRVFZEVFJ4RUluOXhueGY3MHgxR1dzZVJpTG9VVEYyaUVGUHhYV1ZPRlA0cy1odnF3SXJUcjU4OS02R2gtSVR4MEhidmNGVmNsaVJNcTJUNEtNcm9qNDJuTzNwVVEzbzhGOWVId2pjMm4tYzBuVUdBLXhySElzOExvLVB3NW1EVmtzbi1LTzdkdzc?oc=5",
+          "time": "19h ago",
+          "body": "What Bombay High Court’s ‘private forest’ ruling means for landholders across Maharashtra  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "What Bombay High Court’s ‘private forest’ ruling means for landholders across Maharashtra The Indian Express"
+            ],
+            "tldr": "What Bombay High Court’s ‘private forest’ ruling means for landholders across Ma"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1786332533597",
+          "title": "Raj Thackeray blames ‘political interference’ for Mumbai-Goa highway delay - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQUWMxcFZMZkRwaHNQR2ROLWNMZmd0N3UtR1pUd3AxM0o5N1NDbUF2MnU0Um1CTUd1NC1LeWJZV25RYmFYZzF5SzdGbjVyc25FVGxuNUs2UkpUa2dkUW9IX0VZYUc2VWYxWWpkQjQ1eHJjbUNlbWgxZ21VYXBHWDFwdmt0WXpUU0Q1WHVYR00weHdNdF9sUFdmZDV1aGlEeXlXY1Q2R0VBeEhnTWxub1JJcHFkZnQ0VUJGQ09JUlVSVGpMcGdKUWQwU3hjZWNpSWFWM2luSG56QU9sNUVZQUtycG82ZHpGTkt0dDRvSDc1Yl9nM3pnaGdudFlXQjZqVFoxT3hVbzRCZDlBOEMyeHhZWFNLa05LdFNTMlIzcEZDRFp2akU1Q3fSAasCQVVfeXFMTVdBUnVzLXA3bDZQLUtDTkZHOHJpYzVDcFNHZ2lEZ01EWEtPOF80XzVQb18zMkxQd3kxWFhCTHFjYUhyVnJCUGdIRDE2WmlkZXZjaW5GSzJYM0QzSl9zZE5YWVlZbWZsektvWUxQWFhKYUZibXREWjJWYktfUVNvcHlpYm1TVVdfLW9adXJRSXJlUEpJTnZnMTlZME4wazJDZ3RMY3EzbEtpUmJuNGpuNS1oSnNvR1p2UWVjQmRnUFhuYjMwVjZNNUxldWVkWFpld0EwSnNqTGJ4S2E5bWl0Q0J1ZHczemVhaUpEbWk0eTd3eWdsUFVSMVJXMG80bWMtLTR3bHN3X1Y0dk82S3d4cGlxN3VFdEdXUmhPZjZ5bjNCV2EtdnJoUTcwZ1k?oc=5",
+          "time": "14h ago",
+          "body": "Raj Thackeray blames ‘political interference’ for Mumbai-Goa highway delay  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raj Thackeray blames ‘political interference’ for Mumbai-Goa highway delay The Times of India"
+            ],
+            "tldr": "Raj Thackeray blames ‘political interference’ for Mumbai-Goa highway delay The T"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1786332533597",
+          "title": "Meghalaya to Set Up New State Guest House in Navi Mumbai’s Kharghar - G Plus News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHE2VWlXX3FhX0ZrQlhxNkJVWS0zRmxocGtpdTlWbUpRaW83cmpTV2JnSlZNZVRNelZzU1A4U3p2Z2lZejF1WXU4dVYzOXo2RHZmb3BrMjRCTVV5VlVROXhFMk1FcHJlaXdZYU0yYWx0TWJjdVNjV0trSnUydDlwTHI1d3duVFRNaFRDUTAxY29WWlAxSmc?oc=5",
+          "time": "20h ago",
+          "body": "Meghalaya to Set Up New State Guest House in Navi Mumbai’s Kharghar  G Plus News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meghalaya to Set Up New State Guest House in Navi Mumbai’s Kharghar G Plus News"
+            ],
+            "tldr": "Meghalaya to Set Up New State Guest House in Navi Mumbai’s Kharghar G Plus News"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1786332533597",
+          "title": "Government Prohibits 114 Literature Items Over Alleged Extremist Content - Mumbai Live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZkMzMHJwSDJjb3IwQlRaUDl1Z2kwbk1pSkhvYXllMTdpeWNYWnBWV2I1emVwWmt5NUxWalZQUnZpQXZJd2JUajJRc1VvN0plZms2TVdQRFh5SXBjMWJNS3JwdUdVUnV3T0dHbFB5Rm1LUUdMMVBZRnkzR1VoZWJwblJSOXlQMENsdEpSSDJrYnJZWS1rOERtWUJEdVpiOVpDR0xENi1ncnFmcEJFNUt6NkZVc3FHaVlvdUHSAb8BQVVfeXFMTkVHQXByV1pUUGU2Mk9wV3dCSGZnbmVlNG43WC1EcjVEY0FmWmpqUjJLcVIzcXVzWi1XcGd6THdyY1NJNlQ3TjV0eFE3WnJoT3ZtWVJmaDRmS2I3c29jWEZvVWpObTRON0JNd1E3Rjk2eXBaQ1NfSTVUcHNDN2VlSXNsU1lXaWRLSWFyVGJlT3VjM0MwRmJBS3BJTWlPdXQzcXJOWW01ckVmV3hnd2kySUZMRUxnRGZraVhYNVpjU1U?oc=5",
+          "time": "15h ago",
+          "body": "Government Prohibits 114 Literature Items Over Alleged Extremist Content  Mumbai Live",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government Prohibits 114 Literature Items Over Alleged Extremist Content Mumbai Live"
+            ],
+            "tldr": "Government Prohibits 114 Literature Items Over Alleged Extremist Content Mumbai "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1786332533552",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "6h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1786332533552",
+          "title": "Trent Q1 FY27 Results | Firstsource Solutions Q1 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUpEREtwZUhOUzItSWdxbzFlQVhrQ0NIbkhSTlFtUzVTc2JsNzE1M2RROS1ydGZ3OXdDRk1PcFpOSDZSbGR1Q1AwZzI1X1h0bWU2UHJPdHpQN25WUm01YV9COWh4UmYxRmpEY0hudWJ1VzJmWDlwczAtOUFOV1VLS1RvLXdaUEItZzNUcXRaX2V5QXppbUI3dzRtRlA5Y3FHdFVreXdPU2tHSnBWRjd6TkFDUmpQMEU2ZzFSS3kwRTZSTXEwSnBhRlF6V3RPXy1DZWhVbF9pNkFRQXNGUXQtMg?oc=5",
+          "time": "2h ago",
+          "body": "Trent Q1 FY27 Results | Firstsource Solutions Q1 FY27 Results | Top Buzzing Stocks Today  Equitymaster",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Trent Q1 FY27 Results | Firstsource Solutions Q1 FY27 Results | Top Buzzing Stocks Today Equitymaster"
+            ],
+            "tldr": "Trent Q1 FY27 Results | Firstsource Solutions Q1 FY27 Results | Top Buzzing Stoc"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1786332533552",
+          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 August - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV2drZHFzaHU0eXRBaFhZVFgtR2Q4VFROZUp6cUtkLVhRRVp1bTM5UXVaQTVIU1Z5Qm40VWd5TkFwZ3VyemUybU5KY3plSV9oRlFIZEJoRXRlTm9qYUxFQVNUYlF5aHZfbDNWVDBRUVBVSW40YzZreVNGZjU3SEtVdVVQSmNqUW1JT2o5YU5PazdsTWpJN3hGS3VUaFVfVDB2QkVVNDdDdXhWQnNQNHZ1cXNua252b1NKbmJadVNwcERtNEJnaU5DNTI5N0NJN2wxZ1lJWUFSQURhMVJ3WTlwTTdMZ1loQlnSAecBQVVfeXFMT1dna2Rxc2h1NHl0QWhYWVRYLUdkOFRUTmVKenFLZC1YUUVadW0zOVF1WkE1SFNWeUJuNFVneU5BcGd1cnplMm1OSmN6ZUlfaEZRSGRCaEV0ZU5vamFMRUFTVGJReWh2X2wzVlQwUVFQVUluNGM2a3lTRmY1N0hLVXVVUEpjalFtSU9qOWFOT2s3bE1qSTd4Rkt1VGhVX1QwdkJFVTQ3Q3V4VkJzUDR2dXFzbmtudm9TSm5iWnVTcHBEbTRCZ2lOQzUyOTdDSTdsMWdZSVlBUkFEYTFSd1k5cE03TGdZaEJZ?oc=5",
+          "time": "1h ago",
+          "body": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 August  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 August livemint.com"
+            ],
+            "tldr": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1786332533552",
+          "title": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400 - The Indian Awaaz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDdsczZjTm1tcjU2cE53OVJxNTBfdkZhcjl3MWYycWxJU0toRnlkbkVsYndkNkJzNTE1N1lETXNUOXM4T2pKTU5ZUGg3VlNXaUtHbnpsQkJJaEVmUGV6WElDYjFIRjdrS0NCOGxXUGJIZHpPWnowSENmX21kQnd2RjBkcVoxUDd3azQ0RWtZMHY1SjZLZ0Z5MzI2ekhlM1dHZE5MWWtlZFlDdl8wWmhmRjRoTk1HR3BXX1h6UA?oc=5",
+          "time": "11h ago",
+          "body": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400  The Indian Awaaz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400 The Indian Awaaz"
+            ],
+            "tldr": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slip"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1786332533552",
+          "title": "BSE SENSEX: Mumbai Benchmark Extends Winning Streak, Gains 0.21% to Close at 78,094.64 - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzFGZ1hQSXNDZlh2M1hzVVlQNmRlbGhoWG5ISnFvcE9HbjRwYVFMakZxa045aEZVREZ1cFdXeVB0d3pGY1RDeVdZWGR1ZS1NNDJ0c3VUTF9RbFE0ZFBRRnl1WDRzQUVHZFNmSlcwdk9GcHF3aWhlSlVyYmFUWFc5a2VPeFlITFNSZmgxcHFKTG55dm4zYUhWQnJ0bXpZZGttY2tRQ1RBZU04UnVodVpJUjdlQ1h2QVNRdVNWbU1UNEg?oc=5",
+          "time": "8h ago",
+          "body": "BSE SENSEX: Mumbai Benchmark Extends Winning Streak, Gains 0.21% to Close at 78,094.64  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX: Mumbai Benchmark Extends Winning Streak, Gains 0.21% to Close at 78,094.64 BBN Times"
+            ],
+            "tldr": "BSE SENSEX: Mumbai Benchmark Extends Winning Streak, Gains 0.21% to Close at 78,"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1786332533552",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "13h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1786332533552",
+          "title": "D-Street Bloodbath: Sensex Crashes 2,300 Pts, Nifty Plunges 700 Pts As Crude Hits 52-Week High On US-Iran War - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWldZOFJ6LTFFYzRtYWdaN3cyTVhUNDhHVzJrM0Qyd09vaktZdVJmeDhZcVB3dGhZQXFUdFZqZE5nRUNzbzFXQUgxS2NyZmxYV2U1TmxzcDdMSk9VQ2hwMGFRNDVIR2tWc2dxN0pZUkY4RTVXejBwSzgteG5fZjFZTFgwUFM3dEg3dkd4QTQ2V3B0TE5xMDlkOHpfWlhJSlZQcnE1MUQ4RDQ2YkoxZ3FnRzd1LWJBMjJsTXIzYW8zZ1RIdE5wT2RidjFQTXlUbkV5UWstSkx3?oc=5",
+          "time": "17h ago",
+          "body": "D-Street Bloodbath: Sensex Crashes 2,300 Pts, Nifty Plunges 700 Pts As Crude Hits 52-Week High On US-Iran War  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "D-Street Bloodbath: Sensex Crashes 2,300 Pts, Nifty Plunges 700 Pts As Crude Hits 52-Week High On US-Iran War Goodreturns"
+            ],
+            "tldr": "D-Street Bloodbath: Sensex Crashes 2,300 Pts, Nifty Plunges 700 Pts As Crude Hit"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1786332533552",
+          "title": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZNa0dvVmRZbGMwalItYmxmSzh4Q1d2NUZUWDlfWTloTjgyRzk2YjBYclMycDhOWE5PR3lBWG1mbXUxaUd3eHgzTF9XMjlqcEdWZU9qN3oyTXVJWThuM3I5ZVNibk9YaVM0bHFOY3RfV0t2Z2ZoZzlKR3NLbFVma2dtcTgwd00t?oc=5",
+          "time": "15h ago",
+          "body": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement between Washington and Tehran News On AIR"
+            ],
+            "tldr": "Sensex, Nifty surged nearly 4% following announcement of ceasefire agreement bet"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1786332533597",
+          "title": "Third Mumbai City Will Attract Outsiders, Says MNS Chief Raj Thackeray - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1pPaThlOHd6YTFMSmFsZjJULS15R0I2SVFnWDEtZ0N0M21NR2NtNVZUVVhYSmNVRXlfSUdLb3hHVi1kSFBSSEI1UzdBQk9xVVdOWFAwMDNTOWRfZE1qOWFNOUhPdkNUOEczVWtPSm1Lc1AzZ09hZHN4MHBMWlY1WFhCN054b0phckQySnRrVTFnUU9FazdZc0NGSkp1RTgwbVRTSzFnZVAyNUxrRkZ3R2RiVVU3U2JmZFlGeHZqNVA1LVHSAcgBQVVfeXFMTkxXMmlDU01VVERfSzFCRV9tZm1rcXdkYXZzZ2dYbVpKQUZDeS1MalB5bHBaZVNHaXd3dURtZTVKTEFUUlRla3EtZHVaR21nNUJCV0JQRk5oN2VweDNkaVdjVVBiODNnWlZsMVh4ZVJwb1VOQ1FNZUJWU0JodEFHeC1LOVBuamhvOFZPTW9JNGR3S0puSE9kSVBST0JjNExxSk16ZEUtQXlQbWZmeUh6LWlXUmgxck5MRkkwMUdHdVFucU1vcWRZSlo?oc=5",
+          "time": "13h ago",
+          "body": "Third Mumbai City Will Attract Outsiders, Says MNS Chief Raj Thackeray  Deccan Chronicle",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Third Mumbai City Will Attract Outsiders, Says MNS Chief Raj Thackeray Deccan Chronicle"
+            ],
+            "tldr": "Third Mumbai City Will Attract Outsiders, Says MNS Chief Raj Thackeray Deccan Ch"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1786332533597",
+          "title": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHlmbVNINTZsV1JlQjgxNnRtOUc5eWhXRWlad2t6SFI4RFhBeEMtNXpnamxTbGpWWl9nVjZ1TERjd3NrUmRJT0syZnlCb2tnZjh6Z3pTalFOT3FCRDZ1UW9lT3RqTllnQ3pqRGRLQmNSRVVjQnU1OHRGY3R1bkFWVjVFZXo1bkhVZkNFQVJaNUQ?oc=5",
+          "time": "10h ago",
+          "body": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur  News On AIR",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+            ],
+            "tldr": "Navi Mumbai to host 350th Shaheedi Diwas of Guru Tegh Bahadur News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1786332533500",
+          "title": "Amit Shah inaugurates NUCFDC’s new premises in Mumbai and addresses the ‘Sahkar Nav-Kranti’ programme - 5 Dariya News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRURMdEdtbVltNjJnRDJQajFJS0Q0UFplck9URzVCMFE0eDdmNzFrM1JPNHFaTHpMcUZIYmJzeDBaNnJLdmxRclVHc1pjR2liN2FqTzlwMDVmSUV4RzRQOVNCdDhVQk5LZ2cxSUgzQmFpY1pjUlpmY210T0ZJLVRxbHRQZ2tjZnItNFdGZUYxUUdaLWQ2Q3ZSbVRVTHhvNlJ1cnlRS3RhOTZXSXlkR3RXSTdxLTR1VmVPWnFEQXVHZ2xXckVrdEZOVzlvRG5nbzNrSUFn0gHTAUFVX3lxTFBFREx0R21tWW02MmdEMlBqMUlLRDRQWmVyT1RHNUIwUTR4N2Y3MWszUk80cVpMekxxRkhiYnN4MFo2ckt2bFFyVUdzWmNHaWI3YWpPOXAwNWZJRXhHNFA5U0J0OFVCTktnZzFJSDNCYWljWmNSWmZjbXRPRkktVHFsdFBna2Nmci00V0ZlRjFRR1otZDZDdlJtVFVMeG82UnVyeVFLdGE5NldJeWRHdFdJN3EtNHVWZU9acURBdUdnbFdyRWt0Rk5XOW9EbmdvM2tJQWc?oc=5",
+          "time": "21h ago",
+          "body": "Amit Shah inaugurates NUCFDC’s new premises in Mumbai and addresses the ‘Sahkar Nav-Kranti’ programme  5 Dariya News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Amit Shah inaugurates NUCFDC’s new premises in Mumbai and addresses the ‘Sahkar Nav-Kranti’ programme 5 Dariya News"
+            ],
+            "tldr": "Amit Shah inaugurates NUCFDC’s new premises in Mumbai and addresses the ‘Sahkar "
+          }
+        },
+        {
+          "id": "mumbai-finance-9-1786332533552",
+          "title": "US national on London-Mumbai Air India flight misbehaves, smokes in toilet; booked - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UaWVIdmRRRmN0dVhXUFFsLTFGUmo0Z1ZFSldHczFqRENjNGxKOUFsV29yNVltQXRTdkhtN0ZFTnBsMGREcDFZNWUwUkhwaU1mbVNhT1BMRzBIbi1Z?oc=5",
+          "time": "19h ago",
+          "body": "US national on London-Mumbai Air India flight misbehaves, smokes in toilet; booked  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US national on London-Mumbai Air India flight misbehaves, smokes in toilet; booked The Economic Times"
+            ],
+            "tldr": "US national on London-Mumbai Air India flight misbehaves, smokes in toilet; book"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1786332534840",
+          "title": "World News - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV2hYcVhxbFBxdVZYNFFQT2hSOUZZNmxYbkNsV2RTZTNFU0dyLUVJSUt2MFdQQmFRWDJOS3ZqUVdoVFQ3STU2TGlSMEU3NzlSX3JxMTFRVDMyYV80V3BsLXB1NkVyVHYwNDU5d0pwb1lTdmM2VExyYk5VbUZjRmdEcnpDTUV6QzhNYmMyLXViOE1pYVZjeUd0YmZJXy1KalJwaXZNOHJRWlZRZnNXTDJYUmVpTFcxT09sRDhvOXVYNXJBakYtak9FUWF4ZHNjclY3WmlobzlMTzdNMENTMzBlbWNjTFVkQ2E3bWJRXzBSSDJGUEM2aFAyV9IB-AFBVV95cUxPV2hYcVhxbFBxdVZYNFFQT2hSOUZZNmxYbkNsV2RTZTNFU0dyLUVJSUt2MFdQQmFRWDJOS3ZqUVdoVFQ3STU2TGlSMEU3NzlSX3JxMTFRVDMyYV80V3BsLXB1NkVyVHYwNDU5d0pwb1lTdmM2VExyYk5VbUZjRmdEcnpDTUV6QzhNYmMyLXViOE1pYVZjeUd0YmZJXy1KalJwaXZNOHJRWlZRZnNXTDJYUmVpTFcxT09sRDhvOXVYNXJBakYtak9FUWF4ZHNjclY3WmlobzlMTzdNMENTMzBlbWNjTFVkQ2E3bWJRXzBSSDJGUEM2aFAyVw?oc=5",
+          "time": "2h ago",
+          "body": "World News - LatestLY. World News  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "World News - LatestLY. World News  LatestLY"
+            ],
+            "tldr": "World News - LatestLY. World News  LatestLY"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1786332534840",
+          "title": "World News | Lula Calls for Stronger BRICS, South American Integration and Greater Global South Role - LatestLY",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2pub193LVBPeFBqVEpGOEd3ZzM4V2JjUjlJUFY2bHNQa0Eyenp2bmNKcjljdWJHeFhXRjlwazBhTng0d3lPcFZaQ0lTNEdlR01mcHFrTFpTeGZsUWFVYmVUdHFRWFBVLUY5Z2ZROGFQMkRyQzhFcW90RFppeHhHaF93dl9BSlBNQ3YxWTBHX1JGUEYtaDRjZ2hrQm03RjRGdGR2TkxtbGltcC02SUN0RUtHTEg4c3RnVnFIb0lERWRRRHRpeEZoSmhESGFYX3hrMW5zc1o2eElmMkhpRTI0U2FqbzlBZ9IB5gFBVV95cUxOa2pub193LVBPeFBqVEpGOEd3ZzM4V2JjUjlJUFY2bHNQa0Eyenp2bmNKcjljdWJHeFhXRjlwazBhTng0d3lPcFZaQ0lTNEdlR01mcHFrTFpTeGZsUWFVYmVUdHFRWFBVLUY5Z2ZROGFQMkRyQzhFcW90RFppeHhHaF93dl9BSlBNQ3YxWTBHX1JGUEYtaDRjZ2hrQm03RjRGdGR2TkxtbGltcC02SUN0RUtHTEg4c3RnVnFIb0lERWRRRHRpeEZoSmhESGFYX3hrMW5zc1o2eElmMkhpRTI0U2FqbzlBZw?oc=5",
+          "time": "19h ago",
+          "body": "World News | Lula Calls for Stronger BRICS, South American Integration and Greater Global South Role  LatestLY",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "World News | Lula Calls for Stronger BRICS, South American Integration and Greater Global South Role LatestLY"
+            ],
+            "tldr": "World News | Lula Calls for Stronger BRICS, South American Integration and Great"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1786332534796",
+          "title": "News from the world of Education: August 9, 2026 - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdER0S1VVa0FTOTJNUV90cE9hYzVuRy1RRHBpMDc5R2JWbEt5cjNqcjRBZDFVb0dHUTd3M3U2WTFZZ1hkTlhkM0ZxVXlLYkk2ZndyMDZxQlFtN29IWTVpbUVqUkpGTzFzNGRDZ0RTT045RjRXVm5DLVNBeU5raHRTMWt0UXdHTUVnX2tWRDA5SU1yM2FwNkFPeUZsSGRiTXVqN0tF0gGqAUFVX3lxTE12NDY2UVZDWGVaNDMtMXRrUGlVaEFWLWI1eGNkUG5SSURwclZzLWdiT0t3dzBwNW5DbnRianBfVzdrY0Q2eFRrTU1uWkFzOFMxQ2hiN0QtYlRHNFVlVmZPRzJsb1hsTGZwc21zbThpTE45SDZEdWxaZ0tBZWRtQ2xlRTJXb3BJeThHZXlKUDhTV3Juc1NoaDRPMHE4UVNoYlBiQk5NbWJCZE9R?oc=5",
+          "time": "9h ago",
+          "body": "News from the world of Education: August 9, 2026  The Hindu",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "News from the world of Education: August 9, 2026  The Hindu"
+            ],
+            "tldr": "News from the world of Education: August 9, 2026  The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1786332534875",
+          "title": "Mumbai Indians IPL 2026 Full Schedule: First Match, Date, Venues, Opponents, Stadium - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLUZYN25hcks0UFhRM2h5MTFUMk1sZkEzTjVHY1RJMVBhYTFDSzdCTWFtdWRhd0ZrV1pKb2h3QVU1ZzdHeld6TlFOYWV3dU5TeWVFT1BNekVBcmY0a3lvVHJxbzRoc3VyQUprTWlNNjhzdnJiZkpaMVRORlJFYWdBVnVMYm5rR2hLSVpOampKMFNxTUJCWW5DencxNkdsUHJUaXROYWp3bUw4NnlRZ0VMN2huaG9adTdWd3RQUVQwZy1hMnA4QTlxbm04TUljZw?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai Indians IPL 2026 Full Schedule: First Match, Date, Venues, Opponents, Stadium  Goodreturns",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians IPL 2026 Full Schedule: First Match, Date, Venues, Opponents, Stadium Goodreturns"
+            ],
+            "tldr": "Mumbai Indians IPL 2026 Full Schedule: First Match, Date, Venues, Opponents, Sta"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1786332534875",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1786332534875",
+          "title": "IPL 2026: Dates, format, fixtures and team details - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "15h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details  DD News"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details  DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1786332534875",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CN18tSE01OEFENG0yeWVIQXlrRHE1TmxrUlk5bmQtU3RGSURLUGRiZUhkUkhLR0xoSHZIbTBwcWlMR2pBa05sVHcxSTdiVDJ5dFNBWFpmd2pLWnpzWFlUTTF1OWVfOUo2b2hpNURZSkdwVGc?oc=5",
+          "time": "9h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1786332534875",
+          "title": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match - thenewsmill.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVJBLXVJOWd4WlNqcDQtZkREeWZOdkpDWUp1RGJMSl9LTmRXbUtTNVJqMkJhZU51YWprREpjWDA0QTE1ZFJiSnUxYmdMbFlyYnpOaHNYSV9sUGU4YzRpQ19DM1pTeU1PR3hKQjVvc0JXSGJwZ2RHTlB1alFFSnBpdm9obzRmTWNYN201RGxWWS1NRHVVbGRRVUxEUFAxN0RHOFVlRnJZRWh3a2F3TzhqZzlkTmVHQkY4?oc=5",
+          "time": "10h ago",
+          "body": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match  thenewsmill.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL match thenewsmill.com"
+            ],
+            "tldr": "Delhi LG Taranjit Singh Sandhu visits Arun Jaitley Stadium before DC vs MI IPL m"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1786332534875",
+          "title": "'That one thing completely changed': Ajinkya Rahane reveals how CSK transformed his IPL career - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOWpEdFlBWUIxOFczRU5HdUpVdUlpXzA3UEhOV0VKUDlYVVVFNEZYaFA0OFdOV3I3dGQ5eVA3VndMN29Sc252OTRYMHNUa2FtOTFDYlJOdUpfVC1mNXhPTnJkUlZBZ1NodDNJSVhFd0V6YjhFTXZnandvUXdHeGhDV3N0YnFwNUYxTXVGdzU1N0lhQTlSS2pVaXpGYktBUkREU1hHMzRwUkhPYjF3d0Nac3IyQ1MyYVc3cTVLQUNEZjc4N0xvRjRRbWRVdHY3dmVGNmthdm5nWG1pXy1tRGhqRzJiZVR1bUM4VXdjaGdjakYyOURxQlFhdkZMcUd2bDJ0NUpB?oc=5",
+          "time": "13h ago",
+          "body": "'That one thing completely changed': Ajinkya Rahane reveals how CSK transformed his IPL career  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'That one thing completely changed': Ajinkya Rahane reveals how CSK transformed his IPL career The Times of India"
+            ],
+            "tldr": "'That one thing completely changed': Ajinkya Rahane reveals how CSK transformed "
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1786332537523",
+          "title": "Gurnoor Brar is an exciting player... expect a lot from him: Zaheer Khan | Exclusive",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Former India pacer Zaheer Khan opens up on India's injury crisis, workload management, Mohammed Shami's situation and the next generation of fast bowlers, singling out Gurnoor Brar as an exciting prospect who could have a lot to offer.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Former India pacer Zaheer Khan opens up on India's injury crisis, workload management, Mohammed Shami's situation and the next generation of fast bowlers, singling out Gurnoor Brar as an exciting prospect who could have a lot to offer."
+            ],
+            "tldr": "Former India pacer Zaheer Khan opens up on India's injury crisis, workload manag"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1786332537525",
+          "title": "'Yuvraj asked me to stand on the chair': Shami's first dressing room experience",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Mohammed Shami shared his initial nervousness upon joining the Indian cricket team. He recalled Yuvraj Singh asking him to speak to the team during a meeting. Shami also identified Shikhar Dhawan as the team's funniest player. Dhawan often lifted the mood even after India suffered a defeat. These anecdotes highlight the camaraderie within the Indian dressing room.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mohammed Shami shared his initial nervousness upon joining the Indian cricket team.",
+              "Dhawan often lifted the mood even after India suffered a defeat.",
+              "These anecdotes highlight the camaraderie within the Indian dressing room."
+            ],
+            "tldr": "Mohammed Shami shared his initial nervousness upon joining the Indian cricket team."
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1786332537525",
+          "title": "I'll continue playing, rest is selectors' call: Bhuvneshwar Kumar",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "The 36-year-old, one of Uttar Pradesh’s most experienced cricketers, continues to remain a key figure in Indian domestic cricket. He last played for India in 2022, featuring in both ODI and T20I formats. His last international appearance in Tests came in 2018.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The 36-year-old, one of Uttar Pradesh’s most experienced cricketers, continues to remain a key figure in Indian domestic cricket.",
+              "He last played for India in 2022, featuring in both ODI and T20I formats.",
+              "His last international appearance in Tests came in 2018."
+            ],
+            "tldr": "The 36-year-old, one of Uttar Pradesh’s most experienced cricketers, continues t"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1786332536083",
+          "title": "Over 92% of Mumbai’s 2000 km road network concretised: Ashwini Bhide - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMU9WOFFueTNxTVJXVFExdXROamhoQ3lnVGVjV3VnUFlSYm45X1NCd1B5NklVSUZRTDJ0Uzd4UjVSbW9jOVhFaFdreTFVSVN3MHlQRHZPQUdRWkZKMkpheV9PcWxHY0dyVVpCLU9iWXphTDFSSVpzVFNpMnFCX0dFNU9FWFEtYWtvRUlVdi1PNjdlMFlPR0JubS1GNDFjWVpPNTVXWjdGcS1pb3FKendtWW5UUEdCaG5OMFdN0gG7AUFVX3lxTE0xT1Y4UW55M3FNUldUUTF1dE5qaGhDeWdUZWNXdWdQWVJibjlfU0J3UHk2SVVJRlFMMnRTN3hSNVJtb2M5WEVoV2t5MVVJU3cweVBEdk9BR1FaRkoySmF5X09xbEdjR3JVWkItT2JZemFMMVJJWnNUU2kycUJfR0U1T0VYUS1ha29FSVV2LU82N2UwWU9HQm5tLUY0MWNZWk81NVdaN0ZxLWlvcUp6d21ZblRQR0Jobk4wV00?oc=5",
+          "time": "23h ago",
+          "body": "Over 92% of Mumbai’s 2000 km road network concretised: Ashwini Bhide  Fortune India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Over 92% of Mumbai’s 2000 km road network concretised: Ashwini Bhide Fortune India"
+            ],
+            "tldr": "Over 92% of Mumbai’s 2000 km road network concretised: Ashwini Bhide Fortune Ind"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1786332536493",
+          "title": "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "17h ago",
+          "body": "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany. [object Object]"
+            ],
+            "tldr": "Indian man accused of strangling US girlfriend after she planned to end relation"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1786332536493",
+          "title": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "23h ago",
+          "body": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto. [object Object]"
+            ],
+            "tldr": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in T"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1786332536493",
+          "title": "Laid off? Sorry, your American dream may have a 60-day expiry window",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Laid off? Sorry, your American dream may have a 60-day expiry window. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sorry, your American dream may have a 60-day expiry window. [object Object]"
+            ],
+            "tldr": "Sorry, your American dream may have a 60-day expiry window. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1786332536493",
+          "title": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]"
+            ],
+            "tldr": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was r"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1786332536494",
+          "title": "'Exploitation will never be tolerated': US sues Indian-origin landlord for 'sexually harassing' tenant",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "A landlord faces a federal lawsuit for alleged sexual harassment. He is accused of retaliating against a tenant who rejected his advances. The tenant's furnace was not repaired, leading to a fire. The Justice Department is seeking compensation for the affected family. This action aims to protect tenants from landlord misconduct.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A landlord faces a federal lawsuit for alleged sexual harassment.",
+              "The Justice Department is seeking compensation for the affected family.",
+              "This action aims to protect tenants from landlord misconduct."
+            ],
+            "tldr": "A landlord faces a federal lawsuit for alleged sexual harassment."
+          }
+        },
+        {
+          "id": "mumbai-general-7-1786332536494",
+          "title": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city chase by police in Texas. [object Object]"
+            ],
+            "tldr": "Robbery attempt at Indian men waiting in parking lot after 11 pm, multi-city cha"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1786332536494",
+          "title": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are not even hiding it anymore'. [object Object]"
+            ],
+            "tldr": "Indian woman slammed for showing off 'Green Card in just 2 months': 'They are no"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1786332537775",
+          "title": "​BJP MP urges Centre to expedite post-flood damage assessment in Maharashtra - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQVFvTGZ2N0RIN1JFUnd4NEprM0JVRkJRWEs5WVhyMV9OSDIxYnpPc2ZSSGtNcUJjMFZCZm1ZNU9YaXkwemtnMFk0M2FVU2VYQmo0UWtINnhzaTRqYVZNa2tMaXhWSDFmM2FCNXVPS0FMUGFQbmZRNENoelZBOFZWQ1RxUTJxWHVzanpjTWYyenFNN3lZdVBOTWZkYTZUQ1hKRzZOSUhnelR5elVGTWl4UGQtM0xKMjhVSFpwT21xZ1JTc2JEMWlKYXJXRHhTSHVhNng4clR3SFBvNS1oSjlmbWhRQW5ScmtQ0gHuAUFVX3lxTFBUYVhkX0I1X0NMMDlMWnd5cjZIWEhRWkg5WnczSjE2WEhwX2Vzc0xoODluVC1FTFFlZmFLamRrekFvdjZNaGt5aHhhemJsd3FBWFdENUFUdXJrQjh4V1hKVWlrcWxDR3Y3VFRjajRSUEo3dEF1QXZMOEpYT1pOeDBubnIyc2xGaEphd3QzRE9PZzlGeGtMY3EtMlNRRHAxaGZmd0Rha01VUC1tWmxvMjVOb3Z6c0VYdS1RNlFHcUt1MVZiWktLZU10V1d4dENfR09WS0hhRWNOT3hlTGI4ZjN2cndKRmpNTmRralVERXc?oc=5",
+          "time": "7h ago",
+          "body": "​BJP MP urges Centre to expedite post-flood damage assessment in Maharashtra  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​BJP MP urges Centre to expedite post-flood damage assessment in Maharashtra The Times of India"
+            ],
+            "tldr": "​BJP MP urges Centre to expedite post-flood damage assessment in Maharashtra The"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1786332537775",
+          "title": "Gold Rate Today in Aurangabad 10th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "6h ago",
+          "body": "Gold Rate Today in Aurangabad 10th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 10th August 2026 : 22 & 24 Carat, Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 10th August 2026 : 22 & 24 Carat, Gold Price in Au"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1786332537775",
+          "title": "CJP will not become a political party, focuses on public accountability - thenewsmill.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkRFeHFJTFd0UGQ4bFZmdjdrclF0SkpSZjhrY2kzOHBiNjhuWENaU3ZNNncwSHF6TkpIazRhMElHdENmUTdBUlhvRHJBUEZ3ME1MdDYta3hkT0k3WHdYbWlzZkpRVTFmMkJpLXlGa0tWa1BWYTNzUFR5Qnd5SFpfV0xsMkd1d010S0VVa3pkY2xTQzdVSjF4dHZTWVRheVpCTnc?oc=5",
+          "time": "15h ago",
+          "body": "CJP will not become a political party, focuses on public accountability  thenewsmill.com",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP will not become a political party, focuses on public accountability thenewsmill.com"
+            ],
+            "tldr": "CJP will not become a political party, focuses on public accountability thenewsm"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1786332537775",
+          "title": "130 artists create Independence Day invitation kit: Folk arts from MP, Chhattisgarh & Maharashtra included,... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmo0Qm5pOTFhZXpVVVlWZlhmNURQQjgwS1RQc1BjTlhIeTFsNGtyaHl2UXVlTWJyVnI3TVNLd2J2TnUtX21sdG1FQkRXd1NyUVhkSDlNa3p0cHhlOWFualVDMkRqZ2VhXzFlYlU4azVYWWZqS2RMNm15TVBBd3hrWDBtMWZaRjItSllHTTNvNEhza0FoU2tHQnlhVE5tdmNuLXRheEVXelhCdk5GNGdxQW1sOWZhY1dydVM3ZUZSY1BWd9IBxwFBVV95cUxQLWNrNDF0bnVoTjFJa0FlQTAtUTN5anZCQ3JyYXhRTFpIR2NjTXNvT1lLZTZDVmY2SFZrT0JPYXU4RXJKZUtFelE3STVaY2tqN2dId2lfSS1DSGlEZ1R4UmhWNXBhRnNON1p2WHlxMmFSOFVCQW5ZcFJfSmJoM2VIMGdLeEdXS004UkM4Ty1uVUM0bTRNTEZOUHpnWTFfY2UyeXVTOUJoM01NVHhUNTdYeDJMMFVsaFkyREZiM1NBQ3ZHS2dWNUE0?oc=5",
+          "time": "16h ago",
+          "body": "130 artists create Independence Day invitation kit: Folk arts from MP, Chhattisgarh & Maharashtra included,...  Bhaskar English",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "130 artists create Independence Day invitation kit: Folk arts from MP, Chhattisgarh & Maharashtra included,..."
+            ],
+            "tldr": "130 artists create Independence Day invitation kit: Folk arts from MP, Chhattisg"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1786332537775",
+          "title": "‘Rise Above Caste Divisions’: BJP Begins Sant Ravidas Campaign In Maharashtra - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlpSRkRxa2RyNDh2dlU5aUZ3d3psNkY4UUhZNUVYTkkwc1dhWTNGZHdBckdwODRCVGhYVjE1UjFLWXZSYlhxNGRxdjN4WVdvUHdqYWJzdWtWeV9VaEpPX2dBOE9ISENqb1lSc3JKM1VpZDRtUjB6U3dUUFZsZ0FwQnM2YmtVdm0zVkxycng4RWhacmV5QnBKXzc0azRvVUdLbEptZjdFZHR5eGpHWHFlRHFYcUttS0E2MkRYQm5sTDNJTkJ4dVdHeGI5UzgtNWJkZ3ptRHR30gHWAUFVX3lxTE5CWlJGRHFrZHI0OHZ2VTlpRnd3emw2RjhRSFk1RVhOSTBzV2FZM0Zkd0FyR3A4NEJUaFhWMTVSMUtZdlJiWHE0ZHF2M3hZV29Qd2phYnN1a1Z5X1VoSk9fZ0E4T0hIQ2pvWVJzckozVWlkNG1SMHpTd1RQVmxnQXBCczZia1V2bTNWTHJyeDhFaFpyZXlCcEpfNzRrNG9VR0tsSm1mN0VkdHl4akdYcWVEcVhxS21LQTYyRFhCbmxMM0lOQnh1V0d4YjlTOC01YmRnem1EdHc?oc=5",
+          "time": "14h ago",
+          "body": "‘Rise Above Caste Divisions’: BJP Begins Sant Ravidas Campaign In Maharashtra  News18",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "‘Rise Above Caste Divisions’: BJP Begins Sant Ravidas Campaign In Maharashtra News18"
+            ],
+            "tldr": "‘Rise Above Caste Divisions’: BJP Begins Sant Ravidas Campaign In Maharashtra Ne"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1786332537775",
+          "title": "Nearly 50 artists from once Naxal-hit Chhattisgarh behind creation of I-Days At Home invitation kit - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamFSSHEtQkNJRTQwRzJUSkJLdWw2NGNneDRFTktOZlJKanV2T1BBNlR0Z2EtZ0gyZ1BWWWo2RVhlc1FkV3BsLUUzUEREeElzTW1yZEg3YzdveVFRUnlVdEZWdFlOZDc1X0p4MFlyMGhpTGRiWWI4bU9fTm9IOWl4UFVLSU9RZUJ6N2hLbzlxZHk1eWxrUm1paTVSVFkwWnJPS2VLZkwxUTdqTGVPcUNzR2V0a2xUdzV6a2N3UjVsb2hKVXR1WnFwM1FiWdIBzwFBVV95cUxOY1BmUk1OU1pJUVBteUphNDRabHRCUnFtR0dCeDd3M1VfSlJlWGN5R0JoZWdiUHMxQTdFanRKYXg0aXIxcTlxLVNzS091SkhUSEpPeUg3TDN0bDVCbFhRVjdiMnUwajJ3dVB4T3JWUEdiT2pMZDdfVUNMY2w0TDZBUjZjY0hVbGt0UE1RS0JPOEZRQ01rb0ZvVUJJb0RiZ1hMYkpiRGZNTm16TWtiWnFlX2pkQkdLeXBEQVo1eThPcklheVl4MEd1bDlabVRwdjA?oc=5",
+          "time": "17h ago",
+          "body": "Nearly 50 artists from once Naxal-hit Chhattisgarh behind creation of I-Days At Home invitation kit  Daily Excelsior",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Nearly 50 artists from once Naxal-hit Chhattisgarh behind creation of I-Days At Home invitation kit Daily Excelsior"
+            ],
+            "tldr": "Nearly 50 artists from once Naxal-hit Chhattisgarh behind creation of I-Days At "
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1786332537775",
+          "title": "Ellora Caves and its carved Hindu, Buddhist and Jain world - AD HOC NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjkyYmE3U2tLeDhtajhWRTZzWHVhQmM1QjJ5RVBEYUNSV1VNSkN1LWhTRGxyMlc0Vzg1UEdvV282Y2ZtU05WQ1VIS25XZ2trWHRLUHVjRGVDMHhIRzlTOFdMYjhPSVlEZ3I5c2dmXzd3Z0g2emc4dHp2UVVZdk51XzF1a19yWVJRRFBQNW5DRW1tYUpqNkRZRFVfQWNlS3pCRUpUZ0lwR2F0VHk4ZVhQQWNEVQ?oc=5",
+          "time": "14h ago",
+          "body": "Ellora Caves and its carved Hindu, Buddhist and Jain world  AD HOC NEWS",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Ellora Caves and its carved Hindu, Buddhist and Jain world AD HOC NEWS"
+            ],
+            "tldr": "Ellora Caves and its carved Hindu, Buddhist and Jain world AD HOC NEWS"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1786332537775",
+          "title": "FDA seizes sub-standard edible oil worth Rs 1.94 crore in Beed, licences of 5 establishments suspended - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXJ4U0EtT2F4ZzBlM1QwVW9tQVFjMW5uaEYtRlBhYVVmdWFVcVEyOXpNRWs1R2lrMVc4eXJia01hVzBDYW1DSDF2SVVreEtveGVKQ195T21sLVAzSWpnRi1kaEVnT25qd1R1UkNRSGpucjJZdi02ZU5OMWhBSWZzM29FSHFYZVNyYVAwSnR5TmdPZ1hsS1FfX1MzNVBjQ19JMVUtSVRaZWpfcXVXaEZpbExsVXBsQTM1WG5r0gHCAUFVX3lxTE5talVHeDVqSjR6V2xsSHlYc3FfeEtZSGFDTVVnRERFRXJvOEZzbzl6OW9JNmpMSnBCQ3NXV3UxbGpNdl9uclFGWVFMb01Jci14V0lYbC1CUnlWbHZpWi1vUVRyTWt3clhZX1pWaXJfOTVTME5GUHlEWXpDeTN4TzB1cGVHLWZiZ2VKa1ZoaWFKLTlpVy1WbUx6U1BhQTNGd29Da3I1YlFreGExSEh6TzU0YjI1d3ZQLWN1Y21KRXdhRGVn?oc=5",
+          "time": "11h ago",
+          "body": "FDA seizes sub-standard edible oil worth Rs 1.94 crore in Beed, licences of 5 establishments suspended  The Indian Express",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA seizes sub-standard edible oil worth Rs 1.94 crore in Beed, licences of 5 establishments suspended The Indian Express"
+            ],
+            "tldr": "FDA seizes sub-standard edible oil worth Rs 1.94 crore in Beed, licences of 5 es"
+          }
+        }
+      ]
+    }
+  }
+}
