@@ -1,0 +1,796 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T03:41:13.640Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1786678868350",
+          "title": "Maharashtra Politics: Is Sunetra Pawar's Weak Leadership Impacting the NCP and Strengthening the BJP - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaDZVWDh3ZnFtSEI1YTB6WTMzc01xcmhnVnFudjVOUUhXcFEzdlFVMDhCTEZnbkJmM1lDMjVEY1V3RUFsbUdRZXNianJBX2dFWVIyMkFWX09uc3VUQTRXemhWVmxwWjU1SU9xT1hYMFpmT19Jc3ZzX3o3UUZZa0hFYzdUZWtBcFNNUzlOM3pHR21pdlREZEY1T0ZDMXdVdXFEcl9PeEpsdHh1Sm53Z25XcVBGUXlaVHdkWWtXNkQxVFRfSFVIYXRFWEtBWGtiZ1lCRnfSAd8BQVVfeXFMTmw1bVhfLWFjWmJsbkZRQTRkTVBhazVROUhtNUdxVHpOMVdHWC1STmFUelo4QmR5S2g2MmdkM0hCd1B0em93d3lCQnJkYkJieG40R1FHR1dKY0stdGVNMTJhaTJCWEo1QlJLaXpLUmtSN2k4MXNxaVJBX1hvUEJUMTNxZUpUMmhQd1ozX0xjR0Q2QXZjeXNMamZ6WnZLSm93bFBobHdiQzFmTlFJRS00NnIzODNjeEw4YjRtdGRVR2VBeDVvTjR0RUo0Q0k2aUlKZXBoaldFVWFhY3hFWEJodw?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Politics: Is Sunetra Pawar's Weak Leadership Impacting the NCP and Strengthening the BJP  Outlook India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Politics: Is Sunetra Pawar's Weak Leadership Impacting the NCP and Strengthening the BJP Outlook India"
+            ],
+            "tldr": "Maharashtra Politics: Is Sunetra Pawar's Weak Leadership Impacting the NCP and S"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1786678868350",
+          "title": "SP leader slams Maharashtra govt over Marathi mandate for drivers, says will hurt Mumbai’s growth - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMFRkYmlHcXRKLTNwNlFXZG5VUXZaSGtITXZyVFpMel94R2Rad0ZTamhfT0tJck11S1Z6R2FRWm15ak5NdFU0aXFNclhqQmZkUnNLenFQbVhIUktDaWJZN1BtbFotSWxadzJmVlBQU09CNmRQaDVKMDZPR25BdXpCeFNBZDVGUEg1bXhtYjFLXzZJa1JhbmFzU3dWdW51cm16d1I0eVIxV0FiQWFuaVNpWXpKTWZjc2J6cFY5UGVPcmpWdUd6XzlYZ2R30gHPAUFVX3lxTE9hbURPVGQtaVV5cjhXTmFCQ2U3ZjBjeXJKQVF6c29kam9SSTdqZkpFSlplY3VyRDBwSDNsaFBJLTUyc3dadkRoeGYybkc5Tk90RFdRQjZzenE4XzhQeElhcDhIUThLYm5PekZnRjlvQmotSGZKamxXWWlodDV6SzQycHRTYzNIOGxyS3BNcnJhSlo3U1FqOElVYm1vcE9UcTM3d3pTNjdvbmNIRHVxbnd5cjVwY1ZjaUlJamtHNDdadlpJNjR1Y1lZVzVqMlNRaw?oc=5",
+          "time": "19h ago",
+          "body": "SP leader slams Maharashtra govt over Marathi mandate for drivers, says will hurt Mumbai’s growth  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SP leader slams Maharashtra govt over Marathi mandate for drivers, says will hurt Mumbai’s growth ThePrint"
+            ],
+            "tldr": "SP leader slams Maharashtra govt over Marathi mandate for drivers, says will hur"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1786678868350",
+          "title": "Restaurants, government canteens in Mumbai voluntarily shut for repairs, deep cleaning as FDA crackdown intensifies - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTNuUmluWXFSZ0NCUWVOdUpPcjBJRi1hZXV4NFF1OUF3ZUhESXB1OGo1SGN5WHFjUmIwSEo3clkxQ2RXRWhkVHc0OWQ2YzVwZTlxckgyT2tkSW1MVUxkLVpfSE5sSks1TmtHd3JZSkk1TnVpODhaSWFvTnNQdTFxb2I4RUp2bWk4aklhYzN5ZkxLR0dLdHFxZk40M3pVR1RNNnpkYTVza1FDY2lVdUFXbE5Jdmx2eWFDMjZXdHJPUHR4dzJYekJRM1hzVC1kS1YtY3pTbWc2T1EtaXNsaEVDSmE5NWRqdWFvN1FaU0dDemtOdVpRelo5T1RXbWdhTXRH0gGHAkFVX3lxTFBqZFVHcC1TRnB5NGlyYzFfRF9hVkhFTXBqb2c2ZmxyWWM3YnF2d1FTZmxxWW9nbFpHcXQ1OGlNYmIyNTAwcEdQczQ1V3g1aWUwU0dKVmVNb3hGR0l1bllXS0x0RVhjTXdCUDFNY0ExbGh1ZS1heUdTdld2blg5TlQ4bnZlVU9xTmkxbEpXd1FnV3hLQWRqSkd2VUp2cHMyaFVwUU9JMFYyampaNWttbWNRSG9ic3EzZjBGN1pDc3NLcTE1WEYwYlgwclVmNXdlaGF6MHhMWnEwa3FTSTl0NzE1am0wbHIwZnFfaUU3dUVGemhsX3BlR2NLdGVreHBmU2Q2Zno5NEdr?oc=5",
+          "time": "2h ago",
+          "body": "Restaurants, government canteens in Mumbai voluntarily shut for repairs, deep cleaning as FDA crackdown intensifies  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Restaurants, government canteens in Mumbai voluntarily shut for repairs, deep cleaning as FDA crackdown intensifies The Indian Express"
+            ],
+            "tldr": "Restaurants, government canteens in Mumbai voluntarily shut for repairs, deep cl"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1786678868350",
+          "title": "Amit Thackeray backs Tamil Nadu's NEET resolution, urges Maharashtra to put students first - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTkxibUNKWFZCcUJVWmh1akY3N3piVHdnSFZ3LWI0V2xhTE1FalZWNzRhV3hQTTNsOGtfNUNMMXp4RFhxaDVSeFNYQkNLTkg5b2VwV2gyREotYklRUGwzV2hsZ2hIMDJKRnNIa0ZxTjFwNGwxenBYby0wY29mVlFjWFFNaVlKSXdDY3NJNXV2aWY4REpCQWZJS1k0TzV2S0RieUlXWG9ITExzcmlhZzZPRXdpNk5fb1NrTkx2azZXOUhVZFI5ZmpBY2xIMnI1eGg1MlNsTkdGQmtUYkpPblRWYjJWSWd2TW_SAecBQVVfeXFMTU5MYm1DSlhWQnFCVVpodWpGNzd6YlR3Z0hWdy1iNFdsYUxNRWpWVjc0YVd4UE0zbDhrXzVDTDF6eERYcWg1UnhTWEJDS05IOW9lcFdoMkRKLWJJUVBsM1dobGdoSDAySkZzSGtGcU4xcDRsMXpwWG8tMGNvZlZRY1hRTWlZSkl3Q2NzSTV1dmlmOERKQkFmSUtZNE81dktEYnlJV1hvSExMc3JpYWc2T0V3aTZOX29Ta05Mdms2VzlIVWRSOWZqQWNsSDJyNXhoNTJTbE5HRkJrVGJKT25UVmIyVklndk1v?oc=5",
+          "time": "21h ago",
+          "body": "Amit Thackeray backs Tamil Nadu's NEET resolution, urges Maharashtra to put students first  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Amit Thackeray backs Tamil Nadu's NEET resolution, urges Maharashtra to put students first Mid-Day"
+            ],
+            "tldr": "Amit Thackeray backs Tamil Nadu's NEET resolution, urges Maharashtra to put stud"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1786678868351",
+          "title": "Marathi knowledge made mandatory for cabbies, auto drivers in Maharashtra - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVhoXzJvRVR0N3BXMzk1bjhldUd0Um1iMDl4NFVybkdkTjYwWWZIYm5KZV9jSG1fNGNEbTRXZ3p1d3c0OW9kalQ5SFBFLVNCNUNyYzktZlRBOVFDUGNtdFdrQmtTdzZmUERlTzZIc3FnQkZSOFgySHZYMlpUVVhRXzVFYlluUUNfSV81TkcyazhPZDdrblFNb2FSeXBjeFR6?oc=5",
+          "time": "14h ago",
+          "body": "Marathi knowledge made mandatory for cabbies, auto drivers in Maharashtra  Telangana Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Marathi knowledge made mandatory for cabbies, auto drivers in Maharashtra Telangana Today"
+            ],
+            "tldr": "Marathi knowledge made mandatory for cabbies, auto drivers in Maharashtra Telang"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1786678868351",
+          "title": "State to Permanently Overcome Drought Through River Linking Projects: Chief Minister Devendra Fadnavis - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZjVYYVJEb3FMME5wd1dZaGNjYVlEUmExSnB3dUFueGRUOEFUdjBnR084dFNFZXo4QnpkQ3lYajRtdGlSdWJSTWNJV2ltRUx6VmRXVTlyX1lzdkZBQnBUQWZOVDQ3Ym42WkFKTFBrdS1sd192SF9EOVdmU29yYTVSY3NrY1J0QkpUTWF6THZqVVBYUjVSZUhUVWJ3Ny0xSVhjdExuek15LTVYNkxFakgwMzZuQXdoOElUbWV1R1h1VDV1NERtc2U5TnV6UjAtUHFYcnI2eDI2YUtWSms?oc=5",
+          "time": "9h ago",
+          "body": "State to Permanently Overcome Drought Through River Linking Projects: Chief Minister Devendra Fadnavis  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "State to Permanently Overcome Drought Through River Linking Projects: Chief Minister Devendra Fadnavis Marksmen Daily"
+            ],
+            "tldr": "State to Permanently Overcome Drought Through River Linking Projects: Chief Mini"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1786678868351",
+          "title": "‘Now The Govt Listens To Us’: The Bajrang Dal Is Escalating Attacks On Mumbai’s Independent Churches - article-14.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaXBMRjlsbk8zUUFtU1RzVi1XNnR6OGNnYVRCWnhXVjZmb3ZCNGVwSjhyQVltdHk1cjBrbEhadHNyaV9mcGthY09CV1ZpQzJsbmtRcmxONG4tNnhCRjRINDViQ0drZXZBN2RldjFSNXY2dmQ4TXhTTnpYM0xIVFlwT0UySTRVQTcxMDV1dEZMTmNLaVZIXzJDb0FmckNUM244SGxzZjl0Y082Wk9Pa3ZTQlhiVThFY0F0elpoUVFmbGlyTi1mcklpM0NEcnZSb3oyMWNQQ3RNMA?oc=5",
+          "time": "20h ago",
+          "body": "‘Now The Govt Listens To Us’: The Bajrang Dal Is Escalating Attacks On Mumbai’s Independent Churches  article-14.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Now The Govt Listens To Us’: The Bajrang Dal Is Escalating Attacks On Mumbai’s Independent Churches article-14.com"
+            ],
+            "tldr": "‘Now The Govt Listens To Us’: The Bajrang Dal Is Escalating Attacks On Mumbai’s "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1786678868351",
+          "title": "Maharashtra Leases 1,500 Acres of Land to Nibe Group Without Tender - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2g4S3J5OUNoZGIzTGZHU1lud3VhZ3NTcGVZbW1jVTg1ZzRYUkFPdjk2dUxHQmZVd3h5dmo5N2NJUk1UTi1ONVZYWTJENVNqNVNhSHJ0SHctUENDSFhjbmllUDI3U0d2eVUzZ2dSckZod3hNSlZVU2Z1UngzNkpqbjVaV2ZOR3lfR0NCYm9tVm44WHFyZTRfa0x4Q3dRdW9kYkFDaEpPRGh4SDh0QXZWVlBQONIBuAFBVV95cUxOTzFxbmQ0MkxxMEJtR2YwZXNhSWRVS3JEWFVWVlVabzRTMExGdDBOM0RRWTdYanR3NXFaR1Vqai14bmw1d0NadHNrZmRtS0dPOU9XT2phUUpCUzBBSGRKNjV5bkVpTzNQVG13a2ppNGVvdkN6QjBtaVRZcURYR05XRFZrTUdIRzNZOUlYSF85RWNPbEN0XzRsNERrejZvRmdjS3N5cHlzS0l5UHFMaF9GQXVtclZuRFAw?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra Leases 1,500 Acres of Land to Nibe Group Without Tender  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Leases 1,500 Acres of Land to Nibe Group Without Tender Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Leases 1,500 Acres of Land to Nibe Group Without Tender Deccan Chron"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1786678868292",
+          "title": "Indian shares set for muted start as Middle East risks weigh - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5",
+          "time": "1h ago",
+          "body": "Indian shares set for muted start as Middle East risks weigh  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares set for muted start as Middle East risks weigh Reuters"
+            ],
+            "tldr": "Indian shares set for muted start as Middle East risks weigh Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1786678868292",
+          "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "7h ago",
+          "body": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times The Economic Times"
+            ],
+            "tldr": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Li"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1786678868292",
+          "title": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGxnTW9wRXkzQ1dNakgxekV3eHZxVWRaWVVTOFVCYlNmN1p3bUwtOHdkUXVDUVlRcjBOMjJ0WTZFa205aExGMVRHZ0VPWDlsRVZ0bUpsVU1kZ2lJdVhnY0pmZ2JwbzJ4ZXBZMTBKb2F3VGJwQllZbFpNamVmU3JlOXFVOFExUF92bnRZODRKNVVZWU43ajZZTk1EZjRUNzcwYlVRVkwyRlJnejZWdWtXMjhkeE9UUklHdktKeFpyUFlTaVBFa0FhLVJrYXBlOUZwUm9aRGpLZUV2dW1jemc?oc=5",
+          "time": "11h ago",
+          "body": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why?",
+              "Sensex, Nifty Outlook Goodreturns"
+            ],
+            "tldr": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; Whe"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1786678868293",
+          "title": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrdmJhRGhPSWxlWDBNLVFPUzlibS1JdHo2RWdvTUpsWEtHMi1yTVRUdndOWkJwdy1DQklraU1oZFBqWVNDUVF1TjJjblJDQnRqSk00a3RGZ0FHclJqR3ltaVNjQ05mZnRyYWlnZDhUdw?oc=5",
+          "time": "2h ago",
+          "body": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Performance & Comparison Moneycontrol.com"
+            ],
+            "tldr": "NIFTY BANK Stock Price, Nifty Bank Market Indices, Nifty Bank Price, Stock Perfo"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1786678868293",
+          "title": "Top Gainers & Losers on 13 August: Apar Industries, Hindalco, Ather Energy, Force Motors, CUB among top losers - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX25hNXR1OXRYSkhGS3c1V1dXYUlVR3AwRk1GaTZjalNpdmJ4NHh5VG10YW9GNmtsNl9vcE9XV1hCNV9mV3E1REd4TTl3dm1qeDdLUnlkUDNDSTFmRm02eDhZaFBDVzgtMENrYXdfSGlsVENCTl9hMU91MmlaeHJ6T3A4b0tmYTZhT3ZVbk0xQzdIYTQ3VWFDWlZIcjhYWVk0WnNKQTJYQ2dUQ0RCZUtTVnFVZVFmR2NFa1NUSDhJRjRzYW9LMTk5MURuQWhMbnN5SS0wclc0c3p0QnNBdUwzSUxXX0tBSkNGU3VteWdjdFVSSmptQnBRcHN6ZG1BUVlxUW9j0gGIAkFVX3lxTFBMRUo1WGJFWG9waGlydFhsRlB6MUstQ2xIQmNrREZ0dDRST2RKVERzOTU3MzRSeTJMbDFhdUZxSkFXVjBMclV3QkktS2FBb202V2RiN01xcWNLVS0wMFJSaUFyR2UxUmppUlVNRWRTSjVBX3F0NExSLVVoUTZwaG1XcTlLOVB3d3NaSDA3ZVBBdXdJOXBlTVJKRFlwYmdhSjR3U3hTenZnYWJFNkZtRW1paXphekpJVklvZFY0eEkzbmF0Tjk1UDktVzFLUWhxUExPOXE5N1NURWs0Z3BMZjNKUVVpazVselQ4b0JIV1Y5a2RqYWZWQVJJM3RPS3FlRFRiMGNDdmNVMA?oc=5",
+          "time": "17h ago",
+          "body": "Top Gainers & Losers on 13 August: Apar Industries, Hindalco, Ather Energy, Force Motors, CUB among top losers  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top Gainers & Losers on 13 August: Apar Industries, Hindalco, Ather Energy, Force Motors, CUB among top losers livemint.com"
+            ],
+            "tldr": "Top Gainers & Losers on 13 August: Apar Industries, Hindalco, Ather Energy, Forc"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1786678868293",
+          "title": "Mirae Asset Nifty Energy ETF Share Price Today, Mirae Asset Nifty Energy ETF Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVl9VV19lVEowZHY1YnBXTFA3S09wU29TSzZWbTBBY3Y2azZnaFlDOFhOUVd6cUwwMzZoMlJ5MzBIbEZtdlY0MjhaMHF1SFFCSDQ2R1JSTUJUYzZZcXBwaEcyLU8ySGRUSFRoNndLeUJwdnNEUWtIblVaSUNybFBWUVZ2VzVqNWtmNTZGUlVkQ0JiYnlzeDh3?oc=5",
+          "time": "5h ago",
+          "body": "Mirae Asset Nifty Energy ETF Share Price Today, Mirae Asset Nifty Energy ETF Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mirae Asset Nifty Energy ETF Share Price Today, Mirae Asset Nifty Energy ETF Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "Mirae Asset Nifty Energy ETF Share Price Today, Mirae Asset Nifty Energy ETF Sto"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1786678868293",
+          "title": "Sensex plunges 170 points, Nifty nears 24,350 as market takes a hit - Indiablooms",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJCbC1QUFhXX2dlMW0teS1uNU15U0JkbGN1cDBCbXRYbVZIOW00NFhxUEowSnB5RFd1Y2JlOHZLeWJ2cWp3S253OU5oVUhQYk9uNW92MHc4TzlQenlWRzkwSHFPSmltQ1RzZjc4QnNXQkJIM1hoenRvcDhfdXF2U3FaM3BublU2THBaSTBPU0xNV1FJQS03Q1ZLN29xbHliNmR6VWhkcTdBRlI5M1E?oc=5",
+          "time": "22h ago",
+          "body": "Sensex plunges 170 points, Nifty nears 24,350 as market takes a hit  Indiablooms",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex plunges 170 points, Nifty nears 24,350 as market takes a hit Indiablooms"
+            ],
+            "tldr": "Sensex plunges 170 points, Nifty nears 24,350 as market takes a hit Indiablooms"
+          }
+        },
+        {
+          "id": "mumbai-finance-10-1786678868293",
+          "title": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHNXazJwRlJyWHgzV0RpdlY2QW9hNHhfeENLZWYzd3puVnBOd1N1NjNnRF9ZMGRYeEhxLVVWMWxHQ0xoQ0FpcHBFenlxX29taGJhb2VtLUdPTnVIaHdlRXNSa0lrNERrSF93dVU4bmRUZ1NWYVc4OWF6al9ONkI0bjhkYllKUlAybDlfM3FKb3Q1c2RIUWlXb3RUbTJlMXF5OXg4UnBEZUlGdVpBdVAtemplVXpiWlMxVzVEbGFvVElHcXJMa2p2LTJGUlg3UGNlRWdLOHNHVVVQeXdzUHc?oc=5",
+          "time": "10h ago",
+          "body": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs?",
+              "Q1 Earnings, FII, Crude Oil in Focus Goodreturns"
+            ],
+            "tldr": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs?"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-1-1786678869685",
+          "title": "India Strengthens AI Infrastructure with Reliance and Meta Data Centre Partnership - usthadian.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTZRUGlwVHN2Yi1LNWVGbTlHRlMzc3RNUXByQVdhQnVENmEwTUJob0E4X3cxVi1oVlEwTDNxRWpzdGJ2WXlZRlljaWRYNUtVQXNSdEtRS1FhU09WNXhUOTFxdkx1ZjREZEZTQ3ZOWlVtZi1zb2djV2YzX1VEVmc1Smk1Ny0xbk5vM0JOVjRGSlJiMVU1b18wUEk5d0lUbnhnZW56enNTeEhSc3pmSHc?oc=5",
+          "time": "8h ago",
+          "body": "India Strengthens AI Infrastructure with Reliance and Meta Data Centre Partnership  usthadian.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India Strengthens AI Infrastructure with Reliance and Meta Data Centre Partnership usthadian.com"
+            ],
+            "tldr": "India Strengthens AI Infrastructure with Reliance and Meta Data Centre Partnersh"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1786678869685",
+          "title": "Aurionpro Wins Rs 100 Cr AI Data Centre Order From Hyperscaler - BW Businessworld",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd1d0dmdZMWw3ejJ0VHFUZHh5TlVhdTNUYlQyVmZ4MEljMXBPYUhXTzcxbTQtSC0zQUZhcW95emVQbDNfVF9aLTdudVkyOHh3Q2l2NE9RalJ4emtIcE0xYUNJMmdodnZ3bDBjV1ZoVVg4Z3Q2U0FyR2hzVnl6RWFWS2tQNDVBempTM1FQOU5qdGxrcEN0QlFfTjhuU0g0UlhWVzFEUy1vOEhRQQ?oc=5",
+          "time": "6h ago",
+          "body": "Aurionpro Wins Rs 100 Cr AI Data Centre Order From Hyperscaler  BW Businessworld",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aurionpro Wins Rs 100 Cr AI Data Centre Order From Hyperscaler BW Businessworld"
+            ],
+            "tldr": "Aurionpro Wins Rs 100 Cr AI Data Centre Order From Hyperscaler BW Businessworld"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1786678869685",
+          "title": "TCS, Vodafone Business join hands to drive AI-led digital transformation in UK - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXgyVlVMMGROdVZNbjR3WGtyc254X1IwLTdKWlhXSkFVV003UXRZV0pZTGl1cWtGSWhTNGJoaU9Wczk2ZmgtTnJZaHNEdzBaVTVZck1oeXQzc1lERFUyenpMVnllOWZOdWdPLS1mVU5ac1hDTVFVMEFabWo1TmpJVElFVGE4TFpUOG9ZTFpuNkNnczRmbTdKeF9IOGc2cDMxLS1mRVZvT1p5eXoyYm9yM2I2Ym5ldVVDTG1pMUVVWG1QUdIBwgFBVV95cUxPdXgyVlVMMGROdVZNbjR3WGtyc254X1IwLTdKWlhXSkFVV003UXRZV0pZTGl1cWtGSWhTNGJoaU9Wczk2ZmgtTnJZaHNEdzBaVTVZck1oeXQzc1lERFUyenpMVnllOWZOdWdPLS1mVU5ac1hDTVFVMEFabWo1TmpJVElFVGE4TFpUOG9ZTFpuNkNnczRmbTdKeF9IOGc2cDMxLS1mRVZvT1p5eXoyYm9yM2I2Ym5ldVVDTG1pMUVVWG1QUQ?oc=5",
+          "time": "17h ago",
+          "body": "TCS, Vodafone Business join hands to drive AI-led digital transformation in UK  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TCS, Vodafone Business join hands to drive AI-led digital transformation in UK The Tribune"
+            ],
+            "tldr": "TCS, Vodafone Business join hands to drive AI-led digital transformation in UK T"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1786678869685",
+          "title": "Hexaware and upGrad Enterprise Expand Collaboration for Global Enterprise AI Programs - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXZ4SzRLRFBJRjNpcVlaeDJrY3ZQSktvNUhBcmlBdnFwU0hHYllmaHZVNWFyQ2s4WEwzRXV5dlUwVVpheWZNa1c5UUVsU2E0LWFoMW9CckZ6WjRfUW1Vb05sMTViSW9oV05TemQ4NVpMbnJwUUJ2dmROdjZ2cmtZUkZSTE1pYnFLSW1fNkhZeEJqdF94aF9nM2NKdk0wSTdaRjJZcUN0eGI4SGpNeXhoNlFNUjI5X2E2bFlpNzIyX09yZWJBZ1gxTUx3R3RIWDdGOHc?oc=5",
+          "time": "20h ago",
+          "body": "Hexaware and upGrad Enterprise Expand Collaboration for Global Enterprise AI Programs  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hexaware and upGrad Enterprise Expand Collaboration for Global Enterprise AI Programs ANI News"
+            ],
+            "tldr": "Hexaware and upGrad Enterprise Expand Collaboration for Global Enterprise AI Pro"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1786678869685",
+          "title": "India and Israel Deepen Cybersecurity Cooperation to Counter AI-Driven Fraud and Ransomware - The420.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tTWJOYmNDMGJyVk01aVFKbUNuYzRSeFlVbkRXZzhsRWNBRmVVMGFzWmlBWDJqT2lScFpMSGxMSDVyVFR1dnRDS0hjMDJ6S1lkRU5ObktEVW05bUxoSXZWTHp2NUxCOVJjUHVmeDc1Zms2bXhmdGRfU3BuNA?oc=5",
+          "time": "13h ago",
+          "body": "India and Israel Deepen Cybersecurity Cooperation to Counter AI-Driven Fraud and Ransomware  The420.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India and Israel Deepen Cybersecurity Cooperation to Counter AI-Driven Fraud and Ransomware The420.in"
+            ],
+            "tldr": "India and Israel Deepen Cybersecurity Cooperation to Counter AI-Driven Fraud and"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1786678869686",
+          "title": "SAP Software GCC inaugurated in Bhubaneswar to boost AI and Digital Innovation - Elets CIO",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObm1DM3g4N3N1RGhpLTd4ZFJSaE9RT0ptN3FzTDh1RUs4clZlUXpyR3AtcUszTkdWV2RMX0FLT1l2c3hzMTQ4V2E5dnFDekJqekprVE43djBMQzhPQ3lFNXBXSjN1QjVENExRMFlBWXFkQ3ctZmszczRaWFJDRDdOQ3M1MTdLbHc2Mm1TNEdRakM5bnRCVWVxUEtqT29VamxZVFphWXhiTFhoR21YNTB1T09BcTFLeFpHa2c?oc=5",
+          "time": "17h ago",
+          "body": "SAP Software GCC inaugurated in Bhubaneswar to boost AI and Digital Innovation  Elets CIO",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SAP Software GCC inaugurated in Bhubaneswar to boost AI and Digital Innovation Elets CIO"
+            ],
+            "tldr": "SAP Software GCC inaugurated in Bhubaneswar to boost AI and Digital Innovation E"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1786678869552",
+          "title": "Anand Mahindra can't stop praising two IITian-led 10-gram cooler that broke Western monopoly: 'Deep tech d - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSEV1VEdjWmIzZjg4dXZMNy1RNlo4MkUwTjg0QldoQjFianZLU1VCVTNYZktTaGxOcV9LenNkODZJQWNaaC1zYlpZbGVic1U5LUVUaTJlSTF4bkhzVlVBeFBuRkc2Y3c2eGYzREhxMUt0SHpRRFZNTUNzRmFfRFh1LTFEVUlVd0h6VzRYc3lzUmNyeUFtZ2ZGT0QyNTAzZGJ5UDdnellBNEszVXhiNVBvNTdnWGo5YTBVdTFXVVNfRzZSZGZ3d1UyTUE3bnB5M2FVaG9QUVRhcHBsUkwtQTNOU3h6QXVUSnpGVmZuU185bVZuYkFyN2JCeDN5SGY5TDRmb09nR21EUWRxZ2c5YXlZbjg3cGdIdGU2QURBSlhkenHSAaACQVVfeXFMT0hFdVRHY1piM2Y4OHV2TDctUTZaODJFME44NEJXaEIxYmp2S1NVQlUzWGZLU2hsTnFfS3pzZDg2SUFjWmgtc2JaWWxlYnNVOS1FVGkyZUkxeG5Ic1ZVQXhQbkZHNmN3NnhmM0RIcTFLdEh6UURWTU1Dc0ZhX0RYdS0xRFVJVXdIelc0WHN5c1JjcnlBbWdmRk9EMjUwM2RieVA3Z3pZQTRLM1V4YjVQbzU3Z1hqOWEwVXUxV1VTX0c2UmRmd3dVMk1BN25weTNhVWhvUFFUYXBwbFJMLUEzTlN4ekF1VEp6RlZmblNfOW1WbmJBcjdiQngzeUhmOUw0Zm9PZ0dtRFFkcWdnOWF5WW44N3BnSHRlNkFEQUpYZHpx?oc=5",
+          "time": "15h ago",
+          "body": "Anand Mahindra can't stop praising two IITian-led 10-gram cooler that broke Western monopoly: 'Deep tech d  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Anand Mahindra can't stop praising two IITian-led 10-gram cooler that broke Western monopoly: 'Deep tech d The Economic Times"
+            ],
+            "tldr": "Anand Mahindra can't stop praising two IITian-led 10-gram cooler that broke West"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1786678869552",
+          "title": "‘Fail Loudly, Fix It, Try Again’: Anand Mahindra Backs India’s Second Student-Built Chip Lab - Open Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXFwT2xNY2M1bzRDZG1QT3VDOU9haGdZY3RfWVAyNTh0VEphWjNRbWIyczgxQTBfNUt5ZGxMT1hwUTQ2OUtNR1VkU3Y2SzBBV3ZoSjh0enMxd0xHMWxkUF8zQTBjUjlDRklnN0VVcnVZaEh0alRzeW5hcExkS2xHNkl0bmJFQ2ZWdTA2WExmOTJRQy1yLU1fZGZpMFVpYlZzTEh5SVV0Q1RPdTNaRVM5SDdEek5vanlPUTRHWmpWbmQ?oc=5",
+          "time": "19h ago",
+          "body": "‘Fail Loudly, Fix It, Try Again’: Anand Mahindra Backs India’s Second Student-Built Chip Lab  Open Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Fail Loudly, Fix It, Try Again’: Anand Mahindra Backs India’s Second Student-Built Chip Lab Open Magazine"
+            ],
+            "tldr": "‘Fail Loudly, Fix It, Try Again’: Anand Mahindra Backs India’s Second Student-Bu"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1786678869667",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "10h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1786678869667",
+          "title": "Not CSK Or KKR: R Ashwin Says Hardik Pandya Could Join This IPL Team: \"Have A Hunch\" - NDTV Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXZlTnlndGRVeDRyUi0xUVhWWHlyS2h3S0hyY2lTdHpkX040QVFZRzRhZE9NR1A5TWN2WjllUmVLWE0yWTl1bVBjS3MzN0xpdE11N2xNY1pZdzNPd1hteTF3SktsNDU5ajZfMGZLVDl6dHNmQ3RWenJ6OTdKX2dURGIwNVI3Z0tyZmNEZC14OUNDNW1jVW1SVUtvMWVidTNpelJFQ2pJYXc3cHVucFkzMFhnXy1DdHpUVDh5UkRwbw?oc=5",
+          "time": "2h ago",
+          "body": "Not CSK Or KKR: R Ashwin Says Hardik Pandya Could Join This IPL Team: \"Have A Hunch\"  NDTV Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Not CSK Or KKR: R Ashwin Says Hardik Pandya Could Join This IPL Team: \"Have A Hunch\" NDTV Sports"
+            ],
+            "tldr": "Not CSK Or KKR: R Ashwin Says Hardik Pandya Could Join This IPL Team: \"Have A Hu"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1786678869667",
+          "title": "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz - WATCH - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEVhUUt4ZTd2ZEZKSHhXNmN5VmNZRmlvZHNkSlg0NEE5TERDTTFnNzlPcC1RZ1lqNHNJbDRIOXA4dDJrMFJ4U3dpcjdUbnVTT2tPdVdaTS1IenVHS3BzM1lDRjNIRFhpSFFXemJZWDJFNjZtMDBCZGhRaVJvZnBoN1N3OA?oc=5",
+          "time": "19h ago",
+          "body": "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz - WATCH  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz - WATCH Yahoo Sports"
+            ],
+            "tldr": "'Wait for it': KKR posts Hardik Pandya video amid IPL trade buzz - WATCH Yahoo S"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1786678869668",
+          "title": "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on one condition - Report - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXNpazRMMjRjR3RqUk1kbUlQUkxuOFl3dWg5LXlpY1R0RDhpVjRwaDJRME5sNEZpNHlWWUkycUdFcmJZQW5QU1hyaDROT2kyWElUM3JIZnBEVjBDS3dianVtUFRtSGp4OGkzSTdiZU80TW1MbHRYUDlHSHdlQ2V6bHZZU3dyMTRYZXc?oc=5",
+          "time": "15h ago",
+          "body": "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on one condition - Report  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on one condition - Report Yahoo Sports"
+            ],
+            "tldr": "Hardik Pandya transfer: MI captain ready to join KKR ahead of IPL 2027 but on on"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1786678869668",
+          "title": "Learning tournament for me: Nehal Wadhera on disappointing IPL 2026 season - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUp6V1RnV2YyOEhHYTFBM29Fb28yZEhBNFg2YllQcmhUT0NvZHB5ZmdqbkJFOHpWRURGbnJOTlRqYlNxX2taVUlEcHVUMGN0bmJQNzhLM0xPcnRBUDNPR2ZCT0t6ME9HbnFEaDRDM1dwTHBFOUQ1WUF6eHVoNEtaNXJ2Q0tfRFljWHBQUnRwRXdHbTlHeFBDeXczelJjNVMwWVloLUNiU3ViLUg0MXRBX0xlSDE1QdIBugFBVV95cUxNTmF2aG5BZTZHSG45azY2YW9RczEyUFBXZWN6dGNWdlVyYnQxWmJWQmU3VXI4eVB5Qjh5ejkxRXdNbFdiOUl3NGZPRUQ1LVZ0cHRxbHV1cFRBRkQ2U1h3dFozR1RqRHE2VXhCNHhhbF9MSmtTM3k0RTlKajJYRklScjVucEN0TTd3UWZfbjV2clBicW95U3l6TUpOa3pjcnZfdU1QazJ3cS1abmtQY3F2eGdUZkpWX3IweVE?oc=5",
+          "time": "Just now",
+          "body": "Learning tournament for me: Nehal Wadhera on disappointing IPL 2026 season  The Tribune",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Learning tournament for me: Nehal Wadhera on disappointing IPL 2026 season The Tribune"
+            ],
+            "tldr": "Learning tournament for me: Nehal Wadhera on disappointing IPL 2026 season The T"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1786678871952",
+          "title": "Intrigue around the Galle pitch but India likely to opt for the safe route",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Galle may not offer the raging turner many expected, with the pitch looking set to reward batting early before spin comes into play. India, meanwhile, appear inclined towards the safer three-spinner combination, prioritising batting depth and variety.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Galle may not offer the raging turner many expected, with the pitch looking set to reward batting early before spin comes into play.",
+              "India, meanwhile, appear inclined towards the safer three-spinner combination, prioritising batting depth and variety."
+            ],
+            "tldr": "Galle may not offer the raging turner many expected, with the pitch looking set "
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1786678871952",
+          "title": "Aus vs Ban 1st Test Live: Tanzid Hasan and Shanto steady Bangladesh",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Aus vs Ban 1st Test Live: Tanzid Hasan and Shanto steady Bangladesh. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aus vs Ban 1st Test Live: Tanzid Hasan and Shanto steady Bangladesh. [object Object]"
+            ],
+            "tldr": "Aus vs Ban 1st Test Live: Tanzid Hasan and Shanto steady Bangladesh. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1786678871952",
+          "title": "‘Be yourself, trust yourself’: The mental mantra driving India’s women hockey team",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Mental conditioning coach Ben Wienk aids the Indian women's hockey team's World Cup preparations. He helps players understand themselves and their strengths better for improved performance. This approach allows head coach Sjoerd Marijne to tailor his interactions with each athlete. The team has shown ambition and success, qualifying for the World Cup and winning the Nations Cup.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mental conditioning coach Ben Wienk aids the Indian women's hockey team's World Cup preparations.",
+              "He helps players understand themselves and their strengths better for improved performance.",
+              "This approach allows head coach Sjoerd Marijne to tailor his interactions with each athlete."
+            ],
+            "tldr": "Mental conditioning coach Ben Wienk aids the Indian women's hockey team's World…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-3-1786678870884",
+          "title": "President Trump Signs Memo Allowing Private Firms To Conduct Offensive Cyber Atacks Against Criminal Groups - freepressjournal.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeG9xbnRJNWVjeF9CZ3NFa1JDaHJKa3JHS3lLV0FkNTZOQ0ptQ1VjemEtakQzM1gwSXJLdEliMlBsd1ZnOW5ia0JpNkI5d1o4LXVOQnJEcVFOODNxX1RqaTVMbjRlbS1pZXRsQmFLN3lSSmZtbHF3NkpXSEhGaTBScmUzczVxajlYZ2tkekxCbVJMVG5WZG9wU2JObV9YUlFLUEJQNkpwNGhzczI3c0NkMXpmd093czRiOEZhaG9FMktTWWJjd1BpaE1MWjJBQm5fOGlCVkpvRHdyXzU0bnpMSHphMmVUMlFLRGwtWUtUek55QUYydzF30gH8AUFVX3lxTE4ycDBieDhqU2FwRm5UMXI2UkQwdXVNSFFSenM3TzRTekZSSFl6UFc2NUdXQVUtYlhiZWF2Y2pIQU94Z0FHUWFkaXNGcmZFTlV2WjFaV0ZDUXkxd1h3a1hHX05iWWExODBWanBHMmZrSE1DaFhray1ScHFlT295cEd1VU1Sb1JMNXZSMW5nUVpiTG9NUlM2MWg5LWoxaVgydXR4NmpjbEhCb2JaaDh3bnhJSC1lUE1LSFp5bmJRejRKeTRSbGVSZDVLeU9qdGxid2FncHVIUG9FSEQ2QWx2d3VyVlFNU2w5QU1oOFgxNEZsMno2VWVFQjd1aERjWQ?oc=5",
+          "time": "16h ago",
+          "body": "President Trump Signs Memo Allowing Private Firms To Conduct Offensive Cyber Atacks Against Criminal Groups  freepressjournal.in",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "President Trump Signs Memo Allowing Private Firms To Conduct Offensive Cyber Atacks Against Criminal Groups freepressjournal.in"
+            ],
+            "tldr": "President Trump Signs Memo Allowing Private Firms To Conduct Offensive Cyber Ata"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1786678870770",
+          "title": "Indian Jazz guitarist Pritesh Walia detained by ICE, claim friends and family; phone taken away",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian Jazz guitarist Pritesh Walia detained by ICE, claim friends and family; phone taken away. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Jazz guitarist Pritesh Walia detained by ICE, claim friends and family; phone taken away. [object Object]"
+            ],
+            "tldr": "Indian Jazz guitarist Pritesh Walia detained by ICE, claim friends and family; p"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1786678870770",
+          "title": "Indian-origin ex-CFO of US firm gets 4-month jail term for bribing surgeons with sham consulting fees",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin ex-CFO of US firm gets 4-month jail term for bribing surgeons with sham consulting fees. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin ex-CFO of US firm gets 4-month jail term for bribing surgeons with sham consulting fees. [object Object]"
+            ],
+            "tldr": "Indian-origin ex-CFO of US firm gets 4-month jail term for bribing surgeons with"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1786678870770",
+          "title": "'After 14 years of dealing with the endless US immigration stress': H-1B Redditor says he moved to Switzerland and life is incredible",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "'After 14 years of dealing with the endless US immigration stress': H-1B Redditor says he moved to Switzerland and life is incredible. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'After 14 years of dealing with the endless US immigration stress': H-1B Redditor says he moved to Switzerland and life is incredible. [object Object]"
+            ],
+            "tldr": "'After 14 years of dealing with the endless US immigration stress': H-1B Reddito"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1786678870770",
+          "title": "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian man accused of strangling US girlfriend after she planned to end relationship; arrested in Germany. [object Object]"
+            ],
+            "tldr": "Indian man accused of strangling US girlfriend after she planned to end relation"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1786678870770",
+          "title": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in Toronto. [object Object]"
+            ],
+            "tldr": "Abdul Ghafoori arrested in murder of Indian-origin partner Himanshi Khurana in T"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1786678870770",
+          "title": "Laid off? Sorry, your American dream may have a 60-day expiry window",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Laid off? Sorry, your American dream may have a 60-day expiry window. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sorry, your American dream may have a 60-day expiry window. [object Object]"
+            ],
+            "tldr": "Sorry, your American dream may have a 60-day expiry window. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1786678870770",
+          "title": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was revoked because employer didn't run payroll. [object Object]"
+            ],
+            "tldr": "'12 years in the US, leaving with empty hands': Indian woman says her H-1B was r"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1786678872212",
+          "title": "Chhatrapati Sambhajinagar seen as potential manufacturing hub with AURIC support - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcnlUWlQyX1RiTkpSVHZuYUEzaG9qdmMybVZieDJfdjVHT282RXQteExhVm92azVBN2M1Xy0zMlQyMW1YLU1jSG1iUGF2RERBbGROVk9fbkhWaW9pSl9DVHByVlozeS1vckk5ZXdRT0oxRlJrU3c2aVhHa1N6VWZjalFUU1B4a0FtVXozM1BxdzFPazRHazI5anptODRSU3FOZV9UQTFldDBsOUhDekx1ME9NRUZ5aUpaMEtkSVNfQktpYzJsOEZsdmFUVGg?oc=5",
+          "time": "3h ago",
+          "body": "Chhatrapati Sambhajinagar seen as potential manufacturing hub with AURIC support  Prop News Time",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar seen as potential manufacturing hub with AURIC support Prop News Time"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar seen as potential manufacturing hub with AURIC support"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1786678872212",
+          "title": "Gold Rate Today in Maharashtra 14th August 2026 : 22 & 24 Carat, Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "3h ago",
+          "body": "Gold Rate Today in Maharashtra 14th August 2026 : 22 & 24 Carat, Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 14th August 2026 : 22 & 24 Carat, Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 14th August 2026 : 22 & 24 Carat, Gold Price in M"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1786678872212",
+          "title": "Bombay high court refuses to quash criminal proceedings against Akbaruddin Owaisi - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0x1QjNFNldpNXhPbnNVVjNDbmhoYjdvV1pGTW5MV0d2WHdCcThxZUVoMnI2WnZ6YjV1QTBrWVR5aVpvbVpvTHpLM05JS182S2dzQW0yUTU4eXdzeDRJQ3lyVWZCQXVLdGRYOXQxS19RWjBfdjFyeEVTOEVYNkNEZ01Xd3BmVlQ1WkpkM294c1BSY2tiTWFvb012bUxBQWdhR1BrOW4zZFBlU29aZ3BQMlllZEl6Z3ZVM1RncWU3WFhFeTNteER2dnBkeW44aGFFcFAtOENMY3J6UEEzeXdxQnlXZVJUMzhpRlFVcC1xNlA3d0dOR1HSAfYBQVVfeXFMTmNMdUIzRTZXaTV4T25zVVYzQ25oaGI3b1daRk1uTFdHdlh3QnE4cWVFaDJyNlp2emI1dUEwa1lUeWlab21ab0x6SzNOSUtfNktnc0FtMlE1OHl3c3g0SUN5clVmQkF1S3RkWDl0MUtfUVowX3YxcnhFUzhFWDZDRGdNV3dwZlZUNVpKZDNveHNQUmNrYk1hb29Ndm1MQUFnYUdQazluM2RQZVNvWmdwUDJZZWRJemd2VTNUZ3FlN1hYRXkzbXhEdnZwZHluOGhhRXBQLThDTGNyelBBM3l3cUJ5V2VSVDM4aUZRVXAtcTZQN3dHTkdR?oc=5",
+          "time": "8h ago",
+          "body": "Bombay high court refuses to quash criminal proceedings against Akbaruddin Owaisi  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay high court refuses to quash criminal proceedings against Akbaruddin Owaisi The Times of India"
+            ],
+            "tldr": "Bombay high court refuses to quash criminal proceedings against Akbaruddin Owais"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1786678872212",
+          "title": "Sajjan Jindal-owned JSW Greentech picks Dassault Systèmes’ digital platform for 90-acre electric CV plant - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWpfXzBCOXFmTE1Bd084aWRsSmVqZmc4cHdtS2J3T3Z5RGJHM2hxNks2MDVXdmQ2TDg4cVd6ektRSEZucW13Qk9aNHNSRW9mLVVldU1Rb3I1VkhNTmdkdFlNY3hhTzBUT2VxaUZyTG9wNFYyNTFvemtGM05mWnl0WXlJZ2Q3eGRNbFF4dExNVjQ0SWgyR256Z29Ed3NKYVNEd3NRZnRsWHN1NVQtTDNfUTB6UzUwZlNxaTR3VE8yQ2V3NVliV2pyLVFwTzJtMDRNZEJ1QVNNRHFZNTFtZUk1cHV2NDnSAfIBQVVfeXFMUEpPZDVxbDVmUG5yWndoUjVxZzczeHZ0eEgwRGR3VVV2aE1HTmpqVXQ4UXo0aGJpY0p5UzdFN3g0clNQSzQ4d1A1cTltZjRkekxBTGdvYnJ4X0pmNzA2YWNkM3V1MU9TdUJHRDBKMjJTYnlUbm92OFY5czM4aFFwMzBNY2J2UkE3YUc4NllPeFdSSnQ2TzdLNUM1Z1locGNaNnhTVXNVWU5lZVNpWUxaTV9vRUhnQVM4U0JaeWJvWHlaVlFhVHRLMHZQWWxybWpDTi1oN3JiS1hnWlQyaHhfZGZZc2hiTldSVUdNclhhRzBTZnc?oc=5",
+          "time": "14h ago",
+          "body": "Sajjan Jindal-owned JSW Greentech picks Dassault Systèmes’ digital platform for 90-acre electric CV plant  Fortune India",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sajjan Jindal-owned JSW Greentech picks Dassault Systèmes’ digital platform for 90-acre electric CV plant Fortune India"
+            ],
+            "tldr": "Sajjan Jindal-owned JSW Greentech picks Dassault Systèmes’ digital platform for "
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1786678872212",
+          "title": "Maharashtra cab, auto drivers should learn Marathi; BJP demands 100-day extension - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3BtZXU3aWowejgxLTdFdlV0TzN1Z3BCYlVLNXB5TTkxS3RuYjBWVWRjNU1ERm10OG9Qc2xEaEZ2aEloRzhOUkpFYmFoNXlVQlo2aXdESXVzcFJmRElvY0Y4MjNpZlVPX2NBUWtEQnhGd1lyQ1ZoU1pZRjRpWHZWSDlQSlI4S0hOX2ozZXg5bmloREZjeW5tcFlGM3ZER2lZZlEwR3VHTUtRTWg5aERQZ2dtd1lxSmkwS2ZOQ2FaV241OXVxeE1XWDV4dWPSAdIBQVVfeXFMTldHSllDbll2RF9maW95NlkxYmVvcmtVQ2tCVk1kbFhNSU5NNmU4czJHaGY1MmZlNkppSGUtVHhKdk14NHZxeVBNeElmaUFQOUlBMTZ5MHYxZ3RhdWgycVZ4OTRUV0dmbWFiQWFCY0RpVDVMV0xpNEhzWjVfV3dadVBhc1pfOTRrd1o4UHdZc0g5VlpoUkt3MlN4OWYyem1fTV9sWDNQVVNmSllST0U1YzJJU21oZUd3TXVBc3ZpMHY1UVRqQlZmbktickRZTE9fZmpB?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra cab, auto drivers should learn Marathi; BJP demands 100-day extension  India Today",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra cab, auto drivers should learn Marathi; BJP demands 100-day extension India Today"
+            ],
+            "tldr": "Maharashtra cab, auto drivers should learn Marathi; BJP demands 100-day extensio"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1786678872212",
+          "title": "LAPL Automotive Ltd. Share Price Today - LAPL Automotive Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc08xY3paUFFRQ3ZJUlNKVVhDZURybzJQa2VOblJDWExGcVN3TXZ1dzhlTWpxZ0l3Nmw4TjZISmpFSlNMZklKTXBoWC10QnBlT0dVR3dMWmhOZkJybnhzdGdxN2VBU19fM1RYSHFKcUxTc05yZVBXSGFEcThoQ2RoMjd5WUQ?oc=5",
+          "time": "17h ago",
+          "body": "LAPL Automotive Ltd. Share Price Today - LAPL Automotive Ltd. Stock Price Live NSE/BSE  CNBC TV18",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Share Price Today - LAPL Automotive Ltd.",
+              "Stock Price Live NSE/BSE CNBC TV18"
+            ],
+            "tldr": "Share Price Today - LAPL Automotive Ltd."
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1786678872212",
+          "title": "330-km tiger journey from Yavatmal to Gautala marks return after decades - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0NzNFB3Wjc3cUg2TG5iOFRyQmN0VlgyMFY4cVF4dl8xeGRkdU1oNTFlejB5VWlpR0dVN0l3dEtjRndNdEhzMlRtT25UdWVaYl9md29ZUTFibjNqY0hEXzRvSnI4Ny1HUjNocjBsZHRiUDhXeG9qVG54TTBpdVZfN1l4b1ZXZ1ZnUzJQc0ZkVDAxQjhGRFRCYnN0YzBYd3hEenRMakpWWHl1al9fUTNYVndMLWRPVDJYelhvbmxZR1h5OHBUMnhBUXFMclHSAdIBQVVfeXFMTW5ZVG1EWkRvdFFCRTZHUmhUTVN4QTNxVTE3SE1fV1dablpCVzNHTlVBTmlpY0t6WXpMazJIcV9GZ3ZOWHF0N1Z1SnBQblo1NXVNX2JPdm5LdFp5UkV5YWhNUVFUQzRheXBiVVU5SXRqZG5Nb0JibXg1Q1BmMGtnRzR1X0JvTl9IWkN5aWVmc2pjcHo0eDIySDRGcFl3bGdQSWpfQTdFZ0hkN0xyc0pTbXVfMV9CaVphS2I4NDlJNVBnUzUtSlBJR2hEOHVRTk82NzBR?oc=5",
+          "time": "Just now",
+          "body": "330-km tiger journey from Yavatmal to Gautala marks return after decades  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "330-km tiger journey from Yavatmal to Gautala marks return after decades Mid-Day"
+            ],
+            "tldr": "330-km tiger journey from Yavatmal to Gautala marks return after decades Mid-Day"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1786678872212",
+          "title": "Guess who else has a youth problem before election -- Italy's Georgia Meloni - Telegraph India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFRZdGw3eE1naWk4ckNsQmlmVWpySnl0TkFPM2pyMDlmS2VBMlk2Nmt4M1pXSkJGT3ZHcWMzaVhsb3pqWnpLNFV5OUNyWDNxY2FwWThPUGlOSnU3S0hrSTJ3OTNrMGQ4cVRiVDlLVnhwQlEtanBQLTU5UTNaTWJ6dWYycUJNbGpnR3RtT0N2RU9hcFJyTlRMNHUwbk5yd05kVUVuSnZJSEttSXIzeVZKcWFHaXJTb3NJWjlucjl30gHDAUFVX3lxTFBsUkQtQkVEZGdndVM4SllFN1BJdGVHWmZuV0ppaXpVczREZ3o5elhyZjRvbGd3WW53dkMyM0dIb2pFWkJXb3hud284dlFYTTJRSWZZWWF6MUJlLWZDVUtxNU0wcnFOQ1J5Sk9PUUtQbWtSZjdoMTQyYU1VclFLT0ZkZzNaVk5DSWxsX21KM3pWVWt1enZUVVJPRGU3V290a2hFcFd3OTRQZWxUTjdwRnRKQi1JNmctcUY1dzFfbkhoUlpwVQ?oc=5",
+          "time": "21h ago",
+          "body": "Guess who else has a youth problem before election -- Italy's Georgia Meloni  Telegraph India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Guess who else has a youth problem before election -- Italy's Georgia Meloni Telegraph India"
+            ],
+            "tldr": "Guess who else has a youth problem before election -- Italy's Georgia Meloni Tel"
+          }
+        }
+      ]
+    }
+  }
+}
