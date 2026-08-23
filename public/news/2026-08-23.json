@@ -1,0 +1,801 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T02:47:50.543Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1787453264891",
+          "title": "Maharashtra issues notices to 777 drivers lacking functional Marathi language skills - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQVcwR3NBRlB0VzZYWVo5M1UwR0hOZF9qQUtyd3djVlpaSlFsM2hubktxYVUtM0x6SU1aXzhxRWFabzQ3SkMzQllfTzhlQV9rZWpmUC1GNTVKQThPblc0aWFWdGhjblJUWmpDUkRSRkhDV1FoN0pldXo0QTR5ZXpkX1RyWGdSYjdneUdqeW9XeEdsLVRUVG5UU3h3NE90T3E3N252M084VzdVYlBuSTNZMFUxbXRnWmxMNkZLd1VXR1FKa2QyNjBJOGFkbkRPSWdVa0ZNOXBZUnlYMVJsRy1NNzRB0gHoAUFVX3lxTE0xd2h6aVNfRVhWSlpPZXVidF9DZHc1TERLb0daSDE2a1hiSHFMdURhanNISDJVRTFqVjIzd3ZfM01QdEFRS2NsZFNRTDUtWTItd2Z6ZUZRWEdZaXh3LTZYOERvZUdxOW9tTzFKNkZJeGJVQ3FJQ1B3aUgwWTRzX202UHdlOEdTNHhUUnJSeFRaZ1dFaFBxYmxLX3JXMk1GbC1ja2pUTllWRUJld1haUHN1RlJORXQxa09Eb1BLUVZUMl9pRUxDNGR3cjNYQktBUnNOSHFsWjlmMFJnUTU4UkRYU2hIRkhiNV8?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra issues notices to 777 drivers lacking functional Marathi language skills  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra issues notices to 777 drivers lacking functional Marathi language skills The Hindu"
+            ],
+            "tldr": "Maharashtra issues notices to 777 drivers lacking functional Marathi language sk"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1787453264891",
+          "title": "Maharashtra government To Retain Retired Police Dogs - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYktDeDdmZW5iQk5hV2E5NDJsZEZRYkhHRV9YRzJ5OWtzbjVGdk9mZTk3bDRWdVdaM1YyNm1FUzJaTjUtRnc1cHhsMnM0bS1JVDFkeFJfRUJaM0c1dWhhdThSREY3Z1N0NXFSaEJNc1BWMG9FZVJQNWxral81Y3ZKeG4taXljckx0NmhVdXdTUVNWZFptWXFWZlBCWktfV0NG0gGmAUFVX3lxTE9PZDBzNW1RekJwcjBMUU9PcFhYaHZXNlJPdUlld2E5a1I5czlmdGFOUXhIY0t1cWkxT0dOYXhmZVhsM2lDUWNrSGU5aVdYeElleFM1b0tXbnRSM3QzTHJiWkRZTXdfOUZXcUtZMDU3eS1NRW1ZRUtfb3ROX0YxTy0tVnctbXZtTlB3MTdlMDd1QlAtbGg2dXBRb3FtcUE1SlRKcHAwM3c?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra government To Retain Retired Police Dogs  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government To Retain Retired Police Dogs Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra government To Retain Retired Police Dogs Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1787453264891",
+          "title": "Maharashtra announces lifetime care for retired police dogs, keep them with handlers - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbWo2XzJKRkN1aUdnYnI5eDd0dk1VeFVnNE1qa09hZzZnak55Y0VtNk45Q1JNVE1sWm1udzJVTHc5cnZuNFpmUlpvMzB5RDhSNG80dWFMckFKRkVpSDJ1cXp4RmhOUG9mMFE4aGd5YXhkczc4bGV4bFdTa0VDT0lOVjdCSEZteUtXT1JwSlphWFVoZmJBYTdXa0d6VkNOb3BOLXZOU3RPRl92SjVpenQxOGRkZ1NIUjVERUtJck1sWnN5bUhXTVRQTnIyWjhheU95X2QwX2dOTnh1c1RfQ0ZGNWE0Y09qa1k4cWfSAe8BQVVfeXFMTjBDYzEtNGZjU3J4LVFmbmwtWjJHRTZkYi1hOTNZanNrS1diWXY1Q3dxUG1PNldRNWFMSExCVDczZW9qelpWQ3FBS2lOelc5NWV6N09nUXRKT1B5Z0lvVHlCSHpRLUdNTXVWUjJZMnA5ZmxvcHBzUzR5Rld1TDVMWngtU2NLTnhUYThMYlZYZEJwUEhZY3NHQ0lEaE5DUUJ0MHNKeGpqQVA2UlNmdVM2MEo1SzFyOTQ5Smd5eDVoXzBwNVlGbFNCdXZhaFFqZDRWZ0lJYUlkYy1Nb1ZJdFN1M09QR3E3a1BEU1JyUDNUdzA?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra announces lifetime care for retired police dogs, keep them with handlers  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra announces lifetime care for retired police dogs, keep them with handlers Mid-Day"
+            ],
+            "tldr": "Maharashtra announces lifetime care for retired police dogs, keep them with hand"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1787453264891",
+          "title": "CJP convenor Abhijit Dipke booked over alleged school intrusion in Maharashtra’s Latur - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTVELWdFRmc4enFqNHZ0bHVTMktZWFNNVHFLSDBzLXoyOEN2Q3pEekVEXzVyLWVObzZuM0ktMXlCRWNxS1FRdWNjeHRqeDFjRUVOMXFud01lOGNuelBnMVBKNmF5bDZvSWNQeUlOTDA1RTB3R3d4ZkxtX0k4ZzVJSkpuSmZ5Z0trU1ZOX0xxQVJ6Nnd5bHZZQWU4Y1Z5VXZBeFo0UjVLeEh3ODdnYUF0alhMZm1iRXI2NG16ZmpTTXkxb3ExXzh30gHOAUFVX3lxTFBBYVNwc1hZcjdTYnJ6Q1JkRlUyNTdGNlNPOVItbHg0Q2txQVFXZnd1Mk1DS0NtRTNZOWlrc1lfMEhEb3FPR3NIYjZlM29qNW0xZzZTT3BKSmNhNTkycmhYUTA0MThndjlPLVJyS2RHdzZlMkdtN1FmUGNQeW1sMk9UNHB2UlotRENDeFFRZVJJbEZyeFNwNmdKbU5IaEFjT1lhRS1fa0NBQlZIUXE5aWtjVWFneU0wTXVTWHFGbFprUnBVUXhxYi1tMlZnaEdR?oc=5",
+          "time": "12h ago",
+          "body": "CJP convenor Abhijit Dipke booked over alleged school intrusion in Maharashtra’s Latur  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CJP convenor Abhijit Dipke booked over alleged school intrusion in Maharashtra’s Latur The Indian Express"
+            ],
+            "tldr": "CJP convenor Abhijit Dipke booked over alleged school intrusion in Maharashtra’s"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1787453264891",
+          "title": "Maharashtra court employees announce statewide agitation over pay scale - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHN4VFBQeTF3NGpBdXBhRWZZN053d3ZZcnE5ZVc5QkdUemxTb3NPSnpjbXNxVV81YzlXUm9ySHMyaXVYVFVYZEF4VG9lTWVjVmFLMURMUHJWTDNPWFlra1BWOXZsTk9SbXNYNEg3VFFUR0VEcHNsVUtjbTFkckIyVU03c3hJb0NlbnNoTW5WUDl4ZGpYT2lycDBNdWRoWXZtTENmUEs2a1RZLTBIQ0F2bldENTNnSF9kMFFsZks4T2pUSXdyczhiOC1mckRjeUFkbmlVdWtKa1VDbTVNX1HSAeMBQVVfeXFMUDEzanZOMi1hbFg3MFBtVHFsWnFScU5PZG92UDJCVEtXdHRyNXg2dUJPZkVNR0JIV2ZBQzZxTEZaa09TVldNQjFzczNjcV9nUGpyVVRuMF9TNXdhSEJKZjhGdGpEeTQzY3VBSmVmZXdQN1o0eERucXV0OEFwS1oycDI2QWZMU3VWNF80MjNzZ0M3V1N0Yk9IUDJCb2FPX1NScjdTeElKYjZVVkI3aVV2R3ktUXJ1OXlIXzQ5ODh6cUltNEdKNTBxeUg5VmhQaDlsWW9uQks1bkZjMUdOcVRvT05rcjQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra court employees announce statewide agitation over pay scale  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra court employees announce statewide agitation over pay scale The Times of India"
+            ],
+            "tldr": "Maharashtra court employees announce statewide agitation over pay scale The Time"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1787453264891",
+          "title": "Maharashtra: 777 commercial drivers fail Marathi language test, Transport dept issues notice - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeS1ZYS1ITjNTSTljSFdSTXVZYzk2bGdTVXlocGhDSklZVVZaalp6OGNXSmdyS2hZcXo1Nk1vZUtGUnJSTHl4TnRvTmR0VHRJU0NIMDRIXzlwb0VzaFVPb3dPVVM0LVhHV0VCSHJLQ0txd05pT0dfR3hiT0NIcVcyR0lnUXR3cHdyTmQ2dWFJVnNuY2RyM2ZHR0wya2RQZGxwb2g1aE45WEx2amZSNE94ZEF6ekpsQWRBSVRjcmc0UVdiNERLc3hWQkZPcVB5SnBTRlkyUDhhM3Nma0RidnY2MldiY090dmxweVE?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra: 777 commercial drivers fail Marathi language test, Transport dept issues notice  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 777 commercial drivers fail Marathi language test, Transport dept issues notice ANI News"
+            ],
+            "tldr": "Maharashtra: 777 commercial drivers fail Marathi language test, Transport dept i"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1787453264892",
+          "title": "BKC's Pod Taxi To Expand To Thane, Mira-Bhayandar, Navi Mumbai, Says Transport Minister Pratap Sarnaik - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUhOMzV2V0JEOHN6cGk0NFI4WTRhaWotaEZpVXd1RW9vejVLMzJDYWFUYXR4U3R3N2hiY05CV1RxNzZVMnNQNDkzdm1Wc1kwTzFoT0c2dFpJQkVGdnBnbmotQWZkbjJPNk5OMHBFZzcyVUhHODVTSWg5eE1QVnR2X1h2OGFUd3dQWkZWUkl3WUE3OTFfYnpjN3hEdFpleHhxSW12UTNzMHc2Ym5RLWJRVHVpZVZrbTlWcUlQZ1BYVUlaTm01bTFRWlVWVDg1b1FOVDYwNlhhbUQxUlo1a0RB0gHfAUFVX3lxTFBlSE4zNXZXQkQ4c3pwaTQ0UjhZNGFpai1oRmlVd3VFb296NUszMkNhYVRhdHhTdHc3aGJjTkJXVHE3NlUyc1A0OTN2bVZzWTBPMWhPRzZ0WklCRUZ2cGduai1BZmRuMk82Tk4wcEVnNzJVSEc4NVNJaDl4TVBWdHZfWHY4YVR3d1BaRlZSSXdZQTc5MV9iemM3eER0WmV4eHFJbXZRM3MwdzZiblEtYlFUdWllVmttOVZxSVBnUFhVSVpObTVtMVFaVVZUODVvUU5UNjA2WGFtRDFSWjVrREE?oc=5",
+          "time": "21h ago",
+          "body": "BKC's Pod Taxi To Expand To Thane, Mira-Bhayandar, Navi Mumbai, Says Transport Minister Pratap Sarnaik  NDTV Profit",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BKC's Pod Taxi To Expand To Thane, Mira-Bhayandar, Navi Mumbai, Says Transport Minister Pratap Sarnaik NDTV Profit"
+            ],
+            "tldr": "BKC's Pod Taxi To Expand To Thane, Mira-Bhayandar, Navi Mumbai, Says Transport M"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1787453264892",
+          "title": "Maharashtra issues notices to 777 drivers for failing Marathi test - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmlDZEpMN0lGY09Ja2x4OWNkbF9IdjlVQ3lQM0tEVmRUQmVXRUoyb2wzZlRaVTZWYThUMWZPaEsycHgyUVFxWjdHaEtFenlDZkNiSWZhd0NlZEJsSFpFQ3ZUVmtZUGhvZDVLbmNiXzdWSTF0ZmkwZmtHcDJmMXRYOS1PV05KWG9rMkVlQlNnb1Bjb1hUZXVmZHRPcVNWZE9X?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra issues notices to 777 drivers for failing Marathi test  The News Mill",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra issues notices to 777 drivers for failing Marathi test The News Mill"
+            ],
+            "tldr": "Maharashtra issues notices to 777 drivers for failing Marathi test The News Mill"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-7-1787453264892",
+          "title": "Maharashtra’s Ladki Bahin scheme paid ₹9,605 crore to ineligible beneficiaries, data shows - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2t5aUkxSUFlNEpLY2pPMGM1bFo2akJlY1NVYWIwdm9WQkZWWHQ5dFhCSFNaSmJBclBvdDYxWGpTX2loejFsQU1DVy11UDBiUm1VS3lkNm9GV09xWkI3SWp4U2hLWWJObzI0dkNVRlpuTDAtUkdqVmNZY2pzS0NKd1pVLVk2X3JlSzBhZjBTZWI5V2t4S1c3MFBUZjQ2MHRXU2duOExRdy0yRk8zYnBHRjgyYks0OXNLR05sZW41TE5ERHJBQ2NZcTViT3YxTDTSAc8BQVVfeXFMT1dreWlJMUlBZTRKS2NqTzBjNWxaNmpCZWNTVWFiMHZvVkJGVlh0OXRYQkhTWkpiQXJQb3Q2MVhqU19paHoxbEFNQ1ctdVAwYlJtVUt5ZDZvRldPcVpCN0lqeFNoS1liTm8yNHZDVUZabkwwLVJHalZjWWNqc0tDSndaVS1ZNl9yZUswYWYwU2ViOVdreEtXNzBQVGY0NjB0V1NnbjhMUXctMkZPM2JwR0Y4MmJLNDlzS0dObGVuNUxORERyQUNjWXE1Yk92MUw0?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra’s Ladki Bahin scheme paid ₹9,605 crore to ineligible beneficiaries, data shows  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s Ladki Bahin scheme paid ₹9,605 crore to ineligible beneficiaries, data shows MillenniumPost"
+            ],
+            "tldr": "Maharashtra’s Ladki Bahin scheme paid ₹9,605 crore to ineligible beneficiaries, "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1787453264892",
+          "title": "Rs 335 crore for two sugar mills run by Mahayuti leaders, weeks after Rs 18 crore row - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWhkcHNOUk1KNDBydWNJX05YTUt6WDRSc1NTb1BQYzNRTUJtTk5qeS12Mk53WGtrMUl5RDNQcjNRUEJBZm1CcVhPY0FjX2pjV3ZYaE5SbFZFQ2pyc1hORlZ1RHNUZ3Awdjh1RzkyUUswQVkxRGRmajBIenJiMVI5dEszTVhhX2dNMGN0R1lCSTNKVEs5bEdMYTdJMVEyd2M5Y0tuc2ZERmh5aFdkQVAxdExscVQtWjl4OHVnX0h2RlpsdVdNQ29KMmswOWpaZ2FMdk1oYjJPSjI3UmdRT0g4Y9IB4AFBVV95cUxPQWhkcHNOUk1KNDBydWNJX05YTUt6WDRSc1NTb1BQYzNRTUJtTk5qeS12Mk53WGtrMUl5RDNQcjNRUEJBZm1CcVhPY0FjX2pjV3ZYaE5SbFZFQ2pyc1hORlZ1RHNUZ3Awdjh1RzkyUUswQVkxRGRmajBIenJiMVI5dEszTVhhX2dNMGN0R1lCSTNKVEs5bEdMYTdJMVEyd2M5Y0tuc2ZERmh5aFdkQVAxdExscVQtWjl4OHVnX0h2RlpsdVdNQ29KMmswOWpaZ2FMdk1oYjJPSjI3UmdRT0g4Yw?oc=5",
+          "time": "20h ago",
+          "body": "Rs 335 crore for two sugar mills run by Mahayuti leaders, weeks after Rs 18 crore row  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rs 335 crore for two sugar mills run by Mahayuti leaders, weeks after Rs 18 crore row The Indian Express"
+            ],
+            "tldr": "Rs 335 crore for two sugar mills run by Mahayuti leaders, weeks after Rs 18 cror"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1787453264805",
+          "title": "Ladki Bahin Scheme: Maharashtra spent ₹9,605 crore on 9.2 million ineligible beneficiaries, reveals RTI - livemint.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT3VkeFpWWExrRmd6M21LdXl4SG9VLUNocnBDMjFtbk5iNHpWVTdFV1owNFF5N0NWOGt0XzBPbHE4clVkOUVnR21DR0MxQ3VXRGdrVTRrTVkxOXNFWDdvNFJ1dTZqVnFiOGxVb29MODRYNDdnVjNpN1JJRjlNSlZZLVdjU1c1SzRlVTlEakFzaTZqYXJiZjU2ZTQ0MkFxbFIzVE5vdW90REZxNFlIRkhxTXRlMVg0WXloYk1WbF96Z0ltZEpmbU1acHlHck5qQ0J0T1lkT0szUGxNRkNjRXgxQ2I0Z0k0RDNLWUl0NdIB8gFBVV95cUxQR24tckx4Uk1BZUczLXBIRTlHbVhxRkR6OUREM0NoRmNGMmFLbGN0RGVDUU5zNEZwYVBVOGt6QzJiZmZpVnZUbHNEY0l4dG5zQjV3clM2eFhTWWZRdnlfeXVrTm95THlqQ3RrMnJld3hZMTZHbmJZZHBsMmN0TWRSbjZGTU54Sm1JampRYVY4UmdOMGVSaDRyNmRuTGFPczI0UHM0VjJ3cDdwMTR1dTJIUGpEQ200bU8xczJha0xCaXUxVGVudVdSWHYtZkcwOFRUaHFWcmtxOXMtLW5fSGI2aXFzRkpZLVRhLV9mOEVwRTgyZw?oc=5",
+          "time": "19h ago",
+          "body": "Ladki Bahin Scheme: Maharashtra spent ₹9,605 crore on 9.2 million ineligible beneficiaries, reveals RTI  livemint.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ladki Bahin Scheme: Maharashtra spent ₹9,605 crore on 9.2 million ineligible beneficiaries, reveals RTI livemint.com"
+            ],
+            "tldr": "Ladki Bahin Scheme: Maharashtra spent ₹9,605 crore on 9.2 million ineligible ben"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1787453264862",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "4h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1787453264862",
+          "title": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTYxYll4MmtjMWtlZ3ZTMzdvTUdWcFN4amxzTE14bDBZX0RMQUV3eDk0MEt3WWpLSXYzNk9oZTFvcHlhZkgybzJyZGFQOXpvdDdVNGFZMUhKXy1meVppYlJ6Y2NiMmg1dmhiaVVZNHdiU3F2VjhGLVZkcElrQmQ5VmNtRmpJbms1dkg5dm5zV2ZYUDl3SjhPbDNUdEV1aENZV01XRFJ4U05LeTNEQTBmcklheEpfaUJOclMteFV5Q0tGLW5ydXNfUExpQWZIVDFaeUZRSFhYdUo?oc=5",
+          "time": "8h ago",
+          "body": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why is Stock Market Falling Today?",
+              "Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained Goodreturns"
+            ],
+            "tldr": "Why is Stock Market Falling Today?"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1787453264862",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "14h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1787453264862",
+          "title": "Market weekly wrap-up: Sensex falls 468 points, Nifty down 114 points amid elevated crude oil prices - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM0lrRFd4MjB2a0hTQk5hcVlnWWhkdEY0YmdHOHRwSzRFb3VJTVoxek42YVc0dUd4eFhaSVVhQmRCdzNBUWZiNzBYSWdmYWxhd1dFM1p1OUs0WW8yRG9BUjdoUThlUF9ENmhuRkExQWlRS1dSbVhQbjh5dmFYUEVQMS11b0ltV3lEZnVHbEVGd2RzcVFERFJUMWR3ZEh5S0tUQ3dsY1pfMko4UXoyLXM0UmtQdDlLQmtNTWNnWmh5ZDVMSmhHT0tmYlRXVkwxWXlzU1RpOEMtT3pCWFUtSzgyMDB0UlRxUGFlOHd2a0llZVVjTE5KVm1R0gH3AUFVX3lxTE0zSWtEV3gyMHZrSFNCTmFxWWdZaGR0RjRiZ0c4dHBLNEVvdUlNWjF6TjZhVzR1R3h4WFpJVWFCZEJ3M0FRZmI3MFhJZ2ZhbGF3V0UzWnU5SzRZbzJEb0FSN2hROGVQX0Q2aG5GQTFBaVFLV1JtWFBuOHl2YVhQRVAxLXVvSW1XeURmdUdsRUZ3ZHNxUUREUlQxZHdkSHlLS1RDd2xjWl8ySjhRejItczRSa1B0OUtCa01NY2daaHlkNUxKaEdPS2ZiVFdWTDFZeXNTVGk4Qy1PekJYVS1LODIwMHRSVHFQYWU4d3ZrSWVlVWNMTkpWbVE?oc=5",
+          "time": "16h ago",
+          "body": "Market weekly wrap-up: Sensex falls 468 points, Nifty down 114 points amid elevated crude oil prices  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market weekly wrap-up: Sensex falls 468 points, Nifty down 114 points amid elevated crude oil prices Mid-Day"
+            ],
+            "tldr": "Market weekly wrap-up: Sensex falls 468 points, Nifty down 114 points amid eleva"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1787453264862",
+          "title": "BSE shares slip nearly 2%, down 6% in a week: What investors need to know - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlhjSUJSRkNnRy1kOEhVR3BHcE9sOElPNlpRME84TVNGcjJWd0xVM1BVRGVPdkQyX3dJWk9sTk5VNk1QNWRBWXRRYWtlbTJZcFg1aEctVWJSVzdIbnFtYVFTLU5oUzJVZkFqUFZuWVFwdlBoODZ3XzZDa3dBZW9USVY2ZEdOdzZFTEw4RnZlYnF6dlBwRVVpLV9XT0FpNFVBa1BWTjU0X1lHUHcyOGFtVWEyUXp5ekotV2pkdDhnVWhrd1ZiamZLbG9fUDE5Zw?oc=5",
+          "time": "22h ago",
+          "body": "BSE shares slip nearly 2%, down 6% in a week: What investors need to know  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE shares slip nearly 2%, down 6% in a week: What investors need to know Upstox"
+            ],
+            "tldr": "BSE shares slip nearly 2%, down 6% in a week: What investors need to know Upstox"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-5-1787453264891",
+          "title": "Maharashtra to provide lifetime care for retired Navi Mumbai police dogs - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWVDdjB6SEhXNmVlWEVYaUlCZ3dKd1Z1LVM2TFdoZVU2d3VpclE4WGJSZHAxczcwNTdMZWotdjFFY0tCWllCRG80UVpKVmV5dzZrVlRXOE1NOE9LcEdMNm5CcFdWaTBCUHJSZU1wN09pZ0lfX3FfN0RBNTdpMTRtbmNrWDVVTG5vV0IwcHNteEpTLS1mMjNzZzVHLS1scERCS1VQdWhkaWw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra to provide lifetime care for retired Navi Mumbai police dogs  The News Mill",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to provide lifetime care for retired Navi Mumbai police dogs The News Mill"
+            ],
+            "tldr": "Maharashtra to provide lifetime care for retired Navi Mumbai police dogs The New"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1787453266189",
+          "title": "State to launch AI-based farming pilot project with 10,000 participants in Phase 1 | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdk9GdmhFWXdHU2JoZTduN0lYMnFENHBKY2pBQVkwX1dMVU5wbDVPM2VBRlNDd2F3aG5PMjBCd1gzejZRYzhOR3FEZzZGWGFXcDNodGpNOWd0dmlzUVZHQWQxVmZtRFBDbm9kOXg0MTl1T19HVldpY1YyVExvUEhTRUNZY3gzdDlkbkVyTEtBSEVxdnVsX2JVQVZPV2I2NnFHRl80TE9haWhwSlNRcDlsOWJ0bXBxbHBhUnlRSjVRUThjNjFuSzVlV0hGR3pUakc4RW5DWFhQS0N3U0RRUHdiTktyV29sNGE30gHuAUFVX3lxTE1BbGNrVkVEMGFMWXItQVBmVE04QWEwbzFERjkzYjRHSjh5MlJUc0ZtdkQzdU82d0syWVQ5eHBxb3BEVEdWbGRYbjBfRXNQdFlvQ0JJM3BxZThzdDZqQ0hRSmxQbElzUnNHaml4cEw0V09uMlRHTW0xNzRvdmgwcGNYNExnemI4TUhzNWJISnJuSGtCN29uYTBTS2lCa0hnX2VQOUliREFzSkZEeW5RU1lUeVNEcmZsYnVDNG1nMnU0OHFUdXZzLXZ6Z0sta1VHd3ViUkxrWGwwS25Lc0U4TzJna0pjR3Flc0g5WW50cFE?oc=5",
+          "time": "Just now",
+          "body": "State to launch AI-based farming pilot project with 10,000 participants in Phase 1 | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "State to launch AI-based farming pilot project with 10,000 participants in Phase 1 | Mumbai news Hindustan Times"
+            ],
+            "tldr": "State to launch AI-based farming pilot project with 10,000 participants in Phase"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1787453266189",
+          "title": "PointAI, AI Partner to Aditya Birla Fashion, Eyes Rollout of One-Second Virtual Try-On Technology Across ABFRL Stores - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX1FBZDZjX1RvcElaTHRYXzRlWkFjcFM0ZTlOUjB5YnlMeGp1RDVRVDVjdDV0X2VqT0UwWjc0cXVXWDJTWHMzRUZuWTY3Mkk1SU1ENUs3TFlHQnNwWlNENURNa2dxNEtaZmlkTGpYNXU2NWdBVFViU0M5c3pEQl9kSUQzb1VEUV9FWTJDdG5kQ1A2M2h6QlFRVFRtdm5pSHdMc05vUGhMVXJTX0pSZm9mM1VteTg5VWN2YWRpZkpQV0ZXSWJPVHJ2QnlleUhpUVN4TDkzODhqS3JucVJIZnp6S1VrcGV1MjF1Q1pVU3Y2Tm8?oc=5",
+          "time": "14h ago",
+          "body": "PointAI, AI Partner to Aditya Birla Fashion, Eyes Rollout of One-Second Virtual Try-On Technology Across ABFRL Stores  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PointAI, AI Partner to Aditya Birla Fashion, Eyes Rollout of One-Second Virtual Try-On Technology Across ABFRL Stores indiagazette.com"
+            ],
+            "tldr": "PointAI, AI Partner to Aditya Birla Fashion, Eyes Rollout of One-Second Virtual "
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1787453266189",
+          "title": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Sing - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPNWF2NWhpbkxqS05TalhQTkU4LXRYOXo4TF9VQno0OW5IVm54dHFoRmcwdElUYjNfa19qWElKeEN4WTYzME9iXy1vT3NjOElTV1kxTWxtcTZxVFBaQTJJOFRodDUyOGNabHpPZXd2SDBUNGJxdmNaNFEwZ3Fmak1ZYkl6ZzhPR0dPN3BJNFdkMXl2ZEk1dDUzdXBaR2ctMlNqT1l1RkxGZ3A4eVQ3amRhbDVkQWZrOUh2NVFISDJZLU5jODJOaEhXWGxScHhla1ZfdGd1SDd0RTRRd2pGMlN1dG1sU2dsZGw1aHNBcGV2N0tSWVpnb28tQi1ZU1lyaWwzdWpwcVZHZ0RvUnV4eHZpcU9LUlFkSXlVZ3RSWk1nb2s2OE1nRWR2LUZ3TG5HUzc1RHVkRUg2aFdKSXpZbDRWal9FTjgxT0k1dnhlYTlpUmlsODBpZTFWM3hqN2xpcHBsaTdOMHV4ZnRUMFA10gGIAkFVX3lxTE5vSllZQTk0T3QzUG5IbU9MLXJHeGllMzhzdkZqOVFUb0FtWnJWWmgzRU01aGxmQkcwWDJIMmE5enBpbE5KcnlsNElId3A3TGRGRnRzSjBkS0FuUTlfckNub3FCckR6dWJYTlYzMVlOVGpmQ0tSNVNiR0JkWDFaeUV4Z1ZqVGlSY0d5X2c3dHYta2xGSExnN01RS2VLbjdweW9DTTg5R2V5c293MmNiaW9CRGxZMWo3Sk9ZUlA5SFMyb2l3R0xxbmFma1QxUXlqOEwtNnFWSWx2akxSNHM4S09ZMnZRbWxZaGp1T2JjWWJVZ2JtV2VZelpVSnhrT0NadGU5LXF1OTVCNA?oc=5",
+          "time": "11h ago",
+          "body": "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Sing  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IAF turning to predictive AI and digital twins to prepare for future challenges: Air Chief Marshal AP Sing The Economic Times"
+            ],
+            "tldr": "IAF turning to predictive AI and digital twins to prepare for future challenges:"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1787453266189",
+          "title": "Maharashtra FDA suspends seven Mumbai food outlets, seizes gutkha - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUE1hYzJ1U0prcGxDcl91NzI2NFd4bmFYSVN5NldQOHl4VDAtd1FXa3YtdEREYjZLUU5aaWlOZ2cwVkZxZ1phTUlhanREYUEtY0NGTmZnUlBzSkZEYXdQYmVJWm9kZ2xKbjVqQmVfTWh1MTVMbnl1ZTRjQnAybVVlVnZmZGpJcDIxcUhpbmd5R2xmRlQ5TngxTWJTNnBMMTVaMkpmTDB5Y0dzME1CbHJhUGpBYWNrYUFkMTB6ZVZ1OUJ1QV8wWk1ITXZOVmw0Nnctell4RkZnaC1Lbl9JRGVLZjlZZWNqQXBEczI0cA?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra FDA suspends seven Mumbai food outlets, seizes gutkha  The News Mill",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA suspends seven Mumbai food outlets, seizes gutkha The News Mill"
+            ],
+            "tldr": "Maharashtra FDA suspends seven Mumbai food outlets, seizes gutkha The News Mill"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1787453266189",
+          "title": "Shavee Sehajpal Joins 3i Infotech as Chief Human Resources Officer - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONC1DYTcwTjlhdUtrbEI5bWJTaFBOTVVuQmZiNmhybUV4N3pac2dRa2xFM2ZPNVdMUVd5VHdlV05RNUpmLUVyZ094T1poSFRTYU1KMEdGdll2SkhoOHBFTzZOc1lvcFNuOVVPUVRBWHJFc0VWaGVjOV8zQkJCck0yWGc3UHFDcmkzLXp4QWpaWQ?oc=5",
+          "time": "19h ago",
+          "body": "Shavee Sehajpal Joins 3i Infotech as Chief Human Resources Officer  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shavee Sehajpal Joins 3i Infotech as Chief Human Resources Officer hrtoday.in"
+            ],
+            "tldr": "Shavee Sehajpal Joins 3i Infotech as Chief Human Resources Officer hrtoday.in"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1787453266189",
+          "title": "Anime India Set to Host Landmark Mumbai Convention: Naruto Director Hayato Date, 50,000 Fans, and Japanese Industry Titans Converge at NESCO - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNbTMtZ2lTRU1wcVJNak5fc3EwLXptQnpCNHhCWXFlTWpYVXdOUWs2bmU5eXBHLXVSZWZORG1hSW5jOER4VWI5aUFvbDYxTzdsU0E1LXg4UTBybEZIS3JGdkYtM0wtYS1IRF9CelJySDFlelhlUDl6VXFMb1NwNXBIZndaYWJHWS1WRkdIck9LT3huNWU0VFBXcEFWa0MyRjdxMUU2cGY1elgtRlNjUnZfaktYdDRlaG0zNkRaLUlJWDV4M1pBeW5NWVJROWd3Y3NuY3N5dHRnZ3pLTGwzZV9jdnJGUlhDa3FrS3FyaDVadHg3SHA0RnJJYkxTT245UzdaUVVtemZQYlpPanpIbzg0elRyMi10M0RGc2VveGk5WDhBek1iT254cW9LcUVveUZyTjZJWU1aWi1BYmZ5TzVwYzdOWHXSAcQCQVVfeXFMTW0zLWdpU0VNcHFSTWpOX3NxMC16bUJ6QjR4QllxZU1qWFV3TlFrNm5lOXlwRy11UmVmTkRtYUluYzhEeFViOWlBb2w2MU83bFNBNS14OFEwcmxGSEtyRnZGLTNMLWEtSERfQnpSckgxZXpYZVA5elVxTG9TcDVwSGZ3WmFiR1ktVkZHSHJPS094bjVlNFRQV3BBVmtDMkY3cTFFNnBmNXpYLUZTY1J2X2pLWHQ0ZWhtMzZEWi1JSVg1eDNaQXluTVlSUTlnd2NzbmNzeXR0Z2d6S0xsM2VfY3ZyRlJYQ2txa0txcmg1WnR4N0hwNEZySWJMU09uOVM3WlFVbXpmUGJaT2p6SG84NHpUcjItdDNERnNlb3hpOVg4QXpNYk9ueHFvS3FFb3lGck42SVlNWlotQWJmeU81cGM3Tlh1?oc=5",
+          "time": "11h ago",
+          "body": "Anime India Set to Host Landmark Mumbai Convention: Naruto Director Hayato Date, 50,000 Fans, and Japanese Industry Titans Converge at NESCO  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Anime India Set to Host Landmark Mumbai Convention: Naruto Director Hayato Date, 50,000 Fans, and Japanese Industry Titans Converge at NESCO Business Standard"
+            ],
+            "tldr": "Anime India Set to Host Landmark Mumbai Convention: Naruto Director Hayato Date,"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1787453266189",
+          "title": "Dr Rakhshanda Hani Becomes First Woman To Lead Maharashtra College - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMURnWl90XzZDd2IzX25CeVd1cmtaU3M2THlldVN1ZzhtMlBucU10RmpRRld6a2lrNFZkT01EYV9PZHJ3RnFBMzIzY2ZodnlFeDBVUWdkYURzR0NmRlgwRlBNV2ZfdEJLTnpIM244RlhLejlHOWhocldGVlRZSUF3NEdpSVU1ZHJFRVRITzNyS05ydjRpUFhRTE41QVVWMzR5Y09qeW1YOENWdkFKTGFaY2RR0gGyAUFVX3lxTE8xRGdaX3RfNkN3YjNfbkJ5V3Vya1pTczZMeWV1U3VnOG0yUG5xTXRGalFGV3praWs0VmRPTURhX09kcndGcUEzMjNjZmh2eUV4MFVRZ2RhRHNHQ2ZGWDBGUE1XZl90QktOekgzbjhGWEt6OUc5aGhyV0ZWVFlJQXc0R2lJVTVkckVFVEhPM3JLTnJ2NGlQWFFMTjVBVVYzNHljT2p5bVg4Q1Z2QUpMYVpjZFE?oc=5",
+          "time": "6h ago",
+          "body": "Dr Rakhshanda Hani Becomes First Woman To Lead Maharashtra College  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dr Rakhshanda Hani Becomes First Woman To Lead Maharashtra College Free Press Journal"
+            ],
+            "tldr": "Dr Rakhshanda Hani Becomes First Woman To Lead Maharashtra College Free Press Jo"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-2-1787453266344",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1787453266344",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "11h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1787453268884",
+          "title": "IND vs SL 2nd Test: India target 2-0 series win as Gill, Jaiswal look to bounce back",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "IND vs SL 2nd Test: India target 2-0 series win as Gill, Jaiswal look to bounce back. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs SL 2nd Test: India target 2-0 series win as Gill, Jaiswal look to bounce back. [object Object]"
+            ],
+            "tldr": "IND vs SL 2nd Test: India target 2-0 series win as Gill, Jaiswal look to bounce "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1787453268884",
+          "title": "India seek 2-0 sweep: Gill, Jaiswal look to bounce back; Kuldeep to miss out?",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "In the upcoming second Test, India strives to maintain their winning momentum. Padikkal and Pant showcased impressive performances in the previous match, while captain Gill and Jaiswal are set on enhancing their scores in Colombo. The selectors are faced with the dilemma of choosing between Kuldeep Yadav and Saransh Jain. A triumph would significantly enhance India's standing in the World Test Championship.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In the upcoming second Test, India strives to maintain their winning momentum.",
+              "Padikkal and Pant showcased impressive performances in the previous match, while captain Gill and Jaiswal are set on enhancing their scores in Colombo.",
+              "The selectors are faced with the dilemma of choosing between Kuldeep Yadav and Saransh Jain."
+            ],
+            "tldr": "In the upcoming second Test, India strives to maintain their winning momentum."
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1787453268884",
+          "title": "Aus vs Ban 2nd Test, Live: Starc and Cummins cause carnage",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Aus vs Ban 2nd Test, Live: Starc and Cummins cause carnage. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aus vs Ban 2nd Test, Live: Starc and Cummins cause carnage. [object Object]"
+            ],
+            "tldr": "Aus vs Ban 2nd Test, Live: Starc and Cummins cause carnage. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1787453268884",
+          "title": "Hockey World Cup: India's semifinal hopes end after 1-3 loss to Netherlands",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "10h ago",
+          "body": "The defeat leaves India without a point in the second round. India had already lost to England in the first round, and even a victory against Argentina on Monday would take them to only three points. That will not be enough to reach the semifinals. India will instead play in the fifth-eighth place classification matches after their final second-round game against Argentina.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The defeat leaves India without a point in the second round.",
+              "That will not be enough to reach the semifinals.",
+              "India will instead play in the fifth-eighth place classification matches after their final second-round game against Argentina."
+            ],
+            "tldr": "The defeat leaves India without a point in the second round."
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1787453268884",
+          "title": "Dhols, chants and belief: How Delhi turned a World Championships semi-final into a homecoming",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "9h ago",
+          "body": "A packed Indira Gandhi Indoor Stadium created an unforgettable atmosphere as Treesa Jolly and Gayatri Gopichand battled China's top seeds in the BWF World Championships semi-finals. Chants, dhols and unwavering support drove the Indian pair throughout their 64-minute contest. Though the eventual bronze medallists fell short, Delhi's passionate crowd emerged as one of the tournament's defining stories.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A packed Indira Gandhi Indoor Stadium created an unforgettable atmosphere as Treesa Jolly and Gayatri Gopichand battled China's top seeds in the BWF World Championships semi-finals.",
+              "Chants, dhols and unwavering support drove the Indian pair throughout their 64-minute contest.",
+              "Though the eventual bronze medallists fell short, Delhi's passionate crowd emerged as one of the tournament's defining stories."
+            ],
+            "tldr": "A packed Indira Gandhi Indoor Stadium created an unforgettable atmosphere as Tre"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1787453268884",
+          "title": "From tape-ball to 'dream of Harmanpreet’s wicket', Maryam follows her father’s dream",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India. Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage. With aspirations to honor her father's dream, Bibi sees the match not only as a competitive opportunity but also as a source of inspiration for aspiring young female cricketers.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as she faces India.",
+              "Her cricketing journey began with tape-ball games and has evolved into representing her nation on a larger stage.",
+              "With aspirations to honor her father's dream, Bibi sees the match not only as a competitive opportunity but also as a source of inspiration for aspiring young female cricketers."
+            ],
+            "tldr": "Hong Kong's vice-captain Maryam Bibi is gearing up for a pivotal challenge as sh"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1787453267581",
+          "title": "2 tropical cyclones may enter PAR Saturday, Monday - ABS-CBN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVU1SHpWWERwSzJkN2tQTkpKYWkxYUFuOTA1WjFQTndHZzdEbDVueE5WWDZCbjVKYm5LQWtOWm5jSjlEbTd3LTRNa285NUt5dUp2VXpjNUMzRVR5bHRzb05WYnc4c3FzajdUSVJwNmZqZUJ2N240SHMtNEFuUVBHQ0NGcGhJTjJNMEIwWlNFWVJVUHBVb2c5ZjFxWGY4d2FtY3B6eUFoVFBfbnM0VUE?oc=5",
+          "time": "15h ago",
+          "body": "2 tropical cyclones may enter PAR Saturday, Monday  ABS-CBN",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "2 tropical cyclones may enter PAR Saturday, Monday  ABS-CBN"
+            ],
+            "tldr": "2 tropical cyclones may enter PAR Saturday, Monday  ABS-CBN"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1787453267565",
+          "title": "'Never': Indian-origin doctor denies assault allegations from students after arrest at Miami International Airport, released on bond",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7h ago",
+          "body": "'Never': Indian-origin doctor denies assault allegations from students after arrest at Miami International Airport, released on bond. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Never': Indian-origin doctor denies assault allegations from students after arrest at Miami International Airport, released on bond. [object Object]"
+            ],
+            "tldr": "'Never': Indian-origin doctor denies assault allegations from students after arr"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1787453267565",
+          "title": "Indian-origin UC Santa Cruz student dies as car plunges from cliff into ocean, male driver escaped with minor injuries",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "Indian-origin UC Santa Cruz student dies as car plunges from cliff into ocean, male driver escaped with minor injuries. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin UC Santa Cruz student dies as car plunges from cliff into ocean, male driver escaped with minor injuries. [object Object]"
+            ],
+            "tldr": "Indian-origin UC Santa Cruz student dies as car plunges from cliff into ocean, m"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1787453267565",
+          "title": "Cash, gold & elderly victims: How Indian-origin man became 'money mule' in $7.5m US scam",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "23h ago",
+          "body": "An Indian national faces charges for his alleged role as a money mule.  He was arrested in Canada while attempting to flee to Qatar.  The scheme targeted elderly victims and involved millions of dollars.  Investigators believe he collected cash and gold from nine victims.  Canadian authorities arrested him at Toronto Pearson International Airport.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian national faces charges for his alleged role as a money mule.",
+              "The scheme targeted elderly victims and involved millions of dollars.",
+              "Canadian authorities arrested him at Toronto Pearson International Airport."
+            ],
+            "tldr": "An Indian national faces charges for his alleged role as a money…"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1787453267565",
+          "title": "Indian-American Silicon Valley investor says people fake degrees, 20-25% of those who come to US on H-1Bs are frauds",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-American Silicon Valley investor says people fake degrees, 20-25% of those who come to US on H-1Bs are frauds. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-American Silicon Valley investor says people fake degrees, 20-25% of those who come to US on H-1Bs are frauds. [object Object]"
+            ],
+            "tldr": "Indian-American Silicon Valley investor says people fake degrees, 20-25% of thos"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1787453267565",
+          "title": "Indian father drowns while paddleboarding in Lake Hopatcong in New Jersey; family picnic turns tragic",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian father drowns while paddleboarding in Lake Hopatcong in New Jersey; family picnic turns tragic. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian father drowns while paddleboarding in Lake Hopatcong in New Jersey; family picnic turns tragic. [object Object]"
+            ],
+            "tldr": "Indian father drowns while paddleboarding in Lake Hopatcong in New Jersey; famil"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1787453267565",
+          "title": "Help us: 4 Indian-origin teens from New Jersey call 911 during Mount Lafayette hike; they will have to pay a hefty fine for 'unprepared' adventure",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Help us: 4 Indian-origin teens from New Jersey call 911 during Mount Lafayette hike; they will have to pay a hefty fine for 'unprepared' adventure. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Help us: 4 Indian-origin teens from New Jersey call 911 during Mount Lafayette hike; they will have to pay a hefty fine for 'unprepared' adventure. [object Object]"
+            ],
+            "tldr": "Help us: 4 Indian-origin teens from New Jersey call 911 during Mount Lafayette h"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1787453267565",
+          "title": "Man claims mother-in-law's US visa got 'revoked midflight' for 2-day overstay on previous visit, was sent back from Singapore",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Man claims mother-in-law's US visa got 'revoked midflight' for 2-day overstay on previous visit, was sent back from Singapore. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Man claims mother-in-law's US visa got 'revoked midflight' for 2-day overstay on previous visit, was sent back from Singapore. [object Object]"
+            ],
+            "tldr": "Man claims mother-in-law's US visa got 'revoked midflight' for 2-day overstay on"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1787453269187",
+          "title": "Maharashtra: NCW holds workshop on gender-sensitive policing in Chhatrapati Sambhajinagar - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNUU0NObDNRN0NuQWhOVjdLVXk1UVdNYXRXWllwZFlQRFIxeFhScUNwWmdBWmVKRnNKbk5wWnJiRlpuNFZnNXJtY3ZRR0lPdVhyemZ6SlE1Y1FpUl96QWxTOEtoRV9nWkdfX2doaVhGRjRDOGhXVmpzZFNGZlVUSHhBbFVwUTZabU9IaVN4VTVJaG5jNkVFT2JuMS1VcmxiUEw4NXlkNzlJLXZ5VGVQektjYjc?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra: NCW holds workshop on gender-sensitive policing in Chhatrapati Sambhajinagar  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: NCW holds workshop on gender-sensitive policing in Chhatrapati Sambhajinagar News On AIR"
+            ],
+            "tldr": "Maharashtra: NCW holds workshop on gender-sensitive policing in Chhatrapati Samb"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1787453269187",
+          "title": "Begging, Pleading, Prostrating: Mother's Desperate Attempts To Stop Suicidal Teen - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTnU0dzBTSWdOcmdVUEdtU1NWQ3V0TXFkRXpnT0JjTk1ZdlNsZ1ZvOFdaZWVRYXowR0RlYTE0Q1VzQy1NOG5WRHN0TDJrZ0JhSzFsUzlKNHRTb2YyYVllT0xLQWM3TVRXM2huYUhaSGVyd2dreDVmVXk1UXByd2l3amwtejlIRFc1Znk0SEZjZEtKUDVKU2FqX3dfTndSYlBYZkxWNXFJRUxFSzVTcHhjWkFzMWtmMm1tdnpkczJndW45MHJkMkRSUlpnZHRsYllaQ2QxUTQtUFJrT21vYUw1SGt6LUdhc2loVVYzdDZNbU9oMEQ5ZDlGS01oNW1OdGFWaVllUC1rcTJZR0xzOE9N0gGXAkFVX3lxTE9hdmdJc1NHNTZodndjbTloR1V2dE5RX2RCb2tsVEo2OTFNTzNrcElYS1NKZks4c1JMMWFNM3RnUEYxVklNVEdUeVladFVLcVF5c014VVBNa2RtbkV3Vm9GZ0JXa0hMMnlVZVR3YmlrSHNTU1ZnS1A1N1Q1ekltLURmbzJld2F4LXlCQ3YtdjNwTEx1NjFyX1Z5eDZaV2JiZzQ4Z0FieGRRWVFaWkJVWjZ0dXg4SThkeVdiS3V4bWk0NnBDVzNOOFlVRlpock5hM1BtRjYtSWhHVGdsZlQ2VGRjTUE2V1pYTTFGOUM0cG5BZWJfZVVETE5DbzhDNEZrZU5haVpGZGFQWXhUS2RkTzlMRWFrNzlHbw?oc=5",
+          "time": "13h ago",
+          "body": "Begging, Pleading, Prostrating: Mother's Desperate Attempts To Stop Suicidal Teen  NDTV",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Begging, Pleading, Prostrating: Mother's Desperate Attempts To Stop Suicidal Teen NDTV"
+            ],
+            "tldr": "Begging, Pleading, Prostrating: Mother's Desperate Attempts To Stop Suicidal Tee"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1787453269187",
+          "title": "Final minutes of Maharashtra hill tragedy: Sarpanch offers iPhone, teen says ‘death only solution now' - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYTUzS2VqeWV3SnhGbWdPeTVibXJLMV95R3hra0ZNMzFQTTJ3VkpTUmQwM242ZlJrX3ZLalM2dTQ0YkNYbk1VZUFjdEVPVkFXRVF6aHZXZ1B4MUIzY2NsdHU3cmN1dEU3TTIzODlRaWVqcDZBUWRhSElMZWFhT0lNclVJV21wckJmY2FZVnN4aHBFejkzUnhsUWQtTmxCU1NJTWFTT1RwNk5YSnJkay1yWGpUdHluZkR4Z2JFX0tFVC1CVFJUdHpsN1NtOWNFM2dYbGdXM1NjOUUySzhLVW42U2llejNsRTdvN1JQNTV0ekVRd0tfcDdrX0RsOGxKay01Nm9DZGFOd9IBjAJBVV95cUxQZzhyeVN4ZHhzMktONWRJSEpiU3RYNVIxU2Ztd1ByYk5nbGVwX3hSeXNESlVNVUh0VmpOTXVLMk1Xc195aWRQbmsyNy1jazdrRDN2SVg2QXNFLU96UGFtUVlVdlB1X1g4WGJjVVJUQVg2d3JYRS16UDNtMDVYLW82ZW94R2xES0pRTVVlYWZDd283b01nclN3WEM4Z0VTQkp6cTJhUnp0OTNqNFYySUF3RFBnM2ZNQ1JRQ2ZaYXQtdXpnOGFEcmxuQW51Tk10ZzlsSng1ZzB3azdzUHlDek1Bc1hJeWYxUzNyZVVKcXJrdy1sZFpDdDFDeklKSk03Z0N6UDc2SzNUbHp4SWR0?oc=5",
+          "time": "22h ago",
+          "body": "Final minutes of Maharashtra hill tragedy: Sarpanch offers iPhone, teen says ‘death only solution now'  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Final minutes of Maharashtra hill tragedy: Sarpanch offers iPhone, teen says ‘death only solution now' The Times of India"
+            ],
+            "tldr": "Final minutes of Maharashtra hill tragedy: Sarpanch offers iPhone, teen says ‘de"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1787453269187",
+          "title": "Family of three dies after youth jumps off cliff in Maharashtra's Chhatrapati Sambhajinagar after quarrel over mobile phone - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbktpaThQQzY4SzRkZGhMNkptY1UxM0JncTVDUkZSX3RLZ2l2UmxJZFFRekxLV1B0YXVNZGtwNmx5T1pPRm5jWV9vWUFHb2NJLWlBT21BQkhscWpaQU5CSVZveVJ6aVdNdWlON1ppTlZydjZBRG4wZHFiV0sxVVlBOU9QNnJvT2xUbFRqc0dKLThKRmZZUDVab2s5anRzeG9lajJKUGlfMTR3U2lPSnI4V3FsSGNIN2FCQTNSOWRkdi1xQ2lmOVZjRlgxSERSLWlibmZZNThnMlZvNUhET1p2eXVlSkRQRTRsb2ZTWWZGN2dMV3BPbVBtWTVtZEIzMmFkLVRqY19HZ2ticGtNR3dXdXJSTGQ?oc=5",
+          "time": "20h ago",
+          "body": "Family of three dies after youth jumps off cliff in Maharashtra's Chhatrapati Sambhajinagar after quarrel over mobile phone  ANI News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Family of three dies after youth jumps off cliff in Maharashtra's Chhatrapati Sambhajinagar after quarrel over mobile phone ANI News"
+            ],
+            "tldr": "Family of three dies after youth jumps off cliff in Maharashtra's Chhatrapati Sa"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1787453269187",
+          "title": "Maharashtra: Dispute over iPhone EMI ends with death of 3 from same family in Chhatrapati Sambhajinagar - CNBC TV18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPblBHOGNIWXpjaE5GbEtMOFE5NVhpYzJDakxCS2V5YUpubkwtUGJMN1prSnpLS2RrdjRUaDhOQXVOYWJRYlJkS2hGT19LUWVDdmFBWmk5Q0lXcW1ndGgtWFRaNUx6ZDVHbkFnQ05uU19zQ0ZZUVg1Vzd4UGl5VUNLQ1N5SGtJNGptMzRxS0Ewc05IdkQwUEJ2eFFXckZNNmFYQWQ4c3gtMU0zYU9tTU9DZ2JEYXJHNFRmaG00RVlHVEZkQnB1c1k2cHRVbHVxeW55M2RjalRTRXpfU1JhT1ZV0gHkAUFVX3lxTE5DZlNBN0JhVC1PVkt1eU5HNTU1emRxS2NjY0ZfbkZCQjljeWVETWpzb3RRSG9qNkFnbXA5UzV5X1pwcTN5WlBaMDBTTjZrNE9zcWJGaWZpQUlqbkc1WXdJcDJ5dzRPaEw4SFBpdjJLemJrMUdpV0pXTm04M1Y5cnBvQkFEVTlONjg5b1ctV3lsQVIzQ0hYdzI3bEFvNmE5Z0p4cjFSZmpNVWxfOWFYWFpCalNwaDJTU09jQTRic29zemRwWllVRjRoVnZiXzdKQUxwanc5REhCdjFnTXFNVEZmNlR6Zg?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra: Dispute over iPhone EMI ends with death of 3 from same family in Chhatrapati Sambhajinagar  CNBC TV18",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Dispute over iPhone EMI ends with death of 3 from same family in Chhatrapati Sambhajinagar CNBC TV18"
+            ],
+            "tldr": "Maharashtra: Dispute over iPhone EMI ends with death of 3 from same family in Ch"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1787453269187",
+          "title": "Boy dies after dispute over iPhone with parents; couple die trying to save him - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSU5jNHhTbXloSmFxSURrU2FBSE9zVWgyalZjazZiUnFyeWZsOFYzaHVZclpPRVZtRWJ6NHQ1Z0pSSmlYdWswaTN3TWV2bERTX0t0MTdqcEUwME5hZnF5OEo0eThycHhvU0JfTWxqemtmMnAtcmhMOFBDcXFELXEyWUlDTjA1VkdvbTlDamlTMXk3UzNUdU85MlJrbFJmZUlienVzdGVMMGlBeXIyTnVHRzVEcEh0WmQwcVpKbHcyNldUZEV1dTc3em9YSXNmVGRjME4zSXpzNU5sRkh5UjhDbjlxWGlIMWtZd2NPa0Z4aTJKZWNxMmJVUDh5dULSAYMCQVVfeXFMT3hzM3ZSb1dGYlIyV1pXYmwzOGFobGVXczFSc1Q0MnhQWklobWxrMy1KY3R2MUNjMWt1N2ROS1AyYnVyZmd0T29XRHllMnlvXzg3UjROSkdTVVJXSk1INy16MWxTOFg1aVd5M2VKTFBoZVhpaU9hRGZCUnVSc25xVWdMVHpwRGdpMDdhR1g5QjBIdFFTaWU4ZDdxWjJCYU9LQVpaWUhZaHNONXBQSWdGQmR5Y25fQXl4bnBYQWwxM2dDUmdWb1BsTXVsWFVNNzB5SlhnQjFRa3gyTkwxUEhsLVRwMWZvUzY2eWMtT2VfTHMzZWdVdURRNVd2R0J2M1dXVHhqNA?oc=5",
+          "time": "23h ago",
+          "body": "Boy dies after dispute over iPhone with parents; couple die trying to save him  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Boy dies after dispute over iPhone with parents; couple die trying to save him The Hindu"
+            ],
+            "tldr": "Boy dies after dispute over iPhone with parents; couple die trying to save him T"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1787453269187",
+          "title": "Maximum Crematorium Workers Honoured Simultaneously - India Book of Records",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWJEY0ZDSUo2czFBNXZCQzVXb0hpNkxVdnhPVS1JTmJvZDJodlNkSmVhblV4cll6MDFTYmpqX1lBMXFHUkJzU01DOE1FeF9TWUJob05nN1VoOXNMVDdwZmpvelRDSGlfdHFXaTBzYk1ya3JTVkxBakJRaDVzTGxWejFjOWlmZkU3T3c?oc=5",
+          "time": "21h ago",
+          "body": "Maximum Crematorium Workers Honoured Simultaneously  India Book of Records",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maximum Crematorium Workers Honoured Simultaneously India Book of Records"
+            ],
+            "tldr": "Maximum Crematorium Workers Honoured Simultaneously India Book of Records"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1787453269187",
+          "title": "‘Only one solution’: How teen demanding iPhone fell off Maharashtra hill with parents to deaths - theweek.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeHZTWk1JZVlmZ1U1YUxleTVyR004TXFCTVdJTW1udG4yQTl3eUY3dndVV1ZZU0lWV2hhSlRzRDMwdGRkdDJJLVhrNjBUS0w1SFRZN2dMMFhhZG1PY2s5RjJGQUszU2pvdmQyek1oU2lCZ1JKUlliM0RiUjNiQnR0TkVCQ3cxMnJzNjVZU2s4YVRjZWE4NHNtVlN5czRadzZxT1dCYUdCeUlKaE44eFRlcGU2YzAycU5aNjQyajRrU0xjd3RCTDZCTVROMWx0azgyZVNVZmdFVWVmUdIB3wFBVV95cUxPV3Z0Rm5NRTNCbnlMOWVXQWV0QU51RktHNUZSYW1UXzJycVpRaWVxQVdBeHpUSm5kMEd0REdnTUpqamtPTXJmTHVuSzN4eEtyOVhUbkhtelF1dkw3bng5dkExZjI0NjNRcXNodEtSeWhBZHQ5V3Z5R3A1U05SeU9CNHJsMnZZN09jTndhV0E2S3lfZU1hRUREZlNDOGQwS3NzZE96WHY4S0haa0dmTm1WbWM3dGxDazdqcy1RNGRXQWRMd3ZqUkJGMmhHM1hFSHRHQWVqeUs0ZTBCSGdpM01F?oc=5",
+          "time": "20h ago",
+          "body": "‘Only one solution’: How teen demanding iPhone fell off Maharashtra hill with parents to deaths  theweek.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "‘Only one solution’: How teen demanding iPhone fell off Maharashtra hill with parents to deaths theweek.in"
+            ],
+            "tldr": "‘Only one solution’: How teen demanding iPhone fell off Maharashtra hill with pa"
+          }
+        }
+      ]
+    }
+  }
+}
