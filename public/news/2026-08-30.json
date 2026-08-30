@@ -1,0 +1,793 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T07:16:11.125Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1788074165355",
+          "title": "Manoj Jarange presses Maharashtra govt over Kunbi certificates as hunger strike enters second day - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV29JRi1JQ296UGpXME5CU2RIanVITFdCNkk0Q1RTbE5vNTBaMU41TEppTFZUdHh4WV9KbGlMM01uSEozT2wzNDdWRjJ3dFoxRFN6a1B6Q3dUUHhFMmFVUXoxdEc5cC1HMDJwV0ZvcG5ZRDRGQmtneFgweWpJMlE2THl5TEpIck5LSTQ1TlU4aXYtZlFBYTFMcFY4VUZrOE13VFZfRFg4RWx4cThQRVd1ZnVORkpKZWg5MzlmQzZzVm5aamhEZGozT0pESkhBbHVwOXk2Yk85YmJtU0NoVm54VHl3NW9LSUx4WGxEY1RtcjJXZ0XSAYACQVVfeXFMUEFVWF9qeXZhRjdUdFRTOHN6QjBfRHB6TFBILW5aYlNKVXpzaTBfVDlHckpKMHZQUzFzR2RKNjZaMjkxRUpSMDBIZDlnWjMya0I4YUM3Y0ZjekJmeHNOV2dBV1JHM1NvUlM2bWZzdC0xWC1qenJBS1BnVmJ2elk4cGVfbVp4NzBCdFZwZ25wMFBTekFrWVJkWlZxQWhqbktmZFUzdG0xSzYzTlRrUFJzMG5yV09HRjVhMHU2WHhnaUhIbWNURVdIWXpUYWtJeUpvQk1tLVlMeDNfazlkMXdqcko1MUNiUFBMblo1SjNYeTZtWFQyN3hCU19QSmJDYi1CWQ?oc=5",
+          "time": "1h ago",
+          "body": "Manoj Jarange presses Maharashtra govt over Kunbi certificates as hunger strike enters second day  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange presses Maharashtra govt over Kunbi certificates as hunger strike enters second day The New Indian Express"
+            ],
+            "tldr": "Manoj Jarange presses Maharashtra govt over Kunbi certificates as hunger strike "
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1788074165355",
+          "title": "Maharashtra government in touch with 338 of the 404 stranded in Nepal - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMGUzRDZMZEdyWmlKYXRhM2RoWXJoejlSZEdVNUtzUFp5bUVXZVptd2VlZ3dlaFN3VllSRVNxaVhCb3VLcmprYkpFbFB4TXVRZElGdzhOR3h3LWtSaklQWTNtV0J0WDIyMVF6RjRNTUY4WnBwYnB6anJ1bEZiYi1fTHlsbU40ZFoyNnM2UEYyOVlEM2FoM1lzR3VvNGVta3dlNExnOTYyT3piQm1VQzRpYXBtbk9rVEdhUmxfNmF3eDAzUkhUYnM5UGRTOFRlWHQ2aHZ1TGZSONIB3gFBVV95cUxQNVA3Ni1jbzd4WlRNN0pnbXdjSWhpWmVVbVZjUXYzVXdzT2RMSVF1Q2NoWHN1Qm9laHZCdi1OSUhVb0hGZURrNFBSOC1Id25GVUpwb09sTG5oVlFPWGZubGhKZjluejhMNWtfWU42bTYzOWZUVk5WUkh3U0daRkJnWWhvRTVqektpMG1tdmRVdXBVcDZfcEhOcGFIYV9kTUlaZWEzeWlHOVVFaENlRkdtcC1sNmdJTlllTHRodFZBQXRpVjJsTktEYUJjeTI5UzRyRmdEOVRaNm5RVlhXa3c?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra government in touch with 338 of the 404 stranded in Nepal  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government in touch with 338 of the 404 stranded in Nepal The Hindu"
+            ],
+            "tldr": "Maharashtra government in touch with 338 of the 404 stranded in Nepal The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1788074165355",
+          "title": "Maharashtra CM Accepts Demands Of Protesting Tribal Students - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGdZakdOYkQtRUVGbHZ4dmo5dGlVdC1pZU5XWnV6b00ybUxZQlJlUHR2RmRaeE1kbTBvUDlIc0ZGR3FwcVE3ZE1jMDNjYkFUYTQzMXlMSlVYbVI4cnlIQ0pCNkpXa2xKUVVQZGVtX09CSXM0bFZUVWwxcDJFSG9JQXl6SG51ZEJPbDE2M2w5WElwNVVHV1JPLTJ0d1ZyaTF2YU5UVW92OElua2vSAbABQVVfeXFMTWRMSG9oNVFfMVVDQ1Y0SVRMTEhLQWZfVWVKZ2xLWWt6LTlENV9pT0V5QmY5SE13RjRoU0JvQWpFWkVKNzBNemxuSzhIQ2MwbllRS2xmbTEtcVY1cWpham5QZURmTy02TG9PZ3NjUXUtNXFzc0Juc3NWMjF4X2pwWnpyVHI1QkN0VWtzQW5RVExlekhIZkUzaGJnaXJ5bXhqS0ZVQlF6dkFKd2x3Z2ttRmk?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra CM Accepts Demands Of Protesting Tribal Students  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Accepts Demands Of Protesting Tribal Students Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra CM Accepts Demands Of Protesting Tribal Students Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1788074165355",
+          "title": "Maharashtra activist Jarange raises new demand, sits on hunger strike again - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXpKUXVzdU53WFBKWE1sLXhIQUdMblNHU25iV2xsVnpGRFZJWkhMWF9uYVFDV1RhXzBmNk1fS21UTWotZmVoTlRiS0lnSHNjUEhJRnhDX1F4dDRncG1sMjFKVmVSUU05X216ZXVwWVk3WE8yYl9HXy1Jd0dLQzJmZ1FoelZOdGhKMk1pNW8weVJ4bDc3S1d0bHVQWWVJYW1hZ2gwbDRpcnVkR1NYRDJTTkwyTdIBugFBVV95cUxNTzBFYmlJSzhFTm9ONURKRk1Nbjh4MmY0dllDZzE1RkRHZlRkS1BQUmYzQzhNWDY1bjVmMVF0S0t4dHRSMVFYUnI0Qno5Y1lld1kzRWhNVjJXMHZTUWlqeVN5MVpoM3dETkJudUZ4dnA3Z2p1SnJLYkctcmRwakZ2eW8xTXd6bFlTbG0xdXFVc29uOGdydmtWcEdlNWIwSExTbGQySk9ZaHdmRWJvaHRoeUlyY0tXRmZBeXc?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra activist Jarange raises new demand, sits on hunger strike again  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra activist Jarange raises new demand, sits on hunger strike again The Indian Express"
+            ],
+            "tldr": "Maharashtra activist Jarange raises new demand, sits on hunger strike again The "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1788074165355",
+          "title": "\"People have stopped taking CM seriously\": Sanjay Raut on alleged corruption in Kumbh-related works in Nashik - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2l1Z3VmTDRjSExOWW9DT0RiR255V0ljYTF0UmZwb01qZ3FmNHBGbEh3Q1ZNc2F2R3FXc1I3NTdfeXBDWHBGLUZDQzZtTDJZSkpLZFlGQ0J1MUZfTTRQczlfakRXSmFFWm4wQk9sbTJFS3EyUjlkQmt6Y2xPWFdXWVJHc1hnWXNtZFNmWjNLd1N5dHV2OE85WXB2R2lSaFdUQ1Y0eXFma2NNSnRzcXVUMXc1M2s2VXVqczZnMDYzS214ZThDUXZYVjY1eWtwemg0bHVaYUNhX0JrakJBQVlua1MtZnlveFRRTlVLWFhlM3A3RnNFd0JoVDhR?oc=5",
+          "time": "22h ago",
+          "body": "\"People have stopped taking CM seriously\": Sanjay Raut on alleged corruption in Kumbh-related works in Nashik  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"People have stopped taking CM seriously\": Sanjay Raut on alleged corruption in Kumbh-related works in Nashik ANI News"
+            ],
+            "tldr": "\"People have stopped taking CM seriously\": Sanjay Raut on alleged corruption in "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1788074165355",
+          "title": "Snakebite Deaths: HC Asks Maharashtra Govt To Ensure Care For Tribal Students On Hunger Strike - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQWMwQWg4X0drZzRfekZtNkw1cUVtNmJGWlVINEdFdXdfZVVNcmRta0VfLTVma2NBdW1MSXBjS2huanF4cXlXUXA1cEE4aXRPSWh5XzVSUlFDdVRLZXdickc4NExSc2RLUXg1djRFNC1aWEdpWXRUeC05WFFxTERSNTV5QWQydncwdHR5aC1qYXZ2Y3R3QS00bTUzY3ZuQU5nVGIzNDZxYzJiUG1fZXhfTGxYZWhqaGZMVEFaaVZLdkxPSld0S1pWYWhHVVBYVVd2YzVCU2xNaVZ3X0wxa0xlQjFCemhabVBETU54eklJNkIyTkdrZDJR0gH8AUFVX3lxTFA4YjYxdWV1dk4weHNLRVdBZk9uVFRqeVFlT1hidmczT0JUSUdUempsS1lNMWZEM0NPY29uNVpJTWRfQmJfS3ZkbnBEdXpaaWlJXzhPaWRqeFJ2Ny1ta2hvZ2VUWEgtajZNcHpaeDBpU1N6Z0l5TXk3YmFMRHd4UXVrT1FYM2pxVVoyajY4WTF4SnZ4VC1KZFZ3ci1XRGYyZmVrOWo5MmUtQ2JrTmpmWTlZdjNjSFVLR0kySGNBbC04aDl0aktETmlITTE5RUdLcU8zY1JSMDJaZG5sQlRGR0pyMmRQZ3FOMFlqbnN6RFM2alhhaVVNSE9iZGR1OQ?oc=5",
+          "time": "22h ago",
+          "body": "Snakebite Deaths: HC Asks Maharashtra Govt To Ensure Care For Tribal Students On Hunger Strike  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Snakebite Deaths: HC Asks Maharashtra Govt To Ensure Care For Tribal Students On Hunger Strike ETV Bharat"
+            ],
+            "tldr": "Snakebite Deaths: HC Asks Maharashtra Govt To Ensure Care For Tribal Students On"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1788074165355",
+          "title": "Manoj Jarange stands firm on Kunbi certificates as hunger strike enters second day - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSDBYOThjcEhSU0toSTc2OXhsT0ZnRlV6TlpXM3k2RnVHbnpyVlVCU1dTRXZIVG1CcVU1Y251MXNyekNpWlg4S1BQVkYxZVlzXzNuRjJtUmJ0bndwbmloazFHQ3hOekhrblo4OFUyaVhMeFlQRzR3d0NfVDBZRTZpazdCMFRaaU9tai1Mb0FmMlE4NzBydmItNnVxY1VmU1FvdVJPOU5GV3lZNGpiZUVPbjQ5ck5FQS1aZDRqYWZkNWYxaWZnc2JFOHFUeDNMb1BKbDNlTnM2bHZMbXhGZnpaU0pkRWRsR3ZNQVVr0gHrAUFVX3lxTFBIMFg5OGNwSFJTS2hJNzY5eGxPRmdGVXpOWlczeTZGdUduenJWVUJTV1NFdkhUbUJxVTVjbnUxc3J6Q2laWDhLUFBWRjFlWXNfM25GMm1SYnRud3BuaWhrMUdDeE56SGtuWjg4VTJpWEx4WVBHNHd3Q19UMFlFNmlrN0IwVFppT21qLUxvQWYyUTg3MHJ2Yi02dXFjVWZTUW91Uk85TkZXeVk0amJlRU9uNDlyTkVBLVpkNGphZmQ1ZjFpZmdzYkU4cVR4M0xvUEpsM2VOczZsdkxteEZmelpTSmRFZGxHdk1BVWs?oc=5",
+          "time": "1h ago",
+          "body": "Manoj Jarange stands firm on Kunbi certificates as hunger strike enters second day  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange stands firm on Kunbi certificates as hunger strike enters second day Mid-Day"
+            ],
+            "tldr": "Manoj Jarange stands firm on Kunbi certificates as hunger strike enters second d"
+          }
+        },
+        {
+          "id": "mumbai-politics-0-1788074165273",
+          "title": "PM Modi greets Maharashtra CM Devendra Fadnavis on birthday, lauds state’s growth under his leadership - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3ZHRHJBaVJCS3pLZlpCN1cwdGVFVGl5N1VuYjNzbFMydVI2YUMzcV8yWTcxUmoteXhSd0NXZzNhU3c2ZUV0Q3lCV3NubE1rRmQ4Y3BFVGtZOVNnemlJdnA2QzJzOWdXUnZTb3NOM0UzV3pKQndqX0NBSlR1SzJ1U1ljM0lHUTRrZ2ljTWlJUWlYbmRUcS1kSk1OM19lUmxHWkhDb0lkM3RBX3VfdnJLcHZOd2FxLVZFajFzZ0tUU0VyUFRy?oc=5",
+          "time": "4h ago",
+          "body": "PM Modi greets Maharashtra CM Devendra Fadnavis on birthday, lauds state’s growth under his leadership  DD News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PM Modi greets Maharashtra CM Devendra Fadnavis on birthday, lauds state’s growth under his leadership DD News"
+            ],
+            "tldr": "PM Modi greets Maharashtra CM Devendra Fadnavis on birthday, lauds state’s growt"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1788074165295",
+          "title": "Sensex and Nifty end in negative territory - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4bEZVTTcxaFFEbWpRd1dfQUtwcjE1Yko5WFhnQm1HY0tzeUZLUGJiUURJNm9nSjVlZEZlWlQxRGxNdU1QZWJaSjBNWUNVTWhHdldpMGdIYkpMbDNNT0Q4anpqWDNLR2Zxd243dXZRVzAyUnpvZkY4?oc=5",
+          "time": "17h ago",
+          "body": "Sensex and Nifty end in negative territory  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex and Nifty end in negative territory  News On AIR"
+            ],
+            "tldr": "Sensex and Nifty end in negative territory  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1788074165295",
+          "title": "GDP data, crude oil prices likely to drive stock markets in week ahead - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU09LRXhpUFBkZzBjOGxrVGlmUUVDY1RMblRRcnJ4RFdDVnNQb09kdXNyQlFqdjNwbjVyWExIUFJsR2dOblc1YXBBV2JJX0NsUzZMa0lwYmRWSndiZ3VXM1RfWHhMODFxbmQ4WlFfU3RXWlA0anRJRk9TUVpUNDhHQmxXck5IUi1oS3ZsaW8tb3lfU2pjeU80cl9jellaci0wanp4T2p4MFBLcS1ZckVEcGU3dnMtaW1aZ09SVXluRmhPdTdZYlphbDBIOGJJaXh4d1HSAdcBQVVfeXFMUGdsVHkyNjAyb3NsRW1sTkRWa1lrVjRuWXBwMUtHdE55S3lFNm5pUEM3MmRqMUd1dGNqRlE4MjhJcjhQUnVINTRid1NSUGZmbWgzdzBmeGdJMkNNYVFkWHlwMzB4QzFBeGkxYWJxRldqc3l4ZTBwbWZONS1qQzhnSzdmS1kwQWlrWDVpTXNaLVNnaVp6UUV0NGhkNXhtbmMwMGpucUtYSVMyM1VmcTN5YjFhYlNqWGJMS21rc2NqMC1OalJDajJTaFlmUy1ZaTdtLTRnYnNGTUU?oc=5",
+          "time": "Just now",
+          "body": "GDP data, crude oil prices likely to drive stock markets in week ahead  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GDP data, crude oil prices likely to drive stock markets in week ahead Business Standard"
+            ],
+            "tldr": "GDP data, crude oil prices likely to drive stock markets in week ahead Business "
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1788074165295",
+          "title": "Sensex & Nifty plunge around 1.2% today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ySFVlUVZ0VUU0NU4wSVFhOWplMENwWnc2cG1tWmtWU2hpalNpaldzeUhhTm52UE5MWTBHY1dIYUs1ZnlCMXQ4dGVlSmllN09tWWMycUJVa2JiamZCUEpTLWQ3M0Z3SkN4ZG41WUx3NA?oc=5",
+          "time": "12h ago",
+          "body": "Sensex & Nifty plunge around 1.2% today  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex & Nifty plunge around 1.2% today  News On AIR"
+            ],
+            "tldr": "Sensex & Nifty plunge around 1.2% today  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1788074165295",
+          "title": "GDP data, crude prices among 7 factors likely to steer D-Street this week - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOb1lrWGxZYjJmUHJuOTFRU3hmd3hNSF92MkQ0REtndS1GTHFmY2ZMeHQ5Sm53M0diRFljcFhSdjNGaGR2eU1jNWFWbDlOX0ZydjN6NnBkNWtJMmVGajNiUG91SWg2WHphbi1WRzRMZ21NQ3JFYUU5cWx4djExVnlHcHc4VTZUamVfV3YyMElEZUNKdEhZZmxIc19YRk9PeTFHcDh0Wk9NUVAxTDQ1WE5iM3BYSDIzaE5MZ2NQUHVKWGphbHdGYmxWSDBNZmpnTjMwX3o2ZDBpNmZxTFV5MGQzYXFFRjl3akhReFJXNHcyNkZMc3lTMlA0RGxLcVAtOVJ6eGsyek4xTXBreUExekRQUW1ubEs4Q20zM1o0MnI3R1NvbGNRdU1PLUswWmlJMmxTbnc0a0QxY0hXbDVHcVpDZXo0ODhLYzFN0gHkAUFVX3lxTFBnR3ZJZDN4SlRWQTVoM05OR0FndUUxLVFjV2xEYmpJalNWUVg5Y290TkotajJ5dVhoWC14OVAwc0hQSnByZGRwVjFFSUV2QnA4anR6ZmhYYWlYeWU5aURWZ3hmRnJuaDZKdGpRdW1GSDdVN08xVm9nblBTank3Q1JrZDFXQzdUTFBrNW0zQzNyZlVWRV93T3dGWWVlVmVTRkFoaWtnRmQzV1hhN2lvZ2FhNUZRN0VsRHNsQ3BYeVZWY3NjckhpblpLVTkyUFBuZ2huWUNhV0tldTJHRHlpeWZzUXlCcw?oc=5",
+          "time": "3h ago",
+          "body": "GDP data, crude prices among 7 factors likely to steer D-Street this week  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GDP data, crude prices among 7 factors likely to steer D-Street this week The Economic Times"
+            ],
+            "tldr": "GDP data, crude prices among 7 factors likely to steer D-Street this week The Ec"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1788074165295",
+          "title": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400 - The Indian Awaaz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDdsczZjTm1tcjU2cE53OVJxNTBfdkZhcjl3MWYycWxJU0toRnlkbkVsYndkNkJzNTE1N1lETXNUOXM4T2pKTU5ZUGg3VlNXaUtHbnpsQkJJaEVmUGV6WElDYjFIRjdrS0NCOGxXUGJIZHpPWnowSENmX21kQnd2RjBkcVoxUDd3azQ0RWtZMHY1SjZLZ0Z5MzI2ekhlM1dHZE5MWWtlZFlDdl8wWmhmRjRoTk1HR3BXX1h6UA?oc=5",
+          "time": "11h ago",
+          "body": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400  The Indian Awaaz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400 The Indian Awaaz"
+            ],
+            "tldr": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slip"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1788074165295",
+          "title": "Sensex Swings 2,200 Points in 20 Minutes: What Went Wrong at the Close? - NiftyTrader",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmZKa0ZXUHBETFhPbzY2VlZocUZSaTUxZHVOTGdOM3IxR0t1czZZdkpYOTdnYnZ0RmdDaE0zWDFTRWVmUTY3UFYwTjNIbGNfcmxFYkZ0Snlnak1pNncyLWZrb09ZcW1sRF8tY3ZJUHlNSlluTTZmeXBGbjdiMEVCMmVZWQ?oc=5",
+          "time": "19h ago",
+          "body": "Sensex Swings 2,200 Points in 20 Minutes: What Went Wrong at the Close?  NiftyTrader",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Swings 2,200 Points in 20 Minutes: What Went Wrong at the Close?"
+            ],
+            "tldr": "Sensex Swings 2,200 Points in 20 Minutes: What Went Wrong at the Close?"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1788074165295",
+          "title": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkJpT3RWZGRzYUctQWRkanFaZDVoQkFYejdhcFNaYkFZWTFjVHJqU1ZiV1VXeGdwN1plUklOWl9kRkx0azhHLUMyR0RRN2tUYkVqa3hMRkhyWUc5OWthWjJtUVk0OGs5a1IzTS04cFZzQmVIeVNmZ1hzWmhXOFppTGpXTkZXczZYRDdkUzdRUGNxS2ZCYXl2b0w4eGV1TDhHLVh4c2pOOA?oc=5",
+          "time": "5h ago",
+          "body": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 BBN Times"
+            ],
+            "tldr": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 BBN Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1788074165295",
+          "title": "Market weekly wrap-up: Sensex, Nifty lose over 0.3 per cent amid global uncertainties - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeVN5RmMwc2VxVFNPOEV4U2piTTQ3Z09wOUhuSm9Ed2hLUlc0UFBTZDNEMHZjUDU5QkFVV1k1SFZObjgtYUczUVB2Q1RHVVh6dFFTQTRaYVNFbjA3YnJvZ1ROc0RKcEpNbHRSUmt1TGdZZFdHMnJDLVRYb3RFQURrc0VZTmJFUnQ2M1p1RVhuMEx1VncyRGhmRGdCaVVxVVhDMUZXckhvVDAxZ05ES1VGbGZaRmV6ZWg5d2FQUFBkemFxNEJIWUxUa25vNGZqN0FkMGFlUUpkcHdZYVRWUnBYdlFYQdIB4wFBVV95cUxPeVN5RmMwc2VxVFNPOEV4U2piTTQ3Z09wOUhuSm9Ed2hLUlc0UFBTZDNEMHZjUDU5QkFVV1k1SFZObjgtYUczUVB2Q1RHVVh6dFFTQTRaYVNFbjA3YnJvZ1ROc0RKcEpNbHRSUmt1TGdZZFdHMnJDLVRYb3RFQURrc0VZTmJFUnQ2M1p1RVhuMEx1VncyRGhmRGdCaVVxVVhDMUZXckhvVDAxZ05ES1VGbGZaRmV6ZWg5d2FQUFBkemFxNEJIWUxUa25vNGZqN0FkMGFlUUpkcHdZYVRWUnBYdlFYQQ?oc=5",
+          "time": "21h ago",
+          "body": "Market weekly wrap-up: Sensex, Nifty lose over 0.3 per cent amid global uncertainties  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market weekly wrap-up: Sensex, Nifty lose over 0.3 per cent amid global uncertainties Mid-Day"
+            ],
+            "tldr": "Market weekly wrap-up: Sensex, Nifty lose over 0.3 per cent amid global uncertai"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1788074165355",
+          "title": "Manoj Jarange vows Mumbai march as Maratha quota fast enters second day - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPRnFvZkF0U202QW90SnE5a2RNdjhLRW14cTdXVFMwR2pHMEVURG5lazl4OHNZUk5GOWhNZXVNNDNSNTBpZUlOaEZ5QmgwdXEzTWRhM3NRNGV5WG93U3VXZVpCMndndld1ZDhkQ05pcDV5cjhXSXkwdXl4Qk9LUGVzWmx1eEpiOV9nMkpjdXhCcXJmVnRmRGh4dWkzYllHSjl3MHpSVmFISGpScW95S0dJbkxMcjRSSEY2Y2hQSEhmWVJnUi1zWDFDa0Jybi1vcm11S0x5SkZpNEdQN1RFS1RWME9RSFhJblRCUl8wUFRCenpnb3BNTjZnclFvLXg0UldBeHRZSjRHWjczMnFaclBpZzF6S3lodTFwdVJBOTYtY3RJaS12dGNPOFJxLUdQVWw4RFQwQWFZYTJnd0d3SnI5MF80SFRjZFVfNzBiLUFn0gHqAUFVX3lxTE14cXc2T3ZqdnM1bko5SlpvcGxQNVF3bzhNcEpFeVJYVFZUZjNhcG8wUFhSUkVHN1QzQnQybzJEbFlXakZsanpSRHBIQ1NQV1A4T1hHRkFOcEFoY3JGajlIeE9CSFlSSnF0X2lJWS1fU0hsaGl2NkJZUkRsdUhNZnhMU3VKcXA3R3NNZ1ZwbzYwYWJqcFFVRFE3djQ3ZC0tX0JyZHZfbmxBRXZVOGNuQkZJYnRMLTJPREg5Zkpud2tlVmh4TENzQkZLRzJtNFZNWGN6WGd3eUU4Q3liazFSNF95M1d3SHJRcWpBUQ?oc=5",
+          "time": "1h ago",
+          "body": "Manoj Jarange vows Mumbai march as Maratha quota fast enters second day  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange vows Mumbai march as Maratha quota fast enters second day The Economic Times"
+            ],
+            "tldr": "Manoj Jarange vows Mumbai march as Maratha quota fast enters second day The Econ"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1788074165355",
+          "title": "Day 2 of Maratha quota protest: Jarange firm on Kunbi certificate demand, warns of march to Mumbai - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlFfdThRM2dOMDM3MU50THJsYk53eHp4NUY3SWpkVzlYTUNFYnZ1dks5TUtWc0UwVUNpYmV2cnZVbUtBc1djSnRPTzgwVGJuWnNNREJPNkxHYzRBd3AxNEpPaGtXVFdjc2tDbUozT2tQaHdPVEZralFYekp6d2RJcTZsLTBzRkRiLTR4T0xES0l3SzkzY1FpRG55dkM4WDN1aU4zVUJfbEU0VjJHWmNtYWhvbDQyemxNc3Fub2U5N09FSWI1WFp5NkhRWdIB0AFBVV95cUxQbVF1Q01fWkh6ekladjJRRDltMnI5SXB4NGZUTGpaWm55MEtDX2YwelNhVVNOSWJEZzA3Tmp1RFFuQTFwZ19aX2xUYnhrQTZGa2RaQzR3ZjlHZjBhb3NLXzJmMUFWemM0c0FWd1hRQzBuSnF1S3dDZXh1aTRXMWp4Yy12M2UzODlFTDNKN3p6SFBIeUNQR013dWhJTk84a1c1cVp6SHZEeG90Z2plS21TVU9xS0h0dVU0di1XRHlkSVhHM0hkcDdZNXBHV09GeG5q?oc=5",
+          "time": "1h ago",
+          "body": "Day 2 of Maratha quota protest: Jarange firm on Kunbi certificate demand, warns of march to Mumbai  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Day 2 of Maratha quota protest: Jarange firm on Kunbi certificate demand, warns of march to Mumbai ThePrint"
+            ],
+            "tldr": "Day 2 of Maratha quota protest: Jarange firm on Kunbi certificate demand, warns "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1788074165355",
+          "title": "Manoj Jarange resumes fast over Kunbi certificates' demand, warns of Mumbai march - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOGxwbjNoUzA4UjQtc1pnNzAxVHh4LTlsN2I0MG41a01hR09wdVE4dTFxalQ1Zkh6LV9kOUlNTXFDTEVxelZ0UjVhdE9BejRSZFZLaHR4emRwVjMzTEJBUlZIalZwMHhhSTd3cWlxejQwTG9pQm51T1NlNkt0d0ZLckNIczBPaVZ3LU9JRjJ4VDJ6M1VVN1JndXBFQVFkOXNyUXpaM2tvMWNxUi15N2hzNVBBQl9QNWJXcEpOMUY5NWRwYV9sQVVlYUdHSTNpNGZNckJKRFpLY2VaTjjSAeABQVVfeXFMT3dDc0ExZGk4d1pWQ1ZSRlpSM0tzQ3BYczFIU1Zsd3ZadFFtLUtWT1FsSHR1ZkNHOVphMTY3QW41MEpGYmxJd3NCQS1tTGdzcGFTNVMwMElqYU5sYTd3NXgtblBNVHJFMTJzR2JsaElMOGZVbXljbTNJV2tLd3VVa2JBU1ZaWXpjSjRaQXpRQ3ZRWHlJUjFjZTFtbkhHcEs4S1czR3lUMWxEeW1wa21qWXhKbE12amZLcmRUb1locEdIN3Z5bG8tT3E2Tzc5TWVrenFjUUx6c0Fmckp0NDNXb0Y?oc=5",
+          "time": "1h ago",
+          "body": "Manoj Jarange resumes fast over Kunbi certificates' demand, warns of Mumbai march  India Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange resumes fast over Kunbi certificates' demand, warns of Mumbai march India Today"
+            ],
+            "tldr": "Manoj Jarange resumes fast over Kunbi certificates' demand, warns of Mumbai marc"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1788074165355",
+          "title": "Nepal flash floods: 37 Mumbai pilgrims return safely after being stranded - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTZqS1huM3ZyRGxoTDIyVGVudzh1N1V3d0ZIYkdpOWlRQW5YaFZFdmVGM3N0TktzZ2x1bEdpd0xqdGV2VjQ3ZHdLdnZNbVFObW9QcXhabEUwQ0pjNEFBRi1nUE1NNi1oTWQwbV9YY2E4TGd2aFVKWDlRa01TYmVWY21EYkVBbmhuaU9Ucy0yUDVLejJpQ3BrbnRpWVNVOFUxSzdhRGp0VDAwdXNlSDJQeXlpdmRsaHR6ZWFlOUhfY1YxdmlCRXowSlJlWVpWTGhxcnIyLUYtZDDSAd4BQVVfeXFMTWR0YTdLbkRFUDU2UE81RUp1cjJaSGlGS1haZXpFLUpKdDRwQ1V3SURWMUNYZXFNUFNQVVRwZDRoMzBCa0lZcWdBbDJ5aUF1SVl4YXVDTk9WMEJrSDFVNVpUSWlYUl9Fc0dxUlJUT1hTeUh5VjlONmtXMUtQajhBMGZXVVVLdEpLUFVoRTFTQi1YMkI5d2g5UWhmOXQ2ODBmYV9JOWtjejVGN2szSVpCaURLNWhkUGd1N25HVFpucVFyMmI1bkN4SVNTWGY3eU0xaUlzNjR5RUVRRkQ1RU1R?oc=5",
+          "time": "5h ago",
+          "body": "Nepal flash floods: 37 Mumbai pilgrims return safely after being stranded  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nepal flash floods: 37 Mumbai pilgrims return safely after being stranded Mid-Day"
+            ],
+            "tldr": "Nepal flash floods: 37 Mumbai pilgrims return safely after being stranded Mid-Da"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1788074165355",
+          "title": "National Sports Day 2026: Players in Mumbai Fight to Secure Playing Grounds Amid Protests Over Loss of Playgrounds and Open Spaces - NewsGram",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXlZRFZMY1JMTkplaXo1aFk5Z0x6dVVLRm54czliVVVPMWdMZjBTYzRWZmdjaTYzN2FsRnNxX1dwdGp4ZzF0c3Nlb2cwTkF0ejJSdVdQSkd5Y0FGWVc0ZEExME5KMUJCcUNqZUFMRzNYVEhmcHl0OThYOWx6cGxiWER0eDQ2eVdSRU9XS1hvTVFfZkJNbUFWb3JHeWdkLXlmMG9KaHNBUm1kZVNlMFM2UnByY3BXU3ht0gHGAUFVX3lxTE1NNVVyLWswUkVzUjZFcmxvRU9ER3gycWtDU28xc2IzalJfdzZ5ck9YSjRxZnF0TmJ0cW9ickQtdnRHbWhJMERJd2dpeS1WbkRIN0EtaExIU2p1VlZuQ1RkMktBc2U2UFZvVnFhMzRpRHMzM3hOVUo2NFU2MVN6VzdGZzFvRldyZHhYRTh3MnB2ZlRVUFRLRXhFQzJkNGdybU8xcDBnZUhkTjRqR0hkUnhjN19oNnRtUTVOaDMwLTZmN0VHR3RFQQ?oc=5",
+          "time": "18h ago",
+          "body": "National Sports Day 2026: Players in Mumbai Fight to Secure Playing Grounds Amid Protests Over Loss of Playgrounds and Open Spaces  NewsGram",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "National Sports Day 2026: Players in Mumbai Fight to Secure Playing Grounds Amid Protests Over Loss of Playgrounds and Open Spaces NewsGram"
+            ],
+            "tldr": "National Sports Day 2026: Players in Mumbai Fight to Secure Playing Grounds Amid"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1788074166607",
+          "title": "Self-improving AI may be closer than expected, Anthropic finds - Storyboard18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQl9UbTBlSXdtWGI4cnh0NW1Zdmx3LV9VMnFJY2lkaTgwVEgyekN5dXRWNTd0c0NPcjRpRlYxeV92aExqVWJpa0M5WHU3bkt2Ym03b05TZmtNc0RIXzZGZ2NIWm51SWZUQkxXb0gwcDVRWXVwa0g4ZHZIYmY4RVNGRm5sSWtyRUtJQ0ppRVAwNXlPeXlLY0V1TVFQNVFYQVpwem44Qjh3VzFzYlFkUzd1WGQ1TdIBswFBVV95cUxNQl9UbTBlSXdtWGI4cnh0NW1Zdmx3LV9VMnFJY2lkaTgwVEgyekN5dXRWNTd0c0NPcjRpRlYxeV92aExqVWJpa0M5WHU3bkt2Ym03b05TZmtNc0RIXzZGZ2NIWm51SWZUQkxXb0gwcDVRWXVwa0g4ZHZIYmY4RVNGRm5sSWtyRUtJQ0ppRVAwNXlPeXlLY0V1TVFQNVFYQVpwem44Qjh3VzFzYlFkUzd1WGQ1TQ?oc=5",
+          "time": "21h ago",
+          "body": "Self-improving AI may be closer than expected, Anthropic finds  Storyboard18",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Self-improving AI may be closer than expected, Anthropic finds Storyboard18"
+            ],
+            "tldr": "Self-improving AI may be closer than expected, Anthropic finds Storyboard18"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1788074166607",
+          "title": "ANN Awards 2026 unveils winners across animation, digital content and creative storytelling - Animation Xpress",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTN2UGZIeFZjV0hoNVVQRloyY0xJUUFUNS1vNFk5ak1BZG1CLXNBdTlvbXktMGNHeFdZYUVtekZ4OEZVNlRXNnZOYzVBM0t6aXNSWDlGNlAxOXQyYWFXTjB4NkVadnpfTV9DR0YycmpkbGNYUEJJLVB2dTFycGJTX0JvbXpQMHdjeEVJTExvdzd5aFBNcm82eGhBalg5bG5tM3lwMXZKYV9uRFI5dXlzVzNLX3d1SHlFREhMc2NzSVZsTy1URzlLQjI5SdIB0wFBVV95cUxPTzVZVDNvSi04dzJENjhveGphVUxHUkxVc0VWVWY1dEpnYzZyU2V5bnZ2TnM0N2JhMUg1TlJEM0lnMzd0MzE1VkJHMmFuRlpHNkVVOEd6alBMaUFCQmN6TFJrbEpqTGpycjYySHFqWndzcmxLR1V3OUhhazBPdUtsMlZCdUpYbFVnaHhYUWJ6WUlPa1hiWURNalpCWFpaZXFMQkx2UkR4UVFKdEJTYzZYWG1KcG50MnZSNXZnN2dudTE3RndfYk51RnE5R1loU2xFbkFz?oc=5",
+          "time": "14h ago",
+          "body": "ANN Awards 2026 unveils winners across animation, digital content and creative storytelling  Animation Xpress",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ANN Awards 2026 unveils winners across animation, digital content and creative storytelling Animation Xpress"
+            ],
+            "tldr": "ANN Awards 2026 unveils winners across animation, digital content and creative s"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1788074166607",
+          "title": "Dinesh Sharma Appointed Chief Commercial Officer at ClimaCrew - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnU3UVEtdUl2QkVjWFlOMldWazV0NExSNkphUWVKYklodkFlemxLVWl2aVZvZHM3aE9ESlhYNDcyMlEzSHZkMFJiZmJySUk4dHMwWDMwbGtVMm0teW5MQmIwUTRhcjFLUmhjMXJWVWVRVnZTdklwbTh0aTFfRnpSNFJJcExxY1dX?oc=5",
+          "time": "21h ago",
+          "body": "Dinesh Sharma Appointed Chief Commercial Officer at ClimaCrew  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dinesh Sharma Appointed Chief Commercial Officer at ClimaCrew hrtoday.in"
+            ],
+            "tldr": "Dinesh Sharma Appointed Chief Commercial Officer at ClimaCrew hrtoday.in"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1788074166589",
+          "title": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTU0MnlmNThzbUlMQ0Z2YnRETlY0SXllQmlDNTFKbkNzY0JPYVFMejJuV1NpWnFtekN4Znl3X3lkelR2T3ZUNHBTWW5HdG9ZV29BcHFxeVIyMHpJNDdnbzhidWpzb1N6Zml6clRPb1haWFA3RS01SHdtVHFEUG9faVZWMUZZN01OME50TnNDZ0Nhb0U5Yld6R3FDNzlLbGtZalE?oc=5",
+          "time": "12h ago",
+          "body": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1788074166589",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "11h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1788074166589",
+          "title": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemxYcTdhZGFnUW5OQkd6YnBlQUdaY2E3OU43YjVZbG5abVhSajUzbXk0MmJPWE9WUTlKLS1yamM3V3VLWEZlUEYyaHNZSmNmRWFlN1pfek9abENzX3hFWl9yQVBWdmVDYU5fOXBadThxSTFPYXhJUXdDVndoOUxYWUhaaw?oc=5",
+          "time": "4h ago",
+          "body": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+            ],
+            "tldr": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1788074166589",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "10h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1788074166589",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySGRIOElpWmpqV2JrRm90c2dHMzZnQWR6QWRXbnpPMEtMaXYxRVR6b2hha2MwTmpfWlZVdHZsS3BGTFJaam9JRW5DdnBicXQ1T0ItTzY1S3lqU3A4RGpBX3FlZEsySHpfVmZIR0h0dTZlMFE?oc=5",
+          "time": "5h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1788074166589",
+          "title": "Shaun Tait lauds Ashwin's match-winning all-round show - Cricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGlRZXJ5UTlsNGEwN3IzeEFOQWhPLTFINC1vNVdIMTNQMGdGdTBoS05xMzcyOWtQNm1HTVhDV09WWXBLYXZneFJUb1Q4UEZXVnAxbTBSWERqc1pwb3F5eHU1OWpKOW1SQVk1TEhuT3RkX2x3bnhaeXBnSWxyeTV6YVBKTnFmclNPczR6UEtxZGpwdnZLcGRLUGJ6SUQwWUNwM0pXMw?oc=5",
+          "time": "12h ago",
+          "body": "Shaun Tait lauds Ashwin's match-winning all-round show  Cricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shaun Tait lauds Ashwin's match-winning all-round show Cricinfo"
+            ],
+            "tldr": "Shaun Tait lauds Ashwin's match-winning all-round show Cricinfo"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1788074168143",
+          "title": "Warren Buffett turns 96: Top 10 investing lessons from the Oracle of Omaha",
+          "source": "Economic Times",
+          "sourceUrl": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-turns-96-top-10-investing-lessons-from-the-oracle-of-omaha/articleshow/133624955.cms",
+          "time": "Just now",
+          "body": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, discipline, staying within his \"circle of competence,\" and concentrating capital when conviction is high.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshire Hathaway's CEO, the piece revisits the investing principles behind his six-decade run — patience, discipline, staying within his \"circle of competence,\" and concentrating capital when conviction is high."
+            ],
+            "tldr": "As Warren Buffett turns 96 in his first birthday since stepping down as Berkshir"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1788074169168",
+          "title": "Tilak Varma in India’s ODI World Cup plans as selectors seek Shreyas Iyer backup",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "As India's team management strategizes for the upcoming ODI World Cup, they're considering Tilak Varma as a valuable middle-order backup. His left-handed batting style could enhance the team's dynamics, alongside his potential bowling skills. With the New Zealand tour approaching in October, selectors aim to ensure optimal batting positions, seeking both stability and depth in the squad.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "As India's team management strategizes for the upcoming ODI World Cup, they're considering Tilak Varma as a valuable middle-order backup.",
+              "His left-handed batting style could enhance the team's dynamics, alongside his potential bowling skills.",
+              "With the New Zealand tour approaching in October, selectors aim to ensure optimal batting positions, seeking both stability and depth in the squad."
+            ],
+            "tldr": "As India's team management strategizes for the upcoming ODI World Cup, they're c"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1788074167781",
+          "title": "NGT Takes Suo Motu Cognisance Of Garbage, Dead Cattle Dumping Along Bypass In Bhopal - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLUFJbmZlS2hWSmRTMnZFbGN5VWd1dWhmVDFoeHdOdjFSR0VkYjVzTHZpbFJCN2pDVDBHVVZuaUdtWTgxeVpXcWVmUmp3dXNYMGtTOG9zczd4TndFRDV6MjRUNlhsOUV5Zm8xSURmUUQ4eWd3UkVGN1B1dHJoR0V2V0NtdndKN2RtWnJKdEpQeW1ac081UTRkNXF5T1pjV0xDbm1uZU14Q0pUd0lDaTNwV1RiQjZIcTk4bzNrU0pDMNIBxAFBVV95cUxNR2FEZ3Y2TVlpNmc5RExkTzI0MHZzQm16WE8tc2gtbER1SUNuSFo3SjV0ZmpOZW95Y0dqMHIydURURXhVaDluV18weGNuSTltZEJhZWxESHRieXNJRlBCS2pWNFhnREN5VkRTanlacGJGcVIzMDFNR2hiS1JYd21OR2NWc1JJTEZwbzRoSk9BNGk1Q2tTOWUxUVhfMjd0SEZhVk5CekwzSDBfck1BNUxoVE1LcDl4RW13ZmN4Sjl5dWRoWFd2?oc=5",
+          "time": "5h ago",
+          "body": "NGT Takes Suo Motu Cognisance Of Garbage, Dead Cattle Dumping Along Bypass In Bhopal  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NGT Takes Suo Motu Cognisance Of Garbage, Dead Cattle Dumping Along Bypass In Bhopal Free Press Journal"
+            ],
+            "tldr": "NGT Takes Suo Motu Cognisance Of Garbage, Dead Cattle Dumping Along Bypass In Bh"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1788074167781",
+          "title": "Mega Traffic Overhaul On Track; 25+ Flyovers, 1,500 City Buses Planned In Indore - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE14NGNfWGlOdHpNZTI0NHc2Q0pYN3ZYblFCN2lCN3lscTVZdm55VU9vMFVFRXB4N3ZWYWZadl82emVqby1ScUoxdmo1SmVvRzVqZjNXbU5fMnBhY2RMMF9neVVyQmdJYTNlbTJzaHZVTmk0RzVxcHlmcWljMWtNOTNVRVk5NFpmRE9MVE5FY181Y1lXQll1YWxIMFBzd3hfazMtWFYtZEU1SmlpN3otNmtJdlBBd9IBuwFBVV95cUxPSi1RY2gyRUFkcGdsU25CUFRwUU5MYXkxSC1sQkE1ZDAtRVNtODZpNTg3dXYyMk1XMkM0Y185WWZ0MDJkSm1Ed21YbFcybk1YWnZIbVUzTGVYSWFtU3NVQlNoN3hBVlgwNl93Vk9NTnFIWktnV0lrSTJzZ0ZxU1ROdGtsdHZBdWpGQ05wSENBVHJzRkdLdGtDczZjS3diUERObVBHWlotOTRaaGNlSHFNd3dkTVgtV2txNUow?oc=5",
+          "time": "6h ago",
+          "body": "Mega Traffic Overhaul On Track; 25+ Flyovers, 1,500 City Buses Planned In Indore  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mega Traffic Overhaul On Track; 25+ Flyovers, 1,500 City Buses Planned In Indore Free Press Journal"
+            ],
+            "tldr": "Mega Traffic Overhaul On Track; 25+ Flyovers, 1,500 City Buses Planned In Indore"
+          }
+        },
+        {
+          "id": "mumbai-city-4-1788074167781",
+          "title": "Nirmala Sitharaman Highlights Indias Growth Potential During US Visit, Meets Business Leaders - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeTdXdnRjRy1FNDRseW5yUVlxNFJLTFRnVUg1S3FJSnBUa0NOaE9qUTVOZ2x1bUlvREM0VXhQSFNoUG53VWFHTFpWQjN4SHo1NHpabWMtUE0zRDZZMWhabFprWVlQcVVOSGF3MnhNS0JwZW11OXYxcFdWMWxiZDlneGVsSkxyMkE0dWdLUVE4aU41bHROQkxOcm1ublM2U19mMlJFR242bU1SVW9iWnB5emxYYjU2QktnX0xLWlIwTFpoWGtVYzFETEkxUHlLUdIB0wFBVV95cUxPWEpvRFd3U1NKV1BLcG1vcElDVDhmOEZYWkRldXdSZlZwaUdrWXl0Q1VpYmdRU3kzX2daTGJmUDFyZFhLS2ZSaWZ1SkRPMkREcm85ZlFIWWkxdUk5ejFrNTdJLVJaTWNsZ21SajVFbEN3UEEtYjdLR1AydGZvdElrTjhWRTdOUUEyb3ZRMHFiZ1paQ1lkajdfSlRXT2FiWUc3V3ZfWUdfSmh2d2pId2FJaTV3MTV3TGRDUUNSeWdreDY1ZExrdnFqVEpoWnJSdjBDUTBZ?oc=5",
+          "time": "Just now",
+          "body": "Nirmala Sitharaman Highlights Indias Growth Potential During US Visit, Meets Business Leaders  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nirmala Sitharaman Highlights Indias Growth Potential During US Visit, Meets Business Leaders Free Press Journal"
+            ],
+            "tldr": "Nirmala Sitharaman Highlights Indias Growth Potential During US Visit, Meets Bus"
+          }
+        },
+        {
+          "id": "mumbai-city-5-1788074167781",
+          "title": "Mumbai’s Gen Z College Life: How Canteens, Local Trains, Reels And Side Hustles Are Changing Campus Culture - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON1owUkwtcmtOeS1VWUNFOFBZZ0JFaFRfZFo4UzNmUDhyZGtwdGt3eFdRdVFWTEpEXzNIakxiLWdkSG9kNS1xdW9md3g2OGxaS1E2TmVmNkdXM1JVdHhKWGU1bXFMTTNDMzJWRzV1aUNKMUVjZ2hTNUtIb2RGcmVJU1NZTjVkYXQ3MkNpbEhySlVOZzBKOFRwWW9TNjg0VUU4dHdyVExYVVBwOVM2cjF4cktDdWwxeVNmZDZlT3BtUy1pZG9nWlItSHliN2VnWFpza1ZBV1BoUkJ2Q1ozbmfSAeMBQVVfeXFMUERBMVhJeFdsejJzcWZQR1RvZ25ZSlo2TnBQVVFVVElmQVd6TmJKZXFSUmFYTHA4YmtNVXhkWEhUM2ppM0JTNTRxTUFVOUpDbUtHQ2h0R09VdVNaNEtzOWJEQTZZamZpNUF6QTJkUy1VVktMMTUxMnJhTkxyYUY4OUZ4cFNub3BNeXd3a0VRTHltZDZGNlB5MUltZldjdGRHTFJwLWhHVS1lSkR3QkpVSUdjaTJLamFHTVpoRzFoZS1MWUtxVlJhbEN5MGpqMVJzSUNKQV8waVU2akllQWd2MGJ0Wms?oc=5",
+          "time": "5h ago",
+          "body": "Mumbai’s Gen Z College Life: How Canteens, Local Trains, Reels And Side Hustles Are Changing Campus Culture  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai’s Gen Z College Life: How Canteens, Local Trains, Reels And Side Hustles Are Changing Campus Culture Free Press Journal"
+            ],
+            "tldr": "Mumbai’s Gen Z College Life: How Canteens, Local Trains, Reels And Side Hustles "
+          }
+        },
+        {
+          "id": "mumbai-city-9-1788074167781",
+          "title": "Pothole-Riddled Sironj-Kurwai-Bina Road Turns ‘Death Trap’, Residents Question Toll Collection In MP’s - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzdtcklhSVN4SDVXNEEzX2Z3T0J4WFJmSTFUS3BMemQ0RFJwVDNrYWpvZm03WGFidUthUHFJOWJENEowRkpLVEFFelRWUGl4ZXl6aVlVZ0EwVjZmNjVZaURRcHRScXMwa2pPYWFKMGlXVkZLMGVtcmJUZ0VoWi1zeGtkR1JVbldEOWNjUEdJQmZNa1MyT05zZ1pmekJPWjgxQ1llRUtzY2d6cXFUbUVkNFlGXzVXUi0yeEs5aV9HZ3lkekhlX2p1djEwcGktUTd2ZmJidFJGblRkTmdN0gHiAUFVX3lxTFBpTzV2N0JqbGVBZzFzdDNudHk5NG82ZmN4cS01ZXdLYVhNTExZOEdRcWp3cDN3WUhDVlFvbWs3aVh1ZUlOWWdQUkd0QnVqVVh4alR1YUhkQ0V4a052OUtSQ1Jwa004dms5YVBSRjNiX05kcG9LUmYwVkYxanpjaEFJWjNQMVRFYU41M2lhUENMaXlZSnBVLWoySWs0MkdaU1N3cS1kMlRLYy1JMUFTOWpqOFA0OUJ1MVNOdUR0Rm9vWTRWcF83Ulhkb0tUXzlHWGlfM1dPc2hOTHQ2WUh5Sk1Renc?oc=5",
+          "time": "1h ago",
+          "body": "Pothole-Riddled Sironj-Kurwai-Bina Road Turns ‘Death Trap’, Residents Question Toll Collection In MP’s  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pothole-Riddled Sironj-Kurwai-Bina Road Turns ‘Death Trap’, Residents Question Toll Collection In MP’s Free Press Journal"
+            ],
+            "tldr": "Pothole-Riddled Sironj-Kurwai-Bina Road Turns ‘Death Trap’, Residents Question T"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1788074167994",
+          "title": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12h ago",
+          "body": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]"
+            ],
+            "tldr": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother "
+          }
+        },
+        {
+          "id": "mumbai-general-1-1788074167994",
+          "title": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13h ago",
+          "body": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run.",
+              "Real estate agent solved the puzzle. [object Object]"
+            ],
+            "tldr": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convict"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1788074167994",
+          "title": "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage. [object Object]"
+            ],
+            "tldr": "Indian-origin New York teen and her mother among Americans missing in Nepal: Ras"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1788074169420",
+          "title": "Maharashtra Diverts 24 Km Samruddhi Expressway Stretch After GAIL Pipeline Gas Leak In Chhatrapati Sambhajinagar - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNTdaLXlRaUhUVVFEWkZVS1VvblVBSHJxS2RZak9PajhaQjF0X0hEUUVISVJ2YkVlVUNZcGZiZWYxN0VBVDQxSnZYMUhQQld1eEdLOW1nXzNXU0hnbk91RGk1cXNDREpEdTlLYVBrZEtlTEltQTBMdlM3XzdmeHBCR2F0NV9TdnFDSGhSNTdROVo4SHNYVjhXa0pTV05QMUVRR09PWnV1dTY0TWRZX2lpaWlsT3J6ajNjX1NPa0o5R0VmWEd1cXlWMFBIWDVzWGppTTMtRjRyc0dYbzNtNGxuTW45YURwM0lSdlRxSmVBeXLSAfABQVVfeXFMUDU3Wi15UWlIVFVRRFpGVUtVb25VQUhycUtkWWpPT2o4WkIxdF9IRFFFSElSdmJFZVVDWXBmYmVmMTdFQVQ0MUp2WDFIUEJXdXhHSzltZ18zV1NIZ25PdURpNXFzQ0RKRHU5S2FQa2RLZUxJbUEwTHZTN183ZnhwQkdhdDVfU3ZxQ0hoUjU3UTlaOEhzWFY4V2tKU1dOUDFFUUdPT1p1dXU2NE1kWV9paWlpbE9yemozY19TT2tKOUdFZlhHdXF5VjBQSFg1c1hqaU0zLUY0cnNHWG8zbTRsbk1uOWFEcDNJUnZUcUplQXly?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Diverts 24 Km Samruddhi Expressway Stretch After GAIL Pipeline Gas Leak In Chhatrapati Sambhajinagar  Swarajya",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Diverts 24 Km Samruddhi Expressway Stretch After GAIL Pipeline Gas Leak In Chhatrapati Sambhajinagar Swarajya"
+            ],
+            "tldr": "Maharashtra Diverts 24 Km Samruddhi Expressway Stretch After GAIL Pipeline Gas L"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1788074169420",
+          "title": "Maharashtra: Gas leak from GAIL pipeline triggers traffic diversion on Samruddhi Expressway - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcG5sQXRFRWNPM0d0T1F0RmdnNk1jNmN1bU9TbURwQnBLOWpnQ3ExN2ZtWmR1Ym5wWmJVZHctSUpoLUs3SENmVGxjMldyNF9BMU54SThrWmU5OUZNSVR3dDBPVjRUYy1EX0VwQTFSRUVjdzF6alc3THEzNjA1UUlET01ILTh3X1Z2clM2S0szT0xlcXdIRVhKZVkzN1E5VWpBQmpqLURQOVhOVFR6Mmc2YWszaTdwQXZDSDhkVDM0bTdSaDI0WnM2RVJoT1Y4Qy00Yk9IT2c1bUoyQkVHS3pKRtIB5gFBVV95cUxQV3ZpUlU0UEE3cjdqSUN0V1ZSMGsxUnBIMFo4dEZuNGktbTB0Y1FDamdFVGg1T0RIanpxQ0lMQk9kYnh6V0dhZmNHRzNPMlpJOTc0U295U29xTU5uYkNoQkhQMFNrY2U5bzRaQjhLNXJIdGVuajU5QlhRVG1KWVRVOGlnT1lvMF93bUl3OGxjcTBxbzJMUHVwOUZaQjlkSXlnc3RNWFJScWJnbjlhdmtuNUJHOVNyM3luRDFLZHlOdnhSc1pEcVdaanZIR3EwM01vRG1OYm8wOHltdHR4R29UYUo5Yy1fdw?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra: Gas leak from GAIL pipeline triggers traffic diversion on Samruddhi Expressway  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Gas leak from GAIL pipeline triggers traffic diversion on Samruddhi Expressway Mid-Day"
+            ],
+            "tldr": "Maharashtra: Gas leak from GAIL pipeline triggers traffic diversion on Samruddhi"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1788074169420",
+          "title": "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQnRMZW4tb05xQ1o4WVpIREQyM0s0MDNyQk5hNGVxWnN5UF9Za1NCeVM3T3BEZGlCdU9YWFliZUwwMFNWYjhzQ21JVDJXR0psLUNTNVNqY2FNZzdncDNwVGIwS1dfZlM4Z25uaEtWYU9QbkI0S25NWlJJc0M0ZEg0dDZJeVU0cmxkcHEzdGFId1VrSGhuUzhMaV9kX3pHSm1KaTlLYzgxRVczLVZhekVOU1dMNDUzMkJEcDB6Q1M5cEZKcVhHamhxU0lDbnFBSXVsSVZwQ2FmZWNhRl8zd0R6VHFWN25QeFFYQzcweG14TWJSQUYtemw1SXYwNjBGRmp3RV9mS1U4QWhrZ9IBjwJBVV95cUxOckRUQWRQanJTZWgwV2ZhQVNuenVyTVZwMlFSLUxxX3BIdnVTWFRLc1otLWhNR0FKQVA2aUthQ3ZfU2JKT3BORlI1cnNVT2labWZtaXlmblBLdFdreGc5ZzluXzgycWVfRThzUTlLM2p4RFNiSm5KcHV5WUZkWEFWUWliYUpvY21HSDRtVXBaeXNwaHVEQlNuUjZFd3ZFQ3JlYjg2clM5aTk3LWdYUS0wX0Rwa2ZHaFhMQlpKd3h6eW1HMnVydWdJM0piaWE1TmkzUV93Sjc4NWVYV3ZNZFBvM0ROU05aZTZzMEkxRFRKVjdDOVEtWHlOWWMyeU5Na01aUG5uSDBQMzFWbHpxUmJZ?oc=5",
+          "time": "13h ago",
+          "body": "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, says must fix schools The Times of India"
+            ],
+            "tldr": "CJP founder Abhijeet Dipke dares Maharashtra govt to file cases against him, say"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1788074169420",
+          "title": "Maratha Activist Manoj Jarange begins fast over kunbi certificates - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSXM3SzJQaDdPRnk1QmxiZzZHbGYxT1FjTThyc3VDNWJ0SGtEWGJMX3VWVWl5U2R3UnhNM3E4YWxpVGdiN3RTbDBqOUlEV2hzWDFQTVJjakxkaUdldWdNWmUyVXRwY0NLc2RJNEtOaEJtTmVXTjdibmRxYUl1SDFSTXg4Uk9DSndvUzZnTmdyS29XZ2RhQ2dhbUpYaTB3Qk9YZHlVOE04RE40aVg5ZEpqS2NYZkVfSGhGTWg1T0MybnJ3R0cyV3lmY3dpbHpUOGxjLXZFUjRmZDhCUdIB2gFBVV95cUxQSXM3SzJQaDdPRnk1QmxiZzZHbGYxT1FjTThyc3VDNWJ0SGtEWGJMX3VWVWl5U2R3UnhNM3E4YWxpVGdiN3RTbDBqOUlEV2hzWDFQTVJjakxkaUdldWdNWmUyVXRwY0NLc2RJNEtOaEJtTmVXTjdibmRxYUl1SDFSTXg4Uk9DSndvUzZnTmdyS29XZ2RhQ2dhbUpYaTB3Qk9YZHlVOE04RE40aVg5ZEpqS2NYZkVfSGhGTWg1T0MybnJ3R0cyV3lmY3dpbHpUOGxjLXZFUjRmZDhCUQ?oc=5",
+          "time": "23h ago",
+          "body": "Maratha Activist Manoj Jarange begins fast over kunbi certificates  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maratha Activist Manoj Jarange begins fast over kunbi certificates The Hindu"
+            ],
+            "tldr": "Maratha Activist Manoj Jarange begins fast over kunbi certificates The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1788074169420",
+          "title": "Maharashtra: FDA officer allegedly made to eat expired biscuits after bribery accusation - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbTV1dlBSeW80SzlpN3ZUNWYyV2JDbHRPRWpCTkNZVi1lOUNjbWlDQ0xZQjBMeWhhMlY1Z2Rva05UcVdtT3pKR1NoMlZOUGo1TzFDaUk4RW5YYlZxNy1KcjIxNmJya0tvR2VpaHctTVpPSjluWDNCX0pDZEM5ak5fY1F5S2xIU21admVZT0M1eVZhRE13Mm1RaUhjYmJuMUxscWhMVVRsZ1BMb1huVGVoMm9VdXpWUUEtWXEwbGlQU2RWVlB3U1g1bFVEOUJ1Z083ZldkT1dTUi00SGN00gHiAUFVX3lxTFByZlBGa2R4SmNWMHFvc2xsV1dFb2swYXZhMFRiSkgyS3RuXzg1Q0dERkpIMFZBcS04RklCcHJNWk5MRE5pZ2FRNXZ4OFRCYk1kUnNzVWFDY2NMZTNXa2ZJUWlNZlVUUTQyblNCQkN0cFM4VUt4NnQ1Z2NkUVpOdzRDSEc0NkN6UFQ4S0c2RWNNT3lpUHRJS3NzU1lqVUlDNXY3b1VyWlN5WFQyNE5TSFg5WmlZTTRXaEQzVmpZSktKcmdKeXFjSkNEbWdiZWJTY202MEx6RTB3RXhGVjlWTGpxV2c?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra: FDA officer allegedly made to eat expired biscuits after bribery accusation  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: FDA officer allegedly made to eat expired biscuits after bribery accusation Mid-Day"
+            ],
+            "tldr": "Maharashtra: FDA officer allegedly made to eat expired biscuits after bribery ac"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1788074169420",
+          "title": "Gas pipeline leak triggers traffic diversion on Samruddhi Expressway in Maharashtra - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2pzNUJUekMzcmlYS1ZNZmg3ckNBZkNJRERsSVNBZE1QVjhNR3M1eDkzMk81cTAwLWNKTDNhdG44V19MRzZJRGNSQU03VDhIX0tVWGxFaUtRZmhHRTJqV290MF9IN1plVVktVnBJNW0xQ2RsVzktREpGNE9VTm9zYmFkOHMtcTdKQUdTNUhrLUF0NHJSQ2p1VEJwVmExdTFNQ1VYQnRqQlVhYnRTSDJxMkZSLTZ6V0dWdEVLM1lXUdIBvwFBVV95cUxOZ2pzNUJUekMzcmlYS1ZNZmg3ckNBZkNJRERsSVNBZE1QVjhNR3M1eDkzMk81cTAwLWNKTDNhdG44V19MRzZJRGNSQU03VDhIX0tVWGxFaUtRZmhHRTJqV290MF9IN1plVVktVnBJNW0xQ2RsVzktREpGNE9VTm9zYmFkOHMtcTdKQUdTNUhrLUF0NHJSQ2p1VEJwVmExdTFNQ1VYQnRqQlVhYnRTSDJxMkZSLTZ6V0dWdEVLM1lXUQ?oc=5",
+          "time": "4h ago",
+          "body": "Gas pipeline leak triggers traffic diversion on Samruddhi Expressway in Maharashtra  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gas pipeline leak triggers traffic diversion on Samruddhi Expressway in Maharashtra ThePrint"
+            ],
+            "tldr": "Gas pipeline leak triggers traffic diversion on Samruddhi Expressway in Maharash"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1788074169420",
+          "title": "Gold Rate Today in Aurangabad 29th August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "12h ago",
+          "body": "Gold Rate Today in Aurangabad 29th August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 29th August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 29th August 2026 : 22 & 24 Carat, Todays Gold Pric"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1788074169420",
+          "title": "Gas pipeline leak prompts traffic diversion on Samruddhi Expressway in Maharashtra - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT2Z0Y0c3WkxnbmhZWDVhU0tWUkhRUngtbU1heGtoQkxNVkpMTzNrVWVOQzJqYlNzcnBmOFM5bzlVZllqVGJPS21UUDlNM0FoMzNWT2JIazVnbl9aNnNzVVBWZ2dhZHlSRWJmTkNPT3RKM2ZiMnBYNHY0U3ZCejJ5X0JmLU1DYVJhd3g1OHNfQ2k2d01xaW15WThuVnV2eVlSMjE0T04yTGI4cmhndDhNc0w0OGpyRTBZRFZ2bWNoOHE4TVlnUnNreW42X2QxQkVfV1pXWVhuMkNQT0FYdUZVYmVVc19jeG1tNnY3d9IB7AFBVV95cUxQT2Z0Y0c3WkxnbmhZWDVhU0tWUkhRUngtbU1heGtoQkxNVkpMTzNrVWVOQzJqYlNzcnBmOFM5bzlVZllqVGJPS21UUDlNM0FoMzNWT2JIazVnbl9aNnNzVVBWZ2dhZHlSRWJmTkNPT3RKM2ZiMnBYNHY0U3ZCejJ5X0JmLU1DYVJhd3g1OHNfQ2k2d01xaW15WThuVnV2eVlSMjE0T04yTGI4cmhndDhNc0w0OGpyRTBZRFZ2bWNoOHE4TVlnUnNreW42X2QxQkVfV1pXWVhuMkNQT0FYdUZVYmVVc19jeG1tNnY3dw?oc=5",
+          "time": "4h ago",
+          "body": "Gas pipeline leak prompts traffic diversion on Samruddhi Expressway in Maharashtra  The New Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gas pipeline leak prompts traffic diversion on Samruddhi Expressway in Maharashtra The New Indian Express"
+            ],
+            "tldr": "Gas pipeline leak prompts traffic diversion on Samruddhi Expressway in Maharasht"
+          }
+        }
+      ]
+    }
+  }
+}
