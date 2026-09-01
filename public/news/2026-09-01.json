@@ -1,0 +1,793 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T06:42:36.251Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1788244950898",
+          "title": "Nepal floods: Maharashtra steps up efforts to trace 67 citizens as 262 return home safely - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOHg1cVlhQVNZUm1HQ3dPb0ltTFJWQW1wc0pTVWlDZFljeDZjUVQ0T0ZlbDcyQzhhZ2tfdk9lMlBndktMQ0hxcWZDS285cV9fZEI1bjllak9YYjdHN3ZJb3A5OWRjVEY0U3hfVnA4Vm5PTXJPMElVZ3BqM1VsUE9FLWRqOFc2X3JKc1N0SGg1ZXF4VFQ0c1J6UG9LdnRuVU1aM2ZXbUE1bEtMOGs0SEpfV1Z0QTFma0UzSFd0Y1RCdjMtSXdEaXNlYjl3emRpbm0zNVY4eVBSVGZMQ1hfeUJ0RDFZZTlFcFHSAecBQVVfeXFMTTh4NXFZYUFTWVJtR0N3T29JbUxSVkFtcHNKU1VpQ2RZY3g2Y1FUNE9GZWw3MkM4YWdrX3ZPZTJQZ3ZLTENIcXFmQ0tvOXFfX2RCNW45ZWpPWGI3Rzd2SW9wOTlkY1RGNFN4X1ZwOFZuT01yTzBJVWdwajNVbFBPRS1kajhXNl9ySnNTdEhoNWVxeFRUNHNSelBvS3Z0blVNWjNmV21BNWxLTDhrNEhKX1dWdEExZmtFM0hXdGNUQnYzLUl3RGlzZWI5d3pkaW5tMzVWOHlQUlRmTENYX3lCdEQxWWU5RXBR?oc=5",
+          "time": "4h ago",
+          "body": "Nepal floods: Maharashtra steps up efforts to trace 67 citizens as 262 return home safely  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nepal floods: Maharashtra steps up efforts to trace 67 citizens as 262 return home safely Mid-Day"
+            ],
+            "tldr": "Nepal floods: Maharashtra steps up efforts to trace 67 citizens as 262 return ho"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1788244950898",
+          "title": "Maharashtra govt approves recruitment of 5,012 assistant professors; CCTV mandatory for interviews - ET Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPODA2QVBoTDVuYTNLTy1jSlBCX2pPUHNuby1pM3MzOE1IR21USHlxMm1xYmdubDV5Zlpsc0lFbXg5MHEtYmlyMngwYzFOMXRmeDJmMDdZRC1OcnlacXhlYnYtMllBY1Y2YUxtaWNidHFZenBqQUp0MThhcTVnLW9ucS1FN0tKdWZ1UmZEUExid0ZSVFJuclpKbmhNQTNYd1ZvYjVtWjZITHFBUUtkR0RpVWpXb2Jhd3g4MjFHV0MxblpEdnlTYzZhUE02TE9jTktIM0c0OHJDa0lrMUF0N0pCUmItVjRfMGlFZUpmLVlqbVhKTDRQMldnUUpOSdIBgAJBVV95cUxNTF9mYlhwSklrYWhIZHNjTnJabG5UVWhwamkyZWFWWHhIRlh2REhGbkVFRVlKeTlha1Rmb1pKWXFDRDFsNTloUlN6Njd0b3pIaVRpdWZvUGl1U1h2ZjBqaTdyY0MwcWQzZVVWWWRxNHo3SFR2ZjJnZ2txWkZ0Vnl2SVlCZ2FieEZyWTJYRGxFYkVTTG5KcUtFVVNOMkktWGd0bDFDM3RaZDgzM3g4dDdXZWR0YjdZQ1BfMy1XVTBOVENqRG1hdGYyTTkzNVN1WXNYLVRaUzlXRm0zZGRDX2JrUVRfakluTDlZbkdmV1paY2VDb1ExajBTOURXWl93QWFR?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra govt approves recruitment of 5,012 assistant professors; CCTV mandatory for interviews  ET Education",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt approves recruitment of 5,012 assistant professors; CCTV mandatory for interviews ET Education"
+            ],
+            "tldr": "Maharashtra govt approves recruitment of 5,012 assistant professors; CCTV mandat"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1788244950898",
+          "title": "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaji Maharaj, Ambedkar - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaXFYTG1RQTVqcklnalZFeExvMndSSXBuMTFCV3dyTGFlbm0xVGNINW1QT0VfSXRONFUxQ2s0bG16WGUtVW5TemZKbWV4cHFmNnpwN3c0dXRnZjA4ZVRKTlA2MlV1eUQ3bllnbE1RWkMxLUpkNlFtTmZUaktJVUpHQUpNMlAyVEdBSnloTTZYZmlvYm9MRzY4ZFR6bkhRNTNmT1gtdHdFQ0l5bm5qSmoxQWQzUDJIaGRhNmw5bE9rMVVVT3dMSF95NmZETFp6NjU3Wjl2d3J1Y2EyS0ZoakRGektUcTFPR0k?oc=5",
+          "time": "16h ago",
+          "body": "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaji Maharaj, Ambedkar  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaji Maharaj, Ambedkar Deccan Herald"
+            ],
+            "tldr": "Amit Thackeray asks removal of PM Modi’s photo placed next to Chhatrapati Shivaj"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1788244950898",
+          "title": "Maharashtra SIR draft electoral roll out: How to check your name on voter list - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDFyNnQ0YkpSYjUxM1owblZLUGV3bWdUc0ZWTjI3eVEyanZzZDF1SWFoaE5EWkp1cDFFLUxRSmJ2VnJJWnJWdGV4MkR5VDJ1V0dLNkpPQU9hWVJ1SGRBOXEzeVAyVkUxNEhzdzE4Zzd6MHlGdHlDc3I2aUcyYTBUcEFaanQxNVd4Y19zdk1tbXBPQlZaMEF2eVJLR2Q3a2VfVWRVUVQ2UDRRWXBKbDN1Wko2djlFQXRuMkRyWGRrZzhyRG9CVS1pOERn0gHQAUFVX3lxTFBndHEzbjF0dG1HMDlCX054RVhCQnVqaEV5eW15OWkwVHRIVFFDUl9HTzN6N2Z1bWpXZWZKaS11amRUc0RlSVNZZ3FiclNQVmJhTlZSdG1rY2VvTlh6RVFQLXlIS1pjWVc5VkNacGxmbHR1bzRGTmI1eGRpNlpFaFZqVkJMNzF0aXBkYWczWTdsSWM3TGtSV2lLOGNhbGxJUURqRnJaNV9Kbmo3Rzhmb21wcEZaWEpGVW9TRU9YcnU2Ui1KenNXY0o2UXdLQ1lTVW8?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra SIR draft electoral roll out: How to check your name on voter list  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra SIR draft electoral roll out: How to check your name on voter list The Indian Express"
+            ],
+            "tldr": "Maharashtra SIR draft electoral roll out: How to check your name on voter list T"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1788244950899",
+          "title": "Where Do Water Tankers Get Water Amid 10% Cut in Mumbai? Who Is Backing the Tanker Lobby, Asks Atul Londhe - Marksmen Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUUZpWjJaNWhRWDBaUHptWERHOS1YTEZfcEc5TGc1NWpFa19MYTRUMmNIbTFlWDlMM0dQQVJFV1dHU2NEQURyc1lieVBmUVpCdTFXcWZRSDlVOFlqREE3VTMzMW1WZm9oZEVzNHNua1ZaendhcDZlWS03anhDV1VEbkxHRUhyWlNtMzNIUno4Umk2c3o3aFdWeUdRYm1kUG9MQzA3Wmt3WHRSQUFRTzcwc2NZZUxUd1h0RDgzV2E0WkI4bXdkRGItemdJVTZFSExncGhra092V0E1UEtjeUHSAd4BQVVfeXFMTlFGaVoyWjVoUVgwWlB6bVhERzktWExGX3BHOUxnNTVqRWtfTGE0VDJjSG0xZVg5TDNHUEFSRVdXR1NjREFEcnNZYnlQZlFaQnUxV3FmUUg5VThZakRBN1UzMzFtVmZvaGRFczRzbmtWWnp3YXA2ZVktN2p4Q1dVRG5MR0VIclpTbTMzSFJ6OFJpNnN6N2hXVnlHUWJtZFBvTEMwN1prd1h0UkFBUU83MHNjWWVMVHdYdEQ4M1dhNFpCOG13ZERiLXpnSVU2RUhMZ3Boa2tPdldBNVBLY3lB?oc=5",
+          "time": "19h ago",
+          "body": "Where Do Water Tankers Get Water Amid 10% Cut in Mumbai? Who Is Backing the Tanker Lobby, Asks Atul Londhe  Marksmen Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Where Do Water Tankers Get Water Amid 10% Cut in Mumbai?",
+              "Who Is Backing the Tanker Lobby, Asks Atul Londhe Marksmen Daily"
+            ],
+            "tldr": "Where Do Water Tankers Get Water Amid 10% Cut in Mumbai?"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1788244950899",
+          "title": "Navnath Ban: 'File a case against Amit Thackeray, demands Navnath Ban'; BJP aggressive after objection to PM Modi's photo - english.lokshahi.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVFSVkhQQnFZeVNIdDdtWkd3X2RMWC1BSnJGQVN4QnpiQjliVW9EWk5TazlsVzZYQ1hyVWc5US1ndi14Uk0xMlFXVFVrd2I2cmNaOXIwVzdreUdBUVpIdXpvMm9VZ3VwMktrb2RLMWdIMFdJZUZNN2g2QXkxRW9iVEpRTVhHMmMzZEhDbTZub0NSeFMydjlIYzNFUzI4ZWg3NEVtRW44X0RUbFN2cEFUQnY2Yzh2UmQtczY3ckI0WGNrUWdNdWNiNEJiV3BvR2kxWXBXRkV30gHbAUFVX3lxTE5pZ1lOVF90N0tkUEhINlF2NUFBNDktdTN2N29BLTEwa0p6d0ZaTjhJRDRpTkh4bEZHdEhpSjAwV045X2RjTU91NkhNSjY5LTctSFhqZjllTzdTWDlVVzVJQjlWcGY0LXhDUTU4X2JtMEtYR2p5b0xwbkJnSTlYM2lmdm9oTVJaUzkzZHpNYTF6aC1mbE5rTGJDa1ZFR2RFRHdZeFExeDBRTEh3VDdGVnVXMzlDSjZ5X3pIQU5PV2hCaUdHSG1hMXBZQzVPLVBkZmtGdTBSZEwwQjM0dw?oc=5",
+          "time": "15h ago",
+          "body": "Navnath Ban: 'File a case against Amit Thackeray, demands Navnath Ban'; BJP aggressive after objection to PM Modi's photo  english.lokshahi.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navnath Ban: 'File a case against Amit Thackeray, demands Navnath Ban'; BJP aggressive after objection to PM Modi's photo english.lokshahi.com"
+            ],
+            "tldr": "Navnath Ban: 'File a case against Amit Thackeray, demands Navnath Ban'; BJP aggr"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1788244950899",
+          "title": "On Indefinite Fast, Manoj Jarange Sets Sept 12 Deadline for Govt to meet Maratha Quota Demands - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTkzeGdtTmo4VEFJQWM3ZGJ3ZnhONGdiLWR4TDFzSWpUejEtRzk4cUdOLTVwYkFUMnZka0QyOWtXRENfRUdYSnNOZVp2TndTLTZycmRBY2t3Y19nQi1ZZ1BLR0d2c19sSHc4RTNqbm90Mlk3MmdLVHZYSVNhb24tOTNNVzFEdGhCbEF3T2hvUmRpQ2wxVFRyTXRmd2JnTGVUelE1RUFGdGoxYl9GZVNhY1NMa1NOMzVsNy1qNGdTZkl1U3gzS3AyTtIBzgFBVV95cUxPekJMN1hLd2ZFTGpvOWl5d0IyMzQxZV9zSTR3eE9ROHJ3bkx0R0RNYmE0LWNsYktQcnVkWGRWVGcwMXlPSWF1bTlJb19GS0V3eEtZVk4xLTVVWmIyYlQzMWpTcVB5NlhYdVlsZXBCWWM1a0Q0RFR3NVotaUFteTdtNTVDOFIwQjJkTWtqSGw1MllSeXkySmZEbm0wX1F6aVZDOUNUVkJrejNVRDcwSm5pSUpKTmxTNk1RdXc3TlppOXVMVWhiNW1WUmhlSHE3dw?oc=5",
+          "time": "21h ago",
+          "body": "On Indefinite Fast, Manoj Jarange Sets Sept 12 Deadline for Govt to meet Maratha Quota Demands  TheWire.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "On Indefinite Fast, Manoj Jarange Sets Sept 12 Deadline for Govt to meet Maratha Quota Demands TheWire.in"
+            ],
+            "tldr": "On Indefinite Fast, Manoj Jarange Sets Sept 12 Deadline for Govt to meet Maratha"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1788244950899",
+          "title": "2.07 crore out of Maharashtra’s voter rolls left out in SIR draft - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1FGSjc1UmE1YUFlY3NDdVBjMWs4Vk5oM0p6Y0gzV0E0TlVsblJLdGNtRnJIb2VRencyODFQbk93WXpoSVRSTjhNZ3RfTHNZcU1DNHV3YmcxaE84SXlnTXZ4ck83RmZlalV3aEJSUy1oaDl0OXRmS3ZueFAwQjgxY3h3OGNZMFFQSWdReldFVXYxMXlGR0I2TXRPdkVwVHVqQ0xzR3JtWWdQYjJ0VzZBYm1SQmR2aVA2c3J6VkxDSjQzYTcxV2JJaDJsRDc2czQ3aUhiQjBDX3lJSGd50gHjAUFVX3lxTE9VRjI0RVJxRzFZbUdPcFFPd1daNWRuMU1ZalJNNS1UeW5qcnNKZUtVSm1kNFhPZnV5T2RoR3BoSTlRU0lNR19MbFlBbWFBQ2lGZUNBQzNjamZpVjg2elpQaHlvOF9leGxQWXBXd0M0M3I4UmF2MVRGcmw2LUlnZUMtYjhEeEpCSTVHVTFYQXRGMHRjbThKcV9DS2JNaTdDM0tLSy1XVm1CZUFQanhpeVpaaERNRVV5Y0h4MXoxejdLWlRiVTB3Uk94c2JYR28xTjJtemJSaXFQb2tPaXJmVFpHYVhj?oc=5",
+          "time": "13h ago",
+          "body": "2.07 crore out of Maharashtra’s voter rolls left out in SIR draft  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "2.07 crore out of Maharashtra’s voter rolls left out in SIR draft The Indian Express"
+            ],
+            "tldr": "2.07 crore out of Maharashtra’s voter rolls left out in SIR draft The Indian Exp"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1788244950846",
+          "title": "Sensex and Nifty end in negative territory - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4bEZVTTcxaFFEbWpRd1dfQUtwcjE1Yko5WFhnQm1HY0tzeUZLUGJiUURJNm9nSjVlZEZlWlQxRGxNdU1QZWJaSjBNWUNVTWhHdldpMGdIYkpMbDNNT0Q4anpqWDNLR2Zxd243dXZRVzAyUnpvZkY4?oc=5",
+          "time": "10h ago",
+          "body": "Sensex and Nifty end in negative territory  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex and Nifty end in negative territory  News On AIR"
+            ],
+            "tldr": "Sensex and Nifty end in negative territory  News On AIR"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1788244950846",
+          "title": "India's stock auction needs market makers as price swings persist - business-standard.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEdlUC0zRXk0Vk84X05jUW9mX2tFWjEyX1BlSWVESEFLaEtNbGpNUGI3UDJxakY2UDROQ2RUQkVBa01WeUhnVHlLWEUwUm9jLWFueWR2ZDEwT25QNkxWZnFlOUZKVDQ4NnIxZ3J0V3lPMWxyZDVzRjdVeERaNTc2aV8tREZmdG1uZVlOQ0pNSjF3Y2gyQlNfaFI5cjV0R1M3dFVMcktLMVhsa1E5TENWaTRpU09DSkQwZThCTXRaa3BqMWRLd2RFRnRBQmnSAdIBQVVfeXFMTm92cF9xZWx3V2ZBQ1plY3h0UTJoUkNoTG1Xa20ybjFRX3FWbkFrVWF0NGRLWUR3eUYyMFNBMG5TUnBGM3ItR3F4dXdiaDBoS2lZUl9xQkNheXExX3ZmbjA2aFEzcjhkQmQzZEZUdjF1TXVMZDM3T0pIV09hVHVBWEhlNUlyR2l3bGdxU0xWUUZqb28teDltRlNWYWFaNDg0ZkVTQkhRSC0zR2xOR3BSWHQzWFhDcHByUjk0aWxHeGI3bDFhMDZzV2NDZnBsaUdDRnN3?oc=5",
+          "time": "1h ago",
+          "body": "India's stock auction needs market makers as price swings persist  business-standard.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's stock auction needs market makers as price swings persist business-standard.com"
+            ],
+            "tldr": "India's stock auction needs market makers as price swings persist business-stand"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1788244950846",
+          "title": "Sensex, Nifty open flat amid renewed crude oil price rally, global tensions | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcFh3T3I4YVZwU2ZCNlZnZUIyXzBIZ2RGdjM1WEpHd0RubVJGUHhrbXh2RnY4VXl6bUpkOFdvdC1hbkN1YTJod1JpcDhBc1FLaHlaajA0TGIzOGw0dm5GaEN6ZFdXWW9ULWp3dlZXdFoxMThSejBrRENFZGsxVlZuOGpIY0tDUVJrbWQzWmZrUHRlQzhxN1VZLWZZYmEyaEdnT1BNV2tQRWVjRFExYXc2NjVHV2YzclFrQjJ6OWNuT0NBam50eDAwWHVIN0ozam9iWDBZcXV4bGhDWWdINW440gHfAUFVX3lxTE9wWHdPcjhhVnBTZkI2VmdlQjJfMEhnZEZ2MzVYSkd3RG5tUkZQeGtteHZGdjhVeXptSmQ4V290LWFuQ3VhMmh3UmlwOEFzUUtoeVpqMDRMYjM4bDR2bkZoQ3pkV1dZb1Qtand2Vld0WjExOFJ6MGtEQ0VkazFWVm44akhjS0NRUmttZDNaZmtQdGVDOHE3VVktZlliYTJoR2dPUE1Xa1BFZWNEUTFhdzY2NUdXZjNyUWtCMno5Y25PQ0FqbnR4MDBYdUg3SjNqb2JYMFlxdXhsaENZZ0g1bjg?oc=5",
+          "time": "2h ago",
+          "body": "Sensex, Nifty open flat amid renewed crude oil price rally, global tensions | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open flat amid renewed crude oil price rally, global tensions | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty open flat amid renewed crude oil price rally, global tensions | Bu"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1788244950847",
+          "title": "Markets Drift Lower In Early Trade Amid Higher Oil Prices, Fresh US-Iran Tensions - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXlKZXNwbWFSZUF6dHAxcUMyLTVReWN6NUR6TE5GemU4R3FMOGs0M0hpMldIbzgzcUJQaUhraDRVVkdnNWpmUU5Ick14MjhFZFZJTjhEck1oVjRCNldKTmdFQ01RY0wwM08yZ0N3ZllQaWYtaWZtQndKcTZDMHhLTTNnZmlkUXVOYW1FMURwVGdVRHg5WUZyLVJNalVMTjFrNXRGaFVEQ3JMTXo1U3IwWkV30gGyAUFVX3lxTFAteUplc3BtYVJlQXp0cDFxQzItNVF5Y3o1RHpMTkZ6ZThHcUw4azQzSGkyV0hvODNxQlBpSGtoNFVWR2c1amZRTkhyTXgyOEVkVklOOERyTWhWNEI2V0pOZ0VDTVFjTDAzTzJnQ3dmWVBpZi1pZm1Cd0pxNkMweEtNM2dmaWRRdU5hbUUxRHBUZ1VEeDlZRnItUk1qVUxOMWs1dEZoVURDckxNejVTcjBaRXc?oc=5",
+          "time": "1h ago",
+          "body": "Markets Drift Lower In Early Trade Amid Higher Oil Prices, Fresh US-Iran Tensions  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets Drift Lower In Early Trade Amid Higher Oil Prices, Fresh US-Iran Tensions ETV Bharat"
+            ],
+            "tldr": "Markets Drift Lower In Early Trade Amid Higher Oil Prices, Fresh US-Iran Tension"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1788244950847",
+          "title": "Sensex falls over 120 points, Nifty down over 50 points in early trade amid US-Iran conflict - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUDJDX3RfUml5V2lEeXR5ZGp4N2wwaU5jbFAxSHdVTXk2QmJZTVQ3cDkzOFNPRGdQUzRhTzlocXZ3WkRqNEFYNXVaYTJKeWpOTU5iMno3aDZ4N3U1THZzMmRFZjktNXh0SE53MzVtazVBbzcwRWk0Ykh5R3ZZMTdUb1Z1RHdzRjBKXzFRMkxHakhKOEtab1V1QlZlUjNoUm1ZRTR4ZTVPbG45c09wQUg5cnlTQW5EdnlxX2VmVTJDVG5zSEVDRWg3TkZNUEx2WlBOZXE4VVlWRGJ3dXhuRnQzQkxFR1g5elgtcW82NUh2SdIB7wFBVV95cUxQUDJDX3RfUml5V2lEeXR5ZGp4N2wwaU5jbFAxSHdVTXk2QmJZTVQ3cDkzOFNPRGdQUzRhTzlocXZ3WkRqNEFYNXVaYTJKeWpOTU5iMno3aDZ4N3U1THZzMmRFZjktNXh0SE53MzVtazVBbzcwRWk0Ykh5R3ZZMTdUb1Z1RHdzRjBKXzFRMkxHakhKOEtab1V1QlZlUjNoUm1ZRTR4ZTVPbG45c09wQUg5cnlTQW5EdnlxX2VmVTJDVG5zSEVDRWg3TkZNUEx2WlBOZXE4VVlWRGJ3dXhuRnQzQkxFR1g5elgtcW82NUh2SQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex falls over 120 points, Nifty down over 50 points in early trade amid US-Iran conflict  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex falls over 120 points, Nifty down over 50 points in early trade amid US-Iran conflict Mid-Day"
+            ],
+            "tldr": "Sensex falls over 120 points, Nifty down over 50 points in early trade amid US-I"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1788244950847",
+          "title": "Stock Market Holiday Alert: BSE And NSE To Be Closed For 9 Days In September - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjgzYnRDT3EwZEoya19PZ3FRRjlkOUpmU2V2bGxhRS1oUEUtd2RGLVpidTE3UmJtRGh4dTlfamxzcy1xV0plV19ybTlJRXlPdV9xMURudlJwS1NsNHVKbFA5NkpTenY5YXFkbFFEbFpXQ0FzeEVaVEdFZFB3MHUyRllTdkdQOXItU3ZfVXZwdXRNMUpoYW9aZ204Ul9DbE85ZnNuTVp6a0lUNmFUYTZXTFNRbmxaUFhvU1lYYnZIUElPUkNE0gHMAUFVX3lxTE9tNC1TZnI4MzBOYTl6dzJUUTdubndQVWNIWUhvT2R0bVNWSksxbmJYRHRZM0NmRXZPX2JDYXVnU0pTVUc4UllmanRvVWU5dHJlbjlJT2k3eG1TcXFPeFV6cnBGSUU1NmpsVXJubEl1bFpjNVBEa1lfMXJhSjA1bFpKeVpHX1BocW1OWFc3Umk3bHdwQVZaQ2FHVmNsYlNSSUVSb1JvVFZYbDdCUlVzeDBKUjZwN0llVEJ1VUVDVUNlZm1JZzQ4czAzZWtGbQ?oc=5",
+          "time": "20h ago",
+          "body": "Stock Market Holiday Alert: BSE And NSE To Be Closed For 9 Days In September  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Alert: BSE And NSE To Be Closed For 9 Days In September NDTV Profit"
+            ],
+            "tldr": "Stock Market Holiday Alert: BSE And NSE To Be Closed For 9 Days In September NDT"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1788244950847",
+          "title": "Sensex Sheds 377 Points on August 31 as $90 Oil Revives Inflation Fears - The Eastern Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSnZtLXdieUpNY2RYTWtPNXVEbFg1cDl4bjJHQnBPU3FDREpnS1Iya3FKTWt2TE5OTFczUGR6ZUtNZURLMUxTSXdDTW1OZTNzSzVhS3dsT01jbXpybmlBSkNucXh4c0N6cV9wZElTc0lJVTRkSHhlbkVmSlBpeUY0WnJHNTVYaXlBMlpucA?oc=5",
+          "time": "18h ago",
+          "body": "Sensex Sheds 377 Points on August 31 as $90 Oil Revives Inflation Fears  The Eastern Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Sheds 377 Points on August 31 as $90 Oil Revives Inflation Fears The Eastern Herald"
+            ],
+            "tldr": "Sensex Sheds 377 Points on August 31 as $90 Oil Revives Inflation Fears The East"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1788244950847",
+          "title": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 - BBN Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkJpT3RWZGRzYUctQWRkanFaZDVoQkFYejdhcFNaYkFZWTFjVHJqU1ZiV1VXeGdwN1plUklOWl9kRkx0azhHLUMyR0RRN2tUYkVqa3hMRkhyWUc5OWthWjJtUVk0OGs5a1IzTS04cFZzQmVIeVNmZ1hzWmhXOFppTGpXTkZXczZYRDdkUzdRUGNxS2ZCYXl2b0w4eGV1TDhHLVh4c2pOOA?oc=5",
+          "time": "4h ago",
+          "body": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11  BBN Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 BBN Times"
+            ],
+            "tldr": "BSE SENSEX: Mumbai Benchmark Snaps Winning Streak Closing at 77,369.11 BBN Times"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1788244950898",
+          "title": "The Marathi Manoos: When a Language Is Imposed, Mumbai Turns Against Itself - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUh5SUxZdkh0SFE3dmVjdVhuYmRqTDVqVVg0WmM3ZHpVaFl5NzBITFVGTHBzRVpUWlp2YjJFNEIyVDVuZ2xFdE52RzhrbEstVmFMWlRCN3hZalRnbWRMdHdaZEw5bVh3QndhanEyc1dwNnIyMlQyOTA0TksyQnhUQjN1aGJOdkZiajlvYy1LWGJlNUt4UmtpS1RLaFJybzjSAbIBQVVfeXFMTVFzeUNwNUwwRHZHcnlTbzlJXzZDQVFfOVUtUUNlN0llWjNHX2w5NlBfbjJtX2M3SUI1cm5WLWRpZ0pMcGtqZ1J0bmhEcGlqRmYzWmpfNnZoeUZYTmxsa21TNW16cm5WNUhSNnVZQU16bE1VZmJ3TlBkc0ZPV0xCRENyN2JPVGNFbmNRSU5rRXNlVkdsRGVhWGdUZGlRMlR1NlhkelNuZWdxQTQtS215d3JXQQ?oc=5",
+          "time": "21h ago",
+          "body": "The Marathi Manoos: When a Language Is Imposed, Mumbai Turns Against Itself  TheWire.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Marathi Manoos: When a Language Is Imposed, Mumbai Turns Against Itself TheWire.in"
+            ],
+            "tldr": "The Marathi Manoos: When a Language Is Imposed, Mumbai Turns Against Itself TheW"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1788244950899",
+          "title": "Adopt ‘guerrilla strategy’, move quietly to Mumbai for bigger protest: Jarange urges Marathas - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHRSQ0tJT2FhSjlWYi0tWTBLMC0zTTVIbjNfV3lUaVBKaEtEVVoyLXF0LVREMG1wZWswMU9rMWliZXZxbVNETW1XR2JtR0NZNmc5M1pldFZNX1NmWERCZVhDV3NzVk1Id0tiWldlckxfZnZyNWFqc1ZMZkRoNjM3c2I1dEZGMGd3UldCR08zd25TZ1NNdEtScG1fbjBjVTFacnFpVFhmay1Xc19KM0NiWDFraWp1eGdtQ0xPSFNRY0dzQdIBxwFBVV95cUxNZl9DSlB0RHVLWC1fdlBzMGZJQzVRVHZnMFdFSHRyWDg3c0I1YUJPbXlLRjM1NlR2UVNvOHJwOGk3Yjlha25ROXlyNDhkMC1DQmRkbXd5TTdMTTdlUVgxZ29wckFwQWlfRnV2UnIyU2R3UjJFVmt3Z25aYXBhVGFOaGtoaURtTGI1RmtkQk5KSlpYSXNsNktpc0lpNnBPV1VRbS1JLTc1eC1aVl9Bal82ejBCX0lWcG14NWJ1SkpqVU1pYUJjdzZF?oc=5",
+          "time": "21h ago",
+          "body": "Adopt ‘guerrilla strategy’, move quietly to Mumbai for bigger protest: Jarange urges Marathas  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Adopt ‘guerrilla strategy’, move quietly to Mumbai for bigger protest: Jarange urges Marathas ThePrint"
+            ],
+            "tldr": "Adopt ‘guerrilla strategy’, move quietly to Mumbai for bigger protest: Jarange u"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1788244950899",
+          "title": "‘They should not get suspicious’: How Jarange plans to mobilise Marathas to Mumbai - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkJVMHVOSVZmS3lZS3BRN0d2YzNaSGFmRnpFSlkxeHN2V3ZmNC1uMjFucG5ZMmZEaHRkZUhDb1gtOW53NVhscVJWUzZDelUwS2otcVl6bVZZTXRXdjVOUlAwLUxSUzhxYjQ0UEdoRTFtcjM0ci1ybDJiWGhuRFlSVlZQQnFSNXB0X3NJa1pJbnpQYWNpaUFmNjcyQmg2YkFUdW9kWC00VUNNWWJpRzJsM01xajl6dWI1NkFtb0tTZWxwQUhRaVdQVDlBdXc3WW9qZ2dwS1hqWTBhd3hV0gHjAUFVX3lxTE1BaVctMWxuSENZYVEzUTZvdjZpcGFsT0poVzVGR0VFbUFjZWkzNHVaSndsTEtORGFUN3U0T3J3YTE2emJibTV3dGdDSnRqblJnQ3Rsc2M5Ykp4YzFObXUtNDZ3anZickVlb3RnU1h3T1pETGpVc2djaHpfLUhIbG0yV0RfLTA5UmZIXzJ5VjlWc2lJdGJ0M001R0pqb3VQY0x3VGQ2Sk1yeXpva3ozTFJKYkZkU2NzTWRGcmRkU1U2RHd3eEhUSzlEZXdiamJBM3ZMOFNYNkNmRGZ0cFlFUndZNFVj?oc=5",
+          "time": "23h ago",
+          "body": "‘They should not get suspicious’: How Jarange plans to mobilise Marathas to Mumbai  The Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘They should not get suspicious’: How Jarange plans to mobilise Marathas to Mumbai The Indian Express"
+            ],
+            "tldr": "‘They should not get suspicious’: How Jarange plans to mobilise Marathas to Mumb"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1788244952170",
+          "title": "Agentic AI Has Arrived. Is Your Workforce Ready to Leverage It? - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUxzdDhDM0FFVVlSbXpUc25HbjlYOU5nUy1oZmtycmpPc0RLMllGNjFSVEY0N2l0UjBveUcyaFI5Y0owQWlxRmd6Z01VcTcyNkdWeWpCLVNVMDVDOFNIMmNfNklNWUJHSWZWX0tFMzJJM2FCbHJVdmFNbE16b0VhYWhfODh1VVNKMG4tdGs1dU9aVUZzTDJ6TzNzU19ZeXM2S2hxMVB0Nm1WVm1j?oc=5",
+          "time": "Just now",
+          "body": "Agentic AI Has Arrived. Is Your Workforce Ready to Leverage It?  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Agentic AI Has Arrived.",
+              "Is Your Workforce Ready to Leverage It?"
+            ],
+            "tldr": "Agentic AI Has Arrived."
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1788244952170",
+          "title": "Singapore commits $170 million over three years to drive fintech innovation - ET CIO",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUUJiNUh5XzFiem4ycnFSaHpRUXhDMDhGcEdMYXFIWEs4STZQZ3VUNTRUNDRUSTlKT2FneUVPNHhKeElfTmxQWGRPNkM1YTVqMWlzUXhkU29XVXJlNm5tQ3NEQkJPZjhobnRQcnZrTWZBUTJVYUZnaDQ1TmJkZ2Vodm1KeTIzbm1wMHpidnk2YlF1YnRkb0NMODBMcUlxS1pzNHpvQV96NkxBajYtSHBOa1J4bWduLU5BdUozRWwtTEJiSjlTNnFTT0NteFNMWnI3MVFFZGcwS3NGblgxZWdv0gHfAUFVX3lxTFBRQmI1SHlfMWJ6bjJycVJoelFReEMwOEZwR0xhcUhYSzhJNlBndVQ1NFQ0NFRJOUpPYWd5RU80eEp4SV9ObFBYZE82QzVhNWoxaXNReGRTb1dVcmU2bm1Dc0RCQk9mOGhudFBydmtNZkFRMlVhRmdoNDVOYmRnZWh2bUp5MjNubXAwemJ2eTZiUXVidGRvQ0w4MExxSXFLWnM0em9BX3o2TEFqNi1IcE5rUnhtZ24tTkF1SjNFbC1MQmJKOVM2cVNPQ214U0xacjcxUUVkZzBLc0ZuWDFlZ28?oc=5",
+          "time": "4h ago",
+          "body": "Singapore commits $170 million over three years to drive fintech innovation  ET CIO",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Singapore commits $170 million over three years to drive fintech innovation ET CIO"
+            ],
+            "tldr": "Singapore commits $170 million over three years to drive fintech innovation ET C"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1788244952170",
+          "title": "INFAH’s 15th AGM Calls for AI-Driven, Preventive Approach to Animal Health in India - Global Agriculture",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTU5MaHNrWUJBNnczSXRTSWZWcC1STWJ0NHMxZVFHcXdVel9zczJkQktyVUg1WG1PSGZabmpDNno3WE9xLThGdG1VRUh1T295S0pKMVUtMDJaWkFvUUJ1Sy1lZXRsQXJiMEtsYm95bXVSUnJDWENaMUNiSTdmV3VBSkZHQkJQcU1OZGhWaXpTTHF5eks2WF9aY3pOdTVnbmVqbGxCRnFiWWdQaTNJWkFaWG1ncHJsakVzUjQ2MnVGMHlnTkl2dGRuUUNHaWsxdnRhTi0yR1JR?oc=5",
+          "time": "18h ago",
+          "body": "INFAH’s 15th AGM Calls for AI-Driven, Preventive Approach to Animal Health in India  Global Agriculture",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "INFAH’s 15th AGM Calls for AI-Driven, Preventive Approach to Animal Health in India Global Agriculture"
+            ],
+            "tldr": "INFAH’s 15th AGM Calls for AI-Driven, Preventive Approach to Animal Health in In"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1788244952170",
+          "title": "Machtravel.com and Mach Travel App Open for Public Beta Testing - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkczM2pLV1hKcmxNcklCeU16LVhkUEVmTlZneEp6aWotX1p3NFQyaUxubXhIMEhxZHZVNENiMmg1azdiMDZsTjlkRG52Q001SXlPTW83N3MzTUdxSGFZSFNlY01WWGdnWlpqd09kWEd6Z1RzMUVHMTNCN1ZPd0lHczBaSEF2Ti1LanEycFRVSjZobU9JX2ZkODlaaTZORkpMbHJrVVY5M1hkZw?oc=5",
+          "time": "5h ago",
+          "body": "Machtravel.com and Mach Travel App Open for Public Beta Testing  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Machtravel.com and Mach Travel App Open for Public Beta Testing indiagazette.com"
+            ],
+            "tldr": "Machtravel.com and Mach Travel App Open for Public Beta Testing indiagazette.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1788244952170",
+          "title": "Parth Jindal Appointed Chairman of JSW MG Motor India - hrtoday.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1od0haUTdXd29qSVJmQ2tnUzM0cC1JekZOS1ExUlBTbVlrb3c3c1RFdVpZTGNDMmF2bFRFclc1bm8xM0ltTW84cHdSaGE2OW1rc21rWHc0X1R2YW50czVMb01jaUNhb2gtRVE0WlR1Q2poMVlyWlN6RnRTbFR5UQ?oc=5",
+          "time": "21h ago",
+          "body": "Parth Jindal Appointed Chairman of JSW MG Motor India  hrtoday.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Parth Jindal Appointed Chairman of JSW MG Motor India hrtoday.in"
+            ],
+            "tldr": "Parth Jindal Appointed Chairman of JSW MG Motor India hrtoday.in"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-technology-7-1788244952170",
+          "title": "Warriors Dream Series Concludes Fight Night 18 with High-Intensity India vs International MMA Matchups - business-standard.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNM18ta1RlbEM1SnhUaUMzT0FsbUJZV0dQNGVieGZFejR4cU8tNF9kdnhVN2lPVE1JbDhnMmFKWUpkQ3NJaGVnRXl5MXNvTlVpYXktZi1qX3lpQmhzQXlWQkF6bXJyeE8tSzVVWTV0Y21UZFljLXBOLW5PRFRUYVBCZ3JKOURwRS0tSUE0S0oyQ1hXV1FVWFpmcVZOZC1ob0p0RmxYSzJjdWZYVkpJSGxlSjdmSnpkQzBzVHVGTm5xMllzcXFEQkdOUmhkNVUzUUVoeDhRT2lVeU1OQlhnZ1ZyN19neFY1S3l2dUZqZTV1cThXZ0FqYmFsdmRyMFFWdXQ2R3NvT2NTRWdldUtMVW1GcnpWQ3dHQdIBlgJBVV95cUxNM18ta1RlbEM1SnhUaUMzT0FsbUJZV0dQNGVieGZFejR4cU8tNF9kdnhVN2lPVE1JbDhnMmFKWUpkQ3NJaGVnRXl5MXNvTlVpYXktZi1qX3lpQmhzQXlWQkF6bXJyeE8tSzVVWTV0Y21UZFljLXBOLW5PRFRUYVBCZ3JKOURwRS0tSUE0S0oyQ1hXV1FVWFpmcVZOZC1ob0p0RmxYSzJjdWZYVkpJSGxlSjdmSnpkQzBzVHVGTm5xMllzcXFEQkdOUmhkNVUzUUVoeDhRT2lVeU1OQlhnZ1ZyN19neFY1S3l2dUZqZTV1cThXZ0FqYmFsdmRyMFFWdXQ2R3NvT2NTRWdldUtMVW1GcnpWQ3dHQQ?oc=5",
+          "time": "21h ago",
+          "body": "Warriors Dream Series Concludes Fight Night 18 with High-Intensity India vs International MMA Matchups  business-standard.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Warriors Dream Series Concludes Fight Night 18 with High-Intensity India vs International MMA Matchups business-standard.com"
+            ],
+            "tldr": "Warriors Dream Series Concludes Fight Night 18 with High-Intensity India vs Inte"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1788244952272",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "3h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1788244952273",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "19h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1788244952273",
+          "title": "IPL 2026: Dates, format, fixtures and team details - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "12h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details  DD News"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details  DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1788244952273",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5UERmYkRiZnN5ZENtQTU4TkpTdEtydzFySTlEdE81NVhzbFVybVRKOHZFWDNIVmxlWmNVZy1YTF94aERrdVV4YWVWOC1MT0FpcGNiUVNTamVFN1pxckxUdTdHNWtvcy1XUnZKVUJKRXFfalk?oc=5",
+          "time": "4h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1788244952273",
+          "title": "Hardik Pandya return to action likely to be further delayed after latest setback - Report - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUDNkZ3BtbmNmay1wZlhqSlg4ZXR2RWRMMkFFaTJoRTd5MThwSDFKSy1SR28yc2R5M2I3RzFqM09hcndSZDNlOGNaQnFXUUNYNklBQmtwbTZVR1gyMndoYWRCQ296c0dlV0VjNnh0RVh5OHNSZlR1eFpsWmZ0dWp3NEZ6VmRLZnZUd3lqQWs0NmFKdHZWbW8zdU5NY21qTTQ0bWNxTy15UkhuRExESXZVVVZWVDg3bC1KVlNINmw4emRtbjc1V19xUVZOUFMzV1d2cUhsZGJrb1J3TWR4T28zTjNENnlLTWJZ0gHuAUFVX3lxTE4yOUhkdU9kc1hWdDdhX053TlNYX2FtYmxoT2JWaGFpbGtHVzBiYXNmNGtSeDBVbGhYZ05SSkN5dTUtYzlFQ3VqVVJ4U1JCb0lGbnVXcVd0SjNvMFhpZld0ak1kek8taTlKYXg3Z0RsNGtRWmdWSHNJUV9QM052OUpkUnp2cmdQWHBBc0JlQmNwSWpKYWh0N19WWWo0YS1NT2lsb2NTbFlwZy1pd1g5Q2dva2x3RFVteW1rLW1PeDBCZGp3SEIzZEY0UC1zbVI2WUxnTXlZZ3U2N1c1NnV3RlhHNjdUSlpjNlJLbFhkdWc?oc=5",
+          "time": "1h ago",
+          "body": "Hardik Pandya return to action likely to be further delayed after latest setback - Report  Moneycontrol.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya return to action likely to be further delayed after latest setback - Report Moneycontrol.com"
+            ],
+            "tldr": "Hardik Pandya return to action likely to be further delayed after latest setback"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1788244952273",
+          "title": "IND vs AFG T20I series 2026: Hardik Pandya unlikely to feature as India all-rounder suffers fresh injury - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmNW9SQ2NocTNYS3loYi1IX2ZQLXVONGFxb0Jmb0pHc2MtR1lhdHpZeXcxN2hwUGo0dHBWUmFmd3hFZU1NTnk0ekZFN1kydWtmbEcxdzhTcTJJTDJjZWRFWFJ3ZDZuM2NIS2wyWVB1MW80QWRWci1EUkVRSQ?oc=5",
+          "time": "1h ago",
+          "body": "IND vs AFG T20I series 2026: Hardik Pandya unlikely to feature as India all-rounder suffers fresh injury  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs AFG T20I series 2026: Hardik Pandya unlikely to feature as India all-rounder suffers fresh injury Yahoo Sports"
+            ],
+            "tldr": "IND vs AFG T20I series 2026: Hardik Pandya unlikely to feature as India all-roun"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1788244952273",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "15h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1788244953466",
+          "title": "Oracle To Face Fresh Round Of Layoffs This Month; Thousands Of Indian Employees To Be Affected - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFl4V0VwbFRJek04ZmJZaU5EcXdHaHdlMndfakVOQ2NYVmxaRzNna0c3VTNtRUlXYlAwY2FXT2Y3U3ItY0VHaEV1MkR5SUZVV1g4R2R2OWtPdkdXbXUzVGV2OWJISHM0MUwxMDFpWXhKeU55dTFsdXZaY0thbUFPMVNXVlhqX2xVQjN1V1FXTnM3NGFUS3RIcDBZbHNBWXBLSXdaMVlaRVZYdFdmX2dQdDV2QU9tTjE5cUotaEk2LUlobC04Rk9RTl930gHPAUFVX3lxTE5CQ3pjdXZPN0xsdlVkQUVqRXN5MUIySFZ4N0JTam5JcXFCVzdFYnE1Rm1sTkk5Y2hhM3Y4VmJLUkFoRUJVTHFqY29ickJkbkhGM2NaY3gwUmh6Y0NrdUhEWktSVEFKU09CejNxaGpmLThjQll1b1VxVGJ3Mi1UbEh0dlR1TF8xYzRGZzJ3a3VtTl9ZLWtaUnYzaUZXWGJsdThLVXZpbjNNUHlTc1FRTkMyV0NRRm5xRVpqdVhrZHU3UEp6ZV9LenBBWU1hNzZqbw?oc=5",
+          "time": "2h ago",
+          "body": "Oracle To Face Fresh Round Of Layoffs This Month; Thousands Of Indian Employees To Be Affected  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Oracle To Face Fresh Round Of Layoffs This Month; Thousands Of Indian Employees To Be Affected Free Press Journal"
+            ],
+            "tldr": "Oracle To Face Fresh Round Of Layoffs This Month; Thousands Of Indian Employees "
+          }
+        },
+        {
+          "id": "mumbai-city-1-1788244953466",
+          "title": "Metro Line 13 To Cut Road Travel Time By 50 Per Cent, Connect Mira-Bhayandar With Vasai-Virar - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHlwTFBEeWVWbk9VcVVOdlQzaVpvd0otNm1oT1NFZHBQLWpHbWQxY0wyVUJqMzM3OGg2MzY5TEkyU2UtX19YQVFWY25lZmpsZjVkVi1sUFhMaXo2S0IzOUJBdUIteWI2YVNUU09DV1RHYS1sRU9nVlBSSElpZ1RMem8yekc1d1U4LWNGaEVGQ0lCTm16NGRvdlh2S2xPNVgyS3RxUF9mMWV3ekl0am9FVnZMUU1ESURuTmJXdnNjZFBrNnU2NEFvVTZXUdIB0AFBVV95cUxOVjJDQ1dja1VWSHdTT1F0NlZVcTNqX2hUZXMyRENmc2lfSUh5c2lWbnAxLU5yTXl0QlNlTnZBVmVCNmF4dDQyZkRDcVhoRlY2bU1TQzZmNGJkUnB3NXgySjVyV1h0aXhaQ2g4YTNDVjN6bjAxNkppY3hyS2JQWHdzZ0ZNYXVHT2ZnR2R1dEZXbF83SFZnTHE1WTJHWmk5SVBoalJORjNBLTA0dF9WU3FXd1ZxLXBDOEM5eTNlTXpQR0FEX3dxcTdTbVNMMzI2ZjM1?oc=5",
+          "time": "14h ago",
+          "body": "Metro Line 13 To Cut Road Travel Time By 50 Per Cent, Connect Mira-Bhayandar With Vasai-Virar  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Metro Line 13 To Cut Road Travel Time By 50 Per Cent, Connect Mira-Bhayandar With Vasai-Virar Free Press Journal"
+            ],
+            "tldr": "Metro Line 13 To Cut Road Travel Time By 50 Per Cent, Connect Mira-Bhayandar Wit"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1788244953466",
+          "title": "MP River Pollution Crisis: 18 Of 48 Major Rivers Fail BOD Standards, NGT Flags Sewage Treatment Gap - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTVRTUlrT3pKdm1IQW9tWUZ5STlrVURWd2I4WFl5dk5zc2liTXhaVTFaRUJGVFN3c1V5NW1OVVlud2g1WGRFYTZVM3B1dFpDWEc1RmxSREtpMjdjdFltOG8ybXZodlFTZGJVdzNPbERTaDNYX2VFV0dVYm1tYmE2RW15SWVIUmdtWlNZZTZub0FzSWZOTXBpeXN0UVhfY2lFeUE0RHA3bWNybnVfb3ZscHpOT0N6Z29QUzNwOE00VjVMSjVsS3BaRUtrTkxWS29uY3fSAdcBQVVfeXFMTk5ieTREd3l5TExyY2dPMnBoQVVRcXZhT2cxTzZvRjdkcG9mUjNZYmk4NEVKbTdwZVlLV2llSHhZU0Vrc3lQWmZrNlhCNFdOblh6QTRucVJMMHgtQ0ZqcVN6VE95NDBENU13MkJYT0ZHaWVOVm4wQkFVVEZXODI0a3lCbnJ0UTVCbkFMRml4Z0RuQVlZbnJOeU9YVFNXSVRXb3NUa2NFLWpZcVl2TXpDLTc0bEtIQTE4MF9aNXR2MWs4d2F6RHJJNXktSE5pR3lLOTVCazk5RW8?oc=5",
+          "time": "5h ago",
+          "body": "MP River Pollution Crisis: 18 Of 48 Major Rivers Fail BOD Standards, NGT Flags Sewage Treatment Gap  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MP River Pollution Crisis: 18 Of 48 Major Rivers Fail BOD Standards, NGT Flags Sewage Treatment Gap Free Press Journal"
+            ],
+            "tldr": "MP River Pollution Crisis: 18 Of 48 Major Rivers Fail BOD Standards, NGT Flags S"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1788244953638",
+          "title": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime. [object Object]"
+            ],
+            "tldr": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accus"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1788244953638",
+          "title": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. [object Object]"
+            ],
+            "tldr": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. ["
+          }
+        },
+        {
+          "id": "mumbai-general-2-1788244953639",
+          "title": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]"
+            ],
+            "tldr": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother "
+          }
+        },
+        {
+          "id": "mumbai-general-3-1788244953639",
+          "title": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run.",
+              "Real estate agent solved the puzzle. [object Object]"
+            ],
+            "tldr": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convict"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1788244953639",
+          "title": "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin New York teen and her mother among Americans missing in Nepal: Rashi wanted to do a solo Hindu pilgrimage. [object Object]"
+            ],
+            "tldr": "Indian-origin New York teen and her mother among Americans missing in Nepal: Ras"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1788244954879",
+          "title": "Maharashtra Chandgude Family Deaths: iPhone Was Blamed Initially, But Police Now Say It Wasn’t The Reason - Brut",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ09wZWZycWo5Y29KWEFUbmhWdF9MbUVkX19vMzBGMzZXUDRFMFVHdFFtSUJ5eVF6eW5vLVlEV09fTm05RzNWMTBTbG9XV3J6S1hMOVpldHJILWlvYkdYMXJyX3BoX19LOUkybENTbWhVRU9ZOEtOeU5zLWpsdWpYWkY2dzE5MDhLdnBCYjRsTzhzb3YySS1vQ0cydXNNWUhzbmhnSjV1YUNtTUhSZURLcDhzcDdlX3p2c1JaZw?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Chandgude Family Deaths: iPhone Was Blamed Initially, But Police Now Say It Wasn’t The Reason  Brut",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Chandgude Family Deaths: iPhone Was Blamed Initially, But Police Now Say It Wasn’t The Reason Brut"
+            ],
+            "tldr": "Maharashtra Chandgude Family Deaths: iPhone Was Blamed Initially, But Police Now"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1788244954880",
+          "title": "United Breweries Commissions ₹110 Crore Canning Line At Ellora Brewery In Maharashtra - Sahi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnQ1OE90MDR4WFA2OUZSSVhibEtxTmhhdXloNFRvR0o3c0h3eGtmcl9WaEFvdU1HQ0htYmFTS1RvM1hYOVIwTkc3LWR4VWppbkVwZ0pIUTg0MmdDbHl0OXNrSTVRVkNYeWZQa0JpNlpRbmJqQlZUS2hNTVlLMXNqQkNwSWVTYndtM3BsbjJoODF4cjByYzFLMUVXMkZOLWpRRW5pUENsRENpWHVURFcwRDZsTFdVVFY2TUswRGtOUzk?oc=5",
+          "time": "Just now",
+          "body": "United Breweries Commissions ₹110 Crore Canning Line At Ellora Brewery In Maharashtra  Sahi",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "United Breweries Commissions ₹110 Crore Canning Line At Ellora Brewery In Maharashtra Sahi"
+            ],
+            "tldr": "United Breweries Commissions ₹110 Crore Canning Line At Ellora Brewery In Mahara"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1788244954880",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1788244954880",
+          "title": "Soygaon in-charge sub-registrar, clerk suspended over registration irregularities - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUFRRSTBrQ1Flc3hlcWlnelFpQ0ppUHFSYkJRd1dTQWt6MlR6dzJwajh3aGVzdVJXRHBDWEhGaE5NeDNaZldpa2xzVm0ySndweTdOTVllX3RpZlhXNzl0NWdXRE5oRE1YQkxqNlZrYjVIZFBxWnFiT2ZKWllUYlh4RDVPcDJ0YXptdTZGcXd5S2J3clpLMmpNX0s5dzhpSTc4UUV0Qy1Ua0x1ak93VjJ6c2V6aS1NTUVNLXFMRWFfUVJnOV9uTXBtVy1oU2xoaXAyalI0ZUdtWUtVTHk5eGFYQWwyQTVndUo3SERDZVVpTdIB9AFBVV95cUxOQldzeVc4NUs3dWxVYk9JcEFUU2VOZy1ZLWp5UTRBVVdaTm9GV1NWZkRlRzRFVEFwcnpWdFhjdURmYWt3RDU4RUNqSVczY2xhMWdDWlJYU0ZNeDMxUHU0aXFoQ0w4emlPVXN1Q0hvTnBjQzRBRjRuZEx0aDVFYXZrMXdsVUdic3Q2cmtmNWJoWWhzSlBVTDR1YXlySU5PaWJtQ0hMMUJXdHZVUHpiT2ViT1lCYUJpNUhXR2VwU0Y4MkRiOEZMRmNnM1ozbFo1UG1xaGRvQXJRS0FQcWFtbUdxVl9yWHlzS3NGSUdJcHlYekpmbVpW?oc=5",
+          "time": "13h ago",
+          "body": "Soygaon in-charge sub-registrar, clerk suspended over registration irregularities  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Soygaon in-charge sub-registrar, clerk suspended over registration irregularities The Times of India"
+            ],
+            "tldr": "Soygaon in-charge sub-registrar, clerk suspended over registration irregularitie"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1788244954880",
+          "title": "Gold Rate Today in Aurangabad 31st August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "13h ago",
+          "body": "Gold Rate Today in Aurangabad 31st August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 31st August 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 31st August 2026 : 22 & 24 Carat, Todays Gold Pric"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1788244954880",
+          "title": "L’Atelier 1664 Launches ‘The 16:64 Series’ – Good Taste, With a Twist of Fresh Perspective - Passionate In Marketing",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3ZKeUVaZTlyUHFtSDJ1OFI0Z1pkTlBWdmZmbkZoOFdCaU5KNGdDTzI0Rm5IVTJ5S1FxZVZZUnV3WEFpTVJ4cG9Pb2lTZ2hZN3dORzhiaXhZTHdfWUhpSm15aGVYcDUzWkpZSEl2TlBGc2Y1cW5aVVhkMmRxSlNwSnNJY2c5VVlCd25zZUJGVThQNXMweW5TM1NlczJqZUR3SVJZY3J4MVhEa2RsTktsYU1Sdm8zWnhXWVdaRkVkdw?oc=5",
+          "time": "4h ago",
+          "body": "L’Atelier 1664 Launches ‘The 16:64 Series’ – Good Taste, With a Twist of Fresh Perspective  Passionate In Marketing",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "L’Atelier 1664 Launches ‘The 16:64 Series’ – Good Taste, With a Twist of Fresh Perspective Passionate In Marketing"
+            ],
+            "tldr": "L’Atelier 1664 Launches ‘The 16:64 Series’ – Good Taste, With a Twist of Fresh P"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1788244954880",
+          "title": "Turmeric centre invites entries for nationwide logo design contest - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUFMVkxWdjl0T1d0a2FFbjZuUUVZWGtoUVlmcHh4bXo3NVd6ZHZjN1dlWEpHcWMtWHZFNS1oTW55bWs3M1V4V1ppV3JTWkFPODd0QmZFSUktR04wNFlzXzN3WDZ4X3JCSVBoSlc0ZzNNMENESnhOY1lqNkxYVk5TeGdRMXFfelZoaWRPR05SSjJWb1NnN25aQVVuM0h1WE9abGw0YlZ0cHRCa1duamtWV0YtZGxMMXFDZHdWbU9vMmdZcERYRzN0ZkhoZkVkVWhEMk9WS1YtZ2NLa2JrSmNGcWxn0gHiAUFVX3lxTE9tQUxWTFZ2OXRPV3RrYUVuNm5RRVlYa2hRWWZweHhtejc1V3pkdmM3V2VYSkdxYy1YdkU1LWhNbnltazczVXhXWmlXclNaQU84N3RCZkVJSS1HTjA0WXNfM3dYNnhfckJJUGhKVzRnM00wQ0RKeE5jWWo2TFhWTlN4Z1ExcV96VmhpZE9HTlJKMlZvU2c3blpBVW4zSHVYT1psbDRiVnRwdEJrV25qa1ZXRi1kbEwxcUNkd1ZtT28yZ1lwRFhHM3RmSGhmRWRVaEQyT1ZLVi1nY0trYmtKY0ZxbGc?oc=5",
+          "time": "13h ago",
+          "body": "Turmeric centre invites entries for nationwide logo design contest  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Turmeric centre invites entries for nationwide logo design contest The Times of India"
+            ],
+            "tldr": "Turmeric centre invites entries for nationwide logo design contest The Times of "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1788244954880",
+          "title": "Garware Hi-Tech Films sets September 23 date for 69th AGM - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHlyRnJtMTdpZmNBR2VyTmVKZWo1dzlGbE9oOXhSSFZRMllyV3Vva0NQak5qNHJxTHhFRWlQVzB3VlhWcVU5bWc2THpvcXBxeDB0V3hteVpNVzVXaUNIeVZzT3k4cURWMFhDbGdqeERvQmdWclFhdmxyejhxRTRiUG1hS2tLSTZhb1VsSHFDN2pVNE5zVVFjLTYzc0drQXpvT0Z3dExJOS1QVjJtLXpPUEtXdHk0RlZ4SDFzRQ?oc=5",
+          "time": "15h ago",
+          "body": "Garware Hi-Tech Films sets September 23 date for 69th AGM  scanx.trade",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Garware Hi-Tech Films sets September 23 date for 69th AGM scanx.trade"
+            ],
+            "tldr": "Garware Hi-Tech Films sets September 23 date for 69th AGM scanx.trade"
+          }
+        }
+      ]
+    }
+  }
+}
