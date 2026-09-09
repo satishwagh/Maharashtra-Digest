@@ -1,0 +1,784 @@
+{
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T06:34:05.931Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1788935640432",
+          "title": "Maharashtra government announces expansion of ‘Abhay’ scheme for slum dwellers - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON2MyUHJxLU1Iem4xb3RpOGpMcUtkUWhuY1BoR1dQdnB0b2duOXVXOHpiOUk0bHVTdUQ1S1B3ZWgweHdOMk9OMDRpSExIbDdEYU40bk4tUUJHVVV1SFNhdngwQlJsdEFFYWsxLXk1WG80T1NqT0NtUEhsUmJVY29jcnhjM1ZMNlVvSHhJLVJhQ0ZyRmViY0ZvNVE2NFNVQkdLU3ktVmdteGZOUUxYRHN1OEpKZkN5UkpuaTlkSUlwdnNub2NlbWpKbDNndzk0MHY5X0RLWWNjUUZkVDR6cHNLMEQxYjjSAeoBQVVfeXFMUEMzMU5HSktDR2lIR2o3SWdSTjFrX0hpcFNtbkdBRGVGQWpRWWxfV3BpY05UNmduRlFLSzhmUDliU2ZmMUJHcVphOEt6T0VUX3hvRjVPa0E0LWltaVVMVjBYVHRKUkpqYlpfRUdVODY5R3pSWV9CSXpQeVJmRjBFc2FFaTd6SlJkRlBlZGRlMnhVVG9uajZEaGxPU3FhY2hyQlNrcmNkcWczYzBOcVVuQ0R5eHZwREY1ZTNIendMRWE1LUZSVE9GVDNMbHNINktfSVJHbF85ZGdlZF92LWp4R3NyaTI0c2IxQTVn?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra government announces expansion of ‘Abhay’ scheme for slum dwellers  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government announces expansion of ‘Abhay’ scheme for slum dwellers The Times of India"
+            ],
+            "tldr": "Maharashtra government announces expansion of ‘Abhay’ scheme for slum dwellers T"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1788935640432",
+          "title": "Photo Album - PIB",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPOHo2Nm1UMDFac1hWNk1wdUkzclhkVFdJZlpPMHlzSWxUX2M1b296bVNQeC02SWRZUTBWT0RJOGhFQl9velZtTnNoY285T2RsUElPYm1ubFBWN0RpR2x6Q0RoWDhHZDBvMEVTUkRYSmcxZ2hy?oc=5",
+          "time": "13h ago",
+          "body": "Photo Album - PIB. Photo Album  PIB",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Photo Album - PIB. Photo Album  PIB"
+            ],
+            "tldr": "Photo Album - PIB. Photo Album  PIB"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1788935640432",
+          "title": "Who is Vishakha Raut? Ex-Mumbai mayor stripped of BMC seat, barred from polls for 6 years over invalid OBC certificate - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0EwemVzYjNvVDF1ZWtESzVoWVkydFVzaS04OUltaXZxdWpTcU53QlFDMHNxazNsVzU5a3FtVjFiUzNsN1d5RjhLTVdKanJ6UmlkeHVfZS1aTVRQMjh5MVpETlZVa3k0RERXd1VOUEFwNHplNVlMQ0o3V3FBMm9HNkhmUldVbmpDcTVFTXVUTFVfaEJhd3RTalF2Zm1YYWtGcEQ0M01FM2d1andNMV9qT3Y4TGNZemQ1YTlLcC1nUWtmMXpjWk5Ta0NpS1NiNmx5S185TjNxUXhXbWVTWkx1R09idmJvUmZ2NjBGWUZudkZNM2JfclVEWFB6LW5zSWdMT1JyUGV30gGLAkFVX3lxTE1TVzJjdzJqR2pJbHF6ejBSbUJTOUduNExrMlpqOTJyQlpiYm95VzloUWR6bFVZZFdxd1A0RjQxTnBSTHBZUjdVRm9nV2FlcERVU3ByUXNCLWl3N0pQeDhXb2J6bXNyZmZTMWRkLWtFSzdjMDgwdXM3VmZoTFFESWZXWjVNbmtGQzRoUVd0dnd1S0dwcUFobUJTZW9ZWm5BUVpMSldGUFE0Y3l1SUZGUHRJQU1zaTJaOHl6QVFDNkM1S2p2Y0xQZG0xQm42YzJZc2NoVXRwOVJwZkY0c19rUVlXY294LW1tN1MwWWc2aElQU0FBWVpnZjRMRzN4Nll3N1N5S2ZRSkN3UXlvSQ?oc=5",
+          "time": "16h ago",
+          "body": "Who is Vishakha Raut? Ex-Mumbai mayor stripped of BMC seat, barred from polls for 6 years over invalid OBC certificate  Livemint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Who is Vishakha Raut?",
+              "Ex-Mumbai mayor stripped of BMC seat, barred from polls for 6 years over invalid OBC certificate Livemint"
+            ],
+            "tldr": "Who is Vishakha Raut?"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1788935640432",
+          "title": "Maharashtra: Jarange Fumes After Government Rules Out Further Visits To Him - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW11VG5QMVB3Y2R3cWI4dU54WktjOVE2cV9hVkdvSEZZc2NUdjRaZXd2cFVYWFJyN0Q3OTVoWEM4OGoxbngwcEl0WVlYcndaam5xTjNhYk5CMjlZeEVYODR5RnlCVy1INWxuMXV3QzJZeHBSVjZHdzdja0ZxWVBqdjNVdzBMR0dDLXMtM0tERWgxSl9EX3B2TlgxdFJFSlN4NVQxRURabTBraGZBb3BmVnp3OGU4VjRmMGtmSlNB0gHDAUFVX3lxTE50bnVfZ2FOOTFNQnZ5MTY4bDdrSS1RcDZicGVIbGNKNmhqWm12cDR0dzRNMloyUzhvQkRvVnJKQzNNZS1IUkV2U2xkZ0ZFWmJrdWdzTjBLM3h4a3NuZWx2RUFTci0zVTJDZ25XYTNjR19hczd4RngwTER4SGF3N3VwYmpnRUJsQzMzOHZ1WVNKTk1wRFNDWHNyeG5VRE1HdmthbDQ2WWc5MTZFck9sdDNPVkVYQ3o5NkdVb2FwVXpBa0p2UQ?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra: Jarange Fumes After Government Rules Out Further Visits To Him  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Jarange Fumes After Government Rules Out Further Visits To Him Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra: Jarange Fumes After Government Rules Out Further Visits To Him Decc"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1788935640432",
+          "title": "Maharashtra forms State Task Force to curb illegal sex determination, female foeticide - mid-day.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORVRuYUk1aW1IaU8zek14RnBHNXRiM3I3d1EwVGdZTGxZMnY1MkgyYTdzNE9JUkZKbVF5U2pCQXpzaDlJX0NvQVN4Zm43akw0YmdhMjlCVmVsbGxjRVZrUktoaERkN3BOVXlVN3dGRDJ4WHZrTXdhdXNZOFFIc2xNaUhkMlhKSWVieFdzMzBWZzdqc0xWZXUyRkxLWnc4WkVvS0pVbDFzQktTZFhwOGpTczg2c2kxc0pCbmVNeXFlMERoRUtaNXVhT3g0U2c1YjZicWlUZkV1M21OcnAzVm5JS0FmRmljUVlYNHBkRtIB8gFBVV95cUxNMm1WOUhubVYwZ3drY1BrLVNOZG0xM0FPOW5ES195NWQzMEIyLXRhZ2lmM1FwZmo3OTRjbFd6Si1FMnlLQzFaZmlRNm5fMGFacUVBSy01NTBpMkJkUzE1RnE2eFJoR1ZmR2pQV1hUOGlkc1lqV011dFVIb3czWHkwU3FxdEl1XzJvWkwzUUtGY3hyU09rSy00MXZfaXlqNHNDVXdpSjlWS1FDcUNZT0ZWdXdWY3NHMHlFaWRmbno0aXRsd3VxRW1MTVdOWDd0aE9FNnhBM2g4RHkwSS1WTElNaGhLdndMRm9vNWVqaHpYLUpEZw?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra forms State Task Force to curb illegal sex determination, female foeticide  mid-day.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra forms State Task Force to curb illegal sex determination, female foeticide mid-day.com"
+            ],
+            "tldr": "Maharashtra forms State Task Force to curb illegal sex determination, female foe"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1788935640432",
+          "title": "Maharashtra Deputy Chief Minister Smt. Sunetra Ajit Pawar Unveils Tata Mumbai Marathon 2026 Socio-Economic And Health Impact Report. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR3huRm1ZVzltclZVeDhNcjBuR1gya1lSS1pqb0UxUWdVanZGLTl0WGU5MmhJR1RBSkktblVEaE5TeWtZUF9OTlNDZXg0STN0a2FMUVRwX01wa2NYODUxalFOWG1CVWgzTjVwYVFHTzZBSDhDWnk3QXZEZ01oQVk5d3J6TEhSM0JieEZEWlhYSllvcXozY3JKNFhJTnRlaGxtbENza1AwamU5RFZZeXFwODA0cnFOaEZyd1hJb0JWbDFDbjlaS0tEalk0UjRpUU5wbm9UNDlGRXNwWGhFODlDRDktcy1oM2N2V2FhUE16bk1kY040bmc?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra Deputy Chief Minister Smt. Sunetra Ajit Pawar Unveils Tata Mumbai Marathon 2026 Socio-Economic And Health Impact Report.  TRIPURA STAR NEWS",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Deputy Chief Minister Smt.",
+              "Sunetra Ajit Pawar Unveils Tata Mumbai Marathon 2026 Socio-Economic And Health Impact Report."
+            ],
+            "tldr": "Maharashtra Deputy Chief Minister Smt."
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1788935640432",
+          "title": "Maharashtra Dy CM unveils Tata Mumbai Marathon 2026 socio-economic and health impact report - aninews.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRzNhREYzaTF4bVdoQXd4MkdTOVJzVW55LS1wNHM4RjVhSGNRNmJIQkdWVUFZcU5idGtsZWRRTnBJcm1JVGc2ZG9lV3ByQ1RLbzJlMDlnUnZHOFNxWklPdVdWSm5IYjNPdXBlUDk0MmEwUUlJM08tU3JGMXFGNVRZZFFfa0VJdVVUVWxDcGlWZVpLak9IaFVxQTdsQ2ZCRldEYUdmclFjb0dCVHBBWXhFUlJXY0ttdU9QcVRzcGsyeTkzZ3I0SXdTRXM3ZFVMYW1QUFNxWWFIMmstZGdYdHlUNQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Dy CM unveils Tata Mumbai Marathon 2026 socio-economic and health impact report  aninews.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Dy CM unveils Tata Mumbai Marathon 2026 socio-economic and health impact report aninews.in"
+            ],
+            "tldr": "Maharashtra Dy CM unveils Tata Mumbai Marathon 2026 socio-economic and health im"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1788935640432",
+          "title": "Maharashtra to form task force to crack down on illegal abortions, sex determination - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXdDdlVIN2VYaXk5VWNSY3p6eWdZbko2Yld5NHpHcVBPRW9vRU1PVE82QnNocUN3aDZTUHA2N3Y2b1ROVGtoSDVNeTNZRjE2TVdKSFhIZmhKTEU3QnZVa1libEJLSTVrUm03YjFEUEtUT3RudnY2VE1HQWp4dDdZbEZrd0pVT0lyLUdXZ1RlN0tHSGdLdm90QjduR1lldW4zZV9oanhrQlI4ZWFQSjJfaWhhRG9GQnZPdXhrV29pM0JGbE1lYmN0VlZTYkJsWmFUZFRlRlhqOUdxQTM4b3NjNF9XMTgxRzMyaElQYTZn0gHzAUFVX3lxTE9WUmhnel9GT2FDZFo2TDh6bzJaRFVNc0VNUmJkcldCaDRlV1N0Wkd3MVJWZk5mLTg3SlZWMHNuV244X1ZmUC1qakpLYndWelBBWGNQWE9VY1dJNkZnSVhBVmdORjJMaW11SmRnMm5zZ3RQR0l5NWtGNWFMWDZVNE1saERjb0xKbVVuNUdQSVVIV3dCU1h5aGdMaVBvX29LWFhCYXhMbElLcUtkaFQ5amhIYVlFQXYtc1ZqcjRxSlh0M2RLOGo1R0ZaekswWklYQ2lSRnduZXg1VmFMVU94eUZsYzNmQ2dqaXl4TGJaZE1zRmloRQ?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra to form task force to crack down on illegal abortions, sex determination  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to form task force to crack down on illegal abortions, sex determination The Times of India"
+            ],
+            "tldr": "Maharashtra to form task force to crack down on illegal abortions, sex determina"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1788935640432",
+          "title": "HC seeks state’s response to petitions challenging Maharashtra Public Security Act | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXo4Rl9CdGFPWlVaNmdOajNhaEZqclV6bEkzTVFLMGppODd6WXJUeG02enUzUlVPMGJUVEtESkxsdDdnbWgyd1lkSmJYOGNXa19ucjF0YklwVnlzVXdkY2RBdzdzREVyX2VFTTZIekhnOWVoZWxhUHBCOUVtQ1FMNnVDZEswcjlhdmNtNElZWWFOdE9sUmJOcW95YklIbmxCVE5fSHp0eUJ2UWpLTkpZRGpjc1VxTkh2NnJJd3RpRE5VV3FEbThLY1lOMkVmM3hvaXI4T2RyV1pGcHhGSGxIS0RRYmxhRUpu0gHuAUFVX3lxTFB1ZXpoeUpiNVh1WjFuUVlfelV6dFZ5VWszb0pDbkIxRm9XM2dxd3pZbl95eC04dHlFUGVaaVVYMXpGMU56eGRuWVR1QmRSaHR1b0s0TFF1dDc2bktCcGJZYVpDYmVINTJBZl9RSUZuSDJZeXpITlU0OTNUNEM0eUZOUGVvQ2N0c0RfZng0TUJqUlJIdXFOcy1NenFjbUpSTERUYmp5VmNXUWNnNXEyN09LbXA2WXZNOHpjVm9wdjA2OGtYYnNncURhcjl6RFA0aGJmMXFTdDRnbWQyU0VfX3Q2Vlp1aXFFNmxNRnQ1aWc?oc=5",
+          "time": "4h ago",
+          "body": "HC seeks state’s response to petitions challenging Maharashtra Public Security Act | Mumbai news  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "HC seeks state’s response to petitions challenging Maharashtra Public Security Act | Mumbai news Hindustan Times"
+            ],
+            "tldr": "HC seeks state’s response to petitions challenging Maharashtra Public Security A"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1788935640362",
+          "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+          "time": "6h ago",
+          "body": "Indian stock markets remain closed on account of Good Friday | Akashvani News  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock markets remain closed on account of Good Friday | Akashvani News News On AIR"
+            ],
+            "tldr": "Indian stock markets remain closed on account of Good Friday | Akashvani News Ne"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1788935640362",
+          "title": "Stock Markets Tumble In Early Trade Amid Escalating Tensions In West Asia, Higher Oil Prices - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjVXSlFTZngyMVNxN1VYYld4UFRuMWdyclgtbVg1aEtMRUNRLWtkMEdSVGc1NVV5NDdGTDU3bzY3WF9qZFA0QlNWYng2YTZaemJ2a1E2MGdvTE1QWWtTRzVwRGxnY1FpM2wwSktXMlZSTGNtTndXTWhrZElJMlBtTlhmRnNWdUJSWU85UDlUcnlaLWtnZVZRanlCS2FLQdIBngFBVV95cUxNYjVXSlFTZngyMVNxN1VYYld4UFRuMWdyclgtbVg1aEtMRUNRLWtkMEdSVGc1NVV5NDdGTDU3bzY3WF9qZFA0QlNWYng2YTZaemJ2a1E2MGdvTE1QWWtTRzVwRGxnY1FpM2wwSktXMlZSTGNtTndXTWhrZElJMlBtTlhmRnNWdUJSWU85UDlUcnlaLWtnZVZRanlCS2FLQQ?oc=5",
+          "time": "1h ago",
+          "body": "Stock Markets Tumble In Early Trade Amid Escalating Tensions In West Asia, Higher Oil Prices  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Tumble In Early Trade Amid Escalating Tensions In West Asia, Higher Oil Prices ETV Bharat"
+            ],
+            "tldr": "Stock Markets Tumble In Early Trade Amid Escalating Tensions In West Asia, Highe"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1788935640362",
+          "title": "Sensex sheds 463.57 points, Nifty loses 122.80 points in early trade amid soaring crude oil prices - mid-day.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOd1psVHBVYzFUTVRsemQ4YWExSFQ1NnNTR3lpU1RhRFc0c3BTYl9Oai1IS3I2SjdEQXJXODdIR1hQMDlWVVZOWTNqZGdWcG04bkdLS0NXcjdmUENOUnIwYkNDR0JQZVVLTnZ1RVN6Y0hRT3c2bVdzWjFwd1k4QTJnbS1DWGlaOEZSSWdSd1hUdk9YQk5FbGJicWxZeVU5Rjc0cFZhNTBEdmhEd1FkaEN1RzJfTVA3ZkVmakV3bGt6b2doTnZ1QTA3TjBuMzA4UWVuMVlMeDZKb2ZjYUFnR1E5eWZ6ZlFvNDF3OGhmWW53OFRkRlE10gH0AUFVX3lxTE53WmxUcFVjMVRNVGx6ZDhhYTFIVDU2c1NHeWlTVGFEVzRzcFNiX05qLUhLcjZKN0RBclc4N0hHWFAwOVZVVk5ZM2pkZ1ZwbThuR0tLQ1dyN2ZQQ05ScjBiQ0NHQlBlVUtOdnVFU3pjSFFPdzZtV3NaMXB3WThBMmdtLUNYaVo4RlJJZ1J3WFR2T1hCTkVsYmJxbFl5VTlGNzRwVmE1MER2aER3UWRoQ3VHMl9NUDdmRWZqRXdsa3pvZ2hOdnVBMDdOMG4zMDhRZW4xWUx4NkpvZmNhQWdHUTl5ZnpmUW80MXc4aGZZbnc4VGRGUTU?oc=5",
+          "time": "1h ago",
+          "body": "Sensex sheds 463.57 points, Nifty loses 122.80 points in early trade amid soaring crude oil prices  mid-day.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex sheds 463.57 points, Nifty loses 122.80 points in early trade amid soaring crude oil prices mid-day.com"
+            ],
+            "tldr": "Sensex sheds 463.57 points, Nifty loses 122.80 points in early trade amid soarin"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1788935640362",
+          "title": "Nifty Settles at 23,635 as Crude Nears $100 – Indian Stocks Fall for Second Session - The Eastern Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQTR0SVg4RWV1cDlnMkFaZW4tc1lEUU5UQ3VyQVZLR0piRjh1UGJFVno0OE9oR1Z6bFM1a2JGQmZ2VHhtUmVDTzBRaDhoSWJzQUxoTnF6VE5CbmFCY2t0b2ZKYVFPZExSTmpfTjdDNUhRWWQ2R3NJY3k1Y09qVG5Sakx4bEdCWWk1TlB3V21jYjg?oc=5",
+          "time": "2h ago",
+          "body": "Nifty Settles at 23,635 as Crude Nears $100 – Indian Stocks Fall for Second Session  The Eastern Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty Settles at 23,635 as Crude Nears $100 – Indian Stocks Fall for Second Session The Eastern Herald"
+            ],
+            "tldr": "Nifty Settles at 23,635 as Crude Nears $100 – Indian Stocks Fall for Second Sess"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1788935640362",
+          "title": "Markets fall for 2nd day, Sensex tanks 555 pts on rising oil prices, selling in blue-chip stocks - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOEFEZTkwNXBWN0pBYjZRb2NYblpYa2k1MUdPQlhISFZMOFY0dXNWc3NES0pfU3Q4dF9CU0FSQkc5WlJBbmhQdm05dlFWMG5XeHdqYXV5LWRHWFF1b2FVdFZVOWY2X29iSXotSC1NcldMZjI0VmV3YmlSMUFidDNad3MtQlNWYUY2bTFnZlpYVzNpY2lqZGh3alVPRWNfQi00ekdualh6eGJMTkdOaWtSX1ZpQWtWUW5lTTJqbmhpdWpHY09WSUZiUExhNjRMcTFOQ1VWUVo1Z9IB3AFBVV95cUxOWGpZQU84TXRMOTdITS1KR0hEVlozUU03WFNTQUpOYzRlVVY0OGJ4UkJEUURaN0dXUVM2NmFMUEJMcGZJZy1rUm1EZmgwc2xFbE12UWxrMzBiYXNJbUZuUG9WamdRcWluWUkwd3hqaG4yT0pNb1VZazJRZU1vRjBvS0JEV2RrNnhJME1tcm9rT05KLUJZTlhtRXpIVkpIVTVWcnozWXJkclBNamFXdzdEZFhLUk03MTVUODhPSUR5LThBaVJRYW01eFlhSmxzdC1qb1NzT21aV2NwV0dP?oc=5",
+          "time": "12h ago",
+          "body": "Markets fall for 2nd day, Sensex tanks 555 pts on rising oil prices, selling in blue-chip stocks  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets fall for 2nd day, Sensex tanks 555 pts on rising oil prices, selling in blue-chip stocks MillenniumPost"
+            ],
+            "tldr": "Markets fall for 2nd day, Sensex tanks 555 pts on rising oil prices, selling in "
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1788935640362",
+          "title": "Stock markets fall for second day amid rising oil prices, West Asia crisis; Sensex tanks 555 points - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1ROTkFHOWpiODdndGZ2bTllZ3VhMzRNWWZnT1ZuVDhNc3ZNYUpmTDBuaXJZbndKeFhHSDV3ZktKWTZaY0hwX3RtZm9XenhMMDZhV3Z3NzE1Y2tGaG8xN2U5ZFhTaGZSNTAtTGJkVExsVC1hNGptM1ZWTG5QRE42QWVPYk9hcjFMa21BeTNYRHhTT0RoUDNXUFdfM1ktd2ttVmtuTUVRT1owYkhIR1NrZGw0UFpjRHlOZlZUUHJmUDNGYkZvTmtDNkVaclFqY2FNdEhNNkQwTnY4aDI2cEU5ZGcySUpPZw?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets fall for second day amid rising oil prices, West Asia crisis; Sensex tanks 555 points  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall for second day amid rising oil prices, West Asia crisis; Sensex tanks 555 points Deccan Herald"
+            ],
+            "tldr": "Stock markets fall for second day amid rising oil prices, West Asia crisis; Sens"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1788935640362",
+          "title": "Bajaj Auto Share Price Today, Bajaj Auto Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNXNaQnBWbW1YTVdvV3ZxOUlPUTZUUm4yV2xPMWpmb1ZvUzB5N09mNjlkSHY1dmp0VmlHUVhCenBOLUx6eGswWVFWN0VLSVBiLTZxSWtUT2JDN2ctTUJqZzFHRTQ3OGxjYXBaaHVRcVFLcnJMNl9KZGhZYW1zYVB4TW55NzQ?oc=5",
+          "time": "16h ago",
+          "body": "Bajaj Auto Share Price Today, Bajaj Auto Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bajaj Auto Share Price Today, Bajaj Auto Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "Bajaj Auto Share Price Today, Bajaj Auto Stock Price Live NSE/BSE Updates The Ec"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-2-1788935641785",
+          "title": "AI adoption, data governance take centre stage at CII Hospital Tech 2026 - expresshealthcare.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGV6em9hYU04M2MxeUhuV3YxWmFGeF9oY0VzYTA4RllMbHg2eVZTRU5PbFBpWFFsQjVYNkhfclZFZWhLZDdhYXR5TTM5VVhWd3RBeFRoMDFBMVZuVkZaZzRCcmQxWG9BTWVDb1BOVWF1SG15QWxZNFhRZEo5VC04bjNTYVZUMFF2TlhGb1JOSUJhTVcyM2hSRVRUTTZCOEN2SEk3N2ZXLXJIRnEyTV9vYS1qT3NfR2otSTM2Wkx3?oc=5",
+          "time": "10h ago",
+          "body": "AI adoption, data governance take centre stage at CII Hospital Tech 2026  expresshealthcare.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI adoption, data governance take centre stage at CII Hospital Tech 2026 expresshealthcare.in"
+            ],
+            "tldr": "AI adoption, data governance take centre stage at CII Hospital Tech 2026 express"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1788935641785",
+          "title": "Global Fintech Fest 2026 Kicks Off In Mumbai - Sarkaritel.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CSmRULTZ1V0xFd3FWTWJPX195d3U0RDJBWUtmenBPWWlvZ3JTdnhkWnBoMjVrLV9NQlY0dWlON2hQc0IzcGN2X1RRUGZMQVZLYzZBcVB2NmFGdS15bHZuRFZoclY5TG44eVpZ?oc=5",
+          "time": "4h ago",
+          "body": "Global Fintech Fest 2026 Kicks Off In Mumbai  Sarkaritel.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Global Fintech Fest 2026 Kicks Off In Mumbai Sarkaritel.com"
+            ],
+            "tldr": "Global Fintech Fest 2026 Kicks Off In Mumbai Sarkaritel.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1788935641785",
+          "title": "Maharashtra, Tata Group Fast-Track AI Innovation City - Elets eGov",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUF94RGwwTzlLWE95Y3NrdUduNnVwOVhMYVotLWozWkV6ZHRvVnp1amZweldsb1hqWVJST2hkcElkdHhTNG03SkpPR0d2dzRReWpBQW1odVJwcmZfT2c1d3BGWkxkZzlEYUdBc0ZCczVwT1R3S05uanc3ZnZqRUFVX0VKYm9HMjdJaGFwRGlHYXJYSzkz?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra, Tata Group Fast-Track AI Innovation City  Elets eGov",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra, Tata Group Fast-Track AI Innovation City Elets eGov"
+            ],
+            "tldr": "Maharashtra, Tata Group Fast-Track AI Innovation City Elets eGov"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1788935641785",
+          "title": "India Leaders for Social Sector Launches DT4SI, A New Toolbook to Harness AI Potential into Tangible Impact - The Wire India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzVHaGxNaHVhcy1wMEZRelJGa1FybnNqSWR1Q2laX3Q1Si1VYUtTbk9lYXE3ZzgxTll6V1BqNDJ5NzFfX3BKZ1ZWNW1RS3owRlpEZjVTblNPSS1hMGt3NlJTa0NMOXJsOUI3dXBwdTRYOGMwY0FrVV82ajBURmJOYURQTDhIaTFXTXBmSlVRVHJ6QW5jcHlfM1dkdktVUzZEYnJ4c1RFU0N5enJMRUJqX0V0ZGxOVF9vNU1FYmhBTklRZUhKRW5hbGZvY2pUUDM4VWdwMmdNNWtGUVJfZFHSAeMBQVVfeXFMUHNiNk90ZDV5a1dUYl9ONFllWXZfUjZybUxyRFVHcmRpRnhvSFdYNWdZWjlnVjVUSUEybk1CcUt1b3NOV0RQcl9GYVh3bDVsdVdnRTZib1pieUs4UDBtV2c4TzFiMnR4Ni1xcHdXVGg4NEppeDNjRFZmSzJNdjd1SThmaGNDSVJoTmxVMTBrSjl3SV9jUWZUMDNrczhfN0dLR3hoY3M3V0tRWjJfZW1GWVJKLWI0NHNaRjUzR3Z2em1pOWF6NHRlY3pNNzBJLTcyTTBZUmRXRWpkOTRpU3lCT3lzS2c?oc=5",
+          "time": "19h ago",
+          "body": "India Leaders for Social Sector Launches DT4SI, A New Toolbook to Harness AI Potential into Tangible Impact  The Wire India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India Leaders for Social Sector Launches DT4SI, A New Toolbook to Harness AI Potential into Tangible Impact The Wire India"
+            ],
+            "tldr": "India Leaders for Social Sector Launches DT4SI, A New Toolbook to Harness AI Pot"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1788935641785",
+          "title": "Meta launches AI agent that can access other apps to send emails, make payments - ET CIO",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdW81dld2Tmh1Z3czWENCVGZVZTZkT2JvU29LbEYxNTEwTThvNUR4ZnZtWkpfUlA1VVJzNXJ1WGZrVXQ4WW4zZC1IMDJ3YzRsbVFNY2xYUnBzbEZlUFhra1d4VDFZNTNLbXdfYlJlWENxS1VmdnhYd3BMRzlXdlJmOEtRa3RtUFd0U3RkWDc5VVR6Zy1zVjJsTThoQlpwSHBnbDF6UnhXcDYwcFhpc3YxdldZNXhTQ1F4T29nbmJfSlVidE9qUVZGNzVCNXNGNktfU3Jfejdna3dWMW0zV2Z6ck9FT3M0NEUxU0FhbDZ6N29KdUd60gH0AUFVX3lxTE51bzV2V3ZOaHVndzNYQ0JUZlVlNmRPYm9Tb0tsRjE1MTBNOG81RHhmdm1aSl9SUDVVUnM1cnVYZmtVdDhZbjNkLUgwMndjNGxtUU1jbFhScHNsRmVQWGtrV3hUMVk1M0ttd19iUmVYQ3FLVWZ2eFh3cExHOVd2UmY4S1FrdG1QV3RTdGRYNzlVVHpnLXNWMmxNOGhCWnBIcGdsMXpSeFdwNjBwWGlzdjF2V1k1eFNDUXhPb2duYl9KVWJ0T2pRVkY3NUI1c0Y2S19Tcl96N2drd1YxbTNXZnpyT0VPczQ0RTFTQWFsNno3b0p1R3o?oc=5",
+          "time": "3h ago",
+          "body": "Meta launches AI agent that can access other apps to send emails, make payments  ET CIO",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meta launches AI agent that can access other apps to send emails, make payments ET CIO"
+            ],
+            "tldr": "Meta launches AI agent that can access other apps to send emails, make payments "
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1788935641785",
+          "title": "Maharashtra extends deadline till Sep 15 for suggestions on draft coaching centres regulation law - education.economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUnR4b2xER2NwcmpFblNjNWdibnBka0lOcDVfSmd1STVaQXBkenBKUnhMSkJPNlI0SnhVc2xMNTZtVHdhdmxHWWZ3OGFrX0pFVTFORVlLTklJcnE0UVdVWUdER3hIYmVpWlRPdEF3SEI1b0VLRVpPNS1QOEFIam9JakpQY0FBd2NfTU50V3VPeHRDR1hnUDdRdUdIS2xsSTZHQmJUbnk5Z0IwTDZnQlc5RjEwZktwN0ViQnFudlVfLVBzZE02SmJIaXdxcm53cVl2MGtJMVBjcjZpWnk0Y1RkN2YyVVBUQ2U2NDJkV0h0OU43UE05N2NGWjV1SlRzUURva3fSAYICQVVfeXFMUFJ0eG9sREdjcHJqRW5TYzVnYm5wZGtJTnA1X0pndUk1WkFwZHpwSlJ4TEpCTzZSNEp4VXNsTDU2bVR3YXZsR1lmdzhha19KRVUxTkVZS05JSXJxNFFXVVlHREd4SGJlaVpUT3RBd0hCNW9FS0VaTzUtUDhBSGpvSWpKUGNBQXdjX01OdFd1T3h0Q0dYZ1A3UXVHSEtsbEk2R0JiVG55OWdCMEw2Z0JXOUYxMGZLcDdFYkJxbnZVXy1Qc2RNNkpiSGl3cXJud3FZdjBrSTFQY3I2aVp5NGNUZDdmMlVQVENlNjQyZFdIdDlON1BNOTdjRlo1dUpUc1FEb2t3?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra extends deadline till Sep 15 for suggestions on draft coaching centres regulation law  education.economictimes.indiatimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra extends deadline till Sep 15 for suggestions on draft coaching centres regulation law education.economictimes.indiatimes.com"
+            ],
+            "tldr": "Maharashtra extends deadline till Sep 15 for suggestions on draft coaching centr"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1788935641692",
+          "title": "Imperial and India's IIT Bombay launch strategic partnership in research, innovation and education - Imperial College London",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGJncTVxdXZRT2ptZ0ZMZU5CRXBxcWpiTDhGMHlLZVpKSWxXSkp2Ukl6U0p5U0hzYjNWQWFkd19HVTdyNE1ZZk95aUE1WTdTUjE5aG9vNEZTUnEwQ3NCV3owVnFWb3VZSWQzVkdqV2lKcUlFOG9FREhsc0RUM1Byd3JZTFVGeFhpenF1eWF4WW1vZW43T2tRSDF2S0l6SVIxX0plYkw0eTBwUlc0blhSSEt6ZzRwY1VLTWlpbERHNEdpM1ViSjVvVkNfVWFjek9ERW8tZkU0a01yT2toSTBfVmhHb0ZHZw?oc=5",
+          "time": "21h ago",
+          "body": "Imperial and India's IIT Bombay launch strategic partnership in research, innovation and education  Imperial College London",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Imperial and India's IIT Bombay launch strategic partnership in research, innovation and education Imperial College London"
+            ],
+            "tldr": "Imperial and India's IIT Bombay launch strategic partnership in research, innova"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1788935641692",
+          "title": "IIT Bombay, SINE, MC²⁺ Foundation sign MoU to support energy startups; ONGC to collaborate - aninews.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzRmQkxyMjlwOE8zZVpPdTNIV3hkVU0wOUFReVRCTDg5RHpOelc3R1RGOUpvYlRqcUJ0eXN3RVAwR1I5ZWRBZ3RoU254Ti12TVBxYXRyTTdneHY0Z052MEJieFVEdm53Y2lnd1JfSElBaWZZRVZoNjlrcVcxVVZ6eExXcmhaODFCczdSckNuSUMwb0N3WnZCRjVPUHE2WlcycHhXd2RKQnI5RjgtZzAxZTE4VWZMY0l2ZjhDck1zUmpFV1hxWmpPbzBtRzJVN2lQa3VKclJCMW02aTQ?oc=5",
+          "time": "17h ago",
+          "body": "IIT Bombay, SINE, MC²⁺ Foundation sign MoU to support energy startups; ONGC to collaborate  aninews.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IIT Bombay, SINE, MC²⁺ Foundation sign MoU to support energy startups; ONGC to collaborate aninews.in"
+            ],
+            "tldr": "IIT Bombay, SINE, MC²⁺ Foundation sign MoU to support energy startups; ONGC to c"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1788935641773",
+          "title": "Hardik Pandya's ‘never been more alive’! Indian star posts on Instagram - mid-day.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtxZGpQLWNuLUZ5ZzdqX21LVHVwS0s2eE91NnhlVmtIQ2czd0d5VDJpOWhhWjRvSTJ6Tnp0WklELUdLN2FaSmtuQWRXSHRrTGtzc1k2RkNNa3JRMXNsaWpsRmNuNnpBTnJzUEJpVFlmdEQ2RlVyWEJzUGI1eWZvUVdLX3JSaVNjOHpCWXVuZHNIS0XSAZMBQVVfeXFMUDFrcWRqUC1jbi1GeWc3al9tS1R1cEtLNnhPdTZ4ZVZrSENnM3dHeVQyaTloYVo0b0kyek56dFpJRC1HSzdhWkprbkFkV0h0a0xrc3NZNkZDTWtyUTFzbGlqbEZjbjZ6QU5yc1BCaVRZZnRENkZVclhCc1BiNXlmb1FXS19yUmlTYzh6Qll1bmRzSEtF?oc=5",
+          "time": "2h ago",
+          "body": "Hardik Pandya's ‘never been more alive’! Indian star posts on Instagram  mid-day.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya's ‘never been more alive’!",
+              "Indian star posts on Instagram mid-day.com"
+            ],
+            "tldr": "Hardik Pandya's ‘never been more alive’!"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1788935641773",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "11h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1788935641773",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "16h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1788935641773",
+          "title": "Rohit Sharma's IPL Teammate Hits 16 Fours And 12 Sixes To Score 173 Off 64 Balls - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDFNLUJrQmVVejZKcXkwT2oxNFFzTmVQcmljNkpWNVlXQjRUU092SGZPUS05VjhKeVZIYzF3Vm5LQUs2SXB4VFdNRnZvNFJwZi1SRXBlMjJiQWVWaXl6aDBwWnU1WTBjT2c4WGFLMU1PLVduZmpiNTRVSE5rbU40NXVpWkJtNmFTRGgtN2gyZklfMlNPenVndXVNU0pCU0JScWlEXzNZTWdkWTV0X3lfR1RnUVF4RnR1ZWp0Q3l2VTF2emxDTllUQdIByAFBVV95cUxQNDFNLUJrQmVVejZKcXkwT2oxNFFzTmVQcmljNkpWNVlXQjRUU092SGZPUS05VjhKeVZIYzF3Vm5LQUs2SXB4VFdNRnZvNFJwZi1SRXBlMjJiQWVWaXl6aDBwWnU1WTBjT2c4WGFLMU1PLVduZmpiNTRVSE5rbU40NXVpWkJtNmFTRGgtN2gyZklfMlNPenVndXVNU0pCU0JScWlEXzNZTWdkWTV0X3lfR1RnUVF4RnR1ZWp0Q3l2VTF2emxDTllUQQ?oc=5",
+          "time": "17h ago",
+          "body": "Rohit Sharma's IPL Teammate Hits 16 Fours And 12 Sixes To Score 173 Off 64 Balls  News18",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Sharma's IPL Teammate Hits 16 Fours And 12 Sixes To Score 173 Off 64 Balls News18"
+            ],
+            "tldr": "Rohit Sharma's IPL Teammate Hits 16 Fours And 12 Sixes To Score 173 Off 64 Balls"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1788935643228",
+          "title": "Indian-origin British Airways manager convicted of sexually assaulting colleague at his home",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin British Airways manager convicted of sexually assaulting colleague at his home. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin British Airways manager convicted of sexually assaulting colleague at his home. [object Object]"
+            ],
+            "tldr": "Indian-origin British Airways manager convicted of sexually assaulting colleague"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1788935644304",
+          "title": "‘It’s madness’: Anand loses on time after declining draw against Sindarov",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances. Anand called the game a “comedy of errors” after declining a draw offer. World Championship challenger Sindarov, however, called Anand “world-class”, showering praise on the legend’s enduring quality at 56.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Viswanathan Anand endured another frustrating day at the Global Chess League on Tuesday, suffering two defeats, including a dramatic loss on time to Javokhir Sindarov despite having winning chances.",
+              "Anand called the game a “comedy of errors” after declining a draw offer.",
+              "World Championship challenger Sindarov, however, called Anand “world-class”, showering praise on the legend’s enduring quality at 56."
+            ],
+            "tldr": "Viswanathan Anand endured another frustrating day at the Global Chess League on "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1788935644305",
+          "title": "Dilip Gavit's journey: From losing right arm at five to raising the tricolour on podiums",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "A childhood accident cost Dilip Gavit his right arm, but it could not take away his ambition. From a tribal hamlet in Nashik to a Commonwealth Games record in Glasgow, the 23-year-old's journey has been shaped by resilience, a life-changing coach and an unlikely switch from the 400m to the 100m. The 23-year-old now aims for glory at the Asian Games.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A childhood accident cost Dilip Gavit his right arm, but it could not take away his ambition.",
+              "From a tribal hamlet in Nashik to a Commonwealth Games record in Glasgow, the 23-year-old's journey has been shaped by resilience, a life-changing coach and an unlikely switch from the 400m to the 100m.",
+              "The 23-year-old now aims for glory at the Asian Games."
+            ],
+            "tldr": "A childhood accident cost Dilip Gavit his right arm, but it could not take away "
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1788935644305",
+          "title": "IOA forms panel to probe sexual harassment allegations against Hockey India secretary",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "The committee has been set up following a directive from the Union sports ministry.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The committee has been set up following a directive from the Union sports ministry."
+            ],
+            "tldr": "The committee has been set up following a directive from the Union sports minist"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-1-1788935643228",
+          "title": "He came to Canada to study. Then he protested and was ordered to leave. Gurpreet Singh says the intimidation worked, students are now afraid",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "He came to Canada to study. Then he protested and was ordered to leave. Gurpreet Singh says the intimidation worked, students are now afraid. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "He came to Canada to study.",
+              "Then he protested and was ordered to leave.",
+              "Gurpreet Singh says the intimidation worked, students are now afraid. [object Object]"
+            ],
+            "tldr": "He came to Canada to study."
+          }
+        },
+        {
+          "id": "mumbai-general-5-1788935643228",
+          "title": "Making too many life decisions around immigration timelines: Redditor says 'Canada does not owe me PR, coming back to India'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Making too many life decisions around immigration timelines: Redditor says 'Canada does not owe me PR, coming back to India'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Making too many life decisions around immigration timelines: Redditor says 'Canada does not owe me PR, coming back to India'. [object Object]"
+            ],
+            "tldr": "Making too many life decisions around immigration timelines: Redditor says 'Cana"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1788935643228",
+          "title": "Indian-origin CEO says it's pathetic victim mentality to blame H-1B for not getting jobs: \"I saw the same incompetence in school when I worked hard\"",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin CEO says it's pathetic victim mentality to blame H-1B for not getting jobs: \"I saw the same incompetence in school when I worked hard\". [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin CEO says it's pathetic victim mentality to blame H-1B for not getting jobs: \"I saw the same incompetence in school when I worked hard\". [object Object]"
+            ],
+            "tldr": "Indian-origin CEO says it's pathetic victim mentality to blame H-1B for not gett"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1788935643228",
+          "title": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accused Arjun Sharma but didn't think he was capable of this crime. [object Object]"
+            ],
+            "tldr": "'I wish him nothing but suffering': Nikitha Godishala's friend knew murder accus"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1788935643228",
+          "title": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. [object Object]"
+            ],
+            "tldr": "Indian-origin US politician Anand Shah pleads guilty in illegal gambling case. ["
+          }
+        },
+        {
+          "id": "mumbai-general-9-1788935643228",
+          "title": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Shiva saved us': Son of Indian-American couple recounts moment when his mother called after surviving deadly Nepal flood. [object Object]"
+            ],
+            "tldr": "'Shiva saved us': Son of Indian-American couple recounts moment when his mother "
+          }
+        },
+        {
+          "id": "mumbai-general-10-1788935643228",
+          "title": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run. Real estate agent solved the puzzle. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sydney's Dr Sadhana thought she found the love of her life, but he was a convicted fraudster on the run.",
+              "Real estate agent solved the puzzle. [object Object]"
+            ],
+            "tldr": "Sydney's Dr Sadhana thought she found the love of her life, but he was a convict"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1788935644518",
+          "title": "MPSC Aspirants Protest in Maharashtra Over Alleged Corruption, Paper Leaks - dailypioneer.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWxIdlVGT3h4LTdxYUNPOTNxODlHcEktNjR1aXhMeGZ4SURWb192THRvTnM1SUJKcW9fSWl1MzVQVmVaLVljMTlqZFFSUkZIY29SNW9vV3FVYVU5Q09yWHB1bXZHRXZ6a0pBcndMSVVWWFRaSU02MW1MTEpOdzFOT0h0VE92MVMyaVYwZXpINENqeDhPWTJ3WG1VNUNta1VtUzZz?oc=5",
+          "time": "Just now",
+          "body": "MPSC Aspirants Protest in Maharashtra Over Alleged Corruption, Paper Leaks  dailypioneer.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "MPSC Aspirants Protest in Maharashtra Over Alleged Corruption, Paper Leaks dailypioneer.com"
+            ],
+            "tldr": "MPSC Aspirants Protest in Maharashtra Over Alleged Corruption, Paper Leaks daily"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1788935644518",
+          "title": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOWY5RTBVS0RhYUgxdGpxV05Rc1JZTDk2Y2NVbmQyOUNUNlhMOFY2T3VFQnl4ak0tZmNScHJZSjloRktJcUgtdUhZVUx2WFplXzZPX1NyRnFXcmFCdkt5QklHNWxIdGFTTGpzR1o1cDc0NUVKV3AxVGFDU1JRckVGTWZTdi1LckpSYTc5ZTBVWUZ3aTFpckotazFEZ2Y2QWJKNWpaM21sN0FSRXpmRFhMbVRJQl9qc0RvcVhIRHBDajd0OThJSVF6blphanlnSFVpTVE?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities  News On AIR",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through prompt intervention by authorities News On AIR"
+            ],
+            "tldr": "Maharashtra: 61 child marriages stopped in Chhatrapati Sambhajinagar through pro"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1788935644518",
+          "title": "Gold Rate Today in Maharashtra 9th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "2h ago",
+          "body": "Gold Rate Today in Maharashtra 9th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 9th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 9th September 2026 : 22 & 24 Carat, Todays Gold P"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1788935644518",
+          "title": "Prolonged dry spell impacts Kharif crops in Maharashtra: Officials | Hindustan Times - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRWlDSHJfMGt3ZXNtZTQ1NGpDalgtZ0Q2TmdGVW9PYVdkUHNuY1pHNDFLOHRacUI2MTAtd0szRkFLdC1Wbm9OcnFnLS14MFdYVzk1SFQ1cURYQnoyRy1lLUFxZ2luZ1FtX1VrY1V1UzlodjV2U29EWTVhWmh6Qk84V1RkVWt6RXBFaUJlbTctZlZmQ1pyMGpJWHoyMmFqTHFnd1lFaGE5MzA0S0JFLTdsSU9zeUJ5WEE5Z0RUOXhYSmdBZGNZbXZveF9GN290Tk93bTNsNdIB1AFBVV95cUxQRWlDSHJfMGt3ZXNtZTQ1NGpDalgtZ0Q2TmdGVW9PYVdkUHNuY1pHNDFLOHRacUI2MTAtd0szRkFLdC1Wbm9OcnFnLS14MFdYVzk1SFQ1cURYQnoyRy1lLUFxZ2luZ1FtX1VrY1V1UzlodjV2U29EWTVhWmh6Qk84V1RkVWt6RXBFaUJlbTctZlZmQ1pyMGpJWHoyMmFqTHFnd1lFaGE5MzA0S0JFLTdsSU9zeUJ5WEE5Z0RUOXhYSmdBZGNZbXZveF9GN290Tk93bTNsNQ?oc=5",
+          "time": "4h ago",
+          "body": "Prolonged dry spell impacts Kharif crops in Maharashtra: Officials | Hindustan Times  Hindustan Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Prolonged dry spell impacts Kharif crops in Maharashtra: Officials | Hindustan Times Hindustan Times"
+            ],
+            "tldr": "Prolonged dry spell impacts Kharif crops in Maharashtra: Officials | Hindustan T"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1788935644518",
+          "title": "Simplify Kunbi caste certificate issuance process, Justice Shinde directs officials - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUZUUVNWTkNkbUJsU2ZYUnhucFhZbEVKdFQwQ2RVZmFCdXJna0NmM2Q2SEFWOTBHbFJYNUtfaVZMQmtUZDM1T1kxT3p6TDBBUkR5a2pOTl90cFEzWjRSekZCaDBERzQ0Z090MXVQb2tWSHBpRUZvSml4MVlEQ0U4clRWdUxtLU42Mmd0RmxQT2ZiX0djYUhGSWNKS0d2OUFiV0tRS093QlNKR0xabGVXWTllVVVYSm9TWm43Wlh30gG-AUFVX3lxTE91RlRRU1ZOQ2RtQmxTZlhSeG5wWFlsRUp0VDBDZFVmYUJ1cmdrQ2YzZDZIQVY5MEdsUlg1S19pVkxCa1RkMzVPWTFPenpMMEFSRHlrak5OX3RwUTNaNFJ6RkJoMERHNDRnT3QxdVBva1ZIcGlFRm9KaXgxWURDRThyVFZ1TG0tTjYyZ3RGbFBPZmJfR2NhSEZJY0pLR3Y5QWJXS1FLT3dCU0pHTFpsZVdZOWVVVVhKb1NabjdaWHc?oc=5",
+          "time": "15h ago",
+          "body": "Simplify Kunbi caste certificate issuance process, Justice Shinde directs officials  ThePrint",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Simplify Kunbi caste certificate issuance process, Justice Shinde directs officials ThePrint"
+            ],
+            "tldr": "Simplify Kunbi caste certificate issuance process, Justice Shinde directs offici"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1788935644518",
+          "title": "MPSC paper leak: Aspirants protest in Chhatrapati Sambhajinagar, seek probe - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2RGTHQ3WU5NWlp0am1oaG1Gbkw1dHNLTklsXzVvc0NYNXFyOXpjV3VMTjgzSENkM21YMVo2ZXFQU1dpRS1HTHU0TVBIREc2ajFJTkN3SFpQZ1M0cUVPRDNkUWFWemh0UEVWeF82Um93S2ZOaVkxRUlKRTNYdm4wWkZuNjZ3VHVoMW92ZU9iVlpxVUhib01SaU9jVU1RMFpPTDVUVTVuQ0NpMnREX0xpWVo0V3RMbjJPVjVKa0pVZjh2N21neWUzMnZFbmd1RkRnY3lhStIB2gFBVV95cUxOYWFMSlhKdmxJSV9vSEVYanl4clViMFNfS0dnTGJMM091dnNxY2tuUkVnblFfWDFBSTM4RDhXYjc2RGlTT3lBZzdzNHp1ZkRtbnR6VVZtVE9GTHk3N2Ztc1BodDhlM2c2WHBDSGp3dW4wQThJQ0JwRDEzUmMtczlpbDFoREZvUURWT0ZWUXdXN1RyN1cybWd3ZjY0RS1mS2d3UjFPazZLcWVqVWFWRWZYcjA4ckNxWWNzYl9nRUxoMmlPV3RDVWNSR3VsSW9EbzZSNkpFR0xMUE5DUQ?oc=5",
+          "time": "21h ago",
+          "body": "MPSC paper leak: Aspirants protest in Chhatrapati Sambhajinagar, seek probe  Business Standard",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "MPSC paper leak: Aspirants protest in Chhatrapati Sambhajinagar, seek probe Business Standard"
+            ],
+            "tldr": "MPSC paper leak: Aspirants protest in Chhatrapati Sambhajinagar, seek probe Busi"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1788935644518",
+          "title": "Is Kashmir’s Younger Generation Losing Its Way to Instant Gratification and Digital Show-Off? - Kashmir Life",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0FoaHJlZFdITmpCODdJWXlGcllIZGIza3kyRXgxS0pEeGNrSlBGMEh4el8xN0pNNVRuVDVKYVcwOHdoMW9DNTFzQUFfVFJCSUw4OGZTQmdlSXdxZUpNZ2FLNlk2T0VZWGxWWTdFc21TdGJmVFhDd1BnOF9HWVo4Mi1ZWlZUV0Nqa3hkV2Y1XzRxdk9jN0hmVjJ2YndOU29IcnBLX1JSSXJ2OGZKT04yeW1sbFoxTlgyVXRtbGVDNm0?oc=5",
+          "time": "20h ago",
+          "body": "Is Kashmir’s Younger Generation Losing Its Way to Instant Gratification and Digital Show-Off?  Kashmir Life",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Is Kashmir’s Younger Generation Losing Its Way to Instant Gratification and Digital Show-Off?"
+            ],
+            "tldr": "Is Kashmir’s Younger Generation Losing Its Way to Instant Gratification and Digi"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1788935644518",
+          "title": "Ajanta Caves: a carved Buddhist world in stone and colour - AD HOC NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1hVdkM2OEdNQUpZTmpKNkRGQ3NJRU9RcHExdU5nZ0NCM3ZSUEppZGdOeXJJa3UwelY1d1NnM1NlRFlSZ0JTdUw5VVJaUXVkODExWTlFaUxPY1JOQXZ5OTQ0SkduUS04MlRpM2I3aVFhSEpHNkNTcmdBU2RBNjZNWWMzQXBpRVBtdWFLTXlURGNraUZoVnN4OEZTSmFhd3V0Y3I1QjNqUWF3cXF0UGxsX0Vn?oc=5",
+          "time": "1h ago",
+          "body": "Ajanta Caves: a carved Buddhist world in stone and colour  AD HOC NEWS",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Ajanta Caves: a carved Buddhist world in stone and colour AD HOC NEWS"
+            ],
+            "tldr": "Ajanta Caves: a carved Buddhist world in stone and colour AD HOC NEWS"
+          }
+        }
+      ]
+    }
+  }
+}
