@@ -1,0 +1,779 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T06:34:59.532Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1789626894131",
+          "title": "India News Live Updates, 17 September 2026: DU student’s car kills 2 labourers on Dwarka expressway - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR09IenQzNTBKRE0ydk1odHl2Zm56cFlDU3NHZVBLUjhUQVpsamQtLUlXTTRiZExyWU5hX1hTSEQ1dmdSd2g1cDlZRWlrZTV3MFNXUU51Y2ppQ0lCWmI2X0VvMm0ySnUwekk1R3llQUt1M3d5VlBsUUw3dzJpSE01RHVVZ0NtTl9qOEhxYzkzSE9vY0pneTBla2FZdkowM2xZUFhSTlVMRmlLXzRxREUydzFidXhzQTh3WnRzblF1cHRqZC1nNEV6SXBqMktVSlBRQlNhN3d0LVNKd2tkMXVlYklXaWs2MUZQc2xtZ18tMjFuTkZWZUJieXZ4MkdjdVQ4aVJrZEF4a1FxbmfSAZICQVVfeXFMUEctYldkdmg5UjE3QkF4em8tWHpISTN0UkRWM19BVGF3V2FHRnNSR3Rob3FCTGRyUWJpQVlUaGhXd2REcTBnenlYRTBaenlRRGp4TlJrcVljSWVaOWxyTnR3OUs5eERiZGFHQy1yTXJ1aXZHTXZ6Q0l5dWVyeGhJOUk4ZjVyZnoyRFdZbFR1bHRvX2ZFZk9yZnNadGNfVVp0Tkc2V2ZqdWYwSUd4dUVYaEstVFRzWllhd1phU0ZfSDd4Qk8zMDBXeWFUT1ZUcnNCdGpDWUpYYktXVzAySzZEelZ5M0hBdklZRHk2QWNTQnNHei1lbFpTQ0hualNMZ0pnc3VsYnd1dGtlbXVlNm9oaHdpUQ?oc=5",
+          "time": "3h ago",
+          "body": "India News Live Updates, 17 September 2026: DU student’s car kills 2 labourers on Dwarka expressway  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India News Live Updates, 17 September 2026: DU student’s car kills 2 labourers on Dwarka expressway The Indian Express"
+            ],
+            "tldr": "India News Live Updates, 17 September 2026: DU student’s car kills 2 labourers o"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1789626894131",
+          "title": "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to consider demands - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXBWS3FZQWJJcTFLRW1hc1JxM2wtRlZYN1RpZnFSQ2ZQSHlQZTBURlE3dDBXUElpTXd5Tk9NWWV5NHpOSG5ubWo3NjJkOFpkbTl4dFRIa1oyd2F4eERlanJmZ1NUMlU2YTU5OGlLVDdFZzREcXlqLUl2MmtSVnh3Snlua1c3S3B2d1VFQWE5Z1BLZkxPOW1JWjUtd3VBM1hXaEZZQmoxRW43V3NuTWJUdkFRZEhodUZjdkVxckZUcWNQYzdmTG5rZTUzQm9IbUZxMEdRa2xSeUdHMUdjVl8wZ0NLeTRDczBYMVA1VE1UMkFaQdIB9wFBVV95cUxONDlJOTc2RmNPV2FVclY4OUNFNDV0ZF9vTVdwVHdxU2RpT0FqNzZjTmdpWFRoX0FhRGQ3NGJOUmR0WU1jUUhxNjdJY2ExUlhVTC1nYWVsRlJLMEdlYUptZGVXYUhtMlltc0xMQ0hBZzRlbXJmX3BMSExXdXRjU1ZIQzZhY0dBcWI3VDRZb0dlQVdBbEJtZk00SkhVQVgwYV9tdHc4TENsbUpzZGJZM0EwV3JUSnE4MURBSUNiMGRRRG8tZFJkMFJxTVo1ai1SS3BYTkdHb0tXODZkbzFoeXR5aGdzZGh5NHRBLTdSamlDZjRHWmN3VC13?oc=5",
+          "time": "4h ago",
+          "body": "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to consider demands  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to consider demands The Times of India"
+            ],
+            "tldr": "Maratha activist Jarange Patil calls off 20-day fast, gives govt 3 months to con"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1789626894131",
+          "title": "Manoj Jarange ends 20-day fast, vows to resume if govt doesn't ‘fulfil promise’ | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR1JsdURNVElJbVBCaTMtZktzSms3U1RFcGNfa2RUOUtLT3RYQWZLRHJwcTdJS0xTNjFMeG4xa3NoZW50d3RBYWd5QmNsVlpXQjA2bTBBZkNQWHE3YUF2cER4RU5ybTdyWHBqdFhndTF3S0ZxZTUtcXlJT3lBZDhraHlxa1hKN083dWVEblg0c20xQ2o4WXhsTlZReWtCQVQ5ZmFrY0tMTm93VHBXM0IwMFdOcDl6YzlZajJ1V2V3OUNLR2RLRlBlX3VOMDJaWXFRU2FDTWxZOGZrT0N0TUZGaV9RMVBHdVlaSHRHQVNjX3ZnT3BUVG15bVpRNTNUZkY1YTJSS0E0bjFkQU9LWncta9IBlgJBVV95cUxNZF9YNDVTZEttQ1hfWXB2a0o3SG45Zzg1dXRnb0ladVdsWDBHclR3X1V6YWd0R1p0NWRUVTQ5THItai1reG0wMzAzWlJsQ1F0UDI5eXJVTGhwa3d5eVphcWh4NGNsRkJCVWtFMlZiU21kNnpzYlJ2MWNfOG9iUFp5dGVRRnR1eFdLa3lmN090Q3JaVWstX2p3NkFGaWp3MS1qc01pZVp4X05rYWgtWTRwRFlBMmpwdldhcVpXdG1Zd0Y5VHZSV2hhVzcyZzlwOGcwMTRuQWVINndIYnh5Q0pseVRJbTJ0ZlVQUlRVMzUwQkNQX1VRRk5QMmZBU1hoQ1UtM19oUVowT3kzaUJzV0ZTZE9RUnJGQQ?oc=5",
+          "time": "4h ago",
+          "body": "Manoj Jarange ends 20-day fast, vows to resume if govt doesn't ‘fulfil promise’ | India News  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange ends 20-day fast, vows to resume if govt doesn't ‘fulfil promise’ | India News Hindustan Times"
+            ],
+            "tldr": "Manoj Jarange ends 20-day fast, vows to resume if govt doesn't ‘fulfil promise’ "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1789626894131",
+          "title": "Maratha quota stir: Manoj Jarange ends fast, gives Maharashtra govt 3 months to act - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaU5iT0h6NHRZS1dpeGNqQkJMeVpHTXR6b0ZpVGhodUYzSzREUFJvWDUtdVN2bkt0dlJoNUx0TGZKS0VLLThPTWNucF9pRVZnN2lxZG9OemZpLW8wS0hXLU5YRHpLVTlGY0ZhTDZXVFBCbE1RQmVBN2VjQS1fZGI5VDdUYmV0SGFWdHM5OHoyVUlDd2t6LUJuU0xGX0tReEpCZUNKblp5cElDYTRELXBKa3hOa1o0elRQdDdiNWxFZkpmekpiVVd1UVdCVTBIUldvQ2paM1cyLW9UcHpSbzVvWlpvUUNBdk1YMWczMTk0T0hzQmdRM0FXQUtCZjkxQdIBgwJBVV95cUxNa3o5eTZaWWZHcGVaeUw3ZUpLeGRQVHpBbGVicm4yWGR3djFLTElURUxvQ1dNNjc5aEsxZ0hheHpjM0hFY3hicVd3M3h3TGpQbHpVaTRlVlp1bXlHa1B5b1Q1bVFla2tVWkJ4TVJ2dEk2ZW1OX0djWEprVHRQM01ZQW9NSHRpY1lkOG1GRGNTMHY1a1Jzb3ppeTB6cnNUbHJfX3ptRXlYV01iMnNPelJIdmlBYTdhYV9nY21oUTFzbklDYTU1dUljekh4bnNHR0VtckhiN081U19oellaTk96TGp1WTAtVnVtZGNtZHNraHdhS1BXSFZ0MVJYMWFNM1pSUkc4?oc=5",
+          "time": "3h ago",
+          "body": "Maratha quota stir: Manoj Jarange ends fast, gives Maharashtra govt 3 months to act  India Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maratha quota stir: Manoj Jarange ends fast, gives Maharashtra govt 3 months to act India Today"
+            ],
+            "tldr": "Maratha quota stir: Manoj Jarange ends fast, gives Maharashtra govt 3 months to "
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1789626894131",
+          "title": "Maratha quota | Manoj Jarange calls off 20-day-old fast; gives three-month ultimatum to Fadnavis govt - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSlVHZlAyZmFlbGhUYWNfV0lZSHcyLWVZRmgxdHoxaEgyZEhSWkZFdnluUEZYb1RmSVdDOWdEZzlQRVAxdUZMQXdxN1RPb1lBM2QzNE5PM3VaZlRLb0NXQWxJRWZlbkdsbWpGbXVkZnVhUnkxdnU3VDgxSDBhbjU3Nng4SlJNSmZISlMwdlhoa1FMYmwyOHV2dEpmdmdDdVZOU0pNTUNiU0tjX3Z5ZUNpb1Jtc1JwcFZldHlZUllsUC1JU1dZa0lhM3hnSXBqMlRfRjdaVktsVmNPcnJUZmVrMU9CMTBQcmV0TkRhVm5LbW5LZEdkSnc?oc=5",
+          "time": "3h ago",
+          "body": "Maratha quota | Manoj Jarange calls off 20-day-old fast; gives three-month ultimatum to Fadnavis govt  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maratha quota | Manoj Jarange calls off 20-day-old fast; gives three-month ultimatum to Fadnavis govt Deccan Herald"
+            ],
+            "tldr": "Maratha quota | Manoj Jarange calls off 20-day-old fast; gives three-month ultim"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1789626894131",
+          "title": "Manoj Jarange Patil calls off hunger strike, gives 90-day ultimatum to Maharashtra govt on Maratha quota - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaWJjVm55UVl4ZVM4WmU0eXFmeENyNy1PdDB6a043OERJSy1DQU0tRWptdTBPYUtNMURpeU9WWW9mY0ZaUG1ZVkZtRlZfOFZGMjhwQVVyeXlyQnUway10eERYMUdtdHFjbFJWMmVoZ18ycmlILVFsaWhLM05GaGFGMVY4bk1pcmk2ek5RTmlnM0dQbXJGOTJxQXNSOTJTOTR4UDFVUUVFQ2xTeE5fSmVYdTZPSGg5NXhXejVOMUVBZGZic01CejE1cjVKZjEtQWZaMkNxS1VhUGxRRU0tT2pCOXBtLWtaU3duLUh2cWFfMXBjVHp5SzhObXFNMA?oc=5",
+          "time": "2h ago",
+          "body": "Manoj Jarange Patil calls off hunger strike, gives 90-day ultimatum to Maharashtra govt on Maratha quota  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange Patil calls off hunger strike, gives 90-day ultimatum to Maharashtra govt on Maratha quota ANI News"
+            ],
+            "tldr": "Manoj Jarange Patil calls off hunger strike, gives 90-day ultimatum to Maharasht"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1789626894131",
+          "title": "Manoj Jarange ends 20-day fast, gives Maharashtra government 3 months to consider demands - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjJYVVRiMmU0UUZ3c3QzcU00R1hZWUpVbkk0OFpFU0FwVjBUR0FzWURWbURvTjNxdTJ1ZVlJdzVnSVFVQUpPS19xUUs4cGpRc2lLUXZLdGptYmZhZU1ZQll4TmNtZ1A4ZXZZMGNCVVdmM2MwMFZYWXI2b21hSGItbnM5N0ZMYTdlWEYzT3RNM2d4dV9Ub3VDeTU3a2NOdjkwMmxuX0V1YTZ5YTdIYWN2QWtTQktLYTNjcW9qMkRPaDVwWWJzX0Y5WWNOX29XUkxjcF9KNm1zMXFjVzQtZ0hj0gHfAUFVX3lxTE1KMlhVVGIyZTRRRndzdDNxTTRHWFlZSlVuSTQ4WkVTQXBWMFRHQXNZRFZtRG9OM3F1MnVlWUl3NWdJUVVBSk9LX3FRSzhwalFzaUtRdkt0am1iZmFlTVlCWXhOY21nUDhldlkwY0JVV2YzYzAwVlhZcjZvbWFIYi1uczk3RkxhN2VYRjNPdE0zZ3h1X1RvdUN5NTdrY052OTAybG5fRXVhNnlhN0hhY3ZBa1NCS0thM2Nxb2oyRE9oNXBZYnNfRjlZY05fb1dSTGNwX0o2bXMxcWNXNC1nSGM?oc=5",
+          "time": "3h ago",
+          "body": "Manoj Jarange ends 20-day fast, gives Maharashtra government 3 months to consider demands  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange ends 20-day fast, gives Maharashtra government 3 months to consider demands Mid-Day"
+            ],
+            "tldr": "Manoj Jarange ends 20-day fast, gives Maharashtra government 3 months to conside"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1789626894131",
+          "title": "Jarange Patil ends 20-day hunger strike, gives 3-month ultimatum to Fadnavis govt - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTJWenNGckdsMjdmOXdPSW91RERQYWo0NWJpX3JReTR2azZXOU1OYmtwT0h5aGxXRFQwMm8xa1RrQ1FTdUFhUHRLa0lrUkxITXlwNUhqcGZTTG1HVnJWRFQwZkRGU3BhbXBhV0VhRmJkX0IycGUxM2lmcXFSUHpvWHB4OEFoYU5Yd281TjBwXzJjXzFaZl9KRVFPT3haa3dvYTdPSkV1S3paS1ZGdzR0akhrT3liandzQWVhRXgzX0pRdWxxdGxuWVlKaXNMSkVaYkg2WTlR0gHcAUFVX3lxTE9TUGhTYXJYY3JMZjVwaV9fOV9MMUN3bF9TTFhncjN3WGYtdng3ZXNUcGF6VGFTUHdRZndFbGZCN3ZPaU01ajlkUm4zamQ4T1IxVE9QTjdOTzVESFFDQTY1S3JWVDR4ajJKUFFVVVdrSzFjNmZaZ09aUGNlMTBVMEpweXNVWjVqMGgzRkxvQjQxbkYyX0h4UnFQcG9CUUl1YVZrSk5ycERBMHlUaHJiZ2VHaEQ3LUtzQnA5MzJoWHFScWhJemJyWmxjbi1wR1laZ1Jwb19mRThybDhJQ1I?oc=5",
+          "time": "1h ago",
+          "body": "Jarange Patil ends 20-day hunger strike, gives 3-month ultimatum to Fadnavis govt  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jarange Patil ends 20-day hunger strike, gives 3-month ultimatum to Fadnavis govt The Indian Express"
+            ],
+            "tldr": "Jarange Patil ends 20-day hunger strike, gives 3-month ultimatum to Fadnavis gov"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1789626894057",
+          "title": "Markets rebound on value buying; Sensex climbs nearly 333 pts, Nifty ends above 23,200 - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXpHekN6NjNHT3U5MURYVmotMEZUQlFNcm1rRzFqdHJzTlRMbGV0R0gwNU9aRVl3UEZ0X1p0R0lEUkpWWlc1YTdyMzczcWlHZURmTWQwaDkwSTlMWERYdlRvSEUxZzBtS2dmckEtZDhZdFZYOUpXLVVNZG5FZ1pqNXpQX19BSUxzaXlPLTlXdjhmZXRvMkdFYTY5WkFsdldTSExmelVQbldIS2dYNnZRRmVONWJ0R2JXRG8xYjg5RFJQSVlFV2ZsRlVRU3c0VFpvVzJGdGUzNUJsUlRSUGtCTlUyRHbSAeQBQVVfeXFMT2l6R3pDejYzR091OTFEWFZqLTBGVEJRTXJta0cxanRyc05UTGxldEdIMDVPWkVZd1BGdF9adEdJRFJKVlpXNWE3cjM3M3FpR2VEZk1kMGg5MEk5TFhEWHZUb0hFMWcwbUtnZnJBLWQ4WXRWWDlKVy1VTWRuRWdaajV6UF9fQUlMc2l5Ty05V3Y4ZmV0bzJHRWE2OVpBbHZXU0hMZnpVUG5XSEtnWDZ2UUZlTjVidEdiV0RvMWI4OURSUElZRVdmbEZVUVN3NFRab1cyRnRlMzVCbFJUUlBrQk5VMkR2?oc=5",
+          "time": "17h ago",
+          "body": "Markets rebound on value buying; Sensex climbs nearly 333 pts, Nifty ends above 23,200  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets rebound on value buying; Sensex climbs nearly 333 pts, Nifty ends above 23,200 The Hindu"
+            ],
+            "tldr": "Markets rebound on value buying; Sensex climbs nearly 333 pts, Nifty ends above "
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1789626894057",
+          "title": "Nifty, Sensex Rebound After Recent Sell-Off, Fed Decision in Focus – Wednesday Closing Report - Moneylife",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUl9vTXpBZVBUb1dBWmNMclpreVJPNWNBUXNSYTBSOHRDaDdZQ2xfNk0wdnVoVldwUTRkQXVSQk9lZ0RxcnNhNHlKNy1nd2sxVDdqSTFURHliaXkxN3hJVjJwUEszU0syUm8tYU9xNllnUi1TaVZxdHBOdm5KYWZybjVtX0liUU1TVktUN3dtQlBQQVBGS3ZMMUVkZzI1S1NRR1ZUalpESW81YjNHc0VHeXdLeWNzS2t1OWZzcFp4cTYwaHZBWU1FcmJybTA?oc=5",
+          "time": "18h ago",
+          "body": "Nifty, Sensex Rebound After Recent Sell-Off, Fed Decision in Focus – Wednesday Closing Report  Moneylife",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty, Sensex Rebound After Recent Sell-Off, Fed Decision in Focus – Wednesday Closing Report Moneylife"
+            ],
+            "tldr": "Nifty, Sensex Rebound After Recent Sell-Off, Fed Decision in Focus – Wednesday C"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1789626894057",
+          "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+          "time": "19h ago",
+          "body": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+            ],
+            "tldr": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1789626894057",
+          "title": "Market indices recover; Sensex gains over 330 points, Nifty ends 99 points higher on value buying - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONGlKTDJQXzFyUFB1Tm4zRmRmdGpLVTUxVUx4X1VIc3JBaXJuYnY2Y0pha0RnZGdFbXFuLXlqbGNoakRzVUhCY29yVE9ubXUxb2EtZi13eU94NndudVVqdF9BTXpBQjFTLW5WbTBHb0JzTW04OWktZ1VxemhjVHNwakZvODRxVUVnQmNaSHVUdHBRZndacjlSVGppSG9LSHZKVUFHU3pGeGl4OER2Tmd1V2tBNmc3bTVxWFlyLTByWTVtVVNEdjFsdWdNRnZoMnFlTXRIWE93eHU1UGFudjN3cWZWazhkRkVhUk1Ka0lwMGhidUNw0gH0AUFVX3lxTE40aUpMMlBfMXJQUHVObjNGZGZ0aktVNTFVTHhfVUhzckFpcm5idjZjSmFrRGdkZ0VtcW4teWpsY2hqRHNVSEJjb3JUT25tdTFvYS1mLXd5T3g2d251VWp0X0FNekFCMVMtblZtMEdvQnNNbTg5aS1nVXF6aGNUc3BqRm84NHFVRWdCY1pIdVR0cFFmd1pyOVJUamlIb0tIdkpVQUdTekZ4aXg4RHZOZ3VXa0E2ZzdtNXFYWXItMHJZNW1VU0R2MWx1Z01GdmgycWVNdEhYT3d4dTVQYW52M3dxZlZrOGRGRWFSTUprSXAwaGJ1Q3A?oc=5",
+          "time": "19h ago",
+          "body": "Market indices recover; Sensex gains over 330 points, Nifty ends 99 points higher on value buying  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market indices recover; Sensex gains over 330 points, Nifty ends 99 points higher on value buying Mid-Day"
+            ],
+            "tldr": "Market indices recover; Sensex gains over 330 points, Nifty ends 99 points highe"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1789626894057",
+          "title": "Sensex tanks 778 points, Nifty closes at 5-month low amid surging oil prices, rate hike fears - Metro Vaartha",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa09HNmt4VThVdkJ2MnUtOHRhenM0RTJmMkhjSDU3X0lVVVJ4YkpvMGFZVno2LURNQVd2Y2NOX0p6VVVTX0F6Y2NUV0xXRjRIbzZhWGxfQy13bVlZNGdreDRMWFpfMEJoeVFienNyOHlCeGdpNjRfZEFQeGNLQkxZN1F4eG9MSVozZkQ2d1dDcGlHSnFTaVIxTjFnUkE4dHRnak9EbnFrOFBERVBKRW9MMWJSVnZNb0ZkWjg5Y1ZHbjFLZ3RQTjJ4Yy1nUmpXTExPblNVUU530gHjAUFVX3lxTE1DamNzN1JqXzJxczJ3d1l2UlhfQ0o3NlZ6Y1QyNjJOR0RtWWVDQXRNWVAycXNpVElBVFNRVWFmWUlkZWQ2Ujh3TnBrQXhKYUZGU2xjYk56QlFTR1YxQUkwSVVHdlFFbnBWTHAtZmgxSlpfU1JUWHFIVlJBOEcxaWJleTQwN1dNRWg5TjVmWXo0TGV4ejBxZ05QVUd2eDUzVjZrR0l6MmVaWHgwY3NvMTBlU05PYUR5QS1SZ1BwS25lU19BLUM2WGJnMzBDODVmWjQ3TnVRU0xBYVJwNlhkSWFycWRJ?oc=5",
+          "time": "23h ago",
+          "body": "Sensex tanks 778 points, Nifty closes at 5-month low amid surging oil prices, rate hike fears  Metro Vaartha",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex tanks 778 points, Nifty closes at 5-month low amid surging oil prices, rate hike fears Metro Vaartha"
+            ],
+            "tldr": "Sensex tanks 778 points, Nifty closes at 5-month low amid surging oil prices, ra"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1789626894057",
+          "title": "Markets Rebound: Sensex Climbs 333 Pts, Nifty Above 23,200 - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelBSMlBFOXgzdjJyQ1JteFpLLTZlUWhGMGpWWDExbXo4V083ZzVMckpoUFFvVjJNd1pWaUxJTUVtR0FaOEhUd21zanZUbHE1SXRFYlJYSmduOURBTVEzendBLW8zTHZzd3hpemRxNERFSHRmYjBwQ2NqLThYNXNWRWJxRHlsTnl0TUItN281bVMwdUotT0ZPem9zWWo3ZmpOYVVtdHlCclVNSVpyTzlPR0JR0gGyAUFVX3lxTE56UFIyUEU5eDN2MnJDUm14WkstNmVRaEYwalZYMTFtejhXTzdnNUxySmhQUW9WMk13WlZpTElNRW1HQVo4SFR3bXNqdlRscTVJdEViUlhKZ245REFNUTN6d0EtbzNMdnN3eGl6ZHE0REVIdGZiMHBDY2otOFg1c1ZFYnFEeWxOeXRNQi03bzVtUzB1Si1PRk96b3NZajdmak5hVW10eUJyVU1JWnJPOU9HQlE?oc=5",
+          "time": "18h ago",
+          "body": "Markets Rebound: Sensex Climbs 333 Pts, Nifty Above 23,200  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets Rebound: Sensex Climbs 333 Pts, Nifty Above 23,200 Rediff MoneyWiz"
+            ],
+            "tldr": "Markets Rebound: Sensex Climbs 333 Pts, Nifty Above 23,200 Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1789626894057",
+          "title": "Pranav Constructions stock tanks 37% in 2 days, slips below issue price - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1FOXzl2ZUJyRFpMN0xnTmJjS3N2ajRrVS1LQ1FIcW9EUzFjNUtXREIwSWJ0QWFKV2d6OVo2a2FlZndEVUdLSW8xc25GdWdhNVpocWNqb3VUTnRfTGwydHRVMzNKTXdTZUMyR1VVRS12ZWFrRUVJZzJCcUdDMVkta2lnSENHcTBCQV9Pdl94czZ3X00yLTYxSHExNXZvY1gwaFE5VTd6cW9wSkdBX1F3WUR2Ylk4TGVUcTV5QnBpQ1ljaG41OFNoUEE4bERMZ2hnQWtETmVVNNIB1wFBVV95cUxNY1FOXzl2ZUJyRFpMN0xnTmJjS3N2ajRrVS1LQ1FIcW9EUzFjNUtXREIwSWJ0QWFKV2d6OVo2a2FlZndEVUdLSW8xc25GdWdhNVpocWNqb3VUTnRfTGwydHRVMzNKTXdTZUMyR1VVRS12ZWFrRUVJZzJCcUdDMVkta2lnSENHcTBCQV9Pdl94czZ3X00yLTYxSHExNXZvY1gwaFE5VTd6cW9wSkdBX1F3WUR2Ylk4TGVUcTV5QnBpQ1ljaG41OFNoUEE4bERMZ2hnQWtETmVVNA?oc=5",
+          "time": "22h ago",
+          "body": "Pranav Constructions stock tanks 37% in 2 days, slips below issue price  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pranav Constructions stock tanks 37% in 2 days, slips below issue price Business Standard"
+            ],
+            "tldr": "Pranav Constructions stock tanks 37% in 2 days, slips below issue price Business"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1789626894057",
+          "title": "Dhanwel Hybrid Seeds Share Price Today, Dhanwel Hybrid Seeds Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaWJscEhmMURsR2stTEgwbTZoUWtabFpvRFYzaXFPVnJwQk9FTGFaMW5QTEp2SndZMl9Ba2VybVhhZWpwdkpWOXp5aThvaFBFQW9tYzZSOEZlMEVBeFVvekp3VS1DajZSQll5NmRzRDl6TkZNelNhci1CemtfUXBrTjc4dE9rU212YWtGTFAyX2JfZFZRUWJRQXRsZWlhRTZP?oc=5",
+          "time": "5h ago",
+          "body": "Dhanwel Hybrid Seeds Share Price Today, Dhanwel Hybrid Seeds Stock Price Live NSE/BSE Updates  economictimes.indiatimes.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dhanwel Hybrid Seeds Share Price Today, Dhanwel Hybrid Seeds Stock Price Live NSE/BSE Updates economictimes.indiatimes.com"
+            ],
+            "tldr": "Dhanwel Hybrid Seeds Share Price Today, Dhanwel Hybrid Seeds Stock Price Live NS"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1789626894131",
+          "title": "Manoj Jarange Calls Off 20-Day Hunger Strike, Warns Maharashtra Govt Of Mumbai Protest - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcU1IcHg4U0tKYkVTZTRnS0hXbXkxZjNHUGlSYWticzdiaTBNSkJjb0VnLWM2RlhzVVpHRWZKWExBbk1sZHZ0cXloN3BKVkhIY1QtS0YyTEhCODBoMmd3a0xncnh3VXk3bTEydl8tT1VBeTJNMmhEWk9VaHZPNzMyYmNYSmY2NlNqdHZWTDQyTUFQMnQ5cmxqYXhzRlZubDFSUHI1Ul9HMGNCN2FFUlBpS3Bna0hFemhoTWxJS1NybnJ5emhvUEY3Zm5OcXhWNlJiU2VIR9IB1AFBVV95cUxPcU1IcHg4U0tKYkVTZTRnS0hXbXkxZjNHUGlSYWticzdiaTBNSkJjb0VnLWM2RlhzVVpHRWZKWExBbk1sZHZ0cXloN3BKVkhIY1QtS0YyTEhCODBoMmd3a0xncnh3VXk3bTEydl8tT1VBeTJNMmhEWk9VaHZPNzMyYmNYSmY2NlNqdHZWTDQyTUFQMnQ5cmxqYXhzRlZubDFSUHI1Ul9HMGNCN2FFUlBpS3Bna0hFemhoTWxJS1NybnJ5emhvUEY3Zm5OcXhWNlJiU2VIRw?oc=5",
+          "time": "3h ago",
+          "body": "Manoj Jarange Calls Off 20-Day Hunger Strike, Warns Maharashtra Govt Of Mumbai Protest  News18",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange Calls Off 20-Day Hunger Strike, Warns Maharashtra Govt Of Mumbai Protest News18"
+            ],
+            "tldr": "Manoj Jarange Calls Off 20-Day Hunger Strike, Warns Maharashtra Govt Of Mumbai P"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1789626894005",
+          "title": "Nitin Nabin Arrives in Mumbai - Prokerala",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVBmQ01VckJBZjF2cVc2amZtY1l0Nl9EQTBpaGlmdFdNWmdfN0MtelhCeGhYUVN6bmN1U2Z0dDhZa3g3N0xWZVltWXlPLUdkQzUzcjhCVGNIUXNpWmctbVdhb0h4MmxqVGVFemZyMzB4dGFfS05veTM1OTRmZUcwQWZTbEZsZUFIRDhVc3dMWQ?oc=5",
+          "time": "22h ago",
+          "body": "Nitin Nabin Arrives in Mumbai - Prokerala. Nitin Nabin Arrives in Mumbai  Prokerala",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nitin Nabin Arrives in Mumbai - Prokerala.",
+              "Nitin Nabin Arrives in Mumbai Prokerala"
+            ],
+            "tldr": "Nitin Nabin Arrives in Mumbai - Prokerala."
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1789626895409",
+          "title": "Maharashtra’s New Healthcare Chapter: From Innovation To ‘Health For All’. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVhTdTgxU29abkRqM0NyMnJ3VFd3azFiRWE3WVhoT2tseGdoT2l1VXBFT1lfUXBPYjZxY1l6bFozUW1jbjU4OFVhSU1ZOU1KajBPMXlWZERQMl91WWJWUmJOanBVUGtkRWl1OEd4QXpSUUp1ZFh5ekZacEM0YlFXanFzd2tyWG9qWG5WWGlERS0za3o3YVdRZW85clo1OTZKUk1Deg?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra’s New Healthcare Chapter: From Innovation To ‘Health For All’.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s New Healthcare Chapter: From Innovation To ‘Health For All’."
+            ],
+            "tldr": "Maharashtra’s New Healthcare Chapter: From Innovation To ‘Health For All’."
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1789626895409",
+          "title": "Aksigen IVF Opens 5,000 Sq Ft Fertility Centre In Panvel - BW Healthcare World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVpERkxfaTE2NDJhODFIakFRcXNuRkdLVi11U3hrcE9LTDU4aExxaHZtQnE1R3pxb3hPeEZtZDBkdFdkQ01VQkNhbnVqZTRfdGtaa3kzMXVHR0dnRWdSYUVMejZQcEY2SzVEcWo2OFN4UXEzaEthRGgxT1ZUc1I3Mjl4Ulk1cHZtbDhmdnc3Q1FoY1FCT2YyUHc0QXNwN0hiYnN6SWFmRDA?oc=5",
+          "time": "2h ago",
+          "body": "Aksigen IVF Opens 5,000 Sq Ft Fertility Centre In Panvel  BW Healthcare World",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aksigen IVF Opens 5,000 Sq Ft Fertility Centre In Panvel BW Healthcare World"
+            ],
+            "tldr": "Aksigen IVF Opens 5,000 Sq Ft Fertility Centre In Panvel BW Healthcare World"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1789626895409",
+          "title": "EQT to invest $30 billion in India data centers by 2030 - ET Datacenters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOGVjdC11QkFqTU5tUURYSjRtZVZrVXdSWmRVTUN6dHk1ZGtqSnVaZDFyZ2p4WEZjU3dxd1BnMUE2cmJuaDB5V2g1UDZLVk5PR3BZLUV1b2MzUzRzMEtIS1BISWhvLVpTVkNwUGVNZHJvYVVOaWRhY3dKR2JVUHVoejM3WUlieUtDcTVvdUZ5a3NrNVFyOElUSW41cU5QTnlXZGZNMnhGakRxTWh1aDFjNm15bGhvYnJxa3RqSFFHQ0dQN0taLWZmTUs4MFpjblZHaU82QjV30gHWAUFVX3lxTE04ZWN0LXVCQWpNTm1RRFhKNG1lVmtVd1JaZFVNQ3p0eTVka2pKdVpkMXJnanhYRmNTd3F3UGcxQTZyYm5oMHlXaDVQNktWTk9HcFktRXVvYzNTNHMwS0hLUEhJaG8tWlNWQ3BQZU1kcm9hVU5pZGFjd0pHYlVQdWh6MzdZSWJ5S0NxNW91Rnlrc2s1UXI4SVRJbjVxTlBOeVdkZk0yeEZqRHFNaHVoMWM2bXlsaG9icnFrdGpIUUdDR1A3S1otZmZNSzgwWmNuVkdpTzZCNXc?oc=5",
+          "time": "4h ago",
+          "body": "EQT to invest $30 billion in India data centers by 2030  ET Datacenters",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "EQT to invest $30 billion in India data centers by 2030 ET Datacenters"
+            ],
+            "tldr": "EQT to invest $30 billion in India data centers by 2030 ET Datacenters"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1789626895409",
+          "title": "Maharashtra plans health innovation hub to test and scale local solutions - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVWw1d3NXZHFEb01XRTF3ZnJBVWZzZzg3NjcyNDFNancwR194c1o3ZVUxRVBja0YwZW5lYnBBYjBnS053R09EQjlvSXZwbmk5Q2drVXdhMTNCRE5nTUVjLTZGdnZJR21nTUExWmlEbXpSTWtWNjhMdjFtby1UbHFlN1pwZmI0RnRnMlE0MlR3VFI0SzNxa2xaM2ZkT2VVcUlJREFtbTEtbGpQamJUb3NvczNsc2dBaWVWYkNneVpoS1cyRzEzME1GVW0wXzRxOW9NZXlybjg2VTFRQdIB2gFBVV95cUxPVWw1d3NXZHFEb01XRTF3ZnJBVWZzZzg3NjcyNDFNancwR194c1o3ZVUxRVBja0YwZW5lYnBBYjBnS053R09EQjlvSXZwbmk5Q2drVXdhMTNCRE5nTUVjLTZGdnZJR21nTUExWmlEbXpSTWtWNjhMdjFtby1UbHFlN1pwZmI0RnRnMlE0MlR3VFI0SzNxa2xaM2ZkT2VVcUlJREFtbTEtbGpQamJUb3NvczNsc2dBaWVWYkNneVpoS1cyRzEzME1GVW0wXzRxOW9NZXlybjg2VTFRQQ?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra plans health innovation hub to test and scale local solutions  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra plans health innovation hub to test and scale local solutions Business Standard"
+            ],
+            "tldr": "Maharashtra plans health innovation hub to test and scale local solutions Busine"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1789626895409",
+          "title": "8K computer teachers await regular posts as state prepares for AI lessons | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzdRN3RlbU1iSkpMWjZiYl9fUzVTWmVMSHRMLU9RRl9sMENxM1A0WmlCclNYSWcxcW9VcEJkRHVDRF8yNk1xSGRNblhIU0VFRGthUnNDVkUtM3gzU05UdldqUDVCTG1tNW9STVg0U25RTGcydnlzZTJSVDVYRFpBWEVtTm5WUjRydTNiVGhfSTVRWWtuaVNxVU9nTW5rNE5pX0xEa0pnMnFuNHMyNUZUUGJwU3VoVGV3eHBseUZwSGp5cThjd2ZvZkFCOVhmVVhiakxoUUxqZU5LeHJ5d1FWQkdn0gHiAUFVX3lxTE1nN1E3dGVtTWJKSkxaNmJiX19TNVNaZUxIdEwtT1FGX2wwQ3EzUDRaaUJyU1hJZzFxb1VwQmREdUNEXzI2TXFIZE1uWEhTRUVEa2FSc0NWRS0zeDNTTlR2V2pQNUJMbW01b1JNWDRTblFMZzJ2eXNlMlJUNVhEWkFYRW1OblZSNHJ1M2JUaF9JNVFZa25pU3FVT2dNbms0TmlfTERrSmcycW40czI1RlRQYnBTdWhUZXd4cGx5RnBIanlxOGN3Zm9mQUI5WGZVWGJqTGhRTGplTkt4cnl3UVZCR2c?oc=5",
+          "time": "4h ago",
+          "body": "8K computer teachers await regular posts as state prepares for AI lessons | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "8K computer teachers await regular posts as state prepares for AI lessons | Mumbai news Hindustan Times"
+            ],
+            "tldr": "8K computer teachers await regular posts as state prepares for AI lessons | Mumb"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1789626895410",
+          "title": "Rucards Launches Rewardifi, a Global Rewards Technology Platform for Next-Generation Business Engagement - Business Wire India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYTB4MEdlRWVsME44WFFMNnhZUHN0c3kxT2NNbERBQ1ZRMS1hZXBVRWZRVXR0TzI0QnJ6UXduVDZkMXBqb1JveGRoVkRwaGl0LTdPQkQtR1k4ZThqSjZGdU03ZXRPakIxby0wVWQ2bnpwdGxIRDQ3bG9OUGtJTlZrLXZod1VMZHFNTE5rWDR5ZU1Fd2ZBRjRtZUFjSEFtODF1WGhGbU5vWmtzQnNVa2JZN0Y4Ti1hMTRkWG5jYnZEekdSY0liU212SU4zNjdSZDRwMFZXdTBLUndIRDdPUmtXOFAyZw?oc=5",
+          "time": "23h ago",
+          "body": "Rucards Launches Rewardifi, a Global Rewards Technology Platform for Next-Generation Business Engagement  Business Wire India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rucards Launches Rewardifi, a Global Rewards Technology Platform for Next-Generation Business Engagement Business Wire India"
+            ],
+            "tldr": "Rucards Launches Rewardifi, a Global Rewards Technology Platform for Next-Genera"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1789626895417",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CN18tSE01OEFENG0yeWVIQXlrRHE1TmxrUlk5bmQtU3RGSURLUGRiZUhkUkhLR0xoSHZIbTBwcWlMR2pBa05sVHcxSTdiVDJ5dFNBWFpmd2pLWnpzWFlUTTF1OWVfOUo2b2hpNURZSkdwVGc?oc=5",
+          "time": "14h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1789626895417",
+          "title": "Not Ajit Agarkar, THESE two former MI star cricketers in line to become new chief selector of India - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYWwyV2kyTFdmMkxxMzYwSzVYXzhmTi1pb1d4UjZXQW9Ud2gxUVBDcE5CNS1VQm43bERRam92TGRYU2ExazN3S2Z4WXFqUTVzdVBWODBna1M2VG9QOXBBeG9hMzgxejFGWU1EUjJQc3VJUnlza2VnR1pmTkl2dHRTZjBEMUkxQUdwQW5ZRHZ5eUJYWGI2V3V3aHhNYW9pbDN1ZGVzZTExUWs1WGRRUkFHekNNZVZCM2h4SVl3YlpqbzJfRXhaTzB4UVZYWEpxSC1xQkppRkNhRldmVzdrQ2pGcklPakdJVFk3UmU1ejJ6Qm9YclVEaG5uZV9vNjF2QlFa0gGGAkFVX3lxTE45Ujg0bzdWSDJ6UFVuUTFZcnpDeUJrWDZHLVc2N3lDZ29CY3ZLTlZ0SDRTMDBpRWRWYTJXX1Q5bFo4WDlIMHlvYXluRS15UXExdllNbHd0ZFBUVHpZZ3g1QW12RnFrS18xR3dWbzU0cUpHM0phaDNiLXVBMExwVjFnbGZxNXVHWV8yWmpONnJBNU9kT295ZmdhQ0xQQkl5ZzBNVXRfdzV0eDdwOURwZkwxTGcxZ0VsNHl6YVdkMlhoWlVOeURHSmZUUGpBTUdGVWRuREhpVmdpQU9tc05BSk9melkwQ3FVSzZVZHBIcG93a0NVR25WN2M1UWNLdGtUdk83eHNDU1E?oc=5",
+          "time": "Just now",
+          "body": "Not Ajit Agarkar, THESE two former MI star cricketers in line to become new chief selector of India  India.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Not Ajit Agarkar, THESE two former MI star cricketers in line to become new chief selector of India India.com"
+            ],
+            "tldr": "Not Ajit Agarkar, THESE two former MI star cricketers in line to become new chie"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1789626895417",
+          "title": "‘Two of the best players to have ever played the game’: Tymal Mills on Rohit and Kohli - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb19MSkFablRHaVRrdDlmN3NUY0VlaHVxSTVqRkt3aU12ZUtVWHBSUG5KWHdkeWliOENJeUs0UzZ2dkZCVm50UDk3Znh0eGpnUThiY0s5VmlhZjE3OEl2bHRqRkVDVGhPMTNXUXRlSF9PTzVWNTJFV1liUmFPeVE1TmRwSEU0bGlBOUw2NzdxMU92cUNjemhmbXJiSUR3akFYeHlOMlRSb0o3MlRHUzhWMEJVMXY3Vk8ta0x3elFlcW9OQkF3SkRPZ2NtemNDbER2cjN2UkE5OFc2Z9IB4AFBVV95cUxQa0dKUFVjYkhoWUdfQUJvd0JsZG15RlhsOEFEMGY3S1I5LWUyUFk3Z2ZhSXZkeXpzOFlWZG03VFFBRlJFNC1rblV4dnVSbm14ZjZ4c1JHSE04TmwzQ0NBWGk2d09xYXRTMXRBZkp3c2tyLTYxb2tBZjBYTXJ2anN6M1pJRWIyeDVnOERzd1dSeGtvS2U5LVM5VnVUMm91V3puaUpLR0dCQ1RMU2dXWEdfYWZtclFFcWxSenhSUUlyUVdrU1NqV3VTT1hSeXpYb1ZwaG9lVFlheFdOdkwxMDV6cQ?oc=5",
+          "time": "17h ago",
+          "body": "‘Two of the best players to have ever played the game’: Tymal Mills on Rohit and Kohli  The Indian Express",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Two of the best players to have ever played the game’: Tymal Mills on Rohit and Kohli The Indian Express"
+            ],
+            "tldr": "‘Two of the best players to have ever played the game’: Tymal Mills on Rohit and"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1789626895417",
+          "title": "Who is Naman Dhir, MI all-rounder who earned maiden India call-up vs WI? | Three-match ODI series vs WI starts on Sept 27 | Inshorts - Inshorts",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGlMSGZmQWMyTU41dlY0WFAxSVNzMXlaMUlkWmszRURDV1M2Qkh0UFlDUTFHUzhOenhwc19aTXVqcHRmUDdSaEhxX0s0NHlvSUNvSGk5ckpySGUyMVM5Z3B1eHp6MGNscmRkbWNPM0d1dDBTWHc5ZHlWdUMxdm9ic1plUllZWEt0Q1lnQWxHQWdpNEVfc2F4czJRNkQ4TWpSNkRTRUtwNmZsb29rblVmX1I3eXhWZ9IBuwFBVV95cUxNUl9jZklkU1ludi1mTjBWMVJmX25BX3lFbWFLM3E0WmVpS2xNRXlSdk43VzdWcWU0eERFSHJGNzk5bVd4Uk5rTUJNa2pHOFVzNkYyQkZ3eUcwQjJ0TW1DR1NDRjdFOFpBNFlnX3RZVXhTeXNsVVhHbE8xbUh6N2JBX0RIRlFZd1pqZ2lPOVN3bmt2OFBrWS1rQXR1eTRsNnYtOUdabUxLUlNFZDN3MWlfcEFaUDI1b3d2bnRj?oc=5",
+          "time": "13h ago",
+          "body": "Who is Naman Dhir, MI all-rounder who earned maiden India call-up vs WI? | Three-match ODI series vs WI starts on Sept 27 | Inshorts  Inshorts",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Who is Naman Dhir, MI all-rounder who earned maiden India call-up vs WI? | Three-match ODI series vs WI starts on Sept 27 | Inshorts Inshorts"
+            ],
+            "tldr": "Who is Naman Dhir, MI all-rounder who earned maiden India call-up vs WI? | Three"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1789626895417",
+          "title": "India to host IPL 2027 player auction; first time since 2023: Report - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaFQzUDVKSWRnT2cyQjNOZ0lOSFNrcmdDZVoyaDFWWGdhOEI2T3NGVFlMaUxPMGxnNG56VXd6RGN1dUR3cFNfWXFnU2p1ZG82VzZKS2NKS3QxdGFXeDZDeUdpalJxVk5JQ1UxT09JR1JfTHQtTF9ZbUd6ZUZaWXU5cFVCbkxVWm13amt0Wmlyclo1OXdvX1BjcGFFUGF3clJaWEVJbnBnMVZ5cy1VdTU0eVljSVJGcklUNDExTjVYNjdhRk5OZWsyalQ0d1_SAdIBQVVfeXFMT2NiUXJDWi1oVlpocXlTNGlFbEg0QVlHUGI3c3c0a1NGNlpyMUFBR0VsQlZGVkJUa0I3UXNjWUtmQVJ6SUVmd0djZzJuWDRPdWY0SDVNQW9PTy1jX0hKX05hZWJzcUpQdUtjRGpNVGduWU5KNWZPWnZoUnhXdWRqc3FOUXdiNkdVUm9CNHRPMkIwREVQOVhPOGxEWXpyQkhHanBsS0h1T3c1YlJyQXMwVXBYSk1iT1diWHlJTGJRUEJFRnZTMDZhWjE5bU9FM0tyS21B?oc=5",
+          "time": "23h ago",
+          "body": "India to host IPL 2027 player auction; first time since 2023: Report  Business Standard",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India to host IPL 2027 player auction; first time since 2023: Report Business Standard"
+            ],
+            "tldr": "India to host IPL 2027 player auction; first time since 2023: Report Business St"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1789626895417",
+          "title": "India vs West Indies | Ravindra Jadeja is back for ODIs as Naman Dhir and Auqib Nabi handed maiden call-ups - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS0p1QUdvUnhrWEw5eUM4VlRqUmZYSm1aNTFqZ0JTN2QwZlVUdWhobFEySld3ZjZOYTdfbVlxd0FnbFMxLXJ1cmN1aVh5bDFuOW1NNGM2aUt2U0ZLTXc2T1N5NFlzLXV5MUlza041Y3NjSzAyZ084NDhjX3NXR01YX0JLNUNRMEhxZklVS1ZLUGwyY2JxRnpPX0VwZ3RHZ015UXpwYzZWNC1ibFRiekVYTHFaYUt3RHE4NFVQUVhuakVmZk5WVUt2R1lrSnNSRmhZdGpuX3ZLUWozZTRyLWg1OFZSNnBqaGI5VnV0eGJoMnQ4MV85WWNTeU5VOFg5MHZ6?oc=5",
+          "time": "14h ago",
+          "body": "India vs West Indies | Ravindra Jadeja is back for ODIs as Naman Dhir and Auqib Nabi handed maiden call-ups  Deccan Herald",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India vs West Indies | Ravindra Jadeja is back for ODIs as Naman Dhir and Auqib Nabi handed maiden call-ups Deccan Herald"
+            ],
+            "tldr": "India vs West Indies | Ravindra Jadeja is back for ODIs as Naman Dhir and Auqib "
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1789626895417",
+          "title": "WATCH: Ishan Kishan’s ‘bismillahir rahmanir raheem’ opening at Afghanistan cricket board dinner goes... - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV2c3a2hJc0lGbUJwVnRDVW9TbGhPSmpQd2lzaWVaMFJTbmJOc0pXX1FWbnpjSzZyZlVCZlFVMEg4cmM0NzI3NnZJZUVOYlQybUdZVVd5bG5NRU5jUS1acnBSUWV4c2Q1Qm1aSm1FYUJtNUE5SmJQTkctRXNNR3VmWHU2QUJlMkYwMXN0ZWhKeFZWb19CUTF3RnBTUEU1NTNqTmM2czNISUQ5SV9hNnA3Tm9pVG9BNWM1OXQ0S1poYzRNZmxpVW5WSzA0a1RuSTl1MEZUVWU4dWxacG9EeG9JaERVUFVvWF9MMFBUeFhyMnBDV2tsc1EzLW83NjR5UdIBgwJBVV95cUxPbFcyY2wtM1diVjFOUy1hamMyV01QZ2txamwxUjlCNjg1a3gtQzJJUERPMlFtR213YmRwR18wLXd5VW1YNGd1eHRyeF9vZElucWNLTUpDSUxLcmFRVDJiNVk2d2Fjc2F2WmlleGZJNHphV21fUEFpeGZtUnJwcHR4bndzUEhtRnRjcUZzOEs5OGg0QnFYNDdubFRPb29sTnVfdmtkTXhLakg5VERwc1lIOHQwQTdJU21jcy13QTVpMnZBZDlROElyWVpvZkxJejg5MDMwRmlMOFF6N3oyR1E4Tm9jdmpfZFM2SFJ6STE2dURQVWQ1UjYzd1ZwdU9hNkRSX0RR?oc=5",
+          "time": "1h ago",
+          "body": "WATCH: Ishan Kishan’s ‘bismillahir rahmanir raheem’ opening at Afghanistan cricket board dinner goes...  Moneycontrol.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "WATCH: Ishan Kishan’s ‘bismillahir rahmanir raheem’ opening at Afghanistan cricket board dinner goes..."
+            ],
+            "tldr": "WATCH: Ishan Kishan’s ‘bismillahir rahmanir raheem’ opening at Afghanistan crick"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1789626895417",
+          "title": "Hardik, Pant ignored as Dhir, Nabi get maiden call-ups - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmVjS0pBcjhxSENwa2RqMXJUTnE5MFg3aGg3U05LdGVweHNkLXN0LWlkeTQzWU5lQndqZ1RjRV9sd2xOMTdFUkpjaDF2bWNVOEtiVmEwS3AybDA3Nm8zV2hVQ09qclIxdHBOZ1FJaTBrWkVOejdfWDRLYTJKT2xxb2d6WVdvWDRpeEtzaU1XTXpHUdIBkgFBVV95cUxQRmVjS0pBcjhxSENwa2RqMXJUTnE5MFg3aGg3U05LdGVweHNkLXN0LWlkeTQzWU5lQndqZ1RjRV9sd2xOMTdFUkpjaDF2bWNVOEtiVmEwS3AybDA3Nm8zV2hVQ09qclIxdHBOZ1FJaTBrWkVOejdfWDRLYTJKT2xxb2d6WVdvWDRpeEtzaU1XTXpHUQ?oc=5",
+          "time": "7h ago",
+          "body": "Hardik, Pant ignored as Dhir, Nabi get maiden call-ups  Daily Excelsior",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik, Pant ignored as Dhir, Nabi get maiden call-ups Daily Excelsior"
+            ],
+            "tldr": "Hardik, Pant ignored as Dhir, Nabi get maiden call-ups Daily Excelsior"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-2-1789626896983",
+          "title": "Indian-origin shooter becomes only second Canadian to win two national rifle titles",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin shooter becomes only second Canadian to win two national rifle titles. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin shooter becomes only second Canadian to win two national rifle titles. [object Object]"
+            ],
+            "tldr": "Indian-origin shooter becomes only second Canadian to win two national rifle tit"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1789626896983",
+          "title": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’. [object Object]"
+            ],
+            "tldr": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He ha"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1789626896983",
+          "title": "Indian-origin woman shot dead by stalker in California",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin woman shot dead by stalker in California. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman shot dead by stalker in California. [object Object]"
+            ],
+            "tldr": "Indian-origin woman shot dead by stalker in California. [object Object]"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1789626896983",
+          "title": "Indian woman in Canada arrested after tenant shared videos alleging harassment",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "An Indian-origin landlady named Raj Tiwana was taken into custody after a serious disagreement with her tenant regarding a barbecue incident. The tenant released viral footage accusing her of harassment and tampering with property. The conflict intensified, resulting in allegations of unauthorized entry and change of locks. Police intervened at Tiwana's residence, but the specific legal charges are yet to be disclosed.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "An Indian-origin landlady named Raj Tiwana was taken into custody after a serious disagreement with her tenant regarding a barbecue incident.",
+              "The conflict intensified, resulting in allegations of unauthorized entry and change of locks.",
+              "Police intervened at Tiwana's residence, but the specific legal charges are yet to be disclosed."
+            ],
+            "tldr": "An Indian-origin landlady named Raj Tiwana was taken into custody after a…"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1789626896984",
+          "title": "Murders planned before: Indian-origin California woman Anila Baby, charged with killing two of her best friends in separate attacks, appears in court",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Murders planned before: Indian-origin California woman Anila Baby, charged with killing two of her best friends in separate attacks, appears in court. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Murders planned before: Indian-origin California woman Anila Baby, charged with killing two of her best friends in separate attacks, appears in court. [object Object]"
+            ],
+            "tldr": "Murders planned before: Indian-origin California woman Anila Baby, charged with "
+          }
+        },
+        {
+          "id": "mumbai-general-8-1789626896984",
+          "title": "Indian family deported from Canada after asylum claim fails: 'When Canada needed Harish, he was essential'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian family deported from Canada after asylum claim fails: 'When Canada needed Harish, he was essential'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian family deported from Canada after asylum claim fails: 'When Canada needed Harish, he was essential'. [object Object]"
+            ],
+            "tldr": "Indian family deported from Canada after asylum claim fails: 'When Canada needed"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1789626896984",
+          "title": "He came to Canada to study. Then he protested and was ordered to leave. Gurpreet Singh says the intimidation worked, students are now afraid",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "He came to Canada to study. Then he protested and was ordered to leave. Gurpreet Singh says the intimidation worked, students are now afraid. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "He came to Canada to study.",
+              "Then he protested and was ordered to leave.",
+              "Gurpreet Singh says the intimidation worked, students are now afraid. [object Object]"
+            ],
+            "tldr": "He came to Canada to study."
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1789626898265",
+          "title": "Government will fulfil all accepted demands of the Maratha community: Maharashtra CM Devendra Fadnavis - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSVZiM1IycHRuaW4zaEdhYllielJqdVdQTDBRbnVHZFNlTFk3N09xQkdwSlJpdFUycG4wSE56bzdHSkQ3WjcyaGJ5ejJNOWhIbFd0T0xSX2doYlk4MHY3dTlHa0FtMjJKaU1pU2x0bDcxZ0FiRmUtbE5MWlEtcFk3dDhJQVFCRGJuMXFEOTJZUEcwVkhRcHZTRWwwZzdqQW1fancwZnJBUDZacm1CQ0xoMklNRFNyWjMzMEs2cm9pb2ZVcWNnTEE2ZnpRc3ZSQi1VQ3RjNHdKWENSYmdmemx4VHMwNjdXOGpWSThjdg?oc=5",
+          "time": "Just now",
+          "body": "Government will fulfil all accepted demands of the Maratha community: Maharashtra CM Devendra Fadnavis  Deccan Herald",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Government will fulfil all accepted demands of the Maratha community: Maharashtra CM Devendra Fadnavis Deccan Herald"
+            ],
+            "tldr": "Government will fulfil all accepted demands of the Maratha community: Maharashtr"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1789626898265",
+          "title": "El Nino: Maharashtra faces 17.5% rain deficit, Chhatrapati Sambhajinagar region worst-hit - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc0dHZzc3YjBWbzVUMVNjMnY4dmRaUDFHWkdHVW5VODVwR0lVTDdhWXY3N1llbTg5Q2o1NzJ5LUVEdE9RdTRCTkRIVG9RbXdKazNqbjFMbm9JX3pUUHE2N1ZjcW9HUGExQ3Q0dExhclE0TS05bGk1OEhCN25ZTXRqdnNhZTdMN09JMlV4YVcwZEVvWEE4WWxRM0VxbXBzeUhVVmhPbGtBdjRYdHJPd2JkNVpkZXg5MlQtdVFZeUtBY0JVQVFWZEF2MUtYZnBpRnFGSU5BLXZUU2JXQ3YwZ29ndVI1NjR6VFZ2T0lycTB2QlVsQdIB9wFBVV95cUxQNUtxNF9Xa0p1a29Rdm5HZUUxYldsM3BDOVZvYjluMzRuNmZOVmZaVjRsQ25FSDU3aWtiSno5aVBCYXZLbktKUDV4dmJzYmN0c0dXNG9zVFZqZENXbnd0YTdOVVloQlFMWnd1VHVxaXluWDFuMnRSUmZTUWhackY3cHNrLVFFWmlsTWtLSXhfOE1pX2tvZVJKdGNfSDJ5dkU3YU1aSDZXTUw5RmJpLVlDTzNNRGRpSjFmblI2eGRCeWcydmUyQk0zQXRfMEVSQUtiYkZGWW9qZk9rOWxteE12aThhdmRTWGtTclhETW1MeWRKZGhjRFEw?oc=5",
+          "time": "14h ago",
+          "body": "El Nino: Maharashtra faces 17.5% rain deficit, Chhatrapati Sambhajinagar region worst-hit  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "El Nino: Maharashtra faces 17.5% rain deficit, Chhatrapati Sambhajinagar region worst-hit The Times of India"
+            ],
+            "tldr": "El Nino: Maharashtra faces 17.5% rain deficit, Chhatrapati Sambhajinagar region "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1789626898266",
+          "title": "Crop loss surveys to begin Oct 5, Govt will stand with farmers: Fadnavis - Awaz The Voice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGxDdE1mUV82eUU3QXBoV3pLUWtfOVkzY0Z3Vno3Tkt6WGF0c1lOZDNTQmQxZmJTTVpQY1ZoMlphV0ZJOHczZ2pld01RVXl5S2RZaUUwUXJOam9YU2pTWGVXUW5PWE5DLUpsakJBUFdNUTNPcFB0T3VCbGVHNDVOZVJHVThmQzlKMnBOSzhxRk1CUElNRXZlSDRhVnhLRTgxeGtKb3drRG1qTVEwZk9HUkVBalZQZDU2akE?oc=5",
+          "time": "Just now",
+          "body": "Crop loss surveys to begin Oct 5, Govt will stand with farmers: Fadnavis  Awaz The Voice",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Crop loss surveys to begin Oct 5, Govt will stand with farmers: Fadnavis Awaz The Voice"
+            ],
+            "tldr": "Crop loss surveys to begin Oct 5, Govt will stand with farmers: Fadnavis Awaz Th"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1789626898266",
+          "title": "BMW i7 Rolls Out of Chennai: India Joins Germany in Luxury EV Manufacturing - Indianweb2.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUNUcnRVMXFUeWE3UTBFc2VRUFJ4dFQtVUJmT1lCR2RfZXFvZGYxbmhWdTZHMHEtMVpRQm5CaGlMWUFCVUctWUZ2NERpZHV3TnhzNEJEdkVsd0o4QlJBYVFiY0p5am44VWRrS2NlVDVSX0YwaE9FNGtVSW9id0VxUDlaM2MxZw?oc=5",
+          "time": "3h ago",
+          "body": "BMW i7 Rolls Out of Chennai: India Joins Germany in Luxury EV Manufacturing  Indianweb2.com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BMW i7 Rolls Out of Chennai: India Joins Germany in Luxury EV Manufacturing Indianweb2.com"
+            ],
+            "tldr": "BMW i7 Rolls Out of Chennai: India Joins Germany in Luxury EV Manufacturing Indi"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1789626898266",
+          "title": "IV set bought for Rs 11, sold with Rs 325 MRP: Maharashtra FDA seeks price caps - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcTM5dDVZUGNxM3RubVJURElOUHNBdzdYaGVvT2hqaDdveVFzMmVtN1czbG95VkZrVl8zQ2dRN09oRGRWcGJTcjcxRGJIRWhYU2QxYkgyVzJzdjFCQzh2OWx1Q2cxRl9zWWxxa2ttVFdiNDBKZUh2TmNZSENMaG42cHBUNWMyMjktVUdGeVhRSTBpTFhWdnVnTno1b2V0ZjNzeGQ2Tkc0U2pXdEVILVNCY1VicHUtLVVDRFhyek9IUktVUUhXZmw5dDhxLXNKX0XSAdYBQVVfeXFMUFdtZUdnSzkzTE5ZQ0tyN0FpdTU5NlFOQ29iTnF3YjNkR0lfeUxRU3FIa3ppR0JUUzJCUkItdVdfYUZIUDJNc3VXQzcyb3NMUUR3SG9VOWxDNGplMy0wcHZxT0F0MDhiczZ4elh1UHBHeWVMbGRPb3RrOUx4YWRiLWtpQ2lDUmR1LVRqd1hFUkkyVGVFQ0d5eko4QWNFcV9aa2gtRFBpWnF1MFRMaWtzcU5HdXlLMDU3MjhYSXlxLWdVOWxVOUxUdUQyVDg0VkxjRWRUUzVLQQ?oc=5",
+          "time": "16h ago",
+          "body": "IV set bought for Rs 11, sold with Rs 325 MRP: Maharashtra FDA seeks price caps  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "IV set bought for Rs 11, sold with Rs 325 MRP: Maharashtra FDA seeks price caps The Indian Express"
+            ],
+            "tldr": "IV set bought for Rs 11, sold with Rs 325 MRP: Maharashtra FDA seeks price caps "
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1789626898266",
+          "title": "Maharashtra FDA crackdown: Tukaram Mundhe-led team seizes adulterated food products worth over Rs 10 lakh; three arrested - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQblBCTkN2S2dZUUt6UFA4UjhPX0pVZGo5TkZCc3ljbVlWNVZ2VlVZa1p5aHVCX3FNa1UteXNNSXMtMndkbnZpeGh0emNDNk5LZ1lOWWh3Z09KRWxHSkJhdTg1aTJRa3Rzb0h6TjQ4RERNRHRCNnlwSXBQeFNWRmlQeENkcVN2ZVMybnJoOHkwYURXbU9BNUpabWNPbC1IdVVEVHZnU2VBZGpSeWF4Z0tjTlZXcnNIVVJyNVpEVEJGdndVYUQtZkRRZFlnbE15RXh5NTZveTF6dVNEajBnSFEwOENCWXFobmxmX2d6WGV4RzZRUUNKLU5Ba0VKUjZPR01GUWwyZzJLb1UzaTc3allZatIBkAJBVV95cUxQblBCTkN2S2dZUUt6UFA4UjhPX0pVZGo5TkZCc3ljbVlWNVZ2VlVZa1p5aHVCX3FNa1UteXNNSXMtMndkbnZpeGh0emNDNk5LZ1lOWWh3Z09KRWxHSkJhdTg1aTJRa3Rzb0h6TjQ4RERNRHRCNnlwSXBQeFNWRmlQeENkcVN2ZVMybnJoOHkwYURXbU9BNUpabWNPbC1IdVVEVHZnU2VBZGpSeWF4Z0tjTlZXcnNIVVJyNVpEVEJGdndVYUQtZkRRZFlnbE15RXh5NTZveTF6dVNEajBnSFEwOENCWXFobmxmX2d6WGV4RzZRUUNKLU5Ba0VKUjZPR01GUWwyZzJLb1UzaTc3allZag?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra FDA crackdown: Tukaram Mundhe-led team seizes adulterated food products worth over Rs 10 lakh; three arrested  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA crackdown: Tukaram Mundhe-led team seizes adulterated food products worth over Rs 10 lakh; three arrested Mid-Day"
+            ],
+            "tldr": "Maharashtra FDA crackdown: Tukaram Mundhe-led team seizes adulterated food produ"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1789626898266",
+          "title": "Mixed reactions across Nashik and Chhatrapati Sambhajinagar over new 0.4% UPI charge - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYVJYSG1jYnZxNHZTczJFLXhSbkpOWXFZa2hMUGl0Z1dQekdxWDQxRlBVM3FheVdWY1B5UF9qUEdvY1Zhb1E5ZUFCZzRvdklIY3NSMmdGUDJZQmFQTkFCQ3pwMkFrYk9PeHdEX2JpeEtDdHg4MWQ3VnVXUDQ1Ry1EaS1PV0IzSDZXM3h2Qk9veDNhdnRSWWJQaDVRSHpVc1JKWGpzZmJ6WjI4TC1MYlB3VkFhMHhOX0x2cUlXMGtrV1VWWURZLXRvcFQ2eUZuZ1FDSlJ1dWJiUTF4X2o5dnRUYmVwVzFNZTZvMG9PQVln0gHzAUFVX3lxTE1IYnFRUVl3ZDdMT081YXFPUi1YVGM5UWlVeXFSc09URTRESDBFSGdUeVlOQmZETnlMUDZ2N1k2cnBWZFJqbVZfazFsVjAwNEVhNExrNklYbUlMS2RsV0FyMlZaSWgzMm1FajlMUFZRWnVlVXpjTFVoeGxJUlJvSFlWdHRLNHd3NzJoUm9ZcjlEUjZrTERXSmp2cnZEb1l4Qk90aHFySTR3TG9HOThUOWhIeDlGTEdvQXZRdmRTNG84dW5TQkl4dW1OTE5HdWVvM2ZzSnVSZ09ZV2Rtb2F1ZmR6djR0c3VubzJPMkxlckY3MGkybw?oc=5",
+          "time": "12h ago",
+          "body": "Mixed reactions across Nashik and Chhatrapati Sambhajinagar over new 0.4% UPI charge  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Mixed reactions across Nashik and Chhatrapati Sambhajinagar over new 0.4% UPI charge The Times of India"
+            ],
+            "tldr": "Mixed reactions across Nashik and Chhatrapati Sambhajinagar over new 0.4% UPI ch"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1789626898266",
+          "title": "CJP To Start ‘Adivasi School Thik Karo’ Drive, Focus On Tribal Education - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFJLVUZzNHBFaW1WSmlwVHJ2azJZbTUwVmpsRzJuTU5jeUdrb3NvTDBMajVmVVVJS1JVVUk5bHN3TUg5MzBiLUoxWjBXRUk1X2syOFR6bkFtYVNkYVdvRGdIX0lkN3hsdFR3MlVVT0ZrTU9RSFlMSnAyUlpmUHdfTExNWGY1U0ExejNkNzhzRXdkUzhaSVJRbTFtanVCMXhmMWd4LWlvWGhfeUHSAbgBQVVfeXFMTndzejR6dDVXQTRFX19Rb3hZMXgwS2JHUkFhd1puWlhmaDNxWHBSSE02ZHJZcWp0aTV6RjI3MUtwTUhfRTVqV0Z5eXVOQUprbTlBejFPRTA0dEtnS2ZyLURyVVJ5WWIzN01iWEJtYnZEYjZESG91bHdZekoyV3dsSHRiQVJqbkthWjdUVFBpSkxJZ2FFbFBycWZ0THQ3eGVoVC1ucHVqU0VUM3VHbU1lUDFPV3I3dDR3dw?oc=5",
+          "time": "17h ago",
+          "body": "CJP To Start ‘Adivasi School Thik Karo’ Drive, Focus On Tribal Education  Outlook India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP To Start ‘Adivasi School Thik Karo’ Drive, Focus On Tribal Education Outlook India"
+            ],
+            "tldr": "CJP To Start ‘Adivasi School Thik Karo’ Drive, Focus On Tribal Education Outlook"
+          }
+        }
+      ]
+    }
+  }
+}
