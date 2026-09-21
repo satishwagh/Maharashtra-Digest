@@ -1,0 +1,794 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T06:58:04.591Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-1-1789973878939",
+          "title": "Cockroach crashes doctor’s dinner at Mumbai's top hotel, he tags FDA chief: ‘In Tukaram Mundhe’s territory' | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFEtTDQtQmpkVkdwVVRZTkF2UmpJRG9TcVpWTVBLdXVWalFKWEZSTzlHcV84VjZSMjdoTVBlUTVQMUxKS2VOR2s1QklWUXVYVUdWd0U4OWFYOVR3OEhPRTRZNXpOQ0hSZW5VclM1eXhRRDZ3WldYQ05YZUdVWGdrbU1sQnczN1I5Mm9HdjdLVjNISWRXdzBTb2lnd080azVRLWp3bXJvWFFJbG5YRHhrQkpZUzh2YjhDNGZzOHFCeDZ6MDdBM1d5ZHN1eW5VeFVlQmNDSFM4NmlNa1FZa3R0dGRsOUxOWnkzRFkxTHRiNjRaeVhwZ2hsRtIB_gFBVV95cUxPalVUb2tMQjNOWTlPN1pOM3dsdndKNE9yNU9KbjFEcE9CSmpfRy1YbDQ3UGswMlpXYUZMRjZHTm9ISGxvZlYtb1gyRVdzb2x0SUVQc2ZvX0dGbWRjV2E3RGI3U1Z0T21saGZjZmZMMFMtVHcwSmhHeWs0NGcwTE0wUnp1Qk1semRWRnA4WGIxY3E2QzNyNHc4Qk5RcU52Y2YxdElsSEE1VGFmaEtmVW1LSTQ0NWtZZHJ1Z1BzbzdYUlpma3pQM2E3R056M0xJcW1kbVJVT0dnY2V1RzNicEQzQXBrLVRaenY2MHN2dEpFRFNoc3d3NEdWaC1va09Gdw?oc=5",
+          "time": "Just now",
+          "body": "Cockroach crashes doctor’s dinner at Mumbai's top hotel, he tags FDA chief: ‘In Tukaram Mundhe’s territory' | India News  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cockroach crashes doctor’s dinner at Mumbai's top hotel, he tags FDA chief: ‘In Tukaram Mundhe’s territory' | India News Hindustan Times"
+            ],
+            "tldr": "Cockroach crashes doctor’s dinner at Mumbai's top hotel, he tags FDA chief: ‘In "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1789973878939",
+          "title": "Maharashtra: The return of Jarange, the coming of UCC and a ‘feku’ badgya - National Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUFaWVN4SXpXWmxBTko3Q3czQkFyWFNsTlJ5WGpOYzhQLXh3NWRWZFRtbHVrQjFVYmlmVUlDeFJVTlUxYVlqTWd3NFpZbVgzTm5XYzlsb2VfbmlNcjJCNnFOVzRJVGd0VmRWNDE1bWw1dzVpMG9VdkNfbUFMenVqRWRGZWZTZzVwdG5sQWZlWDNzX3MyTW1LbUNyZWU1X0tidnFlMURNNjhMNTczZksyTExlRzFXRkZVV1hKTUN0SGtYZ9IBwgFBVV95cUxPYUFaWVN4SXpXWmxBTko3Q3czQkFyWFNsTlJ5WGpOYzhQLXh3NWRWZFRtbHVrQjFVYmlmVUlDeFJVTlUxYVlqTWd3NFpZbVgzTm5XYzlsb2VfbmlNcjJCNnFOVzRJVGd0VmRWNDE1bWw1dzVpMG9VdkNfbUFMenVqRWRGZWZTZzVwdG5sQWZlWDNzX3MyTW1LbUNyZWU1X0tidnFlMURNNjhMNTczZksyTExlRzFXRkZVV1hKTUN0SGtYZw?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra: The return of Jarange, the coming of UCC and a ‘feku’ badgya  National Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: The return of Jarange, the coming of UCC and a ‘feku’ badgya National Herald"
+            ],
+            "tldr": "Maharashtra: The return of Jarange, the coming of UCC and a ‘feku’ badgya Nation"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1789973878939",
+          "title": "Better For Congress If Rahul Quits Party, Becomes Stand-Up Comedian: Fadnavis - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHk5c1BaZkFzQXd4c1p3a2wzLVJTZlFnZlJJRDAtcXlHUVVCOFJXT1NrYXZVM1pEREEzVnJZTngzVVRtQTBzR2ZtOHpVVjRhbG5xYmdudG1CNENIMWRMYWVZMU94YmMwZW5kMDZ2aFN5LWhFOF9La2NXNWJwdnBnVjRfX2wwczRKQTN3aXo4aTlicHNlalJJLVNmR01YRUlpMTVmX1RSckgwTVhqeElkbGJyWUZqdS1nQk96c1VZc0xRUnZFS295ZExkR29FZkdZ0gHWAUFVX3lxTE9VZFJSNWtjZWZLbDBUNGdoOExXQVR0TFhTSWg1Ui1DVGJrMnM4YlctLTNlLS05dUo5UW5uZGhIRU80M2R5M1d0NkV1bzBxRU5wX3dGcG1tN1JtQzBLeXM4eGJjQXBxNm45UnJSOXA5WTdtVG9ob1NSaUdtN0ZoOFpOVURrblhScTZKUnNURW5aUGZUbDRHS3pMWE9jODZrOVZNdWNkSFg0RzRsV1JVSGRUWlhkTXp5ZHdWN1BzaU5BdGRZWmxUb3l5UGRfVld3aHVRYU1IbEE?oc=5",
+          "time": "19h ago",
+          "body": "Better For Congress If Rahul Quits Party, Becomes Stand-Up Comedian: Fadnavis  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Better For Congress If Rahul Quits Party, Becomes Stand-Up Comedian: Fadnavis Deccan Chronicle"
+            ],
+            "tldr": "Better For Congress If Rahul Quits Party, Becomes Stand-Up Comedian: Fadnavis De"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1789973878939",
+          "title": "\"It was bound to happen...\": Sanjay Raut takes potshots at BJP, Election Commission over SIR notice to Kejriwal - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFJ5aXE4a011bnRqUVJWNzVrMW9YMzhDU2lfTk1oSTFYZy04THZjMjBqNDZIQWF0bS1Zd0luUXh4eEpCQWZFbHVqMUxFUXFIVTRHcE0tOWJrRHFWSnhMQTlTU0l4dldjd1lZMHo1VDFEZGtac3NwWW9GNk1MREYteE5zbUoyTVZ4azBiZFRMT2xUT0NuTWNldEZQSGU2T0E1ZFlGQkZZUE52cmNkYnVGYllRMnhBQnFTLUJZSHpKNzJiaUw2akkzUmQ5bkwta0s1czdsSnQ0cU45TjQ5LVNLTUln?oc=5",
+          "time": "20h ago",
+          "body": "\"It was bound to happen...\": Sanjay Raut takes potshots at BJP, Election Commission over SIR notice to Kejriwal  indiagazette.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"It was bound to happen...\": Sanjay Raut takes potshots at BJP, Election Commission over SIR notice to Kejriwal indiagazette.com"
+            ],
+            "tldr": "\"It was bound to happen...\": Sanjay Raut takes potshots at BJP, Election Commiss"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1789973878939",
+          "title": "Coastal Road, Thane-Borivali Tunnels and BKC Link coming up in Mumbai, says CM Fadnavis as he outlines five-year plan for city - mid-day.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMjVWako3QkVFeTJBQ0hSYnN1UzdpSHJJX0dZWFYtWERlMFRqSHNwNTExX2ltVVRSRUpKNkpobEJ6OUdJaTQ3SVVmMWt1dE9sczlsS01UZGtpU1RaQ3k4clkzZmlONklhNk5rSnFSMnVOY3ppcFJLR0hIQUZCMnpTY3d1UWFCZnVHUzN5LVB6ektZdURWNjdxbDBFSnBvVWh0eWV0QUdwam9DNHQ0WExiV1BwREZ2YS0wZzBZOEQ3R2J4WlY3US1EUm02cF9wQ2lfNk9ZVkk1ZDVYSHEtRHVIZm1XVTFGRHkxVGlrQi1jQllyNTg2UkRrd3BZczNsSUV0dnJ5UEdIdTgwdXBlTG45VGlMZWZjalhCOVJnRmphay3SAaACQVVfeXFMUDI1VmpKN0JFRXkyQUNIUmJzdVM3aUhySV9HWVhWLVhEZTBUakhzcDUxMV9pbVVUUkVKSjZKaGxCejlHSWk0N0lVZjFrdXRPbHM5bEtNVGRraVNUWkN5OHJZM2ZpTjZJYTZOa0pxUjJ1TmN6aXBSS0dISEFGQjJ6U2N3dVFhQmZ1R1MzeS1QenpLWXVEVjY3cWwwRUpwb1VodHlldEFHcGpvQzR0NFhMYldQcERGdmEtMGcwWThEN0dieFpWN1EtRFJtNnBfcENpXzZPWVZJNWQ1WEhxLUR1SGZtV1UxRkR5MVRpa0ItY0JZcjU4NlJEa3dwWXMzbElFdHZyeVBHSHU4MHVwZUxuOVRpTGVmY2pYQjlSZ0ZqYWst?oc=5",
+          "time": "17h ago",
+          "body": "Coastal Road, Thane-Borivali Tunnels and BKC Link coming up in Mumbai, says CM Fadnavis as he outlines five-year plan for city  mid-day.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Coastal Road, Thane-Borivali Tunnels and BKC Link coming up in Mumbai, says CM Fadnavis as he outlines five-year plan for city mid-day.com"
+            ],
+            "tldr": "Coastal Road, Thane-Borivali Tunnels and BKC Link coming up in Mumbai, says CM F"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1789973878939",
+          "title": "Nila Vikhe Patil, member of Maharashtra’s political heavyweight family, elected to Sweden Parliament - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUGNWeUZFSVg4S2NGVDhrM2s0N2Z0dFE3TWU5dFBrMGNrcjhkNlhSbzFTZmZTbGZXQmIxQ0RLY2ZTNXB5T1lpV2pYdlZtMG9wNmlBTnBZTVY4cHUyZEw3U2RPZkkweU1BVkdHNW1jY2dsSDBYSmJYcEFRWmtRUUlHNkFtejB3QzJwMzFtZUxWeHhnanZHNV9XWlFnSWFUOFJQMUJIT291MkFSaWlYb1dlUzFPM1d3VzVFcFV5NWltRTBwTWJBZXZBWGJwNjFCTU1UaGZuNkg1WTRyaHVZNnQxYkxOcFB4M2JuU3pFWWYxOTk4Sld0X2xiSUFnLW5CZ9IBgwJBVV95cUxOV2lzZW0yb3BLUDVmcnRRQlh0SjFCSi1EMHVjNXFCYXdFNUtZN0RHd3dNMFlvb05uWnBRalhLZ2g1cWk1SlgwMjNLcnBaWm5BWFA3aUxQWFEwZ2lINjdCMnotNFNXNExjSHNUQUdmQlVObU1IMkRDNlhwVEozTmV6WnM1aDJrMTRJNzRkWl84dVhibVB3OHFCUXN5cWZ5UGp6aDBfVDRIbm54aW1TdjNYa3JLb2xUS0liNmdoZnpNc3Q0YWlMcnRyaFkxWEVtVHhSUUhOaldwRk9DWFdQbVFibnRMVERTTExkeUpYT3NfQ2pDdTcza0dWXy1YbDVJUV80Tkpr?oc=5",
+          "time": "21h ago",
+          "body": "Nila Vikhe Patil, member of Maharashtra’s political heavyweight family, elected to Sweden Parliament  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nila Vikhe Patil, member of Maharashtra’s political heavyweight family, elected to Sweden Parliament The Times of India"
+            ],
+            "tldr": "Nila Vikhe Patil, member of Maharashtra’s political heavyweight family, elected "
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1789973878939",
+          "title": "Gavakadchya Batmya | गावाकडच्या बातम्यांचा आढावा | Maharashtra Politics | Jarnage Patil| CM Fadnavis - News18 Marathi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVEFjVVVUaHRocHBvZnNzaWFxVnZtRk1sVTZTT1NEWVh3WUdaYzdOTFJjNzlKSHlDWDhzM1M0YWwzbjgxcndqNkVvRGRaNnFsU25Rb3pxTHc3d1Z2MDExNllyNHRMNUdGQmFfZ21jRlN1MW9yTXNQQVJQODJ5c25YYmJHc3N0djh2ODFLelV0R1lFUktQbGJHTEk2ZzdKTFV2cnR1RWdkSXhCOXdsSjlHRHlxX0thcGhYN1JzMTczRDI?oc=5",
+          "time": "17h ago",
+          "body": "Gavakadchya Batmya | गावाकडच्या बातम्यांचा आढावा | Maharashtra Politics | Jarnage Patil| CM Fadnavis  News18 Marathi",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gavakadchya Batmya | गावाकडच्या बातम्यांचा आढावा | Maharashtra Politics | Jarnage Patil| CM Fadnavis News18 Marathi"
+            ],
+            "tldr": "Gavakadchya Batmya | गावाकडच्या बातम्यांचा आढावा | Maharashtra Politics | Jarnag"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1789973878939",
+          "title": "Maharashtra CM Fadnavis outlines major infrastructure push for Nagpur and Chhatrapati Sambhajinagar - mid-day.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPei1DZmhmUjV2NnpLMWVUSVNNTU05Vmo5UkVudy1tTVRIcnFnZGs3UnRWaUpCSkZhRGFkR1lkeF9IcURtUW5UdTBwdzdMTlFnbkpGZWFxZDY4cldxczZJWVM0Qm9ub2t4OG9KQzVuRVB3c1l3eUV5aFFSaG9leGZ6X0E2QzI1cl90bVBNa1VPN3QtdXY1aEVrVHRWUUV5MzBmWTg4YzBHdF8yQTN0RzQ5a09CVmx1ZGtfWUZDZEtKQkRDc3R1ajRkUXhMenlMZHdnbExTYzFFbnN1MmdxVGxkRHA5NkdZZXhkYU8xQVg3TEtkcTRJbnfSAfYBQVVfeXFMT3otQ2ZoZlI1djZ6SzFlVElTTU1NOVZqOVJFbnctbU1USHJxZ2RrN1J0VmlKQkpGYURhZEdZZHhfSHFEbVFuVHUwcHc3TE5RZ25KRmVhcWQ2OHJXcXM2SVlTNEJvbm9reDhvSkM1bkVQd3NZd3lFeWhRUmhvZXhmel9BNkMyNXJfdG1QTWtVTzd0LXV2NWhFa1R0VlFFeTMwZlk4OGMwR3RfMkEzdEc0OWtPQlZsdWRrX1lGQ2RLSkJEQ3N0dWo0ZFF4THp5TGR3Z2xMU2MxRW5zdTJncVRsZERwOTZHWWV4ZGFPMUFYN0xLZHE0SW53?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra CM Fadnavis outlines major infrastructure push for Nagpur and Chhatrapati Sambhajinagar  mid-day.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Fadnavis outlines major infrastructure push for Nagpur and Chhatrapati Sambhajinagar mid-day.com"
+            ],
+            "tldr": "Maharashtra CM Fadnavis outlines major infrastructure push for Nagpur and Chhatr"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1789973878939",
+          "title": "Union Bank of India wins first prize for 'Union Srijan' House Magazine - SMEStreet",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHc5THRRazZQX21uYjktRUtjdzJIRHdzYXktMm8zQnpHVldXMTltV3ZmQWJNeVltNFdodkJKa3kxVmpzMThXZjJoVHQwZG1DOG9DUUxVRnI4VDl1cV9Lc0RnaE9GZ050a1hzdVZiUjZLTGdJQ0RlVGxBUnRfVmU4T0hCRDNUU3JEVl9KcFBpb29ENkw5TTRPWXh5Y1VTSjBCNDF1QVZjXzRiQdIBqgFBVV95cUxNNHc5THRRazZQX21uYjktRUtjdzJIRHdzYXktMm8zQnpHVldXMTltV3ZmQWJNeVltNFdodkJKa3kxVmpzMThXZjJoVHQwZG1DOG9DUUxVRnI4VDl1cV9Lc0RnaE9GZ050a1hzdVZiUjZLTGdJQ0RlVGxBUnRfVmU4T0hCRDNUU3JEVl9KcFBpb29ENkw5TTRPWXh5Y1VTSjBCNDF1QVZjXzRiQQ?oc=5",
+          "time": "1h ago",
+          "body": "Union Bank of India wins first prize for 'Union Srijan' House Magazine  SMEStreet",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Union Bank of India wins first prize for 'Union Srijan' House Magazine SMEStreet"
+            ],
+            "tldr": "Union Bank of India wins first prize for 'Union Srijan' House Magazine SMEStreet"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1789973878939",
+          "title": "Maharashtra sets up sustainable public finance committee - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnN6Q0xGWjFlWVU2cmJGTmh3VTY0TVpBdG0yeVRXNm1DbTM2X08xcmRwT2d0Y2dhcUlTUUVRWWc3YU9UWGJUeUI5VENabkd4cGVtNzRScGhCVVl1dmlELTNMY0ZraVl0S0N6WTA3Z1FBWllZU0VyajJsSUpzSHpKRUdhRlk5Sy1oU3VtSDA5UWJjbWpYLUg3a1J1YWpSR0hQT1J0WVdMTXZUN1BtRXJEVVlYaDg5M0tHbC1qVmdBSlZ6Q1ZVVXVmYjdfVF96c2_SAc8BQVVfeXFMUEpzekNMRloxZVlVNnJiRk5od1U2NE1aQXRtMnlUVzZtQ20zNl9PMXJkcE9ndGNnYXFJU1FFUVlnN2FPVFhiVHlCOVRDWm5HeHBlbTc0UnBoQlVZdXZpRC0zTGNGa2lZdEtDelkwN2dRQVpZWVNFcmoybElKc0h6SkVHYUZZOUstaFN1bUgwOVFiY21qWC1IN2tSdWFqUkdIUE9SdFlXTE12VDdQbUVyRFVZWGg4OTNLR2wtalZnQUpWekNWVVV1ZmI3X1RfenNv?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra sets up sustainable public finance committee  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra sets up sustainable public finance committee The Times of India"
+            ],
+            "tldr": "Maharashtra sets up sustainable public finance committee The Times of India"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1789973878939",
+          "title": "With water stock in Marathwada at 46%, tanker deployments double in 2 weeks | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVdMTTVpZWNySVhIbzBMemJodFhlX1JRQmh6czh1eExaN04zUUFjREFGM3dOeXg3UG9JM1pTRG1wTFBvemVnRHBReFE3MEJHb2pMUEFHQnZZYzI2cTcwYlhRQzFPMEdDdVdSeTk2RWFUOF9iMWp2cmhYckdWOE1ybTk2N0JlWDR3RnNwcmhvM21PSHMwMHRLWXI0QUw3ZEtnZVU3LWY0NVF5cXFfMDRLYWVJWjhLX25nY1hyTzdkanZGT0kzT0ZWQWwzdXJTU3JubGUySThDNUNMdW5P0gHiAUFVX3lxTE8wbjRMTEp4UUJ2OVR1ZHFxM2tHWFdKZWlCYWRSX3dHY01YMldncHZVbTVqZDNndks3b3gzcHlxdUh0bWJpNU9LcDd0cWxfeHlEVXlQdV92Wk9JMnh3X3RjMk5yaldsbmRrNHpLRGlNMUdtZXBxWnVIbzhWN3p6OHNKYzNOWklyaUFwSkNFVzNXTWhJWWdQZWx1TjhmNHN4ajc4VGNqNERNcjdlT0YwM2tvUnlvZFZSaWZ3Ul9HSjFkVHl5S0JVVG9ZanpDUlRuMDd3ZmowOG41bUZFM3J3WEJ5TkE?oc=5",
+          "time": "4h ago",
+          "body": "With water stock in Marathwada at 46%, tanker deployments double in 2 weeks | Mumbai news  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "With water stock in Marathwada at 46%, tanker deployments double in 2 weeks | Mumbai news Hindustan Times"
+            ],
+            "tldr": "With water stock in Marathwada at 46%, tanker deployments double in 2 weeks | Mu"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1789973878933",
+          "title": "Nifty, Sensex open positive despite concerns over inflation, global oil prices | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ0syaThoQmNWdVRhc01xYTZnUUp4ZVItWHg2MXhzeTQyZWd1S1QxSEZ0ekY3bWhQTzhybVFwaThoY21TdjhrZ3JVNlhRNDVBSWhRZ1UtcVJyczdPREl2NG04UHo2TjRDSU1nSFFQQUp4VndqR1U1bC12VlQxamYwdXNCWnBUdUNrUWRQNFhuR1kxeE9tOTZzNGZwTWdtejdOanFpeHNPenV3YzkxWEpINVhET0doSzlIdndHNnp3bW5kQTNpd216dEszTFFDZU1HRmFTZWxqcDZfN1M2SlNVVUFEUDBQaU9seTc3S9IB8gFBVV95cUxOS2YzcGNZYlE4ZlgwM0J4dFlVZlpXeTFxeG4taGlLRVFHR2ZYYUF5dDR6cERKMkZrOEdCMXZQSFlFS3VkV1l4akxaNC00b2p2T01JQVdobDh4a1c0b0NBUXROX1U0VGlMa2xKYzlrdFhuTU9nTzk2STJQSkYwb3BWXzZscDMyVEd3cjd3SlJaLVNxR3I4cjBkcUR3YkEzWnA2Vk5MLU5SblBmTGlqM2pvVDFDaEhWcnhHTG9Fal9YUmxucTlscnpobHdmVlBBazVYdGJLLTlrcl9rV1Q2eW9DdUNxSHVsZWc2MmxDZEJKb081dw?oc=5",
+          "time": "3h ago",
+          "body": "Nifty, Sensex open positive despite concerns over inflation, global oil prices | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty, Sensex open positive despite concerns over inflation, global oil prices | Business News Hindustan Times"
+            ],
+            "tldr": "Nifty, Sensex open positive despite concerns over inflation, global oil prices |"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1789973878934",
+          "title": "Indian shares inch higher after recent slide - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3NYaXdLM1g3c3NKZkFDM2I0b0xENENVUGJFaFJIY01mVjQtV2swdVJVelBWV0hMNjBNeGFyTTItOGtRM0tYOTkxcTR1ZXJyS01WclBmMXRCTkdMOUdpbnpTdHhSamd2elBWMWlKVWpVNUoxX1c1emdyU2FlOE1aOHNvZXc1MDRtVlFtYzN4Ui0wMDZSUWNHZFRwSHE4Wm8?oc=5",
+          "time": "4h ago",
+          "body": "Indian shares inch higher after recent slide  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares inch higher after recent slide  Reuters"
+            ],
+            "tldr": "Indian shares inch higher after recent slide  Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1789973878934",
+          "title": "Stock Markets Climb In Early Trade On Easing Oil Prices, Fresh Foreign Fund Inflows - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3R4bVlId2pRWHFURXc4SnVNZUdaVnVyQlpsVG56TS1meUlWa3p2dlRiakNMVjdqQk56LVpxY2MxUFNDWU9mX1FIdUxJU0tkQXYtcHhheWxnb19MdEp5NHdDMmQ0Vm1STVpYVVR5cmI5TC1lNHVOSUtObmUxUnBfY1BjUUd0RGY1MDloUmFuSHJOTjU5Rjl4VTFGNk1Ec0xGVEoyNHhjYVFjYnV2SHBLTmhpSF9lV3ZCMlFKRHdMdE3SAcABQVVfeXFMTzd0eG1ZSHdqUVhxVEV3OEp1TWVHWlZ1ckJabFRuek0tZnlJVmt6dnZUYmpDTFY3akJOei1acWNjMVBTQ1lPZl9RSHVMSVNLZEF2LXB4YXlsZ29fTHRKeTR3QzJkNFZtUk1aWFVUeXJiOUwtZTR1TklLTm5lMVJwX2NQY1FHdERmNTA5aFJhbkhyTk41OUY5eFUxRjZNRHNMRlRKMjR4Y2FRY2J1dkhwS05oaUhfZVd2QjJRSkR3THRN?oc=5",
+          "time": "2h ago",
+          "body": "Stock Markets Climb In Early Trade On Easing Oil Prices, Fresh Foreign Fund Inflows  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Climb In Early Trade On Easing Oil Prices, Fresh Foreign Fund Inflows ETV Bharat"
+            ],
+            "tldr": "Stock Markets Climb In Early Trade On Easing Oil Prices, Fresh Foreign Fund Infl"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1789973878934",
+          "title": "Sensex jumps over 400 points, Nifty holds above 23,360 as crude oil prices ease - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDd4YmhkeWV2Y1VIUV9SVGpWcV9KNmZQeFVaNjFFZWxmcTIxM3dkMnFUTVVsbEY2b2dhNTJaSVF5UXpLZl9DYTVMd2psYVBrWF96TkN0dHZlb3h2emdBRmVhc2kyRm1zVnEzdktZSmpuZ20zb2FrQWNwRDhBdFhtWUFtME5DdkMzU251SGdveVFTMS1Pd19kZUxQRjdlclYzY082ZmdB?oc=5",
+          "time": "2h ago",
+          "body": "Sensex jumps over 400 points, Nifty holds above 23,360 as crude oil prices ease  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps over 400 points, Nifty holds above 23,360 as crude oil prices ease DD News"
+            ],
+            "tldr": "Sensex jumps over 400 points, Nifty holds above 23,360 as crude oil prices ease "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1789973878934",
+          "title": "Indian Shares Eye Mixed Start as Oil Prices Ease - hdfcsky.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVhWcXRNR1N5dUpyMXFWeWdNUzJ6dmtpRnd5dkxQRE1OY3hWXzROdVZpb0JRbzNYSzEtcEhkRHBTeFFrNWpZTnBKdDlBRC1FcEQ3YjdmSXpLNWFPWXVnUlY4QXNtRDVvcEg5YVpWdkpZWkdWdGRQQ2Z5Q24yOVplVENyNk9FamRMcGQ0QjduMXBUalh0cXhZdzlfWWdYMWZWS2FkUGNRWDl3X0MxQkFR?oc=5",
+          "time": "3h ago",
+          "body": "Indian Shares Eye Mixed Start as Oil Prices Ease  hdfcsky.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Shares Eye Mixed Start as Oil Prices Ease hdfcsky.com"
+            ],
+            "tldr": "Indian Shares Eye Mixed Start as Oil Prices Ease hdfcsky.com"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1789973878939",
+          "title": "Group Legrand India Launches Innovation Challenge to Advance Sustainable Packaging Solutions - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlUxMU9TUmc5bmZZczdqbGd2SWp2M2lmaGIxdDdzeDBBSjNYYzdzS3pBUHlWUHI3b0dGa1VtVTNUUmY3S2ZTUkkzb0FETkd5NG1fbzVBUTBpUHY1eHhobUxRaklrQ0p3TzNfUWhjRm12RTBOcEoxbWVLS2FORkJIUEhxQUdVSXJnYmdkUXJfTVpyWHA3a0cwM1l5SHZlLUo5T0x5M1gxeENiY2stZ0otY3ZfMTAwS0NyNjI0eWowQU1hbTM5YURrblI2OE1mSlJZelZJb1pYMNIB3AFBVV95cUxOaUhId1dVWWs5THgxR0xOQzltM29OUmRCMlc5dkFXT3ZWZmZNbUQxMnZ0ZFBGeWxOVEhYZ19uTmViLVZBU0dpZWE0cGN2SDl0Q2tpZm5wTm9uOHg2Z0hUbHpEa3lVME9KYTNFZVBfQXhyYS10TjN6ZUZKbWJCZ3ZxOUtTUDhOWGtwZ1hUdEJRUG5IQlFCSWwxdGZYTFJnVW5lSnZYWVd6dEx2RF9kOWF2YmxpY3RvOENNWENoTURCZC1ja0ozMUdZOFNZc212dm8tXy16clZIdVNEQ1p6?oc=5",
+          "time": "1h ago",
+          "body": "Group Legrand India Launches Innovation Challenge to Advance Sustainable Packaging Solutions  ThePrint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Group Legrand India Launches Innovation Challenge to Advance Sustainable Packaging Solutions ThePrint"
+            ],
+            "tldr": "Group Legrand India Launches Innovation Challenge to Advance Sustainable Packagi"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1789973878969",
+          "title": "Journalist Payal Mehta passes away in Mumbai - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnRGRWRMYk5QTkFwczN1SlFvcjc0WG9CS0xyZUVwN0llRGtJV3ZybHJnaHAtblBRVDFobFJ5Q2NiNWJiVnZRSnZHRnN3VFVBWUpvUV9NMUZSbEdwWUpFVEJiX3dZVnlDOTZiaTZoTWEtb2xoQ3ZFdUljQ0FrTWxBcm9MZmZKSmRhVE55Y1gzZHQzcDd0Zzhn0gGXAUFVX3lxTE5mdEZFZExiTlBOQXBzM3VKUW9yNzRYb0JLTHJlRXA3SWVEa0lXdnJscmdocC1uUFFUMWhsUnlDY2I1YmJWdlFKdkdGc3dUVUFZSm9RX00xRlJsR3BZSkVUQmJfd1lWeUM5NmJpNmhNYS1vbGhDdkV1SWNDQWtNbEFyb0xmZkpKZGFUTnljWDNkdDNwN3RnOGc?oc=5",
+          "time": "11h ago",
+          "body": "Journalist Payal Mehta passes away in Mumbai  MillenniumPost",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Journalist Payal Mehta passes away in Mumbai MillenniumPost"
+            ],
+            "tldr": "Journalist Payal Mehta passes away in Mumbai MillenniumPost"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1789973880242",
+          "title": "Digital Technology To Transform India’s Mining Sector. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1o2N1hpbjlmbmowbzQtcnN6RXBzZmhOVkpOUFRwcHJiSkY0NkFjc0E5Y25fM2FwbEJZanMybVk1VFRBVlQxSVFMYnBqM3lXOWdDQ1NMY2VXMU9VMVB0dlJYNTBSQXcyOUcwRWIxNUZYWmxzRlZhNzU4YVIyVW9wMVNVQjh6bms5ZlNPQkZB?oc=5",
+          "time": "22h ago",
+          "body": "Digital Technology To Transform India’s Mining Sector.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Digital Technology To Transform India’s Mining Sector."
+            ],
+            "tldr": "Digital Technology To Transform India’s Mining Sector."
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1789973880242",
+          "title": "From Mill Gates to Gig Workers: Are Trade Unions Making a Comeback? - Open Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGJjdUZnaHRLQkpNWVczV2VQeWpkMXRBQ2V4N2ptWWRQNWdoYU9JQmFjLXE4SDhIVDlzRFNfVmdwb1d0Q2t0Q2FvcUdTNkVUUFFwQVpQZDJNcUkwZmRPNkx2Z3Ezd1VLQ3dzNXNMQThjZHh4aHc0Z3ZMN0tWZ3NIczBVV1M2cjZETV9OWWtfY09BU0N0SjNLMkE4b1c5eFBsYVJn?oc=5",
+          "time": "18h ago",
+          "body": "From Mill Gates to Gig Workers: Are Trade Unions Making a Comeback?  Open Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From Mill Gates to Gig Workers: Are Trade Unions Making a Comeback?"
+            ],
+            "tldr": "From Mill Gates to Gig Workers: Are Trade Unions Making a Comeback?"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1789973880243",
+          "title": "Beyond Displays To AI : Cornia Unveils Next-Generation Pro AV Solutions. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObk1qU19vV1U4R1RfYnJDcVF5azM4dnNvbmg0dm9FcnNmSU52WHVOVENXU0h3Snhyc1pxRjR6elJjRy1WNHJZVE1PV20xTGRqYm9Xb2JjX0owMk9kY3BhQ0lsV0Jmc3pNQzRLSU5zLV80d2ZWaUtXOG9jUThyVlJjblJLd1E5dHVGVWtTYlE4NmRYdW9PeEdMOG5nMTh1a212Um5zWQ?oc=5",
+          "time": "20h ago",
+          "body": "Beyond Displays To AI : Cornia Unveils Next-Generation Pro AV Solutions.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Beyond Displays To AI : Cornia Unveils Next-Generation Pro AV Solutions."
+            ],
+            "tldr": "Beyond Displays To AI : Cornia Unveils Next-Generation Pro AV Solutions."
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1789973880243",
+          "title": "Palghar Ganeshotsav Traditions To Be Digitally Documented Under Maharashtra’s UNESCO Recognition Campaign - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMm5WcFo3Z09FeEtnQ0ItNjZJQTk2RjhEbUdBTWRNLW5hcE50bmFmVUo5blQ4OGhVaC02TmF4NDB2TWlwVTJHRDZ1TDdVWEM4emIwMTBxa3hUVUJyNFpORFRqR3NabktZdWJNeG1ZdjFyUjdVTkgxdmlCeFNReEotRERSdU05dzZ6enI5ZDItTzM3R3ZwQ2JCVzNyRkQ2eDJJeDRlbnE1VlI4XzJKSV9ydlBOamF4UThqSGpvR3NITGtyM2F1ZEEtZUdEcW9nS051aklPSFoyOUdmU1JXbGg0TdIB4AFBVV95cUxPMm5WcFo3Z09FeEtnQ0ItNjZJQTk2RjhEbUdBTWRNLW5hcE50bmFmVUo5blQ4OGhVaC02TmF4NDB2TWlwVTJHRDZ1TDdVWEM4emIwMTBxa3hUVUJyNFpORFRqR3NabktZdWJNeG1ZdjFyUjdVTkgxdmlCeFNReEotRERSdU05dzZ6enI5ZDItTzM3R3ZwQ2JCVzNyRkQ2eDJJeDRlbnE1VlI4XzJKSV9ydlBOamF4UThqSGpvR3NITGtyM2F1ZEEtZUdEcW9nS051aklPSFoyOUdmU1JXbGg0TQ?oc=5",
+          "time": "15h ago",
+          "body": "Palghar Ganeshotsav Traditions To Be Digitally Documented Under Maharashtra’s UNESCO Recognition Campaign  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Palghar Ganeshotsav Traditions To Be Digitally Documented Under Maharashtra’s UNESCO Recognition Campaign Free Press Journal"
+            ],
+            "tldr": "Palghar Ganeshotsav Traditions To Be Digitally Documented Under Maharashtra’s UN"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1789973880243",
+          "title": "UWA Opens Mumbai Campus, Marking a New Chapter in Maharashtra–Western Australia Collaboration - businessnewsthisweek.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRjVNamxWSVpBVXpBRXV1akJPdWdHSjhYU2x1Ti1iQTRod2RWd3d5dkJWT1F4SU8yYlBWbWYyeUtXUGRnclB2bEh1aFl5LTF3cTItemhxcnpheGtiVUdWZDFuMVVzTUFUdXozVnZSckQwSU91VGIwTnBLOXVoQmdNV3ltVXByQlR2blRaNlpIdklHSk5kTXJQWHNZaEh0SnVSNmpQbVpvdHI2SWRtaDdFRlY0bXJaZTlOQlktdnh1N1pGRzY2MDA3M09lRFJHajYyUmc?oc=5",
+          "time": "21h ago",
+          "body": "UWA Opens Mumbai Campus, Marking a New Chapter in Maharashtra–Western Australia Collaboration  businessnewsthisweek.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "UWA Opens Mumbai Campus, Marking a New Chapter in Maharashtra–Western Australia Collaboration businessnewsthisweek.com"
+            ],
+            "tldr": "UWA Opens Mumbai Campus, Marking a New Chapter in Maharashtra–Western Australia "
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1789973880218",
+          "title": "PanIIT summit charts tech-driven future for AP - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmNSMVZvVTY1bHhVb1NHdmhSb2x5X0RFeXd3c2RqWmRtQkxyeFJJbm9pNDRCUzJSTU81Q08tc3MyLW9mdHlDcWdSSHZxaWx1eS0tSF83UnZZNTNaeGdPYTZQaVhZY3JKaW9XcHFfbkpBSVhDTkNqcVRhb2hEMHQ5TUZvNjF3MGlEVWJESExfQVp0cEJVSnNRM2l1QWZ6WXphMThqWTRpcmk4QmxYM1dtb0JNNFhrcWpkNmlQUnZ3RHpNQdIBxwFBVV95cUxQRTJjS3I4ckhJbTMyWUktZlVpTF9vTkxrSV9WWnVhQl9SeHNaZ2ZzbkpTRUFqMEFvdjJEYndhTzJEYkc4Wl96SGI3VXE4UUZXQkxDd19qMjh1NW9GOUxuMzlBWmRaTXBHdGE4eTZvc1JxYkdfNGtUU2hFZTVXeHdsZzZJSXNBRUhfZWY2X1NWR2RFT0t0S3lCUXo0Zms4VWEyN2dyLU1LR2xSTkc1bXBLR0FZNnlxMUhvX0dCOUxfdjNBajlsbm1N?oc=5",
+          "time": "12h ago",
+          "body": "PanIIT summit charts tech-driven future for AP  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PanIIT summit charts tech-driven future for AP The Times of India"
+            ],
+            "tldr": "PanIIT summit charts tech-driven future for AP The Times of India"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1789973880251",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "13h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1789973880251",
+          "title": "Suryakumar Yadav Snubs Virat Kohli, AB De Villiers. Reveals 1 Player Whose Skill He Would \"Love To Steal\" - sports.ndtv.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGotRndGM3E5RWxHWG5JbHJTYW12YmxpWmphYVZwNFFjZUhUMWpJVWZ6LVdUTUFlcE82TzBHRWkxNkxHVzM0clZiN1JEN00xQlFVeURpZ1hWTG95c0RTUmpTR2s4OGFMdWFKcTNZOWpFN0dlaXFQVTdCdlU1c2hhendvcldNMkxLN05VNEZUWUYxMjE1b2RmVl9MLTAxdFNWYk5iTTJIV19TSjlrb3hCenBQWnlPZnhFMllVeWIyaHpTRzh0TWF4V2laMzE3NXNGVUE1TF9zdm5QZw?oc=5",
+          "time": "6h ago",
+          "body": "Suryakumar Yadav Snubs Virat Kohli, AB De Villiers. Reveals 1 Player Whose Skill He Would \"Love To Steal\"  sports.ndtv.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Suryakumar Yadav Snubs Virat Kohli, AB De Villiers.",
+              "Reveals 1 Player Whose Skill He Would \"Love To Steal\" sports.ndtv.com"
+            ],
+            "tldr": "Suryakumar Yadav Snubs Virat Kohli, AB De Villiers."
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1789973880251",
+          "title": "Irfan Pathan Backs Naman Dhir’s All-Round Ability Ahead of West Indies ODI Series - Hindusthan Samachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdmczcFZwTTUxTnhCUE5vTFpwRmlKem5UeTVQdlFmN0J3LXZoNko5U1Y5RHctZjY3VTVIdjloT05lY3U2N3JNMXEwOW9Jc2ZfZVFzLVhtX0dIRWRjRFlUekZqZ0laVllTUnZqc1ZndlBSUGhsbGNMcm5qS2h5a3BERmhCeDRCUF9jVTFtSUVsSTdLUQ?oc=5",
+          "time": "18h ago",
+          "body": "Irfan Pathan Backs Naman Dhir’s All-Round Ability Ahead of West Indies ODI Series  Hindusthan Samachar English",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Irfan Pathan Backs Naman Dhir’s All-Round Ability Ahead of West Indies ODI Series Hindusthan Samachar English"
+            ],
+            "tldr": "Irfan Pathan Backs Naman Dhir’s All-Round Ability Ahead of West Indies ODI Serie"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1789973880251",
+          "title": "Unsold Earlier, Now On Every IPL Franchises Radars For 2027: Who Is Uday Saharan? - ABP Live English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXZ1eFZkUDNUTUlzUXRmby1vSVlXNUUxNXBMT2owXzVnNnB3Mk50TWM1alhHMXZDUXFtNUNHMENUZmFkTzJrdVpRZE9BaV9rZXY5LUVwSF82TlV2VmU3blNMSkg3NmZSRUNIbmtqNFVHc0k1YmNUQ244eFBZMkZ6bzZ4S0RmODlibHNGZXdJQ2dGbnFHYTlqWmxkeG9ySGZsV05kT09Ca0drNElBZ1RDZ1Uta9IBuAFBVV95cUxQTXUtMnd4N0FWbGc4NVRhNEFLb3RONi1sc1lBY0FxTnFwRWVIY3p5WUF5cXY0NXoxeGdrVy1mNEd4djExdHBEWFRmckF5OVJScU9fRVBaS2pPUmowR0hCYk1Ec2JVMS1hQ01JUnhPV0JPanRlam1zdnMxUjZNSE4yc2lVTXRqQ0R2N1otbENwM3NWdVZ5Vlp4c0JIdVNhTjhSaEJ0OG9nRnJBbEtrdVZlNVE4VHo4Tmp2?oc=5",
+          "time": "19h ago",
+          "body": "Unsold Earlier, Now On Every IPL Franchises Radars For 2027: Who Is Uday Saharan?  ABP Live English",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Unsold Earlier, Now On Every IPL Franchises Radars For 2027: Who Is Uday Saharan?"
+            ],
+            "tldr": "Unsold Earlier, Now On Every IPL Franchises Radars For 2027: Who Is Uday Saharan"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1789973880251",
+          "title": "Suryakumar Yadav Net Worth 2026: Salary & IPL Earnings - The Sports Legends",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSGpFU3pXVFBpYUZ4VHF0Ny1wUkNPZFlPRDVsbEhGSXJvZzN2YjJLdUJwLXlfN0MyM0tEaElMbDhWYkZEaW02SDdocW9NWGVrbDhmSFJIeDBmbmluVEFyWDVxX0F1a3JDaVpKVzB5UjJEVktucEE?oc=5",
+          "time": "23h ago",
+          "body": "Suryakumar Yadav Net Worth 2026: Salary & IPL Earnings  The Sports Legends",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Suryakumar Yadav Net Worth 2026: Salary & IPL Earnings The Sports Legends"
+            ],
+            "tldr": "Suryakumar Yadav Net Worth 2026: Salary & IPL Earnings The Sports Legends"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1789973881657",
+          "title": "'Was laughing': Video shows Indian-origin woman, friend moments before NYC subway train ran over them",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Two young friends from New Jersey died after being hit by a subway train in NYC.  Malaika Chitre and Navam Kaul were sitting on the tracks early Sunday morning.  Investigators are exploring multiple theories regarding their presence on the tracks.  Possible factors include an attempt to help a friend or intoxication.  The medical examiner has not yet released an official determination.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Two young friends from New Jersey died after being hit by a subway train in NYC.",
+              "Possible factors include an attempt to help a friend or intoxication.",
+              "The medical examiner has not yet released an official determination."
+            ],
+            "tldr": "Two young friends from New Jersey died after being hit by a…"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1789973883030",
+          "title": "Asian Games 2026 Day 2: Sen solid in badminton; India's medal count stands at six",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "7h ago",
+          "body": "Asian Games 2026 Day 2: Sen solid in badminton; India's medal count stands at six. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games 2026 Day 2: Sen solid in badminton; India's medal count stands at six. [object Object]"
+            ],
+            "tldr": "Asian Games 2026 Day 2: Sen solid in badminton; India's medal count stands at si"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1789973883031",
+          "title": "Men’s 10m Air Rifle: Dhillon, Patil win silver, bronze; India’s shooting surge continues",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Himanshu Dhillon and Rudrankksh Patil added individual silver and bronze to India’s shooting haul at the Aichi-Nagoya Asian Games, hours after helping the country win silver in the men’s 10m air rifle team event. Rudrankksh, who was part of India’s gold-medal winning team at Hangzhou, finished third after topping India’s qualification standings, while Himanshu secured silver as India continued its strong start in shooting.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Himanshu Dhillon and Rudrankksh Patil added individual silver and bronze to India’s shooting haul at the Aichi-Nagoya Asian Games, hours after helping the country win silver in the men’s 10m air rifle team event.",
+              "Rudrankksh, who was part of India’s gold-medal winning team at Hangzhou, finished third after topping India’s qualification standings, while Himanshu secured silver as India continued its strong start in shooting."
+            ],
+            "tldr": "Himanshu Dhillon and Rudrankksh Patil added individual silver and bronze to Indi"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1789973881496",
+          "title": "Nashik: AIMA Launches ‘Vision To Victory’, Showcasing 40 Entrepreneurs Driving City’s Industrial Growth - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1VaODd1ZmhJZGl5LVV4TjNDdFBHaGozY1k0VFdUN2NsVDZxM1huRXY5Rm5oVWNnVkJvdmxJUjBRd1M1MS1vOHg0d3hGUWtsdDJndlVwYmZ6UDM2aURxR2tHVUxwNHBOeEUxOFJnYnJxYWlhRW1SbkRaWlRzVUdicXlfWm5Ya19NQU14dF9ObDFoMGZ1VTlfYnMzdFpCWnkwOXdlYkNPZlJOYjNXa1RlbWJSODZfWnpuenFlN2Rzbm9xU3RPbnRHYU9OeHRSRzVn0gHWAUFVX3lxTE14TGVyV1Z4RXh6SS1TNUUzZzV2blVZRTM3R2gza3JpcDRQWm9aeWx5YnBfQl9RYnQ4Rk9pNXA5YnUydDNpakY1VUJZTDJqd2lvU0FFSmd3dFA3dlNIS3hTSmlQMlB0VVR6T19BNXc1RmY4QUR4WV9KLXVYcHFaU2pSOEZfbDIzbTNSdGxid2FKTlNTZFlHek9YcnNNOE5UOG55bm1idEFxcDkwTzVDWm10aGRJMFd4cXhSakxLOUUyQnh4Q0trQVVvQ2Nxa1ZwUU1zalJ6R3c?oc=5",
+          "time": "Just now",
+          "body": "Nashik: AIMA Launches ‘Vision To Victory’, Showcasing 40 Entrepreneurs Driving City’s Industrial Growth  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nashik: AIMA Launches ‘Vision To Victory’, Showcasing 40 Entrepreneurs Driving City’s Industrial Growth Free Press Journal"
+            ],
+            "tldr": "Nashik: AIMA Launches ‘Vision To Victory’, Showcasing 40 Entrepreneurs Driving C"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1789973881656",
+          "title": "Manaslu Camp 3 Avalanche: Indian-origin climber, Sherpa killed; deaths add to deadly season",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15h ago",
+          "body": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+            ],
+            "tldr": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1789973881656",
+          "title": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]"
+            ],
+            "tldr": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1789973881656",
+          "title": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US. [object Object]"
+            ],
+            "tldr": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1789973881656",
+          "title": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming. [object Object]"
+            ],
+            "tldr": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyom"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1789973881657",
+          "title": "Indian-origin shooter becomes only second Canadian to win two national rifle titles",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin shooter becomes only second Canadian to win two national rifle titles. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin shooter becomes only second Canadian to win two national rifle titles. [object Object]"
+            ],
+            "tldr": "Indian-origin shooter becomes only second Canadian to win two national rifle tit"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1789973881657",
+          "title": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He hadn’t paid rent for several months’. [object Object]"
+            ],
+            "tldr": "Indian landlady breaks silence after Canadian tenant's harassment claims: ‘He ha"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1789973881657",
+          "title": "Indian-origin woman shot dead by stalker in California",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian-origin woman shot dead by stalker in California. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman shot dead by stalker in California. [object Object]"
+            ],
+            "tldr": "Indian-origin woman shot dead by stalker in California. [object Object]"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1789973883074",
+          "title": "Nagpur, Chhatrapati Sambhajinagar to see huge infra expansion: Fadnavis - Rising Kashmir",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVFENVBjaW4taEZIMHBveVRMVVdZYlJMSVJYaG9PaVpGMzBfQktTSjlfYXBqeWI2SEloaGp5cmwtbDZQelhtSlk3OW5xUVRKcU14WkhNOHJDYUV5TUduU2tuZTNWX0ZZdE5Zb04wZ3N5d05ucG1aSG8tbUt2cEFtakRKM1ZhYURxRkpoa20xbzBnNDlkcGNiMXFlRTB6b2JXTnEzaEpEWW5WckphaUtvdTZscEpFcDFjOUZ2Tm9sMDVSdkNXNHc?oc=5",
+          "time": "4h ago",
+          "body": "Nagpur, Chhatrapati Sambhajinagar to see huge infra expansion: Fadnavis  Rising Kashmir",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Nagpur, Chhatrapati Sambhajinagar to see huge infra expansion: Fadnavis Rising Kashmir"
+            ],
+            "tldr": "Nagpur, Chhatrapati Sambhajinagar to see huge infra expansion: Fadnavis Rising K"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1789973883074",
+          "title": "Newer NLUs see placement gains despite funding and infrastructure gaps - Education Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNVdQY1h6VkwtekdVZ2NWSDZ0MXFGbE5CSEtGMW5mdlRMOFFTOXJjcEhLX0JWMmJIM0YyX0sxMFY0U3Z1MmExXzhFVGtlcjNoZW55eXl1dGxNQWtobWxQOTVBbEh2c3dmWjZyR2dhTk9SbXhPcTFuTWc5VXhpVG8taVFsMU9oc3BuaURrU3hqR0NVaU9HTDQzdTJRYUhPYXNoLUlhYmNMVEdxQW5IRTFTZ1NEenZxeDltZTZlUFFIcHJsb2FCQ3dTLXEwVXU?oc=5",
+          "time": "3h ago",
+          "body": "Newer NLUs see placement gains despite funding and infrastructure gaps  Education Times",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Newer NLUs see placement gains despite funding and infrastructure gaps Education Times"
+            ],
+            "tldr": "Newer NLUs see placement gains despite funding and infrastructure gaps Education"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1789973883074",
+          "title": "Beed-Pune daily express to begin regular service from Sept 22 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbi1IazlmY2V1dDM5NXNGVG5UOS1zUVFfQVIwRFBlT2NKdURPSXd4UWszSXZna0NSajY1SVB3MHQxS2YzUFJ1VjlLbzdtTE9BRENQWjdLWG9ILWc1MmFfT0ZCZlA5Z2ZJdmc3NnpQQXptckRlUTNZdVhpSTdsemNRdU9DY2JoUEFtdFhXQnY4bFAyazFWVWl6OUpUdGdlSG5KNWhmSl9jcU1HQ2JQc01xbFphNDVUMkRVbmM4WHA2S2hmNXNkd0JJazJrWW9wNXJUTTNaUFRrbTVGUkXSAdsBQVVfeXFMUG4tSGs5ZmNldXQzOTVzRlRuVDktc1FRX0FSMERQZU9jSnVET0l3eFFrM0l2Z2tDUmo2NUlQdzB0MUtmM1BSdVY5S283bUxPQURDUFo3S1hvSC1nNTJhX09GQmZQOWdmSXZnNzZ6UEF6bXJEZVEzWXVYaUk3bHpjUXVPQ2NiaFBBbXRYV0J2OGxQMmsxVlVpejlKVHRnZUhuSjVoZkpfY3FNR0NiUHNNcWxaYTQ1VDJEVW5jOFhwNktoZjVzZHdCSWsya1lvcDVyVE0zWlBUa201RlJF?oc=5",
+          "time": "11h ago",
+          "body": "Beed-Pune daily express to begin regular service from Sept 22  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Beed-Pune daily express to begin regular service from Sept 22 The Times of India"
+            ],
+            "tldr": "Beed-Pune daily express to begin regular service from Sept 22 The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1789973883074",
+          "title": "Gold Rate Today in Maharashtra 21st September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "7h ago",
+          "body": "Gold Rate Today in Maharashtra 21st September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 21st September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 21st September 2026 : 22 & 24 Carat, Todays Gold "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1789973883074",
+          "title": "Computer Engg gets highest 28,170 admissions in Maharashtra - thehitavada.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTd0U0JQSUVnOHpvY2NqdG5heFE2QVBWRDJkZTliazl6dFRVUUVHQ1RKaWQ2LTdXa0ZhUFRfa2M3Q290ZDhFUklUTDNpUGNxeDVRUkFQOE41S0wwYkFBdXh1Z3h4clJCMldlLTF0ZnhBSU84S2NmalZPbE4wbVBCTkpjdjBsYlVHVncwbHgxUmlCLXdNamFrS2dxLUJTQlFTVlA2UHpqWFNyTDBX?oc=5",
+          "time": "Just now",
+          "body": "Computer Engg gets highest 28,170 admissions in Maharashtra  thehitavada.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Computer Engg gets highest 28,170 admissions in Maharashtra thehitavada.com"
+            ],
+            "tldr": "Computer Engg gets highest 28,170 admissions in Maharashtra thehitavada.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1789973883074",
+          "title": "Maharashtra Board 2027 Exams To Begin In February - BW Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT200OUUyN3Z5ek83dXNUOWJ0aW1jdG4zblhXc0RuaWNQUnZzOE9DcGV2VDA0TmVlcDl6RWZKZy10N3BxdnBWRzVDOENwY0UxV3ZJek5OeVRJY1pOR2NyMUc0NEpzVGxzYXUybm9VZWh4dWxhS3daamlqYU9kQTFoWjRXRWw2Y3REQlVnRExCZjhWQkZLY0tR?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra Board 2027 Exams To Begin In February  BW Education",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Board 2027 Exams To Begin In February BW Education"
+            ],
+            "tldr": "Maharashtra Board 2027 Exams To Begin In February BW Education"
+          }
+        },
+        {
+          "id": "aurangabad-city-9-1789973883074",
+          "title": "Indian Railways Approves Rs 493 Crore for 38.21 km New Rail Line between Mukutban (Adilabad) and Gadchandur - ProjectsMonitor",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb1U5NlUwbnRMWVQyZ3NyY0lWbW5fd1U5MFRrMThBaHJlaTRaTDVBaDlicWtyd1ZRNWY5dW1XRE9iX2g2VjE5ODVGUmRVSDJFVW1JNFRjTW1Oc2FGTDZucVhKb25SLWNXSVhNZHJteVNlLWVkTzFBcFMyc0FxYzg0dGJaVFZYWUxNMjFLenAyV0ZSSzlnOVRNdkMyal9nNXNxYTEyRUVHTmRBWDJHR0o5VnNrenN1ZS03NXEtc2lDd250SXBKdzhNXzlFcC1PcUpUWjNRRnd1TWFiOWRwTFMtQkhxWQ?oc=5",
+          "time": "1h ago",
+          "body": "Indian Railways Approves Rs 493 Crore for 38.21 km New Rail Line between Mukutban (Adilabad) and Gadchandur  ProjectsMonitor",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Indian Railways Approves Rs 493 Crore for 38.21 km New Rail Line between Mukutban (Adilabad) and Gadchandur ProjectsMonitor"
+            ],
+            "tldr": "Indian Railways Approves Rs 493 Crore for 38.21 km New Rail Line between Mukutba"
+          }
+        },
+        {
+          "id": "aurangabad-city-10-1789973883074",
+          "title": "Silver Rate Today in Maharashtra 21st September 2026 : 1 KG, Todays Silver Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZEdlMzQ4UUtJQ2ZyTUxQWHJNSzhqT0Z0Ql9HQXp0RkJwV3QtX1JyU1U4aWlZVW1fVnI4aE90UkpMYlZNVHFQTW0zMWJxUXBUaDVEX05KalBXY3FlZFdzSzlrcUFMOFJjN1ZnTFJyX09oYmU2bWhPc1dLZw?oc=5",
+          "time": "Just now",
+          "body": "Silver Rate Today in Maharashtra 21st September 2026 : 1 KG, Todays Silver Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Silver Rate Today in Maharashtra 21st September 2026 : 1 KG, Todays Silver Price in Maharashtra Business Today"
+            ],
+            "tldr": "Silver Rate Today in Maharashtra 21st September 2026 : 1 KG, Todays Silver Price"
+          }
+        }
+      ]
+    }
+  }
+}
