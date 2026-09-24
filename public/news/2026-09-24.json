@@ -1,0 +1,790 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T06:39:26.829Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1790231960211",
+          "title": "Maharashtra government proposes replacing 10-year transfer bar on Dharavi homes - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmRqaEtJVW1faFRJYndfRGt4ckpJbUJHQVhxX3A3cUc3Z2c1Y3gtNHVaYl9oSWFtSHhJRllhdFZEQTlzbjhsb3B0VGI2VlVYaFdBVENodmJxQXFjLVNCLXBuT3RaUFRxNzFBWmIzWERIbGlmdnNtWE1XNDlkS2QwRjg2NzdISVhRQWpkeVNTX0VUdmVGUGVkV20xUmZjeklNMnIzeUJoR3JJd2_SAbIBQVVfeXFMUEdJVTIxY1h1allkVjlsSnNqaGNPREdfTkwxMURMRFBkMHFVZ2hPSEJyb1BnblhkQkdLeFZzMVhicW4xTXl2Z1pTRXdTM3VzN3VqNjhGLUJDREViZzYzSHpvSllBMXpvbFpXN3gzdER1Q1NjZVRxZ0RiazNQUFluWEtUTWZ0UGk3ZDAteXdhdndDUDVGR3F3WUJlNm1VZFBiQmNXV3NpUG56UG5vdVB6Q2VTQQ?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra government proposes replacing 10-year transfer bar on Dharavi homes  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government proposes replacing 10-year transfer bar on Dharavi homes The Indian Express"
+            ],
+            "tldr": "Maharashtra government proposes replacing 10-year transfer bar on Dharavi homes "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790231960211",
+          "title": "‘Wiping farmers’ tears is govt’s duty’—Fadnavis visits Maharashtra’s drought-hit zone, promises relief - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPREluQUtvTTZnNWVVbG5Pai1fcnZ5NmVXR3BQRkUxSkNxZ1pIZmlKNWJTMnIteVpma0xJcGVwZlFpSlBaSVVCb0dPRl9wS3dvQmRrOEZ0ZlNzZ0JpTGFwcXAzOEtWZmRTWDFNN25vcURqemUwQ0RScDN0bHVEMW1DaVZWdlQ4U1pYcWg2YVpaNW5GYTBlUHV3ZmVveHZCM2gtdm1FS3ExZ1dJc01EcXdHTjVhMlNfXzI4Y1gxQjVDdzhOVXNjOVJsd3lwOUZ3bHJDRi1RYmdFQmc1UdIB3wFBVV95cUxNcUZSR0g1d1loR3FrdDcwMGtubkw4Y3diM2tkRFdHUXZfNHRkZXNsZEtJMmk4WW5VaVFlUDRSbFdqcS12dHFhcnlxNHF0ZHg1aFZvUkppX2dRRFNZWlpfVTRnWTRyTnFPRF9GdE9teWdwVFNkZXZydlRtVm5UeXVwZFlmWXRMaE5lTTBRc0hpZTBhdE1uYjJyRWtybWNlajVScXQzYTVHajVocjZJUVE4dEhyVkh6cjNXZWlPVi1xcmtrTFBXd2VnR0JWM3ZINHpCRE5xSDViWkNXV3V4cnlJ?oc=5",
+          "time": "2h ago",
+          "body": "‘Wiping farmers’ tears is govt’s duty’—Fadnavis visits Maharashtra’s drought-hit zone, promises relief  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘Wiping farmers’ tears is govt’s duty’—Fadnavis visits Maharashtra’s drought-hit zone, promises relief ThePrint"
+            ],
+            "tldr": "‘Wiping farmers’ tears is govt’s duty’—Fadnavis visits Maharashtra’s drought-hit"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1790231960211",
+          "title": "Dry spell affects tur, soybean crops in Maharashtra; govt to provide aid, says Eknath Shinde - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY01oRzF5d0RkSUN2ZXdLTnYwcE1Ud2I5NnZOZWpXMDJWTFVaVmNsRlk3TGlIaTVPd3IxMk9hRTc3UWpELXRiMkxQeG9DV1FRcjBjSGdMSUZCQWp6bVBRTGJ5TllQelBiWGdxUnZpMElkYTJHU1phdllZNU1WdGFFX2M0YkR4bFpPemhCMDhBUloxby1CYTFfdG56Z1JOS0xXa3d1djdrdHBZbXBGN1JFRkxqZzJyZEhDenNsdjNPLTVTN0F6SElJUnBYTjE5M3QtY3N0M25NeUhtNG5TUnpMVDgtNzJFc01K0gHoAUFVX3lxTE5jTWhHMXl3RGRJQ3Zld0tOdjBwTVR3Yjk2dk5lalcwMlZMVVpWY2xGWTdMaUhpNU93cjEyT2FFNzdRakQtdGIyTFB4b0NXUVFyMGNIZ0xJRkJBanptUFFMYnlOWVB6UGJYZ3FSdmkwSWRhMkdTWmF2WVk1TVZ0YUVfYzRiRHhsWk96aEIwOEFSWjFvLUJhMV90bnpnUk5LTFdrd3V2N2t0cFltcEY3UkVGTGpnMnJkSEN6c2x2M08tNVM3QXpISUlScFhOMTkzdC1jc3Qzbk15SG00blNSekxUOC03MkVzTUo?oc=5",
+          "time": "3h ago",
+          "body": "Dry spell affects tur, soybean crops in Maharashtra; govt to provide aid, says Eknath Shinde  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dry spell affects tur, soybean crops in Maharashtra; govt to provide aid, says Eknath Shinde Mid-Day"
+            ],
+            "tldr": "Dry spell affects tur, soybean crops in Maharashtra; govt to provide aid, says E"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1790231960212",
+          "title": "Fadnavis Tours Drought-Hit Districts, Assures Farmers Of Relief - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFVXNjhiSklEWWtFQzl2OU90VHFuWVQ5UXZmc05NakdGS3NTbkNlTldLWWZ2bXVFcHg0QUZVVGFIajNtczYwWnlxUDNMVG5sYS1OcXpRdks3LU9pMXV4eVhNZzJvWnFralpIUWNBWm9faHJ6dmd6TnozZVVXa08yN1FtS1V6WlRaTWdRd21ZYXJlTm9JSEpYMGY3c19oak1tMmw1TFIzLWN3X0NfYWfSAbMBQVVfeXFMUGc0aXhLOGdNVkk4RHlPSi1MUVVoRzNFbzV3ekdoZmFPRTVxQXItMU1vSVlUeS1VNlpSY3h1WnAzR1llX3gwMi0tQllmck1DWTVraUtzdDJ5Uy1jLWRLbVZteUVrbVViRHIwWTcxNXRaNlo1eWJLZzVkeFU0UGhXZzRBSlJxVlI3bkFhLXk1SlBiWjVxeHBxbWRaOFdiOWtZbW9fYTRvR1RfX3JrcWY4Uy1UaGc?oc=5",
+          "time": "13h ago",
+          "body": "Fadnavis Tours Drought-Hit Districts, Assures Farmers Of Relief  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis Tours Drought-Hit Districts, Assures Farmers Of Relief Deccan Chronicle"
+            ],
+            "tldr": "Fadnavis Tours Drought-Hit Districts, Assures Farmers Of Relief Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790231960212",
+          "title": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlotTXdHSHRaSzVVNjNTWmJvYWJySkFuN01fTmlKQnJPd3paNzN1dXpqaDJ6ang4aFZBN0ZDcHhOZm5ra01GbE1ZNmZaeUhLbURJYnBhRTdwdGItZUJLZ3hsT184LUREVGV3eEhvT0FibGJuejEyV1k3ekVELTdQai04ZnRtRnk2TnFMX3BpTjlzdldfYlpUUDdNWlZpeWdwcHUzQW8xa19GTW9LdXplWXYtdk5kYlducUsyUkJoUQ?oc=5",
+          "time": "19h ago",
+          "body": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain  DD News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra braces for heavy rain DD News"
+            ],
+            "tldr": "Red alert in Pune, orange alert in Mumbai: Schools shut today as Maharashtra bra"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790231960212",
+          "title": "Bombay HC Slams Maharashtra Govt's 'All Is Well' Stance, Calls For Civilised Festival Celebrations - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT1FYdWJCZXdmcWRmOXFLbmw5NmI2NkpTSnFvb3Y4RmUwWnVxM0pFTkxhblhuSTJhMTVlcmFNcG9PbjFQSTJTaGxnRUVMRjVhVldDNF8wSlhKYTdqQnpGVlpRblNkbEhaQ0pZTWoyT2p0MUF4cjVVb0Nlb0RpWUIyZTdXWHVEX0tubzNlWFAxcWJGVnVTOUttN1VLbmR1YTd4OWxnbGxuemYxR3hoS3BSNjQ3ZWNvZDNSVEVUMnJ4RnlKNHNwWTFaMjhHenJGNjd6VVHSAdcBQVVfeXFMT3h6NERvMElDWVJLOEttYjR2UTlYbmZCakNKR2pGNDhsR3l0TTJ6bVFkNVZ1WEwwdjBiaW5UX0pLNHpZbkp6LUVnOGNHQUFKYXBOckdrVFpQRzM2X3ZnWkN3M3I4ZGtGSnFoaXNTelAtUE1VbWZXbG9yanh3UzhoV2c4MXBvaWtLMjhyb2Q1dUR4bGU4QTBkVnJRRkk4TFR1MFh6emlYdUtiVWN0eXpnSUw5YWcxSmhtcjZlRk9QWWg5dDV0bXdkcEFxdDlCdEN6S1FDYTFCVW8?oc=5",
+          "time": "19h ago",
+          "body": "Bombay HC Slams Maharashtra Govt's 'All Is Well' Stance, Calls For Civilised Festival Celebrations  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay HC Slams Maharashtra Govt's 'All Is Well' Stance, Calls For Civilised Festival Celebrations ETV Bharat"
+            ],
+            "tldr": "Bombay HC Slams Maharashtra Govt's 'All Is Well' Stance, Calls For Civilised Fes"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790231960212",
+          "title": "Cluster Development To Drive Housing Push Across Mumbai-MMR, Says Eknath Shinde - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS1dQZjlvelQydjN1Unk4U1MwNGFMN2FJd0IwWGZhMi1uOEVla0swSGpYbDN1YTJ0cXJtczdfakJRQ0ZQNUdqNS1wUndjTFJzOTdzU3pXMnd2NWREcmZFaWNXcFVzTHVRbFhLdUNteFhJMDBXVFNZbGhNQmd1emRHUTNGOWU2NmVzOHlfVDZLSnkta3hsczNiRHdORy00V0Y1Sy1ncEdTa25uTkFkQWRkNWozZ1RUYmVXWk1wVm1CNzZqb0ZWUHRXd05Qcm3SAcwBQVVfeXFMTUtXUGY5b3pUMnYzdVJ5OFNTMDRhTDdhSXdCMFhmYTItbjhFZWtLMEhqWGwzdWEydHFybXM3X2pCUUNGUDVHajUtcFJ3Y0xSczk3c1N6VzJ3djVkRHJmRWljV3BVc0x1UWxYS3VDbXhYSTAwV1RTWWxoTUJndXpkR1EzRjllNjZlczh5X1Q2S0p5LWt4bHMzYkR3TkctNFdGNUstZ3BHU2tubk5BZEFkZDVqM2dUVGJlV1pNcFZtQjc2am9GVlB0V3dOUHJt?oc=5",
+          "time": "16h ago",
+          "body": "Cluster Development To Drive Housing Push Across Mumbai-MMR, Says Eknath Shinde  News18",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cluster Development To Drive Housing Push Across Mumbai-MMR, Says Eknath Shinde News18"
+            ],
+            "tldr": "Cluster Development To Drive Housing Push Across Mumbai-MMR, Says Eknath Shinde "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1790231960212",
+          "title": "SHIV SENA GUNNING FOR EKNATH SHINDE AS MAHARASHTRA CM AGAIN - IndianMandarins",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3ZvRWpaakMzSnZFQnlpUWxKdC1NeWxPTzVUZ1FFLXRrRGVfX09nQmNaX2lnZTEzWE8zVk54c0V1Qzl1V3MxMDg4cENCRHhicVBLd1oxZW5yYlBGaV9WT3Y3RHlvTVE1M1A5QXNLZUZleE9lQ0Q3RHJHbGc0cXNKRGlhUGZVOHpYYVhISjBRaFJVelE0ZnlSakVTZXYwMmxmWkVBUw?oc=5",
+          "time": "22h ago",
+          "body": "SHIV SENA GUNNING FOR EKNATH SHINDE AS MAHARASHTRA CM AGAIN  IndianMandarins",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SHIV SENA GUNNING FOR EKNATH SHINDE AS MAHARASHTRA CM AGAIN IndianMandarins"
+            ],
+            "tldr": "SHIV SENA GUNNING FOR EKNATH SHINDE AS MAHARASHTRA CM AGAIN IndianMandarins"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-11-1790231960212",
+          "title": "Maharashtra to integrate govt, private ambulances on digital platform for faster response - health.economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVjYzOUxtR1poVXZFLWs0R1NSX01TSFlpdWlyTWRQUlhqbk81d1JLeFdJTFA3LUFuYmNVLVBwRnNITjRmcjQ1OUNWY0pockNGd1V4bkJIa3NFdXdfNmdSQnFIVlRaeHRrVHBuT1hqaUVmRFptbHV0dFpYMzRQRWlTZGdJaDBCMnFfaW1xczhjb0RZMXlTZXptYjJXbjE1aDQ1M3N1aXV6Vm9RXzZ0N0hiQkRCS2x1N2s3QndqZU5wd3NGcVlpYnFnUlBaZFBRV1FKZlpHS3NTN2RoTTRLZ0ZMWlFGYjFnUm04QlHSAe8BQVVfeXFMTXd3cFh1b25fdVYyam1DQzVYVHBvcklxTWNReUNqZGtWS1Y1Q05LZEdIMU9udTI0bHAzMDRQY1NKeTlXMnhFUzZ2a2dCLWZIY0ZsUE9BampSMFZNdW9xNGRrclFaeTJnWHF6TDNiQW45bXpIX3NHZFlWSWM4eUdwSWtEU3hBX0ZWWXd4SUZ4MU5BNy00MlZIdTJxLUdSSGhTUUNzRDhlUkZnUTBVeVNEbmNMNGd1Si1DMjBfMmh4dnVTX21EWFgtTmduYmlJR0tqZGtnbWFlR2l4aG03blV3LWRMc0ZXSHpEM21zZjM0UUk?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra to integrate govt, private ambulances on digital platform for faster response  health.economictimes.indiatimes.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to integrate govt, private ambulances on digital platform for faster response health.economictimes.indiatimes.com"
+            ],
+            "tldr": "Maharashtra to integrate govt, private ambulances on digital platform for faster"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1790231960709",
+          "title": "Sensex tanks over 600 points in early trade; crude oil trades above $100 per barrel - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcEZ1TXNBZlBEcGtkVGl1eHVOVXNSUTRXWHplWlZlS1JScU45VlpKRFZhUjFxRjBnRm9DbmpDZEZiZWxZTkttNzhDMDJTV1dwRUtVcW1mYnhyMTduNEJCbFdBWmhtVnk5YUROZUdqMDN0dnpmS2s3Zkh3NkpVRlVGQVdYeDFfTmdMOXBrc1JVd3RyTWw2MmdRcnZ0dVVYamtxLWRIRjkwa1dKbVFpVkl2SW1zMmI1R29VNExENGFkNV8yVXZkMk5LQTFwODV2cUVUNTBTWnZxMlBVSndiOUZBdzFB0gHiAUFVX3lxTFBwRnVNc0FmUERwa2RUaXV4dU5Vc1JRNFdYemVaVmVLUlJxTjlWWkpEVmFSMXFGMGdGb0NuakNkRmJlbFlOS203OEMwMlNXV3BFS1VxbWZieHIxN240QkJsV0FaaG1WeTlhRE5lR2owM3R2emZLazdmSHc2SlVGVUZBV1h4MV9OZ0w5cGtzUlV3dHJNbDYyZ1FydnR1VVhqa3EtZEhGOTBrV0ptUWlWSXZJbXMyYjVHb1U0TEQ0YWQ1XzJVdmQyTktBMXA4NXZxRVQ1MFNadnEyUFVKd2I5RkF3MUE?oc=5",
+          "time": "1h ago",
+          "body": "Sensex tanks over 600 points in early trade; crude oil trades above $100 per barrel  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex tanks over 600 points in early trade; crude oil trades above $100 per barrel The Hindu"
+            ],
+            "tldr": "Sensex tanks over 600 points in early trade; crude oil trades above $100 per bar"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790231960709",
+          "title": "Sensex 600+ points down as Iran president's UN speech pushes crude above $102; NSE debut in focus - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeFZrYlhlYTJkTlc3U3hadjE4WVEtcHg1VEZNQ19ialJtQlc0WUxtWmlianlLUHpwZm5sUmxjeHozbkoxT0ltVEVndzNYWFkxeWhBMmpVRGFyTG5QSW1PWkpkWklOV2Z0OERYYjNMMlA0a0l1ZUF5TUR2N2c3djdhOHd4OWJBb3NBNEpBZml1V1RpZzJFNE94Z0NVbEk1WENGdXEyU3I4cTcxbDdqZnRsS0dGZ1hHN0FEaDlEcUlhLU5oS1pUUDM0LWdFRG9EZVRyejVxTTh6S3RxZExBdWlhY1dsbG9aZXFfRklHdHl6YmtvUGNhZ3pqd202SFZqQQ?oc=5",
+          "time": "2h ago",
+          "body": "Sensex 600+ points down as Iran president's UN speech pushes crude above $102; NSE debut in focus  hindustantimes.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex 600+ points down as Iran president's UN speech pushes crude above $102; NSE debut in focus hindustantimes.com"
+            ],
+            "tldr": "Sensex 600+ points down as Iran president's UN speech pushes crude above $102; N"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790231960709",
+          "title": "NSE makes historic market debut at a premium of 1%, rises further on listing - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbG5XYnZCZEtCRVpGZ25MZ0pxOW1CLWFQZDJMWDBDc0ZWUU16YlU2Tk9WNmJBSW5jeW5icmVfYmJOak1LcWNTX09iakpsMHJSYjBCS24zcEo4V1NoLTFqSXhtdzFfWGtUVncwZWJYWVlrMllQZWdQbU13SjY1RzZrX25Fd0RQakI0b0VJV1R0VFJNb3N4TDkxSmU2Zkx4YzM0dEE4M3Y4cDEwZ9IBsAFBVV95cUxPYTBSVEhWNmhFWi1mSE1VVG1kbEdDNlRQSHAyOXdsUEpOLU9XSDk2WG12Z3dhTGUtUTFGajJLUndyUkFMdzBOWDRJYTZjeU56eU5UbnZYX2JzQk9GMHc2Nnk3RFNFRTYwZnhvcXVEMDcxSS1odERBbTRNUFdpWXNXOGpHUzRJMkYwUnFPd0thVGVGdGdtaGdNN2NfODhiOGZsanVZLVh2Zk5aTEs1OV9lTA?oc=5",
+          "time": "Just now",
+          "body": "NSE makes historic market debut at a premium of 1%, rises further on listing  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE makes historic market debut at a premium of 1%, rises further on listing The Indian Express"
+            ],
+            "tldr": "NSE makes historic market debut at a premium of 1%, rises further on listing The"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1790231960709",
+          "title": "Sensex tanks nearly 530 points, Nifty sheds over 192 points in early deals as crude oil prices soar - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdTZUNXBxTThnTUVBZ3ZjaTFiYUdVcVVZX0NWVEJSNkU4UGxreU9YUDRLOFhsd2FJM3lNSGJ6T3Q5RFFJU19hSzZjbVlRRTRHTUU1T0VjbG0zaERvaDQzWU5tN2RpNVY0Y1lNOGdwYzFtWW1fc3dpUnFoRzV1VkRJOGFnOG84eXZuVXo2TFltcklUT3pRNGNGTDhBYWFxWHNidHNBNjlnS29HUU4xN3BVc0dQZkZ1MGluZ0F0SEFKcGpjSnVTRFp6bDZRdUV1ZlFsSE5tMFFmZnJMSnpGa0NUbGFpc2taUl9LUTJEN2lLMG9yVkZvMGN4UNIB-AFBVV95cUxOdTZUNXBxTThnTUVBZ3ZjaTFiYUdVcVVZX0NWVEJSNkU4UGxreU9YUDRLOFhsd2FJM3lNSGJ6T3Q5RFFJU19hSzZjbVlRRTRHTUU1T0VjbG0zaERvaDQzWU5tN2RpNVY0Y1lNOGdwYzFtWW1fc3dpUnFoRzV1VkRJOGFnOG84eXZuVXo2TFltcklUT3pRNGNGTDhBYWFxWHNidHNBNjlnS29HUU4xN3BVc0dQZkZ1MGluZ0F0SEFKcGpjSnVTRFp6bDZRdUV1ZlFsSE5tMFFmZnJMSnpGa0NUbGFpc2taUl9LUTJEN2lLMG9yVkZvMGN4UA?oc=5",
+          "time": "1h ago",
+          "body": "Sensex tanks nearly 530 points, Nifty sheds over 192 points in early deals as crude oil prices soar  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex tanks nearly 530 points, Nifty sheds over 192 points in early deals as crude oil prices soar Mid-Day"
+            ],
+            "tldr": "Sensex tanks nearly 530 points, Nifty sheds over 192 points in early deals as cr"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790231960709",
+          "title": "Indian Stock Market Weekly Round-Up: Bears Take Charge as Nifty Slides 2% In Week, Financials Lead Decline - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkN3cFdtMnh5ZHpHNXBYTnlxYTN4UkFuT2ZxSWZYaGN3aGV4dWo4UTlicjJFX2kxci02MlJvM0pPeWRvVmFSUnU4WUxXUHYzXzZ1RGx6RHNoa2pnZW92eEVCb1JHRlNtUWxvUk9uR2M1TGR0ckxBNHpSYkdRRWhMbDRwNXE4ZEpnQ2Y5TndDelJpaUlmYnlZMlczODEydUU0ckNEa2FkaWxYaklfYU9iYzhmSnNyNjRpRlJPckpSU3AxQmNYRVYxd09XNjAydng1aS00S3J1VGV3aEk?oc=5",
+          "time": "4h ago",
+          "body": "Indian Stock Market Weekly Round-Up: Bears Take Charge as Nifty Slides 2% In Week, Financials Lead Decline  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Weekly Round-Up: Bears Take Charge as Nifty Slides 2% In Week, Financials Lead Decline Goodreturns"
+            ],
+            "tldr": "Indian Stock Market Weekly Round-Up: Bears Take Charge as Nifty Slides 2% In Wee"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790231960709",
+          "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+          "time": "12h ago",
+          "body": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+            ],
+            "tldr": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1790231960709",
+          "title": "NSE becomes 9th most valued company with Rs 4.63 lakh crore m-cap after IPO. Who did it overtake? - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMWpSanpZQnQwbmN0OFJ4aGgtSXJ1XzBjMzRVX3Y4azJOMXRXcjdHTmxjNFBlaUJucnA0S1REeUZrWFBFd1NYbGdPMi0yQXJNdFJjR1pPRC1Lc0xLVnRJeWFub2N0aXc5dzhCTktiZndZS2VUYkJvNEF0N01udG9KZENBWnNTc05HbkJMMjJCMDJWVzYxd1hDQXZFbjJsSDNleEI3aDUzNjdNRERSN21HaTJBWmViWG12SkhpNjNvRkNXUE9UNUhiTUc5UVdnbkxqdk1xbkNuUGhXMFNIdXEtdERyT1owTVZpQjJWaTJtTW51UG9ma01wNGVqVTI2elEwVGJB0gGDAkFVX3lxTE0xalJqellCdDBuY3Q4UnhoaC1JcnVfMGMzNFVfdjhrMk4xdFdyN0dObGM0UGVpQm5ycDRLVER5RmtYUEV3U1hsZ08yLTJBck10UmNHWk9ELUtzTEtWdEl5YW5vY3Rpdzl3OEJOS2Jmd1lLZVRiQm80QXQ3TW50b0pkQ0Fac1NzTkduQkwyMkIwMlZXNjF3WENBdkVuMmxIM2V4QjdoNTM2N01ERFI3bUdpMkFaZWJYbXZKSGk2M29GQ1dQT1Q1SGJNRzlRV2duTGp2TXFuQ25QaFcwU0h1cS10RHJPWjBNVmlCMlZpMm1NbnVQb2ZrTXA0ZWpVMjZ6UTBUYkE?oc=5",
+          "time": "1h ago",
+          "body": "NSE becomes 9th most valued company with Rs 4.63 lakh crore m-cap after IPO. Who did it overtake?  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE becomes 9th most valued company with Rs 4.63 lakh crore m-cap after IPO."
+            ],
+            "tldr": "NSE becomes 9th most valued company with Rs 4.63 lakh crore m-cap after IPO."
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1790231960211",
+          "title": "Why ISB shifted from Mumbai to Hyderabad: Bal Thackeray sought quota, Naidu offered merit - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSzQ5N0lJZVV2Y01NTkpRNzY3UWFYTHNoX3FDMWVTcWF6ZHJSanZNMklkOWdmQ3RfY0xqa2ItT29NRG1nUm9la05ubGt0bUNESlBjdTJ4aWJKNlMyUjRnTDl3T3MzN3I4QWUtZDlxdWw1bmJuUVBydUlXRWxWSkhaay1QaTJ3bEFzLWdtQ0VtUFY2VG5GMF9rVEhqckFYeG1XTHhDXzlIX1dKakp6YTl5NS1tMFRJb21pQ0hIaGp0a2FJOWtfeFBHWGVTRmZPS2pHVzY2bXZJWXTSAd4BQVVfeXFMT3ozOXIxQU52MEVzX29zdkxMa1d6eVVtdmptaElJWFdXRUxWakExc2ZKTnhqWWNkZlhxYi0xSTJlSjNONW41VERnQnc2cWpFQWJwYTZNZjYyVVU1UU9nMWYzU0Z2dkJickhtdkcyQTJZSW0yOHhTSWgyX2hGU1Z1c18wc0xjX1RiaUIyUldjRnVuMDN3RzBpcmg0OS1RdVMwRG5ZOVJPenZPbE5sajJkT1lxbkRmYkFfbjdwRmgxVmNXdDI2WFZCWHZnZVRvZWJqWXhQQThINkZ3dGNHb2Fn?oc=5",
+          "time": "3h ago",
+          "body": "Why ISB shifted from Mumbai to Hyderabad: Bal Thackeray sought quota, Naidu offered merit  India Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why ISB shifted from Mumbai to Hyderabad: Bal Thackeray sought quota, Naidu offered merit India Today"
+            ],
+            "tldr": "Why ISB shifted from Mumbai to Hyderabad: Bal Thackeray sought quota, Naidu offe"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1790231961951",
+          "title": "Indias GCC Boom Driving Next Wave of Demand for AI-Powered Workplace Collaboration - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUQxYUhxYWU1Z2lsOEQwTktiXzlDcEdNMzNLSVF1aGMzZ1RabG5ta0dPQzNuVVQwT0RxcEhWMXd5bk5TVC1VME1BZFg2eFNLSnRVOGZjWVBqaVU4RWQ1SThTNjBGQk5zT0xyeHJOeEZKaGdtZWJ6Uk85OUZSdkRyZGF4TmhjaGJLcm5RT2QybmpxTXh4T3pBb2FMVE4zNUtDZ2hBa3kzS0pZQm94dks2eVphZ2RPV2FGVUMyeG5iSW5LSlHSAcMBQVVfeXFMUHFEMWFIcWFlNWdpbDhEME5LYl85Q3BHTTMzS0lRdWhjM2dUWmxubWtHT0MzblVUME9EcXBIVjF3eW5OU1QtVTBNQWRYNnhTS0p0VThmY1lQamlVOEVkNUk4UzYwRkJOc09McnhyTnhGSmhnbWVielJPOTlGUnZEcmRheE5oY2hiS3JuUU9kMm5qcU14eE96QW9hTFROMzVLQ2doQWt5M0tKWUJveHZLNnlaYWdkT1dhRlVDMnhuYkluS0pR?oc=5",
+          "time": "21h ago",
+          "body": "Indias GCC Boom Driving Next Wave of Demand for AI-Powered Workplace Collaboration  TheWire.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indias GCC Boom Driving Next Wave of Demand for AI-Powered Workplace Collaboration TheWire.in"
+            ],
+            "tldr": "Indias GCC Boom Driving Next Wave of Demand for AI-Powered Workplace Collaborati"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1790231961951",
+          "title": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026 - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM0tyRnM3UXpRNHEtQm9PWFFxQldlQUhBdG1PRmZGeDUxSmpNUkYzZ29FVVl6Q0tRSGk5T0kwM2p5WHRhalBHM1hfVVlsNXFGTUNmSTN4V3BLR1ROd0FINHpRLTdyN096dlZaaDR0RnVlMHVoTjkxc0RtOEI5TGd2UmIxMVdXV0VUXzZyR2U0UDVMSXRjSHJPTU02cGxrSDQ4Q0lMODlsSWlGMzdOS0EyVG5yRy0wTU5PVk9Gb1J6Z3ByTXg3WjJ3ODk2M0poM2JSOHpDNzFubVBYWFFDMHBfOFRfXzBrRkh0MHBjd0k4eXBtcTTSAfMBQVVfeXFMUDNLckZzN1F6UTRxLUJvT1hRcUJXZUFIQXRtT0ZmRng1MUpqTVJGM2dvRVVZekNLUUhpOU9JMDNqeVh0YWpQRzNYX1VZbDVxRk1DZkkzeFdwS0dUTndBSDR6US03cjdPenZWWmg0dEZ1ZTB1aE45MXNEbThCOUxndlJiMTFXV1dFVF82ckdlNFA1TEl0Y0hyT01NNnBsa0g0OENJTDg5bElpRjM3TktBMlRuckctME1OT1ZPRm9Semdwck14N1oydzg5NjNKaDNiUjh6Qzcxbm1QWFhRQzBwXzhUX18wa0ZIdDBwY3dJOHlwbXE0?oc=5",
+          "time": "18h ago",
+          "body": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026 The Tribune"
+            ],
+            "tldr": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analyt"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1790231961951",
+          "title": "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specialization - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaExPU1F0eTh1anhsdXQyZXhrMU5QYUVkc0hPdHp6MnpGMUVfb3FIYVpJa0s2ZE44MWtVN2J0eExPeWVOWFl6RTdRbW1HZmtfOFgta3Jvc2p6YVc2d3g3NG96WS1iMmkyclFOaW1VNm5jVC1NOXEtX0lRTndSc00yYzBOV0tfOVU5REVfeVN3M3RQLU9qY0NEVEtURGhLUUNoX0hCUTJqS0R2c25MWHp4SGxvRWZ1ZUZ3eWNDVFRfM0FVRlNhXzZIa0ZBQ3QwUV9vTFJHMXJiTGRZVU12aTg40gHfAUFVX3lxTE5oTE9TUXR5OHVqeGx1dDJleGsxTlBhRWRzSE90enoyekYxRV9vcUhhWklrSzZkTjgxa1U3YnR4TE95ZU5YWXpFN1FtbUdma184WC1rcm9zanphVzZ3eDc0b3pZLWIyaTJyUU5pbVU2bmNULU05cS1fSVFOd1JzTTJjME5XS185VTlERV95U3czdFAtT2pjQ0RUS1REaEtRQ2hfSEJRMmpLRHZzbkxYenhIbG9FZnVlRnd5Y0NUVF8zQVVGU2FfNkhrRkFDdDBRX29MUkcxcmJMZFlVTXZpODg?oc=5",
+          "time": "23h ago",
+          "body": "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specialization  Devdiscourse",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specialization Devdiscourse"
+            ],
+            "tldr": "IFI Techsolutions achieves Agentic DevOps with Microsoft Azure and GitHub Specia"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1790231961951",
+          "title": "Techmagnate Study Finds AI Platforms Drop 39% of Cited Brands Every Week, Signals Shift in How AI Visibility Should Be Measured - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZkREbU92RHZ5aVQ5NWJoWWhoVUZVNVZTZGZpMVBFMmx4VXktV2xhQWk0LWRaWkZpRWw2aWlaOTlta0lZeEpwMnU0WE1Dc1ZSLVZvU2R1QVRKSml1b0ltQVJnNTNnS2lZM2tQWEUwaHRMNHF3WXNOb3BEQk05b0Vra0tSTlJ3Wmg1RGo4RlNuQnZvRnRXUW52blVWRHZtM0xCNGg2Rk9VeGpkSXNRVFlYZW1LMDdzUXJSdTBramMyd0N3TzZ0SnUxQVo0ZHkxeUpzeVg1LURXekhESTFFalB6SzhuVTFiUVRfYUU0NDBFT3p0b0JwVjQxN2xncURBUQ?oc=5",
+          "time": "20h ago",
+          "body": "Techmagnate Study Finds AI Platforms Drop 39% of Cited Brands Every Week, Signals Shift in How AI Visibility Should Be Measured  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Techmagnate Study Finds AI Platforms Drop 39% of Cited Brands Every Week, Signals Shift in How AI Visibility Should Be Measured indiagazette.com"
+            ],
+            "tldr": "Techmagnate Study Finds AI Platforms Drop 39% of Cited Brands Every Week, Signal"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1790231961951",
+          "title": "Joy Personal Care brings Versatile Star Tamannaah Bhatia on board as the face of its lotion and cream portfolio - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQOUppWlVKOVJmZmRyT0kydmM0UldEQTBfOUQ4YkhzaFZIck5VdGZtV1RESVp0ZVFHNXoyUUZXd0dkWjkyMkdLUHlhZ216ODlKa3NYb0lOWjhNdE5mbGZja1AzaVlIQkRUVngyMWprOFV5SFd3Uk1QdnVxMWNlU1A4R3NQLTVSSl9TR1A4NEMzQXJYQXpRSFVpcUJFTFZPdXpLSkZ0MHBDcURQNXFmVm83T0FlSXZ3eGRYOVNfUmx6Nk1GU1dHMC00OUtrVzFibDIzMUtHY29ORUNBMFdfREVqNkxzcy1nUW9RekRESkhCdGZBVDBmZ3VsVnVVYWpvNzZ3RC1wRzgxcnFOTEJGQUJlanpFS041d2poOGo5amJ3NnNYQdIBogJBVV95cUxQOUppWlVKOVJmZmRyT0kydmM0UldEQTBfOUQ4YkhzaFZIck5VdGZtV1RESVp0ZVFHNXoyUUZXd0dkWjkyMkdLUHlhZ216ODlKa3NYb0lOWjhNdE5mbGZja1AzaVlIQkRUVngyMWprOFV5SFd3Uk1QdnVxMWNlU1A4R3NQLTVSSl9TR1A4NEMzQXJYQXpRSFVpcUJFTFZPdXpLSkZ0MHBDcURQNXFmVm83T0FlSXZ3eGRYOVNfUmx6Nk1GU1dHMC00OUtrVzFibDIzMUtHY29ORUNBMFdfREVqNkxzcy1nUW9RekRESkhCdGZBVDBmZ3VsVnVVYWpvNzZ3RC1wRzgxcnFOTEJGQUJlanpFS041d2poOGo5amJ3NnNYQQ?oc=5",
+          "time": "23h ago",
+          "body": "Joy Personal Care brings Versatile Star Tamannaah Bhatia on board as the face of its lotion and cream portfolio  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Joy Personal Care brings Versatile Star Tamannaah Bhatia on board as the face of its lotion and cream portfolio Business Standard"
+            ],
+            "tldr": "Joy Personal Care brings Versatile Star Tamannaah Bhatia on board as the face of"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1790231961951",
+          "title": "Newsweek Recognizes Altimetrik as America's Greatest Workplaces in Tech 2026 - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ0tScVdiZEY3ZEVDWTlJWGJrelZ4S2hYdU9zLWFFNWhPWkdwNnN4LW9waGpaUHFYc25CWE50NkctUmZrb01GWTV5WDJES3ZmaW9mSGw1VVNmdFdSeE1uZzVSMk9hejVHMmEwTUpoYlhIQ3FQZHNlR1RmV2NzUmlSck9fczl0VjNONThyR2J6X1I2dE1GWkxqWDFER1pTUzlxOWpyeFRZNjRSell1b2Fwdkgza0s2SWNfN3c?oc=5",
+          "time": "20h ago",
+          "body": "Newsweek Recognizes Altimetrik as America's Greatest Workplaces in Tech 2026  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Newsweek Recognizes Altimetrik as America's Greatest Workplaces in Tech 2026 indiagazette.com"
+            ],
+            "tldr": "Newsweek Recognizes Altimetrik as America's Greatest Workplaces in Tech 2026 ind"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1790231961992",
+          "title": "AI lifting India Inc's productivity as well as workload: Report - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQVhQMmx3czVSM1J1VTExLWhTSUNOR2RXRGVrZV9IYXN3dDZfVzFZaEpnTDNQUlJVZ1M4aUwyVGRtR2Zta3pORlVfZkJDRktRbktnOG9DX2FuT0EtdlBBeUw5cmJIQ05jUEF2QzVrV1BDV0hFSDBsUVR2ZEpOaTJ6S2M5cFozZFEwRTh4X1pQeFhwb1M0ZWMyMVBVelAxWDItRFB5MlBrMWlTRjBQWFVyd3lESU1faWV5RjA2Ykx1Q3U5WXF1bFBtTThOT3hGWGl3bG5PbGNhNDRqdURJUG9HejREa9IB4wFBVV95cUxPQVhQMmx3czVSM1J1VTExLWhTSUNOR2RXRGVrZV9IYXN3dDZfVzFZaEpnTDNQUlJVZ1M4aUwyVGRtR2Zta3pORlVfZkJDRktRbktnOG9DX2FuT0EtdlBBeUw5cmJIQ05jUEF2QzVrV1BDV0hFSDBsUVR2ZEpOaTJ6S2M5cFozZFEwRTh4X1pQeFhwb1M0ZWMyMVBVelAxWDItRFB5MlBrMWlTRjBQWFVyd3lESU1faWV5RjA2Ykx1Q3U5WXF1bFBtTThOT3hGWGl3bG5PbGNhNDRqdURJUG9HejREaw?oc=5",
+          "time": "11h ago",
+          "body": "AI lifting India Inc's productivity as well as workload: Report  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI lifting India Inc's productivity as well as workload: Report The Economic Times"
+            ],
+            "tldr": "AI lifting India Inc's productivity as well as workload: Report The Economic Tim"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1790231962185",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "15h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1790231962185",
+          "title": "IPL 2027 auction to be held in Goa in December - ESPN India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0dOQk5uQVF6WV8wSE5uX2dpSHVZV1d5Sk9Ec01udDVGTHhpVGxZRkNtM0xLcHQtQ09EVTE5MlVGZUhWdnZ1MkNaWTl4UGJkM1lRYnowRFF6TndHdHdmSUFDNUNjek9QVUlRYkthWDJzSVdUVnFORk9yZTJUMjlSUWp1VmJxNDR1VGc?oc=5",
+          "time": "16h ago",
+          "body": "IPL 2027 auction to be held in Goa in December  ESPN India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 auction to be held in Goa in December  ESPN India"
+            ],
+            "tldr": "IPL 2027 auction to be held in Goa in December  ESPN India"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1790231962185",
+          "title": "BOUNDARY TRACKER - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmlJdnhtNU1UcmppYWRBQWlvMjMycjBuY05hMHp2NHJJT3hXZnRrMFR6c1JWOGh5NUQyV0JXemJQRTg0dGFUX1l5RjE5LV96bFBkbkhZb0JYdzIzNXZYVFlzMmJ5eHEtTExCaWJwT2ItcGxwRmFtNVh0RHRmR1NaZWkwbTV0M0RyZnczQXROLUpjRXc?oc=5",
+          "time": "14h ago",
+          "body": "BOUNDARY TRACKER - Cricbuzz. BOUNDARY TRACKER  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BOUNDARY TRACKER - Cricbuzz. BOUNDARY TRACKER  Cricbuzz"
+            ],
+            "tldr": "BOUNDARY TRACKER - Cricbuzz. BOUNDARY TRACKER  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1790231962186",
+          "title": "Indian Premier League, 2007/08 Cricket Team Records & Stats - Cricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQendEV1lRQm1VSGRnM3kwLWpWVFNXTHFFbTZseGtpWWNHdzF6d1R0dXlPZEo0NEhUYldHOWhqcGE4MVY3ajF4eV9RU21kWk5CYk83eGpscHpWcGVmYnNaVU8zdGw0WUlpY04xZWJiV080azVpQTQ2Wmt4NV9ZVXdXRUpIZ0FKZDB5ay1Xa2lDRXBRRUQyV2NEWWktelJMSUE?oc=5",
+          "time": "17h ago",
+          "body": "Indian Premier League, 2007/08 Cricket Team Records & Stats  Cricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Premier League, 2007/08 Cricket Team Records & Stats Cricinfo"
+            ],
+            "tldr": "Indian Premier League, 2007/08 Cricket Team Records & Stats Cricinfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1790231962186",
+          "title": "IPL 2027 Mini Auction To Be Held In Goa In December - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzhBblZsOXZTaURYSFk0V0V5WTl0Zlp3T2xHVWs0Qk9Rb3lPQjJWcWRZSU5xNmVyMEktdUI3UG5pZXc4cVNNZHdRdllhVk91b1EzUVBabXNmRV9HMFlEdjdnQUp1emd1aGRKcy1WU2JKOFB2TjlHbkhhVjNVaUVxWEhnMVMwdXdHUEJKQjFQdDViY2lSWWRlM0F6MGVFU1NfRzB4U2hCdHlDY1dwcFE0WVlrbHAxQdIBuwFBVV95cUxNX1NOOVlfTl9LbmtKNjRoSkxuYTByb1JZZzkyQmxnWVJYbDF6WjlrMWJ6MWU4WUlTV1V0VW0tUmp2dEdtc2NXUXZwR2ppb204bnEyZkdmUVNUZnFMTUIyOU9Sbm9BUlNTSVZkTDVLQWRyUnFrOExLeC1rZnpTYW11UHhMMms1Z2FyWmhYVDg5TmVqUk9Uc0RQZ3ZWTjJCUkIxRFNQSWtKUlRLdFdMaG85QmdaOURxODJtYWFn?oc=5",
+          "time": "Just now",
+          "body": "IPL 2027 Mini Auction To Be Held In Goa In December  ETV Bharat",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 Mini Auction To Be Held In Goa In December ETV Bharat"
+            ],
+            "tldr": "IPL 2027 Mini Auction To Be Held In Goa In December ETV Bharat"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1790231962186",
+          "title": "Indian Premier League, 2017 Cricket Team Records & Stats - Cricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWNFc3NzVi1pT0VWbmRrVmtXaTJDZndnUk1ZYThocmpBRzV5dTlkdWRJX1JiRjNmbEhOa0pIQ2kwWWhCWlRfR25yb3huZ084dTNweVFheE1YemxLS25BZzlnRl9nQnRYZ1VLeE5FU2FSV2U1QVdmYVg1Y0E1WTZ3UVZmN3Z6VUVCdzJLVFZpbTE1RXlqcXVpUzVIUllMS21TazIxVzdiTQ?oc=5",
+          "time": "16h ago",
+          "body": "Indian Premier League, 2017 Cricket Team Records & Stats  Cricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Premier League, 2017 Cricket Team Records & Stats Cricinfo"
+            ],
+            "tldr": "Indian Premier League, 2017 Cricket Team Records & Stats Cricinfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1790231962186",
+          "title": "Rohit Sharma to MS Dhoni: Captains with most victories in India's 200 T20I wins - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWVKOEN1Mk9CdjRwV05XVFFyNHRZVE1vV2loYXpLSmJkLWZYN3FvYkZjTkE5OFZ0YXFXOXBud2xBemVRTGlIa1JpdkpkNk5WWG4wQ2twcld2UHduRm45cUUzYXFsRnhMODBKRlU4T2N2Q2VvczFOTHhyWm4wRUd1OEdSa0l1NlVpeG5lLUtDejYyT2dkZkYzbzk2X3JBS3FLaEcyelNGZW9yRWJ0THJlYkdmVHJfaDRxQ2JMMnZR?oc=5",
+          "time": "18h ago",
+          "body": "Rohit Sharma to MS Dhoni: Captains with most victories in India's 200 T20I wins  India.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Sharma to MS Dhoni: Captains with most victories in India's 200 T20I wins India.com"
+            ],
+            "tldr": "Rohit Sharma to MS Dhoni: Captains with most victories in India's 200 T20I wins "
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1790231962186",
+          "title": "IPL auction returns to India, Goa to host 2027 edition in December - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLS1Bdzd3WF9MVjBXRGtTamVJU3dZZ3lwWnF2dzVKZFg5bm1OUk1hc0NSaUhFM0tiNnBnT3QyZndld0tMQ0FpQkpyZDFPWXlaaTRTWmttVlRMYnl4N3dpSUl0U0NXNi1KRHgxQV9MU1VNQkVvQTNONVdTTHM2akZnLTI0SVBTY2FqbXdUWDNQX0Y4UEVZcG0tbFZVZlpPZTRLRl9SVmRtVEtzRy1VWnJLejJmckY0bmlGVVpBbGRqMHdGbVIzT1VZUloxeWFlamNkaFNfNUR4LVZfWExnSVAzd0hfTGdpZTdsdUI0dFJLTVJjQXVm0gH0AUFVX3lxTFAtLUF3N3dYX0xWMFdEa1NqZUlTd1lneXBacXZ3NUpkWDlubU5STWFzQ1JpSEUzS2I2cGdPdDJmd2V3S0xDQWlCSnJkMU9ZeVppNFNaa21WVExieXg3d2lJSXRTQ1c2LUpEeDFBX0xTVU1CRW9BM041V1NMczZqRmctMjRJUFNjYWptd1RYM1BfRjhQRVlwbS1sVlVmWk9lNEtGX1JWZG1US3NHLVVackt6MmZyRjRuaUZVWkFsZGowd0ZtUjNPVVlSWjF5YWVqY2RoU181RHgtVl9YTGdJUDN3SF9MZ2llN2x1QjR0UktNUmNBdWY?oc=5",
+          "time": "15h ago",
+          "body": "IPL auction returns to India, Goa to host 2027 edition in December  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL auction returns to India, Goa to host 2027 edition in December The Times of India"
+            ],
+            "tldr": "IPL auction returns to India, Goa to host 2027 edition in December The Times of "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1790231963432",
+          "title": "Thane Ring Metro route stays, stations may relocate - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3FJZVJnSEhXYTQ5OHRBZVMzYWFlNW1nTXdpN1VKcldTSkJNRUJ1LXdKdVA1c0FGOTB5YVhNVUZ2bzBHbFhZeFJydnl4bVJHZzJodm4zSlpGc1dKZ05rYUlZTjlEbC1JWGlMLUdBdGZSQWo4UkZpajViQVFkN1JPOHI0akxwR0MzNmVtZWlSVFUyaDNRTlBiZ3hueThUV3IzVkhhSzFYNmRLQVJ2V0FNVjhweUxxZVZsV09nRkVUVDg5QdIBxwFBVV95cUxQQ2tjVE55WlZOdjBUX1lqZ1FEdXA2ekU2aDJrTWlDTjBKZkNGelpSb0JaYVZzeE8zbm1WQ2pHTVFZaGJBUFBWT0xxdEhGZWNmamVabFJOYVlJbGdUSW5QUU5iMXdfX1B2emctTW5IWlBUSEtFR1FYYWN3aG5iY2x2VjRWOV9iNlVHdnoxaktwWHdRNzdQZzd4eEN2R1NqR0V0M3J5ak1LM2pKaThkNHhRNHl5S0k4a0dCclgzVTNSRXdsLUtWcndn?oc=5",
+          "time": "14h ago",
+          "body": "Thane Ring Metro route stays, stations may relocate  The Times of India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Thane Ring Metro route stays, stations may relocate The Times of India"
+            ],
+            "tldr": "Thane Ring Metro route stays, stations may relocate The Times of India"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1790231963432",
+          "title": "Admn drives up road risks in name of infra works, repairs in Bhopal - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEFYbTZWNGRqM01GSFRFRjk5bUlpTWJZLUpGQUZuMVc4Q1hNZkRfclJhVkh4NDV6WjNJRkRldENtWDEyT2YxSzVJV0c4Qy14ZGl6WXNZMVpjdzMyRjlYY1VMRDlvZmN5WnhOcDl0LTBNN0U1a3dpeHVKOFBJd05yWmJBb1loUWYxUzdpQ0Z4WURLR0VMZGNfMVFTRGJnZlV6STZpajZVMlIwOVpzaUNTMmdBdVFWc05qZVRocFhOTkY5T3F1ZFBQVnE1cEFHWW13OFN6R0Iya9IB3AFBVV95cUxOWk1aNnRlZno5RFFBYnNLaDNMRUNGbWsxdWJhSWJMRFlWaU9jaFY3ZEpCWUtDcFhvbWNZQ3drMjVtdHluejY1Z1VlV3V3a3dpYmpvWVNsUWtDR2p5cmE2OC1NSXd6Z1M1ZzR2YlhYTlB1RU5IRlhxM1Bhc3lqblB3dUdlN0Vxd0NRRGxsZ3Y2TTMySjQ5cGU5YlkxZUZDVU1TT1NXUnROMkJpeklxNFctX1ZUX0pTaGdWUzlBWkNBdjJQaTZsQ21vZHRyNUVJQVRDWmJGenJTWkVkamN3?oc=5",
+          "time": "12h ago",
+          "body": "Admn drives up road risks in name of infra works, repairs in Bhopal  The Times of India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Admn drives up road risks in name of infra works, repairs in Bhopal The Times of India"
+            ],
+            "tldr": "Admn drives up road risks in name of infra works, repairs in Bhopal The Times of"
+          }
+        },
+        {
+          "id": "mumbai-city-3-1790231963432",
+          "title": "Instagram ‘escort service’ ad costs man from Maharashtra Rs 5 lakh - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGdYVFMxbThDUW9RaE5MSzZpanduSFE5WVVSZXBwQTdRU3RvT1o1aWYwb0JZWnJtU0tqNkZnLVlHMG9MaWF4WHdNempObUZ1MXFZWnVRQjNMenBaWGJoaWl0UTVUeVo3MGFLdU9RZkRLQ1NzOTEzTFdCQ1B2ejMzQ1VkU3owMDZHU25VeTNKUUwzTG0zZ0I2ZVlac0VSUHd5RlhqLVAtSTY5VjZuRjdUN1R1OU9CbkJLX0twcEdWT0R3YkdIOUFQTExtUjluU2hnM3F2Z9IB2gFBVV95cUxQcW9XVFF4NTZjNFc2VkIyLV8zallEUGRhaS0tX2dwaXN4bENpTXNma29sV1luZDgzSlJNVUJ2aWZIdEhOWjY3T2RkYTgxR0d5OVpwLW9sTFJOUFNTaUV2WHFWakVtVHAzNUVuMFItSHlORFJaTlVWRXFZZ0dOUEh1ZGlPZDZLRXZzVXFwMXJEaFJnTW5UckxIc3JQMDVWVjRsSktlaE9RTTdMTzh3UEVxRzlvSkh4X1NqblZvVEJUaDNGSWNHMXpkLU01UDdEWmgyMk15QzRPSmF4UQ?oc=5",
+          "time": "14h ago",
+          "body": "Instagram ‘escort service’ ad costs man from Maharashtra Rs 5 lakh  The Times of India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Instagram ‘escort service’ ad costs man from Maharashtra Rs 5 lakh The Times of India"
+            ],
+            "tldr": "Instagram ‘escort service’ ad costs man from Maharashtra Rs 5 lakh The Times of "
+          }
+        },
+        {
+          "id": "mumbai-general-0-1790231963569",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15h ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1790231963569",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1790231963569",
+          "title": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]"
+            ],
+            "tldr": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both kil"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790231963569",
+          "title": "Manaslu Camp 3 Avalanche: Indian-origin climber, Sherpa killed; deaths add to deadly season",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+            ],
+            "tldr": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790231963569",
+          "title": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]"
+            ],
+            "tldr": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790231965434",
+          "title": "SD Pay scam worth over ₹2,000 crore linked to Maharashtra: Vadodara Cyber Crime detains accused with local ... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ0VYdVRhVTJWQ0FMSEpDdkxSNFJYWk1sNjNxb1huNmJiU3I3WUtwdTE0bkc0blR1TzdUaGZYdVkyMkdyeWFtRWZUZ1hsYmpSSDNzaVJmaEtJdUZDMEZocjVnSXRfMC0tS19aX3B2MjBRYXNxSTlXa0RsMUpwNDFGZDk0Nk84YVJTLTIzM3A2M21ZcVhPUUgwZHhMY1paNTRfeGxqTG1jQVUtbUZncEl3a0hidHBMZmtRMG4wQklhR2p1bXJKR3Y1d0tPTDVSZ9IB0wFBVV95cUxOZGNxMmRpRlljeS1jRHdhNURkMzh1eF8xMzBRQ2w4SDJFZnRUT2Q1M19lU3Rua2F4VzA4MkFpX29vMEo2UjN5WnRFdEEySFhYZThCSXJRR0xHemVpRzdnVm9zMDFaWUdXVVozWHRSMDI5bDlERTZwUENNblNpbEdmd18wT2pCOEl0bHJDVDEtMFhJNjdHMmhiZ2hSQWVHZlN5cUpMR2hkakMyUWMzMDdjUFZKcTV5MWtfeVVLeXVJSkVpbnVjWXRVMnJ3OS00d044dDRr?oc=5",
+          "time": "3h ago",
+          "body": "SD Pay scam worth over ₹2,000 crore linked to Maharashtra: Vadodara Cyber Crime detains accused with local ...  Bhaskar English",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "SD Pay scam worth over ₹2,000 crore linked to Maharashtra: Vadodara Cyber Crime detains accused with local ..."
+            ],
+            "tldr": "SD Pay scam worth over ₹2,000 crore linked to Maharashtra: Vadodara Cyber Crime "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790231965434",
+          "title": "Biennial elections for five MLC Graduate, Teachers’ seats to be held on October 23 - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcW1KQ1JyTkpfcWZxd2FCWUVfdHNlRlZCYTBYWkZJc1pOVW1UU1pXdFhnSlB2OXRWRkhIZUlUUk9hdmRaMFR2cXJGY1dTY0N6Z3dwTDQtcktLRVJqdnozdVl5ZlE5NF9ibFljdTNPMVFRZVBxbU9CX1lZMGpMeGlkU1lfaTFzbnBWTVNjV3ZwaWF3NG5ma1pXVnk4QktSdzZPenJyWjFJeWhUWk1JMVVHRjFvOUprQ3ptQ09YRFZNMmJBZ3N0NUt6cHNrVUV2cEltTnpPRlkwSklUM2ZrVWdzTlkycjhGQdIB7AFBVV95cUxNSkR4WV9aRWV4SHpFVm1pUnhWT1dHTmpCa3dZWEYwbkI1aHVHRUtVY192VG42QzVCTC1wa3FCRWdFVEl4eEtZaG9tZnhhRVhWc3N2Sk5BVFZyNzJITkNNTE5lcVpITDhicDlmUXNqb2djdXFDMFhjeXdjazgwekE0RUxZTjRMdmQzcEhSRnpnaC0tNmdaV1BCNVg0MVpsRzd3ZmNEWU1KUnl2Nk9jdEVBWFh6azlNc1BMaGlGMmlrRnFxZGtvWEVBNWtUdjhncmFWVjVwZG1pYXgzVTZRUDl3MnZqM0FCTEdxbk1pUA?oc=5",
+          "time": "19h ago",
+          "body": "Biennial elections for five MLC Graduate, Teachers’ seats to be held on October 23  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Biennial elections for five MLC Graduate, Teachers’ seats to be held on October 23 The Hindu"
+            ],
+            "tldr": "Biennial elections for five MLC Graduate, Teachers’ seats to be held on October "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1790231965434",
+          "title": "Maharashtra CM Fadnavis to take decision on drought relief within two days - ChiniMandi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3U1TWx6TVBmTWJsTFBNSndCUWs4OFdyc3U2UjRKdWZBa0NtalZQSUNXdW1OQWt0dG9CY2Jlbmo4eGhXTGJ6dm5WYXVqY2J4ODZpdzNPN2xFLU50UzRsNkl0RzREVm1NOGxJZHQxdHYzTzJyNXYxMVRLLTl3clVrTEFpQ3BJVjg5SElRSkJpTlB2RjFiaGF6UzlyWXMwUlhkRTRLbA?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra CM Fadnavis to take decision on drought relief within two days  ChiniMandi",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Fadnavis to take decision on drought relief within two days ChiniMandi"
+            ],
+            "tldr": "Maharashtra CM Fadnavis to take decision on drought relief within two days Chini"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790231965434",
+          "title": "JSW’s First SUV Launch Delayed: Report - Cartoq",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mTGhqblZnVUEzTFlybG4xQjFGcVVYUkNTQ0xuUGNIUGgxWGpjWFVwTWlxN24zVjJfRGFmMnFnQzJ5enFqakVRNkJXWHFjdUhtRlR1d2thUERoT2hEM2ROd2R0ZXo2Z1FIUElPZXRhVEVpV1RSRFln?oc=5",
+          "time": "4h ago",
+          "body": "JSW’s First SUV Launch Delayed: Report  Cartoq",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW’s First SUV Launch Delayed: Report  Cartoq"
+            ],
+            "tldr": "JSW’s First SUV Launch Delayed: Report  Cartoq"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790231965434",
+          "title": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGEyQVp3YUFfZ2hkaUdBSGxxb1FFY05UZkNkMzZWX01LWWRoVkFKUmV2Y1NadmplbFJzeEFsMjV1dE5kRXJaVWIwXzR1a0VFY0w0VkRqcmNucmpBQlhnc21YaV9XRVFqM1h2OHdNWnlwQXgxT29iaVFtdWtiZ2RieEtCcFA5N2Q2MkU4OVVhc1dkR1pTbXZzVGRiTGpfUVJ4M2hBdURR?oc=5",
+          "time": "19h ago",
+          "body": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases  DD News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases DD News"
+            ],
+            "tldr": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases DD"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1790231965434",
+          "title": "JSW’s ₹2,500 Crore AMPSTAR Bet Could Unlock ₹12,000 Crore Electric CV Business - Autopunditz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0ktZWI1UV9wd2V1b3Q2QVJJb180WVR3VUx5Z3d1YUZiMXlIOWViTkl5R3VKa1dBdUZvRFpNeFplUmVfb3g1VzNGWGxBTE96SXBuSERQLUFtdGJWLUVCRzVGX085S2MwNmlhdHRKMHliZm1va2w0LXhOeGJvcDVBR3B4UFUtZmxsb1pibEs1RC1YdG1PQlkzbHFR?oc=5",
+          "time": "20h ago",
+          "body": "JSW’s ₹2,500 Crore AMPSTAR Bet Could Unlock ₹12,000 Crore Electric CV Business  Autopunditz",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW’s ₹2,500 Crore AMPSTAR Bet Could Unlock ₹12,000 Crore Electric CV Business Autopunditz"
+            ],
+            "tldr": "JSW’s ₹2,500 Crore AMPSTAR Bet Could Unlock ₹12,000 Crore Electric CV Business A"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790231965434",
+          "title": "JSW launches AMPSTAR electric buses and trucks in India: Range, features, production plans - TradingView",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeDFFcFQ1eFE2NDlYdVJoelI2bWdzMEpLZ2JSZWh0clNDRTFBeGFtN284SlpHanE0SGJZSFpBLUJMb1JXQXB6Q29UeXo4bEZVME45M25JeGhiWV9XUXFGaXBwWHlUOFQtSDh2REJBRXFUMkUxU19BVU14dG11TEl4bFV6aUQyVWQxdVVncDV0cFBXYWRZZmJtNmRtTVhsZ0w0OUNLWnZ5VXRlZDNLcnR3ZS1KVnNEellCQmhDWjNLMWplc3ZFUFNDeHNiR0dBaENSUnN1R3BKZnJ0ekpw?oc=5",
+          "time": "22h ago",
+          "body": "JSW launches AMPSTAR electric buses and trucks in India: Range, features, production plans  TradingView",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW launches AMPSTAR electric buses and trucks in India: Range, features, production plans TradingView"
+            ],
+            "tldr": "JSW launches AMPSTAR electric buses and trucks in India: Range, features, produc"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790231965434",
+          "title": "JSW Group Powers Into Electric Commercial Mobility with AMPSTAR - Fuel Cells Works",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS2hCZ0V2RTlyT2Y0aW9rem1PSXRuaWZ6blY1dDI5Mkg0UFc0d2ZReWtvTUpkaVNIX1EydWtnR0ppcEZCcTlRQzMzTk9wYzBwRzNRd1BoTC0yZW5kZlMydi1LR1F2MC1PNExrZ3BpOFZjWGh4TXh6MlBDZFEwQmhMYWlSYUplaTZvY2tSTm9uZndsM0J3amRDM1ZvV1ExdUVoOHMtdHkxLWNVc2poZGFF?oc=5",
+          "time": "17h ago",
+          "body": "JSW Group Powers Into Electric Commercial Mobility with AMPSTAR  Fuel Cells Works",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Group Powers Into Electric Commercial Mobility with AMPSTAR Fuel Cells Works"
+            ],
+            "tldr": "JSW Group Powers Into Electric Commercial Mobility with AMPSTAR Fuel Cells Works"
+          }
+        }
+      ]
+    }
+  }
+}
