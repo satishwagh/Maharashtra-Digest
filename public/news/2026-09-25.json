@@ -1,0 +1,798 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T06:31:42.169Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1790317896787",
+          "title": "33 years after last campus vote, Maharashtra moves to revive student elections - indianexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVJaGcydm9tOEhFaHNwOVZiU3NmeHNsS0RFT0lVM0lNNkEtTmxGMXR3Qmo0WGczV0xQQS1CVTBoRE5sVHMzR1MzelFwNjRkZlhEV0hqX0dpVlZGOWZYcG1aTjllWTgzdTJvX0t2N21majZZV0lHR0xYSzh0WUZOMndJYXhBR3RVQTFoRV9mM09yVzZKenhEZzh0dnkyaXZENkZFVktDQmRzUDFOa1Y0NFoxNWZiUdIBvAFBVV95cUxNdFIzS3hTalhYSV9VWlNsLUVTekZzcnZhVGhwYmFWVXJIejN5T29IaWpkS1dIc0lSUkp4bkt0cTFSZGJiOUczUmF4VlJlNkY4ZEI3WjZuRFpxUGZPMHFEZWVEcUpTc2dZWkRqNXN3NVNSc2xtN3VQdXhYLTdLUmV4MXotcW5JdndwLXlEdURheWhKSmVMRnJRNmhPUUlBUXhDRENwSGVfaGpGQm1BcGI1ZzMtX2VCX0xlTkZvUw?oc=5",
+          "time": "4h ago",
+          "body": "33 years after last campus vote, Maharashtra moves to revive student elections  indianexpress.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "33 years after last campus vote, Maharashtra moves to revive student elections indianexpress.com"
+            ],
+            "tldr": "33 years after last campus vote, Maharashtra moves to revive student elections i"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790317896787",
+          "title": "Panel formed for policy to regularise residential encroachments on government land in Mumbai, Pune - ET Realty",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTWc0emtQaFVUQkthaW9fOWlYUmNzdzkzUERYXzRIVFdPVDYxS2FFODVacGVjWTVQMTdGU1hwNEZfT2N2LTFVSm1GaTE5Mng2RlV2RzdiMEkzdjkyY2tBb1FDYUU4UkxqaXNDLVR2cnpCTUp4SVNLM3JrOVVNSGxRWXZSbkFOY0lrZHg1S09ENzV4OUZrYVc2NGo5b0F3aWFqbnlNSVBWZF9VRjVIVzdIMkR2TW9WVHN4NUtNQkpHYWliTjF4d01OWm1zQktqbW54alZWVWkxdkxaUS0xUkVSbHQ2alBOb1dKTkVSMk1NeVpLNXBaR1IyYTEtU2LSAYICQVVfeXFMTjNwX3dtbVpiSnM4aS1XVFlDSTBPWXJTZllJSEVzODY5OTROSXlDa0p3b1JiVEpRYVdEZkE5QlJNVHlMdUxQRk16Ym9XeVBJaF9wamowVHIxUW8wTHdjeXNBc0o2cjJFS2ZnbVVIVjhfY1o3THpEZUhXdzRKMFBDMGxIelJSQzQwOTZUZTJmTG9qdnBURi05QVh6T2QtR193dXpNcVJSM0RfZDdmMGRJbUd3eWZnVDgxdlhjX2tKRGhNczZybkpITVBITXp5YzJJc1lZY29ETjh2RXF3ekp0Q09Ta1RmZHVWMFI3SEltQTNLZlNxZ19sTW9YQXpsbC14X0JR?oc=5",
+          "time": "3h ago",
+          "body": "Panel formed for policy to regularise residential encroachments on government land in Mumbai, Pune  ET Realty",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Panel formed for policy to regularise residential encroachments on government land in Mumbai, Pune ET Realty"
+            ],
+            "tldr": "Panel formed for policy to regularise residential encroachments on government la"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1790317896787",
+          "title": "Maharashtra govt forms 12-member expert panel to review student council elections across state - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb0kwN3gwMnBWbURJVEtMSzROVEVhb2lHVVk4cjZEV1NZbWY2U2MwdkNtQ25Zb2ZyR29sUmNSOHRTeFNLNUxGZkNRVEZjMEtOaEpuU05Pc3RtMHUxUVltS2JuS1ZUTDhRcHNKOHhqYmpGRlUxcEw2RGFWVEdadUp5WlRpWXJPdUdmdkhPRnlaT1pYWklyWWJZX3hXVlpTNnBTMDNNUkptYUh5LTVfUjBXdTBXN2owUjBoVXYySjlxT3BZRnhuTkdRanZubWw4YXRvcF9CRUtoR29RTENBVGVSQlJnSkZNN05waXfSAe8BQVVfeXFMTkZDRE1EQVY1UTF2RFNzUDlaRTBfT3lMSUhuX1M3dFVnWXlxZmFtLTZfSVJ5RnctOHdOYnhYWDdXS3NFLTYyRU1KMkhRanFPZXRvQUNsempURFJuS204eWNRN0czdl83WmNXMGxuTXBkb0JoYS1wTWltaGNoV2dvSDFKMUo2ZnN6bHdLeDNWMVBmejFsZGNxdjdLUUNoVjV4ME9ZcUUzSjdiaU1mX3g5RGxCR0FRLXpIZFY5RUtvY3hIc3pnUFJJdjdCcGVONnF0ekZkWG1mYWV0WVM2bmYyVW45X090WmlpOXdfRzNwRjQ?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra govt forms 12-member expert panel to review student council elections across state  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt forms 12-member expert panel to review student council elections across state Mid-Day"
+            ],
+            "tldr": "Maharashtra govt forms 12-member expert panel to review student council election"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1790317896787",
+          "title": "Maharashtra CM Devendra Fadnavis says drought relief measures to be declared on Friday - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVG9HZ0lQUEFoT05yTnQzcmlvSkZuMW9lUHRTQTJvYVQ3c3pUdGdya0E0MDVCWGtGSW5rWksyY2w1U3B2ZEhZWk5samFOX0hGeFpraWR2TlhiTGtfTGFUazBRazdLQnJDbUUyWGt5TmoxTW9SOTdHa3hibHJBdWFsaVp5cVdpZHhHRjJvdEc5emtKdUFSdUk2d3dTcHhzWlQycTIzZlVTS0p4NVVvaHY4ZDFtZDlEUW5JSHAtaTR4bmhxRnhDWjJMamlNU2RuYnJVREcyX3hTV0RoRmg3NURTb3dhUVHSAfIBQVVfeXFMT2pUbHI3T3FFbkYwNGcyUVktWW16OHY2aWpnU2NNa19nTVRxNkRXcmEydFpBTWpYMDE5c1BYLWFoYXh6dVdJUUoyemwtZ3daWm1RcjdlOE44MkM3dFFacDRmejZYUUlRcVhsdHFYOUdOel9YUHNHU2JsX1ZqZjdwZTZYTk9LTTc5UmtUaGxFNi1aWGVaTnZJMjROaV9YRDg2ckZCQ0VWZG1jblA2WDFrUlk0Q1NWUjJPa2otRGtkSnJRTVRGeEMySTY3SmNDYjZhNi1uQVBnaUpISXpld3gxb3hZNTdxVl9rSnp0ZF9uenZnQnc?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra CM Devendra Fadnavis says drought relief measures to be declared on Friday  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Devendra Fadnavis says drought relief measures to be declared on Friday The New Indian Express"
+            ],
+            "tldr": "Maharashtra CM Devendra Fadnavis says drought relief measures to be declared on "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1790317896787",
+          "title": "Maharashtra Govt, VFS Global expand modern property registration initiative; launch Model Sub-Registrar Offices in Mumbai, Navi Mumbai, Nagpur - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOR1RGQWRPbWVRMWxlREc2djZIdU1aQ09vRHl1ZGt2NHQ4eWNPZ0swRkFsZzVyNHNQZzZJUTlIbkYwNFRsR2sxdGlYclVUcm5LdFFRdW96RGU0R3R2Y192VFdHaktQdlJkTFpZX0toN0lCWk5MY2ZHeXkwZXBrVnhseVE3eUFZUWNmT1lENU1DZFJZbTA0NWk3RWx3VnJPaEdvSzhhcE5zdTNRLXpXd1hUOWtyZG11anIxZE4tN0lPRnRqRlNKUnkwQS1wTUdQenZwWlNVMFdZSkVWd1llUll1VmxmVHpRU2tVSUFDZjhqblhSOS15MVh3VklEc2xWZ3B4aHdnRkxJX3RIMWg0S2ItTkw2Y1Z5MDRwRWJSdWFaRmItdWMwaDdHS2N3?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Govt, VFS Global expand modern property registration initiative; launch Model Sub-Registrar Offices in Mumbai, Navi Mumbai, Nagpur  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt, VFS Global expand modern property registration initiative; launch Model Sub-Registrar Offices in Mumbai, Navi Mumbai, Nagpur ANI News"
+            ],
+            "tldr": "Maharashtra Govt, VFS Global expand modern property registration initiative; lau"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790317896787",
+          "title": "Maharashtra government launches model sub-registrar offices in Mumbai, Navi Mumbai and Nagpur - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjVDbEtNdm83cHotTXZ1OUtBeS1raXBpSGhKdFFNWm1Pdy1wU1hPZnhHcDhjbEwwcHRkRTRXNWdxb29NMkQzMmJoNmo3b2NJTjY0LUNhZ05wZHlsVnVXeGlQYk9UTVQ5bWpmXzVqQ2ZPWHpha0FnY0d1WWtGNUVnYXNqZXdXUkJnVlFiY0hFUDdNcXFiajNiZlBMcWtsMnJRQVJKLXMxdHQ1TmpVVnhPWEQ3X3E5Qm9WZmUtdXBBb2FtaDg?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra government launches model sub-registrar offices in Mumbai, Navi Mumbai and Nagpur  The News Mill",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government launches model sub-registrar offices in Mumbai, Navi Mumbai and Nagpur The News Mill"
+            ],
+            "tldr": "Maharashtra government launches model sub-registrar offices in Mumbai, Navi Mumb"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790317896787",
+          "title": "Maharashtra government plans to revive student council elections in universities and colleges, sets up 12 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPMEg0YmxvYkI0QjdTbnY4dmpEeGVWQm5zaVVlTTFuWnRKNXNtdi1yU0E1SnBJSklUNVpzbFpWNkN4azVqTkQ1XzJEemZFSlJDcXJjNml2ODBFQUZqb0RiRzc0VWttZFpNVnZ4dDY4aFZXNFI3VkxPWUJTbnNUbU1UeXhfVjhfczFVejBFWXNqaFJUR3Q0djZsQUNDeGR5RUZWUEozOHJWTzA2QTN5b000d0ZVUE1PcnNUeThHQkxHblVCaUt4RnBJNDk2dW15emhzSGo4Y0xvN1ZWZGZkWlR4WWxfNUVTNXhrOUlXMlZ4S1M4OU1jb281dmRxOW4tWFJNbmJnZFB1cUZuVHlXYzZteS0xOTBvbjJvcEpYbHdQMkdRbm8zenNXdm5Zb1RKNi1WZUFZTnVqOXpSS03SAcACQVVfeXFMT3hkTWFMdjdxaGVvRUlULVZGT1ZvRzFieXhuRG5RM2dISF83UlJ2d0s4UWoxc0V1MXZDMXBYbFBUbUJ4UFc2UlFHTVlJNVdVNWZTckVacFVUZTRHTHlhV09RaFo2Smd3MXlYbUJOMExZNy1MZWpVaGlRaU44UkUzaWdkWGRIam1wZmxhenYyNkp2WXZiZm9Bc0cxUm5nOWJhOUU3OXBrdHk4QmwwaGNFd1NLYnIxdW9iQlFwOXNHa3dKTVg1UW85UDlMcjlkOFF4T2tCamFNNThMSW5aZUFwLUJ0LWRlV2JfemJ5TVdlZUhzVk5vT3BobkwwU2hlbHk1QUR1V2pBVE9sTWZ4MEtfYVU5S3h0cS1YUENCQlEyUG1YZVNVSXhCZDZIUGphTjlyWjROaDQwRllNRDdmUmhkMWk?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra government plans to revive student council elections in universities and colleges, sets up 12  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government plans to revive student council elections in universities and colleges, sets up 12 The Times of India"
+            ],
+            "tldr": "Maharashtra government plans to revive student council elections in universities"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790317896787",
+          "title": "Kalpataru adopts Maha Gov’s Model Sub Registration Office system - Construction Week India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGIxOXZHUUJKbTZTUUkyQVM3NUFIYnZaYzZZRHRTSDI1NlFIa1NFM1I1dEtJSlBNTmRibzc3aEJsUkkwRVJiVjRubGhuOEhhX1pzUEkzb0pNSzd6d0pITG9pZGJTUzJBSHA5RmN1WXo0YU8tbF8tS3ltWmZiOXU0TGwyNmZKeWxFRWtiRk83VVRSb2hxNHNqVF85LWF4bU1hdWQ0UEFEM0JyMWRhdy1n?oc=5",
+          "time": "Just now",
+          "body": "Kalpataru adopts Maha Gov’s Model Sub Registration Office system  Construction Week India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kalpataru adopts Maha Gov’s Model Sub Registration Office system Construction Week India"
+            ],
+            "tldr": "Kalpataru adopts Maha Gov’s Model Sub Registration Office system Construction We"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1790317896766",
+          "title": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
+          "time": "4h ago",
+          "body": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares muted as high oil, yields weigh; IT offsets broader pullback Reuters"
+            ],
+            "tldr": "Indian shares muted as high oil, yields weigh; IT offsets broader pullback Reute"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790317896766",
+          "title": "Stock markets turn volatile as oil prices, rising bond yields weigh on sentiments - The Sen Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTndrWHdWZDkwT2F1bFpIaGVZejVtQnZQMzFTX1Y2Y0dEOU1qbFhzR3ZrTXFUcU1tY0x6MHA1ZUM5aXk4NEh5U0xoWmhUWWhCSkgtWmE4OUJBMTdDVHgxdEx3NnlSU19td1pfc2NyYXlfWGRDNGpIbU5hRXhBd1FuOVhhSXU4MkhYNkNzRU9CT2ViRzlMeVdsZkpncHpJNEdxWnhsQ2hVYkc?oc=5",
+          "time": "1h ago",
+          "body": "Stock markets turn volatile as oil prices, rising bond yields weigh on sentiments  The Sen Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets turn volatile as oil prices, rising bond yields weigh on sentiments The Sen Times"
+            ],
+            "tldr": "Stock markets turn volatile as oil prices, rising bond yields weigh on sentiment"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790317896766",
+          "title": "The battle between India’s stock exchanges is heating up again - The Economist",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSllxZjNuQ0l0ZExkQlp2RmVURXBuMm5WRjUyUkZsOXNaeF90Zy1GWXMyZFAzYmlGMGFfTWlhSl9lT2JNMmVnclFGYlg3bjNZQTRUeERZRkFScXBYc0IxZnhEcUF4Q0tzcWhhQTZXaXR6NjA5Y1pTSWdDQXBPQS1HZWpMOWJHN0NzN0lLWkdiMlJWWjN3OC1Ha1VDQ1ViSE9QTmZmSHBYTVpFM1FiUEJtZ1B4Y01nd2dabTlwTw?oc=5",
+          "time": "20h ago",
+          "body": "The battle between India’s stock exchanges is heating up again  The Economist",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The battle between India’s stock exchanges is heating up again The Economist"
+            ],
+            "tldr": "The battle between India’s stock exchanges is heating up again The Economist"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1790317896766",
+          "title": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGxnTW9wRXkzQ1dNakgxekV3eHZxVWRaWVVTOFVCYlNmN1p3bUwtOHdkUXVDUVlRcjBOMjJ0WTZFa205aExGMVRHZ0VPWDlsRVZ0bUpsVU1kZ2lJdVhnY0pmZ2JwbzJ4ZXBZMTBKb2F3VGJwQllZbFpNamVmU3JlOXFVOFExUF92bnRZODRKNVVZWU43ajZZTk1EZjRUNzcwYlVRVkwyRlJnejZWdWtXMjhkeE9UUklHdktKeFpyUFlTaVBFa0FhLVJrYXBlOUZwUm9aRGpLZUV2dW1jemc?oc=5",
+          "time": "6h ago",
+          "body": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why?",
+              "Sensex, Nifty Outlook Goodreturns"
+            ],
+            "tldr": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; Whe"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790317896766",
+          "title": "Ganpati Visarjan 2026: Are the NSE, BSE, MCX open for trading today, September 25? - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN1g5UkpuMVNhU0N6cVFZOUhGRk9wTmRzVUhvRWpnb3lWSTMzM3ZSMk5oZWFrZl9aLXhiYnE2WnBmN2RyWng3ZENXbV9uZUtHSmpQN2xIS1dSV0FpUm0ySTBaelVYWWhpdC10U29rZDFITEdzTG9lVWFTODRBMDQxY3dWVXV4T0FhWXQ2alNkQWZ4SnFQblNQODUzV1hsLUhmQ25tNzNMLTQzbHhHYmhiSjJOTE43aU1kNlRnbmxCRGhXcVlvN1ota2JkM2RQNWgyVmlNbWFrVUFwTDlu0gHcAUFVX3lxTFA3WDlSSm4xU2FTQ3pxUVk5SEZGT3BOZHNVSG9FamdveVZJMzMzdlIyTmhlYWtmX1oteGJicTZacGY3ZHJaeDdkQ1dtX25lS0dKalA3bEhLV1JXQWlSbTJJMFp6VVhZaGl0LXRTb2tkMUhMR3NMb2VVYVM4NEEwNDFjd1ZVdXhPQWFZdDZqU2RBZnhKcVBuU1A4NTNXWGwtSGZDbm03M0wtNDNseEdiaGJKMk5MTjdpTWQ2VGdubEJEaFdxWW83Wi1rYmQzZFA1aDJWaU1tYWtVQXBMOW4?oc=5",
+          "time": "2h ago",
+          "body": "Ganpati Visarjan 2026: Are the NSE, BSE, MCX open for trading today, September 25?  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ganpati Visarjan 2026: Are the NSE, BSE, MCX open for trading today, September 25?"
+            ],
+            "tldr": "Ganpati Visarjan 2026: Are the NSE, BSE, MCX open for trading today, September 2"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790317896766",
+          "title": "Sensex, Nifty open positive day after bloodbath driven by rising crude, Middle East tensions | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZTZqZ3dTU0RiWktyOTVJRFpDODBJZEg4UVdtdGRXcHFNOGpoTk15QVR1cnRkbC0xM05IV3NqcVBvbm5WYUlxOXJEeXV4S0FmY0t1VFJTQnR3d1FpMkE4dmpBYi0wWU5OVERxbGpRN21yUlNoeFp5OEZPZ0llUFN4OFc1aEJ6aUZpZFhHU3JLV0FQMXRPeUREZEZjM2FUcGVzY3pEb2tOd2QwTThYR0pzX1pFT2VDUWI1aHRGX2k1YjJkdUZmTmFVZF91VUdjU3QxdVdKeU5oTUtNZm8wZFVZLXpuNG9iWFlpTHlJ0gHrAUFVX3lxTFBlNmpnd1NTRGJaS3I5NUlEWkM4MElkSDhRV210ZFdwcU04amhOTXlBVHVydGRsLTEzTkhXc2pxUG9ublZhSXE5ckR5dXhLQWZjS3VUUlNCdHd3UWkyQTh2akFiLTBZTk5URHFsalE3bXJSU2h4Wnk4Rk9nSWVQU3g4VzVoQnppRmlkWEdTcktXQVAxdE95RERkRmMzYVRwZXNjekRva053ZDBNOFhHSnNfWkVPZUNRYjVodEZfaTViMmR1RmZOYVVkX3VVR2NTdDF1V0p5TmhNS01mbzBkVVktem40b2JYWWlMeUk?oc=5",
+          "time": "2h ago",
+          "body": "Sensex, Nifty open positive day after bloodbath driven by rising crude, Middle East tensions | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open positive day after bloodbath driven by rising crude, Middle East tensions | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty open positive day after bloodbath driven by rising crude, Middle E"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1790317896766",
+          "title": "NSE makes debut on BSE at ₹1,800 per share, mcap hits ₹4.5 trillion - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcndkenZlOUVkWHRoWWh5aFp0WWF4eVF3ME1iSUM1Q1hQMjk1YmptZlA3aUdYNTVzQkxRYlJ2TktGZzJVTngwOGpjdkxkNGtYcmwyUXZHZmFlemJYcV9fbktMTml0U3dGYzlyZEZ2ZWtNbldDRVhEV1AwTnJjallJS3RSRW40QTBfOVVWYW1MY1l6MS1sUF92bHlHM2Fkb2pRNGttQW1HTEp4VDhTbHRqeUlrSGdkUXdRWVRzOWpCd3J6X2ZRS1g0aUtlYjFvQdIB0wFBVV95cUxNNzBhZ0VDejMyVTBiWWpCZ2hiUHB1akNUQ09VQ2E3aW1BZU1xWGt5bUZBbjRMbzhCejc5ZzhCMzEyd1lqa3VMLUJCVWl2aUhnMVJ1MHRwWThlVDktMnJpazk5TURvZ0ROczFLUDVGS3NkaUlVcTZhY29JUE5PY3kyMFZNTndxOXMycVRBQWZkN0JWQ2Q0eWhyaDU5M3lWNktnUXhiNURmSkV2SXltRVlhQ2IxazFjbnJOVTRtQW15RG5JZW5OSW55Rno2em9keEZPaG13?oc=5",
+          "time": "18h ago",
+          "body": "NSE makes debut on BSE at ₹1,800 per share, mcap hits ₹4.5 trillion  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE makes debut on BSE at ₹1,800 per share, mcap hits ₹4.5 trillion Business Standard"
+            ],
+            "tldr": "NSE makes debut on BSE at ₹1,800 per share, mcap hits ₹4.5 trillion Business Sta"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1790317896767",
+          "title": "Sensex slumps 1,248 points on selling in financial, metal, auto and oil stocks - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWJkLVY2U2dLZ1FMUzE0LTlQOVlKR0ttWlJQV2dZSU0wVFd0ckxjdi14azNvYWlialRNV0dFb1N3OEZzb3dkaW9TYVIxOUYxYlYzU24yMTMyeXpENXc3eGVQVzUxR0J6NlJwaUV1cEJGVnFkVmdnbFMta1hPcmIwcV9LTXJsU1hkTENrMDFSYWVBUU9rX2RoUXhuX21PVDI3SVZ3SzdrS0xLWkpNaXlJNkVuOHZUcEtDTkZ4QzI2V0kzbW_SAcMBQVVfeXFMUC1iZC1WNlNnS2dRTFMxNC05UDlZSkdLbVpSUFdnWUlNMFRXdHJMY3YteGszb2FpYmpUTVdHRW9TdzhGc293ZGlvU2FSMTlGMWJWM1NuMjEzMnl6RDV3N3hlUFc1MUdCejZScGlFdXBCRlZxZFZnZ2xTLWtYT3JiMHFfS01ybFNYZExDazAxUmFlQVFPa19kaFF4bl9tT1QyN0lWd0s3a0tMS1pKTWl5STZFbjh2VHBLQ05GeEMyNldJM21v?oc=5",
+          "time": "12h ago",
+          "body": "Sensex slumps 1,248 points on selling in financial, metal, auto and oil stocks  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex slumps 1,248 points on selling in financial, metal, auto and oil stocks MillenniumPost"
+            ],
+            "tldr": "Sensex slumps 1,248 points on selling in financial, metal, auto and oil stocks M"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-9-1790317896788",
+          "title": "Mumbai Ganesh mandals seek clarity on noise pollution order - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObzltSkJGTDhfQ1I5OEhYclA4RHhCeVNIM3BqNlNIZWY1ZUU5d1hjZ3dYUTlQV3d5ci04Q1dDNFN6c3V2UG1lUk9MOE43RklUTDkyd21zd1N6eHA3d1htTmRUVEs3Zm9wWEE2VFdLYWg5eFRLZ1MycmNLRkI3X3ZHNHhmME1EX280Z3duM0t4dTd1eUo3Q1h2ZkdtZ0dpRk9QNmQwOE5FT0pDQW_SAa4BQVVfeXFMT0h0T1dOVW5POHFHcXE3cWZTNVBiZlhXSEtGSWtVeFdvNU96NFpnOEp0ck5vYllwQ2lkVFlPcDhCOGNPUUxWbURtbWVRTXVWTnJicTBOcHBzZmVmZzNncXVCR3BHUUQ1aHNGWlNkMUZJc2RJeXBJYl9uSDBtQkFPZWY4ZUhtMjVEVUJjVm1XRnQ2T3dTMkd5amZOSVNrR201THZxQmhrdzVCSDY0cmJR?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai Ganesh mandals seek clarity on noise pollution order  Rediff",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Ganesh mandals seek clarity on noise pollution order Rediff"
+            ],
+            "tldr": "Mumbai Ganesh mandals seek clarity on noise pollution order Rediff"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1790317898064",
+          "title": "AI Skills Reshape Graduate Hiring - indiabusinesstrade.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3UDhhdTh4V3IxOHM2TElMclplV1RZUnlwbE80dDhHaC02aFBOczNPMzllTk4tZGFubHE2YzVsVUJIS1B6UWNHWS1vaU1FSXRDNDN3STFUQnM5Q29YUlZTQUt4Qzd2VFFhczBQeG5kMmhLb09sYkxiYWVkNA?oc=5",
+          "time": "11h ago",
+          "body": "AI Skills Reshape Graduate Hiring  indiabusinesstrade.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI Skills Reshape Graduate Hiring  indiabusinesstrade.in"
+            ],
+            "tldr": "AI Skills Reshape Graduate Hiring  indiabusinesstrade.in"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1790317898064",
+          "title": "Maharashtra: Model Sub-Registrar Offices in Mumbai, Navi Mumbai & Nagpur for seamless, tech-driven public services - organiser.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeFpJam1tTHdlQWpvUjFLQUw1Q25GcDJtT0dPS0toaUhFdFZoNDBmUENNUUtvbnpOYmVKZTZCRDZ5dHp3NUxDS3l1ZHJwSGljVG8zOW9ZRF9zbzlPaGtpbGpCZXVEVHRFdFVtZUtqT09yUEFPQ203MmstMUFhSmxfTDFSUnpnSk1nUVBRRWMxNjFZOUVIU2xIMWdEV3JERXpkNXF4RkN0V0Y4ajQ1aWdpZDZxWmtEMm42Tm0tSi1ZZWNPaTBvd0p6eGNsRHdGT2tTc1hES09NOUFXTFNzUXU5cWpUQlhyNThHVGhQdHdR0gHzAUFVX3lxTFBuemF3elktc3UwUWVGYXVGWU54T2MzUG4zU29FMWEzdkR3RHhSWWNhOVptcmZ3UGx6emtBN1RTaE1XSm1iX0VOT1BVR1hzTUJYVXh2OXI1Rlk3Mjh1bW1vTmdxcXNvMWdNRjQzLVM0MFV3em9pWDRNLUtUSEFmbXJfblBYRTJBdzBlR2x6Ql9Ha1NHdlJodTVOWmg5TzYwTTdPc21qVm5aYVU2UU0zV0VNNWtCbW00MFJWTmN6YjUzdlhxbWpVejQ4NkFlWXpJQjI1QU5CeEhRbHNHVDZ6aDZVaXlEWkY3WkYySnZJRm9KdEJFOA?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra: Model Sub-Registrar Offices in Mumbai, Navi Mumbai & Nagpur for seamless, tech-driven public services  organiser.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Model Sub-Registrar Offices in Mumbai, Navi Mumbai & Nagpur for seamless, tech-driven public services organiser.org"
+            ],
+            "tldr": "Maharashtra: Model Sub-Registrar Offices in Mumbai, Navi Mumbai & Nagpur for sea"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1790317898065",
+          "title": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI - ET CIO",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNjhqUmh0Y1o4ZlQxc1NRUkZ5dWU0Qkt0elVoQ2dJTENTMGs4bERtY1RldGxFU0JoUDlsbnFaUkRGcWVSX2Q3ZXNDZEVDSElkWVpSM0FpMmFCUW9wbndMTWVEeG9YUDZxZ3d4aHJ6a0dOcVZDbzUwNGNrSThSRVEzQzh0aWNMeFZtUHU2Q1h1ZEF1T3ZXb2R2QjdjVTdxSFowVE4wNlJkaUhfU1JIQjR6YVZTbFA0UDRjX1o4MWpycm9EVzZ0MWVpOGhZUU50RmhqNjZjQ3d0RFkybHh1d0F4Nm85WWRYUnUycWlZaWg3ZjdLZUFaSC03cTJ2RWx3Z9IB_gFBVV95cUxPNjhqUmh0Y1o4ZlQxc1NRUkZ5dWU0Qkt0elVoQ2dJTENTMGs4bERtY1RldGxFU0JoUDlsbnFaUkRGcWVSX2Q3ZXNDZEVDSElkWVpSM0FpMmFCUW9wbndMTWVEeG9YUDZxZ3d4aHJ6a0dOcVZDbzUwNGNrSThSRVEzQzh0aWNMeFZtUHU2Q1h1ZEF1T3ZXb2R2QjdjVTdxSFowVE4wNlJkaUhfU1JIQjR6YVZTbFA0UDRjX1o4MWpycm9EVzZ0MWVpOGhZUU50RmhqNjZjQ3d0RFkybHh1d0F4Nm85WWRYUnUycWlZaWg3ZjdLZUFaSC03cTJ2RWx3Zw?oc=5",
+          "time": "18h ago",
+          "body": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI  ET CIO",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI ET CIO"
+            ],
+            "tldr": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1790317898065",
+          "title": "\"AI decisions in next 12-18 months will determine who benefits from technology\": Bill Gates - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTdvTnd4Q3pfaS1DNm10Vm1jZExObnJuc053VkVtbEdkVzg3MGNQOTNTcWhtU0lFVlhkWkxJMEg3ZjQ3c3B5U0gyTEhiZkh5b0NHVm1reFEzTDBYVEtMVC1RX01mcnltaFpMbmxvWkt2TlVlTHZnbTBlS0xsZFVUX2Z4dEZ3alNNMDNNZW0td0hEWkpRekRlaVNaM2pBemN4LXJMeFJwT0wxLUowNEFVaFVEaGoxU1Z1WWlBYV9tZV9DajYtMFpvcFNONl8?oc=5",
+          "time": "21h ago",
+          "body": "\"AI decisions in next 12-18 months will determine who benefits from technology\": Bill Gates  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"AI decisions in next 12-18 months will determine who benefits from technology\": Bill Gates indiagazette.com"
+            ],
+            "tldr": "\"AI decisions in next 12-18 months will determine who benefits from technology\":"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1790317898065",
+          "title": "Navana.ai launches 'Bodhi TTS', Indian Text-to-Speech Voice AI Model in 10 Indian Languages; Priced at one-eighth of ElevenLabs, 60% below Sarvam - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQc3k0ZDFBSFNIanAwMzVId1BJU0w1eXF5TnZ2dS04TjVvQkZrMzhmcEhudFBfRXhPSVgxTjVLSG02LUUtVTFQTlNSdVV3a1V1S3Y3aS11MXp0Rm15OXp4b2NLaUd5MW01NS1OTnhTSDg4bWllbUxMMDZ4QjU2XzRsZ1ZkelNwRXU5em5aT0k5TndxbV9CcXBQVGs3ckRxRUhXaXZtQ3RhLVpvek95VVl6a2lkanhsVncwVHlmektXWTJUVG41c2pyYS00V2g1YTlDZzJPSVhNLUpNR3pVVEVoY0dFY19KWkZJUnh4Zml6TG15aXdRMk9nRFNWSG5JcDBrRVhTU3RtSlg5bWo1bEdNRmhxNXBaLWlQZTdtcnlDdDl0a0tIVHlYWVVpYlZrbGdlQWhwS2RrMmV3dFlTbDV2ZzBTMFpGN0HSAccCQVVfeXFMUHN5NGQxQUhTSGpwMDM1SHdQSVNMNXlxeU52dnUtOE41b0JGazM4ZnBIbnRQX0V4T0lYMU41S0htNi1FLVUxUE5TUnVVd2tVdUt2N2ktdTF6dEZteTl6eG9jS2lHeTFtNTUtTk54U0g4OG1pZW1MTDA2eEI1Nl80bGdWZHpTcEV1OXpuWk9JOU53cW1fQnFwUFRrN3JEcUVIV2l2bUN0YS1ab3pPeVVZemtpZGp4bFZ3MFR5ZnpLV1kyVFRuNXNqcmEtNFdoNWE5Q2cyT0lYTS1KTUd6VVRFaGNHRWNfSlpGSVJ4eGZpekxteWl3UTJPZ0RTVkhuSXAwa0VYU1N0bUpYOW1qNWxHTUZocTVwWi1pUGU3bXJ5Q3Q5dGtLSFR5WFlVaWJWa2xnZUFocEtkazJld3RZU2w1dmcwUzBaRjdB?oc=5",
+          "time": "17h ago",
+          "body": "Navana.ai launches 'Bodhi TTS', Indian Text-to-Speech Voice AI Model in 10 Indian Languages; Priced at one-eighth of ElevenLabs, 60% below Sarvam  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navana.ai launches 'Bodhi TTS', Indian Text-to-Speech Voice AI Model in 10 Indian Languages; Priced at one-eighth of ElevenLabs, 60% below Sarvam Business Standard"
+            ],
+            "tldr": "Navana.ai launches 'Bodhi TTS', Indian Text-to-Speech Voice AI Model in 10 India"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1790317898065",
+          "title": "Why Does IVF Need More Than Financing? - eHealth Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTlCV19XaFROdTRya0NaVDZkYVhMR0xaLUVMVXdTODAtSUFPQjZ5U3o3RXB5eFNUelB0ZV9iZzJtc3hHY3k4b3BBemc2RW5wUENvb2xNaWhCYzdyY1h0bHg3aXoydE9xYnhLUG0za0l5dnVIYmJ5QlFvN0MtM0s1Wk9SVjA?oc=5",
+          "time": "22h ago",
+          "body": "Why Does IVF Need More Than Financing?  eHealth Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why Does IVF Need More Than Financing?  eHealth Magazine"
+            ],
+            "tldr": "Why Does IVF Need More Than Financing?  eHealth Magazine"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1790317898065",
+          "title": "Alteryx Highlights Governed Business Logic As Enterprises Scale AI At Gartner Data & Analytics Summit 2026 - outlookbusiness.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUzQ1UXhZNmpSTlBJUW1QT2JtMlY5Z0EydjhLUkl5bHlYNHYzU3pBYkFXQXF0bGhrV3JfMlNYMDZMeDdHd2ZwS0R5OTZ5ZTh1a0o3Y3BDSUtkcHU1RTVBS0ZBeDk0akN0MGh2Ym1Ib2VIb2ZFVTd0Zm5Yc3pGTFUyblZUeEVnUGwxTnZhMGFob25uT0pjZUpOTV9CelpERFRQOXprUFBfUjNmVFRPYWp5c1c1azlia0o0OEZ5aV9TemhfeFgtMEtGLVFQU1dPaVR0NHQ4S3BJTW1oZDloX1FkMEw4RElhZE1QaU5hedIB-gFBVV95cUxOSXFRbTAtdHRramhQWUNUOGl0dndUTkM3X1liOUk4T1N6TVZidU00VXI0bWZVbW5pZU1hWG9zOTV1NVlTcnRESWs1TFRYeUlOcV8xdVhGckM0MEl3bktvSk1fZkZxQ2MyajZWc0hKVEF2dEhKcUc1NUlyU1E4dDM5dGJ0bzV0OVFNRHg0UTdOSzFYWXU2bXB2VXZ0V19vWkVQYlpJLUc3b0tMTEVjekdhOVJ6OW1QYWZLZVRvX2RWSkdCaE1DMDBCZkVQdFFlWE83cjdTTmFvUlRfeVZ1VEZqUlVLZmN6VHpXV25nQk1UVWJUYVdKVml6cTV3?oc=5",
+          "time": "23h ago",
+          "body": "Alteryx Highlights Governed Business Logic As Enterprises Scale AI At Gartner Data & Analytics Summit 2026  outlookbusiness.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Alteryx Highlights Governed Business Logic As Enterprises Scale AI At Gartner Data & Analytics Summit 2026 outlookbusiness.com"
+            ],
+            "tldr": "Alteryx Highlights Governed Business Logic As Enterprises Scale AI At Gartner Da"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1790317898147",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "8h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790317898147",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "9h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1790317898147",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "18h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1790317899233",
+          "title": "'Was laughing': Video shows Indian-origin woman, friend moments before NYC subway train ran over them",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Two young friends from New Jersey died after being hit by a subway train in NYC.  Malaika Chitre and Navam Kaul were sitting on the tracks early Sunday morning.  Investigators are exploring multiple theories regarding their presence on the tracks.  Possible factors include an attempt to help a friend or intoxication.  The medical examiner has not yet released an official determination.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Two young friends from New Jersey died after being hit by a subway train in NYC.",
+              "Possible factors include an attempt to help a friend or intoxication.",
+              "The medical examiner has not yet released an official determination."
+            ],
+            "tldr": "Two young friends from New Jersey died after being hit by a…"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1790317900586",
+          "title": "Asian Games: Kamaljeet, Suruchi strike gold; men’s team adds silver",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "Asian Games: Kamaljeet, Suruchi strike gold; men’s team adds silver. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games: Kamaljeet, Suruchi strike gold; men’s team adds silver. [object Object]"
+            ],
+            "tldr": "Asian Games: Kamaljeet, Suruchi strike gold; men’s team adds silver. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790317900586",
+          "title": "Kamaljeet, Suruchi Inder Singh win 10m air pistol mixed team gold",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "India's Kamaljeet and Suruchi Inder Singh won the gold medal in the 10m air pistol mixed team event at the Asian Games 2026 on Friday. The Indian pair finished on top at the Aichi General Shooting Range to give India its second gold medal of the Games. The gold medal is India's second at the ongoing Asian Games. India's women's cricket team had earlier won the first gold medal after beating Sri Lanka in the final.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's Kamaljeet and Suruchi Inder Singh won the gold medal in the 10m air pistol mixed team event at the Asian Games 2026 on Friday.",
+              "The Indian pair finished on top at the Aichi General Shooting Range to give India its second gold medal of the Games.",
+              "India's women's cricket team had earlier won the first gold medal after beating Sri Lanka in the final."
+            ],
+            "tldr": "India's Kamaljeet and Suruchi Inder Singh won the gold medal in the…"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1790317900586",
+          "title": "Niraj, Rudrankksh, Aishwary Pratap win silver in 50m R3PS",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "India's Niraj Kumar, Rudrankksh Patil and Aishwary Pratap Singh Tomar won the silver medal in the men's 50m rifle 3 positions team event at the Asian Games 2026. The Indian trio finished with a total score of 1762-94x to finish second behind China.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's Niraj Kumar, Rudrankksh Patil and Aishwary Pratap Singh Tomar won the silver medal in the men's 50m rifle 3 positions team event at the Asian Games 2026.",
+              "The Indian trio finished with a total score of 1762-94x to finish second behind China."
+            ],
+            "tldr": "India's Niraj Kumar, Rudrankksh Patil and Aishwary Pratap Singh Tomar won the si"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790317900586",
+          "title": "Asian Games: India's full schedule on September 25; medal events, and timings",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "13h ago",
+          "body": "Shooting will offer India an early chance to add to its medal tally, while canoe sprint and weightlifting will also feature medal events involving Indian athletes. Athletics will close the day with four medal events on the schedule.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shooting will offer India an early chance to add to its medal tally, while canoe sprint and weightlifting will also feature medal events involving Indian athletes.",
+              "Athletics will close the day with four medal events on the schedule."
+            ],
+            "tldr": "Shooting will offer India an early chance to add to its medal tally, while canoe"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1790317899231",
+          "title": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10h ago",
+          "body": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]"
+            ],
+            "tldr": "NRI man says wife in India turned into operations manager handling cook, maid an"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1790317899231",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1790317899232",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790317899232",
+          "title": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]"
+            ],
+            "tldr": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both kil"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790317899232",
+          "title": "Manaslu Camp 3 Avalanche: Indian-origin climber, Sherpa killed; deaths add to deadly season",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+            ],
+            "tldr": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1790317899232",
+          "title": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack, says 'she's Christian, born in America and her mom is white'. [object Object]"
+            ],
+            "tldr": "Indian-origin MAGA commentator shields daughter from Hasan Piker's racist attack"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1790317899232",
+          "title": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Parents given only 2 months stay at Miami POE: Immigration attorney explains why a B1/B2 visa does not guarantee six months' stay in US. [object Object]"
+            ],
+            "tldr": "Parents given only 2 months stay at Miami POE: Immigration attorney explains why"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1790317899232",
+          "title": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyoming. [object Object]"
+            ],
+            "tldr": "Indian-origin US lawmaker 'horrified' after Sikh driver stabbed 17 times in Wyom"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790317900838",
+          "title": "20 injured after private bus overturns in Maharashtra’s Beed - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWjBVZEFyMkNxMERZNWotN0VyMnlxWS14OWxtQ016VjRWcGp5VExRQ3U4WXM1Vmp0bzBwYzFEby14THFyckVaalVTYXdIZjZSTkdqRWxfX3VWbkZIQkFIcDBiUGJuakFlMlJJdmVPRGpKZ2sxS3p6Mk45elZyc3h0UWlnWFMzYXN2M1ZGTnBONFlxM0RBZkxvV1VQMmZLeEVWcVU2M25WNUFvQ0tzREYxUXdtd2FZbUdUSVk5c3lFckMwc1k1cXJ4TVZPdjJpYmxobXpV0gHYAUFVX3lxTFBkdTV3RUpMRi0xVklHLWFqYW55MzA1clcza3NMNzBmMjN5d1pUSkVrT0plWUJQMzJFU1p1cHlBd3FObi1WWFZXU1BQWTVVbU5LX2h4clVPYnFqQUpIVzBCRENMdlpSU0NJeDlpaGRIa2RiRkdtUXYxeV9OMEM2RW54RjFZR1o5aU9RYnpieVdjQ2Z2NTZXZGNNY2xIWGR4RERKdW1FUDRRN09LeTR3Tzc5Wk1CeFpNV1R3MUMxODRRaU1JTlU3eFA0VFZfNllXMlpWVk5mMlV6eQ?oc=5",
+          "time": "22h ago",
+          "body": "20 injured after private bus overturns in Maharashtra’s Beed  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "20 injured after private bus overturns in Maharashtra’s Beed The Times of India"
+            ],
+            "tldr": "20 injured after private bus overturns in Maharashtra’s Beed The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790317900838",
+          "title": "Gold Rate Today in Maharashtra 25th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "5h ago",
+          "body": "Gold Rate Today in Maharashtra 25th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 25th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 25th September 2026 : 22 & 24 Carat, Todays Gold "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1790317900838",
+          "title": "FDA cracks down on unhygienic food units in Marathwada; licences of Kannad sweet mart, Parbhani dairy sus - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMDBtQ0tfYkxXSTZqb0h0TVB1UWJJZFZlWm1ZYmZzaW94WjVqZk1EeEUyeXd0TUhqOTlFUkdudk9oOExsdlZoMERiOTFkaEhqYUpNQU5uS05WdWFPcktZY3B1dWlOUGkwam96UmRRTnhrTHNoM1hJSWEzNzZEQTRZZFBWUWI5M1VlQ2pmQ2VJR1ZJREhpTFo4bHVxRWE5YjFVQ1NKVGxiZXJQdnFkWXZscmdqeXVWZzhJX1R3bm5vNmZCMkc1a19SNGpaaTNDMklySFVKS2didFZLc1JfaTZBaTByVWpqV0Flb3ByNTlNaDM1S2NCTTIwVDBrY3dMVHFpUWktVHo5WUhZXzFXRVpISDA2akYxeVZWNTNz0gGbAkFVX3lxTE4wMG1DS19iTFdJNmpvSHRNUHVRYklkVmVabVliZnNpb3haNWpmTUR4RTJ5d3RNSGo5OUVSR252T2g4TGx2VmgwRGI5MWRoSGphSk1BTm5LTlZ1YU9yS1ljcHV1aU5QaTBqb3pSZFFOeGtMc2gzWElJYTM3NkRBNFlkUFZRYjkzVWVDamZDZUlHVklESGlMWjhsdXFFYTliMVVDU0pUbGJlclB2cWRZdmxyZ2p5dVZnOElfVHdubm82ZkIyRzVrX1I0alppM0MySXJIVUpLZ2J0VktzUl9pNkFpMHJVampXQWVvcHI1OU1oMzVLY0JNMjBUMGtjd0xUcWlRaS1UejlZSFlfMVdFWkhIMDZqRjF5VlY1M3M?oc=5",
+          "time": "12h ago",
+          "body": "FDA cracks down on unhygienic food units in Marathwada; licences of Kannad sweet mart, Parbhani dairy sus  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA cracks down on unhygienic food units in Marathwada; licences of Kannad sweet mart, Parbhani dairy sus The Times of India"
+            ],
+            "tldr": "FDA cracks down on unhygienic food units in Marathwada; licences of Kannad sweet"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790317900838",
+          "title": "Nanded collector warns officials against taking offs, leaving HQ without permission - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb2lhODZQT184MUtKSTJxM1JsY0hnVFNhYjFCMFJuMS1fSHRyazhHS19zT3hJTmw2anJXdkVYODQ0dXEyZlJIRkJJZERRU3d2SmtMdTZadVB0clVBaXVvUFltTDlveVVlNmpkZ1N1ZGtCVVFvYnAzbm9hQkVISW56OXpLaTFaaEJXRUtKajRhTU00OUpwTm5RY01GMmxRWnFZUVVzazNrS3c1WDFSamwxOHEwSk44VmpveEtYWW1LYzVmWUYzZXM0d2Y1bWttLWdxb0pCaWx6NFhzcVhYb1hZVXpVbk1LTUE3c2xRczY1LXplZ9IB9wFBVV95cUxORkl5eXZtc19QeWItbXdtZ1hxcDhOTG1QYldTQXRXVllvZGd6eGVyZjN2V09CYXlhVExSLVE0WmhJWWdPODhkNGlENHFkY21DakVVSDQ4ano0QXNmZ1h2TVY4ZllUb3FnMk8zdVIzMzBJNlR2VzdfYzZ5dllkNEw5SXhSUV9USTFIMGJsWGJ1Ujdzbmh3aUxPc1hDZEFSMnVTWWhyRFZzTW5wYjdqMkxJYzdOTzRVeXY0bC1laHF6Mmw2VFdoNDZOZko3TFU3MWxLbTFKOFFveTFKX2NZZFBUbWZTZUdRWUtZdjFqbERnNUpTSVk0TGxV?oc=5",
+          "time": "12h ago",
+          "body": "Nanded collector warns officials against taking offs, leaving HQ without permission  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Nanded collector warns officials against taking offs, leaving HQ without permission The Times of India"
+            ],
+            "tldr": "Nanded collector warns officials against taking offs, leaving HQ without permiss"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790317900838",
+          "title": "Air quality in Ajodhya - IQAir",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fUmRENmcxOEpYbmV0U3BXOWpPTU5JMExvQTV1SEdRVEVWckd3eGVKQk1xT3A1ZlFwYWtVWUU2Qm4wOUJZTndNRDB0RkZrU0JBR3QtRkUwdUFnaFRHVUdXMXRGdVBpX0VIS2hHUmxkenNXaUpFMnc?oc=5",
+          "time": "10h ago",
+          "body": "Air quality in Ajodhya - IQAir. Air quality in Ajodhya  IQAir",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Air quality in Ajodhya - IQAir.",
+              "Air quality in Ajodhya IQAir"
+            ],
+            "tldr": "Air quality in Ajodhya - IQAir."
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1790317900838",
+          "title": "Janata Sah Bank, Dharashiv Polls announced; CRCS Disposes Petition - Indian Cooperative",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDdCRElmX3lnRGFKSGFPdXJhc3p3QlJFSUx5NWhWV3UyTEpCVVpSRkE3X1UzNWRmUjFiR2k3U0RPUUYxYkVYOFZBcEd6enpQLWx0bHgyZUQwa2lwVWRFSGhVQ2phMldGdm1tQUVIVVZtemFOZDFKbzBvNnVBNVJ6SU80MEZvYlk1SXZub19XeExubm8zbDhJWnpSMF9yVnlvY09zb3lUcmczejBOZjFRRw?oc=5",
+          "time": "4h ago",
+          "body": "Janata Sah Bank, Dharashiv Polls announced; CRCS Disposes Petition  Indian Cooperative",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Janata Sah Bank, Dharashiv Polls announced; CRCS Disposes Petition Indian Cooperative"
+            ],
+            "tldr": "Janata Sah Bank, Dharashiv Polls announced; CRCS Disposes Petition Indian Cooper"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790317900838",
+          "title": "Uddhav seeks special session to discuss steps taken by Maharashtra govt to tackle dry spell - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHRwQTM3RHJrQ3pyR1VkMDA5SW1UZmZLdGVNQVhWcXpyejNIMnBqWHc3RjNtNFA2LUJLamlLdGpFal9rSkxaSGFVVXdRSUtlRi1seW1CbnFUWVFWRC1pV01SNWZNdU14ZDdyckJYcWpGY1pON2szSlBkNkFSU2J6OE85d09kZjJqMkFkS2VWc21BbWgzT1BDbHh0VTY3OXpXZzNiNDlRNXpkZ19jV3kzbklRN2VvcnJYYkZjcVJJTEcyRjY40gHKAUFVX3lxTE9zLUY3MjhqZW02LUt6eXlsNk9fNktfclZ6Z0FEVWNYQUVJRGNpUDFZeUhCUUhLR3hXOEtqMkZjOVpUWTNSQTBkTVNuejZMVkZpdFhNM3VocWdCNUtabVFlbl9iYjIwYWNJMDZxYkQtQXhQbnVFaUNpS3psRE8wYm1YQ2tQTDJvWHlpemYwS24tVmxxWTE0OWZpcUdUZEU3RHE3VVdQa1o2MERqUHQ4UkY5Ty0wRkFLOEF2aWdqMFB1bUIwQll5WG0tclE?oc=5",
+          "time": "20h ago",
+          "body": "Uddhav seeks special session to discuss steps taken by Maharashtra govt to tackle dry spell  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Uddhav seeks special session to discuss steps taken by Maharashtra govt to tackle dry spell ThePrint"
+            ],
+            "tldr": "Uddhav seeks special session to discuss steps taken by Maharashtra govt to tackl"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790317900838",
+          "title": "Rohit Pawar: MLA Rohit Pawar on a tour of Marathwada; will interact with farmers to understand their difficulties - Lokshahi English News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY2dOSy0yVk5RbzFYbTFSV0xXVnpQYzlCTGY3Sy1yYVl5Umlrdi0xRHNuZ2JOUkRjeWNjOXFtdjJjbjZsN3RXUUZkYmNNdDZFUHB1akF1M2lyRmdsWXRxNkZKb190bWpSeWZrWXY5NnhkcEVTa2VJYXVWTjZOZVZ0RnM4WHZDa2Y3bE9TMjU3NnhHdFpfc3Z6bXhNbjZZakZwVEVGZVlsakRVUGFtdWVoLThZV191SmhSMXVFSDFYN3d0OGVjbHdpU1NGUG9Cak1lQkR5cEV1YURydWhXT01fLXAtR3hNMGh30gHoAUFVX3lxTE9jZ05LLTJWTlFvMVhtMVJXTFdWelBjOUJMZjdLLXJhWXlSaWt2LTFEc25nYk5SRGN5Y2M5cW12MmNuNmw3dFdRRmRiY010NkVQcHVqQXUzaXJGZ2xZdHE2RkpvX3RtalJ5ZmtZdjk2eGRwRVNrZUlhdVZONk5lVnRGczhYdkNrZjdsT1MyNTc2eEd0Wl9zdnpteE1uNllqRnBURUZlWWxqRFVQYW11ZWgtOFlXX3VKaFIxdUVIMVg3d3Q4ZWNsd2lTU0ZQb0JqTWVCRHlwRXVhRHJ1aFdPTV8tcC1HeE0waHc?oc=5",
+          "time": "23h ago",
+          "body": "Rohit Pawar: MLA Rohit Pawar on a tour of Marathwada; will interact with farmers to understand their difficulties  Lokshahi English News",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar: MLA Rohit Pawar on a tour of Marathwada; will interact with farmers to understand their difficulties Lokshahi English News"
+            ],
+            "tldr": "Rohit Pawar: MLA Rohit Pawar on a tour of Marathwada; will interact with farmers"
+          }
+        }
+      ]
+    }
+  }
+}
