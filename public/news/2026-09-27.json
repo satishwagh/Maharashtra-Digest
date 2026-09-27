@@ -1,0 +1,797 @@
+{
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T07:01:04.215Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1790492456961",
+          "title": "Maharashtra declares drought in 75% of state amid rainfall deficit - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVViaHpmQXpxaGMzdDVacGhIaTBqWllQcXVWRFo5TUM5V083bUNJX25TRW84bmUxNC1fVUdhbktyRTI3bWFEMGtfUHdTLUpQQVpIODdmRVZFdmU2cjE3MG82eHRNYUpZZmU3WWtyamo3clcwYS1wUGk3SjNWd2V1N0FGckRrQXF0WjNvRE43VG5ZMjJNcEszSVhFRkllNnFuSnhsT19pX0dRbFg3U2fSAbQBQVVfeXFMTzMyNzg3aUZCc2tQVWJ4NnFQLXVSTms3RE9UWVN0RnhPdktBaDNwelNvWUxPZW5vSFhBUWkzRjh3OGNHekY0M0xJdzJlUDdUSTcyNzBTU0pCOVBJdEE5WXlUbTl5eGhLYnhRcnZuYkhXenZiZF84b0dmclkyX0xPWmkzSTV3c2tDNkFHMjZOT0VkclgyV05zVnV1OFo3dmZfRW9YR2ZSXzJzY0lqU0kyNVVXbDRP?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra declares drought in 75% of state amid rainfall deficit  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares drought in 75% of state amid rainfall deficit The Indian Express"
+            ],
+            "tldr": "Maharashtra declares drought in 75% of state amid rainfall deficit The Indian Ex"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790492456961",
+          "title": "Kalpataru Among the First Real Estate Companies in Mumbai to Adopt Maharashtra Government’s Model SRO for Seamless Property Registration - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSFE0VXVMTTlneDJ6bEp3QWxkMXpWeWNuMXoxOHYyLXRDdWZmT2lUU2Q3a1J5Mk05dHNQcV9pUjdXblNPNF9EZ0xib01zZVk5ektJTVFteGpGSXdLMEg3YUhDdzVhVkxRWEZMaUw0Ymo1OUZkajJFVzJoSU1fUWdLQkdZbVhfQkNvZTZYejlZZHNRWnd1QktCcHhfWWptU1BYcmtDckNXWVF1UlJLVHpvRHlkOTFhUTVTNXJXVXd3Z2NYOWZ3Mjk5Q0t6X3Z4RUJFYjc2NjBVcmxHeEhxVXlrdS1GNm12MXlidVFkZW93eDFwZENKUEdvY2xIZXlvaU9zeHpHLUpsYkR6T2NfaTVqMdIBlgJBVV95cUxORFpGUWFnSW1XZ1lOZWdVVGpyNldkZGFQVWJud2t2WUVzS0lrQ2hNRVJEWlRIdzFVRzkybmN4dnNEQ1hQaVJZTmhENWd4a1c3UWpqa1hfNDNwRXFfTkVITEhkMnFYSlNNU0puZnRSOFJlRlMxNl9xOFg4SXFPalZYMHFodmo5Q1lOTnFsb0VGb1hZaUdDWHZ1RGZEYkZZS3hfLWRrMWRITVhZRjlEZFJueWd6Y2V5dkdVc3BDSFVwQWpQWWVYbEJTN011dDN2dEg1RkZUMF9mMC10V2JxOHB6UWhaVldkdUU1alF4TUJTaWF4aGk3UjItQlJSVjd5Q1ExTWFleUVCX1hMSXctQllES3I3ak9KZw?oc=5",
+          "time": "23h ago",
+          "body": "Kalpataru Among the First Real Estate Companies in Mumbai to Adopt Maharashtra Government’s Model SRO for Seamless Property Registration  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kalpataru Among the First Real Estate Companies in Mumbai to Adopt Maharashtra Government’s Model SRO for Seamless Property Registration ThePrint"
+            ],
+            "tldr": "Kalpataru Among the First Real Estate Companies in Mumbai to Adopt Maharashtra G"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1790492456961",
+          "title": "Decode Politics: Why Maharashtra is reviving student elections after 33 years - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1pmcDNEeXotaWVpeXpSZVJSanVmaWlMOXR1aDZYc3Q2ZkdlUzczaTljQjhxLWRLTDRfMTRUSVFiWTU1RkRnXzdyUk5aN1pJLTZSUTV0TFBTX1ZZV2F1SXRUZFIwQ1RWY3VpNGVpSU1xcjRTOEZNNFd5dTdMU2FnZGIyWFZQQVUyVTIwZU1heUp2ZnJadHIzdElGdXFlckhraGprdERQUGwzOWp3S0E4LXo3QkNDRnpEUUFfYTI4d21DMGVqS2J30gHOAUFVX3lxTE4xRGVocTB5NGtFWllqZVAwVDY3VVdOSEZsTFR1R01tTlpwTk5DQ015VUpTbEk3WjM5Y0V4UlFxTXljN3cwY25nMVBLODNVSXNBQmFkU2JCOUI1M3I4U000czZVTXE4djFvb05YQ1dJWVVqWUlOVkUwcTNTbVpFSlNCdjdOOVZScXhZWVAzWkd5bjlLXzRnVHczc1NNeVRMWDRUR2xBRHRvSUNMR1gxRW9LRjlXN2JwY2IwTW04MW51QTJnSjY3UFpHUmlpWmRn?oc=5",
+          "time": "17h ago",
+          "body": "Decode Politics: Why Maharashtra is reviving student elections after 33 years  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Decode Politics: Why Maharashtra is reviving student elections after 33 years The Indian Express"
+            ],
+            "tldr": "Decode Politics: Why Maharashtra is reviving student elections after 33 years Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1790492456961",
+          "title": "As Maharashtra declares 265 Talukas as drought-affected, opposition demands more assitance for farmers - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT2M0Z3VaaVRsV0VUVi12dUJxTWFQRXdrNHNoMFJwX0tDWnMxVldqdVRQQ3BhN25sYmdWcEJId2RlOEpXeW1ITXRuc1FSc3RrczRUV2xBSnFocVpsX0oxUWpUWW1IZnREdUNHbERuM1JLeTIyME8wdGZwTDVFcERBbi1DcEtzX09hRUtOcU1ocDR5enhYZE1sYTFyUEJaSjFNLTFJdVJyODRIclkwa19yU3VwNURNdjE2NXlmN0tiZGFOclhqenhhZDZLdGFJSlc2NFZpUUF0Ym84QkxvMkxyUURnbXJyXzlWTFJ5ZURBRWp4cTA?oc=5",
+          "time": "21h ago",
+          "body": "As Maharashtra declares 265 Talukas as drought-affected, opposition demands more assitance for farmers  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "As Maharashtra declares 265 Talukas as drought-affected, opposition demands more assitance for farmers ANI News"
+            ],
+            "tldr": "As Maharashtra declares 265 Talukas as drought-affected, opposition demands more"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790492456961",
+          "title": "Aaditya Thackeray urges Maharashtra government to ensure drought relief reaches every farmer - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVUE3RHFud2p0RmxzOTZsaHdTVXRFb19RM0doQmtUUldwd1ZvTF9SMU12SXJja1ZuTzhvNGVzT3QtOE1POHoxMlJDRG9OTVZyNW81d3JUbmpQOXRRU1cwVzFWaFFzd2tGTUpBUXNjQjB5a005VjN4bW90SEFfMW94cHBqb1owX2Q1azhUdktZTU9CNzVhdi12cm9qWmNKOUd6OW5QMHNBR01nZG55aXNOVnpkMUY2ZjlfSzZjN2FPSWVYZXB1RlEwM1AtaXV2czg4VWxWTmRHcVdjZWNfWmxaSWZmWFJrNGtkdExlVXVVbUpPeEFjbkxZ0gH3AUFVX3lxTE1VQTdEcW53anRGbHM5Nmxod1NVdEVvX1EzR2hCa1RSV3B3Vm9MX1IxTXZJcmNrVm5POG80ZXNPdC04TU84ejEyUkNEb05NVnI1bzV3clRualA5dFFTVzBXMVZoUXN3a0ZNSkFRc2NCMHlrTTlWM3htb3RIQV8xb3hwcGpvWjBfZDVrOFR2S1lNT0I3NWF2LXZyb2paY0o5R3o5blAwc0FHTWdkbnlpc05WemQxRjZmOV9LNmM3YU9JZVhlcHVGUTAzUC1pdXZzODhVbFZOZEdxV2NlY19abFpJZmZYUms0a2R0TGVVdVVtSk94QWNuTFk?oc=5",
+          "time": "18h ago",
+          "body": "Aaditya Thackeray urges Maharashtra government to ensure drought relief reaches every farmer  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Aaditya Thackeray urges Maharashtra government to ensure drought relief reaches every farmer Mid-Day"
+            ],
+            "tldr": "Aaditya Thackeray urges Maharashtra government to ensure drought relief reaches "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1790492456961",
+          "title": "NCP(SP) questions drought relief, asks CM Devendra Fadnavis govt when compensation will reach farmers - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSmRQVW9ybXdVWFpFT3J1bHFjalA3LWlIazNxandya1ZfcUZHdkZaZ21rTGhvOHlMVTJwNVJ0TXJYbnFXTnNBU0dmM0dZUWxJaU45UTZyM3lMMjJBalJnS1VEeVdtT1laUnRiUHpzUGI4TjVsNEc3N2gxNDFDNllsRXpESnVIakVOTDhmckkwX00xNlU3VFZOTXpTdy1OS25EczBPbUVib3dTZmpObVZhcTdHVnhROU1ncnVQalJreThSSlBOQnF6eWpWYUNINFI0V3NuN0p0QWRvYzZVMHNKWkdVTExzUlJlU3R5R2FpOGhKcDlJY1JzeXppelprLTRQcGfSAYcCQVVfeXFMTmlVRElQMTJIa3lvekFseHlUVEpwUmtyc2xaMGNTd1hPQmtfSlAyVFE5ZHNxZDI0WTN0c0ZhRjBMelRCYWc5cjYxb1FLRHQ3NmMtYVJHbHM0ckJGR3Z5MGtyaVZwSC1GZTNlYTBhdjVqWWplUjdGR1ctSm9iNU1TdFN3Z1RLZGVqM0lkNlA1Uk5odWVDb0FYLUxaZjF4QzdEbmtoZUNNTkhORk9xTkg2TlhwOTlnel8ybVNtUnJZa3FHZjY5aXU0OUVPR0wxMHpZYllMdlBIMmhlR3c0ODIxVmh6VUt5T0tlWlpFSklSbWVrRVRMQ01JT0x2NTBEampkX0RRVWFTU00?oc=5",
+          "time": "18h ago",
+          "body": "NCP(SP) questions drought relief, asks CM Devendra Fadnavis govt when compensation will reach farmers  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP(SP) questions drought relief, asks CM Devendra Fadnavis govt when compensation will reach farmers The Times of India"
+            ],
+            "tldr": "NCP(SP) questions drought relief, asks CM Devendra Fadnavis govt when compensati"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1790492456961",
+          "title": "Maharashtra govt declares 265 of 358 talukas drought-affected, announces relief measures - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjZ6TGVHWWRNNS1vcVpUandUMWxjMGhhWGhZSURVSFlzQWc2VlpjLWVqNUlNZ2lWMmVXRC1ZNG1Zamk1YmptNmVHSnR4Sm9aMmdzZ2RpOUxUc2s5LXYyT2lVSGc2dXpTajJjenA4ZFUzX0YxVWZLbVNRZjdhT2lEeDVrdmhfN2FMc3hseDZhd1JiMWtfU0hwTlFlSWVRZ2VaZmUwRHZvb1JRZ0t3V1B6SUJZSFBjVHI0bG8wbGZxcW0?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra govt declares 265 of 358 talukas drought-affected, announces relief measures  DT Next",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt declares 265 of 358 talukas drought-affected, announces relief measures DT Next"
+            ],
+            "tldr": "Maharashtra govt declares 265 of 358 talukas drought-affected, announces relief "
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1790492456961",
+          "title": "Maharashtra declares drought in 265 talukas or nearly three-fourths of state; announces relief measures - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2I3eDRWdzRpZ3RER3ZZdzVSUENianI3Rlk2cVFUNmhWV25hYVRJMlVpWHdvWjUxQmhiS0s2ZXNxTHVNVy0tRmp2cGoxWHd0MXRqMm1fWk9JQjl2dVZBZDJWMTNOdDJFZW9lMF9kRThxcDBzS28zQTVvemVMa2Z4cXhEcWp3R0RUcUNpZG9TOTdrTDNEUHFLQkZBV1JWa3ROT0JTQlN3d0R6MER4U0YyM05tOWNrejdzYjNuQnd3NS15ZWc1c1ZzcHl0MFRtTS1qRUY40gHYAUFVX3lxTE8yWHI3NHNWZjl4ZGUxWWcwaFFWRmZqN0pJbFFVd3N3d2JZUkZ0bldtbk1WQmEzX1JUNUI3RUpEX0NHLUtKN3hldXRtMmN0T3RkLXZueFpnWXBrbFVadE4tbklxdFNUa1FDRVJ2eEF2SVJEZkV1RDhVRWVqM2tNS1B5Smh0RHpuOFpNSXhxdGw4RGMtLWNHbFZJQzFaWEVhMUdjcGNiX1RyaEtYVm5PRkxYRTVuN0ZsUHZvRnZ4cFQ2c1dDU2NmN2ZEaWw1WHBLQjhqdGxETkpWeg?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra declares drought in 265 talukas or nearly three-fourths of state; announces relief measures  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares drought in 265 talukas or nearly three-fourths of state; announces relief measures ThePrint"
+            ],
+            "tldr": "Maharashtra declares drought in 265 talukas or nearly three-fourths of state; an"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1790492456904",
+          "title": "What will drive stock market this week? US yields, crude and geopolitics in focus - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2FOeHlYcE5pOG0tX2Z2d09FY2h3dVR2XzI0V1VqUkY0Wk5FSFFOQldoRFV0eTZaS1ZReTFTSmEyZmxaN0ZmSENjaldTYkJBNUNrX0ZGU3A1cXZUb2J4bGZpandHeWppVEZiRnJLbzY1QkFfeFZUclFwY2NRMGdzal9ESjMzSWR1UUVHTG5BSEFHelUyNlcxaW90T2NvWEJPSE1Id1JuVFNuRUdhUmdXTW1CYlNQMjlSYm95M1JwbGTSAc4BQVVfeXFMTkNCUnR0Z0JuSXdFWmpzdXNRTkNGLXlrckVRRlNzc3NRWXl3TmdfQlppakRxTm5XSm0wc2VvNjJ4eHVlWDU2TW5oUlJLMm5TalRhRTRLTnRsZjlJOWZGZW1mSXNHT25hOXFHT1JYeEFlS19BZlpLSDZPeDgtVE1CVlVjQ3dLR09mb1RGc3lxVlgzSEhOa3lBQ0E0OTZYcVhDQ3V1NFNlVTlxYnBIWGtGUF90UU9mM1pEU3ZTMFBhSzhWMnA3T3JRRFFRTEMtMlE?oc=5",
+          "time": "1h ago",
+          "body": "What will drive stock market this week? US yields, crude and geopolitics in focus  Fortune India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "What will drive stock market this week?",
+              "US yields, crude and geopolitics in focus Fortune India"
+            ],
+            "tldr": "What will drive stock market this week?"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790492456904",
+          "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3N4b21hRzhJSXdJVzFVNWRNQ3RqT2l3aXFBN2RjN1JDX1Y2V2U5MXlDN2l1a1BGQ1hLcWktbEgwYU1UMUEtalJDYkc5RDZqX0FHdFVuMmpDVDhHdkhWSDVpMFpXLXpoa0ZTWDdGcTBxU1hJSUtIQzgwUXZvQTRPdUh6UnlXYUkxZTZHTmJFSnFQcVFSc0s4V2tGNUUwUTJVZktuRkUwY1c5eTI2NjA5VEgwMDExekhFYVhLRW4wRlduOU1wZ2JqV1F1emdiLVUwWHZwa3BmOXV3MmtLOVpzWlZOOXJ3b1MxY2pvR3VYRlFjYkxmNFdIWGFxNTJJYVVvcWhJRVVwb01UbU3SAZACQVVfeXFMUDJ0a2tkZUxvVXFoM0VZMW5YYm13NlNjNl9KY2l6X2NkS0VvMGw5eGhyWDRzU2ZsTlJmTVdTbmZ0Vzhqc1YyNGU2TWV2a0FLLU1vQmRRVktFOXhtcDRwVVVMbXZPNmo4Q0V4ZkNCU1M3TEZ3RzZwcVp6SlhoczYwY3NYNVN1c1BKSTJLYXBRbVh0bDN1ZWc4VnZNb1VZZERDOFlSXzFwNW1RX0d4LVVGRHUta0Q0cVR5dndQUGNYaTkxWFU4ZVloTzNfR01UMDJ5aVB2R0ptYjU5Q0RLRnBEZExqdEZJV1BDMHRiRTBBa19fa0djbno1blZZM1ZwUWx2VWREaHpQeS0yVFQtRFpQc2s?oc=5",
+          "time": "2h ago",
+          "body": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues Livemint"
+            ],
+            "tldr": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | G"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790492456904",
+          "title": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1htanU5VmNRTEhnM0FDSVMtd1QzSHJsNmF5N08zWDFyUkN1cG5DUjFMTEd3WjlBS1JCbGpEWlRMRVNhQWF2YVZRRnN6a2NEcXRtOXVkck05WVk0Q0pxbWxsSXhFTVM1cHlvV0pSM21XZTZWa2FKYTlMRE01UTlfdjdiaTU5VnlWVlFEdmR1UXI5WUVWLUFBR2ZSMGlnUU50VVBDNHFWdG1hdXhJOHEyb2dSTmpxNlEwWHU0ZWRocVNyNUxSZlF3WU90SjMxc09EM2FhdFQtZFQ?oc=5",
+          "time": "12h ago",
+          "body": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment, All Eyes On RBI MPC Outcome Goodreturns"
+            ],
+            "tldr": "Stock Market Today: Nifty, Sensex Jump 3.5% As US-Iran Ceasefire Lifts Sentiment"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1790492456904",
+          "title": "Market weekly wrap-up: Sensex, Nifty decline for the seventh straight week amid elevated crude oil prices - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWEwRFlabzJHbkF3NVlnaDVJSkh0enFXcnVBMmFCU3RtS1BYVlZIUzcxd0hndXh3cHpOVmRjVEFybDRXbm1JOXQxaFgtSXR4Nkk3SDkzSl9QSkVMdHlJOVQtTEJxMTRKRG94Y003TkRNUjlvNUlYZ0lXTEdoaThCTnBDQmFSaGgxX2ZSWXplZzZ1VFQwdXUxaXRxc0M3akVXbnBIMjYwRGVkbDlEME8xSzgzZWliYnlrbGl1ekQ2YzBFTGxRQjVEZEZpbG1kejN0TUpTZmRhZ0hRaC1wbHlGbnVaSGN5UlI1WnpZWDEzMXA2VWlaQkNrNHR6Y3FtdkHSAf8BQVVfeXFMTjVhMERZWm8yR25BdzVZZ2g1SUpIdHpxV3J1QTJhQlN0bUtQWFZWSFM3MXdIZ3V4d3B6TlZkY1RBcmw0V25tSTl0MWhYLUl0eDZJN0g5M0pfUEpFTHR5STlULUxCcTE0SkRveGNNN05ETVI5bzVJWGdJV0xHaGk4Qk5wQ0JhUmhoMV9mUll6ZWc2dVRUMHV1MWl0cXNDN2pFV25wSDI2MERlZGw5RDBPMUs4M2VpYmJ5a2xpdXpENmMwRUxsUUI1RGRGaWxtZHozdE1KU2ZkYWdIUWgtcGx5Rm51WkhjeVJSNVp6WVgxMzFwNlVpWkJDazR0emNxbXZB?oc=5",
+          "time": "19h ago",
+          "body": "Market weekly wrap-up: Sensex, Nifty decline for the seventh straight week amid elevated crude oil prices  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market weekly wrap-up: Sensex, Nifty decline for the seventh straight week amid elevated crude oil prices Mid-Day"
+            ],
+            "tldr": "Market weekly wrap-up: Sensex, Nifty decline for the seventh straight week amid "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790492456904",
+          "title": "BOM.OXYGEN Stock/Share price , NSE/BSE Forecast News and Live Quotes - equitymaster.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdVNfTHdPZGdlMXYxWlhoeUFKbUo5MDFXem1nQnMyTWkxX1NaSnZHX2dsLWVuY3NlOUZqUzhkMGNYYVZKLW9uVF96WE5iVEt2WGxLNTdaT1FUbWVzX0NzOE96ZFBWMjk2dEM2VHJlNFRGcl9xV0VXcVRzVmJYYVFIX2E4MFgyUTZRRHBHc0NoaDh3VldpbnVLX0RRMk9TYktITW55VTF3WFFuYzlPeU5kR2dJM3BlRE9OZllFRFJiT2FOMXFXeE9fRlZhdnhWQkhfaXExcGNvSHJsNjN3em5scnppemlmX0xlQTFEY1U1UnNzM25HcEhfZ2RjRk5sdFpvRllSVHBVc0hXTUhDbWp2Z0tqelJqUUZWTDk3MGticTU2NnhvbzdWUVVnNlZJb3M?oc=5",
+          "time": "20h ago",
+          "body": "BOM.OXYGEN Stock/Share price , NSE/BSE Forecast News and Live Quotes  equitymaster.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BOM.OXYGEN Stock/Share price , NSE/BSE Forecast News and Live Quotes equitymaster.com"
+            ],
+            "tldr": "BOM.OXYGEN Stock/Share price , NSE/BSE Forecast News and Live Quotes equitymaste"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790492456904",
+          "title": "Today’s Platinum Price in Amravati – Live Platinum Rate per Gram & Kg | 26 September 2026 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObEowRVc4T1BfVVpnQzdiaHlmMkExRkRGaWJUYXFHRzdBTFdUTW9KWFEyT0JXWVNSbVQ1dzVRU0ZtR002TU1jaVdkcG56WGpXbXpNVU9ud0gxOGFpYlJmMUdoSU9sVVlsLXZSdjlySFJTYjRiVzFhQmRpcXZMQ2xITS0yM21wdlZBdlgxVW1JWnlaZzA4ZXNz?oc=5",
+          "time": "12h ago",
+          "body": "Today’s Platinum Price in Amravati – Live Platinum Rate per Gram & Kg | 26 September 2026  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Today’s Platinum Price in Amravati – Live Platinum Rate per Gram & Kg | 26 September 2026 The Times of India"
+            ],
+            "tldr": "Today’s Platinum Price in Amravati – Live Platinum Rate per Gram & Kg | 26 Septe"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1790492456904",
+          "title": "Purple Style Labs updates CIN to reflect listed status after NSE, BSE debut - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekNfRG5JTGNqOGluTHdPREQ0SWJXM3VKYmtqdHlZZ29POTBjNm1MeWdUQUF6eEI5V0VCRTNTbFB4Wl93N0NkNjJpX2JCUUVUb3lzVUQ3dndMUEVzbnBNMWs0SHFROXV1WXJnaTFROTRDT0J1T0VVVG94dmo1aGxnZWJKX1pLQUN5dTllS0xSdTlxVjFCTGs5bDd3cU1mRDR1S3NxYm9KWHVocXZXVlFKWWE5SW9sLWNzZVdPenJGMA?oc=5",
+          "time": "18h ago",
+          "body": "Purple Style Labs updates CIN to reflect listed status after NSE, BSE debut  scanx.trade",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Purple Style Labs updates CIN to reflect listed status after NSE, BSE debut scanx.trade"
+            ],
+            "tldr": "Purple Style Labs updates CIN to reflect listed status after NSE, BSE debut scan"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1790492456904",
+          "title": "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks. Do you own any? - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQUWNoQjk2ZUJqUkVaeEtaSG1uQld1eHFEMTNRWWY2TVpMenJpNnJyUmNnNG9HQkQya1YxMURQUlFaZFpENEt5VXc4MzVtNHEwMGhRNm9HaVlpQlktZWphd2pLbHhwZm5XeTJsVU0zV01GWWNrWWc3U05CYTZlcDRidHRfLUt3R2pQRGhlaVZnM3daS2lNS3VIWFR2RUxYUGtSOUt6d2hUQXFncXF6MS1MeEltVXlIVWRyRy1kQmZRWEkwZ2xyZkhZd21JNktRVkIxTjZaUktCam9uRjNRTjUxWHItcnc4c25yRF9YZXpLYnoyR0FNRE1RNDFsc0J2NUFBT3pxOEd2c1B3eUxfa3JIcFN1YzhuczJPUjQwRjRoOFZGYjV5R0Uwb2wzSWd4TDQ1?oc=5",
+          "time": "23h ago",
+          "body": "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks. Do you own any?  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks."
+            ],
+            "tldr": "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market s"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1790492456961",
+          "title": "Maharashtra declares drought in 265 talukas amidst severe water shortages | Mumbai news - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQXlrMTNPb1l4SzQ3V0dKdkxETXNVVUstT1NOeEtoZ2pyVEdyaDI3aEVWNHFhQ0tkQnNKb0YwNDNmQWQ0VG91aWV5cVFzMEpvcjMwa0RKSVhkejhybmVDNkNmUU1VYkczbEhncVZhWWlZUE0yc1BlVi1Rd1BBeVhBTEd6X0RWM1pnTWU2UEFZMmZhaGd1MXRSUzhRWS0zZDlYamluc2t6X0R0Z3FnYUw2REJRTlVxNS1Nbzllb0ZRcVlRRmE2akdqUjN5TE1EYzc0aEx2QjBobG5zTXc0cjlSQ1Vn0gHiAUFVX3lxTE9BeWsxM09vWXhLNDdXR0p2TERNc1VVSy1PU054S2hnanJUR3JoMjdoRVY0cWFDS2RCc0pvRjA0M2ZBZDRUb3VpZXlxUXMwSm9yMzBrREpJWGR6OHJuZUM2Q2ZRTVViRzNsSGdxVmFZaVlQTTJzUGVWLVF3UEF5WEFMR3pfRFYzWmdNZTZQQVkyZmFoZ3UxdFJTOFFZLTNkOVhqaW5za3pfRHRncWdhTDZEQlFOVXE1LU1vOWVvRlFxWVFGYTZqR2pSM3lMTURjNzRoTHZCMGhsbnNNdzRyOVJDVWc?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra declares drought in 265 talukas amidst severe water shortages | Mumbai news  hindustantimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares drought in 265 talukas amidst severe water shortages | Mumbai news hindustantimes.com"
+            ],
+            "tldr": "Maharashtra declares drought in 265 talukas amidst severe water shortages | Mumb"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790492456961",
+          "title": "Manoj Jarange: The chapter of the movement in Antarwali Sarati has ended; warning to head towards Mumbai from Patoda if no decision is made in 3 months - english.lokshahi.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSDZxbDdMeDE5VFkzU09RZ3ZyOVpublQxSnFGdWl1Qk9NcDA1cEwxT2d1LUFrVFhmUU8wVWlNYW9iUUpEQngzOTg0MW9FODZHREpFTm85S3ZOSDFSdk5KT0Y0LVNLUG5SZzZzYmhjWF85bnFSREs5b2dZYmZWMG5CbDA5cWlZZGR5c2lsVFVIdHFKVTlrS1lkRFJhOTZYV3gxTl8tX280eUozNDhQN2Z3OEFOVURObngyY3fSAboBQVVfeXFMT0g2cWw3THgxOVRZM1NPUWd2cjlabm5UMUpxRnVpdUJPTXAwNXBMMU9ndS1Ba1RYZlFPMFVpTWFvYlFKREJ4Mzk4NDFvRTg2R0RKRU5vOUt2TkgxUnZOSk9GNC1TS1BuUmc2c2JoY1hfOW5xUkRLOW9nWWJmVjBuQmwwOXFpWWRkeXNpbFRVSHRxSlU5a0tZZERSYTk2WFd4MU5fLV9vNHlKMzQ4UDdmdzhBTlVETm54MmN3?oc=5",
+          "time": "19h ago",
+          "body": "Manoj Jarange: The chapter of the movement in Antarwali Sarati has ended; warning to head towards Mumbai from Patoda if no decision is made in 3 months  english.lokshahi.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Manoj Jarange: The chapter of the movement in Antarwali Sarati has ended; warning to head towards Mumbai from Patoda if no decision is made in 3 months english.lokshahi.com"
+            ],
+            "tldr": "Manoj Jarange: The chapter of the movement in Antarwali Sarati has ended; warnin"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790492456961",
+          "title": "CEC row | Why CJP chose Mumbai as protest site after Delhi? 'Scam started from Maharashtra,' says Dipke - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVjZmY2dIX0ZSRTBCSEI1ZU1WcWZFTERtb29Jb1hPQTRnb3R2VUpUSWR0X2FkbUZxU1F1NlJaLVNIRDRKbmh3TkNsUUJTNk9ZZXdhNkNpU1dlY3dzZy1aeFR2Z2xsQUx0c0p6WXJYUVRtamF1b3ZzVWYtM3FRZnlXSjVSaTFMRG1tZ2MtcWhnOTNCRkFlWUNobEVJMVdMWnVRZzBJYmhaYVNwS090eV9QaDB4dmNIeXJ6QXZKOWFKUkZpWEU1QVRXSjQxOThnSDBDdS0wUlptMzFlUTNaSEp1dGhyRm9IQlk?oc=5",
+          "time": "21h ago",
+          "body": "CEC row | Why CJP chose Mumbai as protest site after Delhi? 'Scam started from Maharashtra,' says Dipke  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CEC row | Why CJP chose Mumbai as protest site after Delhi?",
+              "'Scam started from Maharashtra,' says Dipke Deccan Herald"
+            ],
+            "tldr": "CEC row | Why CJP chose Mumbai as protest site after Delhi?"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1790492458213",
+          "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHV0UGktN19NNHEyOXZKOXFXSVkwQ0h5dDFLZTVDYXNBbjI0bDI4SHYyT3pqWWJCZzRJMGxoU0k5NkJ5Z3VjbmlmbzhuWkozTTlKWDI0NmxMaFl5cE4zLTltb3BJeDg4OXVKRHRZT19SR3JmNS1zQUd5TUVZU191TnFRZ0VwdzdtaWFZY1R4ZUNPcmFTSVVvVEdqeFZRMUU1VERVcWh2clNtM254YXhmcHZySW0tTzVCaURpbHBhbEY?oc=5",
+          "time": "23h ago",
+          "body": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman indiagazette.com"
+            ],
+            "tldr": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sithar"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1790492458213",
+          "title": "Bright Outdoor Media Eyes Next Phase of Growth as CMD Yogesh Lakhani Turns 63 - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSU5QdUJXUE92VWdva1JfRV9GRk1CZ3h6MHZ5QjZ4RUN1TDQwOC15eEJrY2taMU82b0c2MW4xVy1uS3J4LWdzSEU3T3FBZFJsQTJwVXlPNThBNEluR1FvdnY3Y3A3b0Q0bVVvRnpUNDY2T3p2TGJqR2RNejMzd3VCdW9WWTJjVTJZay05cmRmWlVHZWZ3YVpoSG1hWXpvT2RZdHlzdzV6SnRGUzFxZnNjaW83UjRueHQ2cy1mbW41ajBURnlSbkE3c20xYnExSnZhV0VuS2hCZjljekdIaEE2NEY1OXpvY1NmOFVLQWkzUV9RUDZt0gH0AUFVX3lxTE5JTlB1QldQT3ZVZ29rUl9FX0ZGTUJneHowdnlCNnhFQ3VMNDA4LXl4Qmtja1oxTzZvRzYxbjFXLW5LcngtZ3NIRTdPcUFkUmxBMnBVeU81OEE0SW5HUW92djdjcDdvRDRtVW9GelQ0NjZPenZMYmpHZE16MzN3dUJ1b1ZZMmNVMllrLTlyZGZaVUdlZndhWmhIbWFZem9PZFl0eXN3NXpKdEZTMXFmc2NpbzdSNG54dDZzLWZtbjVqMFRGeVJuQTdzbTFicTFKdmFXRW5LaEJmOWN6R0hoQTY0RjU5em9jU2Y4VUtBaTNRX1FQNm0?oc=5",
+          "time": "23h ago",
+          "body": "Bright Outdoor Media Eyes Next Phase of Growth as CMD Yogesh Lakhani Turns 63  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bright Outdoor Media Eyes Next Phase of Growth as CMD Yogesh Lakhani Turns 63 Business Standard"
+            ],
+            "tldr": "Bright Outdoor Media Eyes Next Phase of Growth as CMD Yogesh Lakhani Turns 63 Bu"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1790492458213",
+          "title": "World Tourism Day 2026: Technology, Sustainability And The New Face Of Indian Tourism - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeG5KeXJReWpUNUZBVU9sUlRjd21IODZRUDc3cFZJSWdxM0V2WmQ2aFRjS216RW9EWFZsLU1Ta0ZIa3RwODZDZXNFZE1fQ04teWdMVmE1UjZBTVhNd1R3NVE3TWJBLTNOcVVob1hvbXFJYktTTV9JaFpDeDhidlFwWjZFRTB0VVA5VDd1ay1EX2duYmxZd1RXeXhybmptVTlZLU9ERkMwTnpfeGE2V1lsT21CbkFfSWJPQTI0aWpQZTROZ2fSAcgBQVVfeXFMTk01d2pHbGNNYkthOVhCNUUtVDFoa1hObmZXaW04MDZ3cXJuRzJmWTZVNHVGSno5OXQ4U2JzSFNGdy1jM013RDk5bTl1REhwZkFMRmgwWGZHUlFFeDEzZVdJTGo2LTJob05kRVItcTZZWFhsMmpDV0N5SzlRR1dIbzJlWnl6TGUzN1p0TjZDVDJEVjI2ZzJXamtKekVRNUNLdU0tdXdpaF8wQVd3cU9PMHB2c3N4cl9fQXhIaW16MVlYRVY1MWlfY3c?oc=5",
+          "time": "5h ago",
+          "body": "World Tourism Day 2026: Technology, Sustainability And The New Face Of Indian Tourism  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "World Tourism Day 2026: Technology, Sustainability And The New Face Of Indian Tourism Free Press Journal"
+            ],
+            "tldr": "World Tourism Day 2026: Technology, Sustainability And The New Face Of Indian To"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1790492458213",
+          "title": "AI set to reshape tourism, from farms to heritage trails - lokmattimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3Z5djUxTkpib3A4R1ZTSGhwNWdPN1BSSDRuRDFXWjMxVFBOT3UteG54blBDUFF3anpIcDB3eGFvOHZ6WWd6V1RZSzdaNUZEZGM1Qk1KVmNOQ202SDJQSUMxUkczbkVKNVg1Y0l0MWhxRkxWLWNSRFc2VDg2SVlIcjdvWG12eTFpZlJOajk0ZVJHa1loSUFOYVJnRQ?oc=5",
+          "time": "18h ago",
+          "body": "AI set to reshape tourism, from farms to heritage trails  lokmattimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI set to reshape tourism, from farms to heritage trails lokmattimes.com"
+            ],
+            "tldr": "AI set to reshape tourism, from farms to heritage trails lokmattimes.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1790492458213",
+          "title": "DHL Express Announces Annual Price Adjustments for 2027 in India - India's News.Net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3FvbW52R2VFdEZJMnlnRmZDVjNBQ18xZ3Jpc2FYOGJ1ZWV0UVdPd0lKZHlrV0RFaWNqclpnVWNndTZ0d0ctRWhjNXhlOHFMR1E4UG9rcUhBVzdRZ2VzNXNNeVVzeHhuRFpDbmx4eENpbTdVR2dheGNNWGQxaGs2b2toNE80Z0Fad3VBM3VrVFdjZnNyWFBOYWY0Zko1UTZaU3lmTDFOQzlRdw?oc=5",
+          "time": "17h ago",
+          "body": "DHL Express Announces Annual Price Adjustments for 2027 in India  India's News.Net",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DHL Express Announces Annual Price Adjustments for 2027 in India India's News.Net"
+            ],
+            "tldr": "DHL Express Announces Annual Price Adjustments for 2027 in India India's News.Ne"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1790492458293",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wX3JWV0taTTFyb0VIYUs1MjZnNVpkblBvMm1vLUVBdVNPM3Q1YkxZNDJSbEZNbEVGQTl1RXNQZEYydFZBSkVZUmFJZmJVdVZIYjZBa29zaFJvc0kyRzBCSW5IVmVraVhfWWJJR056NUQ?oc=5",
+          "time": "12h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1790492458293",
+          "title": "Hardik Pandya Ruled Out Of T20I And ODI Series Against New Zealand: Report - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFFvOVRsODFZUHllN2pVSW9pajN2MjFJZTVyMkdQMkZQaHJNME9pbFltd2F1UVlmbkV3Y0h2TkI4S0xRTGxyMDh5T2JvRmxjVnhyand6U0E3MFR3bnBwOWUyMndZZE9CWkU0WEhhTnJkVTJzRGNhNnY3cW1iejU1eVJSaS1Xc04yR0tRbkJJWHh4N0NHUVdyMGhrcVdScjN2ZklSMzFibTFHNDVkV29PcXZJVmNHUk9ZR0FBcWxpYWtOdmM3SFHSAcYBQVVfeXFMTzhRbzlUbDgxWVB5ZTdqVUlvaWozdjIxSWU1cjJHUDJGUGhyTTBPaWxZbXdhdVFZZm5Fd2NIdk5COEtMUUxscjA4eU9ib0ZsY1Z4cmp3elNBNzBUd25wcDllMjJ3WWRPQlpFNFhIYU5yZFUyc0RjYTZ2N3FtYno1NXlSUmktV3NOMkdLUW5CSVh4eDdDR1FXcjBoa3FXUnIzdmZJUjMxYm0xRzQ1ZFdvT3F2SVZjR1JPWUdBQXFsaWFrTnZjN0hR?oc=5",
+          "time": "12h ago",
+          "body": "Hardik Pandya Ruled Out Of T20I And ODI Series Against New Zealand: Report  News18",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Ruled Out Of T20I And ODI Series Against New Zealand: Report News18"
+            ],
+            "tldr": "Hardik Pandya Ruled Out Of T20I And ODI Series Against New Zealand: Report News1"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1790492458294",
+          "title": "\"Super inconsistent\": Michael Clarke questions Hardik Pandya’s fitness - Cricket Addictor",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFVMN29WX2FnbTd2M2ROMEZyNWVBVFAxaWlnSmVIejlYMm9QQW5uVDREM2ZHdHBhUGhTOG1DaTJ4aWlRN3pmRzdtOEU5NklTWGF5bjhuVlJQX203WGVEZmVqSTE0d0dCOGR2SjFHWml2V1hxSm8xWmk5dnktLTZYemwyTnduYnktUG1ZUVl4SGtLaTZ0dTdJdU1UOF90Y0gyYi1uLU1lbUdKYW51VHB6SXFBdUg3dw?oc=5",
+          "time": "1h ago",
+          "body": "\"Super inconsistent\": Michael Clarke questions Hardik Pandya’s fitness  Cricket Addictor",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Super inconsistent\": Michael Clarke questions Hardik Pandya’s fitness Cricket Addictor"
+            ],
+            "tldr": "\"Super inconsistent\": Michael Clarke questions Hardik Pandya’s fitness Cricket A"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1790492462581",
+          "title": "Asian Games: Abhay Singh in action shortly as India eye first gold medal in squash",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "Asian Games: Abhay Singh in action shortly as India eye first gold medal in squash. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games: Abhay Singh in action shortly as India eye first gold medal in squash. [object Object]"
+            ],
+            "tldr": "Asian Games: Abhay Singh in action shortly as India eye first gold medal in squa"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790492462581",
+          "title": "Asian Games: Sindhu, Hooda exits cap India's disappointing badminton campaign",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "At the Asian Games 2026, India's badminton team concluded with just one medal.",
+              "Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition.",
+              "A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements."
+            ],
+            "tldr": "At the Asian Games 2026, India's badminton team concluded with just one…"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1790492462581",
+          "title": "IND vs WI, 1st ODI: Virat Kohli eyes historic milestone; Rohit returns to the top",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "IND vs WI, 1st ODI: Virat Kohli eyes historic milestone; Rohit returns to the top. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs WI, 1st ODI: Virat Kohli eyes historic milestone; Rohit returns to the top. [object Object]"
+            ],
+            "tldr": "IND vs WI, 1st ODI: Virat Kohli eyes historic milestone; Rohit returns to the to"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790492462581",
+          "title": "'I was distraught': Virat Kohli reveals defeat that was 'too tough to swallow'",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Virat Kohli recalls the heartbreak of the 2019 World Cup semifinal loss against New Zealand, which deeply affected him. He also describes the strong team atmosphere during the 2023 World Cup campaign, despite the loss to Australia in the final. Kohli acknowledges that he still has unfinished business in World Cups, looking forward to the upcoming 2027 tournament.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Virat Kohli recalls the heartbreak of the 2019 World Cup semifinal loss against New Zealand, which deeply affected him.",
+              "He also describes the strong team atmosphere during the 2023 World Cup campaign, despite the loss to Australia in the final.",
+              "Kohli acknowledges that he still has unfinished business in World Cups, looking forward to the upcoming 2027 tournament."
+            ],
+            "tldr": "Virat Kohli recalls the heartbreak of the 2019 World Cup semifinal loss against "
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1790492462581",
+          "title": "Asian Games 2026: India's full schedule on September 27; medal events, timings",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues on Sunday, September 27, with athletes competing across multiple sports and disciplines. There will be plenty of action for Indian athletes throughout the day, with Manju Rani and Priyanka Goswami competing in the women's marathon race walk, while Harjinder Kaur will be in the women's 69kg weightlifting medal event.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues on Sunday, September 27, with athletes competing across multiple sports and disciplines.",
+              "There will be plenty of action for Indian athletes throughout the day, with Manju Rani and Priyanka Goswami competing in the women's marathon race walk, while Harjinder Kaur will be in the women's 69kg weightlifting medal event."
+            ],
+            "tldr": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues on Su"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1790492461051",
+          "title": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]"
+            ],
+            "tldr": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1790492461052",
+          "title": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaultin"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1790492461052",
+          "title": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]"
+            ],
+            "tldr": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader afte"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1790492461052",
+          "title": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]"
+            ],
+            "tldr": "NRI man says wife in India turned into operations manager handling cook, maid an"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790492461052",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790492461052",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1790492461052",
+          "title": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]"
+            ],
+            "tldr": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both kil"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1790492461052",
+          "title": "Manaslu Camp 3 Avalanche: Indian-origin climber, Sherpa killed; deaths add to deadly season",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+            ],
+            "tldr": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790492462353",
+          "title": "Gold Rate Today in Aurangabad 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "14h ago",
+          "body": "Gold Rate Today in Aurangabad 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 26th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 26th September 2026 : 22 & 24 Carat, Todays Gold P"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790492462353",
+          "title": "New Audi Q3 Local Production Begins – India Launch on October 16 - Car Lelo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZm0tbU10RUZaTHBseWwzWE5mS1I4SFh5UjhrSld2elVwVExhcG5DbC1kZDlYZHB2RGRPdTRFLUFna2I0eHBWb3MxUjVBRHZmVnhISzFTbFRQZGZIY05jajd6dWJna3BPZEo3ZDZQWkFjMnQ1NDhDN3d0NG5fVFo4bms1U0IxbG9k?oc=5",
+          "time": "16h ago",
+          "body": "New Audi Q3 Local Production Begins – India Launch on October 16  Car Lelo",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "New Audi Q3 Local Production Begins – India Launch on October 16 Car Lelo"
+            ],
+            "tldr": "New Audi Q3 Local Production Begins – India Launch on October 16 Car Lelo"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1790492462353",
+          "title": "Three years later, Jarange’s protest stage, pandal at Antarwali Sarati dismantled - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV1JTTDNlTHpJUkpOb0VoeUg5QW1rNk9aM2NEMk96QUFNZ0U5VlF5MHNXaWRoQlRpOFRTcjRHeXpEQ3BMTnRUc0tGdWMtQTVLdHVzVEh5SnJRUnFkenNVZmhKU1RuUVZ0NHIzWlg1blRtN1ljRm4zbzhfMDZTZnJ5a3VpTVdJQzkzaldoQzdoWWJjUTU2ZkY3aUh1cFVMeVcwaEdtdnRMZUpQN0c3eVBvcjR6WmtPNllOeVhqakg1ajlrSFpleU12RGlTR1FHQ1JlckMzM2Z4S0J6SkczLVFuN0NpOTlETDBtWlVucdIB8gFBVV95cUxOck0xaXhuYlVQN2tZVW1TTU9IQ1BGVXlUTE5saERhTUpGXzFmaDlsOWE5OUwxNEEtS2dqbkV0eFFQSjdyY3QtamJVTUdfX1Q4NFBIMW9fUGl0YXNNRHhuWDF0Wm5MZFBEY3F1YTVqa0Z0Q1JES3A1T055S3lqUkdTSkM4TVBpRTFKeFgzT0xSem9NVG0yRmVVNE5BSnJPbTBpVHNUZ2ZqbGhGalFsbF84Y2g2UWpfM29zTTEtczdiX1RQaTNOVVRibGVTemJOMkRaQkJDQ1Vwc21sMEdudW04VHRsN0tNZVQ5c3VYOURqbzhyZw?oc=5",
+          "time": "12h ago",
+          "body": "Three years later, Jarange’s protest stage, pandal at Antarwali Sarati dismantled  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Three years later, Jarange’s protest stage, pandal at Antarwali Sarati dismantled The Times of India"
+            ],
+            "tldr": "Three years later, Jarange’s protest stage, pandal at Antarwali Sarati dismantle"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790492462353",
+          "title": "Maharashtra announces relief measures in drought—Restructures crop loans, concessions in pump electric bills; check list - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSjI5Z2RFT3JZbHEzRUM2UnhINmo5U0M3eVRsNVFNOGwtRmxhUkpKc29hcHc1MkpNUmU1MTNyUlV2eUV1M2FiZVktR1ZvSWlDMlNZNnFBUVVKcEZNclBxUVhMZDB3Z05fcFQtUWlkSkZ1T3NRdE9Xb1lNTERkNlJXWGg2dWNWZGxwQ0pUTDF3NEt1cXhadUY1TGdOWnctM0RBSm9hc2V6dlR3Vm03ZXdjcTV6d2lpOTlYRmttSVh5YVZqM1JIRGkyR1ZUVDZRem1RYV93Z2R6X2hDblBQcmVWcUwyRFMxd3ZyRkFNODFDaWVmY0htYWtiVTBMOExWVDDSAYQCQVVfeXFMTWZIN1lHLXNJZnhuNFB1dWNUR1lxZXpFclBhNlNZRGZDdkU5c3NFN0tTRUhEcXk4WjlzSHQ5MVlmVzJIUXR2bEdub1dpa3AxVGVWMVJXS01aNGZhY1VJSElfZTYtOHN0Tkwyc3R4VTBpTWxLblBPSE52N0UyLWhNdzhQb3ZOaHhvaExkX2JLWkFPWGppZ3ZVNDQzcHNXY2lvTVhCTnh0T0RqTXNlajhDZWlXc211WXAxZkdzZWU3dnAweW4wY3RfZWlwSHZzb2dGc0pTejc4RW9FbjZWM3l3RU1ORFhqaWJYT3hNZTcybzJnTVkxclZGenJScExiRmctcm4xdFo?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra announces relief measures in drought—Restructures crop loans, concessions in pump electric bills; check list  Livemint",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra announces relief measures in drought—Restructures crop loans, concessions in pump electric bills; check list Livemint"
+            ],
+            "tldr": "Maharashtra announces relief measures in drought—Restructures crop loans, conces"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790492462353",
+          "title": "New Audi Q3 Enters Local Assembly Ahead of October 16 India Launch - Autopunditz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWUyMUI1TmhTZ2Nfdi15WndNWU1jNnJxYUlyM0V6OWhMSmpvcy11ZHJHU1NDc0xudjNIOGszS3FHWlZmbkpId2NyT2xmTDFmcF9xdlNLS1JWaHhEZDVWbkVTTGRtSjEyellyUGFIdXJURjBPVDJ1dE5CdW5Jb2VhNUVsb1lkdHZZMVV2dg?oc=5",
+          "time": "23h ago",
+          "body": "New Audi Q3 Enters Local Assembly Ahead of October 16 India Launch  Autopunditz",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "New Audi Q3 Enters Local Assembly Ahead of October 16 India Launch Autopunditz"
+            ],
+            "tldr": "New Audi Q3 Enters Local Assembly Ahead of October 16 India Launch Autopunditz"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1790492462353",
+          "title": "Maharashtra: 74% of state declared drought-hit, 265 talukas in 32 districts affected - Telegraph India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONkI4Tkp1WVNCNHRNTENQLUlyOUNZb2dmaXItTlBNZ2tINS0zSHBFTW1oZUdIaXRRYk5HemZzRnpobFdMNHpBc19mYkE0MElFWWx0Um1ySGgzdkVQSjVEWWtCMTBkRV9TY2E2T0ZkWG9xZThXR3BnakRfaVJRUFB3dkZqMGZxT3BNUmRETnY1emhTZXRwNlJ6WjdiclltUmJxM0c0Q052R1NMSVVyLTlEVTA3MzNVRDhLZFBFQnVUMGU1UEZKQVJDSTFYTnc1SW5VcThXXy1IMl9Fc0XSAdsBQVVfeXFMTjZCOE5KdVlTQjR0TUxDUC1JcjlDWW9nZmlyLU5QTWdrSDUtM0hwRU1taGVHSGl0UWJOR3pmc0Z6aGxXTDR6QXNfZmJBNDBJRVlsdFJtckhoM3ZFUEo1RFlrQjEwZEVfU2NhNk9GZFhvcWU4V0dwZ2pEX2lSUVBQd3ZGajBmcU9wTVJkRE52NXpoU2V0cDZSelo3YnJZbVJicTNHNENOdkdTTElVci05RFUwNzMzVUQ4S2RQRUJ1VDBlNVBGSkFSQ0kxWE53NUluVXE4V18tSDJfRXNF?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra: 74% of state declared drought-hit, 265 talukas in 32 districts affected  Telegraph India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: 74% of state declared drought-hit, 265 talukas in 32 districts affected Telegraph India"
+            ],
+            "tldr": "Maharashtra: 74% of state declared drought-hit, 265 talukas in 32 districts affe"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790492462353",
+          "title": "From idol immersions to funeral rites, Maharashtra faces the drought pinch - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZDM5VWZiT0lMcFRTNS1nT2xKclNfZ2NjblpfVkhnRktaWXpuZ1BtSWNJekVnSDJycGpOclg0dmhVRHlHbUQ0RGdDMzBIVktyZ1l3NUJ6TGRLSE9FSGZnUzVvcE5YV29SdGFTT2pmYk9kckJrZkg2SGVieFN1NWdjbjBPQ1k5dkVETHViN1owcENFMkIxcm9xY3liNTc1N2NUclNTbkp1aEFhOTZtZThzTmdncENFdGRxNFV2bUFWVmpSdGVfdXNYNGZMYldNbnVTRnpCZnBZbE_SAdgBQVVfeXFMUGQzOVVmYk9JTHBUUzUtZ09sSnJTX2djY25aX1ZIZ0ZLWll6bmdQbUljSXpFZ0gycnBqTnJYNHZoVUR5R21ENERnQzMwSFZLcmdZdzVCekxkS0hPRUhmZ1M1b3BOWFdvUnRhU09qZmJPZHJCa2ZINkhlYnhTdTVnY24wT0NZOXZFREx1YjdaMHBDRTJCMXJvcWN5YjU3NTdjVHJTU25KdWhBYTk2bWU4c05nZ3BDRXRkcTRVdm1BVlZqUnRlX3VzWDRmTGJXTW51U0Z6QmZwWWxP?oc=5",
+          "time": "11h ago",
+          "body": "From idol immersions to funeral rites, Maharashtra faces the drought pinch  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "From idol immersions to funeral rites, Maharashtra faces the drought pinch The Hindu"
+            ],
+            "tldr": "From idol immersions to funeral rites, Maharashtra faces the drought pinch The H"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790492462353",
+          "title": "Congress attacks Maharashtra govt for data-centre industry expansion push amid drought - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnhtYU9jSUJOeExfTC1kcFE2UzJVNGNHV1FVUlFIcGYya3diVjItMHdRNFh6akF1d044eF85SF9Gem1NN1ZVSU9oQjBwb1Itc0o0VlZqQWZ5cV90N1N2cjRTeFhROGRNbUVIUUViWXNOUWxZVUZta0p6azg1SDladXpJTGx3a0szMUY1b2FDNXZZdWhXLV9NSkhsUFB5S3FtSVBCRUpxcFVVeThNckVfUFU5RUM4YUVvaG9Xb1JvTlIySkIyM3pzVk94SnBsVkQ0d1VPS0g2S3JPczBaR3p4MVhfVmLSAfIBQVVfeXFMTndORV9VZWMxQ18xcmJsODAyX2hWX3gyVklTamFPNkpVMHBjdmx4UlUwdWxNaEwxakY2M3RnczJuQTdha1QyLWpQazNUR3hwcWFIZ0w1cWZWVFgyQTFIdTVyUjQ1UlBXRS1Yc0J0dzlsaUItUU9fWGR6SlNud0I2aFdJNDNDek1PaHFDMkxsYWhiWW1VdkZ3blJkeUduUU9NcENPY1FKNFJJNFZEbnhScUpIWlhJZ0RiOFotYlBVRlE2UEN1RDZTTUN4anVQeTFUSEJtSFJEcnB5UV9IYTlzdGg1RWZ1ZWRJT1k0QkQ1U2JpQVE?oc=5",
+          "time": "1h ago",
+          "body": "Congress attacks Maharashtra govt for data-centre industry expansion push amid drought  The New Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Congress attacks Maharashtra govt for data-centre industry expansion push amid drought The New Indian Express"
+            ],
+            "tldr": "Congress attacks Maharashtra govt for data-centre industry expansion push amid d"
+          }
+        }
+      ]
+    }
+  }
+}
