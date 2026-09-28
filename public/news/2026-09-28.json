@@ -1,0 +1,799 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T07:30:05.055Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-3-1790580599777",
+          "title": "Maharashtra govt to waive Rs 48,000 crore pending farm power dues: Fadnavis - ptinews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkdJSUJfaVdWRW5fZ0ZPVF9zUGN1Y2pwemZOYmRqa1JXamYxaDIwd3RfMHBsa24yNDZncXBkMW1mX1I5eHhOVkZ1V0hXRXNmWTNqY0Fwcmd1Q0x6MUptLWF6T1pONUVvSUw5SUttSUc0WEhNaXNtRFRaUi02Wmd4anFldENlN0MydWJ4b25wN3FyZG55M2RwVDFteXJqVGtyd0o4Q0wtRjZJUGJ6Q00xTnZDQ0VrZlBieGdCNw?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra govt to waive Rs 48,000 crore pending farm power dues: Fadnavis  ptinews.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt to waive Rs 48,000 crore pending farm power dues: Fadnavis ptinews.com"
+            ],
+            "tldr": "Maharashtra govt to waive Rs 48,000 crore pending farm power dues: Fadnavis ptin"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790580599777",
+          "title": "Drought declared in three-quarters of India’s richest state, Maharashtra - Asia Insurance Post",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uQ1JFMlVTNlM2MVE1aUQ0ZmNWcXVZeUozYzZXR3NNcnE2UFdTYTBpRXF1TlZrMGcxRmg1VkU3N0w2V3ZJQ2kxVW4wenQ5N016NjJCQVUyVQ?oc=5",
+          "time": "17h ago",
+          "body": "Drought declared in three-quarters of India’s richest state, Maharashtra  Asia Insurance Post",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Drought declared in three-quarters of India’s richest state, Maharashtra Asia Insurance Post"
+            ],
+            "tldr": "Drought declared in three-quarters of India’s richest state, Maharashtra Asia In"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790580599777",
+          "title": "Maharashtra declares drought in nearly three-fourths of state - The Siasat Daily",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTHBDNGxtUkRNVEI0eHdHZHc4T2VfNkx4eVNkVWJmcXJqS1lYOTF4SlhaVTdQeXVsTDRRaTg4SERzZ0xlRzhQY3FhbWdvcXlNZkRKNzJTRUp4blRpYlA1dVdEaml0OU9jSm1rNGVJM210WEZXT21XU1BJU3liOVE3RnRTQ2Z4cW5HMVFXRkZreWVfZ1JvVnpBYdIBngFBVV95cUxQVDA1enRTTlMyLWsyQzlDUDJLUWh4LXA0MFBNcXNjNW4zek5FQTJ2YUZ2R0xDNTlGeGJ5RVloc1dDR1ZpTG04d2otWFl2d1RlTHpTTUQ2YWgwME5LMGVxRVgtSnVUZFdMaEJWU1Yybk0zWjRTQTByS2ZvcXJ5RXJUVFZxeVBfV1F4clo2ekxuekEwelFsdFo2WnFIQk5jZw?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra declares drought in nearly three-fourths of state  The Siasat Daily",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares drought in nearly three-fourths of state The Siasat Daily"
+            ],
+            "tldr": "Maharashtra declares drought in nearly three-fourths of state The Siasat Daily"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1790580599778",
+          "title": "Ganeshotsav 2026: 29.77 lakh people undergo health screening across Maharashtra under 'Shri Ganesha Arogyacha' campaign - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNWNhMHA5T3pFc0N6MHlUcGVnaG9vZlFpall0S3BUdk5qNkUwZzFZTHNSV2o0b2ZhUW5JV1lOd19XWlpVN20zVFprSXYzZnZFZ3lyQThMb2pnZ1JrNEloUXpUUlY1Vm1DTmI4WTNyVmREMzR2RnNzczluajRaNmc3S0NDVnVsQVAtTkRIZkh4SktmTUMxWHBuQTNJLWxwZFlVcVVsMHZpUjVVY2VuM2NxVF96NlVCVmluSzlVSmtBSy1ERWlPMGszdndxX3FRUGxsR2U0ZWkzMmotWU1lUkJpcnJYRkZrbEFYd29Lb3lkZHhxZk8tMWh3ZzlUVC1jcGhKTlI2MXcxWUJFNXFK0gGMAkFVX3lxTFA1Y2EwcDlPekVzQ3oweVRwZWdob29mUWlqWXRLcFR2Tmo2RTBnMVlMc1JXajRvZmFRbklXWU53X1daWlU3bTNUWmtJdjNmdkVneXJBOExvamdnUms0SWhRelRSVjVWbUNOYjhZM3JWZEQzNHZGc3NzOW5qNFo2ZzdLQ0NWdWxBUC1OREhmSHhKS2ZNQzFYcG5BM0ktbHBkWVVxVWwwdmlSNVVjZW4zY3FUX3o2VUJWaW5LOVVKa0FLLURFaU8wazN2d3FfcVFQbGxHZTRlaTMyai1ZTWVSQmlyclhGRmtsQVh3b0tveWRkeHFmTy0xaHdnOVRULWNwaEpOUjYxdzFZQkU1cUo?oc=5",
+          "time": "19h ago",
+          "body": "Ganeshotsav 2026: 29.77 lakh people undergo health screening across Maharashtra under 'Shri Ganesha Arogyacha' campaign  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ganeshotsav 2026: 29.77 lakh people undergo health screening across Maharashtra under 'Shri Ganesha Arogyacha' campaign Mid-Day"
+            ],
+            "tldr": "Ganeshotsav 2026: 29.77 lakh people undergo health screening across Maharashtra "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1790580599778",
+          "title": "Farmers upset about govt’s order to start cane-crushing season early - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGh1YzRMN2dyTEg5V1VZNGNKYjFaZEpSRlRpd1pTRTFiQVBZaVFUOVBVTzdaNG1CRXZja3hnajBzTXhfS25falFqZHFJemJBTFVkODBmcGluUTV6T3l2emJMVkk5MHE1R1RTSmFtMDZUemtfZXREUXBFQXBJOW8xbXJpNnoxandkT3JTZllma3ZmaTRzdDI5WF84d1B0TkVIRThYTDVUb0t5TjdTZVROS2ViVEQ0SDRJSy1NY091SzVZbVlfNWFnR2V2OEZrSEREb1JicWNR?oc=5",
+          "time": "5h ago",
+          "body": "Farmers upset about govt’s order to start cane-crushing season early  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Farmers upset about govt’s order to start cane-crushing season early Hindustan Times"
+            ],
+            "tldr": "Farmers upset about govt’s order to start cane-crushing season early Hindustan T"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1790580599778",
+          "title": "Congress questions Maharashtra govt’s data-centre expansion push amid drought in 265 talukas - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzBZRUFuYWxWLW8zQlZlMWpFdWNQZ29MS0czbGpwTDJBT0JBcjRrcV9OcGVkdE1idWpSUFk2VUFMcHk1S1RyNThqQmR0Z3AwOVJ0cGlDREo3U2ZzVEtpaWdYTG84b0h5bmFxbFAwVEpIZXpWVWhSTFYzWWRuNnFHUE9HYU5NRkJaVk9ET2ZhQUpwZ29BazNKMmpZZlZuMC11Q0ZfckhZWExJbEZONWJ4NmJ1bzFDSEtqWGhMRDJEdU1VaVlzVTRjWVJuSE9WTnFNNklYWmwwZFFpOUdPNWhjalh5NUFSZHfSAecBQVVfeXFMTVcwWUVBbmFsVi1vM0JWZTFqRXVjUGdvTEtHM2xqcEwyQU9CQXI0a3FfTnBlZHRNYnVqUlBZNlVBTHB5NUtUcjU4akJkdGdwMDlSdHBpQ0RKN1Nmc1RLaWlnWExvOG9IeW5hcWxQMFRKSGV6VlVoUkxWM1lkbjZxR1BPR2FOTUZCWlZPRE9mYUFKcGdvQWszSjJqWWZWbjAtdUNGX3JIWVhMSWxGTjVieDZidW8xQ0hLalhoTEQyRHVNVWlZc1U0Y1lSbkhPVk5xTTZJWFpsMGRRaTlHTzVoY2pYeTVBUmR3?oc=5",
+          "time": "22h ago",
+          "body": "Congress questions Maharashtra govt’s data-centre expansion push amid drought in 265 talukas  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Congress questions Maharashtra govt’s data-centre expansion push amid drought in 265 talukas Mid-Day"
+            ],
+            "tldr": "Congress questions Maharashtra govt’s data-centre expansion push amid drought in"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1790580599778",
+          "title": "Sharad Pawar seeks loan waiver, cash aid for drought-hit farmers | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZTQyeWlZNnFya095Q3AzejNENXdxME5SQTQ4U2tCS25KTW04a1lWMFItTmFNdHA3NEZDTGVxSmprN0p0R2JMUFlzR281WlZWVE13NnhKanlUdV9yNGVyVEs0LTlvd1JzcVQtVldhdTlZMWZEX3RyUEM1TEY3SXlxaXBJUXQ4S3lTN2MzTXBORHpqbmZKa3N0UUE0ZncxNmZDTThKNjZMN0g5MkhFbUpDUFRKTmZqTElxbXhiT290V2hkSmpSb2drbjMtZlhnMXBfUE9RWdIB1AFBVV95cUxOZTQyeWlZNnFya095Q3AzejNENXdxME5SQTQ4U2tCS25KTW04a1lWMFItTmFNdHA3NEZDTGVxSmprN0p0R2JMUFlzR281WlZWVE13NnhKanlUdV9yNGVyVEs0LTlvd1JzcVQtVldhdTlZMWZEX3RyUEM1TEY3SXlxaXBJUXQ4S3lTN2MzTXBORHpqbmZKa3N0UUE0ZncxNmZDTThKNjZMN0g5MkhFbUpDUFRKTmZqTElxbXhiT290V2hkSmpSb2drbjMtZlhnMXBfUE9RWQ?oc=5",
+          "time": "5h ago",
+          "body": "Sharad Pawar seeks loan waiver, cash aid for drought-hit farmers | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sharad Pawar seeks loan waiver, cash aid for drought-hit farmers | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Sharad Pawar seeks loan waiver, cash aid for drought-hit farmers | Mumbai news H"
+          }
+        },
+        {
+          "id": "mumbai-politics-0-1790580599745",
+          "title": "BJP-ruled state chief ministers attack Rahul Gandhi over ECI allegations - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHBSNkVVanVCTHZSaHB3T2tLanZiWnN4ajVRdmJjem1KbHFtRldvXzFTUEpBQnVqbXNPYVZ5MklxMEZSX0tERHE2RXFMY185amxMR2NOQVRUbGRnOXBPOGZDSEdKV0ZtVGk5WllLcU9pRFM2RXJ3X0V6ZXhhMHk1bDRXbDNOcC1SLU42NG5jUFFhM21xaUlObGZDSEJKcmFpZ3B3RlprZHI5VXoxY1RRUkZ5TkgzSXpRRjJXbTRNVlnSAc4BQVVfeXFMUF83WDZDZVNHWUNES09sR29TcXZDajJjUGxnSXFWd0FkbkpfMlFDNVpOMjlEeWlheE83NHU1UXZSUkRTSEl5ek5HVlUwY1dJYVdYd2hnYXU1YnAxYjhRNm1JeE1PYWpLaU9OUzV4dEI3TUpQSGJYR1FXYWMyOEhxZ0ZPYmREWkhxOEhuMEpWUndidk84cTlodDNIOVk4dzhyYmpIUUhha1BmbENKNXlDdGI5NkdpaFJzVXlJbDVPSERESmFubW0ycEdwVzlBQkE?oc=5",
+          "time": "14h ago",
+          "body": "BJP-ruled state chief ministers attack Rahul Gandhi over ECI allegations  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP-ruled state chief ministers attack Rahul Gandhi over ECI allegations The New Indian Express"
+            ],
+            "tldr": "BJP-ruled state chief ministers attack Rahul Gandhi over ECI allegations The New"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1790580599817",
+          "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
+          "time": "3h ago",
+          "body": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 The Times of India"
+            ],
+            "tldr": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790580599817",
+          "title": "Sensex over 900 points down after longest weekly losing streak in years; crude soars above $106 | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0dpRTVlRDlxc1RtOW81dTVmTTREN3MwakViZzNUakNFTDJkWkt2QkstemktQmhGZHBFWjRZYXhHcVZDcU83WWpLeXpBUDZyVzBINUVFalBwaDZ4YUhwOEdXN1E4TmVTX1ExY1U2MV83T25QZFhsa1NVcDRlWmtYSHlXdWFMTEIwcVdoS2tRWWZ6V2NIVFZMMHloczRjb0JvNHhmamx0SDEzZUxtLUJDeVgtWTNTWm50SktyR01HV0d1cXI2MmU1UWNseGFDRTVLbGx6b196aE5BMzJYV2lLYkEtZW9fcTRONVHSAe8BQVVfeXFMTVh3alpWbmYySWstWjFjN3NmVG5Sb1kyV0ZjSkYtc3MxN19pMDA3VkJwRGh0Z1FYZEU4X3BTVWkwRjlLdGQzTW9DMm5Nb05oel9SdVZrYmxRT2VIZk1nblpwMUZlWDR5ZlVnY25oU3BwaHVybk5ibEt1VXk5dS00QlBqV2ZLY01WWXN2TWNvWnc3YzRfNXBTVTJtR0w4MHRlNHBWbmcwS2tpWEkyRnlvRFFHSUtsdXdZZ010MVFsSXBEcEwyNTlNM3daV2l3Q2s2ZGVERFJNNGg5NE1iZzNJRnloY3FVYU1BRWUyaWNsRlE?oc=5",
+          "time": "3h ago",
+          "body": "Sensex over 900 points down after longest weekly losing streak in years; crude soars above $106 | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex over 900 points down after longest weekly losing streak in years; crude soars above $106 | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex over 900 points down after longest weekly losing streak in years; crude s"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790580599817",
+          "title": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5",
+          "time": "5h ago",
+          "body": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices Reuters"
+            ],
+            "tldr": "Indian shares hit near six-month low as US-Iran deadlock lifts oil prices Reuter"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790580599817",
+          "title": "Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors behind plunge - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb2JZRzNjNjBpV29mRkZobTRsNWJaVExQeWMxZmw0WjYzZnhCNktBQm5Hdmw0U3NrVGlrYm9abFZwRlZvendEZldPMlNlVGtqVFZ0ZC1rclZGci1yb3BjbVJ1YUlta1VYM3pBMl9kbXh1VjA4ZmtURl85S0Z4OTR0cDFyWXdkU1FiZ1JVdEZ4eVBPSUtJMk9RMnFJQUpxdjRiNmNHQzdmbnRwbGNjZUFJZkVXYV9yc3p3SlF2TDFkWk8tT3hnNkZPc1JTb3c1dkZ0MS12S09LWE9vaWV0SUhOOVpGUmRrZkJxbW9XQdIB8gFBVV95cUxNVVJKdDl3emc1ZEJXb2ROY3hadnZaaXlhZEtTZmZ1RjZFNFE1VVdJTnNxVFJFRWRlaTZaUGl3ckg2dzRfY2ZXTWxvS0dWVV9ibktOOGlsWjVmVDQ4YUN3aVlLaXA1anJ6YmdNRUM4UzRrZTJxWkE5UERZbmZJR2ZHQ3phMlg2bldoWDhBT2U4bVY4SnF2c1JiQkVHdXVVSGMwTVFJVG1GckhxdURSdkpMdUpfSUNQOWo5VjNxS3FEeGRNVzZiX0UzUVozR3JXMHduVzF0S2xnMVdhYVFaNEJmOHZvZGhfbkNmY2lMYlU2Y19wdw?oc=5",
+          "time": "3h ago",
+          "body": "Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors behind plunge  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors behind plunge Livemint"
+            ],
+            "tldr": "Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors beh"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790580599817",
+          "title": "Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSm9SelpSTGtKRGF0YzhxMmc2N0tHaW9JMnloUlEtaGtMT0VDcmE5TGJPOFU3QjZjT1V1OE9NSzBjamxrbUFLYmx6ekFCREtaRnZjX1dhVlh5WFVXYlZNRXdUcHprc0piTmZ0dVFkN1VpQjdINTFiRXoteHRKM3ExdFBTeUdDbm53STJUZDBRLWNBOTJFLWFuNjVxLVB1MUhxTVN5UFFPVlBpSTVZUmxNVWk0bUgwQllSVGFlOXJFWWVXUEJPcEdvVWhzd2tzWFZtWW5JVVlZY0ZySHQyYUpGRDQtRjFneTNBR3k2NFlhQ0JfWW_SAfMBQVVfeXFMUEpvUnpaUkxrSkRhdGM4cTJnNjdLR2lvSTJ5aFJRLWhrTE9FQ3JhOUxiTzhVN0I2Y09VdThPTUswY2psa21BS2JsenpBQkRLWkZ2Y19XYVZYeVhVV2JWTUV3VHB6a3NKYk5mdHVRZDdVaUI3SDUxYkV6LXh0SjNxMXRQU3lHQ25ud0kyVGQwUS1jQTkyRS1hbjY1cS1QdTFIcU1TeVBRT1ZQaUk1WVJsTVVpNG1IMEJZUlRhZTlyRVllV1BCT3BHb1Voc3drc1hWbVluSVVZWWNGckh0MmFKRkQ0LUYxZ3kzQUd5NjRZYUNCX1lv?oc=5",
+          "time": "2h ago",
+          "body": "Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties Mid-Day"
+            ],
+            "tldr": "Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid globa"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1790580599817",
+          "title": "Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falling? - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDl1aHc2VHYtR3lHdGJnY2oxdXpXX0tNN29FU0dnYnZTX1hrRWFzOFBzSk5KTWc1RTFJOFdmT3VVMEFmOXNDcXhKbHdBMVUtR0kzclhZVDRLSDRHcnljSTF6UG40ak5SQmMtN2lzRG9QSkRNUzFidmRkSnc2aHRLanVnTURTNU9DcUZXU21kWVhoVUlacHhSa2lYT2tPMUJ6NUxkWjJ1V0xpYndCQU11S2djSjZ4aXpHdHpXRTZpRDlnZFZNNk9PU1hycldaa2w5Ylg1Ull2SXU2SlIwbDVrdG1RZUJaN1JpVjRUT0Jn0gHzAUFVX3lxTFBtcU5GS1BLNVRSQ1BWekxLUmhQaFFhMlZLV3RIcjk3M0RBVkpwU19mcmNLZ3I3UXQxdFY0WHBIMmw3SUtkeTdwN1RFa3RfbzB6bkNGSzJwZWtZN2dDS3E0a04zZEFid2pXVm9xejFDbUpLeG9hWGlfQ2p4NWZtakVWUmxLMEdteDBkVFFLLTlGWHVid2ZNYmh1cHdsS2R6UjFFUzlQNXdUX3VqSlRKY014bU1mcGlxZ2VGbGtxZWlDbHRZTnVZcm55NE5zaE1ra0lUVjlTNTZaQjhQbEJLOV9yWkxSSWwxZ2FacHBnaV85SzhfWQ?oc=5",
+          "time": "3h ago",
+          "body": "Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falling?  India Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falling?"
+            ],
+            "tldr": "Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falli"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1790580599817",
+          "title": "NSE stock slips below issue price of ₹1,785; down 2% on Monday - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1JUUUttOFJ6bHpyRklrcUpyYkdfQ3Jodi1xTFVoUEs3Q2pkOEJQUmp5blA3X2FGOWJKV3FERWVGd01NU0FTNVhTN0J4aC1ndFRQV3JLdkdua2s3TjBBb3NBdXpoWFcyMGZGNzl3N2dsSW5SX016OEhWcnpHT2Q5R0w3OWJKeVVZaWlPTG5VYVJQYXFvU2t4eklqSHhWRjhrNG1oejZjVk9Pcjd6Y3NKc3V3amJQYzduVGo3S091b2RHTUZYcWs4eWVn0gHKAUFVX3lxTE9fUlRRS204UnpsenJGSWtxSnJiR19Dcmh2LXFMVWhQSzdDamQ4QlBSanluUDdfYUY5YkpXcURFZUZ3TU1TQVM1WFM3QnhoLWd0VFBXckt2R25razdOMEFvc0F1emhYVzIwZkY3OXc3Z2xJblJfTXo4SFZyekdPZDlHTDc5Ykp5VVlpaU9MblVhUlBhcW9Ta3h6SWpIeFZGOGs0bWh6NmNWT09yN3pjc0pzdXdqYlBjN25UajdLT3VvZEdNRlhxazh5ZWc?oc=5",
+          "time": "2h ago",
+          "body": "NSE stock slips below issue price of ₹1,785; down 2% on Monday  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE stock slips below issue price of ₹1,785; down 2% on Monday Business Standard"
+            ],
+            "tldr": "NSE stock slips below issue price of ₹1,785; down 2% on Monday Business Standard"
+          }
+        },
+        {
+          "id": "mumbai-finance-9-1790580599817",
+          "title": "Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeTNsTy1qVmtORm03dkJ0LVQwRUVQU3ZnT0RqMEI4NG5kVUxYeU0wcmp2N1hqaFVPdXhHNDV6cGRuZUcwclFTZ2NUV1NjdzQwYlhwWEMtcmFIVXZpMWxhWnpzOUFwaF9QUTVPQXVnTmZlUVVHNlNZQTVUOWxjdHZ6UHJuVDVtZkpPVWJqd1hlLXNlUVBEMmNuUFRCUFZZb25KNGpaNmJ4RjRuRDh5ZWFvS1JheXpLSzVQWkNSODVvaHh5ZUgyWjFPTTRnYlpxbUluek0xZHdaVU91cVRrYzFHWVJfRlJVemI0RW42Q19KSdIB9AFBVV95cUxPRWZEblJNRmlJNmdQMUpNa2FMYzNDRGZrTlp2RFh5MnZvSW5HMDhlVmNPODRlRkJTYkIySVFBWGZQLVh3Y1QzWXhValo3RkpjX0pidkhKQjJaTGFGOXhsZzBfeHBadVhGcjZKZXpuSkF1ZFB4RzVwVDIyeEtqamhHX09HR2FtY3ZRcGM3bzg5X25sU01NeW85LWQ0SG9pYjMzS2VfU0pncEJLc2QweG5wbFdZbEpDU3hvenI3V1BUU2FPclVvZGNCU1NEb0ZsZU9GdmQ3Smd6ZTZ3WTJtY3BTOElrdURuLVVsZFo3ZTVLalFBY0lD?oc=5",
+          "time": "2h ago",
+          "body": "Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex down by over 900 points, Nifty also sharply low: Why is market down today"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1790580599777",
+          "title": "Fortifying Maharashtra | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRktqNW5tMUtmVGU2bVdzTXg0NGo1MEVkME9TVVJrVXJFS2JmS1RFaGtKZkpkb0U1X19YVlVVNmN2Wmo2TnRpb1o3elNnZXc2aWtrZkRBUGpqZmFSWk54QVFxUHlDQzVkUmlPYlFsRUc3bENrRFU1Z1VaYm11MGFBSjNsampEMHl5VWZzWHk1UUlyVGxYOUV0Rm54bF9FZ9IBngFBVV95cUxNRktqNW5tMUtmVGU2bVdzTXg0NGo1MEVkME9TVVJrVXJFS2JmS1RFaGtKZkpkb0U1X19YVlVVNmN2Wmo2TnRpb1o3elNnZXc2aWtrZkRBUGpqZmFSWk54QVFxUHlDQzVkUmlPYlFsRUc3bENrRFU1Z1VaYm11MGFBSjNsampEMHl5VWZzWHk1UUlyVGxYOUV0Rm54bF9FZw?oc=5",
+          "time": "5h ago",
+          "body": "Fortifying Maharashtra | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fortifying Maharashtra | Mumbai news  Hindustan Times"
+            ],
+            "tldr": "Fortifying Maharashtra | Mumbai news  Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790580599777",
+          "title": "CJP’s October 2 protest: Why Mumbai Police denied permission for demonstration at Shivaji Park - CNBC TV18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNazhsWENBRzkwNHF1SkpmaF92bkNnUXhsRnJaNnYyNWZXbmphdll2a1pDSTdXd2d6QkpyUVRVN1BBOWxxZ2dBRFBGbXJIMU93dlVmQ1JrQUdLRzBfb2FrMlRQa1JrTW9SUmZsZHhjVm9paENqMmxlZG1IbUdIUmFjM3FFby05cHowME9UNnkwT3FkQUNEbGNCZlBHYUQ1cnZZSHRTYjdGcDNkOXY5YUl6ZDlxcFY0X0J4Z25jQkppNjN5emNNNUtTUXdvUWRSRVBveHJiSzBnQ05qYmJJ0gHiAUFVX3lxTFBMSVBHcFhja3JWbDJOSzA2X3hHOWt2Smh5bUdPTl9xNUp4WUJURWxuRGU0UmFlR2s2VXlid2dITzJtbnVSSFRsM2c4NS04STAtODBFTWtocXQ4aVZSNE9nOENNWnlQZ0NNNjk1ajh3WnlsWHpYajd6cXEzUEVUMWJlcDJXUjlYLURSWGZGN0xWbzl3amJJclAtOEpSYlZENHFqMDJ5NURJRklFcmFJRFgwOWF5YkRXS2c3Y0RfdkRhSmVxS0dQUG1pd3hDUklDdUFtcVNlcUg2TjdoZ2dNbkRhZVE?oc=5",
+          "time": "1h ago",
+          "body": "CJP’s October 2 protest: Why Mumbai Police denied permission for demonstration at Shivaji Park  CNBC TV18",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CJP’s October 2 protest: Why Mumbai Police denied permission for demonstration at Shivaji Park CNBC TV18"
+            ],
+            "tldr": "CJP’s October 2 protest: Why Mumbai Police denied permission for demonstration a"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1790580599777",
+          "title": "Mumbai Police denies CJP permission at Shivaji Park, founder threatens Jail Bharo Andolan - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnZmM2lHV09hTHpfZUFsQkpmOUFrSlBSZFRLVk9vUVpzWjhHRDJmeWhsdmRvNEVYSTYydVViMzlqUTRBMll5WjJ5blhVcnB4R2pIWHlHa1JjeUhEaE5ZeUdMMkxMaUhDYW9CNHFBVk96Uk8yeEtEVE5DelJwcHVWY3NaTUl3RUFqMm14V00ycXQxYzJxdG55bkhSVmE4b3ZCellJX08tLV9DejlYWVY1a2UtRWcyNWo2V3V5WFNZVGg4WjZJanJfSG10ckZLV2dRSFgta1ZhNEJSWm8?oc=5",
+          "time": "15h ago",
+          "body": "Mumbai Police denies CJP permission at Shivaji Park, founder threatens Jail Bharo Andolan  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Police denies CJP permission at Shivaji Park, founder threatens Jail Bharo Andolan Deccan Herald"
+            ],
+            "tldr": "Mumbai Police denies CJP permission at Shivaji Park, founder threatens Jail Bhar"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1790580599777",
+          "title": "Mumbai LIVE: Maharashtra begins crop assessment after drought declaration - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSmFfdENXZlZnbC1OTGQ5QTRWMEVRd1lQRmhldzJYUVBrZXdNNG00MnU4QVIxMVI0Z3VJa2phZDk0T0Y3ci1OSjZLWGVmd0hNUERJSjBINE5iN29pWW9FdjVZM2JoWmoyZDJ2LXlQY1F0S194Qjd5QTktMnN3dFlnT2xaTkdteHBCRy1VNUNtdzdjTDZESTlGVTdRNF91c2tFSDJ3MlpMNVB5WmIweWszYXVKTVUtZHlzMnBtbWJrQnBsT2h5VUp6Vmt6UUJmX3Z2eDB0czRhcjVXdXJfcXhidmZEc05BUE5Ebkg1OGEwdmhrdkpjRUZFRlhB?oc=5",
+          "time": "14h ago",
+          "body": "Mumbai LIVE: Maharashtra begins crop assessment after drought declaration  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai LIVE: Maharashtra begins crop assessment after drought declaration Mid-Day"
+            ],
+            "tldr": "Mumbai LIVE: Maharashtra begins crop assessment after drought declaration Mid-Da"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790580599778",
+          "title": "Abhijeet Dipke announces 'Jail Bharo Andolan' in Mumbai on October 2 | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2c4YVNvMnlIcmJtaDJwcHE3bGtsbU1nb3l5dlZvTXNrX3R1YWNOcGlObEJscjBvQnRaSXNEWWFDa0VxVW10aHVxYXR2WTBZdVNzZklmeFhNTEI5ZHdkOUx6endadFRwTlREUUFPY3UxWUpkU3Y0MXd6UDNRT0ZDbmVaRWFMMEU0eUhMXzItQVJ6X25yNjF3ZXVtdUdlWWZaRENvQmpKVTJqMkd1Y0N6ZzQwVVpSNHRVUEl3clRvc0lCVEQzeWs2YzBsVVkwaHRlX3hsSDZvZUZxRlpac2tiWmZpQy1BQdIB6wFBVV95cUxORXI5NnU5bG82SlM3MDNCY3Q5bEQ4dk42eEExbG9uSkk3SmZneVdrVUFadXpSQUg0WWx0S0FnQUljdmg2ekVUblJ1TGpveUVnYkNHTC1CTzIwQWgtS3hNTVcwS2FJSmYyYXVXVGlOeERzNFRLLXZmZHU5WDhOZWJDTkdTTWVXcTNRZ2tsNWNXS0gtdzZPTmRwU1NDS2Z0Tng3a3JLNXJKUkNOaVJZT2lwckFNSmR4d2VBcURYMTRYRDBoTTdGR3ZYM3BRQ3F0b29QUWZyVzhJSmZhUU9aS25WeWp5Uk1TSi1tM0pz?oc=5",
+          "time": "Just now",
+          "body": "Abhijeet Dipke announces 'Jail Bharo Andolan' in Mumbai on October 2 | India News  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Abhijeet Dipke announces 'Jail Bharo Andolan' in Mumbai on October 2 | India News Hindustan Times"
+            ],
+            "tldr": "Abhijeet Dipke announces 'Jail Bharo Andolan' in Mumbai on October 2 | India New"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1790580601176",
+          "title": "Tourism Day fete in Amaravati highlights ‘Digital Agenda and AI to Redesign’ theme - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcWFMOEhSMno2SVBiMC1oeWQ2SzhQZXR0T3Y1Rm5mUnJvRHR1NDhOVkpqTENfVnZIQWtzbzFwLXlaTm5HaEtBNkJlVDh3b3ZxVVViSzZ6aUZBZFdvRTk0aW5feWQ2eGQ5bzhxUVVnMS05T1ZTd0I5WmJKOENkQWtySFl1aGw4eHpLUzU0T0U0TlBmWnlBNjRMM3JDLTdkdWJILWVOSnBNY3g1cmhPOXp3V2NFOHhWdFduU1JnbWNTbFhnLVpyNml2WEZ6VGRxc2JHcS11VU5Xak10MWoxZHJub3FWY0ZnSHZCejBmOXln0gHuAUFVX3lxTE9xYUw4SFIyejZJUGIwLWh5ZDZLOFBldHRPdjVGbmZScm9EdHU0OE5WSmpMQ19WdkhBa3NvMXAteVpObkdoS0E2QmVUOHdvdnFVVWJLNnppRkFkV29FOTRpbl95ZDZ4ZDlvOHFRVWcxLTlPVlN3QjlaYko4Q2RBa3JIWXVobDh4ektTNTRPRTROUGZaeUE2NEwzckMtN2R1YkgtZU5KcE1jeDVyaE85endXY0U4eFZ0V25TUmdtY1NsWGctWnI2aXZYRnpUZHFzYkdxLXVVTldqTXQxajFkcm5vcVZjRmdIdkJ6MGY5eWc?oc=5",
+          "time": "4h ago",
+          "body": "Tourism Day fete in Amaravati highlights ‘Digital Agenda and AI to Redesign’ theme  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tourism Day fete in Amaravati highlights ‘Digital Agenda and AI to Redesign’ theme The New Indian Express"
+            ],
+            "tldr": "Tourism Day fete in Amaravati highlights ‘Digital Agenda and AI to Redesign’ the"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1790580601176",
+          "title": "Analysing how digital agenda & AI are redesigning tourism on World Tourism Day 2026 - Travel Trends Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTl82LVpqMkpsVFdCS2o2T1Q5MVRqbUl0TFIwRlJtN2NPNm92QWJEYmk1eWt5bzl3OXpQZm1rOTBmYlFqYTVhNzRZNjNFMk9HUEV2ODlIWGY3V0FhTDNjWk1paUpFRm1YaTk5VFJPVEhGcWRtdUptR2VFaXZ6NkE1Y3dMYkdkd29TX2xmdVdzVkRYT2JOOExMcHpQMVJJS0lQOXdIeHlRTnNTQVBDS0RheExtMG8?oc=5",
+          "time": "20h ago",
+          "body": "Analysing how digital agenda & AI are redesigning tourism on World Tourism Day 2026  Travel Trends Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Analysing how digital agenda & AI are redesigning tourism on World Tourism Day 2026 Travel Trends Today"
+            ],
+            "tldr": "Analysing how digital agenda & AI are redesigning tourism on World Tourism Day 2"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1790580601176",
+          "title": "Telangana Tourism launches digital initiatives - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEpBUUk2MGRieGFUY25sM2lVLWkxLUdXcmdxakc0THpfUURRQS1CLUZFVEJoeDdQdkRyai1CZ2JVTWdWYmhiMVduMlA4cTE2ZmhaeldvWUdzdkFRc2h3ZWx6clNKRDl0RG9zSVN5ckFySV94Y1p5UnVVWV95cW5TRDRPeU1BZUZfaXAydDZBR3ZIM3htSExIN1d3Uk1LakxhanpVbV9oenVoUUhyWm1yRHFpTlJiVXNRS3fSAboBQVVfeXFMTlRKQVFJNjBkYnhhVGNubDNpVS1pMS1HV3JncWpHNEx6X1FEUUEtQi1GRVRCaHg3UHZEcmotQmdiVU1nVmJoYjFXbjJQOHExNmZoWnpXb1lHc3ZBUXNod2VsenJTSkQ5dERvc0lTeXJBcklfeGNaeVJ1VVlfeXFuU0Q0T3lNQWVGX2lwMnQ2QUd2SDN4bUhMSDdXd1JNS2pMYWp6VW1faHp1aFFIclptckRxaU5SYlVzUUt3?oc=5",
+          "time": "4h ago",
+          "body": "Telangana Tourism launches digital initiatives  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Telangana Tourism launches digital initiatives The New Indian Express"
+            ],
+            "tldr": "Telangana Tourism launches digital initiatives The New Indian Express"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1790580601107",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "4h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790580601107",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "21h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1790580603494",
+          "title": "Asian Games: Anahat in action; Esha, Pincky medals add to India's tally",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "Asian Games: Anahat in action; Esha, Pincky medals add to India's tally. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games: Anahat in action; Esha, Pincky medals add to India's tally. [object Object]"
+            ],
+            "tldr": "Asian Games: Anahat in action; Esha, Pincky medals add to India's tally. [object"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790580603494",
+          "title": "Pincky Balhara wins her second Asiad medal, adds kurash bronze to 2018 silver",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "At the Asian Games, Pincky Balhara clinched a bronze medal in the women's -78kg kurash category, following her silver medal achievement from 2018's Jakarta Games. She advanced to the semifinals with a solid 3-0 victory against Garam Lim of South Korea. However, Balhara was bested by Sumin Mo in the semifinals, resulting in a score of 5-0.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "At the Asian Games, Pincky Balhara clinched a bronze medal in the women's -78kg kurash category, following her silver medal achievement from 2018's Jakarta Games.",
+              "She advanced to the semifinals with a solid 3-0 victory against Garam Lim of South Korea.",
+              "However, Balhara was bested by Sumin Mo in the semifinals, resulting in a score of 5-0."
+            ],
+            "tldr": "At the Asian Games, Pincky Balhara clinched a bronze medal in the women's -78kg "
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790580603494",
+          "title": "Esha Singh wins individual silver in 25m pistol after missing team event medal",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "World No. 1 Esha Singh won silver in the women’s 25m pistol at the 2026 Asian Games. She had earlier missed out on a medal in the team event, with India finishing fifth. At the 2023 Hangzhou Asian Games, Esha won silver in the individual 25m pistol and gold in the team event.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "World No. 1 Esha Singh won silver in the women’s 25m pistol at the 2026 Asian Games.",
+              "She had earlier missed out on a medal in the team event, with India finishing fifth.",
+              "At the 2023 Hangzhou Asian Games, Esha won silver in the individual 25m pistol and gold in the team event."
+            ],
+            "tldr": "World No. 1 Esha Singh won silver in the women’s 25m pistol at the 2026 Asian Ga"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1790580603494",
+          "title": "Asian Games 2026: India's full schedule on September 28, timings and events",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, enters another busy day on Monday, September 28, with athletes from several disciplines in action. The day features a mix of medal events, knockout contests, qualification rounds and team matches, giving the Indian contingent plenty to look forward to.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, enters another busy day on Monday, September 28, with athletes from several disciplines in action.",
+              "The day features a mix of medal events, knockout contests, qualification rounds and team matches, giving the Indian contingent plenty to look forward to."
+            ],
+            "tldr": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, enters another "
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1790580603495",
+          "title": "India through to Asian Games semis as rain washes out quarterfinal against Afghanistan",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "In a dramatic turn of events at the 2026 Asian Games, India's men's cricket team has reached the semi-finals after their quarter-final against Hong Kong, China was called off due to rain. Set to clash with the victor of the Sri Lanka-Nepal face-off, India is determined to defend their gold medal from the last Games in 2023.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a dramatic turn of events at the 2026 Asian Games, India's men's cricket team has reached the semi-finals after their quarter-final against Hong Kong, China was called off due to rain.",
+              "Set to clash with the victor of the Sri Lanka-Nepal face-off, India is determined to defend their gold medal from the last Games in 2023."
+            ],
+            "tldr": "In a dramatic turn of events at the 2026 Asian Games, India's men's cricket team"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1790580603495",
+          "title": "Abhishek's 30-ball ton hid the number that should really worry T20 bowlers",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "8h ago",
+          "body": "Abhishek Sharma's 30-ball T20I hundred against Afghanistan was spectacular, but the bigger story lies in the numbers around it. The India opener is striking at 194.55 while averaging 33.18, combining extraordinary aggression with consistency. His powerplay dominance, six-hitting, record-breaking numbers and the costly downside of his approach reveal how his game has evolved.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Abhishek Sharma's 30-ball T20I hundred against Afghanistan was spectacular, but the bigger story lies in the numbers around it.",
+              "The India opener is striking at 194.55 while averaging 33.18, combining extraordinary aggression with consistency.",
+              "His powerplay dominance, six-hitting, record-breaking numbers and the costly downside of his approach reveal how his game has evolved."
+            ],
+            "tldr": "Abhishek Sharma's 30-ball T20I hundred against Afghanistan was spectacular, but "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1790580602262",
+          "title": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]"
+            ],
+            "tldr": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1790580602262",
+          "title": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaultin"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1790580602262",
+          "title": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]"
+            ],
+            "tldr": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader afte"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1790580602262",
+          "title": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]"
+            ],
+            "tldr": "NRI man says wife in India turned into operations manager handling cook, maid an"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790580602262",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790580602262",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1790580602262",
+          "title": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]"
+            ],
+            "tldr": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both kil"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1790580602262",
+          "title": "Manaslu Camp 3 Avalanche: Indian-origin climber, Sherpa killed; deaths add to deadly season",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+            ],
+            "tldr": "Duo Attempted Summit After Others Turned Back Amid Adverse Weather"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790580603732",
+          "title": "Gold Rate Today in Aurangabad 28th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "5h ago",
+          "body": "Gold Rate Today in Aurangabad 28th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 28th September 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 28th September 2026 : 22 & 24 Carat, Todays Gold P"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790580603732",
+          "title": "JSW Greentech Launches Ampstar Electric CV Brand - Construction World India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWJpcm9IZDh2dlN4cExMcXdPbFA2VzNjcEpfazh2dWZzUVM2Q1d0WU1Sa3lmSkI3N25PLXFOU245elBLbnprYVU2YWNadkMxTnZHTDF4RV9KbGd1WUQtUjZWYno1bUtWc0E4MzhjSzJzdVF4ZnR2QlJfRFhXRWhoQmdjb3dxcTBrUXV3bkJwLU5HUml1XzZzR1dBWDNJYnBISWk5eUtIVmM3dUgzZkxoUHBNZm9Cb0ZWNm96LQ?oc=5",
+          "time": "1h ago",
+          "body": "JSW Greentech Launches Ampstar Electric CV Brand  Construction World India",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Greentech Launches Ampstar Electric CV Brand Construction World India"
+            ],
+            "tldr": "JSW Greentech Launches Ampstar Electric CV Brand Construction World India"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1790580603732",
+          "title": "​FDA suspends licence of Hingoli’s famous khichdi outlet for hygiene lapses - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObWhWRWxUVWlVVG5vZWdVUEl6TzBSZVM4RUZNdTNhY2E5bi1VbXVsN2x4MmNqUWJyUk9wcDVrYkRLY2pOVzZyUFNSUnAtdnhfUFlWUlBxVUE4dFlEcjkxS2pwcDlPODJqQ01naDNXZW11U3BhaDl2Y1I3cWMxaGxsQWxkYmdFRUtGU29mYUZFcVliWHp0X21qLU1KNWNFblFOYUhCYnJ5djdHVnkwWjVqeVJHMHFua2U2dHk0S1pLRjNVRnNlUlZfdnRmdGE5a09uanlZcS1DTE9sWmtmbmpsaFNSS0RQUdIB6wFBVV95cUxNbkhBQ2YwVWtjY0tGNVN4dGd4d2JsMUJfdE82VVh1aVFvSkw0eFBSQlZkMF95ZkFmYm1OZ1RqUWRBcW5JV1NaZkJHMTBkVGw0RV9RTEVvSGZrZ1NqZml4NDRPYUQ5c01vQzRUUTYzaHQyTGZWWmZ4NzdsWFFDZDZOWlF5SFp3WFlyWHJOZjN5RXZGQVhTUEFZNjhBck05WmtJVW5wS2FSYlh5V0M4WUhERnVSMHlhLTVLMUFJTExnMFpRX2xsX3Z3cm9ILTlaQ0dOZzM5R0EzLS0wcHpPenZmTHczNy1rMndkb1BR?oc=5",
+          "time": "13h ago",
+          "body": "​FDA suspends licence of Hingoli’s famous khichdi outlet for hygiene lapses  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​FDA suspends licence of Hingoli’s famous khichdi outlet for hygiene lapses The Times of India"
+            ],
+            "tldr": "​FDA suspends licence of Hingoli’s famous khichdi outlet for hygiene lapses The "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790580603733",
+          "title": "JSW Group Rolls Out AMPSTAR EV Buses & Trucks - Indianweb2.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDNja241Zmx3ZzI2MFNtQUtQYlhkUUJ3S2FpZ1l2NmxZMjZSa0xMWVA0bUJtUnRsVzRSNkw5dFI4N0xYWXRkWlNaT054SmRQWjN5ZlBKRHA1OTdhTUpFM2IwMVd3NWFmejUxMzNtSEpvcDMxRm1zRHpLcXV3NlF1WXVB?oc=5",
+          "time": "2h ago",
+          "body": "JSW Group Rolls Out AMPSTAR EV Buses & Trucks  Indianweb2.com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Group Rolls Out AMPSTAR EV Buses & Trucks Indianweb2.com"
+            ],
+            "tldr": "JSW Group Rolls Out AMPSTAR EV Buses & Trucks Indianweb2.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790580603733",
+          "title": "BuildSpace launches with 3 million+ sq ft industrial-logistics pipeline, 165+ acres under mandate - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOVZlU1hXcmRrU1J0Q2Q2Y2JVdjd5R0g4M21MS2s5anJ4Q2pUdUFROTYwOXVxNmRsTjlscWtNNnlseHZGM1lFODA2MjVSZ1RRRV95QkEzYXE5MUl6RWZwc196eWFUb3BCSG1vUmxTdmlCUmJtdG80N21vWUxLOGpUZHAtRlU5U2o2ZWxfaVZ6R1VBT1ZXSEg0a29pelJNUEFNMS1xekdIUzhYVkFkUDl2Z0JTbjZidFFnaEVpZFR2TjRIN2pxbWo3QUVuQnAwdmllMDV6elVFejZrOUZyUVAybWRsc0NWVVFTQk5WZE9Pb3BGT095S3Bj?oc=5",
+          "time": "13h ago",
+          "body": "BuildSpace launches with 3 million+ sq ft industrial-logistics pipeline, 165+ acres under mandate  Deccan Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BuildSpace launches with 3 million+ sq ft industrial-logistics pipeline, 165+ acres under mandate Deccan Herald"
+            ],
+            "tldr": "BuildSpace launches with 3 million+ sq ft industrial-logistics pipeline, 165+ ac"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790580603733",
+          "title": "Bombay High Court Dismisses Writ Petition in Tenancy Dispute — Petitioner Fails to Prove Will and Default in Rent Payment. The court held that the petitioner, claiming as a legatee under a will, must prove the will and the tenant's default; mere mutation entry d - Lawtext",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUalJDNUlWcFUxZWppajl5SnNLNE0yTXNjVEhuMHVIMDI4TklBV0hBOS1IcVQ3YVZ0ZlZVQmRmUnR4YzFfU09HZmNjeXNjdnJEYWg5NURFRTd0S2lhN3RVRmpJOG40QnJp?oc=5",
+          "time": "16h ago",
+          "body": "Bombay High Court Dismisses Writ Petition in Tenancy Dispute — Petitioner Fails to Prove Will and Default in Rent Payment. The court held that the petitioner, claiming as a legatee under a will, must prove the will and the tenant's default; mere mutation entry d  Lawtext",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Dismisses Writ Petition in Tenancy Dispute — Petitioner Fails to Prove Will and Default in Rent Payment.",
+              "The court held that the petitioner, claiming as a legatee under a will, must prove the will and the tenant's default; mere mutation entry d Lawtext"
+            ],
+            "tldr": "Bombay High Court Dismisses Writ Petition in Tenancy Dispute — Petitioner Fails "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790580603733",
+          "title": "Maharashtra Badminton Association AGM and Elections: Arun Lakhani elected president, Shirish Boralkar as - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPSFlJZkJxeGZpOHUtb3RuWGQ0TVRVM0Y0QTFJenhCSGRqMFVxMlpsT2tQWXVnLTNQRmVHOVJaMzF2bndUamJXYjVDV2dtV1Q1RDRrdEItLVRKbUw2aUhDWjJsMGZDWnpjUzZtWVZQTEgySDZBVXB2aC1ZOFJBZm12OHUyWENyeHFLRnJhcG8yYXcwa0F6TE1Ud04zOHFIdzZ5dDdKSS04ZTAtLU1LVU5jRWtvaUxNWVRIM2pTMkYtNXVPNXcxMDNTV2I1QnE0RzZMb0tDRHBQVW1UOFJUSEM3RDVTeFd0X294UkZFS3JKODBkMXZ3eEdzcHF2MkZDUUxWMnRWYTZwMXNqcW9MWGRHTkp0UnlhRmVjbXpDdXRtX0d1eDZwdURUZE1jSldqZDU4cjNQZDkxSVo5MGZWNWlKY1oxWF9LUkN1MDlJVFdGazRFbHVxb2pNN1FFekRDbjdOQ0VmclNIeWZ5Tk1PNml3TEF5TkNrVE9xQU80dGNYRkVWc0dmMC1IdtIBjgNBVV95cUxNeGhSRkk3UzdJQmwwVC0zZkJyOTNZOWNnenhIUENCRXpUUWpsNFVUWUc2dFFvQVZpeUdfQ1VVbTBfWHlKV0VQTXM0dm1rVU5OVl9VejhVNlMtUkJYMnh4V2FtRVh4MUs4SDVvQ1ZjNFE0elNyY0xfTzY4ejdKQ3RSTmZ5VW1ONzFGdW9zcGIxQXVRRFkxS2MweXgteklrbUp2RFRoYkM0VjlCNzZGMHY1VXdBTnp1QXpYTTVQcnBZbU9tMERrQkVaUnEzTjR1ck9TQm1Rdzl4VlptelJhS3ctdnRXQnJTaksxTzN1VHZ3cEc2bnozdl9rb2tNYlRNNXdNV0NlcjQ2SlAxdkdXVExMaWNhTVY4RENJR1hkakY5eEEzSjJtdHVxTWZhd29ySm9lM2RnX19sVU8zNlI5UDBaUGVRanNwcUVFRHhzaUhDLTVDbmZmZ2FOdFMwdk5yN2hPOEtCN21NeEtuVTdTbG1sMU9jaUlDOE1XdUMxQkQ3dWxrNFlxYXFJVGctXzJqQQ?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra Badminton Association AGM and Elections: Arun Lakhani elected president, Shirish Boralkar as  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Badminton Association AGM and Elections: Arun Lakhani elected president, Shirish Boralkar as The Times of India"
+            ],
+            "tldr": "Maharashtra Badminton Association AGM and Elections: Arun Lakhani elected presid"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1790580603733",
+          "title": "BuildSpace Launches Industrial and Logistics Development Platform - Machine Maker",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEJZRmdNU01NQnRVdXhGTmRiWWpXNFdySjRnMm1lQ0JGZlBhRmdMaGtOWGZfeVViOG9sUWkyYkFVRjhnaEM2VGlFY01xRmJrTi01aTM2ZVBxdGxSTzduTWlJRzNZNXFSRFhpaEJ6aUhUN3pjZlhfVnoyLXFseTNCVXBzOU5jOGlTT3NmYUtnUGhQQmpOWXFwT3dtQ09uSEl1?oc=5",
+          "time": "1h ago",
+          "body": "BuildSpace Launches Industrial and Logistics Development Platform  Machine Maker",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "BuildSpace Launches Industrial and Logistics Development Platform Machine Maker"
+            ],
+            "tldr": "BuildSpace Launches Industrial and Logistics Development Platform Machine Maker"
+          }
+        }
+      ]
+    }
+  }
+}
