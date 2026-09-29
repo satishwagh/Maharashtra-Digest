@@ -1,0 +1,797 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T07:25:53.615Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1790666747058",
+          "title": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZnBSbi1aVGFNZEtVMzdDUjhOdHNscGtQLWUyYlBGXzJrSl9sNmxncDRTZTRlZmhrYTR3Q1BQWVp5d01Ia1kyMzlMVGxCNFZUUUpZZm9INHRJVXZUa1BhNXdNSTVXNFF0ZHBXcFBXX2Vna0JzQ19NSG9YdnhYS0EwbG1sd1NRaFcwWU8wMkxUUWJybzNFYWxxbU1IN2pLRmNXUjMxM1J5Nmo4LTRydWlWVnlQZVBZUUNOMjBxTjFGUVdoZFBPTzNWbDBBOXQ0aHl0eWM2NnJzOGVrZUk3bTdB0gHfAUFVX3lxTFBmcFJuLVpUYU1kS1UzN0NSOE50c2xwa1AtZTJiUEZfMmtKX2w2bGdwNFNlNGVmaGthNHdDUFBZWnl3TUhrWTIzOUxUbEI0VlRRSllmb0g0dElVdlRrUGE1d01JNVc0UXRkcFdwUFdfZWdrQnNDX01Ib1h2eFhLQTBsbWx3U1FoVzBZTzAyTFRRYnJvM0VhbHFtTUg3aktGY1dSMzEzUnk2ajgtNHJ1aVZWeVBlUFlRQ04yMHFOMUZRV2hkUE9PM1ZsMEE5dDRoeXR5YzY2cnM4ZWtlSTdtN0E?oc=5",
+          "time": "3h ago",
+          "body": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay High Court to hear plea seeking transparency in Maharashtra SIR The Hindu"
+            ],
+            "tldr": "Bombay High Court to hear plea seeking transparency in Maharashtra SIR The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790666747058",
+          "title": "Maharashtra govt directs civil servants to treat MPs, MLAs, MLCs with respect and courtesy - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOV9xVGF4R2VzQ2NybmZKYVI4QXd1R2dnd1pEX2k0UTN6TElIVzBOM3RacXdwSFpPZUZUTUxJM3ltMjh0b180UngxVmwtRkZIekY0ZG9rdTBfWWJyalJ1RlVqeFA4QXdFSU9VdlRYX3UxekRHM21PcmZ5V3ZrT01kdWctcVUzRGUtcUZpUXIyVmVXalRKV3dGY0IwaHJaX0ctU2EtZFRtdEpRYjB1bktIZ2gwLW8xcTdCVUQ0S0dfbmR5ZGZIaHJGREQ5bXdtcjV0c2MyUjZfa3hYUkowLUthaWJ30gHnAUFVX3lxTE9ERDRBWUJiQlRJVEhYZGNGOVNmejBDaFpGSG9mYndpeDlPcGhiTmtyVG45Q3l1ZXFPLTVhdkh3Nk03eWE3bW1NUVRDZDNGVFd5MTNmMHpjU215UUE2bk9vLXlNUEZfQjN6YjJpXzJLaDl4dUJaWWZWWEFwalpkU0F3RVB4ekpzQjNLenMtZWc4aEVqaWp4M1hYWUxLTHJtVGhlNVY0MVZnbWFOV2hqTTNIRDFMMUpBMFFqU2Y4UU9yYzVWdk5lZFh2T1VvVG9RNkxBdlBBWmc0aFoxRGZUdERqUmpPZXFNYw?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra govt directs civil servants to treat MPs, MLAs, MLCs with respect and courtesy  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt directs civil servants to treat MPs, MLAs, MLCs with respect and courtesy Mid-Day"
+            ],
+            "tldr": "Maharashtra govt directs civil servants to treat MPs, MLAs, MLCs with respect an"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1790666747058",
+          "title": "Officials to face action for breach of privilege: Maharashtra govt issues revised guidelines - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFQxVk1YVklQQWlTV2ppT2tTMEhLWFk5VkhMMmVMSnR2QmZIOV9kQlBKVUg4QkZzNDZBRGQ2aTk2MDhTTmVnbHNRZnhSV1hEdUhoU3ctWFBJVS1kRV9raEdzRmI5dWR3cHhQa2hoZEp2eThnRGZCYzFSR3ZvcW42LTZaUmJPQU9CemhjNVdraWhwclgyN19Oa3lLcUVNdF9DNkdON05kaEZibl84c2FkY2NXeWNWX3J3NXJzTHNpdmpSWGx6U3llaXV6bzZ4MkxpTFVsMGFOWDJIR09RR1E5ZTZvSnJEQ2tsdVlYNDBIRVJuR3FUTWZSa9IB_gFBVV95cUxPQW9sZzVjLWF3NVNtZWdBdFhpTnJNQU5pclhGVTk1YUtKTTBrUHhZb3lrTlIzQUZEaU9pRERFWVZ0dEIxOFNWZ1p4Vlc2OTZZYnFGWTdlY1BXUU8wUjBhU3FVQURwWW1qLThPcW9QRVNkZDRSUG9Tcl81MlFCcW5vN19taVlTYV9XMDc2aktjbklsSmw2a29HNXhiNndOLUlzbW1qUW9VQXZNVlVHSnF0eFZaU0l6RDVCcUZOUTVmeXVjdTJzM2REZ2x6aWhSRFY0RnNGNU1rbjFXOERaRTNCSXI4UUNxZE5qYUxJUVZ6WjZoMHlCbTJGOW82VkdDdw?oc=5",
+          "time": "14h ago",
+          "body": "Officials to face action for breach of privilege: Maharashtra govt issues revised guidelines  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Officials to face action for breach of privilege: Maharashtra govt issues revised guidelines The Times of India"
+            ],
+            "tldr": "Officials to face action for breach of privilege: Maharashtra govt issues revise"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1790666747058",
+          "title": "Photo Album - PIB",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EUkNuTkItWW0wYlB3OTZOY0xvbVllcXlaV0owblE1NV9KdmFVeXVZQkhvZmRlQlBzTGdQSlk5ZE5DV211d182bENkTWoySS1hUG1DYm5XS2lEVnl3ekhvN1ZMYXRHelVxcHBwbWVMZWRxQWs?oc=5",
+          "time": "22h ago",
+          "body": "Photo Album - PIB. Photo Album  PIB",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Photo Album - PIB. Photo Album  PIB"
+            ],
+            "tldr": "Photo Album - PIB. Photo Album  PIB"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790666747059",
+          "title": "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found | India News - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZ210VDI5cFN2M3lkZVo0ODBTd0VfZmdnenF1U3dSRnpwSGZtX01hMXZYYncyQ0tKLVg3YlNFODR2TXkwZDZ6RDBsb1EwQ0RSaDd6aHZwT0RLR2J3VlA0c0NJWEtpeEt5dDhhb2pDVGp3ZnJaVl9RdU9sUFJzUzVKZjk4MEREOW5QOG1MRmRxa0x1WGZTbmNadEJYMjdFeUJGUG16elhlZXZlYndiaWxWei1hQy1MdWgxUzJ2Y25zSDJ2TmJPb0VYT1BjVldfTy1EcWlqeXBHenhaeGduNUw4ZldqVzREbGdtRzFWLUJtcGhMM2dRRTdCdDBYSFBLWXdWT09icmNmSWpwR1JXSXfSAZMCQVVfeXFMTXJkUVJ2Ty1kSWJCT0FuTnNqT1FQWElzXzlfcU1CT1Q3OXNQODFDcDRDT3BCQktUMnYxUmZudlU5eXhudkFsM29Nc09UNzZ0OHRPZDNYVUdDN0RUVFpWQ0wxUDR3bGdNZ2RLN2pLRHpOM3lBVHFvWUx2XzhqZ0MxQnRHbDVaS3JHUGRGT1lJRHhwc1c0cWNqbnNtQkh4Y19yeWhEUWtZcVVvZHJJaTJMRkxGajR5NG1tWFl5U202aVVDZnY3R0o4NXVya2o4d3QyWXZzZG4za2VzalJBb1hGdVh2SGZiRjNfdVJiNUx3SVF1bWthLWFKX1RXSHp3WXpJbXpnZF9rU0dZUzc3Wk94VUxyZlE?oc=5",
+          "time": "14h ago",
+          "body": "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found | India News  hindustantimes.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found | India News hindustantimes.com"
+            ],
+            "tldr": "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790666747059",
+          "title": "Maharashtra govt sets up chief secretary-led panel to screen proposals during MLC poll code - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdG5UWWtpRl9mb3ZielhHeWVGNzJpRTNxdTJDckFsdnh2OEVEQ2cwdExIZXZZLWhqREtvRzhleFRQTDFLZzI1REdzVUd6ZmNXTjBfeEFNZ1hjeWE5TUczcnhlQThBazR5U1h6NWlEa21yN3owVlNkbTkzbktwSlk2eFJGcUxYV0Ruek1Ha3RKZmhaZXgwVUFEaXlIZFlwN3pCUkY4MUF3SVloSDM1Z1VnTVEyeldsX3JkWGg0ZndFTkp6bGNfd2pDS2lBSkJPLTlhLVBNTkczU3N0Ujg1RndLdTFlU3BsZUVwY1ZF0gHrAUFVX3lxTE10blRZa2lGX2ZvdmJ6WEd5ZUY3MmlFM3F1MkNyQWx2eHY4RURDZzB0TEhldlktaGpES29HOGV4VFBMMUtnMjVER3NVR3pmY1dOMF94QU1nWGN5YTlNRzNyeGVBOEFrNHlTWHo1aURrbXI3ejBWU2RtOTNuS3BKWTZ4UkZxTFhXRG56TUdrdEpmaFpleDBVQURpeUhkWXA3ekJSRjgxQXdJWWhIMzVnVWdNUTJ6V2xfcmRYaDRmd0VOSnpsY193akNLaUFKQk8tOWEtUE1ORzNTc3RSODVGd0t1MWVTcGxlRXBjVkU?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra govt sets up chief secretary-led panel to screen proposals during MLC poll code  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt sets up chief secretary-led panel to screen proposals during MLC poll code Mid-Day"
+            ],
+            "tldr": "Maharashtra govt sets up chief secretary-led panel to screen proposals during ML"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1790666747059",
+          "title": "Sharad Pawar rules out political realignment - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTFTRXZtN1U2VmJ0QnZMeXY2bTY0UmptSFd2Y3R0ZTVxV2JlYVFUc1g1VlVKemhUYWE0aHlMR1ZUYUhtXzNRcWRmU3U1VlBsMFZpOXo2N0R0M3ZWLXRrMlNUb2llcmR1R2cxRkw1N1hPUnVoZ3IwV2UycTBYTEZybXYwRjdiVVk2aWZmakFkTjBsUdIBlwFBVV95cUxNWDRLdzdiQnEtZW5VUGlydUgtaEpBNkpvYm5hZW1abWdlODk1YkRkNEJWRndzZlR6dEw3UUh0eWVYTkxJZkFHbHhoQm1zZnp5dzIxenY3NHk5Y2pPZjM3Rm9xcXJ4ZHVqMThKUTAzSFNBNVNPd2FVT29tQjBaa2N6ZE8welZlRlBoOTNYV0o2NUVoZGxidGFJ?oc=5",
+          "time": "12h ago",
+          "body": "Sharad Pawar rules out political realignment  MillenniumPost",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sharad Pawar rules out political realignment MillenniumPost"
+            ],
+            "tldr": "Sharad Pawar rules out political realignment MillenniumPost"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1790666747059",
+          "title": "Rs 1,809 cr steel plant to come up in Chandrapur - thehitavada.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmJiT2pSbGdxTVh4ZFFqR2tmcURWcDZfTFcyUnZaYTg0Ulc3NnpkeWpMUHlzWS1TWU1nbGJfZVpMS0xDQmZ3eVVKUG5VTWpDTnVDYUtENU5HWU1NeHgtTW9ZSWZzTUI4YzlSNC1vWWJKTFp6MXoxajBJcWhoV3VSbU5XOUYwc1V0bDRJemk1U2FOOGtRdWo3bjQ2U2o?oc=5",
+          "time": "Just now",
+          "body": "Rs 1,809 cr steel plant to come up in Chandrapur  thehitavada.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rs 1,809 cr steel plant to come up in Chandrapur thehitavada.com"
+            ],
+            "tldr": "Rs 1,809 cr steel plant to come up in Chandrapur thehitavada.com"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1790666747033",
+          "title": "Sensex, Nifty open in red day after massive dip, near six-month lows | Business News - hindustantimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNE05NEs3alZTOEJPT0lybldlbVVUd1RPTndBTXRnYU92WUpSZVNaOXNvcGNWWFBsNkxOaHRCdjZVYVBMM21BalcxZEIxTjRDWmpPczVsY1JpMkY0X1Zpdjc4YUVFXzNrUDFFY3pHd09CR25DT1cxSGNqTk1pcUw5SHNHYWxsNy1FRG9sS2lRU2lCODBBbkIxbWhXR21rZnhJNjhOX3AyTXdfdnllcDZPQWdSSGx6THJtOVlzVGZNUzVNdTBlOXBPMGpZR1ZBYWZSc0MzWVFyOTcxZE55RUE0WnZLclVBVDk5dGFwTDBtRFZ0cERNaHZtYUU3UjdOYVZ1TDRn0gGIAkFVX3lxTE83a2I5RExfUXhIVXZ0QktCblJTOTJ0VHpoZmNPV2RlN2czdW80WTlHWGp2M2xRZkhkQi1GTW1QWG9fMVB0clc5eXRMMXZyUENwWTk3SGw5V2VCaVlxQWNvRWg0V3dFZHYybGpCLTlRRnVUb0s4MWdxb1lHdk45bUhuR1YtWVA2RW5SM09HN3p1U1Z5MDYxMXJvdC1lREhweVlIQ1BZV0VVcmVTbDhrNnBtakZIN3kxTGtVTXo1SU5UY09GQ3hmLW9yVVprN24tMlEyMzZrYVBwMzhqd2ZTNHlENTh1a3Vkdjh4a0JOMUQ2QUZ2b3NFZUN0cnFvXzNUVWs2N1ZWUDVFdQ?oc=5",
+          "time": "3h ago",
+          "body": "Sensex, Nifty open in red day after massive dip, near six-month lows | Business News  hindustantimes.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open in red day after massive dip, near six-month lows | Business News hindustantimes.com"
+            ],
+            "tldr": "Sensex, Nifty open in red day after massive dip, near six-month lows | Business "
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790666747033",
+          "title": "S&P BSE SENSEX (^BSESN) Charts, Data & News - Yahoo! Finance Canada",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vZklsMGVMTXYxN0pQOVJGaE1ScFplNXRNTFM0Q041Y0xoWUVlNFZyaWlPSGFDZVEtUG8xbnhiUFJzRkxVT1FfY3hzX2xPNVlGMTc2bl84aw?oc=5",
+          "time": "19h ago",
+          "body": "S&P BSE SENSEX (^BSESN) Charts, Data & News  Yahoo! Finance Canada",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "S&P BSE SENSEX (^BSESN) Charts, Data & News Yahoo!"
+            ],
+            "tldr": "S&P BSE SENSEX (^BSESN) Charts, Data & News Yahoo!"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790666747033",
+          "title": "Sensex, Nifty rebound from near six-month lows amid crude shock - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnlwRUxnX0Mtc0I1MHBlVmo5dlptQ2NnUm5ib1lSUk5EU1o4TjhNNUgtY2k3TENnYlpQSkptbEZRU1JXaFcydWNEY0F2c2FjcjZhajBmQllqU2dIckQyZDlMcWo2emcxajVEN0xjaWQtSy1NVlBaa2x0QzFlV3cyblVHemQ2X2xSWjVCZVJUNkdjak5SQ0h5NEVqSGZsZUlIQTdCUUZxR1hpUmMtYVZxeHRaRUZpWVcw0gG-AUFVX3lxTE5ySzVLbHhfdWYzTWpxYm1zLWNSUEZ4QVE3c1BhZ1ktWDM0aENCZ0Qtal85VVhCVFFFeVJqbFVwNkRxOEJaTVdyZWZPZTR0bTNDT0xyNndFS0ZlTUtwTDFzNnpQZFprT3pEazRHX0xFbFczaGhoemc1OWNkeWFqQUk0UVUtYnNiUWV6WC1iZHpJQ3U5ZWRSZnh6eWlKNlR2MTkwUmwzSE1pZzh5NzREOUtkRy1Tb2ZvY0Fpa0RickE?oc=5",
+          "time": "1h ago",
+          "body": "Sensex, Nifty rebound from near six-month lows amid crude shock  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty rebound from near six-month lows amid crude shock Livemint"
+            ],
+            "tldr": "Sensex, Nifty rebound from near six-month lows amid crude shock Livemint"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1790666747033",
+          "title": "Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevated crude oil prices - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbk9MQnZfUDFfWTBHeFg2Q1dweG5JRF9VczBEMmNvOG1JVHVYdDdKdDB6SG56WEpWRDE4cEEwQU1Da3ZxelYzeW90S0tKQ3VMT0d1T2VkY1Vsd2ZKTDk4OWFiV1dfeTJpLVZmbjFoV1BQVkUxdkJNUXJjZER0UXE4UERuVUNzLXhxekhjUzhteVpUQUdLeHpxUUwyUEFqc0NvZjBKMFhqUFc2SXRERTJBMy0wTm9TazFJSjd6NF9VNHJ0NDVETGpWenJTTEh5SUl6TjhoMUk5d0hSc21rbWJmS2NiY1AxMm9fR2RwSkIwNkdXYXBGVmJWU9IB-AFBVV95cUxNbk9MQnZfUDFfWTBHeFg2Q1dweG5JRF9VczBEMmNvOG1JVHVYdDdKdDB6SG56WEpWRDE4cEEwQU1Da3ZxelYzeW90S0tKQ3VMT0d1T2VkY1Vsd2ZKTDk4OWFiV1dfeTJpLVZmbjFoV1BQVkUxdkJNUXJjZER0UXE4UERuVUNzLXhxekhjUzhteVpUQUdLeHpxUUwyUEFqc0NvZjBKMFhqUFc2SXRERTJBMy0wTm9TazFJSjd6NF9VNHJ0NDVETGpWenJTTEh5SUl6TjhoMUk5d0hSc21rbWJmS2NiY1AxMm9fR2RwSkIwNkdXYXBGVmJWUw?oc=5",
+          "time": "2h ago",
+          "body": "Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevated crude oil prices  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevated crude oil prices Mid-Day"
+            ],
+            "tldr": "Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevate"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790666747033",
+          "title": "Indian stock market crashes, 7.4 lakh crore wiped out: What is driving the fall? - WION",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3ZwWkRNRjJrZ1RQN0tCaXBfTGZORVVIeFJ2d1FmTkJpZ3RFM2ZUNW52alVyTDVSLXNzN0hRWUE0YUZ1NXBJZWEzbWVuV2NDUFRxNmRmWXVSdnkzZ0MtLV9UMm9FeTVaM2VGckptZWt1Wnhpd2F6TmVjcEpXVEJhNXpKWkVFd0NCelczRTBidmMxam1zVjRfM1J0aDVHaVl5MWtkQ1RvS2xXNm9lMTlraE9IQXBqd9IBuwFBVV95cUxQdU1hSjhhcHpRbXBFRmlSLUVvakR5c3ZwYlpORGl2M1hiaEhqa2dDWTVIdHhmY2NsNkVUWFZKT1c4MHROTG1fbEtCYnZnM0VMOHFEXzB5cFotZEtGNHgyVDR6ZkpwM19JM1JaVmlFMElpSUw0OHRMUXNKVUlvSEswOFdQcXlLLVVZZWpDVlE5bHplYkZoNUp4bUVEV2VhaWFVZzNDN1dpRFVUMUROeGtLQ3VlZFJjUDZ5Rmd3?oc=5",
+          "time": "11h ago",
+          "body": "Indian stock market crashes, 7.4 lakh crore wiped out: What is driving the fall?  WION",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stock market crashes, 7.4 lakh crore wiped out: What is driving the fall?"
+            ],
+            "tldr": "Indian stock market crashes, 7.4 lakh crore wiped out: What is driving the fall?"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790666747033",
+          "title": "Stock markets tumble in early trade dragged by elevated crude oil prices, foreign fund outflows - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc1VuXy1MeTc5Rk1pZW5EcFYyTUwwVEhhZkR6cXUwX2FOdjNIZXBuSlNJb3pCYlhuLXRmeGdJWG5aRi1oenJmaXJ5UUtnRmlVOXVtU01Hb2hXd29Ib2ZyeVoyVDc1dVNCZGlTRzdIQ0dPVWRoOEFJSFJHN0lvSWZNaFZFZlM1bVBHN2RCNjdmTTBoVll2VEdyTW1TOG0zS1h2SnVWLVotS09DX1AtcGF4UHMyd3Y4aHBtcmxHMkg3aFYxR3BheTN4YUJXbng1WE0ycnZ5a0lVd9IB1wFBVV95cUxOc1VuXy1MeTc5Rk1pZW5EcFYyTUwwVEhhZkR6cXUwX2FOdjNIZXBuSlNJb3pCYlhuLXRmeGdJWG5aRi1oenJmaXJ5UUtnRmlVOXVtU01Hb2hXd29Ib2ZyeVoyVDc1dVNCZGlTRzdIQ0dPVWRoOEFJSFJHN0lvSWZNaFZFZlM1bVBHN2RCNjdmTTBoVll2VEdyTW1TOG0zS1h2SnVWLVotS09DX1AtcGF4UHMyd3Y4aHBtcmxHMkg3aFYxR3BheTN4YUJXbng1WE0ycnZ5a0lVdw?oc=5",
+          "time": "2h ago",
+          "body": "Stock markets tumble in early trade dragged by elevated crude oil prices, foreign fund outflows  DT Next",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets tumble in early trade dragged by elevated crude oil prices, foreign fund outflows DT Next"
+            ],
+            "tldr": "Stock markets tumble in early trade dragged by elevated crude oil prices, foreig"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1790666747033",
+          "title": "Sensex, Nifty Tumble as US-Iran Tensions Push Oil Higher - Free Press Kashmir",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOci1kRlliVGdLVkdiMUM4b1lqbEFvLUdDV0VITWp3NGlyb2w5N1Rmc2pZUi11cVhmNkxDUlkwZThkS1hOZ0lFaXdmYXJoa3FiT3hfeHhaNkFwdEg2b0V6NHZaZ094cG9RZGQxLTMySlZLX1J6SGRXcU1Sb2RuTng0RzFzc1lZMWNHNjY4b29HdWpzOFRWclh4S1JGUjlGelRRSzlv0gGjAUFVX3lxTE5yLWRGWWJUZ0tWR2IxQzhvWWpsQW8tR0NXRUhNanc0aXJvbDk3VGZzallSLXVxWGY2TENSWTBlOGRLWE5nSUVpd2ZhcmhrcWJPeF94eFo2QXB0SDZvRXo0dlpnT3hwb1FkZDEtMzJKVktfUnpIZFdxTVJvZG5OeDRHMXNzWVkxY0c2Njhvb0d1anM4VFZyWHhLUkZSOUZ6VFFLOW8?oc=5",
+          "time": "23h ago",
+          "body": "Sensex, Nifty Tumble as US-Iran Tensions Push Oil Higher  Free Press Kashmir",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Tumble as US-Iran Tensions Push Oil Higher Free Press Kashmir"
+            ],
+            "tldr": "Sensex, Nifty Tumble as US-Iran Tensions Push Oil Higher Free Press Kashmir"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1790666747034",
+          "title": "Indian Stock Market Faces Sell-Off in Green Energy Sector - SolarQuarter",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT2g4UmF1ZDl5dHFaVVRhalJQTGctNXgwcXU2OGhROGlvb3BUaTU4Z0pPRm9ZSHlSTVVBQlIyaXJtcF9iNkU4d3Y3RllXalBDcTZFeWtlZ3VmbnVrVmN3dFhOS0xCOTgzM2R2dldaS2pGelRmRTJMd2NvRmljNEQ1RmhFWk82MmpzaFRMb28wQmNMSWlGYlVBVV9vMlhaZzNkNG8ycU5ic2Z0VzJzRnQzZmthaEk0SVM1NEE?oc=5",
+          "time": "19h ago",
+          "body": "Indian Stock Market Faces Sell-Off in Green Energy Sector  SolarQuarter",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Faces Sell-Off in Green Energy Sector SolarQuarter"
+            ],
+            "tldr": "Indian Stock Market Faces Sell-Off in Green Energy Sector SolarQuarter"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1790666747058",
+          "title": "Repairs of Sheds and Pathways Tender in N Ward Mumbai by Govt of Maharashtra - urbanacres.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmZQT09RN1g4YlNXMlhlb1hHTm40ZU9IeHoxbWlNbVFIMmpGVGw3Y3BXaTRRWnhkc1ZJVUs2aTRUWm4wQ2FoQW01OWhYbnFlUkZqaUFnX01qZVVZYkVFN0VHSzh4VkdwdXRtNHJFRFN2bC11cGoxcGtzUVBDMllTQ2FjX21Wdw?oc=5",
+          "time": "Just now",
+          "body": "Repairs of Sheds and Pathways Tender in N Ward Mumbai by Govt of Maharashtra  urbanacres.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Repairs of Sheds and Pathways Tender in N Ward Mumbai by Govt of Maharashtra urbanacres.in"
+            ],
+            "tldr": "Repairs of Sheds and Pathways Tender in N Ward Mumbai by Govt of Maharashtra urb"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790666747059",
+          "title": "Mumbai Police cites High Court order to block CJP Shivaji Park rally; Outfit’s AAP links and selective dissent exposed - organiser.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSDdNTThGbmdycTRjeUp1ZE8yRk1OM0xoQVk3OUEyV2Fja1J6QnB4YkJ6S1BOcTBNLWRhUlpvQjloQk9oN216TEZoakdfYmdVQ1BBZEJKQkY2Uy13cm1XM19ucUNLV3lFek5rTmdjRi1yeU5nck03TmJTOFp5TUtDZ2VXYXYta05xUDB6Y1k0VkdfclR5X2RHZWplTzZkQUZsakMzVjVSWGdSd0pNbWoxQmxJTS1CTGtmdVB4VktZQ2JoRDJMQjRnSEppdEs1Z0JJbHJBdF9TWmZlSW4wdFZNNDd2bjNkdmVKTUlPbUxHOWtpbHVYaEZN0gH8AUFVX3lxTE92ZkllNkVBLWJ4YVhwUGdqZzRjc09WOUpWa0FiX1N6S1UyajByWEJvZTdZdnBLZlVXOUc5TXY0QUVGMVNDLTI3eW9Sa0FkbllrTUdIWFV6ajhLTlozOWh3UkZzM2QxaWlRR0REWXVTMy1ZSVl1MFF5Q05YUGRaVjk1em5kdzR6SkxiejlORWt6aE5mRWYtLUdMS0prNTVnaV9uaWEwVmxvNzJIZDNFSFdWb3QtcDNKeF81LVk2ZkFaZGgzbVhlMDQ2MmtkWDlJY3k0VHpzbHNPYW1qWnFmcGNoMHdkOEZ2TVpjaDR2bXBDb0dYTzlidDYtdlBEZg?oc=5",
+          "time": "13h ago",
+          "body": "Mumbai Police cites High Court order to block CJP Shivaji Park rally; Outfit’s AAP links and selective dissent exposed  organiser.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Police cites High Court order to block CJP Shivaji Park rally; Outfit’s AAP links and selective dissent exposed organiser.org"
+            ],
+            "tldr": "Mumbai Police cites High Court order to block CJP Shivaji Park rally; Outfit’s A"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1790666747059",
+          "title": "COVID vaccination phase-3: Uddhav Thackeray seeks Centre's permission for separate app for COVID-19 vaccination - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd0xyQ3diRXE2amVNbjV0cnRjZ1lPWEM0bF9QVDFfRnBIRzJ2QjhzU252RWdyeE9lalVpUkVyMHdEalpZb1pTSmxoV0kyT2FrRU9SLUlZeVowRjRLd2R3Z2xYS3h2NWF4Uk5aWnJRc1NrTGYtVFh0b2RIRV9mTFJMSXVjRURkNGFweEJoTGFJYVlab2xhcGdjRTM3aDgtcGMyODh6TnVZZ0VwZmN6TVFMOVBYUUlqUndCczZWMlNxcmJBLXhJN1o3a3k0VTdQUV94eG1fZzlvSWU3eGFFV3o3LWNUS01aR21W?oc=5",
+          "time": "21h ago",
+          "body": "COVID vaccination phase-3: Uddhav Thackeray seeks Centre's permission for separate app for COVID-19 vaccination  Mumbai Mirror",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "COVID vaccination phase-3: Uddhav Thackeray seeks Centre's permission for separate app for COVID-19 vaccination Mumbai Mirror"
+            ],
+            "tldr": "COVID vaccination phase-3: Uddhav Thackeray seeks Centre's permission for separa"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1790666748357",
+          "title": "InfoComm India 2026 records strong growth and attendance. - Bisinfotech",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRFMzbmpUUF9YNC14RC1faTRLT1kwZlpZNDM2V0tSVEo3aUJRNjZpU29hN0Vpd3R3S0hwbmt0SjVESF9TaHV1eUxyaW5zTDN5Mnd2YV9CSC1RMnplTlFYMnpjekhKelc5N0pQV0FoUmFyZnhtQ1VkamVLZ1NKWTN3a2RKZFBzTUxQLUw3VnlndmtkOFVCNlJNb3VUVDlDUktnaGFtM2dsVWN1Q20zWlctSzNKUzVYODJtOTZSWGNYY2ptcldFTThJa1NfSkJhYnFsNF9vMldsQ0k?oc=5",
+          "time": "1h ago",
+          "body": "InfoComm India 2026 records strong growth and attendance.  Bisinfotech",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "InfoComm India 2026 records strong growth and attendance."
+            ],
+            "tldr": "InfoComm India 2026 records strong growth and attendance."
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1790666748358",
+          "title": "ServiceNow World Forum Mumbai 2026 - kpmg.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGR1QTlaU2pWdmpIMFVsMmFRdUtpRmRxSEs3bjN6OGlNMDJTc3JoY1RDX1hYdUNCREItOUtMN2I4SEs0YUNIa3pZUTZjZG1CbklrN2VXNDNiVFlHbVlrOTJYaUlPdXhwMWlCU2FTOUtTNllSVzBXdnFGT2VMNEZWaFBXZw?oc=5",
+          "time": "20h ago",
+          "body": "ServiceNow World Forum Mumbai 2026  kpmg.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ServiceNow World Forum Mumbai 2026  kpmg.com"
+            ],
+            "tldr": "ServiceNow World Forum Mumbai 2026  kpmg.com"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1790666748358",
+          "title": "Responsible Fintech Institute Appoints Four Executive Fellows and Elevates Distinguished Professor Patrick H. M. Loh to Co-Founder - indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUHA2cUtwWDNOVGZ4OGJfb0hkN09pQ3dYemt6OTZwNVc0WlpNQmdmTVlsbUppMTB5V0c2bmI3alJNWnZqYVRXUklSVE1pd1lQUzJqM1dJa2oyVzFranA0WlZoY2lpeDVybmVZMjRPR1hCUlB0NFB5Q1RBVUFaeVBIcTIzLWR6bDFyVlNrWmdKRi1rd0tsTkVRTjgwU2JKb0pZakdlVDRFNFQ2QVJrYlJob241cTVsZllGYVA3NVVIc0daWDV3ZUpaQVRzbjBxR3IwbjF1ajZHNmxqT295WlR6TXZSMi1telJRLW5Kc0k4WENpdFFvWDBqOWZyQ3owdi11WEE?oc=5",
+          "time": "6h ago",
+          "body": "Responsible Fintech Institute Appoints Four Executive Fellows and Elevates Distinguished Professor Patrick H. M. Loh to Co-Founder  indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Responsible Fintech Institute Appoints Four Executive Fellows and Elevates Distinguished Professor Patrick H.",
+              "Loh to Co-Founder indiagazette.com"
+            ],
+            "tldr": "Responsible Fintech Institute Appoints Four Executive Fellows and Elevates Disti"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1790666748358",
+          "title": "Inspira Enterprise Named Major Contender in Everest Groups 2026 Cybersecurity Services PEAK Matrix® - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0UzWElxcmNZbVZ0dGR3RFVneFcyaE9xX0pXcTcwSU1ldkEtUnU1QTR3U19oVGoyN3R3emFOU0JwMnFGV2JKV0I5TmVzejRjbzd6VUVpY2pWa0ZlS0d4a3pYVEk1X1c2SHRxdDc4OWdfRlhXazdOT25KMDdJdzh6cTlxaVNOTDBiR0xMcmFtTllvOFJYZFFkdDNrTThBazI1TU1XSVFOekVWMVlGbU9rS0h1QTdkMEZXbmE3T1BWcHJiYldjYzdNMjN5NXItbl9tdWs2dmFpR2tLbHlsRHB30gHfAUFVX3lxTFA3RTNYSXFyY1ltVnR0ZHdEVWd4VzJoT3FfSldxNzBJTWV2QS1SdTVBNHdTX2hUajI3dHd6YU5TQnAycUZXYkpXQjlOZXN6NGNvN3pVRWljalZrRmVLR3hrelhUSTVfVzZIdHF0Nzg5Z19GWFdrN05PbkowN0l3OHpxOXFpU05MMGJHTExyYW1OWW84UlhkUWR0M2tNOEFrMjVNTVdJUU56RVYxWUZtT2tLSHVBN2QwRlduYTdPUFZwcmJiV2NjN00yM3k1ci1uX211azZ2YWlHa0tseWxEcHc?oc=5",
+          "time": "2h ago",
+          "body": "Inspira Enterprise Named Major Contender in Everest Groups 2026 Cybersecurity Services PEAK Matrix®  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Inspira Enterprise Named Major Contender in Everest Groups 2026 Cybersecurity Services PEAK Matrix® The Tribune"
+            ],
+            "tldr": "Inspira Enterprise Named Major Contender in Everest Groups 2026 Cybersecurity Se"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1790666748358",
+          "title": "ESDS Unveils Swaraj Sethu, A Unified Platform Bringing the Enterprise DevSecOps Lifecycle Together - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVkltakxJSGh4c2I0VVdTV0xXbjZJTFBlTU9meGJLR1BHRnRILWd2bm95MUVPblR2LXB0OXFSN09YaDRhSWU5NjBqTHBYcnJVOGhjeGFlT1ZWSktsUkRJc0FCb1VyaUV2V0lfanA0RHNsOGtSWU9DTkJ4LXkzTVNLcElsWnZNa0huZzdkQ3BVLUR4dFI2ME9UTlNjT3RlWTlxeWVLWDZGdzMzejlyVmlrNkdzd052eUk0NV9yZEZ0S1BSclg1LWdYam4taVZlTjNQU3R6alZ2SDUwdHczd0JDdXZZTjQ0WVZKcThkUGh3alRhZUE3Z2ZBakJvNzlNWnNBZ0lXTjZRTF9aWVlaYW9n0gGPAkFVX3lxTE5WSW1qTElIaHhzYjRVV1NXTFduNklMUGVNT2Z4YktHUEdGdEgtZ3Zub3kxRU9uVHYtcHQ5cVI3T1hoNGFJZTk2MGpMcFhyclU4aGN4YWVPVlZKS2xSRElzQUJvVXJpRXZXSV9qcDREc2w4a1JZT0NOQngteTNNU0twSWxadk1rSG5nN2RDcFUtRHh0UjYwT1ROU2NPdGVZOXF5ZUtYNkZ3MzN6OXJWaWs2R3N3TnZ5STQ1X3JkRnRLUFJyWDUtZ1hqbi1pVmVOM1BTdHpqVnZINTB0dzN3QkN1dllONDRZVkpxOGRQaHdqVGFlQTdnZkFqQm83OU1ac0FnSVdONlFMX1pZWVphb2c?oc=5",
+          "time": "12h ago",
+          "body": "ESDS Unveils Swaraj Sethu, A Unified Platform Bringing the Enterprise DevSecOps Lifecycle Together  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ESDS Unveils Swaraj Sethu, A Unified Platform Bringing the Enterprise DevSecOps Lifecycle Together Business Standard"
+            ],
+            "tldr": "ESDS Unveils Swaraj Sethu, A Unified Platform Bringing the Enterprise DevSecOps "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-2-1790666748343",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "14h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790666748343",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "23h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1790666748344",
+          "title": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move - sportingnews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjNHM0FlazJLR0ppTVZRNXRWMjU1bi1LTm51bkNhcmlReUxMcm1FVlRBNGEwRkVpSGFXMU9mV291NXdMQkYwR0RtQ0pHSjcyX18tbHhWRTRMM1Y1M0s5S0tWVFlhaXpNcmtoc01yM0JGWGlQYjhFZGt0Uk13ODR2bzdDZ2dFTGstRXdsRmpMcHJzUjJuYjZJY1dORjZZLWxEdXR0TzB5Rk1odnBL?oc=5",
+          "time": "4h ago",
+          "body": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move  sportingnews.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move sportingnews.com"
+            ],
+            "tldr": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya link"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1790666751619",
+          "title": "Asian Games: Neeru's shooting gold, Narender's boxing bronze take India's tally to 48",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "15h ago",
+          "body": "Asian Games: Neeru's shooting gold, Narender's boxing bronze take India's tally to 48. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games: Neeru's shooting gold, Narender's boxing bronze take India's tally to 48. [object Object]"
+            ],
+            "tldr": "Asian Games: Neeru's shooting gold, Narender's boxing bronze take India's tally "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790666751619",
+          "title": "Neeru Dhanda scripts history with India’s first individual gold in Asian Games 2026",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Neeru Dhanda celebrated a remarkable success in the women's trap individual event at the Asian Games, capturing the coveted gold medal. With a stellar start, she flawlessly hit all five of her opening shots and maintained her composure throughout the final round. Earlier in the competition, she played a pivotal role in helping the women's trap team clinch a silver medal.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Neeru Dhanda celebrated a remarkable success in the women's trap individual event at the Asian Games, capturing the coveted gold medal.",
+              "With a stellar start, she flawlessly hit all five of her opening shots and maintained her composure throughout the final round.",
+              "Earlier in the competition, she played a pivotal role in helping the women's trap team clinch a silver medal."
+            ],
+            "tldr": "Neeru Dhanda celebrated a remarkable success in the women's trap individual even"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1790666751619",
+          "title": "Asian Games: Narender wins bronze in heavyweight boxing as Parveen, Ankush in finals",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Narender Berwal fought valiantly in the Asian Games, bringing home a bronze medal in the men’s +90kg boxing event, despite falling to Kazakhstan's Aibek Oralbay in the semifinals by unanimous decision. On a brighter note, Parveen Hooda showcased her strength, advancing to the women’s 65kg final with a decisive win over China's Li Shu.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Narender Berwal fought valiantly in the Asian Games, bringing home a bronze medal in the men’s +90kg boxing event, despite falling to Kazakhstan's Aibek Oralbay in the semifinals by unanimous decision.",
+              "On a brighter note, Parveen Hooda showcased her strength, advancing to the women’s 65kg final with a decisive win over China's Li Shu."
+            ],
+            "tldr": "Narender Berwal fought valiantly in the Asian Games, bringing home a bronze meda"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790666751619",
+          "title": "Neeru Dhanda leads India to women’s trap team silver at Asian Games",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Neeru Dhanda led India to a silver medal in the women’s trap team event at the 2026 Asian Games, combining with Aashima Ahlawat and Manisha Keer for a score of 328. Neeru’s excellent 118/125 in qualification placed her joint-second individually and earned her a place in the individual final. The medal is India’s second in this event and adds to the country’s shooting haul in Nagoya.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Neeru Dhanda led India to a silver medal in the women’s trap team event at the 2026 Asian Games, combining with Aashima Ahlawat and Manisha Keer for a score of 328.",
+              "Neeru’s excellent 118/125 in qualification placed her joint-second individually and earned her a place in the individual final.",
+              "The medal is India’s second in this event and adds to the country’s shooting haul in Nagoya."
+            ],
+            "tldr": "Neeru Dhanda led India to a silver medal in the women’s trap team event at the 2"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1790666751619",
+          "title": "Asian Games 2026: India's schedule for September 29 — Full list of events and timings",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "16h ago",
+          "body": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues with another busy day on Tuesday, September 29. The Indian contingent will be involved in medal events, knockout contests, qualification rounds and team matches across several sports.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues with another busy day on Tuesday, September 29.",
+              "The Indian contingent will be involved in medal events, knockout contests, qualification rounds and team matches across several sports."
+            ],
+            "tldr": "India's campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, continues with "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-1-1790666749584",
+          "title": "MMRDA Floats Tender For 164-Metre FOB Across WEH At Gundavali Metro Station To Improve Pedestrian Connectivity - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVnNnenlTQkQ4X2tpUVJLUlFaMmpkT1VRWnRncXJwLVY1MDM5ZXEyQjlhTmJWZkdzaVFyU0l2aHJ0cTRBR3llSWxGSXdNNlZvWTZvdHpGWkEzNW9ranBXS0tucy1sMkgxWG4wTTFWTU50MXJ6Z05zUHZwQzlvZFI4Tlk5VmYtWXBiaHVEOFNtVFU5NmQxSWFuLUY4c2g1RDBmSHlUUi1PY2Q1WGRCbzFoUmxlWkc5cjd4V0pMRkxJZnJjNkstYzV1N3FIZnppRXFTRm5DQUVnckFkQXZTTUlCc0NFSGNtaTFIVTlJ0gHrAUFVX3lxTFBWc2d6eVNCRDhfa2lRUktSUVoyamRPVVFadGdxcnAtVjUwMzllcTJCOWFOYlZmR3NpUXJTSXZocnRxNEFHeWVJbEZJd002Vm9ZNm90ekZaQTM1b2tqcFdLS25zLWwySDFYbjBNMVZNTnQxcnpnTnNQdnBDOW9kUjhOWTlWZi1ZcGJodUQ4U21UVTk2ZDFJYW4tRjhzaDVEMGZIeVRSLU9jZDVYZEJvMWhSbGVaRzlyN3hXSkxGTElmcmM2Sy1jNXU3cUhmemlFcVNGbkNBRWdyQWRBdlNNSUJzQ0VIY21pMUhVOUk?oc=5",
+          "time": "13h ago",
+          "body": "MMRDA Floats Tender For 164-Metre FOB Across WEH At Gundavali Metro Station To Improve Pedestrian Connectivity  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MMRDA Floats Tender For 164-Metre FOB Across WEH At Gundavali Metro Station To Improve Pedestrian Connectivity Free Press Journal"
+            ],
+            "tldr": "MMRDA Floats Tender For 164-Metre FOB Across WEH At Gundavali Metro Station To I"
+          }
+        },
+        {
+          "id": "mumbai-city-2-1790666749584",
+          "title": "FPJ Dialogue: MSRDC Aims To Develop 6,000 Km Of Expressways, Related Infrastructure By 2047, Says MD Dr - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTDZCTkY2WU5Fa003cHFWX2xpYlRnTmxzZGoxUDd4MFJhNmRWWWhNZkVKV0FNNDdNend0RlVHRDVHWmlGOGlNb1hKV0ZtU2lxd29STHJUTTE0ZXlKT0pJVnI4WWFnYlhDU3BLU1BYckQxNG5VblFKZWc2bnhrOHdQNnlRYVpwdWR4ZGNRTzNxMUQzWEU2U3BJc2xncS1Nc3FGWVV1WkNna0VaSDhqbkxhTl8yME5Hc1lrYXRaSFFFbzEwOGlIZno5SXVwVEUxNXI2WjJjampSVk52M3RPbkoyTDFxZjhRRE50NmxFZ9IB8gFBVV95cUxNWU9ral9fVHhLMk40UUU2Qkc0S1RWd0duMHdrYmNqdzNXczNSeEtScm5VZTh0Nks0cHN6R1Q2Ul9tSlRmM29LLTVUNmF5clU0cnBUX2xmSzBCSDN0dDFSQzFoQXJiTkgxUjlDVTgwRnpaZUtmRzBPYTNsVjR3cHc5bE9hMmlnWFFmZXpnRG5sZE45a3FJTzYzQ3V3b1pqR0Y0Qkl5MTMxS05DRWI0al9kbzZEcFhRVmxuc2w0NmtERDJQZ3dhWVVsSVB5UVZpd1hRdEtKTlBpX2FuM25BY0NNbnFGWkNoc2ExU0lRdm5HdFZmUQ?oc=5",
+          "time": "21h ago",
+          "body": "FPJ Dialogue: MSRDC Aims To Develop 6,000 Km Of Expressways, Related Infrastructure By 2047, Says MD Dr  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FPJ Dialogue: MSRDC Aims To Develop 6,000 Km Of Expressways, Related Infrastructure By 2047, Says MD Dr Free Press Journal"
+            ],
+            "tldr": "FPJ Dialogue: MSRDC Aims To Develop 6,000 Km Of Expressways, Related Infrastruct"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1790666749999",
+          "title": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]"
+            ],
+            "tldr": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1790666749999",
+          "title": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaultin"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1790666749999",
+          "title": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]"
+            ],
+            "tldr": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader afte"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790666749999",
+          "title": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]"
+            ],
+            "tldr": "NRI man says wife in India turned into operations manager handling cook, maid an"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790666749999",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1790666749999",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790666751871",
+          "title": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWm9UODk5eDM3anY4UG9CRlhuUkItbkpWMmU2aWc2OHFLZk52aHVvcEsxN3MyY09KZGxGTnNaR1B6T0tuLUkzQ3d5a3ZWWnZWQ1B3Z1JQVlAwbGVnd2JwTDhUZjF2UUJMSkZiVVFIWC14V3NNWFNpXzNEUlVobjBHNlRMbjZfVmlZb2JaNHlWUWNaSFJKLVNTZDgyQjBITG9UT3pqTGhRN1NmOGlKMjJmMlFKZVJqZ1FBTEJYaWZLOHk3RzhBeEExVGdicmJ5RHM1M2xoSWtGeEJfczZIVzFMbGxkdXFjUdIB7AFBVV95cUxQNF9MVURsalhrTC1naGd4VS1mMEdGOGRHVWl0akhaSlp5b1ZOaE9LeFZHejliWk9sUEEtMmdVeURvWm5UT2pVRC1uOVVnYlFGNENSTGxSbkZ1TV9Bd0U2bE9SOHZDR0dVTHZ2dXd0eXY1alVUcEE2ckROSld3SUR1anVlLUJ4VEZpbHFXLWRtall2YWc5eDFyZlVvU1Z3Z3FRQWQzZ3NzV18xc1FFTWwtSVBkdGdad3lackozZjU2Zmt1TWdVQkwxaFpEcVBCUTJsSVhwanN3ZWRJSGwxaUcxVmE5NkYzcDdtZEw0TQ?oc=5",
+          "time": "10h ago",
+          "body": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal The Hindu"
+            ],
+            "tldr": "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s remov"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790666751871",
+          "title": "Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHpEalVKS1BzVmRiYm1vdjM2NHlNZDBzVUxORnB6dlFteGFZRks4djY5eUVNa3NTRHVDTndiQXZkSUNvNXkyV3EybGFkVjk3RDk0dWp0M3Fua2g3akVzRXVLVm1FUUhSQU1qVG5KZkh3WENmWExiVnZNR0NqWWRHY1ZRbl9FeWZOUjlWdlhJYVlhbUJHYWNuUDVBeGZNZU1NMUh1cHVPOGJaYzdocVRZ0gG3AUFVX3lxTE1DRHlfZVFKZGVVd19rLWh2eUVvLVJCVEg2T2xnWGRtVDNGRHdKV0lSRUtpZXQ3YVZuamE2TFlNc29UdGZmSkMwSng3N0QzbUJCOHlyLThYNGtOYmd3WkthOFVXZzhxOVFmUlU4SkRvNTdqN3lNMlhyMFRPU2V1dDlfRktLMU9ZcmJCWElZMlRjeHR0c0taZDJFNlhtaXpWNl9DUUZrUkNPX24zTmxXZHV5akVsVlA3RQ?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore  NDTV",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore NDTV"
+            ],
+            "tldr": "Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore NDTV"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790666751871",
+          "title": "Gold Rate Today in Maharashtra 29th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54NWVub3hEVTEwSGxOSnhkcnZUMzVXWkZ3MFNyN1JiekttYkg3RGUzR1NIdTJfTTZHR0F1MWlIQ3ZHZjV3TlRzMVdFcV9CN2V3VGY5U2k1T01vY3RseVRqN2lna283V09qZDFoTVkyOUEteEVPUjl5Vw?oc=5",
+          "time": "4h ago",
+          "body": "Gold Rate Today in Maharashtra 29th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Maharashtra 29th September 2026 : 22 & 24 Carat, Todays Gold Price in Maharashtra Business Today"
+            ],
+            "tldr": "Gold Rate Today in Maharashtra 29th September 2026 : 22 & 24 Carat, Todays Gold "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790666751871",
+          "title": "Skybiotech Healthcare schedules 43rd AGM for September 30, 2026 - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajh5VWZZWlFiUDRVQThJYk9MTjU4NGdUX2E2VzlPek9wdGFEZTRJM2Y4S1V3Vl9sdUhyb1ZETmppXzIzbFBhSDBFUXhlQnpfWGNWS1RUQ29JT3o3WENqdHpNOG1oV3BvX09HdERyWGNCWjNpRlc0TEJNZEpnYmZTUVdZOU9BbXFhMDZvelg2YmdTVTNvZGpyR0hHSGJlVnFSTzN6SFdSUkMwTlhMeDBNdVo4bGZ1UQ?oc=5",
+          "time": "11h ago",
+          "body": "Skybiotech Healthcare schedules 43rd AGM for September 30, 2026  scanx.trade",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Skybiotech Healthcare schedules 43rd AGM for September 30, 2026 scanx.trade"
+            ],
+            "tldr": "Skybiotech Healthcare schedules 43rd AGM for September 30, 2026 scanx.trade"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1790666751871",
+          "title": "Allied Blenders In Talks For Up To 15% Stake Buy By Suntory - Sahi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFFTQ3NqU3p3bm0yUlRFdkdEak9FVk8zV2NXMEc2SWtGT1FVZlJnRV9HOThuQ2o1OUJQMU0zN2tyTHBfYnpUOWNCSHllbVVFTUMtWnU3LXd5cnhXeW9RX00zZzlDNDRwOVRsQ2Z6SVNhYmY2dlRJZHhjM1llSldaQ1M5Q1Y3SWFkRVp3aQ?oc=5",
+          "time": "14h ago",
+          "body": "Allied Blenders In Talks For Up To 15% Stake Buy By Suntory  Sahi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Allied Blenders In Talks For Up To 15% Stake Buy By Suntory Sahi"
+            ],
+            "tldr": "Allied Blenders In Talks For Up To 15% Stake Buy By Suntory Sahi"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790666751871",
+          "title": "JSW Greentech Launches Ampstar Electric CV Brand - Construction World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWJpcm9IZDh2dlN4cExMcXdPbFA2VzNjcEpfazh2dWZzUVM2Q1d0WU1Sa3lmSkI3N25PLXFOU245elBLbnprYVU2YWNadkMxTnZHTDF4RV9KbGd1WUQtUjZWYno1bUtWc0E4MzhjSzJzdVF4ZnR2QlJfRFhXRWhoQmdjb3dxcTBrUXV3bkJwLU5HUml1XzZzR1dBWDNJYnBISWk5eUtIVmM3dUgzZkxoUHBNZm9Cb0ZWNm96LQ?oc=5",
+          "time": "19h ago",
+          "body": "JSW Greentech Launches Ampstar Electric CV Brand  Construction World",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Greentech Launches Ampstar Electric CV Brand Construction World"
+            ],
+            "tldr": "JSW Greentech Launches Ampstar Electric CV Brand Construction World"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790666751872",
+          "title": "Maratha quota: Manoj Jarange warns Maharashtra government against delay - Telangana Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFVzOFRWS0JJRmFuMUJCaVVEQVV2cXdJX0stajhiS3BRZDhtc3pjb0ViQzFjNEdzUzRBYjRlWFJtdnpadFJEcC1vSERzc2N3LUVlMVE4WkhZYUd3YzNmeE5DVmhCNmlEV0FFRmNGRVhEVFlnaUY4bEt0cHRlR25xVmdFbkcwcXMzZ1pieEdCcDktWTlZZTZEUFZwaWgyQQ?oc=5",
+          "time": "19h ago",
+          "body": "Maratha quota: Manoj Jarange warns Maharashtra government against delay  Telangana Today",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maratha quota: Manoj Jarange warns Maharashtra government against delay Telangana Today"
+            ],
+            "tldr": "Maratha quota: Manoj Jarange warns Maharashtra government against delay Telangan"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1790666751872",
+          "title": "Maha Congress stages agitation against Gyanesh Kumar - tennews.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqdG1Gd3VCN3ctLW1mbk1ELU1oY2hFQTlwNFEwRkEwUkVkNnRkZFZWX1YtdURjMlEtQ0Q5bEhmdWwyakZBWkFQZnNCUEFuZnJyRTVYaU5HdEg4SEQ1S2NUSjh2TXptRS12a3haRlhFR0p6eWQxM2lnZWczWjA?oc=5",
+          "time": "18h ago",
+          "body": "Maha Congress stages agitation against Gyanesh Kumar  tennews.in",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maha Congress stages agitation against Gyanesh Kumar tennews.in"
+            ],
+            "tldr": "Maha Congress stages agitation against Gyanesh Kumar tennews.in"
+          }
+        }
+      ]
+    }
+  }
+}
