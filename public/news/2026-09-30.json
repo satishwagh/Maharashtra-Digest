@@ -1,0 +1,797 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T07:16:13.392Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1790752568018",
+          "title": "Maharashtra cities to face water cuts? Fadnavis govt mulls 10% cut amid drought - indianexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblJPRnlNdkRXMENlZzlWdDJuWDNFMFk0Sjh3Ukg1V1VVZHZIWUdjUllRSGh2a1RCT1BRdTBvTWtOZVRyS2JycGpNd29saHFiM01Gb1Z6bWN6MDJiNWVUemx5ZzM3eUJqWXFhX3VIRlowalR5V1pWdUFOV1F4TjVJU0tfaFhZSWJqOG5Wci1CM2RVNm1hX1liRzMxcm80SDl1Y1ZxTnlIS09hRThYWW1ORnpjUG0yUTl4dERZWDA5UURhenZIZGp6RzFpRdIB0gFBVV95cUxNcEpKTnRTR1dYcnc0UGNtVzR3MU1GakNfci1SU0puYnlYS2htN3pSd01yOEh4X0g3WkJVZDgyRklJd3Vhb3owY1ZULUI3eTFoNlZMSEhpbWdISzFndEwwcTdXWi1VWUsyMDcwMEJ4NG9MSUpBUXdjNDhER25ubnhsUTM4RFpPT2ZqLVY0SGpTWkh4WVFENXhKZmtmazBjeWlsck9EQ1htU2FnM0lBX184MTM0c2V5Ty1URENrWFNPMkxHc2dqWHkzRGIweF9rUV9MaXc?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra cities to face water cuts? Fadnavis govt mulls 10% cut amid drought  indianexpress.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra cities to face water cuts?",
+              "Fadnavis govt mulls 10% cut amid drought indianexpress.com"
+            ],
+            "tldr": "Maharashtra cities to face water cuts?"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1790752568018",
+          "title": "Maharashtra govt task force on competitive exams receives 30,000 suggestions from aspirants - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNTBBVmVLMmpOdlN2YTIwZWJ6N3o3emxxYzRNTDdCbldKQ3A3YWxfQ3k2b1pTS3dtcWlDNi1aWkVmajgxV0xlWUVGTXdCVzdGVHROZEQ5RjUzVDNUb3BveFVNbkNLVDhySXBhUG1KOGswaEZkeU1odF9KcGthZ0lranZtWlF3RlE2d0JqcWlydTBPcnpwTzFuZTVXTTIxZDZUaE0tMjFVdXd3ZXV4a3RrZ0ZTcEQzSFpiNlR1RnJBVnBkc0ZPMzhvTm9RNG9EQkJtZHdEZTZDZHgtS0IxTFhMNXB0U1d6T2k0SEHSAeoBQVVfeXFMTTUwQVZlSzJqTnZTdmEyMGViejd6N3pscWM0TUw3Qm5XSkNwN2FsX0N5Nm9aU0t3bXFpQzYtWlpFZmo4MVdMZVlFRk13Qlc3RlR0TmREOUY1M1QzVG9wb3hVTW5DS1Q4cklwYVBtSjhrMGhGZHlNaHRfSnBrYWdJa2p2bVpRd0ZRNndCanFpcnUwT3J6cE8xbmU1V00yMWQ2VGhNLTIxVXV3d2V1eGt0a2dGU3BEM0haYjZUdUZyQVZwZHNGTzM4b05vUTRvREJCbWR3RGU2Q2R4LUtCMUxYTDVwdFNXek9pNEhB?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra govt task force on competitive exams receives 30,000 suggestions from aspirants  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt task force on competitive exams receives 30,000 suggestions from aspirants Mid-Day"
+            ],
+            "tldr": "Maharashtra govt task force on competitive exams receives 30,000 suggestions fro"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1790752568018",
+          "title": "Maharashtra sets aside Rs 6,728 crore under employment guarantee scheme amid drought: Minister - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkUyZXktNlBvSHczbE5BWmsxUXBOOHZGd0NfbjZaQUNzeEd3eHRVZno4QW5McUNVXzBJemphUE95bVJKNzdEYndleHVRVUdHRktaSDQ1VHFYVVlGcWQzY0hOaGxnUG9iUjJGaHJkRXNiYVFVejBPV0swMHlHWU00cWl2VEktWFE2d194T2FEZ2JYWkVfb05SdFp0Z3VCNjU4RGcwQnZUYjViRlNHY09nRUxDc1REdkMxbVZWbmxLOERzdWRtMlZDSnpSQzJUQjNaUVhVRkVHZFU4US1UMFB4ZHJnUjRlMlVQWkHSAeoBQVVfeXFMTmJFMmV5LTZQb0h3M2xOQVprMVFwTjh2RndDX242WkFDc3hHd3h0VWZ6OEFuTHFDVV8wSXpqYVBPeW1SSjc3RGJ3ZXh1UVVHR0ZLWkg0NVRxWFVZRnFkM2NITmhsZ1BvYlIyRmhyZEVzYmFRVXowT1dLMDB5R1lNNHFpdlRJLVhRNndfeE9hRGdiWFpFX29OUnRadGd1QjY1OERnMEJ2VGI1YkZTR2NPZ0VMQ3NURHZDMW1WVm5sSzhEc3VkbTJWQ0p6UkMyVEIzWlFYVUZFR2RVOFEtVDBQeGRyZ1I0ZTJVUFpB?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra sets aside Rs 6,728 crore under employment guarantee scheme amid drought: Minister  Moneycontrol.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra sets aside Rs 6,728 crore under employment guarantee scheme amid drought: Minister Moneycontrol.com"
+            ],
+            "tldr": "Maharashtra sets aside Rs 6,728 crore under employment guarantee scheme amid dro"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1790752568018",
+          "title": "Maharashtra CM assesses drought situation, assures help to areas left out of first list - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXZrZTQ2TkNpQUJ3d18tNml1UEoxUzlUblNDVXVSOWszRm9WcjRheTJ6ZUR6Ri14eWFMWUtTai1SQ0MzU2R3T1Rsd0hlYzRmcWE4elNRSnJLZnEyMlpSeTJ0SzU3d0RrTEVDemFnQnotRC1oWFlEMDVrVUhIZ0RnSnJMNTE0Rl9tc25NUUxwaS0yMFhHWjhvS3A0NGlmR21fVnAxVWJKR3lHcDhJSFNrbWYyVExONjFfdjlhMjY0Y2tHTDh4bV9vWkp5MEhZUk5YUkFvbHhoc2xRaTZHQm5EbjNDX0jSAfIBQVVfeXFMUE01d29qMnJfX0JTOG9vMkVTOXFoeEtSVWVOYmM4dXhwdjZhM2pSUE5KbElJSW9XUWhDTUs2TUFmRWtuRFNOcy1wWnVEMmFGSUVXZ2VIYktXRE55dHZsckZDM1RxZWpQYl9kVDRMX3N1MDlkRG9wVGxMWWdCWk1UQmVmTWlZR01jaS1qdmhqQ2d2YVNZbjlsbGF5a2UyOEZoR1lONGp6X3ZYM0tVZURnWWhtWGt6RVViN20zODFkMzQyeWp3ZV96S3JrQ2pFNEJhWC1mc21EZks4ZjNMSVRrY296VHZzRnNCVXRlbjVPbWdwZEE?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra CM assesses drought situation, assures help to areas left out of first list  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM assesses drought situation, assures help to areas left out of first list The New Indian Express"
+            ],
+            "tldr": "Maharashtra CM assesses drought situation, assures help to areas left out of fir"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1790752568018",
+          "title": "Sahil Wakode’s parents continue hunger strike for second day in Mumbai; says no one from government has approached - thehindu.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNEdoaExMT1VBbjlXUnlBUGlvVV9IZDdrUGo1aVA4R1RvRGtFUmZuTmRiOUw1NXFpYlRhRXVRZkc4VEdYUUp0QS1MTDBTRklVV1ZNZ3J6MW96alVIZ2dPVWxFV0RQaU8yOVdOZXJ3T0pDZ0ZsaWhvb0RxWklEbUJCSGIyNHplS2RHREtGSlRhMWJaY0U1RXYyMmt1ZDJuVmJiM1NNNWw0RE43ODlPODhKbEtEaFl0VDNGcXRMc3dDQWR0VzZJWXJwVE9GVi1OZjk5c0t3Y2NodkVERWJ4U3BjdFdqV19NeC1UMFBFczFmRWZfN0l4N2t2V2I2TWRjb3lXTmJ0RUE4YzBkU1JsV1hra9IBlwJBVV95cUxPcjdnWkh2ek5qWHc1bzJFY0ozRldGY1pQNUwwRzQxaUZUMmQ5V0VJSkFXVlZfT2RlMFpiaXQzM01ITnpnU0JWd3E4QklGMjVCekp3OUozZTE0MndKWnNSZGV0dlJWYkU3ZjhwN2lQZzMxakNCa0NpQlluT3JvczBhVVpNWURRbXZZdkc1a1RwaC1RZG5OZE5sajIwYTNVZEpfWW9zWW1oSkVsU042R2NyQ3FHUEhDbFZXdm1lMVVfTDM0c2g4VHZ3Wlk5UUs0aEJuR0dSejZZY0ZkdmMzQUNqcndSbjVYQ01yeWVxVTNVNGlNS3FFd1ZZNGJDbEUtbG5HWkxpMy12NFZua3lVWTQ1cTVhQmliLUU?oc=5",
+          "time": "22h ago",
+          "body": "Sahil Wakode’s parents continue hunger strike for second day in Mumbai; says no one from government has approached  thehindu.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sahil Wakode’s parents continue hunger strike for second day in Mumbai; says no one from government has approached thehindu.com"
+            ],
+            "tldr": "Sahil Wakode’s parents continue hunger strike for second day in Mumbai; says no "
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1790752568019",
+          "title": "Agniveers to be absorbed into Maharashtra police: Fadnavis - Awaz The Voice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdy1rdmdfZGVrQWpRd1lZcHE5cHZaVmFFYUMyYUdNTjl2YmN2QlNsTHdNWXdCM1J5TUJ0blVJU2dWcjNLcXJvQVJzWjdYRUdzZ04tWjY0UVktUFRmblp4XzZtVEtWdmhtV0lPbjRaV1BwaV9vMnI5SHY4UWZYRmhyVnp5cWxuSzFVbEszZFo4MWJ1Yk0tb2NBaC14WnJpQTNwSUJwZWxlNU5JVVRTTkY4QWxfaTBaVlE2bW85czNHQmE?oc=5",
+          "time": "19h ago",
+          "body": "Agniveers to be absorbed into Maharashtra police: Fadnavis  Awaz The Voice",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Agniveers to be absorbed into Maharashtra police: Fadnavis Awaz The Voice"
+            ],
+            "tldr": "Agniveers to be absorbed into Maharashtra police: Fadnavis Awaz The Voice"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1790752568019",
+          "title": "Drought: Maharashtra Cabinet Panel Orders Banks Not To Visit Farmers For Loan Recovery - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNkZJcVNXeXpSRHNBTllvR015WWtncW5sdGZXdEZxbE01R0hueUtpSkVxU1dEZ25WTFF3c0ZpUng3aDJkOHRRTThrT25JWmJPaWlmRzRPYlc3UE9jX0QzbGp2SlFfX1lLS29ka3I5RmppYlh3b3Z4bFY5RUpGTmJrcXloaFY3YXI1T0NsQnBHV1NIZnoyNlhlTUluLXk1U05ieUJ0elBUYjlRY0dqRmswb1BVZXUyZnBTcDJmd0NsUjBZYXB6TTd6OTVVRDZzamJa0gHWAUFVX3lxTE5Sd2dxa1lLalR2YjZyOUx1WW9qN3NHU2FTUFFUNVZWZHF6R1NKUmpVM1h2NURvVUZjZjFkTFlFcGtpbWxXX2ZseGxPTDd6N1BDNHJiZ1g2YkMya3lnQ3F0Q29RWXVTZUF1N2xOdnZWd3VNQkh0cHlITTNiOExRdUs0MC1SR3A0V2VhdnhKYko0aGdraUxZU1RVQVV4akZha1pDUUl6Smt5bFBnZDhzOVJlV01rWkRMOWVZVFdMOHdqbldaVklPVlRuSWh2V05kRk45RHRPaEE?oc=5",
+          "time": "2h ago",
+          "body": "Drought: Maharashtra Cabinet Panel Orders Banks Not To Visit Farmers For Loan Recovery  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Drought: Maharashtra Cabinet Panel Orders Banks Not To Visit Farmers For Loan Recovery ETV Bharat"
+            ],
+            "tldr": "Drought: Maharashtra Cabinet Panel Orders Banks Not To Visit Farmers For Loan Re"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1790752568019",
+          "title": "Maharashtra govt clears Rs 122 cr for SARTHI hostels, Rs 150 cr for Annasaheb Patil Corporation - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2ZHOVhpQUlaUGFzMHZQR1RrTlVEa2RnRFN5aUZoZ3BoNWw2a201eS1aemc5aWdXTXByeEs5cWRTOXgyaGZXeUpkc3FKei1kdWRXZzhEcVNBTFUwWFIyMWl1R3RGbkVpazNQOGhvbmphTDRJVGxyNTl2OE5DRGhZNmVBYTFiSTZRZWUtemNfdWo0cTQ3UXh1Z0RKSVBpeXcxYy0zRTlfVHZXYmY3b1NqQWVidE9qU3oyRWFpX1M2SVhuRmwxdUNkcHROSFZLaHk4RG4wbGFsbUhIQTNCRUJtMVJ4SjNGUVdOVGfSAe8BQVVfeXFMUFpVZ0trdVYxRFZaT2lZVlVNNldaZzVuWlBvVEVNYUs3R202YTZXd1UwcnNoendTc2lhb1dUWE03UENVRzg2ZGZ3UG1SU1NaSFZvYmg3REp0b0xxUlRjb1ljOXI0bkw1UWhTWVRBUllNN2k4VmR3VnN3aEdzTjEzbkE3a2ZtZkFObFJEWkRuWkFqN2NTUThuWldIWnVCYVVlclNvdVZYdTYzcEtTQXhWNF9ERGtPUWFlZjRoR3pBNjVBcFR2OEd6Mk1MNV9IcUVMbFUzU3M4OWxUYWNrTmxNaUNmMmt3c2Q1LW5MNVNqUWc?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra govt clears Rs 122 cr for SARTHI hostels, Rs 150 cr for Annasaheb Patil Corporation  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt clears Rs 122 cr for SARTHI hostels, Rs 150 cr for Annasaheb Patil Corporation Mid-Day"
+            ],
+            "tldr": "Maharashtra govt clears Rs 122 cr for SARTHI hostels, Rs 150 cr for Annasaheb Pa"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1790752567938",
+          "title": "Indian shares inch higher after recent slide; IT stocks lead - reuters.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
+          "time": "4h ago",
+          "body": "Indian shares inch higher after recent slide; IT stocks lead  reuters.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian shares inch higher after recent slide; IT stocks lead reuters.com"
+            ],
+            "tldr": "Indian shares inch higher after recent slide; IT stocks lead reuters.com"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1790752567938",
+          "title": "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti? Check full trading holiday... - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPelB3V25HMlpKRURIV3NzTjFrRmlCdGpKSjFETVJYbHd6am1NZm5LRDJUSUE1bVBUUnNjLWdvVENJeHJaMUxBczluZFBrT20wbEFQbGxlNmkyd19LZ2VwUWstUC0takFHMFE0aDY4amdsc1hQaU5pOVpGUm5PMEk2RzI1TWxKRVROVkpUS2RxMlRKanVZWWdLeUc3WEx2UHB3U1l2SGVhSHBZWjdRdXFBd0JFdTFtWUdab3pBRDBNbDZRRlczWlZXZzlIaHc3STZWalpMLThwR0NiN2dZOEZRc2RLSWJnSktMRFhiaUZMNzZIWGY0LWFpSnhJQUUzVGpTUEZzQXpIb2FCalYyaHFHMm5MUFdrdmVZXy000gGgAkFVX3lxTFBVTVN6cUlVVmxpb3NnXzRnV1RaY3RXZy04VUNtOHh3VWhod1MyUVF2NHF3dDhvUnJGVWl3SThFaWlLM0EzTGI5djVkNjJVbE0yTFlMTFBYNlZrYXJPaW91ZmIxbXpKSVNDY2dRNDdyV0VnN2VZaGp3dzJlQmtqYmo3UWhKaGFEVTVLdGhzVU1RZk8xQjUtZGk3cTlPRF9jS1k4dTBiUDhWWXVMR1d3Ti1YUlM3elV6SE1OT1FpbmpTX055TGtvUXFhMVdRMTlWTGx1YkQ1a3IySEdLZzNDelAtbkl4bW5Qb01UVFRKdUV1dVNfdVZ0UVlaMWc2VmQtX0xCUHdob1plV0RxdWpzQi1DNk5IbnlBM0dXNUVYTjZseA?oc=5",
+          "time": "2h ago",
+          "body": "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti? Check full trading holiday...  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti?",
+              "Check full trading holiday..."
+            ],
+            "tldr": "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti?"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1790752567938",
+          "title": "Stock market update: Sensex rises over 160 points in early trade amid buying in IT stocks - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMkFscEFrTExKZFFZZDBWNTdzTDhveHhSa3U1TVlKdHh0bWhoajZPX2tTOHVzNnRKdVJSajk4ZGhmUlFxNU5QNFY4dmRSUXlIcXpIN1NJamFYb3BzY3RkZTc0UVZqSDN2a19rZFl6ZHNOYmhIdnVOQlBzTDRkYm5XVHpGU1JuM3FmVTFLdW5UbWt5U19vTC1QaTZscHVlclpDRGVNamZJWFJVd0NOdi1VcWlETTBHbElMbnoxbDRmLTFZVTJhV2sxeXVkOVZOUHdtaDdiaW9mZ01oYlhxa3BFQXZsYjFQVEk3QVVWatIB7AFBVV95cUxOMkFscEFrTExKZFFZZDBWNTdzTDhveHhSa3U1TVlKdHh0bWhoajZPX2tTOHVzNnRKdVJSajk4ZGhmUlFxNU5QNFY4dmRSUXlIcXpIN1NJamFYb3BzY3RkZTc0UVZqSDN2a19rZFl6ZHNOYmhIdnVOQlBzTDRkYm5XVHpGU1JuM3FmVTFLdW5UbWt5U19vTC1QaTZscHVlclpDRGVNamZJWFJVd0NOdi1VcWlETTBHbElMbnoxbDRmLTFZVTJhV2sxeXVkOVZOUHdtaDdiaW9mZ01oYlhxa3BFQXZsYjFQVEk3QVVWag?oc=5",
+          "time": "2h ago",
+          "body": "Stock market update: Sensex rises over 160 points in early trade amid buying in IT stocks  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market update: Sensex rises over 160 points in early trade amid buying in IT stocks Mid-Day"
+            ],
+            "tldr": "Stock market update: Sensex rises over 160 points in early trade amid buying in "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1790752567938",
+          "title": "Sensex, Nifty open flat amid US-Iran war anxieties | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ041emsyeFAxbmFjMmdzeC1Rc0VIZDZYZGc2aHJIOVh0czR4UHlIUXZKZDAzVVRtRXhDZzF3N2xyOEZ5TDlmdmo2WEJRU0pzTnJXY3BGOG5HY296Rkl6aFJMcFotb04yYWdFMWVTQU1sbkhlc293QjA4Vlp6MVpEeVZEU3poaWR3d2xyNWMwN2I1Q2ZtNlZwRUFNaEQ2UHhrQ1l2RlkxZ1lEVndvZ0VXU3R4YzhGbTJSTVdGR1lxTjVpaXl2Ri1ucXdOVkNtZFY5a0otbFZR0gHbAUFVX3lxTE92d1ZEODlSLVNDZjc5a2pQbl96OTBvZGJCaTVjZ2pYa3pxSnpBU0pKM2E5VWU2d1N1QkZhaHZwTlozUFRMb2VhelA5UkMxZ1JtUkZtQmxISE1IRXh1cFhEUjB0ZmJzZGhhU2MzM1pHemZObS1GNzRBTnRFa2xsbDREcU5vRVpmeE1mbGlVdXZ2RWxVNGVnR1JDNGVSdDRhdXp0NlIzRVNFSmZTbGhfRlR3RDQ1d1FjN0lxUDlnZVUybnZLbGpfUWRMb2hRRTh5QkhwZnc3N0hoY3pwNA?oc=5",
+          "time": "3h ago",
+          "body": "Sensex, Nifty open flat amid US-Iran war anxieties | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open flat amid US-Iran war anxieties | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty open flat amid US-Iran war anxieties | Business News Hindustan Tim"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1790752567938",
+          "title": "Sensex rises 190 points in early trade after two days of losses - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9mVEZDeVBFS19nUUdNZ1hEaHkxTndPeXFGTWswREVkQmp6VmROaWFhUGNwMjlBUzB5QnU1Wk1kR2NRWXdKc0pSanNWM3lldktCa1dtUVFEM0J4dUtXT2F0U3BuQ3N5R1ptbzlkV2NXcmxuTktrbEZoLURaVWliQzV1UzE4VnR5YjRqWmVTZkYwaXE0VURKMS1VRlItQXUtcEhrZm1fNW1Td19Ib1HSAa4BQVVfeXFMTnZfZlRGQ3lQRUtfZ1FHTWdYRGh5MU53T3lxRk1rMERFZEJqelZkTmlhYVBjcDI5QVMweUJ1NVpNZEdjUVl3SnNKUmpzVjN5ZXZLQmtXbVFRRDNCeHVLV09hdFNwbkNzeUdabW85ZFdjV3Jsbk5La2xGaC1EWlVpYkM1dVMxOFZ0eWI0alplU2ZGMGlxNFVESjEtVUZSLUF1LXBIa2ZtXzVtU3dfSG9R?oc=5",
+          "time": "2h ago",
+          "body": "Sensex rises 190 points in early trade after two days of losses  DT Next",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex rises 190 points in early trade after two days of losses DT Next"
+            ],
+            "tldr": "Sensex rises 190 points in early trade after two days of losses DT Next"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1790752567938",
+          "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+          "time": "17h ago",
+          "body": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+            ],
+            "tldr": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1790752567938",
+          "title": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGxnTW9wRXkzQ1dNakgxekV3eHZxVWRaWVVTOFVCYlNmN1p3bUwtOHdkUXVDUVlRcjBOMjJ0WTZFa205aExGMVRHZ0VPWDlsRVZ0bUpsVU1kZ2lJdVhnY0pmZ2JwbzJ4ZXBZMTBKb2F3VGJwQllZbFpNamVmU3JlOXFVOFExUF92bnRZODRKNVVZWU43ajZZTk1EZjRUNzcwYlVRVkwyRlJnejZWdWtXMjhkeE9UUklHdktKeFpyUFlTaVBFa0FhLVJrYXBlOUZwUm9aRGpLZUV2dW1jemc?oc=5",
+          "time": "19h ago",
+          "body": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why? Sensex, Nifty Outlook  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; When & Why?",
+              "Sensex, Nifty Outlook Goodreturns"
+            ],
+            "tldr": "Stock Market Holidays In May 2026: Trading Holidays On BSE, NSE For 12 Days; Whe"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1790752567938",
+          "title": "Stock markets fall for second day as elevated oil prices, foreign fund outflows weigh - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQzloTWhZZHlEckRDbjRkRWFXZDRUb2FWbEpTM3hqeXlNeDlCYThyUnpEYnVuRlpVcTJ2ZG1DY1RlcmpRSnA0V1JkbUxDZ3NwRnhmNGlGbmI1aWtGUHprTmthSU0ySkg0ZGtGZ3JZVDJTbC1BTm1NdXhzZmx5Tnp3d1hNaTN2NlFYclZ3LTJOUUUwVmFXa2VhU3NSUXVOdjh4Ung5QmJTbVQ5SFgxLVd0YVpMbmhldEwwM2JnTmhqYjc1cmJuWlZocmV1ZjI1ZThEczNRVdIB4gFBVV95cUxPN2tLZ09iQ1FxNk9sYlVUNGEtRy1NRFd5ejZQTU92Z1VHZ1dod1B1WjA4LXp0d3BkMWRMRXVhSVllZFpZcUxVNUxuV0ZTZXh5RFRIRW1HdDhMcm9XUGtsenVKaFZNdGN5aXgzQVE1d0J6aFZHU3plX2xVQnNRQTZEWGdvU19BZFNobnRUQ0hMUHF3RVd1V214N0QxT1NKWTlhZ3JtYjM2a1podnBjb2h2UFIxTGQ0aTFHWUEzTlNmcU9PTG1kUEIxaXMweUo1UzJiU3NZWXdYamtOamV2ekxtcXp3?oc=5",
+          "time": "20h ago",
+          "body": "Stock markets fall for second day as elevated oil prices, foreign fund outflows weigh  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall for second day as elevated oil prices, foreign fund outflows weigh The New Indian Express"
+            ],
+            "tldr": "Stock markets fall for second day as elevated oil prices, foreign fund outflows "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1790752568018",
+          "title": "Trench Reinstatement Tender by Maharashtra Govt in Mumbai Zone-II - urbanacres.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkZtY1J2UjRYU3pHMmp1WFRNVEJ1bXFuZkFfQVlfc0M1eXBnd2o3cTMtYTFsSHd6emY4S3E3aDkwVC1LZVE0ZlQ5YzBZNGZRbTh3TVJPS3d5OXI5NDdMd01VTGsyVXh4Ny1iaVY4ZHA2bjloLWNBSVRJU1NSTDQ1TXNrYXNIVlZuSTZtY29n?oc=5",
+          "time": "Just now",
+          "body": "Trench Reinstatement Tender by Maharashtra Govt in Mumbai Zone-II  urbanacres.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Trench Reinstatement Tender by Maharashtra Govt in Mumbai Zone-II urbanacres.in"
+            ],
+            "tldr": "Trench Reinstatement Tender by Maharashtra Govt in Mumbai Zone-II urbanacres.in"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1790752568018",
+          "title": "Matang community's 5% SC sub-quota call paralyses south Mumbai - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZkFseUY0VFJuRi1uUnlDbHRGdjZTeXdtcUpmbkVYN0NXY0ZrektMdnppdDhkS2tDNnZrcEtJOTU0ODUxbWhBTUVRZWgxbkhoQnNOSUNHSW1QckFPREJhZGtaN1NhMlkyUEJfUTRjd2FFLVp4OFlJaXM2WVlBMktGNV8xWjVLNWc0cUU0emlYTXhmYVBJc1VyUzR2N2JpSEFSMEdXYWFxQVJnRGpMZlNSdUt4RGd5aXQycHhwSFd2S05JRkZGT2stSHRMTkxYUkFWUFhoQ0J2dDBfOEXSAdsBQVVfeXFMTWZBbHlGNFRSbkYtblJ5Q2x0RnY2U3l3bXFKZm5FWDdDV2NGa3pLTHZ6aXQ4ZEtrQzZ2a3BLSTk1NDg1MW1oQU1FUWVoMW5IaEJzTklDR0ltUHJBT0RCYWRrWjdTYTJZMlBCX1E0Y3dhRS1aeDhZSWlzNllZQTJLRjVfMVo1SzVnNHFFNHppWE14ZmFQSXNVclM0djdiaUhBUjBHV2FhcUFSZ0RqTGZTUnVLeERneWl0MnB4cEhXdktOSUZGRk9rLUh0TE5MWFJBVlBYaENCdnQwXzhF?oc=5",
+          "time": "12h ago",
+          "body": "Matang community's 5% SC sub-quota call paralyses south Mumbai  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Matang community's 5% SC sub-quota call paralyses south Mumbai The Economic Times"
+            ],
+            "tldr": "Matang community's 5% SC sub-quota call paralyses south Mumbai The Economic Time"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1790752568019",
+          "title": "In drought-hit Maharashtra, Mumbai civic body moves to revive wells for water - indianexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTdVMjJUSlhCeXRyVS1BRGNILW1XWEFUNWZJM2g1SGU4cElycHZyQVY0NTBocEd3MjRyY1V4YnFENmFZczA5aFVQSExZSTByaTdhWUFOV2FzdUh6a2NBSVlHMGl1SWNWWVNiWjBHMkJwcGNyRGFSRms1OW91d1V6RUdodklQOUE4Qm9GTnRrc3JWQ3VTQmFrX05wTmtSUWo0T2VuTDgtdUhNNDDSAbIBQVVfeXFMTkpSWE1YYTlHSlpZa0U2ZTNIQVYydm5MVm1ZSnBFSFgyQTN6ZnFwUy1mMzFwdHV4Vl9SbUwtOHJua2NPa1htd2F2YmczOGFfb25WbHhSTGJ6cmRWbWNNYmdWRVFxY0VWdUJGbnEzcVB0dzBGSzlsTjE2TWZVbkYtSm9UX21mS0ZfWWZON2psX2pBRTlST09pcmtKS0JlMUpkWHFNdWsxMjFkYVkzTk8tbjlXZw?oc=5",
+          "time": "4h ago",
+          "body": "In drought-hit Maharashtra, Mumbai civic body moves to revive wells for water  indianexpress.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In drought-hit Maharashtra, Mumbai civic body moves to revive wells for water indianexpress.com"
+            ],
+            "tldr": "In drought-hit Maharashtra, Mumbai civic body moves to revive wells for water in"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1790752569368",
+          "title": "Nearly 80% of Indian home shoppers discover products through social media: Deloitte - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNckd4T3puWFo0dUxDRlFuc1pUeHpXUl9uSmx6SVZvZV9jN3B4NXpHdUlieENIUHFGUmVCTExjMGhQSGZYU0djckx1REJvT1A0NW14MUU2Y3VzbGJ3REhjT1VtdWg2Z3VWTHhOTXVqMlVlbkVKaDRTQWFQb0lEVGNnQUlWUUdsWDNieExSLUhIOWZUd0kzZVo2MU52cVJtRWZyTm5OWmJFUlVqTzJPdEpwUTVpQUVuTnJzdjJpNFV5MVlYOWZlZ2I0ZkJVMzc?oc=5",
+          "time": "20h ago",
+          "body": "Nearly 80% of Indian home shoppers discover products through social media: Deloitte  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nearly 80% of Indian home shoppers discover products through social media: Deloitte ANI News"
+            ],
+            "tldr": "Nearly 80% of Indian home shoppers discover products through social media: Deloi"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1790752569368",
+          "title": "Shekhawat Calls For India To Become Global Leader In Creativity And Content - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFNXTFdSY2Y4WFhNQjdCdGdsenVRR3lNNzJvMGxDQkZNZTFiMjloVGhkdE1taGdfMEdKNUtHVHI0U0I4d1dUdncxZHpyaW5TVmtsTVM3WmoxVmRGazI4YjlZRlktd1lqdzU4VU55M0ZLZVhNRjg5NWl3ajFPZzFtRF95WDlpSWZlMHRTMzlSRkpQeVdRS0RpbVVPb2JGQmZ5aUpaZDdJLUNUb0g4bHVLOEJvVzZQY2c5OW5rblByRdIBxAFBVV95cUxQM24tS0VYTjhGZHowalM3cFZnZDgxcXBnNUdva0loNThjYmdJQWhsSzBnX0ZoV2dIRjNHNHFvNTZKQ2h6Vk1rdkhGY3RiV3pjbWdHQ01nb240MmpzbjV1Wmxzc3ljQ3dYaGtFUlBkMWxwNjFFVjJPUkFEb0ZmdEpSLW01bnhDRVFpQ2p0NmpCSXRVdHFDbklLbmtzYm9XX1NoMjVQRmFkWjNjU3dVcG1zSXc2Zm41MGtfUG5wbl9TUS1XTG9m?oc=5",
+          "time": "11h ago",
+          "body": "Shekhawat Calls For India To Become Global Leader In Creativity And Content  Deccan Chronicle",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shekhawat Calls For India To Become Global Leader In Creativity And Content Deccan Chronicle"
+            ],
+            "tldr": "Shekhawat Calls For India To Become Global Leader In Creativity And Content Decc"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1790752569368",
+          "title": "Kotak Life partners with DEPT to build AI-powered digital platform - Express Computer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVFDejB5VldFdkRaMU9xUXk0VU5qTHFieVgyRlRtTG90b01wV2VHM0ZMRGZ4RWYydVRoSlJpbmtmbENJSWVNbmFEbGNWcXpEdFVldW5XcTRwWkVnQjY2UXRxSVZkdzQ4ZzhJeXJmajZxcEU2b28wUWl4dUFDVUtlUnVaUFN3eUxabm9UNGRn?oc=5",
+          "time": "21h ago",
+          "body": "Kotak Life partners with DEPT to build AI-powered digital platform  Express Computer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kotak Life partners with DEPT to build AI-powered digital platform Express Computer"
+            ],
+            "tldr": "Kotak Life partners with DEPT to build AI-powered digital platform Express Compu"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1790752569368",
+          "title": "SCERT Uttarakhand and KEF sign MoU for Capacity Building of Teachers in AI Literacy - education21.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjl4cUxyQnhXWVRLOEQtNkViOE1tdVlHd29XeTl1OWdlY0tlNUZjMjFKUjh1a2lXcUtJNV90SGNKQUJJNHBFVDAyaWJORnFPSmdzMEZqN1VtQlV3OGRiZjRUWEFDQnNwaWI0bGVWcXZrdmNSa1BYVnFTcFBXYVlhSE5hb081TTNiVTBSNWdUVUlCZjZ2clRiNUE0WmRqNW15VG9BZk5pazJnYXM?oc=5",
+          "time": "15h ago",
+          "body": "SCERT Uttarakhand and KEF sign MoU for Capacity Building of Teachers in AI Literacy  education21.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SCERT Uttarakhand and KEF sign MoU for Capacity Building of Teachers in AI Literacy education21.in"
+            ],
+            "tldr": "SCERT Uttarakhand and KEF sign MoU for Capacity Building of Teachers in AI Liter"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1790752569369",
+          "title": "September 28th Current Affairs 2026: Daily Updates for Competitive Exams - Sakshi Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQnVFQ01pOXlHSTZHQWlkLTVWRzdGOTZjNWtHVnpWazQtWGFJb25EdGl0enZiNDhRZEMwcmxnSGdHUHRHTmw5dlN6c2d5VWE0cVMzWkNRVFRXbXo3UzVnWGJqNzI2eklrLUxmd0VyNEM1R3hRa3dWY093ZzJ1ZDNpZUJVd2k3OWFBM1g5VHRDdG1WMEh2cldXWUd3MG1RWWVka3p2Tlc5YlpOY3JvMjdZSUtFTktPa0VpZGRFNmlFTDhobTdoaUhwLUY3SmI5a2dyOHE4TFAyOE5QVjRE?oc=5",
+          "time": "21h ago",
+          "body": "September 28th Current Affairs 2026: Daily Updates for Competitive Exams  Sakshi Education",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "September 28th Current Affairs 2026: Daily Updates for Competitive Exams Sakshi Education"
+            ],
+            "tldr": "September 28th Current Affairs 2026: Daily Updates for Competitive Exams Sakshi "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1790752569299",
+          "title": "IPL 2026: Dates, format, fixtures and team details - ddnews.gov.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhRmpXVUFvUVVBUmdxZEJEdnYzTzRka2Q0blNoYmtURlAxR1VZSkdiNVZJYW9lbUFIcU82Uk43SkxhcUZLanVCaGJCTlh0cGZmcFV4dHZ6UFVKeEFuR0JkSmMyVDdLTHdPSkZiejhMeXJSalQxU0pzWkF2dkFrQQ?oc=5",
+          "time": "12h ago",
+          "body": "IPL 2026: Dates, format, fixtures and team details  ddnews.gov.in",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Dates, format, fixtures and team details ddnews.gov.in"
+            ],
+            "tldr": "IPL 2026: Dates, format, fixtures and team details ddnews.gov.in"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1790752569299",
+          "title": "Mohit Sharma Returns To CSK As Bowling Coach - Report - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHd6eDJxcW1OMzNYcWNSWEJjNjdKcVJTNU1Yam9kRi12NVlTOHdCdVh5ZjlDZFoxQXE4bHdpNGlYeXZxU3RlcDNJUzBHU3N2aGdqWUJuZ3RsTTBVMHRHa0JoWG96S1dmcFUwXzhGYzQtbm4wemJYTnE4Unl3WGNTMUQtUW9jTUdxbVdDdkFtdVNMbWcydjc5TjMtWEVOLWxQaHfSAa8BQVVfeXFMT3dwaWJrX2gwcjUwb1BULThmcW8tMk5jTl9TV0hMNUliV3VpTmR0NF8xLTlmMTJPRElCTlIyQXYzSExUdHVKSzBCMjNrQUJzc2szZm9qVDBfREJRMHVZd0NyTXoyQUNYalpXNWRiZmtkSTJaV0RiRi1YSjFqVGJoLVVNcDRxWmsyazA3ellXeE9xUi11dkdtSUdsSmhDZnBQaG1xdXZadmdoU091ZDlUdw?oc=5",
+          "time": "17h ago",
+          "body": "Mohit Sharma Returns To CSK As Bowling Coach - Report  Outlook India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mohit Sharma Returns To CSK As Bowling Coach - Report Outlook India"
+            ],
+            "tldr": "Mohit Sharma Returns To CSK As Bowling Coach - Report Outlook India"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1790752569299",
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZWncwU19mNEVlRnFyTzNFMG42Z0FoT2xKcW95MFdIOUd2anhid0dVNUx1em9aTGU1bl9STHVHS3dQOUNwcWdUakF6VkZWZTFtTWVURl9NT2FjOEIzR0U2OS1kd3VUS1JpVk8tdUo4RFZSb00?oc=5",
+          "time": "18h ago",
+          "body": "Live Cricket Score, Schedule, Latest News, Stats & Videos  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+            ],
+            "tldr": "Live Cricket Score, Schedule, Latest News, Stats & Videos Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1790752569300",
+          "title": "THIS star player who turned out for Preity Zinta's Punjab Kings is only Indian among 400 cricketers named for - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPX2wyWDcxaXg5YldBRWZhSHBlWmc5SVF0OUYyTkRGZ2RJTjI0cG9LUEd6VmE5UW9GODBGZS1oVWR5blR1WEZOVWg1ckVGeHM2YkNuNE1HS0NjZ1VoaVQ1OFVScElUbV9XcDJtUjZwSUw4Z1JDZFpGNm8xLWFjTVZ2Vm5iZ1dkTEVfUFN3SHRUVmo1ckVKdXpzUWFtc0xRbkZSTXlQdF9iWUJlZFJ0YmluVWxETHJNTWhuU29rZHZId2ltYXJWNmMzR09sNThPekFNR2lkNVdfVmU2dlZfTmpTWWUyb29TM1ljVUpfVWJUVGJXeGVLQ01GMFdsc0hVWUszWmZaVUh2bnhwSHhMbmNEX3lIR0p6SkdkNElWVWJyMENLc0FM0gGkAkFVX3lxTE9fbDJYNzFpeDliV0FFZmFIcGVaZzlJUXQ5RjJOREZnZElOMjRwb0tQR3pWYTlRb0Y4MEZlLWhVZHluVHVYRk5VaDVyRUZ4czZiQ240TUdLQ2NnVWhpVDU4VVJwSVRtX1dwMm1SNnBJTDhnUkNkWkY2bzEtYWNNVnZWbmJnV2RMRV9QU3dIdFRWajVyRUp1enNRYW1zTFFuRlJNeVB0X2JZQmVkUnRiaW5VbERMck1NaG5Tb2tkdkh3aW1hclY2YzNHT2w1OE96QU1HaWQ1V19WZTZ2Vl9OalNZZTJvb1MzWWNVSl9VYlRUYld4ZUtDTUYwV2xzSFVZSzNaZlpVSHZueHBIeExuY0RfeUhHSnpKR2Q0SVZVYnIwQ0tzQUw?oc=5",
+          "time": "19h ago",
+          "body": "THIS star player who turned out for Preity Zinta's Punjab Kings is only Indian among 400 cricketers named for  India.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "THIS star player who turned out for Preity Zinta's Punjab Kings is only Indian among 400 cricketers named for India.com"
+            ],
+            "tldr": "THIS star player who turned out for Preity Zinta's Punjab Kings is only Indian a"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1790752571778",
+          "title": "Asian Games: India's gold rush continues as Neeru, Kynan bag mixed trap shooting title",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "7h ago",
+          "body": "Asian Games: India's gold rush continues as Neeru, Kynan bag mixed trap shooting title. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Games: India's gold rush continues as Neeru, Kynan bag mixed trap shooting title. [object Object]"
+            ],
+            "tldr": "Asian Games: India's gold rush continues as Neeru, Kynan bag mixed trap shooting"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1790752571779",
+          "title": "Neeru Dhanda's hospital scare, 2 Asian Games golds and the 'fire' Mansher saw",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Neeru Dhanda’s Asian Games campaign came after a difficult few weeks, including a hospital stay for viral fever. The 25-year-old shooter went on to win two gold medals and a silver in Aichi-Nagoya, adding to her World Cup gold in July. In an exclusive interview with TimesofIndia.com, coach Mansher Singh reveals the “fire in her belly” that has driven Neeru’s rapid rise and her growing Olympic ambitions.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Neeru Dhanda’s Asian Games campaign came after a difficult few weeks, including a hospital stay for viral fever.",
+              "The 25-year-old shooter went on to win two gold medals and a silver in Aichi-Nagoya, adding to her World Cup gold in July.",
+              "In an exclusive interview with TimesofIndia.com, coach Mansher Singh reveals the “fire in her belly” that has driven Neeru’s rapid rise and her growing Olympic ambitions."
+            ],
+            "tldr": "Neeru Dhanda’s Asian Games campaign came after a difficult few weeks, including "
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1790752571779",
+          "title": "IND vs WI, 2nd ODI Live: Rohit Sharma eyes historic milestone in Guwahati",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "IND vs WI, 2nd ODI Live: Rohit Sharma eyes historic milestone in Guwahati. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs WI, 2nd ODI Live: Rohit Sharma eyes historic milestone in Guwahati. [object Object]"
+            ],
+            "tldr": "IND vs WI, 2nd ODI Live: Rohit Sharma eyes historic milestone in Guwahati. [obje"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1790752571779",
+          "title": "Asian Games: India's full schedule on September 30; medal events, and timings",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "14h ago",
+          "body": "The Indian women’s hockey team will also be in action, taking on South Korea in the semifinals.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Indian women’s hockey team will also be in action, taking on South Korea in the semifinals."
+            ],
+            "tldr": "The Indian women’s hockey team will also be in action, taking on South Korea in "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1790752570556",
+          "title": "Bodhana Sivanandan: Meet the 11-year-old Indian-origin British chess prodigy",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "At just 11 years old, Bodhana Sivanandan earned the coveted Woman Grandmaster title during the Chess Olympiad, marking an extraordinary entry into the chess world. Her journey began during lockdown, spurred by a family friend's encouragement. By age seven, she was winning competitions, and at nine, she proudly represented England internationally.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "At just 11 years old, Bodhana Sivanandan earned the coveted Woman Grandmaster title during the Chess Olympiad, marking an extraordinary entry into the chess world.",
+              "Her journey began during lockdown, spurred by a family friend's encouragement.",
+              "By age seven, she was winning competitions, and at nine, she proudly represented England internationally."
+            ],
+            "tldr": "At just 11 years old, Bodhana Sivanandan earned the coveted Woman Grandmaster ti"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1790752570556",
+          "title": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Canada, stranger lady touched her feet, hugged, swapped gold necklace with fake in seconds. [object Object]"
+            ],
+            "tldr": "Indian-origin woman robbed of $20,000 worth of jewelry during evening walk in Ca"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1790752570556",
+          "title": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Canada, a permanent resident, jailed for sexually assaulting 15-year-old loses bid to avoid deportation. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Canada, a permanent resident, jailed for sexually assaultin"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1790752570556",
+          "title": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader after being fired; Suhas Subramanyam shuts trolls, says 'Yes I help everyone'. [object Object]"
+            ],
+            "tldr": "Tamil H-1B man with disability reaches out to Indian-origin Democrat leader afte"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1790752570556",
+          "title": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NRI man says wife in India turned into operations manager handling cook, maid and deep-cleaning service: Domestic help doesn't mean zero effort. [object Object]"
+            ],
+            "tldr": "NRI man says wife in India turned into operations manager handling cook, maid an"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1790752570556",
+          "title": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new school that won't give degree but would charge $60k to $90k because Sam Altman, Satya Nadella will take classes. [object Object]"
+            ],
+            "tldr": "Meet Gagan Biyani, Indian-origin entrepreneur behind Andreessen Horowitz’s new s"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1790752570557",
+          "title": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India for ageing parents. [object Object]"
+            ],
+            "tldr": "Indian-origin woman quits high-paying Deloitte job in Canada, returns to India f"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1790752570557",
+          "title": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both killed. [object Object]"
+            ],
+            "tldr": "Hugs, kisses before tragedy: Indian-origin woman jumped to save friend, both kil"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1790752572031",
+          "title": "From Rs 1.2 lakh to Rs 3.5 lakh: Baby sold, moved between 2 states in 48 hours - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOek5PNEF3VzQ4aFZBU203YkxiN1N1WVpzV1FNa3dLSTNlcGRIa1VURTJDTlFBSEdDYVdEWFhwUXNvRmtLZFNMN3Q0Nk16bmQ2dDFGeTBCNmdUbGdZQkZ0QzB6NnNEcTBVanhIWHdLNUxUWWNodTlydkw3NzhCT1lHdVJGTVYwSjVwN1dURG5CajB5VGZFVEZ4Vjc1Qk9OSS1nOTNTT1ZleEJ6ZC1WTURIVkREMENlYXFBN1g5cV9wWl9qTE05Y1FWUVo5aV9kVmk5WUtCMEh0UE5TNU5C0gHiAUFVX3lxTE51TmhobS1LanphUlo5dHRLclRyTXFfMnNEZnVnaXdyb19ON045WS1STkxXRy1VcExzQjN3MEFDbGZadi1ETjg5Z3ZlMXFsdnRLM2dnUHlzUDZQUThkOHlFLV92aHBsMmZsWHhFZ0prYVNRRFJSbXVUdTU3X2VrSDgtdTZTei1lSHZOMW40RGFSdXNYajQxWDg1Mlg3QkVHZXBjcFpHM19hbFJZMjRhTVFjN0U5dGxjSkZnWXNEbkIyZkdkaG41VEZzb1lINTMzVEU3S0U0Z2txYV9vTVZIcG1YNXc?oc=5",
+          "time": "3h ago",
+          "body": "From Rs 1.2 lakh to Rs 3.5 lakh: Baby sold, moved between 2 states in 48 hours  India Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "From Rs 1.2 lakh to Rs 3.5 lakh: Baby sold, moved between 2 states in 48 hours India Today"
+            ],
+            "tldr": "From Rs 1.2 lakh to Rs 3.5 lakh: Baby sold, moved between 2 states in 48 hours I"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1790752572031",
+          "title": "Maharashtra Couple Sells Month-Old Baby To Buy Expensive Phones, Gold Chain; Infant Allegedly Sold 4 Times - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakNVbXE1NUVRYkE3M2lNM3pKTGJRT2hEZi1rM09jcUZXSVViVUJZdzBnNVBGTk0xTnRTclJjcW5vZzA1LW0wVXBRbU16bjNJYWFSbFptWVotRll5QjZoOTc0UHNoVjd3ZE9RZ2JscHRuREtYTUQ4elZySm5IR3g2djh6N1FFRFNYRUlHWlJZMmM4RzhrQnlLLUd2STNkWGJhZjU0LTVwWUhXY1k0UlRXZEpLNHJfdlBNRHpwbkJLcE40SG5RUWpFbjR6MlF0ejlHeTUyV2NnOE1yLU3SAdsBQVVfeXFMUGpDVW1xNTVFUWJBNzNpTTN6SkxiUU9oRGYtazNPY3FGV0lVYlVCWXcwZzVQRk5NMU50U3JSY3Fub2cwNS1tMFVwUW1Nem4zSWFhUmxabVlaLUZZeUI2aDk3NFBzaFY3d2RPUWdibHB0bkRLWE1EOHpWckpuSEd4NnY4ejdRRURTWEVJR1pSWTJjOEc4a0J5Sy1HdkkzZFhiYWY1NC01cFlIV2NZNFJUV2RKSzRyX3ZQTUR6cG5CS3BONEhuUVFqRW40ejJRdHo5R3k1MldjZzhNci1N?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Couple Sells Month-Old Baby To Buy Expensive Phones, Gold Chain; Infant Allegedly Sold 4 Times  News18",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Couple Sells Month-Old Baby To Buy Expensive Phones, Gold Chain; Infant Allegedly Sold 4 Times News18"
+            ],
+            "tldr": "Maharashtra Couple Sells Month-Old Baby To Buy Expensive Phones, Gold Chain; Inf"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1790752572031",
+          "title": "Maharashtra drought: Monsoon not over, but Marathwada turns to tankers as water sources run dry - indianexpress.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHpqa0lpVUp5Rl9nUmVQT3FqUVJaNnNOYlYtbHRKbGVMVEdkTTVNSjNfSDJ5VWRzS0ZDcXlaeTJvdUxmWHh1UUVDRmdRc2VRekhtSmJ4d21DaXlDTXE2UzFLc1BVQ2dfYmQ4M1YzSlgyRFVfaHRKMzZaNUktWVltVHo2cDdXalVYMG1LUTlhTWc1OGxVRHJrX1doNG1aNUVHZFY4ZGFCdEw0SjRaUjdUUHZjajNZc3Rzc3dic3kxQkl4eXdUWEVEWEwzT2sxUU5XNFlWeGRUTURyN1hMOFFQckxmOFJVQdIB7AFBVV95cUxNMWZGNFZ5N2VKVl9BYkNZZmJSM215bks5ZEpzSHN2TWFDSjN5RmpQU1RyQVhFRnZlQzJGeTRPLW1ackxaUHc5VVhZYkx1dF9KM2o4SmppSXRwdXNIX090MjJBV2twZnB4ekN3b2d0WEJFc2JRMVZlT2FLd2Rfci1iLXR3am8tUnYzZ0UyOHRic0ZDS1BlME9kUGx1a3U1U0s2NjRJbUxKTFBibWFqM2wxVk5Qakw4NnctbUl2c1E3cXVGd0FreEhaaXgtWHpMM0ZRbE5FamlrUDV4LWl0ZmJuMHI4TkRidl8tcGIzTQ?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra drought: Monsoon not over, but Marathwada turns to tankers as water sources run dry  indianexpress.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra drought: Monsoon not over, but Marathwada turns to tankers as water sources run dry indianexpress.com"
+            ],
+            "tldr": "Maharashtra drought: Monsoon not over, but Marathwada turns to tankers as water "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1790752572031",
+          "title": "Maharashtra Couple 'Sells' Month-Old Baby To Spend On Luxury Lifestyle - ndtv.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRU5RRTBoUHRyaWl0QUxsLXZCcXUtOXhsRnVpb01QT2l1emtDT2NoRDhEXzVVTVp6RnNsaFBrNGxEN1ZhZElZcEhNWFNGbE9fN0lnclpnYnFvcXc3N0g3WmFYcFBNalMzdmw1a192aXladTdZbFpBWmRMRjNpTFhVcHVydjNFejdNaE94WkpCNlpxLUhGMzkwQzR1ZTRvc2IzN2NYM3AtYTViNDdCLWFj0gG3AUFVX3lxTE5POHlVWmg3LXdCcm9va1cyZmhYRHV2VktGTzNBWDVUNEJOd211bERVVFlOdXJSVFpSeFpYYk1EUGQ1bERwOTdzdDJLZmdWNFlacGVWMFdudnZxMEdOTl9ZeTUtcW9hS0dVbVJTOGRhaUlnbVhtRmJ5dm1zRENSTUM1ckEzWEtvQ0FLTTNCemxpTXRDMldLZnRvcElqcGkyTFJwVlIxcHFERkRyYXlwZkhueDN0eGVubw?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Couple 'Sells' Month-Old Baby To Spend On Luxury Lifestyle  ndtv.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Couple 'Sells' Month-Old Baby To Spend On Luxury Lifestyle ndtv.com"
+            ],
+            "tldr": "Maharashtra Couple 'Sells' Month-Old Baby To Spend On Luxury Lifestyle ndtv.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1790752572031",
+          "title": "Newborn Allegedly Sold By Parents In Chhatrapati Sambhajinagar, Seven Arrested - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejVFZFlQU25YVHFLOHB1MWt3VjlfRF9WVnFKbWdCSGR5WHdRN3ZqOHVEWjJvVjk5ZjRyMVZON0Rrb1M3VDZQNFowLW1vUVllUXlIbjBneTAwRDN4UTA5V2JLY213OFc4M0RDYTNlczhGa1ZGb0c1dGxWQmxURDZGdE5lUHBxdVR2cnNfU01YTm9vZlprcHhsdmwwQ050a25JNEp1d00xb2FlSGwtYmxXRzNwN0VkejVmdnpzZ05lRjFicUxNb2fSAcsBQVVfeXFMTllEZGxENGJjY2VpczZUVUVZRkVBNTIzX0xtVkkxVmxqN0NQcjR5dHRJTFRGb1lpck1HN0dXRWFYYVYtdXdVcWVRd015SUhKUXZqZlB1U0h0bkxqTThOSUdxclJKbUxvZHhMNDB3MFZNMF94T2VySXoxczRnZ0x1X1NOVXdQbWZ2aFlHSEFiQXBKcXVlZGZ1MjBXZS1PSElnSzVUenlWUnBuWWpvenFpR1B2TldLRXZIWWVxWjl0VjlPSk1qOFlVcmkweWs?oc=5",
+          "time": "14h ago",
+          "body": "Newborn Allegedly Sold By Parents In Chhatrapati Sambhajinagar, Seven Arrested  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Newborn Allegedly Sold By Parents In Chhatrapati Sambhajinagar, Seven Arrested ETV Bharat"
+            ],
+            "tldr": "Newborn Allegedly Sold By Parents In Chhatrapati Sambhajinagar, Seven Arrested E"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1790752572031",
+          "title": "Drought raises fodder shortage concerns in Chhatrapati Sambhajinagar, survey launched - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFRZRzd4ODRGZEtFSTZKMnFJeFZSNndQbWJScmVwakI2Mm1Tc3M3bUk1ZDJZN2RackVmVFpEN20tS0JORzhpczF5Mk1YVjcxWXlhUk4temdhWm9iTlJiby1vZHBoRndTQlV3eDFVZXhTYzNueV9TUGVJX29HN1dMQzFUc2U4MjVHMlZpNW5lZGdhUnFBOHZIZnBtbnRKUnNXMnVsY1JZeVpWQW9KMEt5Sm1hNWl3QjZhWms3SzlUa1bSAcABQVVfeXFMTUhUWUc3eDg0RmRLRUk2SjJxSXhWUjZ3UG1iUnJlcGpCNjJtU3NzN21JNWQyWTdkWnJFZlRaRDdtLUtCTkc4aXMxeTJNWFY3MVl5YVJOLXpnYVpvYk5SYm8tb2RwaEZ3U0JVd3gxVWV4U2MzbnlfU1BlSV9vRzdXTEMxVHNlODI1RzJWaTVuZWRnYVJxQTh2SGZwbW50SlJzVzJ1bGNSWXlaVkFvSjBLeUptYTVpd0I2YVprN0s5VGtW?oc=5",
+          "time": "19h ago",
+          "body": "Drought raises fodder shortage concerns in Chhatrapati Sambhajinagar, survey launched  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Drought raises fodder shortage concerns in Chhatrapati Sambhajinagar, survey launched ThePrint"
+            ],
+            "tldr": "Drought raises fodder shortage concerns in Chhatrapati Sambhajinagar, survey lau"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1790752572031",
+          "title": "Maharashtra Couple Allegedly Sells Month-Old Baby for ₹1.2 Lakh, Spends Money on Phones and Gold Chain - GujaratSamachar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMjBueE1kbzlvVnlqU3VkYnNud25uQldYUVItd3lOa3lJMjltYW9CQXo5UzNzUTZOZDFxeXl4UUFubmU2dFZBMlVIS0FCV0wyVnVRamRLUVhpWUswU1ViX01iNlU1cXM0S3VkbGEzSDRsdTA5UHR0b1Z4Q2Fuanl0ZE5HekdQZHdmS3VseGZ0dTdBRDFIUERmVlJsSkZWWGNITVRxYTBsczJQMVhseTRnWEo3bUdYYUx5N2RmZVpFdjJoTTBUUkZvTEV5RVZjZEpaeS1aVmsxWkgyRTltNkVtZV95c3ZHc04zZjZMZ3VDY0xTbjVESk1yRm9UWFk1Vm5z?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra Couple Allegedly Sells Month-Old Baby for ₹1.2 Lakh, Spends Money on Phones and Gold Chain  GujaratSamachar English",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Couple Allegedly Sells Month-Old Baby for ₹1.2 Lakh, Spends Money on Phones and Gold Chain GujaratSamachar English"
+            ],
+            "tldr": "Maharashtra Couple Allegedly Sells Month-Old Baby for ₹1.2 Lakh, Spends Money on"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1790752572031",
+          "title": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases - ddnews.gov.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGEyQVp3YUFfZ2hkaUdBSGxxb1FFY05UZkNkMzZWX01LWWRoVkFKUmV2Y1NadmplbFJzeEFsMjV1dE5kRXJaVWIwXzR1a0VFY0w0VkRqcmNucmpBQlhnc21YaV9XRVFqM1h2OHdNWnlwQXgxT29iaVFtdWtiZ2RieEtCcFA5N2Q2MkU4OVVhc1dkR1pTbXZzVGRiTGpfUVJ4M2hBdURR?oc=5",
+          "time": "12h ago",
+          "body": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases  ddnews.gov.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases ddnews.gov.in"
+            ],
+            "tldr": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases dd"
+          }
+        }
+      ]
+    }
+  }
+}
