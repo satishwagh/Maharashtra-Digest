@@ -1,0 +1,797 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T07:46:08.238Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1791704762336",
+          "title": "Maharashtra CM Devendra Fadnavis announces CyberTech Asia in Mumbai in March 2027 - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOW9ZYW5zNDExbWUwWDhBc3pxNlNpSnFPaUktekJ0Z3lST1lpb2VHd1ctVzMxdEVoMXZaVjVLYlRBSG1WTlhQUF9mTm1HX0t5RElGS1ZSNnBnVkRLUjFyNXp5cDNMdV9fNThyb1V5T2dyWHBPMGVzZ3JERGVWaTJZMjA4cjM5aGlyQVhITXNYQWw5eEo1V1VyYXNzMUJEYlMyWjhqLVlPSlFjQnM?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra CM Devendra Fadnavis announces CyberTech Asia in Mumbai in March 2027  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Devendra Fadnavis announces CyberTech Asia in Mumbai in March 2027 News On AIR"
+            ],
+            "tldr": "Maharashtra CM Devendra Fadnavis announces CyberTech Asia in Mumbai in March 202"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1791704762336",
+          "title": "Maharashtra Approves Rs 12.68 Cr for 44 VVIP Vehicles Amid Drought - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdnNFcnZndGJETmFMSVpHT2tKNzl1bzVHZDFOU1pWcEs1ZUFvUjNKUXc3bTFVT2tyWkVROXJwdWFaQWhPaW9LV253bXBIbVdwUFhHVm9qNEg5S3BjWEN0cXZRWWREXzUtYXU2SVZqUElMVTNSNTBaMFZQY21NdGMwcjZnWDFnOFFGUmR0QXluTXZ2WEVoUi1ycENteFNKY3huc3NwY0dDVnJxVWs5ekFGQnpXZm9jaFdsQ25ibnhuLXJNSUd10gHKAUFVX3lxTFBveGZPY2l4X2RFaGJmSzhzSEFxZkg2Yk5pWUVkakdLMkYxVU5PRWJxaG1KUEVtc25KcVBsZmZJdVphN29wRlFLeFE4N1hXYWczVGVPcUxFbFJjUTRBa0R2V2lVWFdhVzVJb1NaMTJscVA2dkxsRXJ1VTRodnUtQVdsVmNBRElySWdiaEV3cEVxVzNpaVliX0c5RDdDLS1DX041ZlgyRzBiM05UWThvZnJvXzQxM0FWTll2MWJ5cTVrZmU2V1FqOEhhUHc?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Approves Rs 12.68 Cr for 44 VVIP Vehicles Amid Drought  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Approves Rs 12.68 Cr for 44 VVIP Vehicles Amid Drought Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Approves Rs 12.68 Cr for 44 VVIP Vehicles Amid Drought Deccan Chroni"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1791704762337",
+          "title": "Shiv Sena (UBT) leader Aaditya Thackeray calls detentions ‘dictatorship’, targets BJP amid anti-CEC protest - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWjVfSkRqTXo5UGpRd2hMZXlfMzUxS3ZLQzk2STFyVU96UmVLdElGbW5YTVFHZnlqU3BvaWYxckxRUldhUHpfdk03ai10Ml9jNmdCZ0xhVGRmclVQYm00LTY4NmlsTWJQaWQ4R1FadnZmd20ycjVJOHlYQTdCOVZ2Rk55VzJIcjB4WTA2N3F4NXl6NF81WlhFRHo2S1ItT0JZY1ZkZEZJUWd4VTF5N09fY0xmeGxWeWFYVUxJWnlkb2dOU0YwQ1VtdFFWSGl1SzNYWjVDNFl2Z3VhX0hJUFhLRU5ReV9OOVpfNWNKeXdqMFVrVG1fRUszbVgwaHFLYkU?oc=5",
+          "time": "15h ago",
+          "body": "Shiv Sena (UBT) leader Aaditya Thackeray calls detentions ‘dictatorship’, targets BJP amid anti-CEC protest  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiv Sena (UBT) leader Aaditya Thackeray calls detentions ‘dictatorship’, targets BJP amid anti-CEC protest ANI News"
+            ],
+            "tldr": "Shiv Sena (UBT) leader Aaditya Thackeray calls detentions ‘dictatorship’, target"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1791704762337",
+          "title": "Government of Maharashtra tenders passage and drainage improvement in E Ward, Mumbai - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnNrWGVOcTFnMV95SDJjVV9hRnBOYXVvRHlUci1XMEtYdmc3WEtPeUdHb2ZZQmxhd1huWUF3V05XbFk2QXppa3RaTTQ0VFp3WnA3d25UZU4ybU91MnBCb0hvX3EzcHNDZDdrdlZOQ2lhdTVoNWs0R0JqZHZQSXpVLVVjY3hERjVDRGtqVA?oc=5",
+          "time": "13h ago",
+          "body": "Government of Maharashtra tenders passage and drainage improvement in E Ward, Mumbai  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra tenders passage and drainage improvement in E Ward, Mumbai Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra tenders passage and drainage improvement in E Ward, Mu"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1791704762337",
+          "title": "Central team assesses drought-hit areas in Maharashtra, report expected in seven days - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRzRLdTJWeVpwbUg2WHRiWGIybU5iRG9FS3dCWkVMUkZpSFFjWE5xSUljOGZkV2UzLUJxQmQ2WFRWLVkwZ1VBdzFiVGxHdWR3emNDc21OTnoyLWQwS3pSSEpjVDduNTY4cGMwYjJYb2JCY1VMc0RaNkpiZ1Jxbm84Ulo5NTNZRnc1VmpibjBKTElydlkyT25WT1M4X2Qyd3BWTDlMR2l5ZHdBN0ZjVXJLcmcyV2JlYWZPYUZLOUdMYVZJcVowLXB6N1dXTGVoYTNFVUdnTEMwczlhTWU3ZHJELW1R0gHvAUFVX3lxTFBFWDFmV2JOcHZ5cWRrNWMwbXJNZUpDNlJMUTU0ZDRqbl9naU12cUtMUkJFV0FOYTlRel9YV1dweGRpSzZxWlZEWkVBcXNGZnd6dF92RnFmVnp5cWd6Y1J3dlNIbzQyOWZMUnU4RGhGUzF0b3FWaklGUHRsSG9vZnNrNXl3bVhaWlJNX1dTcDl5TEdJYjl6eU9BWmxibnNHSzg4aHNoVGtDb3J4RTBIUDhaejlSQU5USjBuV2g2ZnkzMEVNVGZ4Y3lYOEQzTVJsblVqQzcxa3BWclAwNkhYTy1JTTFQUVF0RnF0UFpxNzQ0?oc=5",
+          "time": "17h ago",
+          "body": "Central team assesses drought-hit areas in Maharashtra, report expected in seven days  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Central team assesses drought-hit areas in Maharashtra, report expected in seven days The New Indian Express"
+            ],
+            "tldr": "Central team assesses drought-hit areas in Maharashtra, report expected in seven"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1791704762337",
+          "title": "Delhi protest crackdown: Opposition targets Modi govt for ‘cowardly’ act - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzdmV055NHBGWHpwU2FCNUFUb0pMNWZ1MTY5SGdGT3d4VFpfMlBNbV9MZlBLUFY0ajYwa0dNcFIzSkZjd1I3b1BrSFpUdlMxeG93aDdyZzhubWJVckdzVUxBSlJ2d19vUTV3THRVMkpYdDBFTXpkVDhqSFBpVlBmNXAwMDdTYmtEeG9NM1hIYWNaV1FaZGVPYzZzYmNhVHpRVkkxTkdYONIBrAFBVV95cUxQWUtHdlhsb3BWRG5ocDk5TE51eUhvMWtwa0JZTzZGQmYySGFPaExRSjRPemFUMXpPN3JvX2Q3c0YxR2k1RVYwaEE0VFEyaUF2N2RBc29XTHhFRlhoZFp4NlRscVdfbF9WVUF0NWd0SnVIU3VHdTRPUUdBNEdmcW91NThwcEtpMmYwY2pRT1lacDdsVXBxUGNWRERVQ3lva1VXcG5HZ3dYYS1RMHl1?oc=5",
+          "time": "19h ago",
+          "body": "Delhi protest crackdown: Opposition targets Modi govt for ‘cowardly’ act  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Delhi protest crackdown: Opposition targets Modi govt for ‘cowardly’ act ThePrint"
+            ],
+            "tldr": "Delhi protest crackdown: Opposition targets Modi govt for ‘cowardly’ act ThePrin"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1791704762337",
+          "title": "E Ward Mumbai Pipeline Repair Tender by Municipal Corporation - urbanacres.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEJseFdENTV0c3N6d3AtMFRndXljRzhpNHNONVJmT3prd1FnSXNHYkUzM1JZMW9QemQydGhHem9nSy1TbDF2N1dKZklfZG1xcmgyTEszbWVCaEUxNFhDQy1McmdtbFZIWWtqeVJkU2FjYU1jRFgxUU9ZOEV1eGVPTEZtZXlNZw?oc=5",
+          "time": "1h ago",
+          "body": "E Ward Mumbai Pipeline Repair Tender by Municipal Corporation  urbanacres.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "E Ward Mumbai Pipeline Repair Tender by Municipal Corporation urbanacres.in"
+            ],
+            "tldr": "E Ward Mumbai Pipeline Repair Tender by Municipal Corporation urbanacres.in"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1791704762337",
+          "title": "Who is Ajinkya Shinde? Know Why He is Leading the CJP Protest After Abhijeet Dipke’s Detention - Jagran Josh",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHRHV0daSEZYbGI0MnFpUS1kSG9YRnBLNHFGZ3V3c2VLT0ZwR3BsX3VIWENhOWNkdzVtZm1BYWplMHNCZFNNU284LUJHbUgzMTlWa1VIRzRQSDZfWGJ4cF9ERDU1WWpMZTl2dzVKRTFKZ3FRUkZrVUNUd1I5X1I5UkY1bzJJRTY4TWdNVjRSWGJ4RDhPQ3lWWDNFOXZGYjl2Q0VQWXJEVFA0YWNyZzkzVk5Famo3bnduWmVqN2JtUkc1MnlVX1JoN2lRaUhFZTBfaHVMOWhKd3JmdnIyaFRPbzh6YVnSAesBQVVfeXFMTTY5WjlEM2RhOVRKekJXdmZaQmhrcDJyRmdBQi1MYjNVNlF3NnpBcTNMMVFsUGFuUkpjT2hwM0lFWUxGVEpLV1RzNWRYQVNlS1lyV20wSW5JQzIyU3ZRMmQ0YmtWTnV5eXRlZFRuY3pEeVFiOFF6cW90aTJLYVhqV1JUUFlveWNPamFQTHR4ZFpLUDg5dzdEU3pBMlNvbmtFbEk0cGtFX0FRLWtySXExYS1LbnYyektyRW9wWmMzOFFUd3YyUDRhejFPaWVYN0NqbHNRaW9KZ0lRTTktbFhKbHBsT2NiSkkyN3JhWQ?oc=5",
+          "time": "19h ago",
+          "body": "Who is Ajinkya Shinde? Know Why He is Leading the CJP Protest After Abhijeet Dipke’s Detention  Jagran Josh",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Who is Ajinkya Shinde?",
+              "Know Why He is Leading the CJP Protest After Abhijeet Dipke’s Detention Jagran Josh"
+            ],
+            "tldr": "Who is Ajinkya Shinde?"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-8-1791704762337",
+          "title": "ReNew, Maharashtra Govt Partner to Develop 750 MW Green Data Centre Park With Rs 70,000-Crore Investment - KNN India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV2F3ZUxIdk9GNzZxNUh5azV0WnRUX3dfVnZGa0V2WTZrUXBFMnFXNUNtY0FtRXd4SE4wN2plTzhyc2RlSGJHcUprbGs2dU9KWmNvcFBKNXk4OXVGRzd4Wlh5cVJNX0tsZDBsSnBwSHc3R1dtOW9ZWFdiaFZHckgtUUhzdlJ5SWFwRTdxSTh3QzVTQXluRXJqQjJUOVl4NXFEOVVnWEZXOE9Xd243WFJaeGdtZXRIR01COVV0Z1Y1Q1hjRTJMTEVtd0FZQmZEUnVXaFYyUHpaaXJhX2JQN2JZOXZn?oc=5",
+          "time": "20h ago",
+          "body": "ReNew, Maharashtra Govt Partner to Develop 750 MW Green Data Centre Park With Rs 70,000-Crore Investment  KNN India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ReNew, Maharashtra Govt Partner to Develop 750 MW Green Data Centre Park With Rs 70,000-Crore Investment KNN India"
+            ],
+            "tldr": "ReNew, Maharashtra Govt Partner to Develop 750 MW Green Data Centre Park With Rs"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1791704762311",
+          "title": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGg2TzBpb1F2d3NvQmI1LW5QODBFa2JkTWJTWHIzbGtGX0toSWhpVVgtaExWQlV2YzYwRmtMOW13TUlPY3RvTmxEM25XaVZpRXFDR0Z2SkFnWkU3aGplcmhiMmRJU1IyTTZYcnB6VGowQTZVaVVtQjhuQVY4QmVMdWFGekpqeENIT2JQN1d0S1BYUjUtNUpnVE9uOXZqcjlZOS1sNGd0SkF6Vml6TDlzaGhkWGg4bXJPZFpsd1ZONkZ4RTBoRWY3bnZRQ0ZfMVJhNDhzNTNjeURXa0hXNHc?oc=5",
+          "time": "3h ago",
+          "body": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses Goodreturns"
+            ],
+            "tldr": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1791704762312",
+          "title": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONEgzTy1XM3lQdWRVLU9WNS1wTUJwamFZcjRCSzM2c2h2LVB2T3RMMDVBY1kzWm9EUVgtODJ1LUhfWlRmcTBZSzFEWmZZN2pPOHo5c3BFYVd3YmFsZ1ZyWFM3dHJWeU5MRktwNnJsM3JJc0hIQzRsLVZXaDZkQTFCQTZUM0MwYXdaUFJocFVudF9CQTZFVkRzb1RPYUlOQ1hOSWFVMWZiMHdBRVJOQjdCcjM2cm1nWWhsWHdwWUNHR1dYeU4zcnQ4dG9ySmFSOU82akRFMU5yUTBJeWx0WjZhTmRSS2t5OXdkVDdqUlJmMEZhN3FQc0M1bUhHWdIBgAJBVV95cUxOdk9QRUhQZjkzQWp0NHpMbDlpYS1udHV3aWlEcXhHUl9LRFZVOXdOYnZYeUdoYWg3UWVUVXNaekhEaF9tYXJPUEhRclE2VE1jZWNvX0dKZ1JoZks2d3doRWZJa01oTlVXOGVwYVo0RVVnMWNTQlJJNEpGU2ZkUDdVNi1uTkR2WkRwZFVhN3p6am85S1RTR3RmNjBjQks4NEdGaUlvOC1HTFFmb3gxMFFURHdGVmRoTEJnWThnNksyZFhuU1pNaW84ME52V2p3RXNMdUEzRkpkMUFLbTBYMFRDLTdqUmhYYkdra1d0S2huNmVLVmFueGNMZmxhZWxKY2U1?oc=5",
+          "time": "2h ago",
+          "body": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance Livemint"
+            ],
+            "tldr": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish desp"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1791704762312",
+          "title": "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbWNhM3JNM0tGQ0xHOWRBbHlZZi1hTlExanFwYnJUbTAxZVFja2l0a3NBNFpNblk5b2JNYmxXOXRmUXV5cWtIMTFIRVc1YlJsaXNZUGctNU1rcElkSjljb0lsd1NQUnpUdWZ3LTFZWDZKX0w1WExZQzlDRm5PZUdrN19Gc3A3TjRMNmJ3bUtrVWxXT1ZhSnVuVGRGRVBVbGx2cjBrWEQzdEF5MGw5MVhlT2lDNmd2S0tSLTVyX09lU3VGMWg2MUhXcUNNNm9VeGFLTjhzR1JQQ0plMW56VGx1N1dBX0JuNTVJczlXTlFzZ2piWm5YbmxWUmFaV1Fwam01d2RqUNIBigJBVV95cUxPdmQzdlVsZjFzUGJFNjdHUERBekY4RDJia0VOS19yckg1dGdScEVmMHNVMXpUdkNrZ09jY05yNnF6WnhLcGptdEpxYmE2Z0JhcXdJRzVNSEdnRXJLS29NRWFfY29MWG96cHpiclU5eDJieFQwQURnamdReF91TVBmbE5UcmdmWERuMUlZU2M5M01nN3lXUmFubVdmTG1LSzczM1BmdHdQYlNhdXc4RHBMaFhMTWpQTHJ6M0tKSzhBMWVKNy0td2psNUVxc00wdUh3clpmc1pwZ2dSQzJ6a1pmcEREWHgxd2liSnc2STZuMjA3VWVpdnM2TFVpTU8yX3I5VEJKZVRqdDU2QQ?oc=5",
+          "time": "1h ago",
+          "body": "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week The Economic Times"
+            ],
+            "tldr": "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah pi"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1791704762312",
+          "title": "Sensex, Nifty slip in early trade amid global market sell-off - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzRGNnpJbTlRbWxnT3pZTGgya3lYc0VoT3BHSFd6M1B4QllYb00tT0VHSzRkN3lZS3BKWEtrRFhVT2h6VU10TlgyS1JtaHJHeGFMci1fSm5JZ2pYaWF2eGxLLUFvLUJBSnBWMVJBWWZ4S2tFMjItTTkwakhSSHhBQm1Zd2RHeTNlZGJLSHh2WQ?oc=5",
+          "time": "23h ago",
+          "body": "Sensex, Nifty slip in early trade amid global market sell-off  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty slip in early trade amid global market sell-off DD News"
+            ],
+            "tldr": "Sensex, Nifty slip in early trade amid global market sell-off DD News"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1791704762312",
+          "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+          "time": "19h ago",
+          "body": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+            ],
+            "tldr": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1791704762312",
+          "title": "Sebi to issue closing auction guidelines in a week: Tuhin Kanta Pandey - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONlBEQXVxUTh4bHc4V2I5Q1czVmR6ZFFESXloelN5T0NCOEwzcTNQdktvRVZ0NTc5YmFiRTBaX0tkcTNUR0pBbE13NS03Qlo5VnBBdmd2ME85c1RYN1N0aTVMMWJEbjZsQlZjZFowVGtMU1RCT2ZBdWQ5YzVkaklfYzdwT1V3WEo4LWdiMUN1LU5FU1QzTV9KZ19PUC1faXRSdjFwNHkxNzdtNjUxM2lwdjlLSV9CUU9DZVh4b0N0MkV0eTVXTkVHR3dBRG92Q002eXfSAdcBQVVfeXFMT05aVTBURTFnYU9PbkZCQzZJdU1ScUVjQkh1VTRQVjdKZS1Ob0JHemF1MVYyQXlHV3RRMlhWdTBURlAyWmE3QzZWRjNOMUJfY1A1aWdUQmtMSVVxSUVkSkJIMmlEQVBLU3B6S0Z3LVh3UUV2YTNoMGl6N2liTnBzV3daZjlSWmlWTnBRY1RzMzkwQ1VUaW5YN2VBYm0xZWdqY1R4NUpwTVBkb2VKMEc5WmxJLUdGTnhRa2otbnJVamxvTUx4eWhYTUxmZVpIYVZ0TTItcU1GaEk?oc=5",
+          "time": "17h ago",
+          "body": "Sebi to issue closing auction guidelines in a week: Tuhin Kanta Pandey  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sebi to issue closing auction guidelines in a week: Tuhin Kanta Pandey Business Standard"
+            ],
+            "tldr": "Sebi to issue closing auction guidelines in a week: Tuhin Kanta Pandey Business "
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1791704762312",
+          "title": "Mkt rebounds over 1% amid rally in IT stocks - Ahmedabad Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWERONmluNlJrNF8tT1JaR18wRmduOVltQ3dNUVkybm5jRmxib3BTSl8zV0lYanVrUVlESWJTYzJ3VzdBMEVPdjZaX0tIdWRnSFIxQlVmQ1RBbHY0T25adzRpQWNYcjRrVjk0MmJnQkYyNDlEanBMa0g1YTloX0hlb0lzS09Pdk9YTTlZZHdpUkhPVjA?oc=5",
+          "time": "23h ago",
+          "body": "Mkt rebounds over 1% amid rally in IT stocks  Ahmedabad Mirror",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mkt rebounds over 1% amid rally in IT stocks Ahmedabad Mirror"
+            ],
+            "tldr": "Mkt rebounds over 1% amid rally in IT stocks Ahmedabad Mirror"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1791704762336",
+          "title": "Maharashtra bars PG medical, dental seat blockers for two years | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnVPLXZXT2pDOEVBeVNJNnJOT0ZVTzR5eWNHY2Rtel9Da043MmtGX3hxeW5EelFIaWJfQ3BfVVBQVEhpbDhVMmczTU5saTRrclZGck5KR0hyRVR2enFHamRjQUJfOTM3MVotemx4QV96amp2UmVCdjhfREtoWFR0VU9kdlBsSndxQi01enBYRnFHMVhSaW9KajQ0R2xJMnBHOEdiLXBsT2pFVzFpT1hIZnh0VWlmUzJROVhIclRvazhFLVBPR2M3RjBCMjdMRXI5QlQ00gHTAUFVX3lxTFBSdU8tdldPakM4RUF5U0k2ck5PRlVPNHl5Y0djZG16X0NrTjcya0ZfeHF5bkR6UUhpYl9DcF9VUFBUSGlsOFUyZzNNTmxpNGtyVkZyTkpHSHJFVHZ6cUdqZGNBQl85MzcxWi16bHhBX3pqanZSZUJ2OF9ES2hYVHRVT2R2UGxKd3FCLTV6cFhGcUcxWFJpb0pqNDRHbEkycEc4R2ItcGxPakVXMWlPWEhmeHRVaWZTMlE5WEhyVG9rOEUtUE9HYzdGMEIyN0xFcjlCVDQ?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra bars PG medical, dental seat blockers for two years | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra bars PG medical, dental seat blockers for two years | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra bars PG medical, dental seat blockers for two years | Mumbai news Hi"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1791704762336",
+          "title": "Protest against CEC | Gandhiji's great-grandson detained in Mumbai - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGUwTEhzbDdfNGZqMzdmSjducW9FR21fNlZrSUk3dDBzbHBQdXhMRkhVY2t2eDE4ZVdUV201V1FaRjVHbFdXclFJOEc3dzRpaEVVUElpM2hDNlZNTVozU0l4am5sNEsyTl9DQjdFSHZRbWR3cFIyNU03TEhVRHUwZ3JMMklnTHBXeDktaWlYY1QzSXc5bnQ4REN1U2N3Z25hNDBIa01FR2YtNEZKX3RiaXloMWlFenVFRF8xRG5pRHVTUFpxMkRpMlFuMA?oc=5",
+          "time": "16h ago",
+          "body": "Protest against CEC | Gandhiji's great-grandson detained in Mumbai  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Protest against CEC | Gandhiji's great-grandson detained in Mumbai Deccan Herald"
+            ],
+            "tldr": "Protest against CEC | Gandhiji's great-grandson detained in Mumbai Deccan Herald"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1791704763582",
+          "title": "Maharashtra to soon introduce digital system for milk tracking to curb adulteration: FDA chief - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRnl4TGU1Q2duVEU1SkVfUnBRd0MwaExEcFBzelU0Y2tQMmZ0VUxleUZ5dEtENDVWbFdzRDBiX2ZhbW5mRmFRQWRVVjYyZzF5ZzBxUWNHaDNzS0JHOXlfM1VOZGZXZ1E3YnlYTnh5MWlFYVctRnROMnVIbW9KcXBCV2t3UDMzQUowQjIwZUxReFZpRmhjTTYwWEJtOWhDUWIybHpONFNYZlBGQUNadWE5bF9DcUprM0lxU25reWZweWltWTFvSmhHWHFIRGtwb2FSbGFPQWpxZDJNcW5INVctWnVVQnlUYW8yM2w4dFV6ZVU0WTV6ZVFKU9IB_gFBVV95cUxPeklYWDhxMHl2SmlXZkVRZGpOMWlTSWtBRG1DaFhrQmVPa2RUdWltMDVUSGdsQmlaUWtibVRqamgwNVVOMkpYX19PN19oM1dnQzg2TUFES2FZaGVuS2wyYnYyQWdSREZCdGR6enhBZl9ZbzJ2WDFkcTlKOU5DRUM0ZTEwXzVtUFljbzBETi1pQTBJYVF1OFBXZG5Nd3NWeWllbGR6VXFvYnU3NHYzS0lLWDFRX0hGZjZlcXZwakVLdjVvS3c4Z0FrR3U5ZHpCUE9HU3JhWFp6MXpDdnZNYnBmdnFXTGs4WG9FbklBUzhmN0o0S0huZmlDNUJpQVpaZw?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra to soon introduce digital system for milk tracking to curb adulteration: FDA chief  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to soon introduce digital system for milk tracking to curb adulteration: FDA chief The Economic Times"
+            ],
+            "tldr": "Maharashtra to soon introduce digital system for milk tracking to curb adulterat"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1791704763582",
+          "title": "Pramod Vasudevan Joins Savita Oil Technologies as President – Lubricants Division - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0hpTm1fV2dLbGlBMTh2SWVRVHhUU1QzVUFKQmVKdHIyVlY5QWJtZnlHV1oxNFFjd0ljdF9aVm1ueWpHVVJLM09rdl83RmIwSDBMRHJtUkNZYUl4VExkWHJtWmdVTGhDLXQyS1hSX0FUUjRZTUxHMXNyQ1lZUV9tUEJjMk9fUDJJTHNtR29sU19WLWxEcXROUTJXeWgxX1VT?oc=5",
+          "time": "9h ago",
+          "body": "Pramod Vasudevan Joins Savita Oil Technologies as President – Lubricants Division  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pramod Vasudevan Joins Savita Oil Technologies as President – Lubricants Division https://hrtoday.in/"
+            ],
+            "tldr": "Pramod Vasudevan Joins Savita Oil Technologies as President – Lubricants Divisio"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1791704763583",
+          "title": "'Why are people's voices being suppressed?': Actor Imran Khan detained in Mumbai amid CJP protests - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSGZUYXJ4U3QyOXhwSTNnQkl0NUJJeURPcksyVjg5cE5rNUxhd0ZLc2FRa3dwX3BSUEM2V3diRDhidENlbFMyZmNldV9QNDd6TFZoUWdBOHE2ZkxGR09NMGtPNmhYQlN4amwwWDA2YmV4WnM5SzJlWFNuUzdCVUdhNTMxNl9ydFpTdmp6dThkbkR0QXZtRUVaSGpBbVczay1yN214b2tDeUQxeEVibWVQVGtkTnltV3g0WnhxcmtsajVTVEZ6Y1NES2h1V3dmNkFTZVo5SjZsOWV3cVJ4RWdJcVhoNUpvN3l6ZnFBRmxBazRhaS1R0gH0AUFVX3lxTFBIZlRhcnhTdDI5eHBJM2dCSXQ1Qkl5RE9ySzJWODlwTms1TGF3RktzYVFrd3BfcFJQQzZXd2JEOGJ0Q2VsUzJmY2V1X1A0N3pMVmhRZ0E4cTZmTEZHT00wa082aFhCU3hqbDBYMDZiZXhaczlLMmVYU25TN0JVR2E1MzE2X3J0WlN2anp1OGRuRHRBdm1FRVpIakFtVzNrLXI3bXhva0N5RDF4RWJtZVBUa2ROeW1XeDRaeHFya2xqNVNURnpjU0RLaHVXd2Y2QVNlWjlKNmw5ZXdxUnhFZ0lxWGg1Sm83eXpmcUFGbEFrNGFpLVE?oc=5",
+          "time": "18h ago",
+          "body": "'Why are people's voices being suppressed?': Actor Imran Khan detained in Mumbai amid CJP protests  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Why are people's voices being suppressed?': Actor Imran Khan detained in Mumbai amid CJP protests The Economic Times"
+            ],
+            "tldr": "'Why are people's voices being suppressed?': Actor Imran Khan detained in Mumbai"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1791704763618",
+          "title": "Telugu Girl Sai Charitha Akula’s Journey Combines Academic Excellence, Bold Career Choices and Global Impact - The Hans India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObFpNcWUzY29zeV9fTTF1amtwTm05V3J3QnZNeU9ySDFDSVpHQlFia0xFNjZmam5IdVY3aVMwcUFIbWNWZ2I5V0k4LU05dTA2VjlLNzJEdUF5SkJITUwzUzA3T0xWUGU0S1d3ZHdkT3Boeks1TGFZcjRYcE53Tjk2NmFnbFVfNjJONTZySndGd1hBenp4ci01SEdNeUdTUVQwMkktQWxSX0ZJbEpnc0JFc1Z1ZVBRc25lU2N2Vm5KMUI0TGdQbkR5VGcwX0w1dkhpZWpxa0QwT25TRE95cmR2NUpTRkJsaXY3SWZqbS1pSGFiUzhpeUJ0dHBB?oc=5",
+          "time": "10h ago",
+          "body": "Telugu Girl Sai Charitha Akula’s Journey Combines Academic Excellence, Bold Career Choices and Global Impact  The Hans India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Telugu Girl Sai Charitha Akula’s Journey Combines Academic Excellence, Bold Career Choices and Global Impact The Hans India"
+            ],
+            "tldr": "Telugu Girl Sai Charitha Akula’s Journey Combines Academic Excellence, Bold Care"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1791704763590",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2018 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CN18tSE01OEFENG0yeWVIQXlrRHE1TmxrUlk5bmQtU3RGSURLUGRiZUhkUkhLR0xoSHZIbTBwcWlMR2pBa05sVHcxSTdiVDJ5dFNBWFpmd2pLWnpzWFlUTTF1OWVfOUo2b2hpNURZSkdwVGc?oc=5",
+          "time": "16h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2018  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2018  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2018  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1791704763590",
+          "title": "IPL 2027: What problems can Hardik Pandya solve at three-time champions KKR if traded from Mumbai Indians? Explained - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWmdqRUQ4SkQtT1ZROU04dFRSbkI5TThjeWU2ay1RRE5JUW9WUmVwMHdTMjRxSzVQR2E0RkpQalpfZDJPMlNUSHJwQ29TNlljUmNEdWtNekVXOEVWLTY0LVYtb1VLdHNEWkZvdXJsUFFYb2J3eUdnbEJLaWtoZ1NQNklyODFQekVyZE5pSWtfUmgzOWU0aFpiNE16X0hzVjZXWC0taTA3MXROcHFuNmJmNm4tcmNGbHR5MFJFa2Z3WU9QTEZDVkZzUTQ5T2xUMVR5Zi1sYURrcXg1UHVkSFlKdWVZYVNDT3hBWk1XZW1kTXQ1VmMtVTV0OFZuMGpQNzhMU2FwTzdLWTZaZlXSAZACQVVfeXFMTlhCVy1xMkFGMmNqanBvTkY5SU1oQ1BxaEx3SUZpRTN5V05XZDVEeG5WOFdBX1JZTl9BbURLNXhEcUd1dkd1aHRJUTlfNkFrZGtPVEpGdjZfZGRSTG5TRE1fV2NpeTJfVlJYX1ZRVlY3eF9vTDFaUVo3ZnRTT25iWEVUWm15NjY2dXFYS2J4VWVfSS16eXdVRVZxR0NTbjdDRkxtYkd5ZWk4NzYzRlY3aTRacU5ncTdFcDIyMUU0bGwxX010dHkxTHBpSEpHTV9uREhEQlhiM01rWmUxWnR2QW1aMU5zc0ZHNmU4WERRY2hCSmxCM1U0Rl9LeVI2bEFTWVMyWF9YZl96US1lMl9KUU8?oc=5",
+          "time": "20h ago",
+          "body": "IPL 2027: What problems can Hardik Pandya solve at three-time champions KKR if traded from Mumbai Indians? Explained  Livemint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: What problems can Hardik Pandya solve at three-time champions KKR if traded from Mumbai Indians?"
+            ],
+            "tldr": "IPL 2027: What problems can Hardik Pandya solve at three-time champions KKR if t"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-technology-3-1791704763582",
+          "title": "Adani Defence & Aerospace wins SIDM Champion Award 2026 for defence export performance - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVlEemZtaDZqTVJ1U19INHlNd0dDQkQ2aVJVM3lDazZKaUQ1UUctOGZoUXk0SHBhSGhaWlIxYjE1c0gzQ2haOGQwQ0l5M2I5ZklOdEFVUzJiYV94SFVlenVYN3FUTGlGamxZU2Y1WVJRemxsSDluM25HQTZaYVJsNWhiY2Item1NMUFtZ2hZU09nSmtoWFkxWnBrYzdTUk5IZkFmZDZvMHZzS1FPZEdUa2J0WF9LRHkzMWhybERmdWlfbnl3ekxV?oc=5",
+          "time": "22h ago",
+          "body": "Adani Defence & Aerospace wins SIDM Champion Award 2026 for defence export performance  https://www.indiagazette.com/",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Adani Defence & Aerospace wins SIDM Champion Award 2026 for defence export performance https://www.indiagazette.com/"
+            ],
+            "tldr": "Adani Defence & Aerospace wins SIDM Champion Award 2026 for defence export perfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1791704763590",
+          "title": "Hardik Pandya Birthday Tribute | Mahieka Sharma Reveals All-Rounder Story - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQVJmdnhxR2EwbzNvVDUtRUFESWdRS3NRVWZlZGZjejJabV82UzN6dWFlbjNEYi1yTUhBTElaMzVOVTFFMjV5ZXZmNkxDLTAtN1plMUhMWFBQVmZKMm16NUw0MjdKYnV4MG1KSnhfV3pzRHA4MElPN004X1AxeE5rQl9iYzBrUk9MMnJCMHU1cmNkUmlrOXJBS1pGVWVNdklRSjJ2MWtmdEdaQ1hFZ1N3OUNpVldDZlJpOW5mb2RPVEFwczZaRFE2S3BJbzk3QnliNGlDZG95YTVlTEtNaFk5a0hsNEpzV2gzV0xUSQ?oc=5",
+          "time": "3h ago",
+          "body": "Hardik Pandya Birthday Tribute | Mahieka Sharma Reveals All-Rounder Story  Bhaskar English",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Birthday Tribute | Mahieka Sharma Reveals All-Rounder Story Bhaskar English"
+            ],
+            "tldr": "Hardik Pandya Birthday Tribute | Mahieka Sharma Reveals All-Rounder Story Bhaska"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1791704763590",
+          "title": "Ali Murtaza Auction Price & Team - IPL 2012 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzb1RDa0N6TFRUSU44X3BhZU9sQ0dLUmpfQTdGdWF5VENkWXRIT0FwWGRROUg5MEVWMlU4RnJqcmFLYi1CRWlZRGEyYVVLUkpBT2RFVnRpUUhQQXZSVnBhTG16cDh2VmJnRGhCM01OZUZ6a21lWVNYZQ?oc=5",
+          "time": "6h ago",
+          "body": "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz"
+            ],
+            "tldr": "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1791704763590",
+          "title": "Auction Tracker IPL 2012: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NX2czaWt4bUxyTFA4UDEtdkctRzBfdkV2SDlVYzJxY0NOWl9CVVpTNnJTYV93dldtVEZqWVVtRG4tYnp5QVV5aFRFWmozS2dZX3N1Z3A3Rjdsbk5wODl4T0FpbXFTX0xoRU1FTmlkaw?oc=5",
+          "time": "12h ago",
+          "body": "Auction Tracker IPL 2012: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2012: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2012: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1791704763590",
+          "title": "‘All-rounders are going out of the game’: Ajinkya Rahane’s concerns about IPL's Impact Player rule. Why captains want it removed? | Cricket - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWF2M1RrT2R4ZTJ0QW10QmJEMU0yU0VNMkpUY0h6NmZCYXJ3ME01cXdoVk9OWUhfUEE4YjF5a1VhYmRBS19TSWpCcURZSjcxdHJFNXVCaU5RdExxZEFuOEdXZlRkQmRYLThmbXk2V2EtM3d2Q0J4bDluS2FGTjNhRHNSc0NZSDRCUjNCTkNMLTgzLXp3SWFzSzhOd2JIOXlxeEV6RzBJZjNHMTNBZmREck04WHlwYmVjY0YxTm9YMHRzZjZtTklFUlNVWDZQSTBycW9RektCc0tDam50V0NfNEpQby1ndTVUOEJTZGFnYjhwWDlzZFFJTGRVcUxCWTRvcEdxWElkQVVRODlZMGg00gGUAkFVX3lxTFBzNUd1TE1DS3BiY1RmeklxQ2IxeERteERKM3NkN0pHY3JBRjdDSXFkdjJJSU5KNDE0aTR5SkZaaFFtWjMtUWVaU0pQQko0Q0VCY1VlblJMMDBDS3lfZE9UWWI0YXpGMzVnMlBTNWlPbWN2RkdCT3RRUUExY0hXZTFaTEhjcUgtVDRmQ2RldEg2V0h3dUZ4akR2ckNWNTkxYTNLMWdJX0JDNkdCZGpqY2FFYUhaQXd5VjNSWnBjclZIVG5maE1ZTHZXcUNkNS1KV3lPamxzclZPMWJxWkpNaEo3cUxKT0c0VDJtdzZJV0VOQ054cTNaUjdlY3VJVlh6REpoTm8teV9qYk1QMDN5WXJjcHlTcA?oc=5",
+          "time": "17h ago",
+          "body": "‘All-rounders are going out of the game’: Ajinkya Rahane’s concerns about IPL's Impact Player rule. Why captains want it removed? | Cricket  Hindustan Times",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘All-rounders are going out of the game’: Ajinkya Rahane’s concerns about IPL's Impact Player rule.",
+              "Why captains want it removed? | Cricket Hindustan Times"
+            ],
+            "tldr": "‘All-rounders are going out of the game’: Ajinkya Rahane’s concerns about IPL's "
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1791704763590",
+          "title": "What Zaheer Khan brings to CSK table for IPL 2027? 3 factors that might bring glory days back to five-time champions - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZmltWlhpRzctVU1aX0lOblNLME5SelM4SGtYWVVQdEhaTFdIQkRFd2ZoOUVuSDRpa09aSG5rajFhQlA3dGZRUmlWZk5XcG9mZUMtYllRYzAwbUhHeFRaZDduTHlibmhYZU1oMkdxeVBZYzdDYlhtQlgwTU5wRHBFZkNhWTFMdENkVDhEblFFZEpkc3dMMDR6NXpmRHQ0UHdaZGg2WkpmQkVrbjc3ZjRjY3dyZzNoa2pUZ0xoT3V1WUlJUjdfcElJbUdESDl4VWg1WndoNFFDWGxjN3VOSDN3YkRiUGt0RnptWGo1OEhEYzVTc0hOak0wOVJxb1lUdkhQcGhERllVejRWblVf0gGSAkFVX3lxTE5HclFwZ1BmWDRyX21NZ016NUNNV0QzT1dnbWk2dnZBNHU2TERBV0l0d2dlTTFsMWhEemJBU25VTHhVVlREMWl4ZnJMWmRVOExIVW9iOXd6akoyY2hURTFmZzN4NnNtVmJmR29ERk1aMy1OSU1GZ2Ewb1VHQ3p6REpNRlppNlNSS2dEUjlmU3lqNjdtWWptODZZMTQybE5CSzM4VlZGZkMwUXdkcms4NVhKNFVlU3dvYjJ3WHNiX21JOHVsQ2xYNHFnbUpDazZ1cG10QzNqc25HUTdDVzBzUEEyUmN4b0FwVkx6aTlYdTdvYnd1OFFXV3ZBSmRsSkJzUHhNYWg3UVhWSTYtRS0tblBxT0E?oc=5",
+          "time": "18h ago",
+          "body": "What Zaheer Khan brings to CSK table for IPL 2027? 3 factors that might bring glory days back to five-time champions  Livemint",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "What Zaheer Khan brings to CSK table for IPL 2027? 3 factors that might bring glory days back to five-time champions Livemint"
+            ],
+            "tldr": "What Zaheer Khan brings to CSK table for IPL 2027? 3 factors that might bring gl"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1791704763590",
+          "title": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move - Sporting News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjNHM0FlazJLR0ppTVZRNXRWMjU1bi1LTm51bkNhcmlReUxMcm1FVlRBNGEwRkVpSGFXMU9mV291NXdMQkYwR0RtQ0pHSjcyX18tbHhWRTRMM1Y1M0s5S0tWVFlhaXpNcmtoc01yM0JGWGlQYjhFZGt0Uk13ODR2bzdDZ2dFTGstRXdsRmpMcHJzUjJuYjZJY1dORjZZLWxEdXR0TzB5Rk1odnBL?oc=5",
+          "time": "22h ago",
+          "body": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move  Sporting News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, KKR move Sporting News"
+            ],
+            "tldr": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya link"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1791704763590",
+          "title": "Not Virat Kohli Or MS Dhoni! Rashid Khan Picks India Superstar As 'Greatest T20 Cricketer Of All Time' - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjFUNXdYaXhxR3hGZ0QzSTlVUUdGbWZ4Qk5lOHE2NWE2RUdNLVRuUVdfSmhXeHJ0ZnpTTU1BendMVTVDTkJWUmE0U2JTVk42Wi1OS3NwbUR6SXpXNDBwYWEyTzkzQ25leGZFWWdlVTNKaGxQaWZLS3lGSTdPNDVldVRxWnBhSG5FNmRSQUFGRTE0U29HY3Bael9DSURnSlZkS3FOWk9NSUo3SjM5OFpsdGFXMXhkZTVLbHY00gHAAUFVX3lxTE1Ja0hDSm8xRmI0VE9DY2V2cVVUNTNSdFV1VTRqRVFjM29HTVpUSVpaWnpmX3Jwd2s3eXFtSzJfOW9GVTNWQ0Rkc2tpalM1TUZFOE5lX0l0VmgzZlpaZWRzMU90X2o5MkxqUWQxQk1TVGNuekh3YUloXzhObHZvNjFVbXhEdW1UanBHR3BWQkdHeU1YZmhnWVNUcUZiWXFOSktUZzJDWndXRFByTXlESEx1bWQySWtKXzl6c1h1YjNjYw?oc=5",
+          "time": "19h ago",
+          "body": "Not Virat Kohli Or MS Dhoni! Rashid Khan Picks India Superstar As 'Greatest T20 Cricketer Of All Time'  News18",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Not Virat Kohli Or MS Dhoni!",
+              "Rashid Khan Picks India Superstar As 'Greatest T20 Cricketer Of All Time' News18"
+            ],
+            "tldr": "Not Virat Kohli Or MS Dhoni!"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1791704764805",
+          "title": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15h ago",
+          "body": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]"
+            ],
+            "tldr": "Indian-origin US Army veteran made cousin do household chores, confiscated immig"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1791704764805",
+          "title": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa. [object Object]"
+            ],
+            "tldr": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS s"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1791704764805",
+          "title": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book. He was 3 when he wrote 'Dino Learns Not To Waste Food'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book. He was 3 when he wrote 'Dino Learns Not To Waste Food'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book.",
+              "He was 3 when he wrote 'Dino Learns Not To Waste Food'. [object Object]"
+            ],
+            "tldr": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest pe"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1791704764805",
+          "title": "UK's oldest Indian restaurant owner accuses Crown Estate of not valuing curry traditions",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the Crown Estate over lease refusal. He believes this reflects an undervaluation of Indian culinary traditions compared to European cuisine. The restaurant has a significant historical background with notable patrons, including Indian leaders. The Crown Estate maintains its decision is based on structural issues and not culinary bias.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the Crown Estate over lease refusal.",
+              "The restaurant has a significant historical background with notable patrons, including Indian leaders.",
+              "The Crown Estate maintains its decision is based on structural issues and not culinary bias."
+            ],
+            "tldr": "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the…"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1791704764806",
+          "title": "Montana meltdown: MAGA attacks Indians teaching at Montana State University. Turns out they are the 'best of the best'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Montana meltdown: MAGA attacks Indians teaching at Montana State University. Turns out they are the 'best of the best'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Montana meltdown: MAGA attacks Indians teaching at Montana State University.",
+              "Turns out they are the 'best of the best'. [object Object]"
+            ],
+            "tldr": "Montana meltdown: MAGA attacks Indians teaching at Montana State University."
+          }
+        },
+        {
+          "id": "mumbai-general-7-1791704764806",
+          "title": "Green Card holder's mother denied B1/B2 visa to attend housewarming ceremony: They did not ask for any documents",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Green Card holder's mother denied B1/B2 visa to attend housewarming ceremony: They did not ask for any documents. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Green Card holder's mother denied B1/B2 visa to attend housewarming ceremony: They did not ask for any documents. [object Object]"
+            ],
+            "tldr": "Green Card holder's mother denied B1/B2 visa to attend housewarming ceremony: Th"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1791704764806",
+          "title": "From Shiv-on to off: Musk’s half-Indian partner goes into ex space",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "From Shiv-on to off: Musk’s half-Indian partner goes into ex space. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From Shiv-on to off: Musk’s half-Indian partner goes into ex space. [object Object]"
+            ],
+            "tldr": "From Shiv-on to off: Musk’s half-Indian partner goes into ex space. [object Obje"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1791704764806",
+          "title": "5 Indian-origin men arrested in Canada over alleged extortion, shootings & drug offences",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "5 Indian-origin men arrested in Canada over alleged extortion, shootings & drug offences. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "5 Indian-origin men arrested in Canada over alleged extortion, shootings & drug offences. [object Object]"
+            ],
+            "tldr": "5 Indian-origin men arrested in Canada over alleged extortion, shootings & drug "
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1791704766457",
+          "title": "Gold Rate Today in Aurangabad 11th October 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tX3A2N3p0M0JSbG1iX3lSVzFiYnpwSVhaN0VhNWRmSTcta2M5MzJWYkVMMFgza1JNQkdQMTlfdl9VUG1HUDhmQ2g2dEFTNDQ5eWtPQUtONFlEbV95WnhPWkgzMnVtWjA3REt0YWtfRk5OcXBIM3lN?oc=5",
+          "time": "3h ago",
+          "body": "Gold Rate Today in Aurangabad 11th October 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad  Business Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Gold Rate Today in Aurangabad 11th October 2026 : 22 & 24 Carat, Todays Gold Price in Aurangabad Business Today"
+            ],
+            "tldr": "Gold Rate Today in Aurangabad 11th October 2026 : 22 & 24 Carat, Todays Gold Pri"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1791704766457",
+          "title": "Dharashiv to Alibag: Computer engineer Ajinkya Shinde emerges as face of CJP’s protest - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORUV6S3ZvdUhzVUh5M0RwUnJ1MTg4N0h5RzV0SlhJdGxlbXpUSDhOLWlwRDkxNmxTdWhlMkdsdFU1YzhLTWpvZVgtTkdKSG9hLVRJdmxsa09Ed1Bub1g1NXdNOUNyR1AzSGxUQXhfZHNDQXRQVlo3MWgwNFZHWmtIR2dYR3QyMlR6aGQwT2drMmY3dTVxRXQ5dnpQclFnSTNZVXRBczYzU0txcGVCdmNJaVp1WDFOR1JQeTl4RENNRjF4anZIdkdNX05CemVUcktPZm5MMtIB2gFBVV95cUxOckRPNlozU0psQ0N3LTgwWjZGRUF6cktzOU15NzRBUTZyWk1qaVBJSXVKdGhuUWtEOXA1SzlPQWtDRzRzVXF0VkNsZjZWN19BNmh0NjVlNHozTXo5blZpcHdfUW1NVDF1SDJZbll3Y1Z0RWFoMkZJS0Q4TDVkUEpXVUlkbWJIRjdYQ3JkWHdybXh1bV81MVkzdDg5ZmhNMDc4QV9KUmJNblNTNlpxc25abVlCTG50WVFEYjdReGhQXzNnNkUxRGxaMGc0QWU2U3l2cWVLVjRxSGNYdw?oc=5",
+          "time": "5h ago",
+          "body": "Dharashiv to Alibag: Computer engineer Ajinkya Shinde emerges as face of CJP’s protest  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Dharashiv to Alibag: Computer engineer Ajinkya Shinde emerges as face of CJP’s protest The Times of India"
+            ],
+            "tldr": "Dharashiv to Alibag: Computer engineer Ajinkya Shinde emerges as face of CJP’s p"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1791704766457",
+          "title": "Executive magistrate releases CJP leaders on condition they ‘maintain peace’ for 1 year - The Meghalayan Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlV3V25PZmZEZ2c0VGp0WkZaRFlrVS1YY0dSV1JOekE2X2JnV0hzQXFvSXpjYXhVZVhsNHFmbWFDaW1VQmtDb3U3N0xyLV9OdnZJYjNXajFTTjkyWVRQbDZ3OW5nbTU2ZjA3bmtGMGh3aTFHTURHYlRqU0FQdkZRQU9GUFgyX3NDOVdEakFhVVJqTEJ5djZ4N2VHWkttRkkteHNJMWVIT2o4UEVKREJ2RldrWC1XT1NENGxn?oc=5",
+          "time": "1h ago",
+          "body": "Executive magistrate releases CJP leaders on condition they ‘maintain peace’ for 1 year  The Meghalayan Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Executive magistrate releases CJP leaders on condition they ‘maintain peace’ for 1 year The Meghalayan Express"
+            ],
+            "tldr": "Executive magistrate releases CJP leaders on condition they ‘maintain peace’ for"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1791704766457",
+          "title": "New Audi Q3 to Come in 2 Variants in India: All Details Explained - CarLelo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MLVN4WXhQT1BHSk0xcTdpdGtvdU5STFRab0R1ZkxaaVNwSXNYWG1EXzEweUt3TXN2UjA0M2tsbjc0dTlHSUVHYmFWRTZXeThvcWkwekxsLWdzd1dCejB2aC0yR2liU2xwUWVYbVJKYjJidlJxenFzWngwOA?oc=5",
+          "time": "1h ago",
+          "body": "New Audi Q3 to Come in 2 Variants in India: All Details Explained  CarLelo",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "New Audi Q3 to Come in 2 Variants in India: All Details Explained CarLelo"
+            ],
+            "tldr": "New Audi Q3 to Come in 2 Variants in India: All Details Explained CarLelo"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1791704766457",
+          "title": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGEyQVp3YUFfZ2hkaUdBSGxxb1FFY05UZkNkMzZWX01LWWRoVkFKUmV2Y1NadmplbFJzeEFsMjV1dE5kRXJaVWIwXzR1a0VFY0w0VkRqcmNucmpBQlhnc21YaV9XRVFqM1h2OHdNWnlwQXgxT29iaVFtdWtiZ2RieEtCcFA5N2Q2MkU4OVVhc1dkR1pTbXZzVGRiTGpfUVJ4M2hBdURR?oc=5",
+          "time": "23h ago",
+          "body": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases  DD News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases DD News"
+            ],
+            "tldr": "Bombay High Court Sets Up Dedicated Courts for Public Examination Fraud Cases DD"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1791704766457",
+          "title": "Abhijeet Dipke’s mother: ‘Why is govt detaining him when it is not arresting rapists?’ - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVWM3SHYyeEtwNE56ZGl4RjM5Z3FNMnNiRHlHTVB2MHBNY29FWnlXTV9vUVpMWUpRX1VGRlV6Y1ZzU2tjOHoxR2g1VGJDWnVVUVd1cmFEYk1XY0d5SllZWWZKTThIQXpVblpXTW94dGtRTUlEaldfNGNUUnZTNFB2czF3X3gyZWhHS01CbmVQSHNVcExzSjJlTzZYYVo2VGxUcVNuTS00MV9KVnA5TVpkWVhtMFdzZVM0dEZnVmNhUWFYRktEb1dRSzlPWEZDWUo0SlhYX2hmdUtZd19PcFg0UUpsTy1lTnRzRFVVUzFDaTRyZWlTSGfSAfYBQVVfeXFMUFVjN0h2MnhLcDROemRpeEYzOWdxTTJzYkR5R01QdjBwTWNvRVp5V01fb1FaTFlKUV9VRkZVemNWc1NrYzh6MUdoNVRiQ1p1VVFXdXJhRGJNV2NHeUpZWVlmSk04SEF6VW5aV01veHRrUU1JRGpXXzRjVFJ2UzRQdnMxd194MmVoR0tNQm5lUEhzVXBMc0oyZU82WGFaNlRsVHFTbk0tNDFfSlZwOU1aZFlYbTBXc2VTNHRGZ1ZjYVFhWEZLRG9XUUs5T1hGQ1lKNEpYWF9oZnVLWXdfT3BYNFFKbE8tZU50c0RVVVMxQ2k0cmVpU0hn?oc=5",
+          "time": "6h ago",
+          "body": "Abhijeet Dipke’s mother: ‘Why is govt detaining him when it is not arresting rapists?’  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Abhijeet Dipke’s mother: ‘Why is govt detaining him when it is not arresting rapists?’ The Times of India"
+            ],
+            "tldr": "Abhijeet Dipke’s mother: ‘Why is govt detaining him when it is not arresting rap"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1791704766457",
+          "title": "ASI announces LED pilot for Ajanta Caves on 1 October - ad-hoc-news.de",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXF2dTlOTFZnTHJ1d08wcUxvaTFmNkphd19xQ01CdE5fY1ZiSmdjRDdJTkFSUkZ2SGZ2SGh0amZSeU94SW90UHh2QlFoYlJzQXQ0U2NDY1U1aHJmUVdqRVdfZmJXRmxuS0V0ZDhxR19HbXQ5cEdsN1l3SEhpSjN1OWhISG1zQVNwY1E4NzdRRzhRTUtkUWlqTzlLTW9uRUwxQldWWE1NUWdTNjVrbHc?oc=5",
+          "time": "3h ago",
+          "body": "ASI announces LED pilot for Ajanta Caves on 1 October  ad-hoc-news.de",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "ASI announces LED pilot for Ajanta Caves on 1 October ad-hoc-news.de"
+            ],
+            "tldr": "ASI announces LED pilot for Ajanta Caves on 1 October ad-hoc-news.de"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1791704766457",
+          "title": "JSW Combat India Debut Expected on December 4: A New Plug-In Hybrid SUV Challenger - Autopunditz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CODgwbTkyVHZtczV2aEZFd2RYMjhUeEJicWQ0dlBYVDFUaVpBaU1SeXZnWjlTZEJmQ08xYTVnRFJteDNTUEo2VFEtOGVQNmtld3lFTDU4RjB2T1FwUUhGb1U0cU9nRkx6cTM4M0I1RWx6SC1rVktocg?oc=5",
+          "time": "23h ago",
+          "body": "JSW Combat India Debut Expected on December 4: A New Plug-In Hybrid SUV Challenger  Autopunditz",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Combat India Debut Expected on December 4: A New Plug-In Hybrid SUV Challenger Autopunditz"
+            ],
+            "tldr": "JSW Combat India Debut Expected on December 4: A New Plug-In Hybrid SUV Challeng"
+          }
+        }
+      ]
+    }
+  }
+}
