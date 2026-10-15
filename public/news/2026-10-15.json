@@ -1,0 +1,797 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T06:20:04.683Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1792045199042",
+          "title": "Who is Saurabh Katiyar, IAS officer handed charge of MPSC amid paper leak row? - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWVfQ3U0MHlWQ1dobkk0MkEtY1lpU3FTRnNsaWJfbmE2NzcxYjhRZ1pjaE95Tldld3VPeVRtS0JMWjdoek43RmVOYk5VYUVhV01abl9PYkVPbUFQMEthZDBhV2xzVC1ENGZSeGVGUWxxU0dlNWs0U3locFJxY2RGd2J4UUVUSm10aFZCVWxHMkpoVlJjWW95UENQUnFGVlVsMk9VUi1zSl96V1FsRVI00gG2AUFVX3lxTE9wQU02OXFnd19Rd0o4OW82cXB1RXdGaUM2eVRHSkhBQlM3MGFWbU5yU0pRbUtxQVhXRUs5bzBBWmd2WnQxTnNZWmo3YklVdklsUFRtM29CVlo5NUlDTVVBeDM5MFFQZFhEek9uUzAtN3pISGJ4NFBTMXpmX1RMQ1FJUkpndHlSY1pmYnlTODVzNnIwVjVhYjl5QWhEYmR6cDg4cHlteUlDa1IzeHBHZG9lb0dLOEpR?oc=5",
+          "time": "4h ago",
+          "body": "Who is Saurabh Katiyar, IAS officer handed charge of MPSC amid paper leak row?  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Who is Saurabh Katiyar, IAS officer handed charge of MPSC amid paper leak row?"
+            ],
+            "tldr": "Who is Saurabh Katiyar, IAS officer handed charge of MPSC amid paper leak row?"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1792045199042",
+          "title": "Maharashtra govt forms task force to shape comprehensive transit network under 'Viksit Maharashtra 2047' - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2N1emJoSEJQaHgwaVJFVG9HaE9vUXpHdzA4bV9YdksxZUg3ZFB4OTRxQ2dHbTJZVlhVWjFIVmwtWEsyMF9TcWt1ZkZlaU5qS1ZpQVdZQ1JXdjlsTjZ0VkxnaWRZRlM1dVZnRXY5VFN5NE1sR3ZpWFVNMkdHdTVLVXNMbGpVNG42eEhidW5hb201TlpWd2QyVV8waXBuYW1hYkJqaURnX3pUZ2Jka3d4T3l0UG81b1l4cWRBSFJJaWpSbnNtVHNNWDU4azVFd1ZPMXNZOHc4V3NKaUJSYmxzamhuX0FHVGRWcUtTd08zQkU0V0810gH6AUFVX3lxTFAtbTBnQk1aWVd2NG1Fa1FkcmFaZERxRkJsNDdTM0dTOGVTWjExWnE2Z1M1Nk5ycmJOa1NwcURhZlRCeDRnM3dBR2JFNEhTVld5a2lHRjIzUUFJQnFWOFZBOE8wX3FQdTY5UGVoUnpRbWFndHpwb2stU253VlJGa3EwZzdneU9GSXRGYlBDTFNfUEFwblppcjB6emRXd1ItVldGOXNmUXk0Z1lLY3hjMExsc21hS0VSOGh2YmlnODRRa3Y3QlFhTnVFZG5pZkNqVS1uckpOcGJ1M21hb3RReEtFZl9ZRDVpdkZGSHRKRFo3RjVJci1waDFOX1E?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra govt forms task force to shape comprehensive transit network under 'Viksit Maharashtra 2047'  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt forms task force to shape comprehensive transit network under 'Viksit Maharashtra 2047' Mid-Day"
+            ],
+            "tldr": "Maharashtra govt forms task force to shape comprehensive transit network under '"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1792045199042",
+          "title": "Maharashtra cabinet expands policy for disposal of small government plots - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQm1pb3QzN3Rab1BOdWppcTA1VXZFd0o5WDc4WHJHSkxqYm4wUENCRGM2TE9NS1NJSWhxeEVrU3ZHNGd6OEhTeXpnMmtzaTl0QXVNOXRMZFlnLUNabXBRSU02UGtwUG5BWE1qei05TnVIQ2JURzBHV1J2RzgyeDV0NGVzd1haUnlNRnduNk5tR2E3QXZ3RTlLX3Q1WDg2c1ZnWWpIenJLTXZKYUxCbE04ZllNRzZySnIxT1BiY21jcVdrdUVTcW50dXlzMldlWjlTQVgwOG5JRmFXQ2VKeTZ1bdIB5gFBVV95cUxNSkFuVE9rT0tTUmJ6MXBwQWtORXNOaGhic1QyeTRNdHlleEdjWkJMZm5fZVZ1YmIxOUdZMGMzNUZTUmZ1WVBMS2JuUkUyMGprMHpKcXRZNnFNZDA5T3d0OWp0VDl6Nm1wcTJXanBQUENaLXpEbGtBNzgzNDdMbGlZTldOSFdTVl96ZE5XZnJBY2h2cE1ZR0xQR2lMRWY0eGF2WEV1SDJGdnpKY2pJaUh2T2V3dmhfZlJKMU1KeU90UGF5RjZLb0FsaHk1UFVqQ2VZQ3JBcnBDVGMwU2t2THAxX0pKQzl3Zw?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra cabinet expands policy for disposal of small government plots  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra cabinet expands policy for disposal of small government plots The Times of India"
+            ],
+            "tldr": "Maharashtra cabinet expands policy for disposal of small government plots The Ti"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1792045199043",
+          "title": "Maharashtra announces Rs 5,000 Diwali aid for drought-hit farmers, opposition calls it inadequate - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOFdaV0pJLXRkU3QwXzVyQUJRX2hETG9ZWUFuVG1wVENiZFAwaTEycVludlhqU0J3OWNYZGFZNEswaG9mcWNxcnYyWmVJbk9PQlFJTDlZaFFIQ1VZOGdYeC1DeXJWWVdvZnhPaUxaOWRJRm1pSDlIRS1iSUVXVHQyOGwxZzJiYnpaM2owcEZKTm5lbmlHeXY2WkRXVGxFSFBQai00cnhVZnBQZVdKLTZZLXl1MFRhYzNCcjA2Tmh6cUt3eElSZ3MwM0ZGV24zUURGb0dJSTFDSGM0WUVhODI5aVdzRktVQ0VISlZlc1pjY3rSAf4BQVVfeXFMT0RnYllDeVUwS0Q1eE04YlhxbzJWZjU0Y3BpNktzNmV5dlBhbWYzejZ4aVprbEFhV19LOWZCdzVrbEd1cGF6YTU0X0NJX2c2VDlSc1RwMllRaDZrNDVFWFhMZG9jaXhkcnJDTGY3YWdwLWhpdGNQNTIzUkNKTmZrSVhEVnAwd3hPcUhYc2dOWmdFT2ZMeFNFdXZoV3JpT0ZjVDQxejRFYjA2cE1EeTdfZTB3ZUl3cnJ4RWZzaWxvVGcycWs1V2hsUVgyVDlKR2U3ZlU1U2ViUmxnM1VRSHZ4bjdQb3F2UnRvdndZaGlKaHdhejhwaVBFZ093ZVliRWc?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra announces Rs 5,000 Diwali aid for drought-hit farmers, opposition calls it inadequate  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra announces Rs 5,000 Diwali aid for drought-hit farmers, opposition calls it inadequate The New Indian Express"
+            ],
+            "tldr": "Maharashtra announces Rs 5,000 Diwali aid for drought-hit farmers, opposition ca"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1792045199043",
+          "title": "Government of Maharashtra Issues Tender for Passage and Drainage Improvement in Mumbai F/North Ward - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcU5WNkRWNkhuUTJGVlRVRzU1WWM4SUlTdmVySXdoa0s3RUlnX25nNWlvaWVYYjJtaHFaYlg5ck03TTdlZG1rVDJYTEQ1VWJrc3I4Tm9rcjZDd2JvMEtkUWNubWJ3ZERPc2JURl91WERJYlBDdTBZNUZ6R2tyMjJTMDRYM29tZWJDaHJxVmlZbGthSUlo?oc=5",
+          "time": "11h ago",
+          "body": "Government of Maharashtra Issues Tender for Passage and Drainage Improvement in Mumbai F/North Ward  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra Issues Tender for Passage and Drainage Improvement in Mumbai F/North Ward Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra Issues Tender for Passage and Drainage Improvement in "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1792045199043",
+          "title": "Maharashtra CM Fadnavis announces first-ever Rs 5000 advance assistance to drought affected farmers, 1.25 cr farmers to benefit - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeVBjYTlSazFQemdTRjRsUlFtLXZ6ZkhRSDJmdjZ6ZG5nUXdkWXhkdmhZc21EZW9DSlVzOGdiYUNveDZRSFc1Tl82WktFRTJrM2EwOVN0Z3dwVDk1YjFPeEpCUFY2RDVJOW5FY3dudER6SFZlbGF2a2NfaEtuZjFVN1VGYmpWTFluWTJNSUt5WXdXcjNONmU5V1lWZlA0NVREZUNQQzJvbE5vemZnVVBUZTRIT0YtWmwyeWVtVWxUT3RJelB6N05pV2RjanBGc2UxQ1RpT1FDa1loRHphY3Jjby15aDdJVXBHSmt0MXQ3TWFiUmNyU1VIUjkxZXRtaktJZXlLQzdSejlzLV9ydFNpYmFRMHNBRk1s?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra CM Fadnavis announces first-ever Rs 5000 advance assistance to drought affected farmers, 1.25 cr farmers to benefit  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Fadnavis announces first-ever Rs 5000 advance assistance to drought affected farmers, 1.25 cr farmers to benefit ANI News"
+            ],
+            "tldr": "Maharashtra CM Fadnavis announces first-ever Rs 5000 advance assistance to droug"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1792045199043",
+          "title": "Maharashtra CM Announces Diwali Gift Of Rs 5000 To Farmers, 40 More Talukas Added To 'Drought' Category - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX0xRUGwzZklENDJETnpBMEVTcU1DS25FYWtLV3RkZG9lbFdnb2k5Znh1cUNMTzF1dHV3bTBQQk1hSHl1Qk1DejlIdm1kRjNWd1RFbV81bm9Rb016ckF3cWpEWnJFTkNScTNVWFpsRUFCOW5OZVJYLXBUVm5iM0V0Y0I3b1Rvam82VW1sT2VIc2E4cUtLb3ZDZlBMbF9yZF9aenR6eGNicm91Q1Y4RUV2eWNaV2RjNy1ONHc3Zk85SDRtQms2UjJaOHJtbFNiUnozdEVNdjhmc2VlSlFRczFPek1BTXDSAeoBQVVfeXFMUHh3dDUtQ2RrZlVUMVlXUkphVzFqeUtESzN0ZWFwUjhRUXpUX2tmemtXMXNJb3dKcEM5a3NJZVNpWWtaYU1Obks4X0g2YUExb2RpQmlqS3cyaUgtdjJxM1Jka3dpVTAwNEdBQ2FyQ1AzbDMwVjFOeWxSNGpLQ2MtWHkzRnVUV0gyZVhKMDRrZkVZZkRpTGtHeTJkTUFlTEZGVGF0enlrd1RIbzBkU2ZzOXZyT1hkX0NmajltRk4wT1BERXpBdEx6Y2U5SVRtSkJsYmFTLVZRcHR4eFdIZjFMbkhJcGZ2b0pCOTl3?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra CM Announces Diwali Gift Of Rs 5000 To Farmers, 40 More Talukas Added To 'Drought' Category  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Announces Diwali Gift Of Rs 5000 To Farmers, 40 More Talukas Added To 'Drought' Category ETV Bharat"
+            ],
+            "tldr": "Maharashtra CM Announces Diwali Gift Of Rs 5000 To Farmers, 40 More Talukas Adde"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1792045199043",
+          "title": "Maharashtra farmers to get Rs 5,000 drought relief; Fadnavis says ‘not waiting for Centre’ - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX0p5ZFZNWGRQTk5JLU5hNnpiTWZ5bjI2U1BnLTlQZUFuMHl1UW1IM0gyYnVfNEtWMlZOSHFLbVlLaWI5X2YzdUM1c0dyTFk4c09KV2ozLXk2VGFEV2JoM1lUekZ1bXNEZldYN3JpeXNGd0dTSF9tLWg1Y3JGT2tTVFlhOXRVYTFOY3N5ZE14b2V5bHNjU3N2alljczhXMjBwMWhvbEk2UFByN1ZkazREcGNxZHlxSHBobEJuVEVDU3lhRmpwWlFN0gHOAUFVX3lxTFBpT3BKQmJSQ2drT1BEMlpERmxoYVRtWkZSZGZBU1FKcW5xcl9FczJWc0hkcENpM0E1UjdmZGowSkctNWJfZUNOSzdueW5OOE92Nk5fcU9SbHN2T3RiRFFCSFdzV1BMRk15aHhzZGl6WmNJXzdBRHpZaHcwYnd1YzJkZzhCMGd5SlMzcG5CQ29PQTMxLXo2bXNodnZvU0MySmxacWsyVTJlU0RUbmJGaUswcFFxd0Y5SWJ1Y1hrTl9PalhtY3BJQXdhX3JEQUlB?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra farmers to get Rs 5,000 drought relief; Fadnavis says ‘not waiting for Centre’  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra farmers to get Rs 5,000 drought relief; Fadnavis says ‘not waiting for Centre’ The Indian Express"
+            ],
+            "tldr": "Maharashtra farmers to get Rs 5,000 drought relief; Fadnavis says ‘not waiting f"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-10-1792045199043",
+          "title": "Amid drought, Maharashtra clears Rs 12 crore VIP fleet with Land Cruisers, Fortuners - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFdfSFEyaUZXTVVtNjdwcDQ5S2ljQlRPem5hWHAtMkp5RFg5LXBLQ1VhZU4wSWkydkRMLW1OMEtOWlU4aFpZaUd2LTA4RGhmREg2LTB0ZGVBb0RYbmJUb3k3Z2hLc0VuWkRLTU13YUNNQ0pxQ1RXT0Z1RFBWdzJzWWdUQ212YzR1U2x3ZGlQNTRGdnluS1lZTndWVjctcE9aa1hDR1QxU25vZ3YtTlJidWlNeDJVcndrVHdlZ2g0Y1psYjdsM0s5VlpkWmpXNGNKVlhObHhDTklXMXFzY3ltUG5XeUNLVHVFQ2fSAe8BQVVfeXFMTlFLQnhjSFVsSzZZWkF2YV95RmtldnVwNUhJWjZEZE1OWWV3dnhLVGZUOEVlNWdaQXExUmp0N2ZDdk5RLUZIZGF4MGhQRjlSUlRDeWxDOUJCUnJ4bHdqdkw5cGpwcUYyMkNzN2JOS2t3NzRtVjc4dkVIdWRxRk5BemxSc1g1Ykd3WGxTV3gwbmd3N08zNjVoWmNSTWFsUUpfU1Y1Nk4zTU9wZGR4R0ZEcTBNWl9TaTdOcWhRbXN0ek1yeS14cGpVUnRaU0k2Z0VmMExVU01IWnR2cEFabG9KWm9PbWhQRDNHOElWaUlPamc?oc=5",
+          "time": "17h ago",
+          "body": "Amid drought, Maharashtra clears Rs 12 crore VIP fleet with Land Cruisers, Fortuners  India Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Amid drought, Maharashtra clears Rs 12 crore VIP fleet with Land Cruisers, Fortuners India Today"
+            ],
+            "tldr": "Amid drought, Maharashtra clears Rs 12 crore VIP fleet with Land Cruisers, Fortu"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1792045199002",
+          "title": "Bulls Return To Dalal Street! Stock Markets Rise as Sensex, Nifty Skyrocket; IT Stocks Rally - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2ZMT2dFdlJ4QnNUY2YwMzA0cS1lWlFYZ1dtaHBEalp4SkN1bThNM2k1ZnNxS2hOUWRQWjRuR292Mm5vSGFScFFQTVZQUlhvMFc3Vm92N0s0aDBrUzhabXlISEJOWDhHcm1oWkw0WEtfNU9RZkt4aUpMZXB3My1PNXRTRGpObVJEMzZOd2dfMWlfWW5jVV9WYkhoUUxCS2xuSmc5SmhQYTVNY21HT2VMNFZWR1ZCQnA5YVktU3hYaW5SUjhqUVHSAcsBQVVfeXFMUFN2VE5aMDZMajgzUXF2X2luaTFEdlZCa3JhZkV1X1NRVWxIYVBwV09hWTJTUWRURkhOTXNNY0FpTHN0cDRqeElKNE8zUmhLZ3lsWWFpOVVIR0V3MGRTbjhYd2pId21VNEJnUnhBZkp6ZzlEY1Fwbjh3NTlBeUkxVUdpMnQyejVoSVlnWTAxREVSWDRVdTZLSFdPbTRWc0VPZTVQU2xsaVNqZS1KcXZQeXRESWp6UjJuSU5yeHAxRlQ2cXBtVFROMzRRRUE?oc=5",
+          "time": "1h ago",
+          "body": "Bulls Return To Dalal Street! Stock Markets Rise as Sensex, Nifty Skyrocket; IT Stocks Rally  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bulls Return To Dalal Street!",
+              "Stock Markets Rise as Sensex, Nifty Skyrocket; IT Stocks Rally ETV Bharat"
+            ],
+            "tldr": "Bulls Return To Dalal Street!"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1792045199002",
+          "title": "Stock market opening: Sensex over 400 points up, Nifty also in green | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZzFFRUJULXdqdkM2YVpnOVg4X256OHRMekF6YnJacHY2M0lVclVIMmhHQUpZWm9UT3M0Smc5anB2V1liSV84NjVFQ2h4Qk5pUWN3QXVidUFJM0Jmckg4Tm0wb3RyNkJQeG9RM1pJT1RMWi1tQlRXcmJQeDV1cU5QNFAxb09CZEtIMjhqTnZFQ0VIblI1RFpOeU40bFNmamtaUTJTanBXNUJkYlQ0WVA3TjhmNDNuYjd1RV9HLUI4X1R2UVZGXzVPRXFQOWJJN3lxaEh6VWhETzRRdEJQbDhpYWVCXzczWnVyck9BcFNWM092QdIB9wFBVV95cUxPdk1iN0FpTGpFeVlDZXVBVmFMWGE4LWptMEZhSTZUQzQ1VUl2Tk1aUTNwWG9MTEM3ODlSclpKTWIxcF8xMHNoQUZLLUctcVo1cDAxYk5YTUEzR0xTLUkzdEJ1SEo3bV9tLUw1YmcyNGFJeTFKRkZ2bUNsZnNTSENRZHhJZjlOZTFVNGdMbERnMExBUThzZVdDbDI3UzNyaFR1OGpoVWo3a3B2SzU0bzhOa2h2ckJONjFIbEZLNTVndlJDOXlVMmlRMlVPdDZzcEhTMnNEQW9oV0l6SW9mSTFUNlZIbHdzdm1JcUo4SkFxYVJrSm0tcV84?oc=5",
+          "time": "2h ago",
+          "body": "Stock market opening: Sensex over 400 points up, Nifty also in green | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market opening: Sensex over 400 points up, Nifty also in green | Business News Hindustan Times"
+            ],
+            "tldr": "Stock market opening: Sensex over 400 points up, Nifty also in green | Business "
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1792045199002",
+          "title": "Sensex surges 655 points, Nifty gains over 200 points in early trade as IT stocks rally - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYU9FR1pOa3JwZFoyNWtlRDAtdk5YeEpyT043VVRRcVNja2d4bDYxSnRsb3N2dWlhbFdsQWdUaUVMd01kOUVDb0szV2kza2RjR1p2WXdQQy1xWVlPelE2bnlBeU1CWm14Wi1rdDBGTDBTMl9OTnJIbFd6UHRGSnJuTE81ZFZSd3YwVklTSk0yWjFqQUE5cEF1M3hTOHNxRzVHYzlHRUtPWUVmSEc0NnRuV1BCQWVFV0xYdVBJQ0hScUpSYzVXVkZWZ1pEUTRycXhLM3dZRER5N21YcVFGYUxFMGhQVmdtR19FaGfSAeoBQVVfeXFMTWFPRUdaTmtycGRaMjVrZUQwLXZOWHhKck9ON1VUUXFTY2tneGw2MUp0bG9zdnVpYWxXbEFnVGlFTHdNZDlFQ29LM1dpM2tkY0dadll3UEMtcVlZT3pRNm55QXlNQlpteFota3QwRkwwUzJfTk5ySGxXelB0RkpybkxPNWRWUnd2MFZJU0pNMloxakFBOXBBdTN4UzhzcUc1R2M5R0VLT1lFZkhHNDZ0bldQQkFlRVdMWHVQSUNIUnFKUmM1V1ZGVmdaRFE0cnF4SzN3WUREeTdtWHFRRmFMRTBoUFZnbUdfRWhn?oc=5",
+          "time": "1h ago",
+          "body": "Sensex surges 655 points, Nifty gains over 200 points in early trade as IT stocks rally  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex surges 655 points, Nifty gains over 200 points in early trade as IT stocks rally Mid-Day"
+            ],
+            "tldr": "Sensex surges 655 points, Nifty gains over 200 points in early trade as IT stock"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1792045199002",
+          "title": "Stock markets close lower amid elevated crude oil, rising inflation - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbE9ScG1Ocld2OGhod2hwcUZ6d2ZyU2J0djh2WmZHOUVaT0ZTN3NXNTNrblV1UUpIdG96cEJlRy1tc2p2VWlfOHdHUHBVbWI5ZlMzMDBBUVdOX3RXOHNfUjU2MDdYa3V6RjhmbTJ5R3dqOWxMa3UyNFFYUmt3eEdzU2RWV0VsT3EtSlA3SHpmMW5VNVJJa0ZjbERDdVJnaU83ZlZncHh4X0FxTEhvdU9LeHBCbVZ0Sl9YZFY4dVVJLXRCNnZnanRn0gHOAUFVX3lxTE5TdGlodk1ZdEZsN1ZqSWkwMmpOV29oUGdBbVRrYzBYVGFQWmVxb2o1UlhVcGo3VGVJTnJPamRoX2NTVm92dUh4Q2dZb21hdlRQdU5mcDVicHFXYW5sTER3Q1hzTXRzR3lpVHh5cG5LczFMV2JtM3AybEw0QU9BMUNsWFZfdnA2bktzQjVpZTlMdExhZ3dLVmk0RTVHQV9qdENpWXg4MnhnUmpQUHZwZXpoRFdxZGpRSzNOc2FNajZLWkhpU3hGVXdEMTBid0xB?oc=5",
+          "time": "18h ago",
+          "body": "Stock markets close lower amid elevated crude oil, rising inflation  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets close lower amid elevated crude oil, rising inflation The Hindu"
+            ],
+            "tldr": "Stock markets close lower amid elevated crude oil, rising inflation The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1792045199002",
+          "title": "Stock Market Outlook Today, 19 June 2026: Sensex, Nifty Likely to Stay Positive Amid US-Iran Peace Deal - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMmFWaFdvekpza0Q3TDNhcjJRcUs1dlY4Q0pGeExaUWE5ZFhHa2lLU3lMZGczYXVCdkpnNlNveDhBOUZwSjBYbXJPcVZXTnIzUGR4dlFkZ0NOQzNKNExOcnczOWxZbnVJNnB5UlN2XzhRYy1hSFFITlhQY1dFN0h5OEwwX184cEItVERPMWJISTBCRVBPZDhfR1lEN2poeXpnOExSWGJjbGVYWDgtOUEyb0o1WFdtSDBKLVA2TlNDU0xhR0gyWmFaRGV0bHZYX1ZTdW5LT3V0M0pPZnd5QWc?oc=5",
+          "time": "4h ago",
+          "body": "Stock Market Outlook Today, 19 June 2026: Sensex, Nifty Likely to Stay Positive Amid US-Iran Peace Deal  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Outlook Today, 19 June 2026: Sensex, Nifty Likely to Stay Positive Amid US-Iran Peace Deal Goodreturns"
+            ],
+            "tldr": "Stock Market Outlook Today, 19 June 2026: Sensex, Nifty Likely to Stay Positive "
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1792045199002",
+          "title": "Stock mkts close lower - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91SWZaZ2pzTkdteEZGNkdMZUFSaGpfRTNkZ3p0SkcwZmVJaFpBaUsyeHl5cVRrdXVqTnhfZkNrb1NkN0dIcEFuc2dsMFRIUzZsdWFmSndwaWF4TTNSMjNQODhZWmlIV1dZUjhfZFc0Wlp5d0dOWEZR0gF8QVVfeXFMT0NaR3RJWWYwZnpNMjhYZFZKWGhKdi1Wb0t4dUI1ZWxXbHVGcFF6OVVQcThST0JpdjM4b1lyVWJ3eXhyVDBxS0d4UkxUSDZreWtTSjNub2UyTnR3NS1MaDBxbmNHdkhqeWFzNFVYQk96LWNPOFVYdHBsUlN6WQ?oc=5",
+          "time": "12h ago",
+          "body": "Stock mkts close lower - MillenniumPost. Stock mkts close lower  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock mkts close lower - MillenniumPost.",
+              "Stock mkts close lower MillenniumPost"
+            ],
+            "tldr": "Stock mkts close lower - MillenniumPost."
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1792045199002",
+          "title": "Sensex, Nifty recover early losses as IT stocks advance - National Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWRYcGFfcldxSGxjbXFqakNZQlROR29NSUROdjFkMm9WSDdGMnZaSUNaeks5bllRYmJ6SUJRTTc5TkxMREFQUEk2a2Rhazh2b3pyd2F4SE1ORkZzYV9iaGJyUGt2Z0l6aU16N1Ntay1QNldjU2hNMk5Mc1pseFdvN3prUVBUbFhoa0ZFbG1IMDBHenllLTA4QVQtYlBxUjZ4VlQwTFduRWt2Z2F1MVHSAa4BQVVfeXFMUGFkWHBhX3JXcUhsY21xampDWUJUTkdvTUlETnYxZDJvVkg3RjJ2WklDWnpLOW5ZUWJieklCUU03OU5MTERBUFBJNmtkYWs4dm96cndheEhNTkZGc2FfYmhiclBrdmdJemlNejdTbWstUDZXY1NoTTJOTHNabHhXbzd6a1FQVGxYaGtGRWxtSDAwR3p5ZS0wOEFULWJQcVI2eFZUMExXbkVrdmdhdTFR?oc=5",
+          "time": "23h ago",
+          "body": "Sensex, Nifty recover early losses as IT stocks advance  National Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty recover early losses as IT stocks advance National Herald"
+            ],
+            "tldr": "Sensex, Nifty recover early losses as IT stocks advance National Herald"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-3-1792045199043",
+          "title": "State plans ₹1 land for Dhangars, other NT communities | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXNVVFNvMllFZW11ZUJYemZGeEtsWUpLc3NaUXRObEt3UWFtOXh4Z3J0T0lQaWdWUU5DQnhXTW1pOF9EWkk0bkVGZklGTnRFS19BVm1yb1JTVC1oR1pNeTJiNWhqRHpiNllOY2g0NGRtcnpIdlFxVlllVDlwX1RpTTF2eWw2NWE3NU5FMEVoQTQ0WXd6Wm1hODFIbEl4cVl4VFhWSmhKYnF5Qmp0TVBKR29ueVVtd25LUzhKQ3hpSzjSAcYBQVVfeXFMTjg3UXV5Ny1VdEtnd001Wlp2QWRPaU5CczVld1Nid2hQM0kyN3plMlM5ajV0aXg1UmZRbERUVGZVLWpyM0dDNi03b1hpbEQ5ZVVaQVZsalhlUk9MR29FT01laUJZbzNUN2lOY3NtT2ZJNURIVkZSM09DdFdWclhkMndTQXpDa2JWaTlqaGlMdEdDNUx3MHQ2WXBpLWVmREdZTlVkV0JacnB1NmhLcHowM1Fwc2NjSF9jOGtfX1hTMElBdGtjQkRB?oc=5",
+          "time": "3h ago",
+          "body": "State plans ₹1 land for Dhangars, other NT communities | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "State plans ₹1 land for Dhangars, other NT communities | Mumbai news Hindustan Times"
+            ],
+            "tldr": "State plans ₹1 land for Dhangars, other NT communities | Mumbai news Hindustan T"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1792045199043",
+          "title": "Maharashtra Govt Announces INR 5,000 Aid, Water and Fodder Support for Drought-Hit Farmers Ahead of Diwali - Mumbai Live",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3NlcDNaaXRqNHRqQ3Ntd2xKWjVxak9PaEFGbkktel9yc19iSG9yNm5TZ3BSaDNyeUlHeThYSHp6ZGlTaVFrM2JuMXFjU0luYjdNTFpWbWR2ZzN6bWdLV0x2X0EzSHpZTnlrS2pFT3VidVBGN0FxY2pjTllIVmxKZFN5YmFqLVhqNEh3RXdYLUJ1ZGJBVFNtUGttcGxHdkRrTnYxQTAzZnZkMWhvU1VsWHVnZVRuZVJhZHfSAb8BQVVfeXFMT0RLY3M4QXZwSGZJT2FQdkZmZGRldHNSMXJ4RG5pTWZLc3BqUm5DUV9tel9weFhkNmlad3haNXBiblJDNmtxZGtVN0JPQUg0ck00dURuaHB6c292VXhHaDRtU1pMcktwbVRSWEZMNm9xOTktSDhOQl94RDdPWGU5RVI0dW8zMTZ1enB1Q3ZaNV9yQjcxY3lpWGo4SzZfNUU5SGlJSFRoZE15TVFxMHR0VWxLYmU5YzhiemNhSXNxMW8?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra Govt Announces INR 5,000 Aid, Water and Fodder Support for Drought-Hit Farmers Ahead of Diwali  Mumbai Live",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt Announces INR 5,000 Aid, Water and Fodder Support for Drought-Hit Farmers Ahead of Diwali Mumbai Live"
+            ],
+            "tldr": "Maharashtra Govt Announces INR 5,000 Aid, Water and Fodder Support for Drought-H"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1792045200312",
+          "title": "Maharashtra to pilot AI-based job platform in Mumbai, Chhatrapati Sambhajinagar - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTkgwVl90NTk4TVVNNjQwYi1mTmxFcTRpQzhKVDhBWkNrNk9jQlVYLVZucVVxb0VmZnA1RkZqRi1jUWI2d1RTSUlYbzVNNHlVdWJhcDhWSm5BNUlDM3NabnQ1UFBubE9vaDlEWUN5aDFLNkY5cmxFcEV2ZFM1a0lLVjlxbUNEWDY2S1AzTU82YWk4VTFqdlppVUlaTEwwZV9vUnFhM0x1R0k2R3JvZzdYZUhlM0hfekIzZUJMNlRjaWVINGo4d1phdllYR0hkRkxxaE56R056Qlo2cTlUcFFpTUpiaTI5a0ZranlsMkZn0gHuAUFVX3lxTE5OSDBWX3Q1OThNVU02NDBiLWZObEVxNGlDOEpUOEFaQ2s2T2NCVVgtVm5xVXFvRWZmcDVGRmpGLWNRYjZ3VFNJSVhvNU00eVV1YmFwOFZKbkE1SUMzc1pudDVQUG5sT29oOURZQ3loMUs2RjlybEVwRXZkUzVrSUtWOXFtQ0RYNjZLUDNNTzZhaThVMWp2WmlVSVpMTDBlX29ScWEzTHVHSTZHcm9nN1hlSGUzSF96QjNlQkw2VGNpZUg0ajh3WmF2WVhHSGRGTHFoTnpHTnpCWjZxOVRwUWlNSmJpMjlrRmtqeWwyRmc?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra to pilot AI-based job platform in Mumbai, Chhatrapati Sambhajinagar  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to pilot AI-based job platform in Mumbai, Chhatrapati Sambhajinagar Mid-Day"
+            ],
+            "tldr": "Maharashtra to pilot AI-based job platform in Mumbai, Chhatrapati Sambhajinagar "
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1792045200312",
+          "title": "Protean Felicitated by UIDAI for Innovation in Aadhaar-Based Authentication - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNE1ma0hYSnJFcVQwaTV0VVhWbGRFM1FoT0J4YllSNV80UjFOcHIwWVpzcktWbzZOUWF3dHFEUk80d3BVR29LcU91NkVFUEt1d3dXdzk3ZmhMR19LdjAyYWJOVlE0eElaX3NIX0lHLXlqREFNcWo2TDdaSDdQZ3RmRVlZdGpSMW5ackhDU1hiWk9LTkk0VWYyUHRRVGxTWkdTUXFHR2tUUjdfZXdKZlBndGVfLUIxYXJyZS1Mb2l3amtPOTBUWkd2MWNDSmVzaVdnd040d3VMR1lXN3l0MzgtT1ljc1FJcmlaSnlJRdIB8gFBVV95cUxQMGVHdUdXclhPWXhBVk84OEY3NnRYQ1pwTDFTZGcxdXdCMHUzNHhjY0F5eHl3b2VuMzZ4NkdPNHJxYWk5SGh4NXJNS1Bwc2lkeUdzUF9zQkdxS0ZRN0pCWW9CaV9EN1MxbnVTX1BEY0NfVVlGVm5KMngxR01KQ01PT1FuWHVCT1IyZ1JMX0hMWmlSNUVrSUtKLWVNY1dXMXoyeXd0eHFIdDF3aFc2WkhOanJKTW5yRnVla3I1QjdnTjdyWUxpQlRtaFlhX3ZMeE5UT29fMWd6S1kyU1FwR3d3c0doZ3BhVG5qWTVXRVdqNV9sdw?oc=5",
+          "time": "16h ago",
+          "body": "Protean Felicitated by UIDAI for Innovation in Aadhaar-Based Authentication  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Protean Felicitated by UIDAI for Innovation in Aadhaar-Based Authentication Business Standard"
+            ],
+            "tldr": "Protean Felicitated by UIDAI for Innovation in Aadhaar-Based Authentication Busi"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1792045200312",
+          "title": "Maharashtra Gov to Develop State-Level Living Lab to Enhance Healthcare Quality & Support Innovation - Digital Health News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR0tDVHVZSEFubmduV2lJUkZualBSekpPSVVLeXE4U2lKRDF6TlgxLW12QjB5Z2hTaDlfXzhlcWRwb3NWckNMQjVCaWxlYXdCajNZLTBfWHRJN0ZJLUd2LUFhZlI4bHQweXd2LUF2QlpMNjdHVU15ZG5aOWhEYU5yVmhnaEYtQllwTXloUkpKbGVtWXdqeWdiTWR5UDZLSm8zSjBrdEJ3N3pTWFBRaktjSkppZF9xNzRXQ09HaXhTWVc4UW5XZE1VbDljZGw?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra Gov to Develop State-Level Living Lab to Enhance Healthcare Quality & Support Innovation  Digital Health News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Gov to Develop State-Level Living Lab to Enhance Healthcare Quality & Support Innovation Digital Health News"
+            ],
+            "tldr": "Maharashtra Gov to Develop State-Level Living Lab to Enhance Healthcare Quality "
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1792045200312",
+          "title": "India’s Maharashtra turns to AI and immersive technology to boost heritage tourism - Travel Daily News Asia-Pacific",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWm9aVTRrVjlUOGNqT1A0Nm9CeUpwN2tsNE9iT3p3T1JzbXpSa2h5M1h2MVN6Y2ZsRnJnd1I2ZGx1OXprQXJfaWhuTDZNV3VrTXZna201RnFPVDhUN0FxMnQ4Rmd6QnN2QUZEWU5NY0I3VE1SZWhRTWtkLWhELThfQ2N5b3drRTcxNHNOeWhhNXJiTjg?oc=5",
+          "time": "13h ago",
+          "body": "India’s Maharashtra turns to AI and immersive technology to boost heritage tourism  Travel Daily News Asia-Pacific",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s Maharashtra turns to AI and immersive technology to boost heritage tourism Travel Daily News Asia-Pacific"
+            ],
+            "tldr": "India’s Maharashtra turns to AI and immersive technology to boost heritage touri"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1792045200312",
+          "title": "FYBB Group Consolidates Six Specialist Enterprise Divisions into a Unified Corporate Ecosystem - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOclpSNENsaG14UHFVbmlSMDd3YmQ4SURtamphUi1WdjNXNFJBUlBJSVVfU2s2VkNPRG1URlVNZUFuZ3dNOTExcVVaVEJ4NHVDSDgzUHVHNVh0RkZXeUx0Q2dwRmIwTWVzcXlTNURkLWt1NE9td2xMb085MmZwWlRTVzlZcDZaTExId0xKMjRYNkZhMThzbWs5aDFoU2Vqb0dFMVhyYm05Nmw4OTlsTUNLY0hFaUN2c20wRGRYYUN6dHBheUNSZDRGV1pidVJ5VXBFYm5BUQ?oc=5",
+          "time": "21h ago",
+          "body": "FYBB Group Consolidates Six Specialist Enterprise Divisions into a Unified Corporate Ecosystem  https://www.indiagazette.com/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FYBB Group Consolidates Six Specialist Enterprise Divisions into a Unified Corporate Ecosystem https://www.indiagazette.com/"
+            ],
+            "tldr": "FYBB Group Consolidates Six Specialist Enterprise Divisions into a Unified Corpo"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1792045200312",
+          "title": "Crompton Pumps Unveils AI-Powered Durga Puja Film Celebrating Smart Water Management Across Festive Preparations - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMk5sREFEXzBlcmR6NU1NT0dQSk9HTHpuSW9QMTR6WDBxbU1ZcldfRHRJMDdETGQyT0FFc2tNOEk1a0I3bjVoZXZHMXl5dHd2THhCUFlLQVZrQlBTbXVINTNMWXE5QTcxTlYySkp3NTI2cWJzWTF1VHdESmpyUlB0aFFKV1k5TXYydzM5Si1qTDE5cWdmRVRuZWhCYzFOWVZFNXdScEUtdC1TQVlqc1RFM2FNWlA3OTh4VTNnUmVjX01zNjlOX09QdUVra3FEM2hoM3dnM2JlOGJuMlZGTnVsVXcydTJCZEE4ejA00gHrAUFVX3lxTE8yTmxEQURfMGVyZHo1TU1PR1BKT0dMem5Jb1AxNHpYMHFtTVlyV19EdEkwN0RMZDJPQUVza004STVrQjduNWhldkcxeXl0d3ZMeEJQWUtBVmtCUFNtdUg1M0xZcTlBNzFOVjJKSnc1MjZxYnNZMXVUd0RKanJSUHRoUUpXWTlNdjJ3MzlKLWpMMTlxZ2ZFVG5laEJjMU5ZVkU1d1JwRS10LVNBWWpzVEUzYU1aUDc5OHhVM2dSZWNfTXM2OU5fT1B1RWtrcUQzaGgzd2czYmU4Ym4yVkZOdWxVdzJ1MkJkQTh6MDQ?oc=5",
+          "time": "23h ago",
+          "body": "Crompton Pumps Unveils AI-Powered Durga Puja Film Celebrating Smart Water Management Across Festive Preparations  TheWire.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Crompton Pumps Unveils AI-Powered Durga Puja Film Celebrating Smart Water Management Across Festive Preparations TheWire.in"
+            ],
+            "tldr": "Crompton Pumps Unveils AI-Powered Durga Puja Film Celebrating Smart Water Manage"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1792045200394",
+          "title": "Hardik Pandya-Yashasvi Jaiswal trade: Talks between MI and RR stall ahead of IPL 2027 mini-auction - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVRPek1sQm9JV0VzaUwyREhkT2VSZlh5WGhGSHJjYkx2NjdOU08tVXhrNERwa0hZTlU3ZlZCQjlZMTZzUDJaS1NlMXpHLU94ckJfc1pqV3AzUkptQmFRNXRRV3g3NC1zVDJXS3J0WTZ4eGFEakhFc0pRdjVjcWw0STZvTnV3LTc3d2J5VlFB?oc=5",
+          "time": "16h ago",
+          "body": "Hardik Pandya-Yashasvi Jaiswal trade: Talks between MI and RR stall ahead of IPL 2027 mini-auction  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya-Yashasvi Jaiswal trade: Talks between MI and RR stall ahead of IPL 2027 mini-auction Yahoo Sports"
+            ],
+            "tldr": "Hardik Pandya-Yashasvi Jaiswal trade: Talks between MI and RR stall ahead of IPL"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1792045200394",
+          "title": "Ryan Rickelton Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10TWEyelNCTGQwc2QtZWpIbFJPQVkzODNVY2pxdENNdGktNGdTdXhSNjlEalJOZFk4bEo5aGVETEE5WEpNNDJMbktIeXFheW9fcmRKYlFzcHQtaXBfY2JOLS1aT2NPYTJVQVRPc05BZkl4VjVQN1VJUmNn?oc=5",
+          "time": "11h ago",
+          "body": "Ryan Rickelton Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ryan Rickelton Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Ryan Rickelton Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1792045200394",
+          "title": "Auction Tracker IPL 2026: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkc1dpeUZ0ODB1elozXzlUVGhncUFlUmFramhvOXVWV2FRSVlrOVBWM0FEUVA2bmdMUFNGbC11MU9OS2RxNklqYXRhOTNRc19DdnVLdGxIbzZTTGFkbHBxbTBNSVQ2eGpuNmY2RVJyWQ?oc=5",
+          "time": "15h ago",
+          "body": "Auction Tracker IPL 2026: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1792045200394",
+          "title": "Auction Tracker IPL 2009: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUTBIT0tyeHRmTERlYW1SdlFiSU9oTlUxSVVTWEVvZW9BMG8zdDFrWGpxZkhYb0Y3UnY5Vzg4U29WajJqbloyLVYwUGJ3dzAxNlNiVEo0cWNtSkQyWnNmNXI2dUJKTzZhdzRJY1Rraw?oc=5",
+          "time": "11h ago",
+          "body": "Auction Tracker IPL 2009: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2009: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2009: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1792045200394",
+          "title": "Auction Tracker IPL 2014: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdFZEYTdacDdvaGt3MndrSzh1TDV2WVFoMEZKR3JCZzFDR3JkQlI5RHljWEtTdGtTQklYRGpDWHhXTlpHSXhnZ0xIa3dQbEdKbFBFQTFLZjU4NjE0bzduVm91d3R6X3NuMWhZQmxvUQ?oc=5",
+          "time": "12h ago",
+          "body": "Auction Tracker IPL 2014: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2014: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2014: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1792045200394",
+          "title": "IPL 2027 trade tracker: Complete list of all player and cash deals before the IPL 2027 mini-auction - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREpMQmJmMTcyUUlHeW51Zlo2MUhfcTd4MHNqMkRmLXJwSVl1MVM3ekpxN2V5a1Buckw2cFFpTFZYd2NLMTBoUzNScXVYNDRPdmgyeWZ4VElISnotRDZjSUxUSDZoa3ZKS1Z6ek1SSnZXbzNTU3JQQlZZVGF2aUdjMXRrcEhNTmc?oc=5",
+          "time": "12h ago",
+          "body": "IPL 2027 trade tracker: Complete list of all player and cash deals before the IPL 2027 mini-auction  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 trade tracker: Complete list of all player and cash deals before the IPL 2027 mini-auction Yahoo Sports"
+            ],
+            "tldr": "IPL 2027 trade tracker: Complete list of all player and cash deals before the IP"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1792045200394",
+          "title": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BrR0xnVlg3ZGtobG5zMExtcFRXMnBPWmJ0bFlzcmNjMHV0OU1GX2VqZUVMUTBiQUVhLTZYLUdxXzBJUnU4NEU5ZFl0TFZGOXNMRGZCeklFamxMTWpOclhURXV3ald3V3AwRU1hRldCWmgzbkJnbl9PMkVJNHNKSDlR?oc=5",
+          "time": "12h ago",
+          "body": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistic"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1792045200394",
+          "title": "No headway in Hardik-Jaiswal trade talks - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa015WmNJU3BLYk16aDJ0QzcxVWhzSnd1OC02bF9QN1dvSW9EcGxJazhtWmJpUkY5eFVhbG5DSTVNNnJ2VXB1NHZmcXFlbHJJczNJRzhhXzVGMmI4WGtjVE1XcTJxSGdUd1hqV0pwVjhUMjE2RnJVbXJhejhTMG1pZGx5Vzl5QmF3QjVsOVNRcC1nQWRVSVFUV25QMzJnQ2NzZktlVXJESUZDRnF0YzhlX25fd3IxRWZZSGxYUU5WZFhEQmZPU3FuYWtFcS1KdFg1OXBScXItaHdnQQ?oc=5",
+          "time": "17h ago",
+          "body": "No headway in Hardik-Jaiswal trade talks  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No headway in Hardik-Jaiswal trade talks  Cricbuzz"
+            ],
+            "tldr": "No headway in Hardik-Jaiswal trade talks  Cricbuzz"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1792045202051",
+          "title": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9h ago",
+          "body": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return.",
+              "Redditors say.... [object Object]"
+            ],
+            "tldr": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if no"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1792045202051",
+          "title": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative?",
+              "Beg them to allow us to stay?'. [object Object]"
+            ],
+            "tldr": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed m"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1792045202051",
+          "title": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Chicago killed estranged wife who was dating another man; t"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1792045202051",
+          "title": "The ABCD of US politics: American-born Combative Desis face MAGA heat",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]"
+            ],
+            "tldr": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object O"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1792045202051",
+          "title": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]"
+            ],
+            "tldr": "Indian-origin US Army veteran made cousin do household chores, confiscated immig"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1792045202051",
+          "title": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS says he overstayed his visa. [object Object]"
+            ],
+            "tldr": "Indian filmmaker Arfat Sheikh released from ICE detention after two weeks, DHS s"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1792045202051",
+          "title": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book. He was 3 when he wrote 'Dino Learns Not To Waste Food'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book. He was 3 when he wrote 'Dino Learns Not To Waste Food'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest person to publish a book.",
+              "He was 3 when he wrote 'Dino Learns Not To Waste Food'. [object Object]"
+            ],
+            "tldr": "Meet Advay Jain: Indian-American kid who made Guinness record as the youngest pe"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1792045202051",
+          "title": "UK's oldest Indian restaurant owner accuses Crown Estate of not valuing curry traditions",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the Crown Estate over lease refusal. He believes this reflects an undervaluation of Indian culinary traditions compared to European cuisine. The restaurant has a significant historical background with notable patrons, including Indian leaders. The Crown Estate maintains its decision is based on structural issues and not culinary bias.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the Crown Estate over lease refusal.",
+              "The restaurant has a significant historical background with notable patrons, including Indian leaders.",
+              "The Crown Estate maintains its decision is based on structural issues and not culinary bias."
+            ],
+            "tldr": "Ranjit Mathrani, the owner of Veeraswamy, is taking legal action against the…"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1792045203343",
+          "title": "From Domino’s outlets to drug manufacturers, Maharashtra FDA cracks down on violations; 19 food establishments suspended - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPS3h3SVpSdUlSNWJQQUdKdU1yZFNsRVlkUDR1dGJCeXh3c3NTQ1BCcXI5REd5Q2RXMEJOOHFJTHJwZWpwQ1RfdWEwSWJEckdSQ2xXa3J4SV9UN0FybmJCSTZiOG1UMVNreUZjRmw2QVVmV3ZzTFcxZlZGR1dSZjhTZHFzUklwaXhHT01sbktvbzYwa3BCZGh5MGlPZldaaF9Gdi0xYjRrUVlhZEtacTI5UTNYaElVajdvSHp1YnNKRjVjYmpqdFptQ24tX18xWUt4alhKd1Z6NUZETDZWMkRJWS1CWWtMYVk0eUJTVk93X2xHemdXVlFwQi1Dck91M3RVYVpBX2g4aTgtVTJFd1J2RWdvc1rSAZQCQVVfeXFMT0t4d0laUnVJUjViUEFHSnVNcmRTbEVZZFA0dXRiQnl4d3NzU0NQQnFyOURHeUNkVzBCTjhxSUxycGVqcENUX3VhMEliRHJHUkNsV2tyeElfVDdBcm5iQkk2YjhtVDFTa3lGY0ZsNkFVZld2c0xXMWZWRkdXUmY4U2Rxc1JJcGl4R09NbG5Lb282MGtwQmRoeTBpT2ZXWmhfRnYtMWI0a1FZYWRLWnEyOVEzWGhJVWo3b0h6dWJzSkY1Y2JqanRabUNuLV9fMVlLeGpYSndWejVGREw2VjJESVktQllrTGFZNHlCU1ZPd19sR3pnV1ZRcEItQ3JPdTN0VWFaQV9oOGk4LVUyRXdSdkVnb3Na?oc=5",
+          "time": "6h ago",
+          "body": "From Domino’s outlets to drug manufacturers, Maharashtra FDA cracks down on violations; 19 food establishments suspended  The Hindu",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "From Domino’s outlets to drug manufacturers, Maharashtra FDA cracks down on violations; 19 food establishments suspended The Hindu"
+            ],
+            "tldr": "From Domino’s outlets to drug manufacturers, Maharashtra FDA cracks down on viol"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1792045203343",
+          "title": "Rs20 lakh crore waived for industrialists, but not Rs2L for farmers: Congress - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUFUQjR0RW1SeTVrZVVMN1dOMlloUk1Ya0hDQlk2OW9EWmJEXy1HTDNveVRMMnVpbFBGY3YzU3RlamxyemMxT0tpLTJQeXhhLXRyNXB6aVhiZFNiNnhRQUVmb203WExuaDVtTDUzUHpqbHJTT1ZURE1LdFJzTE1NcGw5RHd3Vmg5UWYzVDZFbENyYTJSWjNZYlEwdzYyV2JLNjNOUW5VNVAwVjRUWmtwRENQdjMzNDQ5ZHY4R1VQVjFFbjkySllnZDV6emxJWXp2Vm5xNGZTamNpbDlpQmxrWEZ5UVVDZ1JyUU82dmV30gHuAUFVX3lxTE4xQVRCNHRFbVJ5NWtlVUw3V04yWWhSTVhrSENCWTY5b0RaYkRfLUdMM295VEwydWlsUEZjdjNTdGVqbHJ6YzFPS2ktMlB5eGEtdHI1cHppWGJkU2I2eFFBRWZvbTdYTG5oNW1MNTNQempsclNPVlRETUt0UnNMTU1wbDlEd3dWaDlRZjNUNkVsQ3JhMlJaM1liUTB3NjJXYks2M05RblU1UDBWNFRaa3BEQ1B2MzM0NDlkdjhHVVBWMUVuOTJKWWdkNXp6bElZenZWbnE0ZlNqY2lsOWlCbGtYRnlRVUNnUnJRTzZ2ZXc?oc=5",
+          "time": "10h ago",
+          "body": "Rs20 lakh crore waived for industrialists, but not Rs2L for farmers: Congress  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Rs20 lakh crore waived for industrialists, but not Rs2L for farmers: Congress The Times of India"
+            ],
+            "tldr": "Rs20 lakh crore waived for industrialists, but not Rs2L for farmers: Congress Th"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1792045203343",
+          "title": "WaterLabs Expands Its Home Water Filtration Range with HL-12-PP - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONE5OLVdxci0tbVdXdFUxTDU4YXFjUkl2bm9TUk1DN1NmbHJPRXNHb2Jzd01XeEZ4d1hSc3UyLTBEbnhsNHBfdDZSYk92TEkwR2wydFduMEtmTXJUX2xHbDc5a3puMUtXTUVOTlQ1RlBTX0dVdDlHeTBPWEZLLVo3V0h1ZDlBcU00emQ2dXNXY3RzdVpnUkdfZ0w5V1hVbG01R2pLUtIBqgFBVV95cUxNNkQweDUtYXdTOFdXQmFqMkZtMnJtNkYtZE5Sc1VvOVk3MnlWM3hOTW9KUzcwam5zSEw2RVFqT3gxNXRLd3J5R3VsSUVOeHA5Rmp5ak95c0NMNmpTYmZkQl9pb2NyeFYyM0RwSzN6ekRPWGl4eG5nQ09HSl9yZFNiZnFNeUZBWnZMZjduMUFsaWx6MkVsVVhXbE9rNHFMaDBfWDBaeTBaN0UxUQ?oc=5",
+          "time": "17h ago",
+          "body": "WaterLabs Expands Its Home Water Filtration Range with HL-12-PP  TheWire.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "WaterLabs Expands Its Home Water Filtration Range with HL-12-PP TheWire.in"
+            ],
+            "tldr": "WaterLabs Expands Its Home Water Filtration Range with HL-12-PP TheWire.in"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1792045203343",
+          "title": "Maharashtra cyber police help rescue Delhi woman from digital arrest fraud after Rs 27 lakh loss - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOGRyVm5fOElqaXQ3QjBNV01BTEJaajhFbEdIQlFPc2pyT1NpXzhQSkpjTXM0VlU2bnpBTm50US1KdGVoUjFVQTBkRHVEdVRjUE1BNk5xNlExeHprZU9UQzBQUTZCZm1zcUpyZ1JRRGxaSFpZeXAzWGx5bU5iTmVJU3o1MG9wWXR5MUVMOFF5VGZTSHp2ZTZsUEt6djhGdTE1OFBUR2JKcE9ySVNuQUtkTWZpaWlrUXJBTXZUTHFVYlBMeFRyNjhSeVZMcWpqUVBkMGlOZFVaSkNENFFSUkVtWUhRMkFHd3BqTTNPU0ZVbmpFSXN0bGJfd3RrdkZjTmPSAYQCQVVfeXFMUGUyN3lBWFlSOXV1TlY3OFEzOVdISEVES3lPb085NW1kQVBjNUZnWXNqQjhMZjI2MUVUWWlSWnVQX0QwVjd2WkVsX3NWNE9WbnVLdmxoMFZ2dkxReFdfakNudUoyRjVIN2duQ1BLRXhYYVBpbmlKZVBwQ0xZM08tYnhmNExYSWRoOTNCRHBtNmU5MzFUenBDMGp4VDFhRzN4d2I5bWNoM2dKVlF2a2lHM0VJME9tOFdEZlVadU44UlZPR04xMzBNRXdQTGpnekxjaGlRS3c3SHlaT3RaYVBvSTJtQ05XUEhGakx2NUNmTDh5alQwQ044U29xOTVLZzZOVXlQWV8?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra cyber police help rescue Delhi woman from digital arrest fraud after Rs 27 lakh loss  The Times of India",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra cyber police help rescue Delhi woman from digital arrest fraud after Rs 27 lakh loss The Times of India"
+            ],
+            "tldr": "Maharashtra cyber police help rescue Delhi woman from digital arrest fraud after"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1792045203343",
+          "title": "Maharashtra Cyber rescues elderly Delhi woman from digital arrest scam after tracing Rs 14 lakh - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVWRXMjlKNk92MzBRODBRQnNpbGI4VFM5dVFEQ0ZrM0p5MXdBVEdWc2swd2d6VGxCc0xwdWhIQndIMGtPd1lJOFcwUW1lY0JBc3dhZ0VwWWpYWFljekJWeG8wU0pLdjQzVjVLS01nb3pXZzJ2UTEzVFlTOWhNZDl1UnZSY0duNWlmRFJZZng1VUlmRE1nNEV3WnpVTHhPRi1iLTN2eGRPdHJKUkdWLXIyV2ZOdlVIZ3JqUmJjWGF0MVZxT3BGMkRKY1h1Wl80SDY2cm15V0MwOGlWLVNfWFRlSDJ30gHnAUFVX3lxTE4xZFpvVVpTZEFvNlI0X0RUcXBxMWR3YmlfUXVidHhFc3VaXzRVMGg1NURpbElkRS1tVExTQmVQN1V1YWNwVjV1U1U3TnlrM1prS0VpLU5yWm9tMmxpNWN5R2FEdzlRWS1fTFoxTGxYUGJpLXI3cUdLWmFUemNwTVVVcG5LalVGV3llS1BnSllfZmVNUjFUMGttcmhVaGZacVdoVXZNRjhQcUdzZU12V29lSktPYVdUY0l4aEZGV2hNUlRsUFd0SW9iRkRpR1NydW5OYXN4cHUwOXMybXNfWGNNWGloVVNtbw?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Cyber rescues elderly Delhi woman from digital arrest scam after tracing Rs 14 lakh  Mid-Day",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Cyber rescues elderly Delhi woman from digital arrest scam after tracing Rs 14 lakh Mid-Day"
+            ],
+            "tldr": "Maharashtra Cyber rescues elderly Delhi woman from digital arrest scam after tra"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1792045203343",
+          "title": "Maharashtra drought: Congress seeks Rs 1 lakh per hectare aid for farmers, slams Rs 5,000 Diwali relief - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWk14UW96bHdOSk4xZlJmX2NJdXB4TUo3Tjh5SGdFamFGcGdhR195QXhBMXNWNTJ0TEozV0VPVE9qdGtCNW4xdWJzTlpZTlBTSWZwcjNfOUtXYThNc0xLTVZKWk9fNEZqRGM3QkJoMG8xQXFjSklNdUFkVXBfZlIxTlBjdURBeHNFN05BdnZFWURsUEMwM2ZkVWwzUnVSQ1A2clRSeExpTUs3clFQWWV3Ym9xT0tHaVA5Y1RzNVdqXzI4Z3JGOGFnSEZVOXdON29wWXpVa0o1QXpfTW45Q0dfUGVmbFAySjTSAewBQVVfeXFMT01PWTRHSERJWEx4WFYzcHk2d3dJTnZTSGk1d1dLbDZqY1JTQ2RDb1E1VEZDSnFLc1RWeUtDdE9IektqQm5wazMtdHE0T2hKNHdUZDBZQ3NjcUxfc1AxbEYzVGN0YWRMZUc5djJOZlloVXNLU1VoN0RkRjd4ejVSam40ako5blB6SkI4SnJiVlptaEhNOU9ONzZzaVd2M09GVzFveWRHN21aMnlnY2Y4NERvenpaci1lbHhxYjI0MmphTkx3TTNvQUp0STg1M3FVY3dGQnpVSVpmWVlveFlaMTRZeldFWFhVNy1HSk8?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra drought: Congress seeks Rs 1 lakh per hectare aid for farmers, slams Rs 5,000 Diwali relief  Mid-Day",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra drought: Congress seeks Rs 1 lakh per hectare aid for farmers, slams Rs 5,000 Diwali relief Mid-Day"
+            ],
+            "tldr": "Maharashtra drought: Congress seeks Rs 1 lakh per hectare aid for farmers, slams"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1792045203343",
+          "title": "Statewide Crackdown By The Food And Drug Administration, Maharashtra - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUowNENybEJ5akhLemhpZ3ZaZW1YU3dHQi1RempSeGp5U2tzck9nWTJGUkpGTm90V2QyNFplU0VBWVF4LWltQnp1WVN4cllFQ3dUOUlLOUhaSUc1SDRtRzk3ODJYSFpXTUI1REJtYU91VmFpQ2gzN2VjLVozd2JQckxtWi1xQW1xMnN1NDFaZ2VIVjhDaTI2R1paUDRLdGNSdEJpWTFpclE4d21yeWRj0gG8AUFVX3lxTE95VDhuUUJxRjB3V05zVDM3VHZzTmVhNmtveUxyTENzaTU2bnE1MzUyUE0wSExSSmNXaDJ0UFFaaVdyWU5xNTBvSXN2ZGR3d0ZGbmtWWTNhUllVb0s0ampXejZJdGVETHdWZmhicGFxclg0WEVIblBTOTM3UUVVWWo4aHhsRzVRM21nM093bjlnMXk1LUstbHdjUkxkTnlWc2U2M2NnVmwyc0ZNRGZXakRzaEVWcjN4TmRYM2tM?oc=5",
+          "time": "23h ago",
+          "body": "Statewide Crackdown By The Food And Drug Administration, Maharashtra  Outlook India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Statewide Crackdown By The Food And Drug Administration, Maharashtra Outlook India"
+            ],
+            "tldr": "Statewide Crackdown By The Food And Drug Administration, Maharashtra Outlook Ind"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1792045203344",
+          "title": "Chhatrapati Sambhajinagar | नवरात्रीचं कारण देत मृत बाळाला आई-वडिलांनी नाकारलं - News18 Marathi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTdQUW91WjFuWmpiWGhMSUxCWlgyUklLYy1DQkFVZlAzUXkyRmNQUk9xazBnU1Z0RmlRTHlWMmljTXU3WWV0NVNzaTEwRXpkRjl4VWJ3aFgyTGJJZ1piNmZnNDVBbVF2MkFhWlg4aElLNlFPUFdmZ0xfM2toQ0JZaFhIM01ORVBYaktR?oc=5",
+          "time": "20h ago",
+          "body": "Chhatrapati Sambhajinagar | नवरात्रीचं कारण देत मृत बाळाला आई-वडिलांनी नाकारलं  News18 Marathi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar | नवरात्रीचं कारण देत मृत बाळाला आई-वडिलांनी नाकारलं News18 Marathi"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar | नवरात्रीचं कारण देत मृत बाळाला आई-वडिलांनी नाकारलं N"
+          }
+        }
+      ]
+    }
+  }
+}
