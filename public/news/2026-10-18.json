@@ -1,0 +1,801 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T06:30:12.744Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1792305007346",
+          "title": "Maharashtra CEO seeks Form 6 change to remove ‘first time voter’ clause for deleted names - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0thVjZMUC1TOXJjd2x3UXRCbUo5TUtJYlFEQ3F1RzA1VWhreG9leWIxS2tNM2NGazBnRk9LVVgyaklodHZhQzlsQzI0VG03dmxYcUxQVnJVb0R5RllkOEhfSFZXMWhwVGItUkYwYmtNSzlJNzdxdUdpNFFtVU9jb2E2VmF4SGZqZURMU2xXZWtDbW9nczZuZlZCVkFjMFJBbkhaR09qM2oxMlRxUlhncGdvc2ZQVDFyc0lLcVo1VdIBxgFBVV95cUxNQzg0Q3RIV2F3TXRXZ2Z6TXlVaGdJa0l5Q0RUa1lPR010MUtnUWFUUnR3Mm51OW1lcUkydUJnRlB0MVRjYTBPdlVwTGRuNDZtUGxjazBQdVhsXzYxOE9ZVjM5a3hlZTM3SExxWnJsc1E4QTExdFdVaFlqR1A3MHVvTDNsRjEyVDR3bzdhUzBuSWwwMFlhQzJQYlVpakwteVJSWjVtOUNiM0RIZ0NDdEQ5WEpOM05DeG05OVN2QldqcVNzU3RSRFE?oc=5",
+          "time": "7h ago",
+          "body": "Maharashtra CEO seeks Form 6 change to remove ‘first time voter’ clause for deleted names  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CEO seeks Form 6 change to remove ‘first time voter’ clause for deleted names The Indian Express"
+            ],
+            "tldr": "Maharashtra CEO seeks Form 6 change to remove ‘first time voter’ clause for dele"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1792305007346",
+          "title": "BJP leaders in Mumbai splurging on grand garba events amid drought: Congress - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2UyR3ppWFE5LVg2di1vem1Mb3BMV3h5RWtTSTFReGdCRmlvYmk2WU84anhROG50MU11OWZCbWY2ZGJ3Y3podWtQMWM4MW1UbEk1cmJsczQ0bVl5T0twdDVTQmVmcTRuTGJQdFdZaHlCcDBSeTAycExfWTlERF94TkZuV1BuSkJwU0ZNZDBfQlFBWER5amxwMEtEc0JheTlyMVZsNjZ4RnBfM3BYc0Zn0gG0AUFVX3lxTE0xRXZoZEpkY081LWJyUW1CVlpRelJ3cTZBa0F6ZHpjckZWQXRxbmZXR0hNQlZMOWJQQnJWTDl2UlBvOS0tZ1U2Z3BwYWFTdUJwQ3F5OWNJZm8tUUplSTBUOGdhREZpVnBkM09sSGZUbFVRZE44emRRVjljczJvcWUyalhnaUNkUXAtX1pRSkJGcmRRNjJVU3lvYmo2UkJzckRkTHM1WFJRanB0ckJqMWRKeTNxSg?oc=5",
+          "time": "19h ago",
+          "body": "BJP leaders in Mumbai splurging on grand garba events amid drought: Congress  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP leaders in Mumbai splurging on grand garba events amid drought: Congress ThePrint"
+            ],
+            "tldr": "BJP leaders in Mumbai splurging on grand garba events amid drought: Congress The"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1792305007346",
+          "title": "Government of Maharashtra tenders drainage and passage improvements in Bandra West - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFhxWElGMGtoUGxwendnQVN2aW5vWUh4Ulh5UmE2aUFuOGdlWmZfOUYyYUlnMmlCUkZGaTJHWXI5SXlHaGdselNmZ2V4WEZSc3kxUnhsbWYzLUtTTlJvekdJU2xnTHVDYVVfTDNJX1RrNGplOTdKWi1STS1KWkgyWQ?oc=5",
+          "time": "11h ago",
+          "body": "Government of Maharashtra tenders drainage and passage improvements in Bandra West  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra tenders drainage and passage improvements in Bandra West Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra tenders drainage and passage improvements in Bandra We"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1792305007346",
+          "title": "\"Opposition should participate positively in Parliament\": Shaina NC on Kharge’s letter seeking all-party meet on delimitation - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOamhtSzVtaHZVbWZtNXRPVWZ6MWVQYTRzWWlOS2lDSEl1a29hYUhqb0thS2V4eFN4MGFBVDR5UVpxYzdPQ1A5ZFBiMUVoaDFrVWo3b214a3I5aUxTVnZmUFl2YkpiWWlURmtSLXozTVI4YkgxcklyQTBITktGT0pLOGNMd05XcXBfbHA1RGhSVkItOUg4U0xqRjBYMGl3WDZ5SDVsYktic3VxZFU2TS1QQ29aUFNDMnpwQzhOQXJJdllJMmVCRDVKVGNVMkNJMjRVSUwwQzdLOFVGcUQzWWVFWDhUeF9HY0tlVHhXNmVhQjNXNTUzZTY0YUFiNGh1M0pnVWJCN0piM0ZFQ29xYXJ0d3FlVQ?oc=5",
+          "time": "23h ago",
+          "body": "\"Opposition should participate positively in Parliament\": Shaina NC on Kharge’s letter seeking all-party meet on delimitation  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Opposition should participate positively in Parliament\": Shaina NC on Kharge’s letter seeking all-party meet on delimitation ANI News"
+            ],
+            "tldr": "\"Opposition should participate positively in Parliament\": Shaina NC on Kharge’s "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1792305007346",
+          "title": "'Want to topple govt, but not through democratic means': Fadnavis targets Opposition on ‘regime change’ remark - CatchNews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOTR0TzJLTmpxZ1FuYzViRnQ1ekpiUENQTmZLWmpGcDRMVHJxUF8xYzdwSFR5Mm9LRllwTGpKcmFEZXZqdXFxVm81TlhTMHd2WTFTS1lqc2tydl9RSk14MUNMaGZPZUYwdFJKYTQ4X2hLdUFTbzlpZHMxcFNNdEozVURRSGtmOVcyNHJCRWpBcHdfRTZMN3JxWnF3OEI3bTJ5YVBEVVNZQW5QMGpKQ0dQdnpKeGI0UFo5UjV4bHVWRXk0akVXcTR2MW5pWVAzWEQteDZXWjBpejRvZUs3SVNISGRWVE82TjRiTEhsadIB8gFBVV95cUxNdjdyTXd0dUFjR1JBMU1RZ3FMX0J2NDhDeTkxN3FLamRjR3pZUFhfUXlNQlBtN1RwZXlOU2pvQ3hGMWRqUVpMNjVmRDQydlFoMEtaV2tja2JGdUNRN3NJejNoYlZSZ1VKbk83UEUzS2FWeklFRS0yM2VTclA3OEFSaHVhTF9RbTZwOXhmX3k0WHU3TGQzd3dGY3QxRFhTNjNEeFlOVDRfMXVoMW03SGd1dWpJWVZWcFcyczZnSHE1angwTXF2aTVVNEtzOTBDRTYwMGNhb3JnV3B6Q2V5SHJESmVqaHZYUUxsRkRYSk5wdjZIUQ?oc=5",
+          "time": "23h ago",
+          "body": "'Want to topple govt, but not through democratic means': Fadnavis targets Opposition on ‘regime change’ remark  CatchNews.com",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Want to topple govt, but not through democratic means': Fadnavis targets Opposition on ‘regime change’ remark CatchNews.com"
+            ],
+            "tldr": "'Want to topple govt, but not through democratic means': Fadnavis targets Opposi"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1792305007346",
+          "title": "Government of Maharashtra tenders Portable Container Control Cabin at Kharkopar Railway Station, Ulwe - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVk50Tkg0VW5JREYwdVZ5OU12by12SWsycS16aDRUeFpYY3g5c1JwZG9Gb1FURXJQRTJTcFpTQkU1VG5WWFFpWVdMMUdCX1ZNWHB4Z3l3QV8tSjBJRTQ1TzVNZnNSZGx2NF9YeUJGU1IzUGtoTGE5VTR5T2pkaDNsSzdEMDFFR3h6NHNGWEJqRWdlaUNsRmgw?oc=5",
+          "time": "11h ago",
+          "body": "Government of Maharashtra tenders Portable Container Control Cabin at Kharkopar Railway Station, Ulwe  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra tenders Portable Container Control Cabin at Kharkopar Railway Station, Ulwe Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra tenders Portable Container Control Cabin at Kharkopar "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1792305007346",
+          "title": "Maharashtra forms task force to plan integrated rail, metro and RRTS network - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObzBkenJRUE5vbEdrV2QxZE1BM0JKUi1BS2JwTEo1cmt3Z2JVQ3N5VklhekhFdjdpWXhLWlduU0NIVzlDM1diQUtRQmQyUEVKMWI3YU8tWEI3QmkxTkJ5Rm80UFlVdjdqWmYyZlhYN210NGZfTGd4VDJkdUdvcXZNem9Zbk1oNHlNVjU4dVYxaUFSZlhoZTBaa3hjcklLbkhRTkFGLUJsdzFYWE51NUdDN2U5UHVUNjRsREhlYW5jOHdrOUo0elF6NGdBbWtSbFNmcUxwZ1Y1dS1xSEZpd19J?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra forms task force to plan integrated rail, metro and RRTS network  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra forms task force to plan integrated rail, metro and RRTS network Mid-Day"
+            ],
+            "tldr": "Maharashtra forms task force to plan integrated rail, metro and RRTS network Mid"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1792305007346",
+          "title": "E Ward Flooring Improvement Tender by Government of Maharashtra - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU19VUmUyWnBWenJsd1BQZnhKRVRnOUtuekxEODlCRkRkaHJ5NW56R1dSTndqZnNIaVpnek1fLUx4ek5DYlcxRU12OE41Mk5PTzZfYWpaYkRFZldScHc5LWtfUmpIXzI4V0hXeGhnQ3JEYWhRRmtOdXBBeDF4UW1aZkt5OA?oc=5",
+          "time": "11h ago",
+          "body": "E Ward Flooring Improvement Tender by Government of Maharashtra  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "E Ward Flooring Improvement Tender by Government of Maharashtra Urban Acres"
+            ],
+            "tldr": "E Ward Flooring Improvement Tender by Government of Maharashtra Urban Acres"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1792305007310",
+          "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "17h ago",
+          "body": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times The Economic Times"
+            ],
+            "tldr": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Li"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1792305007310",
+          "title": "Nifty IT’s Record 11.5% Weekly Surge Lifts Sensex 3.11% as Rupee Rebounds; Jio IPO and RBI Tightening Loom Over Markets - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbzc0Y0l1V2JCQzVOZTNfMDV3TDN2UU50TjdPR3o3VFQtaVE4d01VaEJfUWgzTGVjcnE1R2hrYzYtbmlNSXJVZGhkbU1jOVJpT1RyaUg1VFJhYXFjempfS3J6WUZySGhJNy1mbVNvXzlWdXFNd1RVM2tVbWxzOWRDSFowN1lIZTBWRmRhbXhfVHpLUmxnZEh6YUNvQ1ptQzd5X09HalRwZ2NKMm11dEZLTGJRUS1oSlpIYmI5Qm9pMG1OUE9zVnF2ZFptcEx5R296U0dXbHdfS25FVVlVc05zZ3M1NjBUQS1wQnNFb1J1em80azlkcjQxY3dEeEZad2JPUHBCYlNR?oc=5",
+          "time": "20h ago",
+          "body": "Nifty IT’s Record 11.5% Weekly Surge Lifts Sensex 3.11% as Rupee Rebounds; Jio IPO and RBI Tightening Loom Over Markets  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty IT’s Record 11.5% Weekly Surge Lifts Sensex 3.11% as Rupee Rebounds; Jio IPO and RBI Tightening Loom Over Markets HDFC Sky"
+            ],
+            "tldr": "Nifty IT’s Record 11.5% Weekly Surge Lifts Sensex 3.11% as Rupee Rebounds; Jio I"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1792305007310",
+          "title": "Market weekly wrap-up: Sensex, Nifty gain for second week amid stable rupee, IT stock buying - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlZpeWRSTGlMQTk2dTF1UFpwNzBZVUpoWXZ5T0Z0VG9xWS03NHE4elhPNFZGblpGUXVIb3JxQ1RaT0RoQ003VFFOT3R1TGlhUTJUM1M1MXhuLUJCZEYxeFVyVmQtS2J3NUNDRmdpT1JzSkVjNkZIM0R5WVRTWnpOV1BjZU50NDkzZERpS2VKaWdoVGVoUjBnMkREaEdTc01WM3k2aDVjNXRlRTc1NmE4LURQbGhBa3ZqSHVMTGZZai01OUVNYXo0QnhWLUpBaDQ0ZnNBUElkZWlwTGF1bjdXU2NQczFJNW1tWWY2VEpB0gHuAUFVX3lxTE12Vml5ZFJMaUxBOTZ1MXVQWnA3MFlVSmhZdnlPRnRUb3FZLTc0cTh6WE80VkZuWkZRdUhvcnFDVFpPRGhDTTdUUU5PdHVMaWFRMlQzUzUxeG4tQkJkRjF4VXJWZC1LYnc1Q0NGZ2lPUnNKRWM2RkgzRHlZVFNaek5XUGNlTnQ0OTNkRGlLZUppZ2hUZWhSMGcyRERoR1NzTVYzeTZoNWM1dGVFNzU2YTgtRFBsaEFrdmpIdUxMZllqLTU5RU1hejRCeFYtSkFoNDRmc0FQSWRlaXBMYXVuN1dTY1BzMUk1bW1ZZjZUSkE?oc=5",
+          "time": "21h ago",
+          "body": "Market weekly wrap-up: Sensex, Nifty gain for second week amid stable rupee, IT stock buying  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Market weekly wrap-up: Sensex, Nifty gain for second week amid stable rupee, IT stock buying Mid-Day"
+            ],
+            "tldr": "Market weekly wrap-up: Sensex, Nifty gain for second week amid stable rupee, IT "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1792305007310",
+          "title": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUTYxYll4MmtjMWtlZ3ZTMzdvTUdWcFN4amxzTE14bDBZX0RMQUV3eDk0MEt3WWpLSXYzNk9oZTFvcHlhZkgybzJyZGFQOXpvdDdVNGFZMUhKXy1meVppYlJ6Y2NiMmg1dmhiaVVZNHdiU3F2VjhGLVZkcElrQmQ5VmNtRmpJbms1dkg5dm5zV2ZYUDl3SjhPbDNUdEV1aENZV01XRFJ4U05LeTNEQTBmcklheEpfaUJOclMteFV5Q0tGLW5ydXNfUExpQWZIVDFaeUZRSFhYdUo?oc=5",
+          "time": "20h ago",
+          "body": "Why is Stock Market Falling Today? Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why is Stock Market Falling Today?",
+              "Sensex Down 405 Pts, Nifty Below 24,000 Mark | Key Reasons Explained Goodreturns"
+            ],
+            "tldr": "Why is Stock Market Falling Today?"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1792305007310",
+          "title": "Stock market holiday on Dussehra 2026? Are NSE, BSE open or closed for trading on October 20 Tuesday? Calendar - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSzE4OERLdUVCa3NPZWNRTW4yeV8wcjQ5YWZoN3g4SllJYXNfRXdHY21EMWUyYjhkWmVieGpfZ0ROWE5JajlQT2hkT0ZRRlU3T2dieENQREdSTG91by02R3lhZFJMY2VFQlJYb1MtaDV2VW1sTHExUzhVdmhTN2E5Q2hHN09iWWRpUkxZNWtZU3JheXRpRmFvYTFzQlN6NFdERGFVU0p6d1pqM1pRTmtlMzVlM3NFaHJiUnc0NmtTS3Z6R0lIamlmSGZueEVYUEd5WnZqWkhXSzRpSGpfVVROZlhCQ0lfMHptcEdWTUZjbjhTSTFUb193blRPaGR5X1NKYy15Z096ZlfSAY4CQVVfeXFMTk1JV1h1YzV3OHZkQm1PTmUybW9na1F2ZktVdW9YUFJVWDFLZnF0NDNyNWdmMUItWWNCb1ZodkdBQlp1MTRzclI5X0FaWUI2ZFowRng1bEFROC1wMW5OTGlNWFJDUlU4ZER6QU80X1haN05mcFcwZDhudUwzNy15bDFWd2d0LUdhaVN2OWgtYUhLVGdyRWpJVzR1R3lrWDdqajNjdFBOY21YVkJaMzdaQ2gxWS1HRGRUZE45dGFVRXk5THVnWW01SVp2XzBkQTAwMGZHdnhLclA5RFJ6VWhwcnB0Z0tWVnRUeXNJU19hd1FNaXk5YXpBc0w0QXI5bXJFZmhvQ01oaDlTUDFqMjl3?oc=5",
+          "time": "22h ago",
+          "body": "Stock market holiday on Dussehra 2026? Are NSE, BSE open or closed for trading on October 20 Tuesday? Calendar  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock market holiday on Dussehra 2026?",
+              "Are NSE, BSE open or closed for trading on October 20 Tuesday?"
+            ],
+            "tldr": "Stock market holiday on Dussehra 2026?"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1792305007310",
+          "title": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
+          "time": "19h ago",
+          "body": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+            ],
+            "tldr": "BSE Share Price - Live NSE: BSE Stock Price & Chart  Upstox"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1792305007310",
+          "title": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPVUo5WUViSG9TSFl3MFhJU0pGZlJTaWItRUhsR29aTFI0V1NHaFZyR0xHMHc0blBaZzh5eDU4T2IyMm9ZTS1McURGemhRM2NnUzRoV2xlM0xJRUV4emFZQg?oc=5",
+          "time": "9h ago",
+          "body": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE  scanx.trade",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE scanx.trade"
+            ],
+            "tldr": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE scanx.trade"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1792305007310",
+          "title": "Sensex Shoots Up Over 1500 Points, Closes at Three-Week High - Pragativadi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVoyZ0s2enYzaXhfbjFIbUx1VkYtNHIyU2V2WDNBX3VFMm9ZdzNHdVowemxEdVB4XzFFaFh1N184NnREZkR1NmdTWlFxYjlwMW5iZDhTQTZQZlhmVTZmbVQ0N2k4VnQ4S3J3dFVhdG01ZUFqWG4xN2xoUlVONUV1V1FRQUQ5MmdscWNBdg?oc=5",
+          "time": "13h ago",
+          "body": "Sensex Shoots Up Over 1500 Points, Closes at Three-Week High  Pragativadi",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Shoots Up Over 1500 Points, Closes at Three-Week High Pragativadi"
+            ],
+            "tldr": "Sensex Shoots Up Over 1500 Points, Closes at Three-Week High Pragativadi"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1792305007346",
+          "title": "A Bollywood solution to a very Mumbai problem - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZTB2cEg3MTloMVRCblc1emZJZUJDNVlKOUZWc1VRNXVnU19jajZGbFdiNE8zXzJqQjJ4a0dPQWVvaWZzenpvaTFPWWJGSnBmM1QyYjRpTFZwcm91em42aEE2RERabWxzYlhxNnU4ejNuZHVTamcwMURWbThIY2xOZTlpTEJYaGdQU2NUZl9oN3pQQ3d2R3Z3Qm10MW9sUHNGM2wyajJIZGh0djYtcDl4bk5Ca2Y2YlRaZ3JJdk9UYUVoR3Y2Mmk2X2xWY3NnZ0lIRFRUZ0tYZ1lCM1VZMnBoa21kQjNHSzNrbGpoSTBZTVZfVk1qWVNyd1ZaV0pOekHSAf8BQVVfeXFMTmUwdnBINzE5aDFUQm5XNXpmSWVCQzVZSjlGVnNVUTV1Z1NfY2o2RmxXYjRPM18yakIyeGtHT0Flb2lmc3p6b2kxT1liRkpwZjNUMmI0aUxWcHJvdXpuNmhBNkREWm1sc2JYcTZ1OHozbmR1U2pnMDFEVm04SGNsTmU5aUxCWGhnUFNjVGZfaDd6UEN3dkd2d0JtdDFvbFBzRjNsMmoySGRodHY2LXA5eG5OQmtmNmJUWmdySXZPVGFFaEd2NjJpNl9sVmNzZ2dJSERUVGdLWGdZQjNVWTJwaGttZEIzR0sza2xqaEkwWU1WX1ZNallTcndWWldKTnpB?oc=5",
+          "time": "3h ago",
+          "body": "A Bollywood solution to a very Mumbai problem  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A Bollywood solution to a very Mumbai problem  Mid-Day"
+            ],
+            "tldr": "A Bollywood solution to a very Mumbai problem  Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1792305007346",
+          "title": "'Leave India': Imran Khan moves Bombay HC against 'illegal, bad in law' notice by Mumbai police - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZXplZTFtX3E4VWtCZS16dGlRTnplSWZfY2VQUjFDVUlYd1pkdDBHY1kycjVUOUY4V29Oa3liLVEwWXVXYXdnVU1pVXlYdGJHNlhZWWtHWHZKbUk3ZnMtZFQtTHlKZWwyZWhmVklFZHdXV1lVa3hsUnpvS2lUVldqU1FHSWZzRzdkZmdlQ1d2WXozUnRsaGVlS2RvSEZnRWQwNWJsamdFSnRpa00tN1NDbHh0aGpWQThDZFE3ZU5aSWtPZnJuV2xWdDdXaWdnUm9LUlQteUVCUWttcVNzYTZ6XzVfTXVhY1RzWXFsRkVJQQ?oc=5",
+          "time": "16h ago",
+          "body": "'Leave India': Imran Khan moves Bombay HC against 'illegal, bad in law' notice by Mumbai police  Deccan Herald",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Leave India': Imran Khan moves Bombay HC against 'illegal, bad in law' notice by Mumbai police Deccan Herald"
+            ],
+            "tldr": "'Leave India': Imran Khan moves Bombay HC against 'illegal, bad in law' notice b"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1792305008603",
+          "title": "Beyond AI: IndusGuru Data Shows What Technology Skills Indian Companies Are Hiring For - Outlook Business",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTllKTk1pOGZHWDR3V25PTWF0LWZqSmxGemNfZFF5Qm9KWDRNZmNEN1dwR0psZFlheExLLXl0MlN4emtBblpKbHlRdHYyeExFYUQwUlIwcjd5RVdubHduOWdwR3BER0duNmd5TlY4bUlaVHd5MVBGa08yV2dxWTZyRENtOGhpcUlMMDMxeUNGaGE1VDZrWDVudWNFbkRrRkk3RW1KaHNHNjUzZ3VBUDViREdKc1NSLWtWRGc5bUNtaGF1MFItSkZCWW5oX1gtZnloenJZ0gHgAUFVX3lxTE5GT0ZYdjloWDhKWkZTU1VWWFVUNktLZ2JreU10YV9qYUgwTm5kRVVhd3hUN2pfRmd4MHNmVWdKbFE2SUJCYUIxN0VDOE94dG04c3BZN3J2NVJKeERfUFJxS3lrelB6U1RuTHhLcjZLZFhNb0l2R211WXBNcFZvVVRyXzBtdzR2dTlxVUNOYmhTMFhzVWVrSnhaRzNoTENKRkRLeVhYRFRNY0JIYjRfUmstWi1sRk5qWm82Q0F3WlV5bDZBSGFHbnhEVUl0ZE1RX2xzZjZsSkNnWHlqTWVPZkZM?oc=5",
+          "time": "18h ago",
+          "body": "Beyond AI: IndusGuru Data Shows What Technology Skills Indian Companies Are Hiring For  Outlook Business",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Beyond AI: IndusGuru Data Shows What Technology Skills Indian Companies Are Hiring For Outlook Business"
+            ],
+            "tldr": "Beyond AI: IndusGuru Data Shows What Technology Skills Indian Companies Are Hiri"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1792305008603",
+          "title": "Madhuri Mhamankar Appointed Chief People Officer at TeraNova Data Centers - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1c2MHg5VTAtSGo4UGxKUnFZdGVrcWxQaG5rVFcxUkR4bEJWSFpRR2FBWXBJU3VtRmRITFl4VDZyX2p0WGJtcnU5UWFVc2ZaNWRBUlFjTXhBM25PTmx6anFnV1JPSi00UVB2bFE2ay1tUnpnQ1VlT3R3dHZxTzRCTUcxWGxoaWo3RXUzUlhiM1dDX2VaenlhNQ?oc=5",
+          "time": "20h ago",
+          "body": "Madhuri Mhamankar Appointed Chief People Officer at TeraNova Data Centers  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Madhuri Mhamankar Appointed Chief People Officer at TeraNova Data Centers https://hrtoday.in/"
+            ],
+            "tldr": "Madhuri Mhamankar Appointed Chief People Officer at TeraNova Data Centers https:"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1792305008603",
+          "title": "ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integration of Ayurveda and Artificial Intelligence - India Education Diary",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWjdTNTM0TE0yTE8xNTBXZXhoZVFDQ2IyeW05QnNKYWhlZHNmNEc2VWhoVkh2NGJqOE5yTmFySjIzMjNPTkl5c1hpUnJ4QXhYUnNqa3hyLWtvLWtvU0JSTWdKcEpFbGVORnp4dG9jeWcyUE1VZzRNbzRHcmM0YWJZYmYyY040X3VPcW5fbm5McUdVcWNzTFYzUnJOaVhjaEFQODltM040d0hQWE1hT2dldzlWaUlSQlp1LTVsU3V5dDVJV09HNXo1NUNDekJ1N0lTSXpHaklPWUpLeUUtWWQ1SlBzRkQtZ19vdFE?oc=5",
+          "time": "19h ago",
+          "body": "ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integration of Ayurveda and Artificial Intelligence  India Education Diary",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integration of Ayurveda and Artificial Intelligence India Education Diary"
+            ],
+            "tldr": "ITRA Jamnagar Hosts National Conference “Ayu-Tech Navonmesh 2026” on the Integra"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1792305008878",
+          "title": "Mahela Jayawardene out! Mumbai Indians look for new head coach ahead of IPL 2027 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWS1MaVdza2VZXzVmV3dHT1hTME9lWWNkNktvWnowYTJOMk55WFFfeFQ5cm1hQTBaYTk4cW9mT0VLeF81ay1mdEIzY3J3YzBzeVlvUkswSlN6ZmY5c3FxQ1YtbW5RWkJ6a2tPaDJEZ0VBeml1Q3VNNUNSd0owLVBOQ1p2UGJjN2ZmbW8tY1NVaVJ0RkVXN2tFSUJiODRIdGhyWEt4Q3ZZdDVaYlV2OWhxS3lVbWpubFBPUElYeHpFMWZrV3paTVhmbFg0ZU83dHFoVU02TUtGM2d5TGJKc19QeFdmWlhCZVlWYW4ycVVPV2FxSknSAfgBQVVfeXFMUEoyRnBCNHBWQjE3WHR4SkRhY0x5ZGRua18wSEFpaWhJTjBtdkw1eHZfYkVQQm5yVEMtN1FEYkFzLVVqRkozeTBTenRQVVl3V1Z2SGtEU29mU2ViRDV2OU5VVndqcm42ZjRPTlJnQWtwcUFtY3Q1dzV4cW5vY0VFOHhha3ZKb0tUMU5BOFpCTE1LUnV1dEpFaFczbjdHaGJVNlRPN2ZVSjNmQkdlUW8xX0ZfR3ZPQ0MybE5leFNDRVZhRVBGNGFjOE1pYmlqdFBlRmh5MTE3TDBBLTdLR0x6SEI3NklHYzd1MEVDQldHYWFQZ3dQNUNzY1A?oc=5",
+          "time": "3h ago",
+          "body": "Mahela Jayawardene out! Mumbai Indians look for new head coach ahead of IPL 2027  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mahela Jayawardene out!",
+              "Mumbai Indians look for new head coach ahead of IPL 2027 The Times of India"
+            ],
+            "tldr": "Mahela Jayawardene out!"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1792305008878",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "15h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1792305008878",
+          "title": "Who will replace Mahela Jayawardene as Mumbai Indians coach? - www.sportingnews.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa1VUSzFvNE4ybFVXa3lfbHJ4aDRhbVV6c00taXRXZ29Fc0dzQ3I4OFBicEhvUFJSWDJsaERDN1FQMEZOUGxqUGJoWmNadnYzSVNmMF9kLUtQRnVtUHJLUzE3OTZHNzdwT2FPZjd2aXo4bEZzS3Vfd3BsV29sTjVvXzZGN0lscm04VkpxNGVLVGc5M01pb09HN0x3c2YyQ0g5M0xPT1QtUTBaMlV3M083X1A5OXctZk1NY0Q0V0x3?oc=5",
+          "time": "Just now",
+          "body": "Who will replace Mahela Jayawardene as Mumbai Indians coach?  www.sportingnews.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Who will replace Mahela Jayawardene as Mumbai Indians coach? www.sportingnews.com"
+            ],
+            "tldr": "Who will replace Mahela Jayawardene as Mumbai Indians coach? www.sportingnews.co"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1792305008878",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "3h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1792305008878",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "17h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1792305008878",
+          "title": "When is IPL auction? Date, venue, rules for the Indian Premier League 2027 mini-auction - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN295VThXLTYzTlUwbEU0RGNDZUtvenRrbDY4aTJhbXJsTW9sb3ZpR0RiaS1maGgwT196b3kyNW1MSDF3RUdNX29XYnYxczV5UkNyRGloOEZlb1FaUEwxSWdKUnZlX2l1ZzMyekFCdFlaXzQ3NjkzWTJWNG12ajE0Nk9RZw?oc=5",
+          "time": "Just now",
+          "body": "When is IPL auction? Date, venue, rules for the Indian Premier League 2027 mini-auction  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Date, venue, rules for the Indian Premier League 2027 mini-auction Yahoo Sports"
+            ],
+            "tldr": "Date, venue, rules for the Indian Premier League 2027 mini-auction Yahoo Sports"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1792305008879",
+          "title": "IPL 2027: Yuvraj Singh, Sourav Ganguly and Zaheer Khan lead coaching shake-up - The National",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHZ4N1R2cFY5anY4QjdxY1lrckVNUTB1QjgzQVZBV1ZYS3M3R3RsTGpLeFF2ZGtoeXlnc0pQMFZvTFpWOTBXVnlKUnJfQkNYcGVJRkoxQmJzZkZVamg1MlctMzBlSXJ2ZU1YUEEyLWZtOUFIaFE3SWNfT1RQN1Jyank0V1pscl9DR1cyQnEyTDBIdnZYdGE4R0NBVmx3dDE2U2MtbkM0SUxCRkFINVExZWhhXzkzMVd3X2lCVmZOSExSQzZUd2NMalVHbExIZw?oc=5",
+          "time": "2h ago",
+          "body": "IPL 2027: Yuvraj Singh, Sourav Ganguly and Zaheer Khan lead coaching shake-up  The National",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Yuvraj Singh, Sourav Ganguly and Zaheer Khan lead coaching shake-up The National"
+            ],
+            "tldr": "IPL 2027: Yuvraj Singh, Sourav Ganguly and Zaheer Khan lead coaching shake-up Th"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1792305008879",
+          "title": "MI begin rebuild with Mahela Jayawardene exit as Rohit Sharma captaincy buzz grows - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmJhOHc4ZG9ORktJYTdaZVhCR1h2U2EzXy1IcXNXbXZxM2pKbzlTQXJlT2FOSjJWcEd2bDJGUnc1MTRwOElkdnQ3V0ZHTGNWbFA0X0dSVDFkTkUxTGlIa0REVURsZVdrc29HMklOWEVmRlkya3Q1eW5WWlU0aWtWWFZJOUFxQW1uMmRoLWJNSHVsX0pCWW0yZWR4TTBYVGZEcmpwa0Q1UUFVMlV4NDVxT3ZqdjgwMXptZUJZWTlRR2hrQUnSAcgBQVVfeXFMUGpiUDV0VjZwQXJhRWJBTE1nenl4RXB2TE54WHBsc180eWdocGF5ZEYtLTByM1NvM0lyNlhLTXAtb0lwdk1IaWw1YUVoZmxTbWcxajBkZ25PX0ExNUw0dTlPT29QMWFaMjB4cnZDM2RyRG5lY185SDhFZXhMZFl3UzhudWQ0TkVOTjA1d0lTc3NxSU00RTFYQ2pHTlRYUGMyU3VXdlR0WV9DNldvdlRDM3gzakZsdXBveXI4bGZKdmlveHphOW1GTUI?oc=5",
+          "time": "23h ago",
+          "body": "MI begin rebuild with Mahela Jayawardene exit as Rohit Sharma captaincy buzz grows  India Today",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI begin rebuild with Mahela Jayawardene exit as Rohit Sharma captaincy buzz grows India Today"
+            ],
+            "tldr": "MI begin rebuild with Mahela Jayawardene exit as Rohit Sharma captaincy buzz gro"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1792305011116",
+          "title": "PCB snubs Michael Atherton, Nasser Hussain after Imran Khan interview controversy",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "The Pakistan Cricket Board has announced a commentary panel of six for the upcoming men's ODI tri-series. Notably, renowned commentators Michael Atherton and Nasser Hussain will be missing after a controversial interview on Imran Khan's prison health caused a stir. The matches between Pakistan, England, and Sri Lanka will take place from October 18 to October 31, with coverage from former international players at venues in Rawalpindi and Lahore.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Pakistan Cricket Board has announced a commentary panel of six for the upcoming men's ODI tri-series.",
+              "Notably, renowned commentators Michael Atherton and Nasser Hussain will be missing after a controversial interview on Imran Khan's prison health caused a stir.",
+              "The matches between Pakistan, England, and Sri Lanka will take place from October 18 to October 31, with coverage from former international players at venues in Rawalpindi and Lahore."
+            ],
+            "tldr": "The Pakistan Cricket Board has announced a commentary panel of six for the upcom"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1792305011116",
+          "title": "‘Unfair’ treatment of Kuldeep Yadav? Ashwin fears another benching on NZ tour",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Ravichandran Ashwin voices his disappointment over Kuldeep Yadav's exclusion from the Indian cricket team, arguing that a single bowler shouldn't bear the brunt of criticism when conditions are tough. He predicts that Varun Chakravarthy may be favored for the New Zealand series instead of Kuldeep. Ashwin raises concerns about India prioritizing batting strength over specialized bowlers, stressing the importance of having real wicket-takers if four seamers are in play.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ravichandran Ashwin voices his disappointment over Kuldeep Yadav's exclusion from the Indian cricket team, arguing that a single bowler shouldn't bear the brunt of criticism when conditions are tough.",
+              "He predicts that Varun Chakravarthy may be favored for the New Zealand series instead of Kuldeep.",
+              "Ashwin raises concerns about India prioritizing batting strength over specialized bowlers, stressing the importance of having real wicket-takers if four seamers are in play."
+            ],
+            "tldr": "Ravichandran Ashwin voices his disappointment over Kuldeep Yadav's exclusion fro"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1792305011116",
+          "title": "Chris Woakes autobiography: Former England seamer slams Rob Key over 'shabby' exit",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "Woakes, who played 217 international matches for England across formats, including 62 Tests, made his final red-ball appearance during the fifth Test against India at The Oval in August 2025. Despite dislocating his shoulder while fielding, he came out to bat in a bid to help his team.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Woakes, who played 217 international matches for England across formats, including 62 Tests, made his final red-ball appearance during the fifth Test against India at The Oval in August 2025.",
+              "Despite dislocating his shoulder while fielding, he came out to bat in a bid to help his team."
+            ],
+            "tldr": "Woakes, who played 217 international matches for England across formats, includi"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1792305010067",
+          "title": "MMRDA Rules Out Major Alignment Changes To Thane Coastal Road Phase II, Cites Traffic Decongestion And - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQckFJSWthd1JIVFNGV0laMXNncDJ3T2hMSEhoQ1hsaWZ6SmgyNERRVkk3VlRja0pDWWQ5VTRQdkJEUWpQc25RSlo2eUVZT0FkVkhQMWdyZWp0R2o4RWxhVVdVR0MySEtfVTkzU242emlpT25RMXdNb1lnNVZET3pYYlJ6ajIwWDgxR2VhQTNyMklLOXExdGxzZmR1Mi1GUTVMdEJUWlg0SmRDN2Y2Z1ZqQ3UtNnljQ3FKZ2pMZjVCckJpU0szN3FldDRZOE9kR2VoQjRLVTlWMGdMc1FMMFp1TW1zMzV4QkV3aG0ySnM4MEFHQnZvV2ttLVlUcGtUQUFNRVhjRNIBigJBVV95cUxQdDVVbXNTTjNiNTVRcjdoRS1lT3RBNms2dzFkWnkyd2FKTzcxeDZLRjY2WEcwbjlXTXJKcXlfLWlpS1BJQmhxOUZpT2t4eERaNENDUDdaVnVGTlV1bURmOXZWZDdKbXF5VTIyVHliTGZHWEo3bFZ5WGwxWmlMOUEyQnR1RWQ4X3ZSc3VBbHBWdFpxRUh6dTVoOWxTWWpLLVZQcV9kXzE4cXhwSlZqR1pQOTJvXzI0YWpNZlRMNmx0bVVQd3doQTg5VVZqYmhIQTJwdTFOdUVpQV9qaVdfUnlVdjJNbXdIR0MxUVFLNEU0aDdNNUdERmxUVmVpdldpMmNUUmhFMXU5dHJodw?oc=5",
+          "time": "23h ago",
+          "body": "MMRDA Rules Out Major Alignment Changes To Thane Coastal Road Phase II, Cites Traffic Decongestion And  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MMRDA Rules Out Major Alignment Changes To Thane Coastal Road Phase II, Cites Traffic Decongestion And Free Press Journal"
+            ],
+            "tldr": "MMRDA Rules Out Major Alignment Changes To Thane Coastal Road Phase II, Cites Tr"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1792305009958",
+          "title": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]"
+            ],
+            "tldr": "Indian-origin engineering manager says H-1Bs included equal share of Indians and"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1792305009958",
+          "title": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]"
+            ],
+            "tldr": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temp"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1792305009958",
+          "title": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return.",
+              "Redditors say.... [object Object]"
+            ],
+            "tldr": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if no"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1792305009958",
+          "title": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative?",
+              "Beg them to allow us to stay?'. [object Object]"
+            ],
+            "tldr": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed m"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1792305009958",
+          "title": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Chicago killed estranged wife who was dating another man; t"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1792305009958",
+          "title": "The ABCD of US politics: American-born Combative Desis face MAGA heat",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]"
+            ],
+            "tldr": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object O"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1792305009958",
+          "title": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin US Army veteran made cousin do household chores, confiscated immigration papers, punished through physical abuse, sleep deprivation. [object Object]"
+            ],
+            "tldr": "Indian-origin US Army veteran made cousin do household chores, confiscated immig"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1792305011368",
+          "title": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil - Indian Cooperative",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWlpOaFkwNzJVVF9DY05iUmhCQXdpbWpzN251Z3J2NkdjYnVBQm9oa0hSNUR2ejlTLUVrLXVfdkpHOVo0cUwycGR4SVkzWmIwMUg2ck1hNmt0OWxRWVg1bXFwbjdVZ1pXckg0enplODdXNEswQkZ4YnRaZzRBb1d2bkgtVmlHaFJ0SnhLU3BLQ2k3ajVvd05VRFdEUFg3TGFhQ1FjQnFJa0FLdVR0OXE2Q3NGeHBZR2Faend6aWhyZ0pvRklzSkZ1VHlNV1Qxc00?oc=5",
+          "time": "2h ago",
+          "body": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil  Indian Cooperative",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil Indian Cooperative"
+            ],
+            "tldr": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Pati"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1792305011368",
+          "title": "Audi launches new Q3 in India at ₹51.99 lakh, adds digital cockpit - ET Auto",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSE92QkpsSmFad1RkcUNKVWdwXzFmTmJhQXZxV0FMZ3JvRy1ENmdjQUNhdXhqUkpxRDdjNUs5RVl0Y2VZeUlHWGVUeEJQN21XNFExaVFzQS1PVkRlMFFFVWo1ZzBTb3ZodDItSnJyUm9hSDl2aFRiU0pGcHdjbnlFMmRkZ2hEQW9PamR4UnNMSEVzWlBneldpTGgtbzBfazAyR2VBb3J5SWdHTHM5Zzk0d2UwRFNKOTVQMkt1VndFMDI5eEF6a09UQU41OHpBajZ6LURacUFB0gHbAUFVX3lxTE1rQjVTWjdad2NjRUNMbEplS2dUUGNtT1Fxa0Y5ZTBPMVZzOTVNNC1MS3BqdUVJR1NCVFFENXVLakdvOXVmaG1SUEtidkRMa1JNYnlwLUlMem5JVm9TeFJNVE8xQXEzTnl1eVE3OHJOOVFRdFJYX0RZc19BZV9RYU5ZdFBvRnRNamUtNS13S042OWlMUUJSUmdGOWFMaVdPMU1iSjlMNnJ0bVh1VWgtM0I0Wk9GZUtaLS1acEh1enI1LTkxTUR2NGw4N3ZBSy15T0lMZ3hUdDdFRjdnMA?oc=5",
+          "time": "18h ago",
+          "body": "Audi launches new Q3 in India at ₹51.99 lakh, adds digital cockpit  ET Auto",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Audi launches new Q3 in India at ₹51.99 lakh, adds digital cockpit ET Auto"
+            ],
+            "tldr": "Audi launches new Q3 in India at ₹51.99 lakh, adds digital cockpit ET Auto"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1792305011368",
+          "title": "CJP activist Abhijeet Dipke granted conditional bail after arrest in ‘Lehra Do Tiranga’ rally case - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPblpMMFg4V1Z4RnlkeF9mMGR0Y1lrb2hwajRURTI3S1RySThQWGppSmk3aGxUR3FTS1BMdkRWUUpudmNoelBIaGdrbi1tOEhjWC1ON1RaWGx0ZldnMkFoNndlVEw3VXNlMXotLTI0REtoTU0yTDgyNmNaY0hvelR0QVgtYzFRRFlYTjlUazNxaGg0Q2Jjb1lGbEdVSFc3VWRPekF5UHlvbWlNU0MwTHJaRU5fR1Z2Y29RcWNTVHdJQl9NbjhKRHZEUQ?oc=5",
+          "time": "15h ago",
+          "body": "CJP activist Abhijeet Dipke granted conditional bail after arrest in ‘Lehra Do Tiranga’ rally case  The News Mill",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP activist Abhijeet Dipke granted conditional bail after arrest in ‘Lehra Do Tiranga’ rally case The News Mill"
+            ],
+            "tldr": "CJP activist Abhijeet Dipke granted conditional bail after arrest in ‘Lehra Do T"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1792305011368",
+          "title": "Farmer sends money order of Rs 5,000 to Maharashtra CM Fadnavis over 'paltry' interim aid by government - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOanZ3QTBDWUxWZXg1NU1hT2cxM0hjQzk2VXY3Ynh5MkY0QjYwTDNCbzlPRURHazFhRGhRN2VDelg3QVFMd3I5V1VmR0RZcV96S1BMS24wY0RKOE5UcnF6N2J5X2tIRFJUclJHWURXZFM1UHA3cF85QkR3bUc5YzQ2NldzX3NnczZuZXlzZlpZTVFiTGZlX1F2SjZwbnIwc2pJZEJ1aXo0SEkycWE1T3VGNnJDLVFmNzZ5QUY5Q2NsNllfMlE5RmFTMGw5UFZfWTMyUWREVUZsSURsQV9Hd3daMER0SVhicFVDbm1XZUs5SGR1a1l5V0840gGEAkFVX3lxTE5CMzY2YU9lRWY0N3RNdGQySkFxV0IxQ1lJaG85UUswVDNTa2M0Nk5YcWlxWEpGbmZxeHlac1Q4SlFXM3RkU1owdkVVaDd2blBmYjRHbjd5aEFudFpkaTJpRDNWQkFBSnR1dnFOTkhxeFZOSEFlUHZURnFpbDBoWEVOSjhiYWNQMHlFOHJHVV9vbm5UY015TjFKVEpoNW5jZ2pzS0NXVXpnbnBPZW14U0poS01kdkMtcFVPYnVNM3NnQkpDMm44V1hHT0M4ckVyaVI2M0FhWm1uWWFaQ1BmN2pyU184bEdvdjZjNzhhcGtfaHZTTkctbVZDSFdWdzJtZ1ZfcWlz?oc=5",
+          "time": "22h ago",
+          "body": "Farmer sends money order of Rs 5,000 to Maharashtra CM Fadnavis over 'paltry' interim aid by government  The New Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Farmer sends money order of Rs 5,000 to Maharashtra CM Fadnavis over 'paltry' interim aid by government The New Indian Express"
+            ],
+            "tldr": "Farmer sends money order of Rs 5,000 to Maharashtra CM Fadnavis over 'paltry' in"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1792305011368",
+          "title": "\"Relieved after news of his bail\": Abhijeet Dipke's mother after CJP activist granted conditional bail - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYi13QnJzWjlWX2M1c050Y3FyOS00SDhaWnJjSkdrclRIUWdUTktEaDZYQzFRTDJJQUFqOTVOS1dYYldsZUtPLUpkUms4NTRHbHA5eTFYVm5uczVfVkFJVWpCZTNhTXp6THRpVlV4UE9USFIzWUlKN3RmbU4zdTZRLXRPUTJyWWNTTnRtYnllaEtweWx5OTQ1MUkzN1htNWoxRzA4ZzJPOEpnVmhCV0ZVRnhxbjBnVUdOM2VwdERMdS1kRW5BbU5BQWxUdmdJUGk2NlE?oc=5",
+          "time": "19h ago",
+          "body": "\"Relieved after news of his bail\": Abhijeet Dipke's mother after CJP activist granted conditional bail  https://www.indiagazette.com/",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "\"Relieved after news of his bail\": Abhijeet Dipke's mother after CJP activist granted conditional bail https://www.indiagazette.com/"
+            ],
+            "tldr": "\"Relieved after news of his bail\": Abhijeet Dipke's mother after CJP activist gr"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1792305011369",
+          "title": "The PM-SETU Scheme - INSIGHTS IAS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVOXNJWFFzVWtqaUo0WWtnaWhHeU9sQUNkMXVDSWx6ZUlBemNRQmo2R1RoTUhaSUpYMUdjdDZoakl6ZGlHQ3FyWjRLSldhcGlNQTctcUx3RFdUWEJpZjM1Qm9UbzQxTnRyTXZucDdlSQ?oc=5",
+          "time": "21h ago",
+          "body": "The PM-SETU Scheme - INSIGHTS IAS. The PM-SETU Scheme  INSIGHTS IAS",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "The PM-SETU Scheme - INSIGHTS IAS.",
+              "The PM-SETU Scheme INSIGHTS IAS"
+            ],
+            "tldr": "The PM-SETU Scheme - INSIGHTS IAS."
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1792305011369",
+          "title": "Maharashtra drought: Farmer sends money order of ₹5,000 to CM over ‘paltry’ interim aid by govt. - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbXpFeXQ4cWNFLTV1RnMtVEtGODFpZG10WEZOcWdfZUxjRk1mMWdsV21JOU5NMVRkOV9tdWE1T3FYQllnR3RiWkpiUW1wWU1hY2ZjTjhfTy1wanlWMHlHeVNBb2czS2x2RmtEcmFCX09aQlNNTkl2Wkx5dm00aFNHOHRaVzFyMEhtd3dFYnBJMmM0TzN3RkNLeTk4X0FHZkdqR3JxQmQtX3otSW1qdDlmS2g0WTk5SmNVTlRtSGFQaXFOZDMtS0F2MGFScEszSHA1WlNLNFlJYm53N3JlcEpDS0xKMGdRVVBPbzMtRS1uUTcxTDdFdXNZd2xB0gH6AUFVX3lxTFBtekV5dDhxY0UtNXVGcy1US0Y4MWlkbXRYRk5xZ19lTGNGTWYxZ2xXbUk5Tk0xVGQ5X211YTVPcVhCWWdHdGJaSmJRbXBZTWFjZmNOOF9PLXBqeVYweUd5U0FvZzNLbHZGa0RyYUJfT1pCU01OSXZaTHl2bTRoU0c4dFpXMXIwSG13d0VicEkyYzRPM3dGQ0t5OThfQUdmR2pHcnFCZC1fei1JbWp0OWZLaDRZOTlKY1VOVG1IYVBpcU5kMy1LQXYwYVJwSzNIcDVaU0s0WUlibnc3cmVwSkNLTEowZ1FVUE9vMy1FLW5RNzFMN0V1c1l3bEE?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra drought: Farmer sends money order of ₹5,000 to CM over ‘paltry’ interim aid by govt.  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra drought: Farmer sends money order of ₹5,000 to CM over ‘paltry’ interim aid by govt."
+            ],
+            "tldr": "Maharashtra drought: Farmer sends money order of ₹5,000 to CM over ‘paltry’ inte"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1792305011369",
+          "title": "New Audi Q3 Launch Price Rs 51.99 L - 204 bhp, 320 Nm, AWD, No 360 Cam - RushLane",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmtVZlNNRGhrWDk5T1gwQnl0eEhwa09qRXJTenVSZC1HMk85X0JaZlhkSGRwcUVia2RBYk5RalR0SWx4TTBsNXVzV2ZaRVpoNjdUWjJBTXhkQ2J0S3hKUU9RamZNbVFaSVlOdjd1RlYyT3ptZWJYVVVfTWlrSFY3RjdIRmg5UkJfTTBmTmtSMkpDNG5BNFVQSmhNd3JNQTFDWHprcmc0d9IBpwFBVV95cUxQcmtVZlNNRGhrWDk5T1gwQnl0eEhwa09qRXJTenVSZC1HMk85X0JaZlhkSGRwcUVia2RBYk5RalR0SWx4TTBsNXVzV2ZaRVpoNjdUWjJBTXhkQ2J0S3hKUU9RamZNbVFaSVlOdjd1RlYyT3ptZWJYVVVfTWlrSFY3RjdIRmg5UkJfTTBmTmtSMkpDNG5BNFVQSmhNd3JNQTFDWHprcmc0dw?oc=5",
+          "time": "19h ago",
+          "body": "New Audi Q3 Launch Price Rs 51.99 L - 204 bhp, 320 Nm, AWD, No 360 Cam  RushLane",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "New Audi Q3 Launch Price Rs 51.99 L - 204 bhp, 320 Nm, AWD, No 360 Cam RushLane"
+            ],
+            "tldr": "New Audi Q3 Launch Price Rs 51.99 L - 204 bhp, 320 Nm, AWD, No 360 Cam RushLane"
+          }
+        }
+      ]
+    }
+  }
+}
