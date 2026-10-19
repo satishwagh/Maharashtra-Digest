@@ -1,0 +1,797 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T06:41:58.793Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1792392113067",
+          "title": "Sanjay Raut accuses Maharashtra government of 'jungle raj' after Tiger Shroff firing incident, demands change in regime - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZmhqN2IzOXZMOTZOSHk1ZndGeDRfNmxRbjMyRmJoQzdOaGd1YXhCdUF5dUdCaVk0ZngyOGh4YkRlTDllQVBpeFRGZ0NNdHRmZktCQVNpaU5SZnotb1hrOHM1TXhjbFh2ZERxNkVLNnpJck9oX2RqcDZfSWZfOHVnVVQybjE5cWRDTGtDLWJGOVhFNTNNQWg1dnF3X1ZTNFY3aUxDY0gwcHNHUVpsdWRrVDc0cnB5aWRzRkNjWUxsQk0tMFBmSV8ybjQ5QmRDbW5xR2ltWTVaSXltV3RkUWFmcmpYSDhpaUczTUR5VV9nemhOZw?oc=5",
+          "time": "5h ago",
+          "body": "Sanjay Raut accuses Maharashtra government of 'jungle raj' after Tiger Shroff firing incident, demands change in regime  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sanjay Raut accuses Maharashtra government of 'jungle raj' after Tiger Shroff firing incident, demands change in regime https://www.indiagazette.com/"
+            ],
+            "tldr": "Sanjay Raut accuses Maharashtra government of 'jungle raj' after Tiger Shroff fi"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1792392113067",
+          "title": "Video | Tiger Shroff Shooting Triggers Political Blame Game, Oppn Questions Maharashtra's Law And Order - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzlPSzEwY1dyOUw0RnAyM2dCc3U2SzF1all2R2NMZ0RiblhpbU05ejdzdTBHNlFGdVF6dlFiUkhIbEdBSVk0dVRaOS1ndEYyR2FFTm1WR3VNSHhlbzVGajJ0ZkVnVHVseUh2bnBfdFRfcWx0cEI3MHVhblZiOEtQWG9EcGxTYWlDTzNFc04wY08wWVVsZmVoUXdOaldVT2JGOHpJQkhVLTc5am16ODdJeHJSeGFNTUF2cmdsN0d6Y3ZXT3hIb0hFUQ?oc=5",
+          "time": "5h ago",
+          "body": "Video | Tiger Shroff Shooting Triggers Political Blame Game, Oppn Questions Maharashtra's Law And Order  NDTV",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Video | Tiger Shroff Shooting Triggers Political Blame Game, Oppn Questions Maharashtra's Law And Order NDTV"
+            ],
+            "tldr": "Video | Tiger Shroff Shooting Triggers Political Blame Game, Oppn Questions Maha"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1792392113067",
+          "title": "Maharashtra Govt Vows Strict Action After Tiger Shroff Firing - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZktEcmVNN1UwVEJ3VE40LWV1cS14N0pvbWlTU3J2a0FXZnc4S1QwbFp0d21ubEkzZkdOVUNJVXhPcXVGMzBCYzdXd2x5anhlZ1MwQS1hS2F5a3U5d25NYnhDWVVzM1l1dVd5b25YdG0yQ0Zwd1lVbGtUTThjVkNyMFdTcjdGUTI0bGJiYnVVTXo2MTVGWmdScWlPbjB1S09MWnc40gGmAUFVX3lxTE9FNlAtY2x1dVk1Wmwyd2I2NUdNZ0VqM0gtWGs2b3JZcFZCMzBvcFVxN21aN3VfSEZOdlZmS1lNLV9XbnN4YmRqSFBUdzJraFdKY2MtRWtMNXdvM09zZ2t1N3pjQ1VqRS1oMzhzdTI2bjNFZjNvbTlBUF9fdWN6TENCdXV5NHBZUHJJT3IwSlZMc0ZsT3FmLU1zdWJrTHlMeXY4UHZtX1E?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Govt Vows Strict Action After Tiger Shroff Firing  Rediff",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt Vows Strict Action After Tiger Shroff Firing Rediff"
+            ],
+            "tldr": "Maharashtra Govt Vows Strict Action After Tiger Shroff Firing Rediff"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1792392113067",
+          "title": "Firing at Tiger Shroff’s car: Opposition attacks Maharashtra govt over law and order - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRWxTWThUVGw0TTRwSXk2YXFBRWhjbkpTY1ViVUF6RjgybjlITFAzcGgyOTZFMnl2MzF5NzhlU0l5MnB1SmczRm0xcXh4anZPUGs0NmJSV1BidW9yS1owSTVPSXBxVWNwZ1AxQ2pIOVBfYzNkUjVFcENid01CLVdIbEw2d3VFUlpQUU9nZHlmcXBHNFNIVk1MS1BTcmc2eGhZWU1mbjZHckRTZUg1dGlNc081M05mb2JDQXU00gHAAUFVX3lxTE91Q1dwYkQ4XzJTNnhMU281THNlc04yMVJCTDAyQ2lIYTVWNVhSOFdwam43T3ctbjd2d2tZb3BCbVdNS0xiQkRHODBZYUtnRkpxc0hlVlVCcTZtOE56SkN3d0diSnQ3clkyeTRjUHI1ZFRhY1R0YXBKTFcybXJIY0JfNDBINjFZNFpfNnBpeEZ6dFA3UGFVWnNZaHpDbG52S09HSjdEbWs1RGdRTTF5QjNzNHk1VlFXNDhENEhVck5wNA?oc=5",
+          "time": "14h ago",
+          "body": "Firing at Tiger Shroff’s car: Opposition attacks Maharashtra govt over law and order  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Firing at Tiger Shroff’s car: Opposition attacks Maharashtra govt over law and order ThePrint"
+            ],
+            "tldr": "Firing at Tiger Shroff’s car: Opposition attacks Maharashtra govt over law and o"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1792392113067",
+          "title": "Tiger Shroff firing puts Fadnavis under Opposition fire over Maharashtra's law and order - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQemhDd2pJOFdtRlBocjBNYXBPaGFYNDdFUHNWY1hUTXBGTGxxNEJXYzZOc3JPQmpGN29sTEc2bEx1OUZTSnFESXZtTzEtYml0RFRjTTMzelZ3OXFaWE1DckppRnFfWV8yVHM4RVB6X3dPRnV1VzFtRzVLZHdUaWRvYWttVzN2bGljVzA3bU5YR21IaWZPV1N4Z3VEbXFSOWVnU2VEUm9HRVpzanYwbDNGZ1pyUGx0Q2dKeXIwZEg1SUFNWHNhNFhaOGJraV9vbjhFUWJLczNQcXJRcnRtbnNsVDBmLTJBd9IB8wFBVV95cUxQVDl0TkJ4U2UyQjZleEc0MVB3MHdMbFZYUTJ4NXVtV0FUWTI3UTVNaG12VzBmT3NUMFJNU21oZlpreWIteVJFT2dQSmsxZjRlRVQxUlNqUEdNSGdBSmtOZUZHVkhYc3pxSkNySVlIcDczREVzN05FX1ZMN2NZRjJMSU1JNUw1bDNOZnhoRkdvNFFsam1UYUxQSVFjRUNRblVxYlhkMkQ2V0NoTnRwVkVNcVF2TEJUekpIVU5pV3BuTTVDWnpQNTFTYkRaNFdkYnpCRG0ta3U4d1VqeURiQXBzM3I0cmNMcTdZeG1zMGF0TXltQm8?oc=5",
+          "time": "14h ago",
+          "body": "Tiger Shroff firing puts Fadnavis under Opposition fire over Maharashtra's law and order  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tiger Shroff firing puts Fadnavis under Opposition fire over Maharashtra's law and order The New Indian Express"
+            ],
+            "tldr": "Tiger Shroff firing puts Fadnavis under Opposition fire over Maharashtra's law a"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1792392113067",
+          "title": "\"Is ordinary citizen safe in this country?\": Shiv Sena (UBT) MP Arvind Sawant slams BJP after Tiger Shroff firing incident - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQa2tDa0c5eTRNNlVFR0tHWDhaMW9hMTlGVVQweER1WXB0Z01KRURpSFVBSkl6N192NGxvREQ1VDVsa0ZOUkdZMzZsOHRWTFhkeXdyNGctOEpQVHVoQmk0eFBDckEwaVZseFVhUFhRVmpUajBQME5RbFE0Z3A0S0RaMGZCX2poMk1IWHhwWGZuU24yNFhDVXV1Q3N1YmxyQmxNWDdPcnZxZGl4Q29WeWwzQWRhS0loS3J3Qk5zcWNmeXJTTFBBRXFBV0ZWcmVHU2Z2SVRseDZMNWdiLXN4T0tPekpHWmRubHRzTElsV3FjS2laWGYzYU02MHE0cWNpMUpZVDVIYXFPTQ?oc=5",
+          "time": "12h ago",
+          "body": "\"Is ordinary citizen safe in this country?\": Shiv Sena (UBT) MP Arvind Sawant slams BJP after Tiger Shroff firing incident  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Is ordinary citizen safe in this country?\": Shiv Sena (UBT) MP Arvind Sawant slams BJP after Tiger Shroff firing incident ANI News"
+            ],
+            "tldr": "\"Is ordinary citizen safe in this country?\": Shiv Sena (UBT) MP Arvind Sawant sl"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1792392113068",
+          "title": "Attack on actor Tiger Shroff: Maharashtra CM vows swift action, oppn slams ‘deteriorating’ law & order - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbDhIMXFNWHAtcnRuUUYtQjdSQkxqX2RkSWtFRGp2ZkhvWUhFOWhEYkQ2ZFVXc0U2aW14N2g5bnVSMno0LVJxVVZKaURRT3Vkb2c3dkRhVFBwZFEzQzF6ZWhPMm05V2h5R0tyalZIcWcxWl9HdFJaZmVfSFhtVllIY0ZwVHdwRGFVd3BSTEQ5cHJqX1JrYTQ4bWxHLXZPU1J5SF9JS3kyUzM2UVI4ZGdncDlHVThJVFVpZ3YtclJocmVJaFlfTU5PbWNqdFdpZkdQOWViUWVlSGU3TFB1cHRPYmdDYmQ2VWdMd0lqMHlFbGNVMkI5TFRfaWNNSC04bUXSAYQCQVVfeXFMUFRWT19meXhxWThjakNWS1BkME53azdDVEtYZlJjc2FTWkNLT3BLSGpRWk1Uc1YtSXVXVHJBbEN4Y0pzc3NxeS1rb0F5akRiUVhiM2thZ2FQd19JVG5TRFl6R2NxUDVJeVlqaXE3czFqd2xXTXJpS2ItVHRwVVU0bGttQmNHa2FxbVJuNkp3XzNTMmxRUU5hVFFidWlUTFZwano3SWR5Q0g3ckVTdEdSdXFOVlNrM0JfNGdNYUlYUnJGajNXb2Rkb3JadGxQSmY5R0dSWjk1U0MzekdyeWJFSnJtc3lLMklqWjUtQ0drRm9fSzRUTDRZdWl5eTJQZk1GaV83YUQ?oc=5",
+          "time": "12h ago",
+          "body": "Attack on actor Tiger Shroff: Maharashtra CM vows swift action, oppn slams ‘deteriorating’ law & order  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Attack on actor Tiger Shroff: Maharashtra CM vows swift action, oppn slams ‘deteriorating’ law & order The Times of India"
+            ],
+            "tldr": "Attack on actor Tiger Shroff: Maharashtra CM vows swift action, oppn slams ‘dete"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1792392113068",
+          "title": "Arvind Sawant criticises Maharashtra government over Tiger Shroff firing - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblRhckRaZXFCTEhfNmNRb1ZkbS03TnZzTU5OZnVLaHFBLUhuN1RBTUtJSnBXYTlDTVh2QmJFMGU1c1JDVGlXeEFNYXcxd05rWC1jeGthSU9rc3J6c19YS2dvbWlRd1AxSGY5T1V4RE5ybW1JQ2lTVVNZUlhwenhKV3lJVGF5S09SbUJSb3JqN0xFSHFKNUxlRXRoXzl5b2stb1JyZVNtclBkUTZ2M3FONzkyU1BsQlAtaXZlTm1jLVNDa2dHazZr?oc=5",
+          "time": "12h ago",
+          "body": "Arvind Sawant criticises Maharashtra government over Tiger Shroff firing  The News Mill",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Arvind Sawant criticises Maharashtra government over Tiger Shroff firing The News Mill"
+            ],
+            "tldr": "Arvind Sawant criticises Maharashtra government over Tiger Shroff firing The New"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1792392113097",
+          "title": "Dussehra Stock Market Holiday: October 20 or 21? When will NSE, BSE remain closed? - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY1c1Sm12a292TXIzWERIZThDUVU1dmVPWEhCZVIwWWlNNmpqZm5XSG1XcUdtSFg5Vk1teG0xa0lmRm1ndkh1RGlvT2NjMGlJemZ5dlA1Y1JxbHBrdzRxSy11ODNvSTJBYVJIWVJzUzZZT1hrTXBhczFQVVR5TFpyM1ZYd3NyME9FZFl5cFUteS1ySDBvMVhlZVY1NGgxd1dMVjY5c3gtaUNVc3VwN0p3aUJKdDlZWFp1NjM1Z1ByV2tyaXpfdGVTSGljWHBrMnJfRmtXc1JGVkpCQzRJMDRFeWhjTW1zcnhJcVBjbkdPMmpTUW44dEIw0gH8AUFVX3lxTE5LallrYjlBYkZHSXFSUkVJRTFLdHp3MnlUbEJYT3p2aWxwdEZvOXJXLWlzb3lGYzAtZ1V0S0F3VXN0Z1Aybk9ZRTFoZmo0VFhCS18zdTluZkZjaDhkeWJnd19INnF4bHltTFhIOFVFNzJyVFAtUE9QOEV2UUhWZTNfa3pXVUk3R1pwUUFyX3pxWWMzR01feXdNNVdDTlVPZmJzVko4UWVLNEtnM2JqZURaM0NuYXhibFBjOGxzYUNzdmhORjQ5OUJiYzN4WHBpSGVzdlpSZGlBQXFnTTJmOEw0THZUQ3lZSWNNTjdTQmJIcU9KZW9uR2JlU1JFXw?oc=5",
+          "time": "1h ago",
+          "body": "Dussehra Stock Market Holiday: October 20 or 21? When will NSE, BSE remain closed?  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dussehra Stock Market Holiday: October 20 or 21?",
+              "When will NSE, BSE remain closed?"
+            ],
+            "tldr": "Dussehra Stock Market Holiday: October 20 or 21?"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1792392113097",
+          "title": "Sensex, Nifty open lower as investors track bank earnings, rising oil prices | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFhBR0RoUjN2U2lubVBGYmdoM2NyZXRudjY4OE9EODRPM2FtUmdpdFZrNW5JTkV4ckgydUpVYXRUeVRONmhrMGVVLUVtVHBFRkN4TENGWjd1TFl2bldQWWxlbHJaZkczcXc2WHo5c1FZR1FUUUZkVjk5eFJfejg1cFFmTGx5WkFkSG4tNmNSSkRrZGVVQmxqeExleXJDV0NkMHFnUXRUem90TTc5T095c1otRkpPckpCekItSVoxeV8wY29wUmhBNDlTOXNxVU1r0gHWAUFVX3lxTE9ZZmxyYk04NXI2SExpaW96STFZc2dOYVlxenNJc1FrTEhLbXpmVG1fcTd5OHhxZURvMkZHNTRJQzhSVEN6VkhpSGRRaUR5RFR6R1Z3MjI1NEVIMlp1c2ZuNUR0OWlDOEZaOEp6TER0NzFyX0RYU0hPT29MdVBaYXN3aV9Yb3RWd0Y2V2FNMDJXV3Q5TU1jUkJFUWl4aVRPa09OMDZxeEMtM0JfdnhCaldyTEswQ3VDN2tlTUdqNnlldTN0SWZoRGkySkhGRlFnUzhhX3I2UGc?oc=5",
+          "time": "2h ago",
+          "body": "Sensex, Nifty open lower as investors track bank earnings, rising oil prices | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open lower as investors track bank earnings, rising oil prices | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty open lower as investors track bank earnings, rising oil prices | B"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1792392113097",
+          "title": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Dussehra on October 20 - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU1KcEFiZVF0MzNWYXozRDJTUFRBcW5ZSXM1RW80eU1obm5yUUhNZC16ZXBTc2dOR0RDaEtFZ0FLbE5wc3VnLTB0YlRUZEo2Wl82R3VUQ25Vb1RpTTU3anFjWEN1QWRQaEhOdEhPX0E5eFdiUlhzZEo1TVNIVE5IaFRlOEpjZUxmZ1hHRjNNZDVrNUFCaElKY0pxQVY?oc=5",
+          "time": "2h ago",
+          "body": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Dussehra on October 20  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Tomorrow: NSE, BSE Closed for Dussehra on October 20 HDFC Sky"
+            ],
+            "tldr": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Dussehra on October 20 HDFC S"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1792392113097",
+          "title": "Stock markets trim most of sharp early losses amid buying in SBI, Reliance Industries - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVlJkTGtjY0NyLUlWQVl3Z2VHWThGWXQtRFFIWXV0U3MzVXFQY0k5alZEQjdpQnJta1lQbkYySTJ2VUY1ZjJ4Ym9fbDN5VGRjUkM0eHRLTDl1VmZkODR6THRyQllUZkVvMFZnVVk5R1VLaHhYcVRBQWJNOXQ3MkoybVc4Mk1kTUZBdlZCcUV4WjFDeUdVUFBzbHdLR3VrRFFpR1NpMVhQRnhDd1FvbDBZLTk0WkZBV0xCTzFOTXBRc2lLYnpfLXlsOHAxYTFnQ2dBMXA3NQ?oc=5",
+          "time": "1h ago",
+          "body": "Stock markets trim most of sharp early losses amid buying in SBI, Reliance Industries  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets trim most of sharp early losses amid buying in SBI, Reliance Industries Deccan Herald"
+            ],
+            "tldr": "Stock markets trim most of sharp early losses amid buying in SBI, Reliance Indus"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1792392113097",
+          "title": "Indian Stock Market Declines as Sensex Drops Over 400 Points - India News Network",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE5KRlBpQjMyNDFfR1Q4QzNyREFGeFROLUFhZWhSaHk3MWdlWXBkWi1KMGRaV1ZTeDZzeHBvazZRdEhiWjhXZWo3VTQ2Vzk1WVZtQ1IwaEN3bVJOWDlKajJVTnJqdWJqY0l5b0dRQXM0REV4d3dJYlNtS0s5NFVqVWZuRzFWZHhoZV8ySFpUc2ozLURwM25iTU1FaHBnWFdFTUtweQ?oc=5",
+          "time": "Just now",
+          "body": "Indian Stock Market Declines as Sensex Drops Over 400 Points  India News Network",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Declines as Sensex Drops Over 400 Points India News Network"
+            ],
+            "tldr": "Indian Stock Market Declines as Sensex Drops Over 400 Points India News Network"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1792392113097",
+          "title": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2w0OExuLXNXNkItVEJweDJtWkZCQlBkZUQ4LUYtNDlqVVRyQU5WemdBSUhnY3gwWGdza2Z2UXUwUC1MSE9SQzNkenpXR1RIWFpTdHctRE84dDlOWVEtYTNzS1Yzb09fZFlZTG1pMkc0N3lCQ2l3Rl96eFV4QnphVVhWTDVBUnhTSGo1LVgzWHhjbmZobWt0S3d6WQ?oc=5",
+          "time": "2h ago",
+          "body": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News"
+            ],
+            "tldr": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1792392113097",
+          "title": "Sensex, Nifty Mixed at Open Amid Weak Asian Markets - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzRSalNhNkgzZU5QTUVaX1BMS29iMkVuZmptdmNiQnZKbllVcE1qZ1FWT3RxYjRCM1JuQ2hncHFoNmxsTUFVYmxwT2xUU2hKeGxfWWpnbW9rVjczbXZsWjI1ZmRDOGJFTTNISHFCZjdnRkRQMG1xeG5SWW0xcUw0eTRsZnUwUk1UTDVZejZxSVhCd1JXWkNhMzdUdDQzSHQtMnN5R0N3ajJ2OUlHaDcyQUdmVC1WYThxLVlQVE5TWXhkeXA4TXBwdXNlSQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex, Nifty Mixed at Open Amid Weak Asian Markets  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Mixed at Open Amid Weak Asian Markets HDFC Sky"
+            ],
+            "tldr": "Sensex, Nifty Mixed at Open Amid Weak Asian Markets HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-9-1792392113097",
+          "title": "Indian Stocks Recover Early Losses on SBI, Reliance Buying - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFAzRVhhRjd2b2pWRjhoYzJuU0pxbzdPM3o3S1B1MW96MHEwYUl2cmo2cExkYWJOVTV5S2t3dWVkNW5ldkFFamdBOG9BenJSX19OUklvZEMySUJsR21mRFdtSnk5M0RBRktfdGpNX3hfMnRaQmlPdnVIc09tNnY5SExOZUJ4R2Noel9BZ2VMZXFsLW5vYVpjcGlqOW5BajlwM0kzM3hONnY1bHJMc1d6T1VUUdIBswFBVV95cUxNSFAzRVhhRjd2b2pWRjhoYzJuU0pxbzdPM3o3S1B1MW96MHEwYUl2cmo2cExkYWJOVTV5S2t3dWVkNW5ldkFFamdBOG9BenJSX19OUklvZEMySUJsR21mRFdtSnk5M0RBRktfdGpNX3hfMnRaQmlPdnVIc09tNnY5SExOZUJ4R2Noel9BZ2VMZXFsLW5vYVpjcGlqOW5BajlwM0kzM3hONnY1bHJMc1d6T1VUUQ?oc=5",
+          "time": "1h ago",
+          "body": "Indian Stocks Recover Early Losses on SBI, Reliance Buying  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stocks Recover Early Losses on SBI, Reliance Buying Rediff MoneyWiz"
+            ],
+            "tldr": "Indian Stocks Recover Early Losses on SBI, Reliance Buying Rediff MoneyWiz"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-0-1792392114359",
+          "title": "Maharashtra plans AI-powered film, drone show at Pratapgad Fort memorial - ET TravelWorld",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ1dldlJ0TXVGOUpDcVd1SEQ1d2d0enBYODNVOC1jNndIMVdGb3V0c0tGSzllcE9fR193OVFOOENQNGlkNkhpa1JKWlBUTjlGbzJwM24zd1d6UXd4a0tHN1RzNlVKOUF3TjFpSU5FNGJDQ1p3VHpnNUl0c09CLVdHZS11T2lUUDVuemdtbnBhZ0UzZFZiNzB3R0pZX0JYbmxIanR6TUVyQUJaakMweWpzRWVyU2pKOHpmUVFOTV96SWhXVnpEWUxnUlM4QU96RmJBSHBTU2pNNUpvd9IB3wFBVV95cUxQWFlfMS0wTTF1aUxhWmpFVk9leFZHZXROam9QRzV5WUwzN04zcThVSWJOVndMN0pla3hQQmVqZm5CSXBya1JpU0RkUGpua1dJaktwZ1VONDJVbWJNMlN3dzF4aDd3SXB4RXRUNFhFSk9uOHlBVTRsRUo2Yl9zaEdaQzRXaGNTaVlmT1RTbmFkQ214LXQ2aUlJQUJGSDdmMUl2Rmg5ekZUeVhEOHRPbENwTEtwTXZ6dVNyejcxMmU0TTVGY2FUUVJLdTVzSG4tQnFfZE02VzF1ZDA2WkpUdDRj?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra plans AI-powered film, drone show at Pratapgad Fort memorial  ET TravelWorld",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra plans AI-powered film, drone show at Pratapgad Fort memorial ET TravelWorld"
+            ],
+            "tldr": "Maharashtra plans AI-powered film, drone show at Pratapgad Fort memorial ET Trav"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1792392114359",
+          "title": "Datamatics Appoints Dr. Rajesh Gharpure as President & Chief Operating Officer to Accelerate AI-led Growth - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkdfOG5qVFE0R2Y5WDlJeTBaY25CTVNLQmRhR2RVdWI2NmdKVU9FQ01QVVVBNV9uMmtNSU5RSTdzMXlQaTlsYnBDY1ZMVmJEMlJWY2VUVlNfOHRySVNubWhnTEhzSjNUOHd3MGdOOFhaZXlIdHNTVFZqY0pYZlh5S0VlN24yU0FnaDZGd3Y3RExUaEVDWXA4R0RxSXgyTF9DZmVRQ01tV0VEWGRSa1NBOXJBYTBxdXFtcExOaWl3aUU?oc=5",
+          "time": "17h ago",
+          "body": "Datamatics Appoints Dr. Rajesh Gharpure as President & Chief Operating Officer to Accelerate AI-led Growth  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Datamatics Appoints Dr.",
+              "Rajesh Gharpure as President & Chief Operating Officer to Accelerate AI-led Growth https://hrtoday.in/"
+            ],
+            "tldr": "Datamatics Appoints Dr."
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1792392114359",
+          "title": "Jitendra Mahajan Appointed Independent Director at Bajaj Consumer Care Limited - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzJLbmd2T2hfMnRYMkNQXzczMEVrMmU1c2VZa1Q1N1czUzhmX1kzdW9nWms1cjhxMjJhbGVidGE3WnBFM0dCbWl4dkRheWI0Q21sbXoyY0N5WEZMUU1LSVZFaXhoQ1oxSWEzWTNHeGtJMnhBSE9BcnNsc0JiN2ZCU29MQzZBQ2g1RDFvV0FwLXRTLUFINEQ4a3BIZDJzWXM?oc=5",
+          "time": "23h ago",
+          "body": "Jitendra Mahajan Appointed Independent Director at Bajaj Consumer Care Limited  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jitendra Mahajan Appointed Independent Director at Bajaj Consumer Care Limited https://hrtoday.in/"
+            ],
+            "tldr": "Jitendra Mahajan Appointed Independent Director at Bajaj Consumer Care Limited h"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1792392114359",
+          "title": "Deepspatial Signs Strategic Pacts With IIT Tirupati And OneIndia To Boost AI Research, Media Literacy - Lokmat Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHpDQTdtal9SV2dSdDJzZlVwSm5pMjY0d21yaEg0emlVcm15LThQV1lMb0FSUEluZGlGbjFRUUVmVHpGRE41UkpMcEdHc3Rqcklmc0kwakNQQ19CRWJiX1cxbzF4NGlXSl9mNGs4dU1SX1FvMGJtVHlQUk1SMFJsUjIwUHBZOEt1WHhON2tMWjQ0YzVVSTFhQ1BJRHU1WkNLMUhyanRMQVhQRUJPZmJvY3ptMTBVb3NoVDZhOEJMbUNZQ29ocllDSl85dUFodUR5YUtRSF9mYkhWVlnSAeABQVVfeXFMTnpVZUdWNDdXaENodnFhcl9KUWxOZjV1STBSQl90NTN0eUJsNmVPNURGd2ZDWkpPWGIxcUJtOWdZSU9hckFZQm9zeHFuV2RScEtiRGRaYWUwNDlKT1ZZTDJScjBza2tzUTdldHV1VVY4dVg5LWVTMDYwbWJvX1lHR1NPVGdnYUU5ckZXZUhwSGxHaVRSemVvNFM4VWxfWmJaS1dTODNIQXdUTDh3bW93ZTFVOHo2R3loVWQ0cGxKTFh1ZFdtNUhiakxzSllWbUhWUmhYMk9QQnJCRjUxZlVNc0E?oc=5",
+          "time": "16h ago",
+          "body": "Deepspatial Signs Strategic Pacts With IIT Tirupati And OneIndia To Boost AI Research, Media Literacy  Lokmat Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Deepspatial Signs Strategic Pacts With IIT Tirupati And OneIndia To Boost AI Research, Media Literacy Lokmat Times"
+            ],
+            "tldr": "Deepspatial Signs Strategic Pacts With IIT Tirupati And OneIndia To Boost AI Res"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1792392114327",
+          "title": "Centre to allocate ₹500cr to C-CAMP to boost deep tech innovation - Medical Buyer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejhpZloxQ3hqaWh4bUpWWnpHR09XWE5QNkpOaE5FTEZkdzl3OS1nNm9MRnpmX2FMX3R6NDMyUE1WSmNvZzdhRzJlZWJjM3dIVHJ0bmJfV0NYdTdNa1VSOWN3ekx0bGw5MVhPVlhFckFlc3FvdnJ3bTFHWF9wZUhPaFo3cUdaUi1QbUIwZk1sVml3c2F5eEExWWdiNXFpb3paOUIw?oc=5",
+          "time": "4h ago",
+          "body": "Centre to allocate ₹500cr to C-CAMP to boost deep tech innovation  Medical Buyer",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Centre to allocate ₹500cr to C-CAMP to boost deep tech innovation Medical Buyer"
+            ],
+            "tldr": "Centre to allocate ₹500cr to C-CAMP to boost deep tech innovation Medical Buyer"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1792392114327",
+          "title": "Mumbai University Wins FICCI University Of The Year 2026 Award For Excellence In Research, Innovation And - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa0tkZURmcVR0djRqVFhVYXdXRjJLSWQ4T0ZVcjBvaURLZ19hVXR0enB5V3dMaHNfU2NVcGo5czl6OTU4ZzZ6THFxblhTXzVxMHhWZUhXQldrMEhHNGZsOHBLVFBvUTF5aTlVMGd3VTlaeDV3NnVlOU1JZmZQY2VOeDFlN09PaEJ4RTlkUnJHSkRZVlV3andCeENQUFdYQ0hnSHUxYVZSNHhDSkFYM01fZTF1RXBlNW80WWJKQ2JrbHhWRnoxTUdmazZ1bkc0V2VjeHg1cDFtejRCdUp3VFBpZG5jZEZ6OGpWR0ZFMnM4SnZvMGs2TDVQRdIB_gFBVV95cUxNT1psd0NlaTJvOGpHd2VOaHpoUHJDZGZVSElFUlRTMTM2RmdmTVh2STI4VzNNTEJSWU1KMDRDXzluN0pvdHdhVGk4SFJsYWJpVUx6aGRTa0dwbGx3Z1VVa0hiMUtBbHFyZkNVenNxMFExdFM1WWZiQm82eXR3RmN5VTNDN0ZEaDJ1OWZJMXlSb3RtMElPam9VdDdmNWJ5bDJSb2poYTNTWkZCcDNHN0doRzh4U0RPcU9uclgxMlNVZmFoZXQ4YWNlQnZBMjhGdlQ2U3VTZnEyOTkxZ21lRFRYaHh3bGk3anF1YzZlazVvZ1FKY3JXVFVuby1sbHZSUQ?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai University Wins FICCI University Of The Year 2026 Award For Excellence In Research, Innovation And  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai University Wins FICCI University Of The Year 2026 Award For Excellence In Research, Innovation And Free Press Journal"
+            ],
+            "tldr": "Mumbai University Wins FICCI University Of The Year 2026 Award For Excellence In"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1792392114449",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "12h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1792392114449",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2012 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JLVg0S25hYldNMGhBdHdwblc5RnB0TUpIRWZrWExsMUp0MmsyalRHRlQyRWpfcVBVcEdNR25Hd09NWWlsVTNWWnVsZW13NFhyOVZTU0Q2NmNGUllmZDlnRFNFU0UzTXl5R05VYWUxSDkxR00?oc=5",
+          "time": "14h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2012  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2012  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2012  Cricbuzz"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1792392114449",
+          "title": "Royal Challengers Bengaluru Women Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTlHa2MtMVlXRmE2NUoyVmVuOEhsQVlfV3oxbGQ5XzR3eklxbHFxNDZwbjg0TlI1VVJKVHRGV2dfYXlaV3lXM2s0bzdxcTNteEl6SzVZMWxUS1ExRlB5RElpeVpRdl83V3VQX3EwRjVYT3BsOTZEM05QRVZGamtXRjRLUnhuTzBJcWJOdA?oc=5",
+          "time": "13h ago",
+          "body": "Royal Challengers Bengaluru Women Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Women Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Women Cricket Team matches, scorecards, news and sta"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1792392114449",
+          "title": "Quinton de Kock Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NUDVZUlFKaTZWVmRMbHVwYjNuRjREVWlkZXdlT2FBM2FlZTFYNE84X2ZtVnpVdHM1Vi1MYks5MFhZQlZjLXRrdU9pMXB4Q0ZWazgxRWpxZEJhY1pLWk5TSFl3V0RrLV9nd2M5VkRfdTY0UjdPQVpVSA?oc=5",
+          "time": "12h ago",
+          "body": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1792392114449",
+          "title": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BrR0xnVlg3ZGtobG5zMExtcFRXMnBPWmJ0bFlzcmNjMHV0OU1GX2VqZUVMUTBiQUVhLTZYLUdxXzBJUnU4NEU5ZFl0TFZGOXNMRGZCeklFamxMTWpOclhURXV3ald3V3AwRU1hRldCWmgzbkJnbl9PMkVJNHNKSDlR?oc=5",
+          "time": "13h ago",
+          "body": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistic"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1792392114449",
+          "title": "A surprise twist in Hardik Pandya IPL trade talk? Ashwin names his frontrunners - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWRWV1FDWnlwbUtwTGxKZ1VpeEhlQjRUZ0QxMzh6QXRVWmVhT3hYQUZHdjc3RDJJcVpsMmVLUjdORFRxbUFZekUzQ1A0dTlzOVJMOUN4cmtMZkYzdlFLSUhpTmR3VHFFdXJDV0ZiUVViRkM1SVRMU0VhelZhc3dUb015bTdvUk0xbTR5OEZLMXZMUkN2LUROOUZuYlc3bmpWd05Ka2hTOGJTS3BWWmFzc0VCNWtaM1RYangzdkR2d1Vldm00dDNR0gHMAUFVX3lxTE1DOG41RHI1UXBEbV9xRVI1a0I4LUR1OWYwVkU1TnFNQ1hTV3I5bzJjM3ktRFprc3AycXF6Z2F2eml3WWNiVWk5MERNNUtjTUUwVVlwb1RRdC1COXBEamNrMU9FVDFHcks2UmdKalNyR2hUT0QxVXRwS1F1Q3dsOGF1OGx2RHN0UUExRHdQMUprUUpZYmxXazhrRFRyYXZWaEdONFhxTzhwbmdwYzRxeTRVekxzM2pzV042emw3eXFULUMyeWI5eWlIR0N4dg?oc=5",
+          "time": "18h ago",
+          "body": "A surprise twist in Hardik Pandya IPL trade talk? Ashwin names his frontrunners  India Today",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "A surprise twist in Hardik Pandya IPL trade talk?",
+              "Ashwin names his frontrunners India Today"
+            ],
+            "tldr": "A surprise twist in Hardik Pandya IPL trade talk?"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1792392114449",
+          "title": "'A Far-Shot': R Ashwin Reacts To MS Dhoni-CSK Rumours, Reveals Real Frontrunner In Hardik Pandya Trade - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb0d4TXN4UEo1bjJZcC1tNVJLaHZ6OTZwWHNxc1JUTjBSby1nMFFuMDNRZWJZZU9Wa21TT2NpQk5kUVVBTWNOSzFCdjN0SEZZS01RR081UFlqLXZrdWY2U0tWdk5FS1l0Q3RuMmEyalRhZ1NscHAxLW9HWURDamtsc0tQLUxOcXpEZ0hhTFFDUmxEQlhTM2hseTkzMExldkFvTnQ2MWVLZkJFN05NcHE1TUg4TVpzOUVxMVl6bzE4SGotWTQyNTVhQy1vZEExRWxCbDdB0gHgAUFVX3lxTE1yYmVjRi1CZUJGdGY5T3FaUEwzazJXUUZDNmNGQWZRbXFRaUxCRHRkZnRvSFB0QktORkViVkdXb2pHSm5FdE9ZbWZkaXliTU80QlRrdnV5aUJ3OVI0TlUyaWFWMWhMUV83a25lcWNCbEtVZnJTd1dPQl9ibUxrVTEyTWxRbFVxWFVGMElScElQejVJYUhlQklOTWFQVnUyZWVIbmxiazM5TE14LU5HV3dOa3QxNV9jZWhtSnBoZlk1SFpReWJMemMwdlZLdllTdG95aVJSX2xpR0VfQnFLTFBU?oc=5",
+          "time": "22h ago",
+          "body": "'A Far-Shot': R Ashwin Reacts To MS Dhoni-CSK Rumours, Reveals Real Frontrunner In Hardik Pandya Trade  Outlook India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'A Far-Shot': R Ashwin Reacts To MS Dhoni-CSK Rumours, Reveals Real Frontrunner In Hardik Pandya Trade Outlook India"
+            ],
+            "tldr": "'A Far-Shot': R Ashwin Reacts To MS Dhoni-CSK Rumours, Reveals Real Frontrunner "
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1792392114449",
+          "title": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS05rWWRNM0tiVHJhZnRjVVFBamF2YnVHdWFsS3BmelJDWjIxdkEtM3plMy03VE5CTUdHTGhpQTQwSFlYOTBqNVBELTZNWHZvZldGaV9kUjBlRXY0eUQwUFYzQXZ1YnBUUjNsdGZjdUpveFVmNWg0Nlg3NHhjVHFVQWJ3cjFOQVlmS3E3S2steWVYUjNsQ0ZQXy1tSkx3ZWpyaXFSdmtSdlFtbnRqa085Z2VORm44YzBBazNMcE1wQlZYSTlqY1dMc1VFWFB1YVhESUcyeVRac0xmT2s4VjdXcF9Bekk4ejdzemh3Q3N3QWlrdGg20gH6AUFVX3lxTE0zUXRnRDJCV2dydVV6d2RuOXQyMnUxcDU1cmlqdzJCa3NreW8tTmtzRTQ5RkdXVkI0ZDV6ZEtIUW5tRlNwQ3F6VFVramlwaGNhc2hiZnFXU1c0NXJkN0tSVHp6Q0tzVHpDYTlJMC1ncV9DQWxTUjh3anZqMVBVVFQ0NEJlcHFWSFdtTEg5UzAwRmlrakI1SVp5VEk5c2h6VVZjdHAtemc4RW1ZVlVqcnBlSHpXVGRpUEtCMXlyQmxPcXJPcnNkY1A3eEoyVEowYkRzVTFKTW9EU0VyMk4wTmFRRmhaZ09rT1VGS1ZqNUIzSVhhdmRKYjMxNVE?oc=5",
+          "time": "23h ago",
+          "body": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade The Times of India"
+            ],
+            "tldr": "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya tr"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1792392114449",
+          "title": "“Showed His Skills With The Ball”: Mohammad Kaif Praises Naman Dhir - Sportscape Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXRNaDdaVlZId3U3ZGU1ZkZfSjVZZkg0LVFKbU9QTG1WVjREcUpIZTEwbTdJZFU5Vlo0WkVGRElUYmtlV2g0WWlNaXpfTzA4Zi1DYXVfNmZRdmxJS0FsS1pnRXliaU1YeEdxWjZsQzcwNjNkTXBQaF9WRU1KSjliWlAyaU1aYTcwTmw1UHJSNzA3WWo1eUwwOTZoUThubmNYcW1lMGVNWQ?oc=5",
+          "time": "9h ago",
+          "body": "“Showed His Skills With The Ball”: Mohammad Kaif Praises Naman Dhir  Sportscape Magazine",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "“Showed His Skills With The Ball”: Mohammad Kaif Praises Naman Dhir Sportscape Magazine"
+            ],
+            "tldr": "“Showed His Skills With The Ball”: Mohammad Kaif Praises Naman Dhir Sportscape M"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1792392117119",
+          "title": "Asian Para Games: Mona Agarwal strikes gold, Avani Lekhara takes silver in 10m air rifle",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "Asian Para Games: Mona Agarwal strikes gold, Avani Lekhara takes silver in 10m air rifle. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Asian Para Games: Mona Agarwal strikes gold, Avani Lekhara takes silver in 10m air rifle. [object Object]"
+            ],
+            "tldr": "Asian Para Games: Mona Agarwal strikes gold, Avani Lekhara takes silver in 10m a"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1792392115782",
+          "title": "JD Vance’s immigration tiger is turning on its rider",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "18h ago",
+          "body": "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event. An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants. Vance defended his position by claiming he was criticizing corporate practices rather than foreign workers. His remarks have led to significant backlash from various groups regarding his mixed heritage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event.",
+              "An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants.",
+              "His remarks have led to significant backlash from various groups regarding his mixed heritage."
+            ],
+            "tldr": "US Vice President JD Vance admitted his rhetoric on H-1B visas was…"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1792392115782",
+          "title": "Indian jailed for life for murder of woman he met at a brothel in UK",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]"
+            ],
+            "tldr": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Ob"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1792392115782",
+          "title": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]"
+            ],
+            "tldr": "Indian-origin engineering manager says H-1Bs included equal share of Indians and"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1792392115782",
+          "title": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]"
+            ],
+            "tldr": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temp"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1792392115782",
+          "title": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return.",
+              "Redditors say.... [object Object]"
+            ],
+            "tldr": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if no"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1792392115782",
+          "title": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative?",
+              "Beg them to allow us to stay?'. [object Object]"
+            ],
+            "tldr": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed m"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1792392115782",
+          "title": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin man in Chicago killed estranged wife who was dating another man; then went to airport, bought a ticket home, got arrested. [object Object]"
+            ],
+            "tldr": "Indian-origin man in Chicago killed estranged wife who was dating another man; t"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1792392115782",
+          "title": "The ABCD of US politics: American-born Combative Desis face MAGA heat",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object Object]"
+            ],
+            "tldr": "The ABCD of US politics: American-born Combative Desis face MAGA heat. [object O"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1792392117298",
+          "title": "Council polls: Shinde Sena raises pitch for defeat of BJP candidates - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVnd3OHBRZTlDVkt6QlVnVnE1OWhMM0M5TDM2d2lha3NEbDEtV1F6OHVaaExPMEhvbGVhdnBYTTlnS2IyeFdWaGI1ZzJidGVhb3Q0WkRtTlh2Q0xtSjZrM0pIUlhYd1ZSa1RVUEhCSC0tdTJMdHE1NmpvTjFNZENNQVl5VG54T1FLS2M5RVp6TkstNGlHTF81a1FLaUVmeHN4b1Z0Q3dn0gGsAUFVX3lxTE92bEt4bnRGelZLZlAyckRSak1fQl9YeDZJS3d0S0o3UU9FXzhpTF9TOTlRdFgzd0tUM0d2U1ZaVlJteFoyQWY2VGNTd3pIS3hXS1lFYUJpTnlXTUItVU0ybG9hUDZzWHlMTmxkZEpDRzlBRl8wRG9zNzNkNnpFdWx6QjBvdnpPb0pzNXBFWVNVMjJsNkc1ZV9OMmxlaXNLVHY1TmxoOFExTnpJY3I?oc=5",
+          "time": "Just now",
+          "body": "Council polls: Shinde Sena raises pitch for defeat of BJP candidates  The Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Council polls: Shinde Sena raises pitch for defeat of BJP candidates The Indian Express"
+            ],
+            "tldr": "Council polls: Shinde Sena raises pitch for defeat of BJP candidates The Indian "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1792392117298",
+          "title": "National Steering Committee Approves Rs 1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir - ProjectsMonitor",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSk1rVWFCQ2Z1TFdkQjlQQlFFS2M1OTdtTDIwbnBhQUpRc2E3bGw2RG1PdWNJSURxRk93WV9DOU9YaG00RlY1cENEQWdYdjVoVzdYXzY4d2NxU19pYWo2aUJQdzAwVkN3VlVhUlB3Mkp0QmhybHM2bkZOZThuWVB5Wjd1eFZLVnhZWVUzdG5xSkZ2LXpzZXIxaWVaT0JFUnZtNXZiOGpSTEZoTllVWDhnQklSYVRUSW1JTmZnazdzdHNVY0ctcUJUeWNZcFRTSkw2aGpLVU16QVdNeDNkTlUwRWQyQXQ0V3d4aUZGSTkzZkd5M1kwaW9OeGR2RUJMRFVIYW5iU1p2T2FfR2RyVHFjYmUzV1dmbk0?oc=5",
+          "time": "Just now",
+          "body": "National Steering Committee Approves Rs 1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir  ProjectsMonitor",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "National Steering Committee Approves Rs 1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir ProjectsMonitor"
+            ],
+            "tldr": "National Steering Committee Approves Rs 1,194.92 Crore Investment Under PM-SETU "
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1792392117298",
+          "title": "Man stripped, beaten with belts, petrol poured on private parts; video of assault goes viral - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVzhsVGZXektNTkV1NXpuRm1xZHJwSmw1WTR2dVdoRGo0Q2JKZmlweTNvVGI5NVZwSTA4MjVSLWxNWWlVaWVrMWNPMEw1YnJqei1FTnd4VWZDZ3kwN1d6aXBRdldEeEdsTS1DckdzWWk4Yjc2UWpaYXU0R0F1c3dGc05GODVOZ2QxM1hvejNKZnJEVUtac2ZHR3NsX0wwNHIzOWN5Q2RMNDR2RGt4V3Z2LUg4RUludTRqMDRLZmc1cXhUcmhyZjJ1VmVibFU3VHltNjZGREI3SjVIS1FPcDhMWHZpbk9ra2luOXJUU2JtOFlMV1M1VE9meDg1MNIBgAJBVV95cUxOZFp3V3BERml0SlJreDJNVG5vSzExbTM0VVU3cklWTXZ2R05ndVdYTmxyN2dCYXREUlY1M1drQUFoc3hRWEkxMUZUR0Jfa2ptMmZ6SlJjenJ3bU5SU0dleF9QUEVtM3FRd2QtQ01sc2l4bndKY3JYTngxYzlqMDhKWFp6Z3BrdTNBQ2V5b3k2bjJ0YVNVR0FxdDJfTHJTMmN4OW8yM1dCVEtrWG0xOGxfckFDbnR2RU8tZHp4VXVFamtXd3kwV2NmblA5ZXRScXlpc0E2ZUFnTmM5TUI5NWkyU1JQU1VBb2FWbjlYbkgwa3VKcWd5VzdFY0x5c0hXNkRT?oc=5",
+          "time": "4h ago",
+          "body": "Man stripped, beaten with belts, petrol poured on private parts; video of assault goes viral  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Man stripped, beaten with belts, petrol poured on private parts; video of assault goes viral The Times of India"
+            ],
+            "tldr": "Man stripped, beaten with belts, petrol poured on private parts; video of assaul"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1792392117298",
+          "title": "PM-SETU approves Rs 1,194.92 crore for five ITI clusters in Maharashtra, Odisha and Jammu and Kashmir - Organiser",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWllNzJ4T3ZjTW9DSTJsTFhiRXNUam1aSVJtTDEzS3ByZm5tRzdpZ0RHODF1NVNyeUtGYl82MXNjTllXdHk1Z3h2YWlKNGVJZkRkU0tJMmRoWGlBQVJucXR3QW9GSnowSEZkR2I0N25zNFY4a3RPdW1kTzRlall5Z1ozcnZzNzBPZHd6V2Y2M18tZFljQmdQRG9Wb1p5ZUhhZkxmQ0hOTEt3M0hlWGROT3hhZHRIbVVtQ19pZkpPNVV6cUszUzJ0S2M2ZEU3aXRja3FoaUhnTDcyZ1hxVVVDMQ?oc=5",
+          "time": "11h ago",
+          "body": "PM-SETU approves Rs 1,194.92 crore for five ITI clusters in Maharashtra, Odisha and Jammu and Kashmir  Organiser",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "PM-SETU approves Rs 1,194.92 crore for five ITI clusters in Maharashtra, Odisha and Jammu and Kashmir Organiser"
+            ],
+            "tldr": "PM-SETU approves Rs 1,194.92 crore for five ITI clusters in Maharashtra, Odisha "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1792392117298",
+          "title": "Maharashtra FDA raids: Rs 3.89 crore chilli powder, raisins seized at Chhatrapati Sambhajinagar cold storage - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQmlrd2N4OFFaZ1AySGJWMUdmdDhNOWstR1RuckJ0VVVFZlFDUGdWVmtvbVc2NlBPdlNra01RQmpqWEo3ZDJ5cUF4RFJFU1V6bm1VM2hWTmdQWFlBSVpEUV8yX0duQ3NxeW9uemRGSGtTdmZzcE4wdC1iZ0J4MDB2MkdNSER5VlhCR0EzZWpVSmtmSDhSVVlvYXRCMnVwNE55U291QngycnltazEwV2dsQXZkeThwTUk2MmplcnRzZ3paLWtkNnY4R0lsWDNIeEFRcks3dVE1YlJMYThaVGV2NHNwY1FnZFFCY3NsZtIB7AFBVV95cUxPQmlrd2N4OFFaZ1AySGJWMUdmdDhNOWstR1RuckJ0VVVFZlFDUGdWVmtvbVc2NlBPdlNra01RQmpqWEo3ZDJ5cUF4RFJFU1V6bm1VM2hWTmdQWFlBSVpEUV8yX0duQ3NxeW9uemRGSGtTdmZzcE4wdC1iZ0J4MDB2MkdNSER5VlhCR0EzZWpVSmtmSDhSVVlvYXRCMnVwNE55U291QngycnltazEwV2dsQXZkeThwTUk2MmplcnRzZ3paLWtkNnY4R0lsWDNIeEFRcks3dVE1YlJMYThaVGV2NHNwY1FnZFFCY3NsZg?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra FDA raids: Rs 3.89 crore chilli powder, raisins seized at Chhatrapati Sambhajinagar cold storage  Mid-Day",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA raids: Rs 3.89 crore chilli powder, raisins seized at Chhatrapati Sambhajinagar cold storage Mid-Day"
+            ],
+            "tldr": "Maharashtra FDA raids: Rs 3.89 crore chilli powder, raisins seized at Chhatrapat"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1792392117298",
+          "title": "5 killed in car-bus collision in Maharashtra - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemhfVVNOWVVIZjZGNy1pQlBxRk9ZMlo0eUNiR3h1WTJuQjVYb1hJRGE5cHFSbWZaZ0wwYmhFS3dqUVdIR2NSNkcyYVJaTy1ZZTdsLVg1VjVuTnJ1bDZscWlva2ZMamZocWFyd2tCVk9GdTI5SFlvOF9STUpDdlV3X1I0VkJqMnVvdy1YQXp1NUxMRXZCSDh5V3E3MFZxcG9UYmFITmlEVVRBVHAzSERCWlp2ckxSOEdQblFBS2NKZ0JydlVB0gHEAUFVX3lxTE96aF9VU05ZVUhmNkY3LWlCUHFGT1kyWjR5Q2JHeHVZMm5CNVhvWElEYTlwcVJtZlpnTDBiaEVLd2pRV0hHY1I2RzJhUlpPLVllN2wtWDVWNW5OcnVsNmxxaW9rZkxqZmhxYXJ3a0JWT0Z1MjlIWW84X1JNSkN2VXdfUjRWQmoydW93LVhBenU1TExFdkJIOHlXcTcwVnFwb1RiYUhOaURVVEFUcDNIREJaWnZyTFI4R1BuUUFLY0pnQnJ2VUE?oc=5",
+          "time": "20h ago",
+          "body": "5 killed in car-bus collision in Maharashtra  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "5 killed in car-bus collision in Maharashtra The Times of India"
+            ],
+            "tldr": "5 killed in car-bus collision in Maharashtra The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1792392117298",
+          "title": "JSW Jetour T2: Features, Launch Date, Interior & Engine Options - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUmU3MnhURXRjMGUzRGpzOHJWbFNfVkRYazRSN2VuSlpjZ3pZeXFkNjRuWVF0M3M5Z3dhTHB0LVJxc2I2cHM2aWZ2WE9ONmh4ajEzTm03X1JpaGlBN1c4QXMzQ1RiUW5wZ3g1d0Y2UmNnY3dJTzl5amdHRFcyMXAzZFRKR0JiZ2U3MGlNdnZpVURKWVQzUWp5Z1VGUUxuOVFKOHhmc0ln0gGuAUFVX3lxTE8yUUFsUXJNeFBXZmZpdkw0ZGpYZURPTGlUbktnSXYzQmxEdmJyLXJnWHVYSmJMTF8yZ1B5aWxUbVRFY3g5ZHAxRkhZV1kzTEUwc1ZfbkdzYjhIWTBCR21kMm5uQkFLTmdYbExhRURDamx2NkpLUXRlLUxNbnR1TnlNRUQ3S2JCcU1LTnNieFBpVXdNdy0yTHNXMHFKSXBsUFhqTV83Z3FuXzl1U3o4dw?oc=5",
+          "time": "16h ago",
+          "body": "JSW Jetour T2: Features, Launch Date, Interior & Engine Options  NDTV Profit",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Jetour T2: Features, Launch Date, Interior & Engine Options NDTV Profit"
+            ],
+            "tldr": "JSW Jetour T2: Features, Launch Date, Interior & Engine Options NDTV Profit"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1792392117298",
+          "title": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil - Indian Cooperative",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWlpOaFkwNzJVVF9DY05iUmhCQXdpbWpzN251Z3J2NkdjYnVBQm9oa0hSNUR2ejlTLUVrLXVfdkpHOVo0cUwycGR4SVkzWmIwMUg2ck1hNmt0OWxRWVg1bXFwbjdVZ1pXckg0enplODdXNEswQkZ4YnRaZzRBb1d2bkgtVmlHaFJ0SnhLU3BLQ2k3ajVvd05VRFdEUFg3TGFhQ1FjQnFJa0FLdVR0OXE2Q3NGeHBZR2Faend6aWhyZ0pvRklzSkZ1VHlNV1Qxc00?oc=5",
+          "time": "22h ago",
+          "body": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil  Indian Cooperative",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Patil Indian Cooperative"
+            ],
+            "tldr": "10-Year Directors’ Rule: HC refuses relief to Maha Co-op Minister Babasaheb Pati"
+          }
+        }
+      ]
+    }
+  }
+}
