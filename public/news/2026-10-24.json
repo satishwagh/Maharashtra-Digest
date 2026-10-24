@@ -1,0 +1,808 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T06:21:31.887Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1792822886067",
+          "title": "No recruitment test for 250 ex-Agniveers as Maharashtra inducts them into coastal police - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUpBMzBqZ21WbzlPZUowX0hYek5Ld3lzSjFQV25aSGlEdmN2cEZlRnE1a3cxTzlWNy03TnFIWE40eUdiZ0FWckhjMFo0X0pKWmxTd1J4OXpsYkl2MTVEQS1tSlk5TkRoSVRUMVBuUXF2Tk43dWk5OS1sTnNrdzhBMzlUN252N3VDUnk3d2ljZHN2VmhGUllTVXN0VFU1bXh5WVpYTExsNzJXRnhkNG5GMmtmZjVFRXRj0gG_AUFVX3lxTE5za1VmVWZlWkx1WkV2NDFEc2o3WjZPcmJqR3ZjZmpNemFjbGNHcGQ2ZmU4TDZld1FFU2hIRTg1NjV5NjZsdVo4ZGRyY2xqd0tTOGpYb1hHbFl5UzBaU0R6NTZmUl9oaEprQUNIV2xkVXBYb2VFbkxFM3RVSjBqWDlKaHdaSEtzQWRkdnpta1A1UWtacTJjN0NJUk10NVNXOF9mVWN5djFlOENKMS1GczFpRi1Benc3ZUtlWF9PaURr?oc=5",
+          "time": "4h ago",
+          "body": "No recruitment test for 250 ex-Agniveers as Maharashtra inducts them into coastal police  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No recruitment test for 250 ex-Agniveers as Maharashtra inducts them into coastal police The Indian Express"
+            ],
+            "tldr": "No recruitment test for 250 ex-Agniveers as Maharashtra inducts them into coasta"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1792822886067",
+          "title": "Raj Thackeray Slams Maharashtra Government Over Alleged Audio Clip Row - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVy02S1VQZ3RyMkgwZGxBclBrU2RiZkxzT3pKTHNjN3pIclMxbFR0dzNsRFA3bEFuTnlUWGxjYjVLem43M1lGR0JpUHVwN0YyRU1LdDJrS1hEMmJ2VHZVbW40NWcxSDZmSFdhbFdtendRb2FXMUFyMTNEa2RkWTJKR1ZQOTFEQlNOYkRCa1hWSEdiVTBvdWtEYXpoUTY4dXhxN2hzSDZMWG0wd09KUnVyNUdMdzNvSFl2cGxTM9IBwgFBVV95cUxNblhFeWlSOWNpY1I3U3FDT0lzSDZnUEtwX21LQ3MxUmdaNkoxTUR1bEM4RGY4MUxMVFJzZGdDclhodk9nWHdwV0NLenh5a3ZNZllRdVNwUWJ0V0hKNGQ3bFloZ0Y0ZjVqN3N6UXk5SS03NGlVdWJtUEgycEFJVG5vRnlJOU5uR2lWRk5zRTM0Sm9zTEpYN1lwdnVpcG1hYzktWEd2LWttZ09TODB6WkFLRVNjNkRIUl9CNlh3S1VrZVZldw?oc=5",
+          "time": "15h ago",
+          "body": "Raj Thackeray Slams Maharashtra Government Over Alleged Audio Clip Row  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raj Thackeray Slams Maharashtra Government Over Alleged Audio Clip Row ETV Bharat"
+            ],
+            "tldr": "Raj Thackeray Slams Maharashtra Government Over Alleged Audio Clip Row ETV Bhara"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1792822886067",
+          "title": "Supriya Sule alleges use of spy cams in the MLC polls in Maharashtra - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXN1WHVEclhGNFZIRF9kYUpSY3RSQzIwV21wOHZRVUxyR0tkSEtvZ1BpTVBjakhCdFg1X1FTU3czUUJrcEI0bFBYSHYtLV8wb3Y1QzMwcDFBQjBlVmtkVmxNTGZmcHFrX1JpNzF0N1gwemI4R3MzOFdLMjVjdmJHeVBUcFllRHZ5TDE4UUM5ZWgxSDJ0OUlvN1ZXNVVtemR4M01LekJ2MzZOWmNFWmpxY1lQbWxfNi10VjJEZjhDakJRR1JRYmJrbjEwTnVqSW93T0ljVTFmSER2Z1U30gHcAUFVX3lxTE85c3VYdURyWEY0VkhEX2RhSlJjdFJDMjBXbXA4dlFVTHJHS2RIS29nUGlNUGNqSEJ0WDVfUVNTdzNRQmtwQjRsUFhIdi0tXzBvdjVDMzBwMUFCMGVWa2RWbE1MZmZwcWtfUmk3MXQ3WDB6YjhHczM4V0syNWN2Ykd5UFRwWWVEdnlMMThRQzllaDFIMnQ5SW83Vlc1VW16ZHgzTUt6QnYzNk5aY0VaanFjWVBtbF82LXRWMkRmOENqQlFHUlFiYmtuMTBOdWpJb3dPSWNVMWZIRHZnVTc?oc=5",
+          "time": "19h ago",
+          "body": "Supriya Sule alleges use of spy cams in the MLC polls in Maharashtra  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Supriya Sule alleges use of spy cams in the MLC polls in Maharashtra The Hindu"
+            ],
+            "tldr": "Supriya Sule alleges use of spy cams in the MLC polls in Maharashtra The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1792822886067",
+          "title": "Maharashtra Government Challenges FSSAI Powers in Bombay High Court - Nagpur Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUpfZkVVLUUxVlV6d1FGU0JlYVR0aGVlcE1xNVZ3Sld5b0UzYkhaX0VrVFRTZUlNRHFUNkQwUEgtRVFyd0N4VmhyTi1rV2pMTXd5YTQyaXh2NEZMczVkTzJCdEU5T1BIY1dhWGI2X3dCS2ZqLVNhQXotcTBIcFZUaTJDWVFNd2tUbDRBc1NSSDF2Zw?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra Government Challenges FSSAI Powers in Bombay High Court  Nagpur Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government Challenges FSSAI Powers in Bombay High Court Nagpur Today"
+            ],
+            "tldr": "Maharashtra Government Challenges FSSAI Powers in Bombay High Court Nagpur Today"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1792822886067",
+          "title": "Maharashtra govt inducts over 250 Navy Agniveers into coastal police: Fadnavis - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGVZMFhWbUhkcGRKMmV5TmtFa1pwTm1OZTJTQTdtWE50RHdnRUEtbFBBcVpYNlM2b0VVNDdhUjZoNUhaQWhxb3diMXBWU3BSSExSYUJoQ0VKYUlrNGtwaHg2Nm4zZDhZOVpIMzJ4RmxCRlFuU2pCV2FaOHUyQlEwdlV2V3NRWUhRZ081cXd2NEtSYjdCbUt1Rl9fY2l5R3lUaV9mV2JROEVOVmVQQjJGS3FB0gG3AUFVX3lxTE9JTmZfeXJQcjJKc1N2aHBSNC1zd25uX0RWMWZyTWFBdFZWUzBFUnVYaXdRZG9oaHIyZW1mOFdzSmJPR3VLQ3lUVjV1TzhHRnNubTQxeUJVUWtUZVduZzdlWFFRVERsZXRTQmFGUklSbENPY2I5eC1KYTFyTlhIS3BqQUpQT3ZOV0FuekFzTUZYZ1RLdTRKb3lBZ0JST1VDQUNPUmR4TUdya3d3WlZlMnloVDc0WDJlUQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra govt inducts over 250 Navy Agniveers into coastal police: Fadnavis  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt inducts over 250 Navy Agniveers into coastal police: Fadnavis ThePrint"
+            ],
+            "tldr": "Maharashtra govt inducts over 250 Navy Agniveers into coastal police: Fadnavis T"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1792822886067",
+          "title": "Raut Alleges Rs 10,000 Distributed Per Voter In MLC Election - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWU2NHUwdlZod3ozd0I4Nmlfb1RoZm1NZUJjRndUeFRxOFZoV0U1eHVGZ3UzOXNkLU1PVDJzUXBtaG5GLW1CcEtJMUhSdWNjckRnOFpIb3A5WjBCa05RSGdxeC1CaWEzbWVBSTdZTUpmZzhTLUw5UHlHOU91a0ZHVFE3aTdNaGNwV09OVldLemIzcmFfM3kwV1dmTDZaTzRoY25CSDZieTZkZ9IBrwFBVV95cUxNaGI5MzFKd1pUb2FfXzJvSndlcEx3eTN3T1VKaERUTTNTb21DaUZZNnd5djkza29xdHlEOXZ4OXZ2b0lfazN2U3d1NTVjN21OaEdWRzhPWmx6MTdkRUlPRjhsSGFaTE9aa1VrUW0zUlJZTkRVQk5jeUx0TmlKX1l3VVQ0UENzTnlEcHEyU2hNbTgxZmZMZG52MVhBQVFBVkNfcF9mczBabVpqZHZESjNj?oc=5",
+          "time": "13h ago",
+          "body": "Raut Alleges Rs 10,000 Distributed Per Voter In MLC Election  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raut Alleges Rs 10,000 Distributed Per Voter In MLC Election Deccan Chronicle"
+            ],
+            "tldr": "Raut Alleges Rs 10,000 Distributed Per Voter In MLC Election Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1792822886067",
+          "title": "Maharashtra govt to provide reservation in government jobs to Agniveers, says CM Devendra Fadnavis - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORm85cGoxRl9UZVUwWUNwcEpjR1BFdXRZMWVSQXFUUHpBRGVyX2lyWVhfdjdaaFFhSGZoRTVPQTd2TTVFRVc4YmJXdUxXbVd1bWY3NFI0QmU5QWU2MHNnSWIzMXpLb2kxNVdUTlpnY0VyVkxsMnVDTG5nNWVBTmhIMm9YUlhRSEs1WHVaZUtLZE5XY3pYNFZMQWlXRlhNaGdkYlcxWk1wRTdQdUpvMWFKZ0dkMVF6UHliakdzOFBvMEQ3WGR3dzNCZmszTkhRLTg4QUlqSjFzZk5WblV4TFFjSldzSXZSMFFmTjlFYnhkWEYwYTg?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra govt to provide reservation in government jobs to Agniveers, says CM Devendra Fadnavis  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt to provide reservation in government jobs to Agniveers, says CM Devendra Fadnavis ANI News"
+            ],
+            "tldr": "Maharashtra govt to provide reservation in government jobs to Agniveers, says CM"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1792822886067",
+          "title": "Government of Maharashtra issues civil works tender for Chandivali Vidhansabha in KURLA L WARD - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHA1WDlXa2hTWldRRU9ESmhaN3VvcVh1d0xmeG9HaXE0cWVNNTlGUzBPbUQwQUFjUEQ5d01NbklEQXloZGRzR0l6Z2l0bUFBaWhVT1hoNVhLVVpVSWZjVjR4cmRIVW1ja2VsdlBGcThlUGtKajktOGZ0eDd2RWJ4MFNJRVMzdHk5cmRlTw?oc=5",
+          "time": "10h ago",
+          "body": "Government of Maharashtra issues civil works tender for Chandivali Vidhansabha in KURLA L WARD  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra issues civil works tender for Chandivali Vidhansabha in KURLA L WARD Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra issues civil works tender for Chandivali Vidhansabha i"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1792822886029",
+          "title": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGFzWkhIeU94QXI5cng5VTJMbVV1SVo1R25QMzNJdU5iXzExT1VvbFNLYnZDNHRidFBvZFN2X0N4YzkwVGVDY0QyOEZjbUVRSEFCT2JYd0dZZW5wdlNuV0RzaGJ1N0VnTWFvRjQwS2Flc3pfMGx1LTFUZ3UwT3ZXOXpWaU9HX0gtdlB1QlRNVVlDZFJzQ3Q4ZEdlWDlHZ193emxZ?oc=5",
+          "time": "3h ago",
+          "body": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA New England News"
+            ],
+            "tldr": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1792822886029",
+          "title": "Markets extend losses for 4th day amid selling pressure, oil price surge - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmEzQjFiR2tJQmJBSXFpR2kyVFJMeEZWUnBZYVhhR2dlUEg1Y2xfRWZDekFuNVN3UWxiMmtQQ25xRUdVd2M0aUI2ZUx1MnYzajFGdlFrLXJlRk9jSFRNZ1Y2MnV5RXI2cm84X1NmUlFfdlFBWWlWcVVnRF9fbkk5WUk3R0JPZ2M4bnRQbmVndGVFYXVlRnNQQllWWGt3V3A2M1RCVTc5MjZ3aUk?oc=5",
+          "time": "19h ago",
+          "body": "Markets extend losses for 4th day amid selling pressure, oil price surge  DT Next",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets extend losses for 4th day amid selling pressure, oil price surge DT Next"
+            ],
+            "tldr": "Markets extend losses for 4th day amid selling pressure, oil price surge DT Next"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1792822886029",
+          "title": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa21SUXZpaHJ6M3ZYQnZYYnRFeldIQl9pS2dkUlBULUw0QVZnaDd1bVpUN2NlRElzak1hQmpEcDV2ekFFNDJldG9RUXNidlYwTUVIb21EbjRUQ0kxeHZrZGRLaUtMczVaRGFEMEsxZFBMTU85SXNjM2xHbXdzNnNrMERWVlVLalFlUmprNkVSeGU5T1Y2cGszZ1VyVnN3MS0xb3Q5RnRFOHNzT3V6dkFoRk13UGh2LTIybl9yakVRZGZyMG1BRmZGSmlKZU1UbWZZc3FsS2IyRlFjamdy?oc=5",
+          "time": "6h ago",
+          "body": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra?"
+            ],
+            "tldr": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, M"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1792822886029",
+          "title": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1JaVTd3SURLaTBsd1BBOE5VLXdMV2dzMEtzcy1TLXlpN0Fzclg3Y21KTVdxejFRcVZvQUlUOHB1em1Oa2k4VEN1VDJ1VGZ2STZfRVNGUmwwWUxzQkJRdGRyZnROOW5Ob0NleDk5R0tVVXJPSE1COU9IaEJjS3JLZU5IWXV2X25TMG1QRjZBREhraGI0dTIwSU5yUVdIRFNWLUJiTXdFdGpxWWREaHBlMUpSRzdpaHY3QXZWNWFSWkpHYzZvNXNGQw?oc=5",
+          "time": "19h ago",
+          "body": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red  ANI News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red ANI News"
+            ],
+            "tldr": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1792822886029",
+          "title": "Sensex, Nifty reverse early gains to tumble 1 pc as crude tops USD 114 per barrel - The Sen Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2Z1MVhjYWdMNm11d1lFcTNpb2RNNklzclRNWnBZcUpMUmgwa0xJNkM4ZWFBa3dPT1NzUXQ1UlFvUFUteF9wZXpJdjc5VmFpZ1ljZGN5TzR2WkkxU2tPdUVOQzl4SVJudElyNGZ4aU1BTlJKUlZvLVRYRHR1VWN3aE00SjZSMGVKY01veHZKUGNSN1lIYjFvVnBFZjlxVVJrM1k3ekwxNlo?oc=5",
+          "time": "21h ago",
+          "body": "Sensex, Nifty reverse early gains to tumble 1 pc as crude tops USD 114 per barrel  The Sen Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty reverse early gains to tumble 1 pc as crude tops USD 114 per barrel The Sen Times"
+            ],
+            "tldr": "Sensex, Nifty reverse early gains to tumble 1 pc as crude tops USD 114 per barre"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1792822886029",
+          "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZERhbk1IVmxSRzlWblZQZTFyZGczbHdEVEF2NlZTaGJfZ1JWWV9UOGZraXFMZktLazJubmRpS3dET09YZVlQX01YSHYybWZPZFUxdmZMTXVidkpYbFdvU1RJMVUxSGlpcTVxQk52NHJVS3hMa1lpYlpTLXFkYlVhZTFEMGdPV3Z1Z3R6VjlGdmlyR00yYWxqUkVVenNNTkpFTmtrQk1TR3czQdIBqgFBVV95cUxOZERhbk1IVmxSRzlWblZQZTFyZGczbHdEVEF2NlZTaGJfZ1JWWV9UOGZraXFMZktLazJubmRpS3dET09YZVlQX01YSHYybWZPZFUxdmZMTXVidkpYbFdvU1RJMVUxSGlpcTVxQk52NHJVS3hMa1lpYlpTLXFkYlVhZTFEMGdPV3Z1Z3R6VjlGdmlyR00yYWxqUkVVenNNTkpFTmtrQk1TR3czQQ?oc=5",
+          "time": "23h ago",
+          "body": "Sensex, Nifty rebound after 3-day fall on IT stocks buying  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty rebound after 3-day fall on IT stocks buying The Hindu"
+            ],
+            "tldr": "Sensex, Nifty rebound after 3-day fall on IT stocks buying The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1792822886029",
+          "title": "Sensex dips 125 points, Nifty slips 87 points amid elevated crude oil prices - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2E3enIydHpQSFE5akIyUERHZ3k5WTJ2aDRmbnVzMVdCYkVPOFozM0FydDU2ZGZKenhwOThnVGloZ2lSclhfZXZCM000UDlQVDBTTzE5MVFBcThPVF9QRWdJV3g2MWhxN2JkZVE3bU1kSV8yYjRHNUxRRGI4c2hvOWpoaUJKakZfR0VjQi1ROThPcl8yZW1ZUG1qd2Y2OUFvRlRMS2I0NEI5ODdsSU5zVWQwVUxzOE1pOG5Ubm1Uc01TdzJZbkFtUXVZNFl5di1nOFhvbWRxcw?oc=5",
+          "time": "18h ago",
+          "body": "Sensex dips 125 points, Nifty slips 87 points amid elevated crude oil prices  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex dips 125 points, Nifty slips 87 points amid elevated crude oil prices Mid-Day"
+            ],
+            "tldr": "Sensex dips 125 points, Nifty slips 87 points amid elevated crude oil prices Mid"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1792822886029",
+          "title": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm9iaHFnTHJfRGhBQVZpdU5ycGRGb0tOb1ZiRUR2dEJIR0tUYU9MTmpaRHBhZnB4MTMtQkVLNGZLWEhfMjBHcUJwaDB0bTAxemlOcGFIWDM0TlNKeG5acjVvVGtUVk1HSzVDdFNUQmNWeDJfMlhNR0F3Nk1MVm9GeGFNOWxMWUZMWWw2ZWpIcTVORzd3NDR5Z0J0OWhxMFpqTVVfQmctcFF6MDBT?oc=5",
+          "time": "6h ago",
+          "body": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally INDIA New England News"
+            ],
+            "tldr": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rall"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1792822886067",
+          "title": "Mumbai Diary | Rahul Gandhi set to address mega rallies on SIR - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaHlYbS1Ra2F1Z2NPSUVWNHBvZjlIRW53WUZBNmI5LWJTYTRaTkRpaV9LVE5pbTdMTUVBNl9FZWNWejlUSno1bVQzc3JobDBOR21hb3lITE8zclJDSm1yWW04QkR4THhMQ1Qya085Y0ZMUGx1dEtGWmRwM1ktbU9iN25QZVp0WGdneFFNNWtvSnplaWhUTi1xNTRPVVZRZHpqblo1YUJka0FDTVgxMzJmZE5nTmZUa2R5VWxEU2ZZYUdGd9IBzwFBVV95cUxPS3ZpR1NGby1DU3FRS3hIVzBMbWJTb0dlcVNpMWI0bTFzWnFXelVwYUNPWktpeUZzZ3B3RmdJSUJQZnhRM0wxTHpwdHFHa01mTUZxWi1tMFNLMzdwaHNvaURuaWNEb0tVQjBBU3hrUWZIZEI4dGd1Ykc2RDlpMWJYQmNMMWwzVVowNk9vV2ZvMGlyNHFMektISmNkSGpIeGU0YWhDY1pDUnhjR01Vb20ybGcxNnVnYzJoOE9FbS0zMnRvV19kZkI0T1J5UnZYcmM?oc=5",
+          "time": "3h ago",
+          "body": "Mumbai Diary | Rahul Gandhi set to address mega rallies on SIR  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Diary | Rahul Gandhi set to address mega rallies on SIR The New Indian Express"
+            ],
+            "tldr": "Mumbai Diary | Rahul Gandhi set to address mega rallies on SIR The New Indian Ex"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1792822887398",
+          "title": "Hexaware Hosts Greater Manchester and West Yorkshire Mayoral Delegation, Deepens Partnership with University of Leeds - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ2gxQVY1VDJzc3ozLW56SE14LWhkUkZKSVBIWlN4V2d5WWV2Y2hIR29NaTRZUHlYXzlzSThoVzlJZEJZcDh5bGh6RXVxRElnQnZOSk0yS2N0LW5iY25ib2o5VjU3ek9wWXoxWUJmWkF1dld4UHJhTWJwbml3NTVuTGowa3UzV1Q1b2tMUGp4MVc1S0NGdVAtTmNCcWVDeUVST1FHcm1HRlFZMEl0UzRZMFVjWFo4OVRrT18xY3hkcnF6MG5vd29IcFoyNjNfQ2pobUdDZjJCdmc1amlrMFd4b3p2dTVhS3N0MHNDRVg2RmFPem5ocHNfTFBSWQ?oc=5",
+          "time": "22h ago",
+          "body": "Hexaware Hosts Greater Manchester and West Yorkshire Mayoral Delegation, Deepens Partnership with University of Leeds  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hexaware Hosts Greater Manchester and West Yorkshire Mayoral Delegation, Deepens Partnership with University of Leeds ANI News"
+            ],
+            "tldr": "Hexaware Hosts Greater Manchester and West Yorkshire Mayoral Delegation, Deepens"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1792822887398",
+          "title": "CISF upgraded training: CISF, NeGD sign MoU to train personnel in drone technology, AI and cyber security - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY2xBeE1HQU8zeUhUaUhtLXU0cVZFcHh3Ul83aE5WY3lsQXhrZ21lVjdIOFRwaDlIRVhfNFVnZ2Nlem9jZFZSNXJaRFhqb3EwdUJDTWVZaFgtbXBkZWpMRnhCNVhzUlpKMlJPU1B2VFVDTWJMLTFQVk05NV9rQjR4TE5fRFNBOXBGdlNaMWhJR2Rib1JSUE5FY1dTcVdETTRKdmdXRGFxV0Z4YlF0UElXVTNCcHNmTFBUUE54T0FjNjktZ29JRm1XazR0TW92T2hTZ0lHdUFPMVpHanc1blU5cFJmR1VDOGRLVzRfdS0yLTE?oc=5",
+          "time": "17h ago",
+          "body": "CISF upgraded training: CISF, NeGD sign MoU to train personnel in drone technology, AI and cyber security  Mid-Day",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CISF upgraded training: CISF, NeGD sign MoU to train personnel in drone technology, AI and cyber security Mid-Day"
+            ],
+            "tldr": "CISF upgraded training: CISF, NeGD sign MoU to train personnel in drone technolo"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1792822887398",
+          "title": "Binance's AI-Powered Security Systems Prevent $4.6 Billion in Crypto Losses, Protect 8 Million Users in First Half of 2026 - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOOEtBbVNBTjcxb1ZwZmRvcUFzb0JvQXFCcHkxOVVEbzAwRE11Y0UxaUdDYl9KWmVKYWtsTlZ6aXZxbmhqcWp6TG5uRkplMDU2dU8ybTdVTVU4UGQ5MTBILXhUS3Y3UGhZYzVoREphUGZCenRlT1k3NEgxWjQzVEFHcjA4dGk2bU05cXM0cHNPYktKMWpST3liQXV6LTE1Y1QyU0g1dXVITlpQTldxQUNiVEVPdEY4YUp3QklvellNMHMyeENiRUxGb25WNjZSY3dhVmlhXzJYVUlWbU1Jbzl2eDZsNGU3MU9oQ2NIcG5GUHVlLU1fTzhfZGhRQi1RSDZXRVExcFFBMld3aDNRRE8tTjE3eUt6bUFVanBKR3M3T0c0ZUtnWER4VWFVQUJDZ9IBrgJBVV95cUxOOEtBbVNBTjcxb1ZwZmRvcUFzb0JvQXFCcHkxOVVEbzAwRE11Y0UxaUdDYl9KWmVKYWtsTlZ6aXZxbmhqcWp6TG5uRkplMDU2dU8ybTdVTVU4UGQ5MTBILXhUS3Y3UGhZYzVoREphUGZCenRlT1k3NEgxWjQzVEFHcjA4dGk2bU05cXM0cHNPYktKMWpST3liQXV6LTE1Y1QyU0g1dXVITlpQTldxQUNiVEVPdEY4YUp3QklvellNMHMyeENiRUxGb25WNjZSY3dhVmlhXzJYVUlWbU1Jbzl2eDZsNGU3MU9oQ2NIcG5GUHVlLU1fTzhfZGhRQi1RSDZXRVExcFFBMld3aDNRRE8tTjE3eUt6bUFVanBKR3M3T0c0ZUtnWER4VWFVQUJDZw?oc=5",
+          "time": "16h ago",
+          "body": "Binance's AI-Powered Security Systems Prevent $4.6 Billion in Crypto Losses, Protect 8 Million Users in First Half of 2026  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Binance's AI-Powered Security Systems Prevent $4.6 Billion in Crypto Losses, Protect 8 Million Users in First Half of 2026 Business Standard"
+            ],
+            "tldr": "Binance's AI-Powered Security Systems Prevent $4.6 Billion in Crypto Losses, Pro"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1792822887399",
+          "title": "Achievers from Various Fields Honoured at State-Level Awards Ceremony - 2026 - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMlBacTVZV0oyckw0dHRaLXhmQnVVbHVUcXJnQkp0bzBLYVNyX0NNcHp2MjloQ2k5YVdkelRyamV3RFZaekZRWVRxbVpXZk55MVUyYkNTSVR5dk5kTWJaSk5xc0lLc3JYRmxtM2pCZEpUR25ZTExqUDBPUWJOa2ZBcVpabE9EUDY5LWRBV1kwczl5d1FQOV9aVDBpU2N2aFREam5VbjA3QzlJZzNuU01GRTJDTXdYZTYxOHlJY1dJb2txWXlhWjdSVW90cW5uXzBLUEpqamZUM0k3dXRzRXk1ZndrU29XM2ZBTmlqbkJjeUbSAfABQVVfeXFMTTJQWnE1WVdKMnJMNHR0Wi14ZkJ1VWx1VHFyZ0JKdG8wS2FTcl9DTXB6djI5aENpOWFXZHpUcmpld0RWWnpGUVlUcW1aV2ZOeTFVMmJDU0lUeXZOZE1iWkpOcXNJS3NyWEZsbTNqQmRKVEduWUxMalAwT1FiTmtmQXFaWmxPRFA2OS1kQVdZMHM5eXdRUDlfWlQwaVNjdmhURGpuVW4wN0M5SWczblNNRkUyQ013WGU2MTh5SWNXSW9rcVl5YVo3UlVvdHFubl8wS1BKampmVDNJN3V0c0V5NWZ3a1NvVzNmQU5pam5CY3lG?oc=5",
+          "time": "19h ago",
+          "body": "Achievers from Various Fields Honoured at State-Level Awards Ceremony - 2026  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Achievers from Various Fields Honoured at State-Level Awards Ceremony - 2026 Business Standard"
+            ],
+            "tldr": "Achievers from Various Fields Honoured at State-Level Awards Ceremony - 2026 Bus"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1792822887399",
+          "title": "ORRA Unveils 'Iss Diwali, Bann-Thann Ke'(Go All Out this Diwali), a Festive Film That Enhances Its Design-Led Journey - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZ1VsejVYRnYwNGQ4S2pSN0VfaTFjMzEzU1haQnIyWXM3NmRIVGpFa3FGYlVfZnV1M0xVMS1PVU5CVXNxX2RDVWtQWXpqOG9GWVRaelVSZHBPd3VMLV9wdUMyc3UxNXFWc1RBVEFCd0liUjlQMzl6QVV2NXl5RlRkbTVMeDNoM1ZTTnZDUWtldm1YaE1RSnA5ZjRJLVZGTlFBcWEtMi1yOVYxWlVicFJYcGFHQ0RXVE1rQ3FNbVJWZVNXUU5xZUZ0eFFyVnFvRXJ0cnJfLWlSNHd1Q0RBR3IxbmpxWkp6WjFCLUpLcFVqalRwbHNlS1dQMWVUVENmQzVuZVVTYjE3WnJCNkowQUh3djJORE5Oc3FBMnVGNUhkUGdSZ03SAaMCQVVfeXFMTWdVbHo1WEZ2MDRkOEtqUjdFX2kxYzMxM1NYWkJyMllzNzZkSFRqRWtxRmJVX2Z1dTNMVTEtT1VOQlVzcV9kQ1VrUFl6ajhvRllUWnpVUmRwT3d1TC1fcHVDMnN1MTVxVnNUQVRBQndJYlI5UDM5ekFVdjV5eUZUZG01THgzaDNWU052Q1FrZXZtWGhNUUpwOWY0SS1WRk5RQXFhLTItcjlWMVpVYnBSWHBhR0NEV1RNa0NxTW1SVmVTV1FOcWVGdHhRclZxb0VydHJyXy1pUjR3dUNEQUdyMW5qcVpKeloxQi1KS3BVampUcGxzZUtXUDFlVFRDZkM1bmVVU2IxN1pyQjZKMEFId3YyTkROTnNxQTJ1RjVIZFBnUmdN?oc=5",
+          "time": "17h ago",
+          "body": "ORRA Unveils 'Iss Diwali, Bann-Thann Ke'(Go All Out this Diwali), a Festive Film That Enhances Its Design-Led Journey  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ORRA Unveils 'Iss Diwali, Bann-Thann Ke'(Go All Out this Diwali), a Festive Film That Enhances Its Design-Led Journey Business Standard"
+            ],
+            "tldr": "ORRA Unveils 'Iss Diwali, Bann-Thann Ke'(Go All Out this Diwali), a Festive Film"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1792822887399",
+          "title": "The Godrej Literature Live! Mumbai LitFest 2026 Opens With A Fiery Big Tech Debate, Democracy In The Digital - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcFJQME4tOVVEbkdWdkxCd1YwWmlsU3R4MUIzbHhwLWVfTmhmR0dEY1c5a3l5d2N2bGsxNkJkWWRTSTFKWFJJODhmNk5WdWxFSGNNcHQwaUxVWXhnWER1YTlmSGwyaUVSLTlMRUNXLTJwWi1VbG1ueUdhYXM1U2VpVmJIZ05XcG5kN003UGM5U1otOUVCemZuUmVWbXdzTFpzUHZQM0pxMFRSSXpyNWQyM05qRk1VR1dGdFR1VndfMy1ZVjFCOHRkLUlWNkJLblJkX2xMOXl5c2MwUjltQ3lIdnZUR3MzTFXSAewBQVVfeXFMUDFrbEZMSl9LT1ptUzdEOEoyUnlIdFJpU3IzcEQ3c1VUWFV6QzFhdnRQQnFKXzJYS0xQZG11Vl9vblRETHVyb0E4U01QdmtER2gxai1SbG1SVjVMWFlNUG54Y2JXek9PeW1xVERsZ3VycFRoUEtCTnJKQzhqOHdUc2ZVM1lKamtpT0U2T2t6aTdZelFZUk8yOTNTdks1TnNVMWx6VHgzSlVTMXgwMFBTZndBNzVkTmZ6WnBMajA2MFlVME5RVUlYNjNLUEdERFJnVlRHTU1rLXZmb01FSE9jM0NQUHlsczlIOEJGT2M?oc=5",
+          "time": "1h ago",
+          "body": "The Godrej Literature Live! Mumbai LitFest 2026 Opens With A Fiery Big Tech Debate, Democracy In The Digital  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Godrej Literature Live!",
+              "Mumbai LitFest 2026 Opens With A Fiery Big Tech Debate, Democracy In The Digital Free Press Journal"
+            ],
+            "tldr": "The Godrej Literature Live!"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1792822887447",
+          "title": "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027 - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY0l5VklPdGRYTnFuVVJOTDJER2ZVOV93eEFkSXBJakVwTjE5OWdrTkJxcm1Tb2hMWnlRRll6UDE2aUlCN0kyOXR1SGR6Q0REUDBpZlZKSFhmdC12TEtLcjc3ck54TVRROXlKWko5aDdTY3Jjd09SM0FZQzQ2U0thYWJyUENpNGl5UGEyT1VZRU8wYWUybmRuNTRKd1k5ejVuSG4wYW5EbHREZ1Q0OGo3YzdhNGVubWEyZTl5N2JZZ2FRWkdVMDN4WlhIWW5iN2ZMUTlUdGk3cVlmbWY3aUpoT3dSLUdEVTRtUHROR1NyNFd5eEs20gH6AUFVX3lxTFB2bkcxUDY1dkdiODZndUhnZW5ySjlzWUZHQ2FyM2x4S0h1VHdDeElVU2lfZldybHdEM0VFRmtqMjY4YldGUmFVUlo5MTVWXzFqN3VYbHRjUDN2SjRUeHVpTGRyWDctNVRZYWVPNVBDWUZNSUNyTTdBcGRyYWxEMU10WWtiMHJJTEJUZmJxRGxOcXhvamxvSTBWYU5nWVZoR1pHdXo2eURpb0FRdFNzUU9KQ2pJTzJzZWxVWFNTb2h3WG9aZGd6Tkx1ZXFaVklabDVtNGJYck9ha0c0NDk2WnkxQ0h2QzZjYmYyWGlqMmNFV1BpTVVobDBPNGc?oc=5",
+          "time": "1h ago",
+          "body": "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027 The Times of India"
+            ],
+            "tldr": "Mumbai Indians appoint Kieron Pollard as head coach ahead of IPL 2027 The Times "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1792822889895",
+          "title": "IND vs NZ 2nd T20I: Vaibhav Sooryavanshi likely to open as India look to go 2-0 up",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "IND vs NZ 2nd T20I: Vaibhav Sooryavanshi likely to open as India look to go 2-0 up. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs NZ 2nd T20I: Vaibhav Sooryavanshi likely to open as India look to go 2-0 up. [object Object]"
+            ],
+            "tldr": "IND vs NZ 2nd T20I: Vaibhav Sooryavanshi likely to open as India look to go 2-0 "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1792822889896",
+          "title": "18-year-old Anahat's historic run at Silicon Valley Open comes to an end",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "India’s Anahat Singh exited the Silicon Valley Open after losing 3-1 to Malaysia’s Sivasangari Subramaniam despite winning the opening game. Sivasangari praised the 18-year-old’s talent and potential after staging a comeback. Anahat had earlier defeated world No. 14 Salma Hany to become the first Indian woman since 2019 to reach a PSA Tour Gold-level semifinal.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s Anahat Singh exited the Silicon Valley Open after losing 3-1 to Malaysia’s Sivasangari Subramaniam despite winning the opening game.",
+              "Sivasangari praised the 18-year-old’s talent and potential after staging a comeback.",
+              "Anahat had earlier defeated world No. 14 Salma Hany to become the first Indian woman since 2019 to reach a PSA Tour Gold-level semifinal."
+            ],
+            "tldr": "India’s Anahat Singh exited the Silicon Valley Open after losing 3-1 to Malaysia"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1792822889896",
+          "title": "Nihal, Humpy clinch individual gold medals at European Chess Club Cup",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro, with Nihal Sarin winning individual gold and Pentala Harikrishna taking silver. Karthikeyan Murali secured bronze, while Arjun Erigaisi finished fourth. In the women’s event, Koneru Humpy won individual gold and helped Cercle d’Echecs de Monte-Carlo clinch the team title.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro, with Nihal Sarin winning individual gold and Pentala Harikrishna taking silver.",
+              "Karthikeyan Murali secured bronze, while Arjun Erigaisi finished fourth.",
+              "In the women’s event, Koneru Humpy won individual gold and helped Cercle d’Echecs de Monte-Carlo clinch the team title."
+            ],
+            "tldr": "Indian grandmasters impressed at the European Chess Club Cup 2026 in Montenegro,"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1792822889896",
+          "title": "Asian Para Games 2026: India wins record 114 medals with just 168 athletes",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Only 168 Indian athletes - 112 men, 56 women - competed across 11 sports, little more than half the 303 sent to Hangzhou in 2023. Yet India has surpassed its previous best of 111 medals there, when it finished fifth and bettered the 72-medal return from Jakarta in 2018, where 190 athletes represented the country.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Only 168 Indian athletes - 112 men, 56 women - competed across 11 sports, little more than half the 303 sent to Hangzhou in 2023.",
+              "Yet India has surpassed its previous best of 111 medals there, when it finished fifth and bettered the 72-medal return from Jakarta in 2018, where 190 athletes represented the country."
+            ],
+            "tldr": "Only 168 Indian athletes - 112 men, 56 women - competed across 11 sports, little"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1792822889896",
+          "title": "11-year-old Indian-origin prodigy Bodhana breaks Polgar's 38-yo record",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Eleven-year-old British chess prodigy Bodhana Sivanandan has become the youngest female player to qualify for the International Master title, breaking Judit Polgar’s 38-year-old record. The English Chess Federation praised her as a “generational talent.” Already the youngest Woman Grandmaster qualifier, Bodhana has achieved several historic milestones and is now aiming to become a Grandmaster, chess’s highest title.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Eleven-year-old British chess prodigy Bodhana Sivanandan has become the youngest female player to qualify for the International Master title, breaking Judit Polgar’s 38-year-old record.",
+              "The English Chess Federation praised her as a “generational talent.” Already the youngest Woman Grandmaster qualifier, Bodhana has achieved several historic milestones and is now aiming to become a Grandmaster, chess’s highest title."
+            ],
+            "tldr": "Eleven-year-old British chess prodigy Bodhana Sivanandan has become the youngest"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1792822889896",
+          "title": "Five ducks, 113 all out! India A batters suffer horror show against New Zealand A",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "On a grass-covered pitch offering assistance to the fast bowlers, the Dhruv Jurel-led side had no answers to New Zealand A's disciplined attack. Five Indian batters failed to score a single run, while the top order once again failed to justify its reputation.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "On a grass-covered pitch offering assistance to the fast bowlers, the Dhruv Jurel-led side had no answers to New Zealand A's disciplined attack.",
+              "Five Indian batters failed to score a single run, while the top order once again failed to justify its reputation."
+            ],
+            "tldr": "On a grass-covered pitch offering assistance to the fast bowlers, the Dhruv Jure"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1792822889896",
+          "title": "Will Ishan's injury be Sooryavanshi's gain? 15-year-old in contention for 2nd T20I",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "Ishan Kishan has been ruled out of the second T20I match against New Zealand due to a strain. The team management has added uncapped wicketkeeper-batter Kumar Kushagra as a replacement in the squad. Vaibhav Sooryavanshi may finally get an opportunity to play after being on the sidelines for nine matches. Batting coach Sitanshu Kotak emphasized the need for patience regarding Sooryavanshi's exposure to international cricket.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ishan Kishan has been ruled out of the second T20I match against New Zealand due to a strain.",
+              "The team management has added uncapped wicketkeeper-batter Kumar Kushagra as a replacement in the squad.",
+              "Batting coach Sitanshu Kotak emphasized the need for patience regarding Sooryavanshi's exposure to international cricket."
+            ],
+            "tldr": "Ishan Kishan has been ruled out of the second T20I match against…"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1792822889896",
+          "title": "'Venomous at worst': Monfils breaks silence on separation from Svitolina",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Gael Monfils has defended Elina Svitolina against criticism following their separation, urging fans not to blame her for his early retirement. Reports suggest their breakup affected his decision to end his career sooner than planned. Despite their separation, Monfils emphasized their continued respect for each other, saying they remain a family and will prioritize their daughter, Skai.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gael Monfils has defended Elina Svitolina against criticism following their separation, urging fans not to blame her for his early retirement.",
+              "Reports suggest their breakup affected his decision to end his career sooner than planned.",
+              "Despite their separation, Monfils emphasized their continued respect for each other, saying they remain a family and will prioritize their daughter, Skai."
+            ],
+            "tldr": "Gael Monfils has defended Elina Svitolina against criticism following their sepa"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-4-1792822888871",
+          "title": "Indian-origin siblings sold cookies in 2018; charity gave 100,000 books",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support. They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities. The foundation has since reached over 15,000 students across Texas and partnered with various organizations for resources. Their mission continues to focus on underserved communities to ensure equitable access to education.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support.",
+              "They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities.",
+              "Their mission continues to focus on underserved communities to ensure equitable access to education."
+            ],
+            "tldr": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books…"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1792822888871",
+          "title": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]"
+            ],
+            "tldr": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhet"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1792822888871",
+          "title": "JD Vance’s immigration tiger is turning on its rider",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event. An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants. Vance defended his position by claiming he was criticizing corporate practices rather than foreign workers. His remarks have led to significant backlash from various groups regarding his mixed heritage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event.",
+              "An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants.",
+              "His remarks have led to significant backlash from various groups regarding his mixed heritage."
+            ],
+            "tldr": "US Vice President JD Vance admitted his rhetoric on H-1B visas was…"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1792822888871",
+          "title": "Indian jailed for life for murder of woman he met at a brothel in UK",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]"
+            ],
+            "tldr": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Ob"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1792822888871",
+          "title": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]"
+            ],
+            "tldr": "Indian-origin engineering manager says H-1Bs included equal share of Indians and"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1792822888871",
+          "title": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple. [object Object]"
+            ],
+            "tldr": "US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temp"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1792822888871",
+          "title": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say...",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return. Redditors say.... [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if not liking life abroad a good reason to return.",
+              "Redditors say.... [object Object]"
+            ],
+            "tldr": "'Faced a lot of racism': Indian woman working as a nurse in Australia asks if no"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1792822888871",
+          "title": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative? Beg them to allow us to stay?'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed messages to NRIs, he says, 'What is the alternative?",
+              "Beg them to allow us to stay?'. [object Object]"
+            ],
+            "tldr": "From 'come to India' to 'pray for us': Sridhar Vembu trolled for sending mixed m"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1792822890226",
+          "title": "Steel Strips Wheels Approves Rs 1,400 Crore Plant in Chhatrapati Sambhajinagar - Autocar Professional",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVFaWnB1cU9QNV90eGViSnQ3WkxvdHpQS3R0YW9GOUVVV2RBcmFxdl81cm9PSlN6YUhSMDhQY0g3enlQRGdpUWd4dFJGY041SVpTOUREeXE1SUxWMXNvNkI3WV9SelBiMHZkVG1WckhhYngzajd0OFdNbktJY2ozaXp0bmNEU2I2RFRWeV9FV0xQVDlabkljZnEyWG9VRzNEdzZIcGdIZ0RUeDBJV29DQTk4czBMd9IBvgFBVV95cUxPUk8xYXpISzFzUnZ3NXVxNGJTaWRERHNWMHIySHJ3clZRcXFmVFkxejdoOUZ0SlNkZExEWUFucXc5eUV2UVlsOEh1YjRkcGdUWTc0TTN3ZG96R1BvS0JKZUVXNmZFYjRMZXVPbTM4VzRITjljbGdTVFVZa2hBOHVaMldmc08tazk3YmdrLUc4OEQ0OFlCcXh3S05oQzZKcVBrZ1JhR2NGRWhmNUJJZEsyOHN1TE1SZ0J5a1VKVENR?oc=5",
+          "time": "18h ago",
+          "body": "Steel Strips Wheels Approves Rs 1,400 Crore Plant in Chhatrapati Sambhajinagar  Autocar Professional",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels Approves Rs 1,400 Crore Plant in Chhatrapati Sambhajinagar Autocar Professional"
+            ],
+            "tldr": "Steel Strips Wheels Approves Rs 1,400 Crore Plant in Chhatrapati Sambhajinagar A"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1792822890226",
+          "title": "Maharashtra man rammed off bike, beaten to death in broad daylight; video surfaces - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcEl2TVhrU3FSYmIwUWdsdnFhendsM0VFT0NiVmFRcm5hLThveXkxT1hVZjUyM2oyd182MGJLb3pYTHFRc3czRGs3X0dIQ3NjaHA3QjZlemZIZnU4UWpQNVVnT0txa2pnd2w2TDhTSXFoZ3hpZ1FaT0c3MEVla2RSOVZwMUJwREM4VGhXMFhoMV92NE1IQUVfbFlmLUVSN0xxYnJGVmJfSl85WGdnOUZoaVRHeGd2bldSSWtQNzctZ1M2RVZyWGtnOGxHaGxnNjFpV05sdU9sc091MjR6aVHSAeQBQVVfeXFMT3BNb2xiclZwUjBYQldlNFVndEtSTDZZWDBsM0ozQkJpV1lydTlsNEMtcE83RVphWUk0ZjJHekNJMmU4ajZTRnRnaHpCMmRaNFVYd3JEY1FZQ2xJelkwMUw2OU1hMDRGVE80c01vVUEwRkxiSHU5Q1lnekFLcHB5MS01Z0ItV3M3UUNaQkZRUXJLQmxjWUxKb2JQT09BWTFhQ1pTUTdYT0ZYMzkzZzIxMUFaZXhBTkdPOTI1NE1vdTJCMVlJMndGTUs2ZVpzYUk5Q2lDaWJmTHdhZWFyZFdjTmZRRkI0?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra man rammed off bike, beaten to death in broad daylight; video surfaces  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra man rammed off bike, beaten to death in broad daylight; video surfaces The Indian Express"
+            ],
+            "tldr": "Maharashtra man rammed off bike, beaten to death in broad daylight; video surfac"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1792822890226",
+          "title": "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTV - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWDY2Z09XVHVaWkhfOVpsNmQ3bXMtblM5MUFwRXY4a1JFeUo5Tk9jQjVOUzQwbVVYZFBWQllTXzROb2ZyMUZnYUhESFlVZVltNHlSempkcWxHYVhfUkRpYnY0R19lbndRa0ltdTNxdzFuZ3FRR1BuZjFJYWRHNnIyYVlMU0h2TmtkZHVRZnd6UmZvRS1ySFRyYVRIM0ZDcXVIbkdzbFkyOHBzRHRvLXRDRVdJRU94UWpnczlNRDdOa1hnWnZMRE9CZUlPanZYRThtNWNRUTNDcHBwSE1aS1JvMV9VSG9Vd9IB6wFBVV95cUxQS0VhY2U0RGM0dVV0Ynk1OEhBZlFDOVNFZTRkTm5jLWhOUW1WS242cHprSGs2cllJYXVmVkFOaFkwSndGazZjLTZQZ0hBY3l0TGRVbGEwb040ZEgyVE51bTk3YkNOR3NfcWZBbE1XZjhneU4xRkV1VHVxNFc2SnlSS083SGQyRXBwdDNTMXpFWlRWQWdGS0VNS1VMNUVmYkp0YWJXSE5mME43R0tWZUozY2xkSGFxRFdUSXk5YS1YU1RxdWwxdkluMU9iVFVjVzJSVzQ1RF9UQVpmV2JUejIwSDF0NU92cU84Uk53?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTV  India Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTV India Today"
+            ],
+            "tldr": "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTV I"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1792822890226",
+          "title": "CCTV footage shows Maharashtra man chased by car, struck with iron rod, killed on a busy road - The Week",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRkpDSDFSeW1uWFZnWHdDZk9IVlE2TWNTWXFXSjF5dl9iQ3pVblFGZ0VoeUlDU09WLUd6LURKaUJmWm1iRjlJODU3b09fLVpWZ1lPczUxbjRsUHJRd0JBUVNLMWVFQTNpVmlua1BDT2hiRzNySmZJdTlkSkVPSUlaSHQwRElUdEJoWjJlS1dRSDJlNjBXbzhkNVlJWHJhLW9UR3JZeFFtcjY1M0wwV0FFY1BwMWVoSHdNMFB5Y0ZzQUF3XzZ2V29WOU0wQnVPNGdySXpRZjJzMTV2dmxkYnfSAd4BQVVfeXFMT0ZKQ0gxUnltblhWZ1h3Q2ZPSFZRNk1jU1lxV0oxeXZfYkN6VW5RRmdFaHlJQ1NPVi1Hei1ESmlCZlptYkY5STg1N29PXy1aVmdZT3M1MW40bFByUXdCQVFTSzFlRUEzaVZpbmtQQ09oYkczckpmSXU5ZEpFT0lJWkh0MERJVHRCaFoyZUtXUUgyZTYwV284ZDVZSVhyYS1vVEdyWXhRbXI2NTNMMFdBRWNQcDFlaEh3TTBQeWNGc0FBd182dldvVjlNMEJ1TzRnckl6UWYyczE1dnZsZGJ3?oc=5",
+          "time": "19h ago",
+          "body": "CCTV footage shows Maharashtra man chased by car, struck with iron rod, killed on a busy road  The Week",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CCTV footage shows Maharashtra man chased by car, struck with iron rod, killed on a busy road The Week"
+            ],
+            "tldr": "CCTV footage shows Maharashtra man chased by car, struck with iron rod, killed o"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1792822890226",
+          "title": "Maharashtra Man Run Over by Car, Chased and Beaten to Death on Busy Road, CCTV Captures Brutal Attack - Gujarat Samachar",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN0l3UkFRQmdOX1h3WXJLMkxQUEFoZWlidFBSUmdnNFUzTmJHczg5NU05RFlTU2lKMUE3a2htSVBYNDJFYUtidmRHYjhkQlVhSDE4ZUlONExVRndGeDVYbEVxYXotRWJFY2pxc29vc1NVZDd3RzVfdktabjkzX0Z6QkZ4cy1EOXJOeHFtTTJ3UUJUaDltOV9GWktxcmgtam85bUpmdXRkaEhpaDl5N09ob0Z4SjhRQlNDTHJ4M19pZjYyRlFtQ2R5OEVQel9DSHJCcUVzM3N4SEhRUVJ2ZDBseDNLamludk85Q21uUlU3dEE?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra Man Run Over by Car, Chased and Beaten to Death on Busy Road, CCTV Captures Brutal Attack  Gujarat Samachar",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Man Run Over by Car, Chased and Beaten to Death on Busy Road, CCTV Captures Brutal Attack Gujarat Samachar"
+            ],
+            "tldr": "Maharashtra Man Run Over by Car, Chased and Beaten to Death on Busy Road, CCTV C"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1792822890226",
+          "title": "Multibagger Smallcap Stock Announces Major Capex at Chhatrapati Sambhajinagar; Net Profit More Than Triples, Shares Jump 16% to Hit Fresh 52-Week High - Dalal Street Investment Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSTViZUgyeldmV0owYjRDYW1qRWJFVWlTV2R5UzVJSEFUSThrYzEtSlYxZnV0MzlVUW95ZXRmMkd5V01qZEtReTRMTlJ2N19nVkVPeFlGcVZvVUQtdTVCUmF4aHZpWHh3UWhQa05NcUVwUFVlbWgzbXFxcVdLeU5lWTRmanFtR1hYclkwc01ucmlDMFhNdXVualpGUXIzbHZMVG43NGZDX3VmRHNHYU9uclBha1gzVGJHX0NmX3VzRWM5ZzdrSGxsRGQ4RW9RcWdqUFc0b2R2R20zY21FNjZmNUNtbVdaZTc4OWRpbFpWRGpDQU1ramhub3JYUkV2T19aWGJWWEc3bmtYRk9aM0p3NFJBbmJ3cTFYWlA4UEIwbjNXUQ?oc=5",
+          "time": "22h ago",
+          "body": "Multibagger Smallcap Stock Announces Major Capex at Chhatrapati Sambhajinagar; Net Profit More Than Triples, Shares Jump 16% to Hit Fresh 52-Week High  Dalal Street Investment Journal",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Multibagger Smallcap Stock Announces Major Capex at Chhatrapati Sambhajinagar; Net Profit More Than Triples, Shares Jump 16% to Hit Fresh 52-Week High Dalal Street Investment Journal"
+            ],
+            "tldr": "Multibagger Smallcap Stock Announces Major Capex at Chhatrapati Sambhajinagar; N"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1792822890226",
+          "title": "Maharashtra Council polls: 42.7 pc turnout across 5 constituencies till 2 pm - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0xxWDdQZS1kQkdpMmRJYjMtbTIzUjRacWRZQk1mbTBCZ0JIbjdhdjZhRjVzSklxYVdiY3BYaVl5NFJkcm9VZnNIZlU0OG5WOF92eEZPMUZZdWNwVzFZaHl4Qk05RnRJUFEzZmdXMjQzU2VOUFBCbWZGeURkUlZzaGpXbXZEek9YWHktNkFURThPNGh4MTBQaFhGSjdib1B3WjBCUzNlNEdMd2ZqRDZZ0gG0AUFVX3lxTE1qS3loaG9hNHoxbjhoM3laQ0RqNWRwMklVR3k1aFZtcHpXNkdFZ1pVNXZUVVpZamdkRU1yZkVFLUdsV1VwTjJkNEhRNW1MNW5SQ0VvQzBOQzhyQzZwb2kwV3hYUUhwdXFWS0xqa0hoVHhmVFdxNWZyU19KajBRZXlid0VUc1VMZmVlaTNUNkFZMy00WjRHWkxacS1NalgwSmd1ODlWNTlaenhOQXNDd241ZGxfZA?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra Council polls: 42.7 pc turnout across 5 constituencies till 2 pm  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Council polls: 42.7 pc turnout across 5 constituencies till 2 pm ThePrint"
+            ],
+            "tldr": "Maharashtra Council polls: 42.7 pc turnout across 5 constituencies till 2 pm The"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1792822890226",
+          "title": "Steel Strips Wheels (NSE:SSWL) Plans Greenfield Facility in Maharashtra - Kalkine India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQmFkMkNyNGhtaktWX1hMdm1MU3dxeXpYcUNJRi1rWXZwTWFMczVaUEswSEZseFdRRk1rREp2dUpxeUdleVZoeWtYRzdyZmVSeUozSGVoUTZZVnh4MGdlWnduYk1Qejg1eFFKWDBBdWxOZ095SjNLOFdhQ1FTT21mYWN2ODdjTmpzcjhDRWpPVDVXS3daN1BORjczSWQ0T1Q2OHN6RFlFZHBPLWdZQ3pJTzRWUG85bk5nbGVaeDFHbV8tNjdsWFVnTXVodDRHV0NGOHc?oc=5",
+          "time": "3h ago",
+          "body": "Steel Strips Wheels (NSE:SSWL) Plans Greenfield Facility in Maharashtra  Kalkine India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels (NSE:SSWL) Plans Greenfield Facility in Maharashtra Kalkine India"
+            ],
+            "tldr": "Steel Strips Wheels (NSE:SSWL) Plans Greenfield Facility in Maharashtra Kalkine "
+          }
+        }
+      ]
+    }
+  }
+}
