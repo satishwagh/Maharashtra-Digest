@@ -1,0 +1,799 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T06:40:28.331Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1792910422935",
+          "title": "\"Echoing sentiments of Pakistan\": Shiv Sena's Shaina NC criticises Farooq Abdullah’s remarks on Pakistan, calls it 'seditious, anti-national' - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQ3NjMVJVb0tKSVhJNDk0VjdjWVRsUDhmNEVBRjltNEpZcE5VVy1UbUtESjRGOWVaSHFlOG9lT3JZY3FoemJib2IwVUdmWkM0X29MMnlLTGhfR0lFZHlzZFhzb0E3TExkbXdPYU1kWXBQNTl0WnlXaHJJUlhCajA3amYyb2xNclhpZWh2V1pOMEV4cm9McDhJS01mSHRCSG51YVdFUVlQald4SS1sZlRrT0l4RHA1eUl5elRzOF9TelNWbllZYnNYcXR0ZGQtODJFTUZwMDliREwwODVLLTNmcE4tbHNuY3ZmbWs4VHhNSElOYU1BU1NzbUVCWTNHUnVzNVpZbklrdXlkazVhYVBka3JoOUhnMV80eENlUllLbTNIQQ?oc=5",
+          "time": "Just now",
+          "body": "\"Echoing sentiments of Pakistan\": Shiv Sena's Shaina NC criticises Farooq Abdullah’s remarks on Pakistan, calls it 'seditious, anti-national'  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Echoing sentiments of Pakistan\": Shiv Sena's Shaina NC criticises Farooq Abdullah’s remarks on Pakistan, calls it 'seditious, anti-national' ANI News"
+            ],
+            "tldr": "\"Echoing sentiments of Pakistan\": Shiv Sena's Shaina NC criticises Farooq Abdull"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1792910422935",
+          "title": "Plan to fell 32,000 trees for Rs 13,500-crore hydropower project in Raigad triggers political storm - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVFcwY0JxY3dJdzBpS1VaRTI1dmdfTjk3ZDFXOUhJMU1vZ2FWc1BQWExmQzJEdmZkd2ZTV3p4SndhOXEzUXRNeU9FVUUzbzRWWDFXQTNZaHZRUTNCZ09EUmV1bGhWd1h3X29jVXE2MERZal9rTTh3MHZSbnZpbmJGRDVrckpQU0hUVmR4S3BSNHlNbGxfaU1oWDdMR1IzR0hTblZDYkk0YWdlWjlDY3VXNHF4aGVvWGFPUkIxV2EwbmpHZk5RaE5VYTEyYXRmMi1memx1LWNxZVJQT09ZVS1hLUtEMl9INXMtSUh0Ukx4Qi0wRFk0aVJsZ0lMcWltd2M0bExsODRnN0NYTVXSAYsCQVVfeXFMT1RXMGNCcWN3SXcwaUtVWkUyNXZnX045N2QxVzlISTFNb2dhVnNQUFhMZkMyRHZmZHdmU1d6eEp3YTlxM1F0TXlPRVVFM280VlgxV0EzWWh2UVEzQmdPRFJldWxoVndYd19vY1VxNjBEWWpfa004dzB2Um52aW5iRkQ1a3JKUFNIVFZkeEtwUjR5TWxsX2lNaFg3TEdSM0dIU25WQ2JJNGFnZVo5Q2N1VzRxeGhlb1hhT1JCMVdhMG5qR2ZOUWhOVWExMmF0ZjItZnpsdS1jcWVSUE9PWVUtYS1LRDJfSDVzLUlIdFJMeEItMERZNGlSbGdJTHFpbXdjNGxMbDg0ZzdDWE1V?oc=5",
+          "time": "1h ago",
+          "body": "Plan to fell 32,000 trees for Rs 13,500-crore hydropower project in Raigad triggers political storm  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Plan to fell 32,000 trees for Rs 13,500-crore hydropower project in Raigad triggers political storm Deccan Herald"
+            ],
+            "tldr": "Plan to fell 32,000 trees for Rs 13,500-crore hydropower project in Raigad trigg"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1792910422935",
+          "title": "Audio Clip Row: Maharashtra CM Fadnavis Orders Forensic Probe - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVlVJRC1VeE1qZFcyNTV6OEdUWkZvWkl2bnU1c3ZSazBZd1ZYQVh3cUNzZmltSDlvZ2JnMVU2c0RvNTVnVTVOeS1zU0kxdVZiNy1ZOUZuY1NiZGF0bl9WNnFXN243N2RISE5wNGd6NW1mVVBlOVk4TFhESVItOE5NUmlKcGR6SnJ2bTlOMy1ZR3hZOFBnRjR1U21oa0Rqb1pkR2pWUnBKaVh3cVdqLTQ4NnVVQk9ydG1VVGowZVQyeVg4eHdjbk9GdExHckhjd9IB0wFBVV95cUxNUXFWREd4bFMxMWlaWlJKZE43SnhKWlhWVDBIQ3NIWWhrTzJBWUFFNXYzTTNFM21xQTU5QVQ0TUtHOHJuOUNhWXlzWTE2N2trWV9qSDN0bHBtMTFhdENOVWNPdHRqb2pNMWpJRE9xclYyS1h5RVc4YnMtRFN3YXRYOElUSTFreUtzM0JQYVhHS3pZaVBSRDYzX1JyV0FxczQ1U2ZVZTEwZVZjOFBLQTkwcnFJMjFjZl9FT3dwSkpPZHkyXzBxLXhKdWZuZ3lEMWhnZVlz?oc=5",
+          "time": "19h ago",
+          "body": "Audio Clip Row: Maharashtra CM Fadnavis Orders Forensic Probe  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Audio Clip Row: Maharashtra CM Fadnavis Orders Forensic Probe Deccan Chronicle"
+            ],
+            "tldr": "Audio Clip Row: Maharashtra CM Fadnavis Orders Forensic Probe Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1792910422935",
+          "title": "Passage and Drainage Improvement Tender in Mumbai E Ward by Maharashtra Government - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWk2SVpOamFPODhmc1Q5NGRSMnI1RWhtQ3EyN3U5ZEFIRmlSS1hlYmVaT1BGczJmQWx6UjkyQ25RektYajlRWGJteWg2eXpweC13NjNIMHRvNXlQUExKTGVUYlR4Z3RBanYtOGUtVElXMHQxNlhTYTB3R19WMl9TR3VpdG12dUU2WUpxRXNUU3BUUEp6aDBr?oc=5",
+          "time": "11h ago",
+          "body": "Passage and Drainage Improvement Tender in Mumbai E Ward by Maharashtra Government  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Passage and Drainage Improvement Tender in Mumbai E Ward by Maharashtra Government Urban Acres"
+            ],
+            "tldr": "Passage and Drainage Improvement Tender in Mumbai E Ward by Maharashtra Governme"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1792910422935",
+          "title": "Maharashtra Opposition alleges conspiracy behind Tiger Shroff attack to shift Bollywood out of Mumbai - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkt3S1lJcEEzZmFXODB4STJmR3pYNGd5VGo5by16M2kzVUluVmc1dkNWdU1WaVFkSHJXaUNXMGR5YUpkUE9oclBLLTM0T2VoVUp5cm9pNVl6cmFwRXVBVnNRUjh2OGFDRXVDbnVzeFRPS1VJU255SHp3ZDlsQjVwdkhjaEViMUkzRlotemVlakd0UHJ6MFNrZjVHTEI1YmRpbEtVbml6MG5ZUldCVUx4by03ZWFURWRKMXFfb001S2F3RHdSbWd6Z2VPLTZ0bldFTTEtOTRQR3dfTC1hQTNEZHE5R3dmallCLURScW9tQU8tU2Ja0gH0AUFVX3lxTE9iS3dLWUlwQTNmYVc4MHhJMmZHelg0Z3lUajlvLXozaTNVSW5WZzV2Q1Z1TVZpUWRIcldpQ1cwZHlhSmRQT2hyUEstMzRPZWhVSnlyb2k1WXpyYXBFdUFWc1FSOHY4YUNFdUNudXN4VE9LVUlTbnlIendkOWxCNXB2SGNoRWIxSTNGWi16ZWVqR3RQcnowU2tmNUdMQjViZGlsS1VuaXowbllSV0JVTHhvLTdlYVRFZEoxcV9vTTVLYXdEd1JtZ3pnZU8tNnRuV0VNMS05NFBHd19MLWFBM0RkcTlHd2ZqWUItRFJxb21BTy1TYlo?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra Opposition alleges conspiracy behind Tiger Shroff attack to shift Bollywood out of Mumbai  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Opposition alleges conspiracy behind Tiger Shroff attack to shift Bollywood out of Mumbai The New Indian Express"
+            ],
+            "tldr": "Maharashtra Opposition alleges conspiracy behind Tiger Shroff attack to shift Bo"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1792910422935",
+          "title": "BJP leader Kirit Somaiya holds Jail Bharo Satyagraha over alleged unauthorised mosque near Mumbai airport - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaGVvaUlNTl9jTUNPSzFPdGx1V1dHdXNydzdPWVBaTDk5N1dpY1ZycGxXc05COWNSMDY2cjcwMmQtM3RSQVJqWnNfZkJRdkdyWmtjNEFuUUE1dDRnTXIzM3hFZUI2RjhrbWpnLU9DRXF1Wlo1bDhIRzBGbmlWUWtmME9LMEdZZVl0UVNLV3VCTVhUcVdFcVRobldUa2xSc0t1NlVsNmVNUEdOVlZoY3V4bTNYSllNbXh0aWpmaDAzMkFkLU83VnZLNUROVExJT01Nb3RzWW9KN1M0bkxrdjhhblVQZw?oc=5",
+          "time": "19h ago",
+          "body": "BJP leader Kirit Somaiya holds Jail Bharo Satyagraha over alleged unauthorised mosque near Mumbai airport  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP leader Kirit Somaiya holds Jail Bharo Satyagraha over alleged unauthorised mosque near Mumbai airport https://www.indiagazette.com/"
+            ],
+            "tldr": "BJP leader Kirit Somaiya holds Jail Bharo Satyagraha over alleged unauthorised m"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1792910422935",
+          "title": "Protests great mechanism for governments to perform better: Sonam Wangchuk - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQnBzVlJmeWZZSTZCc1A2X3lESG0zdkRFUzJDaUlYTHpSTXlMTURya0NIaDc2WHhwVkFNVEprXzV3bTlQSTE3TjU2MXhNUXZCZ21USnVmdkdEMDY3UnQ5UDYycEpoLTlzWDFHQUdqR0ItTFdWd2pFSjRZOUtyTC15ZVhzUGwycU5tTHhxYWVQVzRHQzZmWE1TNGkwLU01ZTN3VzNOUmJfTDZXbDBiZGUzN1NfRkc4QlNRVFVBTFNwU1hpVzY3LWVwaXZvY1VheGFiQWx3d3RuelJYT3pOeGJZ0gHkAUFVX3lxTE4xRVJ3aTBBWkNmWVBZdDRsV3JQR1pGZDk5UjJnVExfVUswNFJUaG1pVXNkVENYS3NoTTRsRkpSVzJaLTZYVEUtbkhIb2lzQXlHMzg3YnhLWlNhUFBrNWpkRVV0Q1hRU0kzS2RIeS1SaVd6VG83Q2gxY1FBWWJaMGZkYjV3cWpKQkZqa3dnQWF1VjVqTjQ1bFcya3F6YXh6WjlXb09FTDNGb21iS0pzbkhXcEx3NjhlYlVLeHhkcHJZWXdycXZ6dGN3QjJFaWUzcFJ6YU5ja0dKUEZfSG5wSmtSY21uVQ?oc=5",
+          "time": "20h ago",
+          "body": "Protests great mechanism for governments to perform better: Sonam Wangchuk  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Protests great mechanism for governments to perform better: Sonam Wangchuk The Economic Times"
+            ],
+            "tldr": "Protests great mechanism for governments to perform better: Sonam Wangchuk The E"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1792910422935",
+          "title": "BJP, Shinde Sena Seek To Ease Tensions Over Audio Clip - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPamRaUWZ4cXJCTWRpV1RmQ0htSjFValFnV2xTTDA5TUdqVndYZFN0Q3VEeGVUTjBmdVZCdDJLUldiZ1M0Z1dQUlB3NldHUVJGRUxlbU9XZWd0amNFODQ0THV2YmxORDFZMjIyTUFMcFQtSXFSSHdqNnNWMlk0UnZ1MGtGbEktLXh2TzBpSzVJWDdUTXFBOF9xMHRianIzMUlNRUHSAacBQVVfeXFMTmp6TlhaYTVSU1BVWlF0M3VTbzZpNVU3RnlUa21POFBCaTkzRTZiWUJ2dWg5UlZ1VVVvUHAtb3FiekRKQmtRTXNKMUhTcDZMSVdhTXQ2ZUVBSXRhRnNpWGotTUF2SjQ2eDVHUVlQa3ZzMDUtakh3VE11TGNsMjU4MkdqaWlkM0lqV2tKT2Z2eTQyNWtXLWMyelJqc01iSFFVdlNWTVVSbFU?oc=5",
+          "time": "14h ago",
+          "body": "BJP, Shinde Sena Seek To Ease Tensions Over Audio Clip  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP, Shinde Sena Seek To Ease Tensions Over Audio Clip Deccan Chronicle"
+            ],
+            "tldr": "BJP, Shinde Sena Seek To Ease Tensions Over Audio Clip Deccan Chronicle"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1792910422926",
+          "title": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm9iaHFnTHJfRGhBQVZpdU5ycGRGb0tOb1ZiRUR2dEJIR0tUYU9MTmpaRHBhZnB4MTMtQkVLNGZLWEhfMjBHcUJwaDB0bTAxemlOcGFIWDM0TlNKeG5acjVvVGtUVk1HSzVDdFNUQmNWeDJfMlhNR0F3Nk1MVm9GeGFNOWxMWUZMWWw2ZWpIcTVORzd3NDR5Z0J0OWhxMFpqTVVfQmctcFF6MDBT?oc=5",
+          "time": "6h ago",
+          "body": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rally INDIA New England News"
+            ],
+            "tldr": "Sensex Gains 414 Points, Nifty Closes Above 23,100 as IT Stocks Lead Market Rall"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1792910422926",
+          "title": "Benchmark indices snap two-week winning streak amid rising crude oil prices - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzdxYWtzQ21xLXZ6bERmUTdfcEcwWnNJWFhOTnNLUV94ekxKR0FiOXZ6NXRTc2dfQnZXbFBNUGZkWlplNnBMOUhtcW5URzNVZ2NpdFlVWWV4VFU4aENfckZTam5KMlBCZTk4b0hLZUFCcVhsdmkyQjB1QktVTjdvOFhZN0JKMGJNSXptWi1sMHFyVVZ6MzVfWm5XT2lhajd6SHJv?oc=5",
+          "time": "19h ago",
+          "body": "Benchmark indices snap two-week winning streak amid rising crude oil prices  News On AIR",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Benchmark indices snap two-week winning streak amid rising crude oil prices News On AIR"
+            ],
+            "tldr": "Benchmark indices snap two-week winning streak amid rising crude oil prices News"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1792910422926",
+          "title": "Auto, Oil & Gas Stocks Drive Sensex Higher; Nifty Settles at 7,709 - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmFjakNfNEoxY3JVTmp4ai1aUl9DZklkUXhaeUlmb3ZTNW4xVGVjUWN5WkpjWS1zSGVKZWdYQktfQzVKMHF6anN2eWk0ZjdXaktob0tqbF9GSVl6OTJwYlE4d2pJN2h2NWp2dU1Ua0lXS1M3UGZUUVdIS3ZxMzZTNk1OaHYySlVyMmlNeTYtb3ROaE03Wi1GMFNkbzFpV28xMG5faDZ6eF9mWU1tOGc?oc=5",
+          "time": "7h ago",
+          "body": "Auto, Oil & Gas Stocks Drive Sensex Higher; Nifty Settles at 7,709  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auto, Oil & Gas Stocks Drive Sensex Higher; Nifty Settles at 7,709 NDTV Profit"
+            ],
+            "tldr": "Auto, Oil & Gas Stocks Drive Sensex Higher; Nifty Settles at 7,709 NDTV Profit"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1792910422926",
+          "title": "Stock Market Crash: Sensex Plunges 700 Points, Nifty Breaks 23,300 As Crude Tops $100; Why Is Market Falling? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1NKNFNnTlpWcUY3NHplSzZyWWxiUUVUZ09raWFpTkU4QVRwMWZSbmtrTlUwOVBTY3NfeEdKMTJELUFFbkZ1SXBTRXN1aVBheXYwOWU5eUZYbDAwa0JZWmcyR2M0QjhGWUsxYXlrbVhWbDlMV21QcEI4R0psRV9qeXM3Q0hHS2EyeXF3TjlRRTNQRWc5VUYtd3dibXJPYjJ5V1ZBV0R0akVLVzZUczJkcUVqc0hiOFZRN1hsVlU2cWpfQXJaZmZoSkZFQmRSOHdSdFRv?oc=5",
+          "time": "8h ago",
+          "body": "Stock Market Crash: Sensex Plunges 700 Points, Nifty Breaks 23,300 As Crude Tops $100; Why Is Market Falling?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Crash: Sensex Plunges 700 Points, Nifty Breaks 23,300 As Crude Tops $100; Why Is Market Falling?"
+            ],
+            "tldr": "Stock Market Crash: Sensex Plunges 700 Points, Nifty Breaks 23,300 As Crude Tops"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1792910422926",
+          "title": "Top 3 stocks to buy under ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOGZLNkxhVDVscEFkUVJqNUJENHNod2NBMXdTVmUxcEdtcFRBNTRuRXRLMjZTazZUcVNuYW5TWXdHOTZBYmItMTZ0UGZIUXJUSmx1QlRTQklHcTNieUUxcjU1YVZvR0RpdEhZOU80cm5tUWlubkI5V3ZhM2VJQzVERkJkTjFvbHlhNmwyeVFYZTR4ck92XzdvUkxPVmttR3JwMVZhVmRYM3Q1cnFNTFdEemx1azZPODEwaEw1emJsdkFrbzdEVDA3TWZFbTkwcG1UUzlsU2VaUjgtM0lkUWJSaDZ2VU5BQl9rQW9uZmN5aW1sZkpmam1fcEM3V1lUZjdDaUpvSUFBWXJucTZucVByVdIBlgJBVV95cUxQVllMdHVmVTR2MlJtUlFJSFNObGhVVkxPVlVUaXR6dnBoUTVUQml4RDRXQ25OeGpQdVJrbElHdVZmcHh3RjE3bmZuMWJpLWpyOFRTT1I0QzhYcmRockNzRmxndGxKeGtTUWdmMVdDN0l0Vm83cGdNSXJUSjZkejVYRFNzUGlrT1I1MW5MUEZoMWYtaHh5TzA4YnZNdlRwSkxhN3kwSGJjZHBqMlBTNGwxMVhyMGNTUzFXdHNpc3duSVFVNjVzM3Fla1hEbFVDX3dpUU1xc3VoMDdaamJHdW1fY180S0lLUzNDMnR0VFdPMFlmdTFReW9ueU9TVHgtQWlBU2o1WmhyQ1dIRmdVNHFsSFFVd09pdw?oc=5",
+          "time": "5h ago",
+          "body": "Top 3 stocks to buy under ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top 3 stocks to buy under ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Sumeet Bagadia | Target price, stop-loss Livemint"
+            ],
+            "tldr": "Top 3 stocks to buy under ₹100: Niva Bupa, GMR Airports, Restaurant Brands by Su"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1792910422926",
+          "title": "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWkVfYl9zQjkwdkxBOTJObklVaDNGOE1XUHhoX0xIUFhabG44UUc1ZlJLZmpxNjctOWdqV2xmdWE0bWdzOXFvUXl3TGh6M1ZUT2lQTGN3aUh5Yk1fVS1HV3hsbEd1YkppOVNuT1VxZVNOTVI4emhRLUMydGRfOEJyUGJqWkFXWTA?oc=5",
+          "time": "22h ago",
+          "body": "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "JM Financial Share Price Today, JM Financial Stock Price Live NSE/BSE Updates Th"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1792910422926",
+          "title": "7.8% GDP Growth Miracle That Stock Market Doesn’t Believe: Crash Wipes Off ₹24.65 lakh crore in 36 days - Gujarat Samachar",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNXpEV3NTQ2J3RTViLTlIZ2lTNGZTTnlWdXJOdXV3dXRMQ0tVOVlKeEdwTi1sRUJIQWRyYWlXcUg5RWJOWFZ4akhWRlB3bmxwWkN2SlVNcEIyT2NfXzZtSW5CTWVhMVhkOWFYeDFhdmMwM2s1cHhMaFNjWXpMWDhSZGRHbkIybFhsazRrM256eEJfblF4RWJlNVRWVlZXcjNkWndiQjhweUt2dUtveUVZSDBhMENTSHNUM0pMMldzS3BTSHJobFp2ZnFYMmJnaTEwZ0NMUnJMZGY1Sm9XdTlnYVpUZzZoZFQ4Sk1Qbkp2QTlnSTR6XzlscUtfVkd1dw?oc=5",
+          "time": "21h ago",
+          "body": "7.8% GDP Growth Miracle That Stock Market Doesn’t Believe: Crash Wipes Off ₹24.65 lakh crore in 36 days  Gujarat Samachar",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "7.8% GDP Growth Miracle That Stock Market Doesn’t Believe: Crash Wipes Off ₹24.65 lakh crore in 36 days Gujarat Samachar"
+            ],
+            "tldr": "7.8% GDP Growth Miracle That Stock Market Doesn’t Believe: Crash Wipes Off ₹24.6"
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1792910422926",
+          "title": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2w0OExuLXNXNkItVEJweDJtWkZCQlBkZUQ4LUYtNDlqVVRyQU5WemdBSUhnY3gwWGdza2Z2UXUwUC1MSE9SQzNkenpXR1RIWFpTdHctRE84dDlOWVEtYTNzS1Yzb09fZFlZTG1pMkc0N3lCQ2l3Rl96eFV4QnphVVhWTDVBUnhTSGo1LVgzWHhjbmZobWt0S3d6WQ?oc=5",
+          "time": "19h ago",
+          "body": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News"
+            ],
+            "tldr": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1792910422935",
+          "title": "Mumbai’s first bridge to Navi Mumbai is rusting, and nobody wants to own it - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONVhQY3BZQVJaY1A1TmlHQnBtSjhNMk5lX0F5a2NLUno1ZEJCeFI4SFYzTDRqNjg4bHF3ek1YVU5fX1M2UzcyMzdJYU81NDJ1cFIycldiZnFLOVlERklPVVUzM2I5QWY5YUZQSi1sejlQbFNnUVI5RHhjNk1raVY5LWY1dnZhcmZKd0ZMY21QSmFadm5WZjFyaWtpa19sb2xyMGRGamtFUXhzOWQycjM0UWJCREdOWmpVNjU5NzFlR3Q5V0RxeVhBQkttSdIB0gFBVV95cUxNeTNPamFoS0x4YzZLMlZnbTNNOVRDNWZ4WHpGSFRxbWxDUTRLSDFPSUlJeldWMjdkZmRyblZmVEItUEs0WmpCeVgtMWJaQk5GYkdJYmJFNUc2Q1NLTWlSQjhSbWVPalhPU254dWJUMlcxY0p5Z2IxSUozdUx6WFZxVkIxZUg2azN6dzlCQ2l4cXBRaTd0RkhyNlJTb0RSOFo1VmN4UnRYNVY0TnY3RHNtTFg5TVpSSTZMdDI5YnVDeE9pSlpGSFpXeFBDdXBnR05rbnc?oc=5",
+          "time": "5h ago",
+          "body": "Mumbai’s first bridge to Navi Mumbai is rusting, and nobody wants to own it  The Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai’s first bridge to Navi Mumbai is rusting, and nobody wants to own it The Indian Express"
+            ],
+            "tldr": "Mumbai’s first bridge to Navi Mumbai is rusting, and nobody wants to own it The "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1792910422935",
+          "title": "I am the little ant that gets into the elephant’s ear: Raj Thackeray | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0s5NFBCZ2x3QVRJc2pVYnpOa2FUU203WFpRbndybHRoNG1UV0hYODFfczhacXRwX190TGptSk5QTGd5M01aQkI1S0Z6Wm5PQTZnUnNaMGp6ZzBfSWVQYXc1cUVjeXlESDZpbUZiV0NROURWeWlvQm4tZW9kSzkyTWpWZDJtd1lLd0gyWTJFU283NGhKLWRndWI1NGlvUWhlWnRfemRJQTVBcHpCMFg2Y0NjRTAtbWd4dzhxcDFBckVFQUFWTmRkN21lQzhobjNPTUxyTdIB2gFBVV95cUxPNjhpNFlDRWc0eXNMenZFUmVmX242TUJRWVpaUmlLT213RFV3Z2lvby1sRWVJdk9EX3lqYUw5MU1UbnNqbDlEUm1SanYwQnpKakFWYUJkdHlfbXZ3Yl9pQ3lqclJrbkctaWVmYVVuaVpnUEVPWHBBZFdRRFBTamE1cHI5NVR1TXJYXy1RQ1FHLW5ENDBSUTAyX2lzc3A5ZGs1Y0NjUjNDa2Jlb1JScnJaNmU4TV9abUFSYzBMMFVvYVd4TUVfNFNvd3kwS1hoeUZpalNnZEVjNVc2QQ?oc=5",
+          "time": "4h ago",
+          "body": "I am the little ant that gets into the elephant’s ear: Raj Thackeray | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "I am the little ant that gets into the elephant’s ear: Raj Thackeray | Mumbai news Hindustan Times"
+            ],
+            "tldr": "I am the little ant that gets into the elephant’s ear: Raj Thackeray | Mumbai ne"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1792910422935",
+          "title": "Mumbai businessman’s illegal arrest unravels. HC pulls apart cops for colluding with developer - theprint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWlYtZUVEZVd3S0k4bnRHdDYyZlBuUGxJWEZ4bm9BVEVHajNOT01OYi1CM1VaZnRmQUZsMWpHNUZZb2NtYXNxVWVLQ21ESUZQTklqc3AzSmF3b3BuLXJLam1PMjYwVGhibDRjemw4VEt3MGRnVWdMeUpnS0xKRjZ3RTJpamJwd2paSUVIZHF5SHRPV29CNkR5WHJuWk9OWFNVWTZCd2pnR2hjeGhzMnFQSDBDVWJiNTg1NlJSQzFNQVV5OUE1MGtZU3Ytb9IB0AFBVV95cUxNallsUHdITU5HaEgyeGRyS3hQdlRVb2RXNGJWWnVWcWctbEZlbURfaDhPeVFmUG4tMm1CUzhXNVhwaGxCSVBXOE43MkI0dUVjaWZFdWVRWWhrZUg1UWpraW85ZkhjWnFvMUF0eEpybkZmMkl2Tk5UMko3Rm00U1BtTDhEVzFwNHdFSko5RDFVRDNpSU5BM0NrbmVFUGVwdWhVbUl3UTFSTjF3WlZjTlJmbHBmdFQyYmxDcktsVGROajAzRmpZQm1VblhWS29DQVh6?oc=5",
+          "time": "21h ago",
+          "body": "Mumbai businessman’s illegal arrest unravels. HC pulls apart cops for colluding with developer  theprint",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai businessman’s illegal arrest unravels.",
+              "HC pulls apart cops for colluding with developer theprint"
+            ],
+            "tldr": "Mumbai businessman’s illegal arrest unravels."
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1792910424311",
+          "title": "CBFC Board Members Get First Look at Cutting-Edge AI at IIT Bombay - Lokmat Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSElibG9DS1JLbGctNndTMmp3NVR4bVhFc1lKNm5jOFVHeFA5Q2RrQk05bmZ0V0pLV1FLSlBoSEx0alJFOEJlMnVudWJrbklvRTBNZGh2LU5LbXRMbUFRVlpmeGlPSEdOX1Ezc0hKdVlBUXd5Tmg0bFVkdlU1Wkp3UU9xS1ZscG1vS0JLaHg1NGJybVZmVzJ4WU1iQW1vRTkzLW9tVUZhZHF6MV9vcmFTcmdsWmhZMnRPSGfSAb8BQVVfeXFMT1pxbmVIX0dPSWZZc2hmNnA2Qzl1VHVETkk2aWpkWVN3RWZwenJRRzhzMVoyaEhrLXk0Y1lxUkt2OTNSN3ZzdjgwVENPY0ZwZndIWVZHQjAySmo1a1NONEdmYVU2R2RrQi1VWFdZZVZkdGgxVEVjVDFMOUZuRVpaUXdDaUU3REhsejdLbldUNTFxNFNxZHN6QlJCZDJvbjlqZk1WUXU4ZmJSUWtBTW15eEwwYnc3MFBMRUNONEJzX1E?oc=5",
+          "time": "20h ago",
+          "body": "CBFC Board Members Get First Look at Cutting-Edge AI at IIT Bombay  Lokmat Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CBFC Board Members Get First Look at Cutting-Edge AI at IIT Bombay Lokmat Times"
+            ],
+            "tldr": "CBFC Board Members Get First Look at Cutting-Edge AI at IIT Bombay Lokmat Times"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1792910424311",
+          "title": "TCS Share Price Target 2026, 2027, 2030, 2040, 2050 - Share Price Target",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZUtnb3hSUlVkRmh0cjdkM0V2S29RazlXQVZaSUV5N2xaRjA1cEpOM216aUxQZVhqNFU1XzBjSS1ocTA4Rk41VjBNU2hJdFVhd0NDZEs0YWhTVnlFOEJjR3Z1QQ?oc=5",
+          "time": "22h ago",
+          "body": "TCS Share Price Target 2026, 2027, 2030, 2040, 2050  Share Price Target",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TCS Share Price Target 2026, 2027, 2030, 2040, 2050 Share Price Target"
+            ],
+            "tldr": "TCS Share Price Target 2026, 2027, 2030, 2040, 2050 Share Price Target"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1792910424333",
+          "title": "After 18 years: Nike returns to IPL through multi-year partnership with Mumbai Indians - Business Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTW9kNmNIS1hQYnNVZHVHXzNxVXFLbGs1emM0Zy1jQzdObldnSkt6QlVOLXNVY0M4dENJeHpnOG41dlphQnlrWTFrQkZjQnkwSlJWZGdNMjYwT0x3QkVxX2EwMGdpcWd2M21EUFZ4NlhGOElvLTNrLTRQZUR1YXFzSElIeWw3RmN1cWNnR2tYdms3Yktab2NMRW1LeVNuWjBKSTVYOFdEMDVPOWxWa0NhSHFQa0tZRUw4STUxaTRmdlhYTVBnLUh2Wkxqdl8zamt3WXdFRlJFMlNRLVVZc1HSAeMBQVVfeXFMUElMTnd1YWszRG53bFNPbU5PVHozQmFsdGtLTWk0bnFjS3Y2R09qQk5Ob3AxT1RRQmI1di03QkZWVkxlOUhPdmpoblAwaE9Hb3BSRDctSFRGaHZIVE00dTlNbS05N01hRWZSTVJPMTNQYWNLWThpcDVKQzUxTjRMTHlrNjlMLUhvdXByRjNWZnM2OF9iWkZ0U2FRc0U3MWhsX0J0ZXBOR2lCcHF4M2FCT3pVUUsxLVR5Y3NFRlZhd0RZbU5vTGRwdENvcXcxMkFvcXIySUtFbTdhdGpsUzc5amd0Q3M?oc=5",
+          "time": "3h ago",
+          "body": "After 18 years: Nike returns to IPL through multi-year partnership with Mumbai Indians  Business Today",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After 18 years: Nike returns to IPL through multi-year partnership with Mumbai Indians Business Today"
+            ],
+            "tldr": "After 18 years: Nike returns to IPL through multi-year partnership with Mumbai I"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1792910424333",
+          "title": "Pollard named Mumbai Indians head coach for IPL 2027 season - The Shillong Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFo4TGl6WWh2MmNrb2l4YTRMZHlHSGJURkFTYm5HUXhseEpPUkxsRWdpSHhqT2N0TDBydTNOQjNqLWJRbEpaUkVoMi1feFRiQlFSVV95RVRrR3UyeHJXZGNlQmdxSXdiMDFDeG5wV1N4NklvR2drTm5URmhzNEtWMl9NcS1qbDdMNjlIai1haThEVUhXZWFvcmU2Y0hxellETnc?oc=5",
+          "time": "3h ago",
+          "body": "Pollard named Mumbai Indians head coach for IPL 2027 season  The Shillong Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pollard named Mumbai Indians head coach for IPL 2027 season The Shillong Times"
+            ],
+            "tldr": "Pollard named Mumbai Indians head coach for IPL 2027 season The Shillong Times"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1792910424333",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2019 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8ySGRIOElpWmpqV2JrRm90c2dHMzZnQWR6QWRXbnpPMEtMaXYxRVR6b2hha2MwTmpfWlZVdHZsS3BGTFJaam9JRW5DdnBicXQ1T0ItTzY1S3lqU3A4RGpBX3FlZEsySHpfVmZIR0h0dTZlMFE?oc=5",
+          "time": "12h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2019  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2019  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2019  Cricbuzz"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1792910424332",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "3h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1792910424332",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "4h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1792910424333",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT1RrTTdqWEQ1ckVReGZBRTBOYmlMRmYyV0E0UF9XYWMwM3lUSjFGcjNqTExZLXBaSUNTTnl5amxyTjlOZy1yN3AzbnZLbm9McFo3YXd3amZOMHE1Vm1wUU9VZ2ZyUlpqU2tqSzhiaWM5amNtcDRjLWhFbWt6WUFDX09jcTZvdm9lRnc2ZTBLOXRvdkpfU0c0RTBxcXVGVms?oc=5",
+          "time": "11h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1792910424333",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "18h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1792910424333",
+          "title": "IPL 2027: Nita Ambani opens up on Kieron Pollard's elevation as MI head coach: ‘Polly knows what it means to wear…’ - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZERIanBJS0lYdm9PR0d5U0ctdjFRNHF2alduNVpEU21Rd24weWNhWmhvWDR3Rm8ycTlFNHN5LXRQSDlRTEZVZ25HT1Z1Sm1mcDJKNWk4NnVmdC1xQ0l1d3VsSHpLMXRpSVBCY19XbDFQQTY5eXZMMXg3QmNsQ3pHNTRmUDZfQnBTYl9yZ0dYdUlNREpaeTQ0ZF9SMVdzTngwaXgwOWxXVk5CSkRrTHNZcHFSM1lrSzIyaEx3TFhnQ1ZTVjF2U0dta3FPbEFIU1RZUmlicjRKRF9rYURxUWhidF9GYm1JVlZCMmZ1NV9DUmx0M2FRT0pscXlFTW9PVkFQTHl2M9IBigJBVV95cUxPSnAxYm1maEpJNWxWbWpwLUxFYlU5aE1ab3pMNDVqQUw3akcyNmFmT3RJSm45WnpTWVh2eXBiNlF6dmxTWWczbEVIaHZyZnJ2ZnM3NmFFdjFUX0JERGxzNWZESVFQOHB6b2N1cl9GandFc2pnWXlvamJwNC1OUHIzbVN6dXdqY3piczZFdmhUaXNoVk1wN3lERmZpQmNwbVBmSHVKbzdIdTJZalJqRk0wMno5djFXb3BiVnkyc2xYZnRoeFA3S3NQZ19fdmlxZDNaVU1DVDBwNWRUbXRhNzlaREJxQ0pMVWFYeDRrQmg2R3lld1N3QlRpTFFnaHFqZndmdTNnYmVwamlSZw?oc=5",
+          "time": "1h ago",
+          "body": "IPL 2027: Nita Ambani opens up on Kieron Pollard's elevation as MI head coach: ‘Polly knows what it means to wear…’  Livemint",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Nita Ambani opens up on Kieron Pollard's elevation as MI head coach: ‘Polly knows what it means to wear…’ Livemint"
+            ],
+            "tldr": "IPL 2027: Nita Ambani opens up on Kieron Pollard's elevation as MI head coach: ‘"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1792910424333",
+          "title": "Kieron Pollard doesn't want to see 'yellows and reds' at Wankhede in IPL; urges MI players to put 'team a - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWlppTjE4Q0tBcVpORkVtNEFMNTlKNEx1OG85VTVsYjhHb2dkMHhrLURJczhnX0FUaWhKRVltMzc0emd3QTQ5czh5UGZEVk5zNmxERjR3bE82YWI2bXM5bnk0TUNaYVFDQjN4S2pxSlJ2QW9LQk9LTk1iRXFxc09USHAzbXYxZ0NDVTNSbEd6SWYtMmphTDdKemZRSmpLQXZhNlFxai1KeG5HODByOVBGUEpiNFQ2V0RVc2YtY3hkUUhSaG5WWWVKYWpwcndSVVB6VWlMWU91Z2dvSzVtX3FLUFBneEZTZ2REUHVnWkFwQWhkT01aUWFPN3dST0VKaUc5U2daRlNvUUpoN0pZQzVfb05EVE1Db2RhYm5YVmM4SllYSnU4dk1HR0Z30gGvAkFVX3lxTE14OURGVnV2N3JhNmVlem9wRE9OQ0o5aE9tdDRqNktwcXJwY0VINUg2QjlfN3VHX0RBeW45dTRXWDdfSjItRW4yRnFKUDhjc1hSazA5U0VJSi1wbEdiSGhabHk1V1dmeFd3SWhPUlVhdjJ1X0NTWnlqSHRzS3RJUlRGdnFlaVZMVTdldFVWMFlpNlFubDc0dnQ4NUNHcWNJb0lNWUJ0M0hlYnRmVE5FbGdLdTNhRGE2NnFzUnY4SEpEU0swZmJmVU1CM1VlVTZZTEtHdDlHR3V5a2JLU0NINjFYNkp4ZUlHQzlHWWxFZ3c4ZFpQZFpCQ0hRUUxwZDNvRmJXQmhod1R4WW0yblFmbGdzZWRWemNPMEk2cGJtMExBQ3ZEbGpSNzNvTWJZS0F4UQ?oc=5",
+          "time": "19h ago",
+          "body": "Kieron Pollard doesn't want to see 'yellows and reds' at Wankhede in IPL; urges MI players to put 'team a  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kieron Pollard doesn't want to see 'yellows and reds' at Wankhede in IPL; urges MI players to put 'team a The Times of India"
+            ],
+            "tldr": "Kieron Pollard doesn't want to see 'yellows and reds' at Wankhede in IPL; urges "
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1792910426727",
+          "title": "Asian Para Games bronze leaves Suhas Yathiraj hungry for gold amid IAS duties and badminton",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "Suhas Yathiraj's bronze medal at the Asian Para Games in Nagoya left him disappointed after missing out on a chance to fight for gold. The 43-year-old Indian shuttler, who has won silver medals at the Tokyo and Paris Paralympics, continues to juggle his responsibilities as an IAS officer with the demands of professional badminton. With the Los Angeles 2028 Paralympics on the horizon, he remains determined to go one better and win gold.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Suhas Yathiraj's bronze medal at the Asian Para Games in Nagoya left him disappointed after missing out on a chance to fight for gold.",
+              "The 43-year-old Indian shuttler, who has won silver medals at the Tokyo and Paris Paralympics, continues to juggle his responsibilities as an IAS officer with the demands of professional badminton.",
+              "With the Los Angeles 2028 Paralympics on the horizon, he remains determined to go one better and win gold."
+            ],
+            "tldr": "Suhas Yathiraj's bronze medal at the Asian Para Games in Nagoya left him disappo"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1792910426728",
+          "title": "Why are New Zealand making multiple changes to their squad after India defeat?",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "New Zealand have announced changes to their T20I squad for the remaining matches against India. Fast bowlers Lockie Ferguson and Matt Henry will be managed during this busy cricket season. Ferguson will return for the last two T20Is, while Henry prepares for the upcoming ODI series. Blair Tickner and Josh Clarkson will join the squad to provide more options.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New Zealand have announced changes to their T20I squad for the remaining matches against India.",
+              "Fast bowlers Lockie Ferguson and Matt Henry will be managed during this busy cricket season.",
+              "Blair Tickner and Josh Clarkson will join the squad to provide more options."
+            ],
+            "tldr": "New Zealand have announced changes to their T20I squad for the remaining…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1792910425689",
+          "title": "Ashwini Bhide says coordinated development around metro stations can increase ridership and improve mobility - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc0NYdmtXU0Z3U180ZGp2ckNvdnRTbzNqVDg2djJHR2RzaGR2MWJSZVNTeXZXVS14VllzVFg4Z3B4RFgyS1JXZHhSXzhJQlhJa1BpNi1ZdFpWQU83R0FldG84SEpUeWwyZWhXQ0o1TVRfSWd2ajZRQjBjaTBlME9SRUFCWnBLTlRwSFNVcHY3R2ZoVGRKVEhVdnI0WWxfdXljeEctNThEOExDWmxVVnRIaVhVOGNFMnhNYWFKdUNlMzhNRzZjLWMwZy03LVpWaGFHNFVlclZrTkJxNmV5SS1wRFZMcWJpZFViNVMyRUhTMnhBZDVJWVgydjhQWEZCcTBTc2fSAYICQVVfeXFMUHNDWHZrV1NGd1NfNGRqdnJDb3Z0U28zalQ4NnYyR0dkc2hkdjFiUmVTU3l2V1UteFZZc1RYOGdweERYMktSV2R4Ul84SUJYSWtQaTYtWXRaVkFPN0dBZXRvOEhKVHlsMmVoV0NKNU1UX0lndmo2UUIwY2kwZTBPUkVBQlpwS05UcEhTVXB2N0dmaFRkSlRIVXZyNFlsX3V5Y3hHLTU4RDhMQ1psVVZ0SGlYVThjRTJ4TWFhSnVDZTM4TUc2Yy1jMGctNy1aVmhhRzRVZXJWa05CcTZleUktcERWTHFiaWRVYjVTMkVIUzJ4QWQ1SVlYMnY4UFhGQnEwU3Nn?oc=5",
+          "time": "16h ago",
+          "body": "Ashwini Bhide says coordinated development around metro stations can increase ridership and improve mobility  Mid-Day",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashwini Bhide says coordinated development around metro stations can increase ridership and improve mobility Mid-Day"
+            ],
+            "tldr": "Ashwini Bhide says coordinated development around metro stations can increase ri"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1792910425495",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11h ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1792910425495",
+          "title": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "15h ago",
+          "body": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]"
+            ],
+            "tldr": "'Moved back to India 7 years ago, planning to move out again': Redditor gives re"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1792910425496",
+          "title": "Indian-origin siblings sold cookies in 2018; charity gave 100,000 books",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support. They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities. The foundation has since reached over 15,000 students across Texas and partnered with various organizations for resources. Their mission continues to focus on underserved communities to ensure equitable access to education.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support.",
+              "They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities.",
+              "Their mission continues to focus on underserved communities to ensure equitable access to education."
+            ],
+            "tldr": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books…"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1792910425496",
+          "title": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]"
+            ],
+            "tldr": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhet"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1792910425496",
+          "title": "JD Vance’s immigration tiger is turning on its rider",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event. An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants. Vance defended his position by claiming he was criticizing corporate practices rather than foreign workers. His remarks have led to significant backlash from various groups regarding his mixed heritage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event.",
+              "An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants.",
+              "His remarks have led to significant backlash from various groups regarding his mixed heritage."
+            ],
+            "tldr": "US Vice President JD Vance admitted his rhetoric on H-1B visas was…"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1792910425496",
+          "title": "Indian jailed for life for murder of woman he met at a brothel in UK",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]"
+            ],
+            "tldr": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Ob"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1792910425496",
+          "title": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin engineering manager says H-1Bs included equal share of Indians and Chinese 10 years ago: They went back to China. [object Object]"
+            ],
+            "tldr": "Indian-origin engineering manager says H-1Bs included equal share of Indians and"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1792910426967",
+          "title": "Maharashtra horror: Farmer found dead inside finance firm office in Nanded; abduction-murder case filed - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWswd0h0cm52SXNJakZQREdkalVyWUlBQlRYUWxYamtabGZIOXY4WG9VYXotUG9xOVZJZy1tVk1aODhNTC0xa056dV9QWDlrNGtVTWNhdElYYnd0R0FqSGNOVXpJYWJ0ZzdwNVBVb2ZZSlRPZS1lVlc2OWZ0a0dFWXdMU2ZQdkJ4VFpJa3ZGazNhZ3RrNlBEMjhmUHV5Tk9OOE56VmkyQWpMSTdFWnl1akNHeDlncFdCZklERDFZTUxNMXhkOHI0dEwxNzZxanNpd05GMnROalg4T19NdmpkM09YWXJyMVhMb3RHS0V30gHzAUFVX3lxTE9zUlFLdmxuTTVFbEYzeVRJaklXbGdleHk1UlBXR2xBWWxtODZrbE01amhtSWZPYkJIUDJrOUloTWc4ZnJhbi1vS3ZxWHJMSkFkN0oxSzBUbE05dy14dUpvYWp5R0pZcXByR01QdFJxMW9mVUtrdUZsQUVtWEdhZk1EOC1PNHppaWxUN1VRT3hmaTJTc2dJanZNeU5BaFZsNWhpQmRySmxWV29Ua2tEdnNGUXF3XzhVTnBoYjRIMUdwZU1NLWVLajVocDktVTY4LWhfTlFhNmJkNmZTTFZVcFRBZUN3aDBnNnVicTVvNkVwazc4UQ?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra horror: Farmer found dead inside finance firm office in Nanded; abduction-murder case filed  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra horror: Farmer found dead inside finance firm office in Nanded; abduction-murder case filed The Times of India"
+            ],
+            "tldr": "Maharashtra horror: Farmer found dead inside finance firm office in Nanded; abdu"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1792910426967",
+          "title": "Why MLC elections for five seats matter in Maharashtra | Explained - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWl1VlJ5WDhfbXYxU24yVkRGdk5ydURHUlRvQnJYYTlOZms0TWJVdUR6RUd0ME9BT3duVkEyYTV6Tm5GVlBqWm1oT0h5RmdnZzhQVGt4ZDhpOVZkMGc4NkhjcjBGNlV5WV93SFlzeVd2WXN1Qmd6MFRnU0M3ZzA2NXQyN1RHZWRNWHJuV1FRZkRVd2JWRzlYR1dueHJPckJ2SllzQ21sLUhFWmM5alVTU0FZYThJOWktQ2YybllJU25uQUlMWGpqLVpaUkRZWVNi0gHXAUFVX3lxTE5DSS1wQnpWbTlsZVZwUk0zTzRac0dWUGFGOWQ3WVFMbnVrVlpRcnVVRGdnVDRrSnZDZUJRSjRrclJacERVTnlEV20xZkJ6VHJtRm0yUlZMZzFQTXdacTRNZ3AtX3B5THNobTZ0SGwwS1BITkY4TGNRVTZuU0VRcE5UVHJCSlBTd1NGODJPRUN0cUpzcjFnYVZPX3ltdFBQbzdHOTEzSGlXbzY2Ny1IM0F3U3M3aUlPTm55YnAwczdWSTVJeVQ1RlNSVkRrTFQtTVl5U2EtdHlz?oc=5",
+          "time": "22h ago",
+          "body": "Why MLC elections for five seats matter in Maharashtra | Explained  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Why MLC elections for five seats matter in Maharashtra | Explained The Hindu"
+            ],
+            "tldr": "Why MLC elections for five seats matter in Maharashtra | Explained The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1792910426967",
+          "title": "Maharashtra FDA seizes 43.56 tonnes of food stock worth Rs 1.56 crore in statewide inspection drive - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT0oxZjhvMmM3bUtKOFhzUG1aV2RmT0t0YlpRTkFzWnJXWG1LYlFFbXp2M1NGYzRhM1QzTF9HcU9ERGc2QVU3R2N1NUx6bkFvMXFVS3JIQkw5VHY3X29fWUJiMDByMkh6NUp6eEFkckc0TDRCb2g3NXEyZWI4bkRmTnkyRG41QkZwcEdkdlctem04N21SQU9hUGQtZHJuNENLQTBiMm5CQnlYZmxneTN3ODYzb0xmMnk4MURnMERGYTdKZGlNZEtwUTc0X19YdlAwYVpsVEFOU21zVEFfTkRYUkloWnRxcVJjVU5JcWlJTnnSAfYBQVVfeXFMUDFHbm5NRzJQdFhDYUpybGQ3YUYweGpiMjdhZ3hEblpxWmhhQ2tHQlY4dFlMZnBETy1HdU9ndjVVbWdyMDZ5NnliVXRGaFRhZm1WODh6YUpTWk1CMU1ScVlTdUdJZWt0ZU5XUVpQRlZHN3JqaGxmaXRRZkVwUjM4QmtrcW1yRFBiZnA2M1pOcnBYdmtTQ1FQZzNKYVJCNEU0Y29ubU9Hb3BTNU1qYzRtRjYwWU44N25YN19Fb0xoRk1QRTkxTzltRlZBcFhobG5sX3RZQkdpaFAyaFJkNHRBSGVrdF9tcE1IU3VFZzcxTkRhNUtzWExn?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra FDA seizes 43.56 tonnes of food stock worth Rs 1.56 crore in statewide inspection drive  Mid-Day",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA seizes 43.56 tonnes of food stock worth Rs 1.56 crore in statewide inspection drive Mid-Day"
+            ],
+            "tldr": "Maharashtra FDA seizes 43.56 tonnes of food stock worth Rs 1.56 crore in statewi"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1792910426967",
+          "title": "Bounced premium cheque not flagged; bank & insurer told to pay Rs 35.7L to Parbhani trader - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeHZFck42d3Q4Ry1ncUtUSGlqUGdKUElMSTB6RGhOejFPVXg2Tl9ETU81NTNCM1VMSTdxc3ZUdnhSWGxQVkprX2xBb2R0aTBzRGRySDczTmxzd1dubHNjZmt0X05WRElzVzloN1Q0ckhVbjRVVlpKNEwxNXBBQ2Qwb2xySi1OQ2hqdzJBa3hyY1lnQkkzSjBpRWszSlhEcENnbVhJUHNjMkVFcFZQNFQ4bUJaY0R5dk1DM05fMExkeGU3d1FOVVZrblN0dGxFcU9xUnl6TVdIejJjOTNHcHd4aUYyZm1EMTNxZ1JMSHZSNk1ISU1mTWJXd9IB_gFBVV95cUxNcjdhN3lOMVJuWEFPejdETEFhNUdzdXRsQjZvb0ZaWjlLUjVBbnJGbmdGOGZwYUd5YlI5b0x6c2tXdWRCY3ZMeVBMZEJPTURVM2dXQ293V3RBVnhwZUp2WUdmR2FwcWp5aTg3bEdsNU43cUhOSFR1aF9qRHFYVXA4ZTZCek1JVWxGTzhIdWRTTHdVdU9hZXBleVhyZTNUZTMzTGhqVTk4aURHMXdsMEZqNnJLUjZGUmhvS3NvcVNEMVo2OElUQ01feXB3YWJ5MEsyam45ZVRienVCeTBlNE0yampydDhvVEJ4MXA3dzBUVlNhZjNIbnVRNFRBODVlQQ?oc=5",
+          "time": "12h ago",
+          "body": "Bounced premium cheque not flagged; bank & insurer told to pay Rs 35.7L to Parbhani trader  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bounced premium cheque not flagged; bank & insurer told to pay Rs 35.7L to Parbhani trader The Times of India"
+            ],
+            "tldr": "Bounced premium cheque not flagged; bank & insurer told to pay Rs 35.7L to Parbh"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1792910426967",
+          "title": "Steel Strips Wheels Q2FY27 Results: Net profit rises 212% to ₹119 crore - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXdnZHBKVkJwb2F1WU4zeTlXNUo3d0pKLWNOM1JlNFpiMzA3UC1JTVdzTkV0Wmx6WnJvWlVVT0hBMWVpazBvQ2llMkIyRGlGdTY1Z0NDam1yME5YTzdvemg2OTdraTZFRXY0S19ISUJoMXN6MElUVG5wakpOYnQ1WmVZbFdENUUwTXFYaEhNRHMyMk83VmZDRmFnRXJMT3ZzcDk4M09lR0VKb3V4Q2RNZkNB?oc=5",
+          "time": "2h ago",
+          "body": "Steel Strips Wheels Q2FY27 Results: Net profit rises 212% to ₹119 crore  scanx.trade",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels Q2FY27 Results: Net profit rises 212% to ₹119 crore scanx.trade"
+            ],
+            "tldr": "Steel Strips Wheels Q2FY27 Results: Net profit rises 212% to ₹119 crore scanx.tr"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1792910426967",
+          "title": "Maharashtra FDA seizes ₹1.56 crore worth of food stock in statewide drive - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0UtdENtT3hFRV9pbV8tZXp6X21OcURyUVUzS1NRaFFPTmZOUkxoN25FNUFEYlFaX3NuOFNyb1I3NHlwby13WThpVkV4Qkdwd3N1aFg3a2pscFFpT1JzMWpseDkwZ0swUjl2U1h5enBERGxRM3FVSnNxWklBOVNEU3E0Vk9zTGJvOC1BQk0zNWI0UGpWdnB4VDlKQzlGVFo5Rjg2OE9HLWZoeGtPT09CNVZuckF1YzYwOW9PelRNU1FCamQycDVNMUVpQU82TFFUR2JJ0gHYAUFVX3lxTE5sRE90Y2R3VlpLTVI0eXVybUpJZWlPd09fVTJ5LVZpVmgtSlFxcnNPS2kxbExLLURBOGV5NEZZTnNyZ1VhR3lzSDl0N2xYZmItNkMxRDkxMDcySVkwZ2QxY19SUnptTFB2aFM5RnhCMnc3UHZyYi0wQ3lSQW5jV1JSNU1hX3ZZNXh1TnMyalkweHprSzQwVlgxa0RCS3VhaVpQdUp2TUJQWHZ1a1lDLVh4dW11UjNUUVduVmlnQ2U3NktwZ3BJWnVLOEZrekdCajZ1cm5oTVg4dA?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra FDA seizes ₹1.56 crore worth of food stock in statewide drive  Business Standard",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA seizes ₹1.56 crore worth of food stock in statewide drive Business Standard"
+            ],
+            "tldr": "Maharashtra FDA seizes ₹1.56 crore worth of food stock in statewide drive Busine"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1792910426967",
+          "title": "Maharashtra shocker: Man runs over friend with car, attacks him with rod in broad daylight; surrenders - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM2F2Z1NhOTExQWFnMEg3VDlyTF9RT2ZsMGgzbEdMNjdzUzB4N3Etd0RJQjZMQ2hZazhsU1dmZVJ2bzN2UXYwQWFFSnBDSkgzd1FXclctWTZna1VkSDViM0JIeVprdnJDT3ZybHdCMF81Q2h3SkVISU45ank2V3RzSlMwX3RyUUY5NnQ4eE9rYzZDWTJFdGFGLUN4YkhSdW1tM1F3ZmtzTlRyMi1RUDRqRDhVQ3FkbE1rUTFiZWJSVDJhNzlib3MzVlZvcmlRX3g5ZTd6bEFlOEhhOHNlaGg0bDZoRm9RT0FNMGE5S0lGclHSAfABQVVfeXFMUDNhdmdTYTkxMUFhZzBIN1Q5ckxfUU9mbDBoM2xHTDY3c1MweDdxLXdESUI2TENoWWs4bFNXZmVSdm8zdlF2MEFhRUpwQ0pIM3dRV3JXLVk2Z2tVZEg1YjNCSHlaa3ZyQ092cmx3QjBfNUNod0pFSElOOWp5Nld0c0pTMF90clFGOTZ0OHhPa2M2Q1kyRXRhRi1DeGJIUnVtbTNRd2Zrc05UcjItUVA0akQ4VUNxZGxNa1ExYmViUlQyYTc5Ym9zM1ZWb3JpUV94OWU3emxBZThIYThzZWhoNGw2aEZvUU9BTTBhOUtJRnJR?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra shocker: Man runs over friend with car, attacks him with rod in broad daylight; surrenders  Moneycontrol.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra shocker: Man runs over friend with car, attacks him with rod in broad daylight; surrenders Moneycontrol.com"
+            ],
+            "tldr": "Maharashtra shocker: Man runs over friend with car, attacks him with rod in broa"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1792910426967",
+          "title": "Maharashtra FDA Food Seizure: 43.56 Tonnes Confiscated - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjZwMGNyTnNnUnZjekx5aFM4MW8wUEF0QlRhdWh1UmZ4cUk5LWFINkI5RFdoWS1GQ2txVDBmdWtDWGRTazRjeEkwWDNzQjRFcTRLREJNM1EyQ3labHc0RVNwLS1ZTGhNRURRbWRienZQMEIwUDZlM0w1LVU5TDVOOWFGdThVNTAxS2xR?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra FDA Food Seizure: 43.56 Tonnes Confiscated  Urban Acres",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA Food Seizure: 43.56 Tonnes Confiscated Urban Acres"
+            ],
+            "tldr": "Maharashtra FDA Food Seizure: 43.56 Tonnes Confiscated Urban Acres"
+          }
+        }
+      ]
+    }
+  }
+}
