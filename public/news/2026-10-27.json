@@ -1,0 +1,764 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T06:45:06.272Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-1-1793083500618",
+          "title": "Maharashtra govt's Karjat power project faces opposition over felling of 50,000 trees - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcE55cVRuZTRLdFZiVjU1cGJHSzIzVWxrRllfQmhnOE1DRVExdHZSbHE1a2ZqNEdNdE5hT0wtOVh4a0tpQzJScDgwMnF0UVdNamNSZXZSQ29SaE5MLVpBbTBrcFFpaVlUQkJJT084UHJLQVBhRC1wZ1NLeDRUUEplVWhZRXpYMzhsbFFsZkdXbWMtZkdEM1JKSlZpX0RzUF91YV9iQnFNM09lQjhsYUhoeUlBMEhPa3JPZlBmc3FhbUpJbW1JbHBRbHZPcm5YanRVS0UxR21BUVI5VzdreXdETtIB7gFBVV95cUxPOWxSTUY1Z3hfMW5fYUQ3MlZKcWwtLUpZRXNOT1ZJeUJJdGh2dEd4RHVoQkwza3hMZlNqSW5KTEItRkhfSENaRjVrQi0yV2JCMnYzOGpOMlhSVm9ETWV0SUc3TUVvdFN2NTFZTkpMZDBRS1hVNzMxX3Y2Y3pQWG9abFp3WTFjalRvaWN4RE5hMnNHQkRJdTFXeUdfZ1dYNmgxVUFhdldwOGFlR2xGUGdjNFdIbkVvNWFibDg4bmNPdXlmT0xHZEtaVjVoNklQYmRVMll6V3RyVVZmalJaSGNnakUtd2RELS1KT2V3djVB?oc=5",
+          "time": "11h ago",
+          "body": "Maharashtra govt's Karjat power project faces opposition over felling of 50,000 trees  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt's Karjat power project faces opposition over felling of 50,000 trees The New Indian Express"
+            ],
+            "tldr": "Maharashtra govt's Karjat power project faces opposition over felling of 50,000 "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1793083500618",
+          "title": "Karjat project sparks Maharashtra political faceoff as thousands of trees are cut for 3,000 MW plant - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQeG9IV0dfb3lBc1ZKX25UcTREamxON2plNG5qd0g0eXhjcHJ0ZE5YV2l3bE5mWkpLSmhDSWZycXA3YkE0VWxHM0E4eWcxWW5SUFEyZFdRNDQ0c0lnTXAwdS1ESkR6dGJvRXJEVGR1aHdOMFpicjBLV0lwMDZVcVl3bzZpdUZnRGFRZUJCTjhvZm1vYUxwNTF2MWpPcVI1dTR4YkxKeGRhcnlOeVc4ck5MSHZkMDhKdGcxeEs2NkstTkxtdWx2S0RRRG8yWFNHX3BCOWVOdkstVFNIc1dVMVNsRUJQRmUwanE2aUFQVlhTRl9fdU04MHhJ0gH8AUFVX3lxTE53eHV5NHotSEFxMHlEU0Z1dUtPQjBQU3hmRHlxNm40Zngxblc5TzVzZUQxS1FZenNkQ3BHbVNsVkE0OG1WbHVUYXJEVUpUNkVTZ2ppWnQwR3c5MEtobWY2bmNuYVFhMVpZTlB3b21tZWh2WTdrRm44b0hEWDJMUzh3TDllaWl4WE1zSGY2eVFnWFBaX3ZBRUdEazR1Z2x2Ymg0eHlPNkswVWpvaF9QUF9fMGcyV3RoUFZwOXBGU2tVbFFZYzdBUHN2cEZ3SW0zbElLMXZlVTVob1Q3ZWk3N1J4WnFlZUFuNndBaXVlMUNrN0k3UFdGYS1IM3FrYw?oc=5",
+          "time": "12h ago",
+          "body": "Karjat project sparks Maharashtra political faceoff as thousands of trees are cut for 3,000 MW plant  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Karjat project sparks Maharashtra political faceoff as thousands of trees are cut for 3,000 MW plant The Economic Times"
+            ],
+            "tldr": "Karjat project sparks Maharashtra political faceoff as thousands of trees are cu"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1793083500618",
+          "title": "Maharashtra government introduces Rs 1.2 crore machines to check medicine quality - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFBHSmtpWUxNcmJySU9tSDlTVHVjbW1peVRqOVA4R3VZVG0wdVFDNUNfaGtkV3MtTDRHMHJBTFpwbjZ5R0gwSDljT0dZY0RHNDlWaHo2T0pXTWJZdk5fckhjUUlOYlJISC1VNVM5VUpLYWlTZlpaNTMwb2JGYmMtYWdUakFzQUx0MUhHdWZmMnQ2QktSRHpaTWdINm16WC1WaU9uczN5clhiRU5qVHloc1RzUXNfZTlyWVA5NG1nSDBPekRkZ3RfTGxOMEhaMEZpQzFpNW4xQVXSAd4BQVVfeXFMUEN5MDJ5SVNRYmN6WFZmNHZnd2E5SC1qMmNwZktwRkRnRjJVZXEwRW4ydGlrWXBfWk9QS3BzM3Bwdmh0Snh2R0VONi1MZms4ZlpHMUtvMFp3dlRHeWxQTGVaX2E3N0JfR0lRckdGYVBxU1RFMmxVQ2dFclU1RGh4ZmY5RFM3YjY5V2dyOWEyai1kS19hSWxwZnN6QzBCMjZvZHVpXzh6Z2RYbDhtZmpIRHFoNEZ6RlVCRi1hMU8wdFVieUhmZjBZQlFCWnhZOGNOaUYyVDhhaE5OSk5sb3J3?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra government introduces Rs 1.2 crore machines to check medicine quality  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra government introduces Rs 1.2 crore machines to check medicine quality Mid-Day"
+            ],
+            "tldr": "Maharashtra government introduces Rs 1.2 crore machines to check medicine qualit"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1793083500618",
+          "title": "Maharashtra forms study group to draw up MMR water plan through 2051 - ET Government",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc1liNWRnclRBM1VaZU1BZzZUaXJGWTZrR2p2eUlRMWFXZS02WERyU3h2OGhveTZtN3RGVU5FaEZHeXVsWkhxMDlDRkJFbHlQMmdXUzl4ZU9MOGlnZThCNWYtOHhCenpoY1lRZnU2SXhKOE1BX0t2Y2o1Z2lfTy1DZGNtNWh5aEpONnIzU1ZpZW1zNmFsZ3pLcFJfTlYySEI2bDJ3ZTNMM3JYRnp5QTlKNG9SNlpJNzRlQmdoMWJpY3RFSVhOaHJKOFdBLVdzWlNLS09ublpTWkfSAd4BQVVfeXFMTlFkVXl5VzA0bWZtXzNVQlJhNzJWWUIwTFdCZDd4NDdJbE5DdHRZTWEtemlOVlJuazBSSks4ektFc191bnBETlFyczBPdEs2cndNc29obzhKd3VGZ1NQWmVkQURpMnZfdnVLN3VqNW1GZWdtcWxIUXF2UHBqdVBjenJGQ05kZjFxMkpabG9Cd1RjV05nOTZNOG9ENXVpSHdVSm1GeG1pSGc1VlhMOW5lSVZsM2Y5Vm1BN09zZ3RkZ0ZVLWNCN054QXlpdW1SMVdyRjNIcC01N2FoT3Q5QmxB?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra forms study group to draw up MMR water plan through 2051  ET Government",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra forms study group to draw up MMR water plan through 2051 ET Government"
+            ],
+            "tldr": "Maharashtra forms study group to draw up MMR water plan through 2051 ET Governme"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1793083500618",
+          "title": "Maharashtra govt orders 100 water absorption pits in every village across 304 drought-hit tehsils - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkN4YzhjTmxzbDZCWGpBWUtuUmUwWHExQ21YQXpOM3hzT0t2eDZYTHBiTXNvbHYtaDBNVDBEdndjRmVxVFU0TGdqdVlxZmJmaVp5TlBsaTFQVUtiVkVHY20zaXFCUTRTdDJvUE53NDdDY1BUeFVMV1pTeXhvWXUwaWV5bWkxYWliV3hac2l2MnFWUFBpNXcxLVpSbkcxMU11eEJuelJiaXloYlNhaER3NXdhS0ZQdk45ZDYyNnZ5SVNES0VGaUVxVE1PSnnSAdIBQVVfeXFMTjRUdlNSbzloRFY1aEZDVngzUnVBNnBzdkd4bm83SDI4RVJRUzNNVTY0cGVkNDhnSkp3Sk9VMUg3S0ZEZVptbjB6OVNpZmlOUDNHWWthZDl2Nnc4QmJCdXpoN0J0MjJXOTdMdlNtbkN6UFhnUDdCQ2hUbTktbWx6WGE5NkRCSnBIZE1CcG00RmF6NjlLOFRwV0pBU21kWjJIdkRUdVlQMC1CQmUzWVhaeGdEekVJYzdudkFNZGhad2FYOWdkZ2NpcEU0LWtHUjVSWllB?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra govt orders 100 water absorption pits in every village across 304 drought-hit tehsils  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt orders 100 water absorption pits in every village across 304 drought-hit tehsils ThePrint"
+            ],
+            "tldr": "Maharashtra govt orders 100 water absorption pits in every village across 304 dr"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1793083500618",
+          "title": "Drainage Improvement Tender in Mumbai’s K West Ward by Maharashtra Govt - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOemUwU3Nvak84M2FlemF3clNMdVpxN1pxalE1ejlRSzlaM0hYN1FYaEozRkduQVkyQlZudWs0aDlrdkJ3R1plSUdVTFFibmdUaHM5RXpxa0pUM2R3cXY1VGxiRVp1S215a2hLdFVVMVNPTHFRR3ZobG5Vc0dEMEo3WkhDQW1JREtfUzk4VWN3RndFMTA?oc=5",
+          "time": "11h ago",
+          "body": "Drainage Improvement Tender in Mumbai’s K West Ward by Maharashtra Govt  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Drainage Improvement Tender in Mumbai’s K West Ward by Maharashtra Govt Urban Acres"
+            ],
+            "tldr": "Drainage Improvement Tender in Mumbai’s K West Ward by Maharashtra Govt Urban Ac"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1793083500618",
+          "title": "Maharashtra considers PPP model for public hospitals in tribal belt: Minister | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlBXQThBNUlrYUMzOU5RU1FwZFpidFZ0UzE3X2pwY0RCQ0FSRjJxajQ2RUpyUWRyR3AtQ2xOLWc3Q1dkOUdiWmZFZk5EeEpHZkZ4UlN6Q0FSd1R0cUt6V0NHZVpIVmRDeVNyYzVzNTN5RmRTQXRsdVMtT1NVVVBWdlg2WkF2THVEVWhYLVRQR2c2cHJ1WDN4R0xoOVdEMEhocjJPVDR2aE1ZQlBFcU5vSnBpTWt6dWl1VUI4VXk0OFp1Ynl0WDdicUM5OFFUcW9JVURCajNtRFA1YXfSAdsBQVVfeXFMUFZQV0E4QTVJa2FDMzlOUVNRcGRaYnRWdFMxN19qcGNEQkNBUkYycWo0NkVKclFkckdwLUNsTi1nN0NXZDlHYlpmRWZORHhKR2ZGeFJTekNBUndUdHFLeldDR2VaSFZkQ3lTcmM1czUzeUZkU0F0bHVTLU9TVVVQVnZYNlpBdkx1RFVoWC1UUEdnNnBydVgzeEdMaDlXRDBIaHIyT1Q0dmhNWUJQRXFOb0pwaU1renVpdVVCOFV5NDhadWJ5dFg3YnFDOThRVHFvSVVEQmozbURQNWF3?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra considers PPP model for public hospitals in tribal belt: Minister | India News  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra considers PPP model for public hospitals in tribal belt: Minister | India News Hindustan Times"
+            ],
+            "tldr": "Maharashtra considers PPP model for public hospitals in tribal belt: Minister | "
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1793083500618",
+          "title": "Fadnavis defends Raigad pumped-storage project amid opposition over plan to fell 50,000 trees - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSEFMVjRYX1c3dG1zWUZmT010MHhiVEdhTnZmd3lSczFqX2tfaVI3T3EzVk1wQzdTVlJRdHRobVRmY1N3VmRSbFVNTzMySl9ZYjhOUncxdFFGRFpXYVIyXzFfN2EyTHJEdXBtaWZYWC10ME93WVNCdTdXLXJnS1dSS2RWSVFiSEt0anphTk9yVnNMVzQ5RFctOXNMamozY3BPNHJmdWx4YjRoVFJGVUZxbm5XY3JzLWszS2hYLTlISndxLWRSbnRkQnBsMFBlVGFvVWZQd2pCRFhTSElmRzROaVN1d3RGeVhETjZHStIB-gFBVV95cUxPYzMybFdxN0hxbE1qbWZVTm1UaENRMVJqaFpnWW56OXpjV25XUXZFaXVHTEY5c0tuVlFqOGZ4UUloZmxLSGxJY0tGcWE5M0RSZkhsX2hlQU1hZjdTT2xNZlVKR2w1ZFBWSTFfMkp3WDVsbTJWRmtSU0xuUTkyMlhlUjB1TkNycEo3Ukt6X1I0dDlOWkJKLTduSDk1c3BibzRHQmQzcFVFQUdGVExiNjVaUGRQUTUzUmxvNjNkZHR6NlBEMllYWGRacWZIeEdnSWlOWU9WOXNIX2RxSlN5V2p4WUV3d1V4b0xUUkVENEV6UDE5MHdmMzl2emd3?oc=5",
+          "time": "13h ago",
+          "body": "Fadnavis defends Raigad pumped-storage project amid opposition over plan to fell 50,000 trees  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis defends Raigad pumped-storage project amid opposition over plan to fell 50,000 trees The New Indian Express"
+            ],
+            "tldr": "Fadnavis defends Raigad pumped-storage project amid opposition over plan to fell"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-9-1793083500618",
+          "title": "Maharashtra govt forms SIT to probe Jaranage's 'Rs 500 crore' audio clip - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3RmazVGNjdaZDEtcVB1bVZhb0hlT044SWtCVXlueXhjbndKVkw1Rm9ldW9jeXljXzRuSWpGOW50djMwR0Jmdk1LS2hzRUx2cDlCY2xDSlJVd2dacnlTVmpDdWplNzRPTW5qbkQzeVB0T1ZDSTQxb2lIcDZFejN1aXZhV29ZRUt0eTZpZUd2aHZmUmwtR0VKX0hqaEdqNEhibkxTMnN2OFNKaDdSRlNKczJwYmZKU21FYUw0SHktN3NTWlh4dW1LZXBORW9OZkVoaVI00gHYAUFVX3lxTE11TWIxQU1wZzU4Y1ZaWlpnaUVDdGxLUGJuVW1nU2NtQ1dGR1NSWmkwZGZwV3VrUXFEZkREVlVhaUxkR0d4bmJVaGpRcGtBZDBRbEtpMlVrVHFYY256SWxmVHdJRl8tLWRLNWVwRUt3TkZlUS1LT3hFb1d3NG5rZ0RaYnpYNHdjUkFmYktyVHE4ZXM4STdPcnBoRVF3dnpGWlVYdkJXNW5sRWQ5a2g4YTRoT2hpMkVFT3NNc0d4OExENVk4cnV6eWNyTU05OFFqdjZDc0RVdWM0Qw?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt forms SIT to probe Jaranage's 'Rs 500 crore' audio clip  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt forms SIT to probe Jaranage's 'Rs 500 crore' audio clip The Times of India"
+            ],
+            "tldr": "Maharashtra govt forms SIT to probe Jaranage's 'Rs 500 crore' audio clip The Tim"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1793083500556",
+          "title": "Sensex, Nifty open lower as Brent crude prices remained near $115 a barrel | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaDNuZlRXbVJSUE1UWG9rMmRfXzVMSVg2d01OTUNUMktjU3RaR0VnYU1naTF2SlhCc0RQRWxDRlJRUW1qajNBN29VM21jV0dWNHRtTUxlMzM5a2kwb3dTN2Vld1Z2VTZuVFRhU2tmNVN1bjJUSDREbUt5XzF3ZXlTelB6dHJyY3BwcHZNalR2bTJnU0JqVDdPck8xOVBiVXNUMVVOTmFfd0FpN3dZZUxJdXRLX3lwczREUkNCUGVLR3RLTlRibEFhT1VKRjAzalAtYmd2VlZQejdSUdIB3wFBVV95cUxPWEQ2ZTJIMm1PLWc4SjZJSzM5UzNNX0Z2dnZlb3lvUmZzdjJuU2d6ZFAyM2hFQkU5aVRWUzJkZ0t2WTJ6Tm1pS0tYLVpfbFNESjFsYzlBUWxXTkZVd2J5WElBTnVjYmtRZHNUVE9DeE5YblBmS3N4YUJXUXRnNGpHdlZNZ3BMVUI4VlNIUmNiZ1NZNlYxZ2pEY2hpdlhlX0czeVdWMVZPU1VjNlVGbTlhaVhralMtOVlaeGtWVzROUGstbzRDSzh1ZjJGbEFSSTFrQldnNE03XzJkRE5xNkNV?oc=5",
+          "time": "2h ago",
+          "body": "Sensex, Nifty open lower as Brent crude prices remained near $115 a barrel | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty open lower as Brent crude prices remained near $115 a barrel | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty open lower as Brent crude prices remained near $115 a barrel | Bus"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1793083500556",
+          "title": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling - The Sen Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEs3VzM0RmpOc3hzaUltTmR2VmpNZWpFOXIyVTFNWUJiOUZVTlJrT1loX1ZZSDMxODFaVlpnTGlob3lIUGZRXzEwTUNneENnVzBYMzV4Z2hyamlUNGhHbGF0Q1RlMU1ZVnlHZXk2a09QRFIwLS1aR0s1NjFxTVhzZllnYVBMaTA0dm41QzJwczVpd0NwdWJXRDYzaVh3Qm9qS1Z6VmpYOTBmRHZ3OHlvWUpJVQ?oc=5",
+          "time": "2h ago",
+          "body": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling  The Sen Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling The Sen Times"
+            ],
+            "tldr": "Stock markets fall in early trade amid persistently elevated crude oil prices, I"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1793083500556",
+          "title": "Sensex, Nifty trade flat in early deals amid selling in IT stocks - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNakhlcU9vbi1VVDFjbDl6aV9JZ2lQM2I5Y2xmaUprU2dIeEh5NkVQOEdnWXF1NGZJRnI4Q3gxVVowZ1RsdWhBcGZxSEZKeWtVellPcVJEdWJfREZwX3RkbUtUWTBrQzhpY3U4eFRjOG5vd1lZYWZIMmlKR21BY1drVzh2VzdIWGRQem9fbVJHdHVIaFVpSWpZSE93LXgyWEs3TWVIT1h4cGVaV3JzNEhXWHVZd3hsZXhydVA0ZXFWX3lpY01zTmU4VnhGcUtteTg0RllqRm1VMGE3aEdGd01LS3p5UQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex, Nifty trade flat in early deals amid selling in IT stocks  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty trade flat in early deals amid selling in IT stocks Mid-Day"
+            ],
+            "tldr": "Sensex, Nifty trade flat in early deals amid selling in IT stocks Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1793083500556",
+          "title": "Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFNOVjlvWVVuWGs5VV90VnlBaUZIdHdEb2ZKUWxDdDVQc1RGdEk3SjdZSXM0YkJVNGFVdW5mWWNXVDgyYk9uV3JGMlgwNkZKLUszZEFTTENxMC1UOTV6MHFrbkRabjJtUHhsRlJtR19oYkhvRzk2U24zN05XYXY5d0NheFFZemxaRjllTGNuajJOdHdwYXhDUXBR?oc=5",
+          "time": "11h ago",
+          "body": "Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks INDIA New England News"
+            ],
+            "tldr": "Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks INDIA New Eng"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1793083500556",
+          "title": "Stock markets rebound after four-day slump; Sensex jumps 483 points - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWVFaWJGd3J5OTVibmlla0p0VXJpRHJwTGtkMHlGcHZUVGFQLVBnYW5CbW1xbzJJblEzTEZvS042anIzUWFUa2M3d2VjNTF4YXBCWlN0OEVZdHhQRkl4T3p3OVJ2d1pMNE8td21CdFhxODk5M1hvdGRTMk5tMjdLRjdlYk9sU2llQVZxYkRuOTI3YTdDT1RxZW5VSE1TSGtEYnB3NnIwVElqdHV3MElPX3Z6S19DWGRqTXllZHRwUDJiYXhVNDNWZnVUWnFIaDTSAc8BQVVfeXFMUFFlRWliRndyeTk1Ym5pZWtKdFVyaURycExrZDB5RnB2VFRhUC1QZ2FuQm1tcW8ySW5RM0xGb0tONmpyM1FhVGtjN3dlYzUxeGFwQlpTdDhFWXR4UEZJeE96dzlSdndaTDRPLXdtQnRYcTg5OTNYb3RkUzJObTI3S0Y3ZWJPbFNpZUFWcWJEbjkyN2E3Q09UcWVuVUhNU0hrRGJwdzZyMFRJanR1dzBJT192ektfQ1hkak15ZWR0cFAyYmF4VTQzVmZ1VFpxSGg0?oc=5",
+          "time": "19h ago",
+          "body": "Stock markets rebound after four-day slump; Sensex jumps 483 points  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rebound after four-day slump; Sensex jumps 483 points The Hindu"
+            ],
+            "tldr": "Stock markets rebound after four-day slump; Sensex jumps 483 points The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1793083500556",
+          "title": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa21SUXZpaHJ6M3ZYQnZYYnRFeldIQl9pS2dkUlBULUw0QVZnaDd1bVpUN2NlRElzak1hQmpEcDV2ekFFNDJldG9RUXNidlYwTUVIb21EbjRUQ0kxeHZrZGRLaUtMczVaRGFEMEsxZFBMTU85SXNjM2xHbXdzNnNrMERWVlVLalFlUmprNkVSeGU5T1Y2cGszZ1VyVnN3MS0xb3Q5RnRFOHNzT3V6dkFoRk13UGh2LTIybl9yakVRZGZyMG1BRmZGSmlKZU1UbWZZc3FsS2IyRlFjamdy?oc=5",
+          "time": "10h ago",
+          "body": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, MCX Closed For Dussehra?"
+            ],
+            "tldr": "Stock Market Holiday On October 20 Or October 21: When Is Trading On BSE, NSE, M"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1793083500556",
+          "title": "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks Decline - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUpySFEyOHlIMU0zTk9kcXlNaFFrZnR6SUszVm9pai1Uc0JteGVYOEFlR0lVWmhkQmtQbzVrV2JiS1l5dkpnZ05meWlpVUpJU2cwRi04Skk0MWtFXzR2MG54WTNYcmtoSnk4ajR0SnhYZm1XV1UzQndyQUFUSzNheUxpUnM5NGxxOHpkTE1VbUxJZTExNElhQUdyZ0tDenpFaXZrdEhpR2VaX3hwV3licVJROA?oc=5",
+          "time": "11h ago",
+          "body": "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks Decline  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks Decline INDIA New England News"
+            ],
+            "tldr": "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks "
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1793083500617",
+          "title": "Mumbai redevelopment: Maharashtra bars society committee members, relatives from becoming developers | Hindustan Times - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNalV6VDFPZFJBQ1ZuMTRaaVI3M1dDeTIxRXJxN3NBWWhjZE9ETXl1VVdjSmV0dE9WajNtWE1ZWE1wdHpDdVVVQXcwZ1BST1dHcndHelVCRF8tbDhVenMxVW93VDAzbzNQaFpyQnFrS0htZkRnaGlvTnF0VGk0M0dQQmpfVE94WkY3T29qMHZVSml3NEQwdl9CUFJHT3VlRlFybmVzZzNsbEdCNmVfU2JCRk9OTkxFdzBkNlpSVTJ3NWVhZXJCM3R1dGdQWDBOcXBGREIwaTBxeWdFTWdFLUZ2NU1nUDRQUnMxemhSRFpGOFhPR2xsNTZfbERIYVdzV2lTUE9hbzIzRkwzYUFt0gGSAkFVX3lxTE0zS1R6OXhtQjBKY3NYcWVsSGRGOVlTR295RUtfenRLdHM4TE13MldCdDZHZkt1aVRoYi13akdsZWZNS08yZ2dyQ1BGZ2dEVU85UzJzLU5iZXZsSDNMXy16bTVUbDJ4LW5xWXNVTVJSV0NiaEZRYi1WTVJjdFpnRF9weTZ4MF9aNkZiaEV4QUZNZHNtRm42bUpMMHF5MlBZVFdSVTdCdE1MZE42TzhwZ2NPN3hjVEdUQmpoVmdydkNlSmFnTGREMUJhWGZqY3JETWdYeXp2QXg3M05rR3htck0xaHRCTkZpWTJsWTNBeW5xLTdjNWUxTjhoTWtqZGNmNkZOZjZNWldyREhCak93b09LeXc?oc=5",
+          "time": "1h ago",
+          "body": "Mumbai redevelopment: Maharashtra bars society committee members, relatives from becoming developers | Hindustan Times  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai redevelopment: Maharashtra bars society committee members, relatives from becoming developers | Hindustan Times Hindustan Times"
+            ],
+            "tldr": "Mumbai redevelopment: Maharashtra bars society committee members, relatives from"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1793083501935",
+          "title": "BTS looks to become mecca for AI, robotics future makers - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmxxampqaGhKUGRKSGVmdURaQjVvWFpWd0ljNi1kdEx5bVlFbGJSZ1BqZ09nbEZMcFlybzIwUzR2ZktDYzFIVld6dDNHZElPWXRuS2UxRWp2aENjSm5KLU1rVm1lMWtkWDNPby1mRDBNYk9TOFhFQWEtTF82UmZnNzJoQ1hWcnZMM3Z3UldKSFJ4aVpCUFhpVnVQVGY5MnpHaHYzNzVxY2Rla3EydXowUEd4UFczc1JNcEo3LXdUWUFmZEg0MkHSAcYBQVVfeXFMT0pscWpqamhoSlBkSkhlZnVEWkI1b1haVndJYzYtZHRMeW1ZRWxiUmdQamdPZ2xGTHBZcm8yMFM0dmZLQ2MxSFZXenQzR2RJT1l0bktlMUVqdmhDY0puSi1Na1ZtZTFrZFgzT28tZkQwTWJPUzhYRUFhLUxfNlJmZzcyaENYVnJ2TDN2d1JXSkhSeGlaQlBYaVZ1UFRmOTJ6R2h2Mzc1cWNkZWtxMnV6MFBHeFBXM3NSTXBKNy13VFlBZmRINDJB?oc=5",
+          "time": "5h ago",
+          "body": "BTS looks to become mecca for AI, robotics future makers  The New Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BTS looks to become mecca for AI, robotics future makers The New Indian Express"
+            ],
+            "tldr": "BTS looks to become mecca for AI, robotics future makers The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1793083501935",
+          "title": "Sarvam AI co-founder Dr. Vivek Raghavan warned that India risks becoming a \"digital colony\" if it continues to depend on foreign AI technologies. Speaking at The Scindia School's 129th Founder's Day event in Gwalior, Raghavan stressed the need for India to - Instagram",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNzhFbFJJcDkwaEtsNFJBT3JRQ0daTEVVaWtKOWtQUGxZUkdET1dhVU1QSTdQcGZERUs5TmJhWEhPYmFvb0NEd0NPamxMSkdqNnc?oc=5",
+          "time": "20h ago",
+          "body": "Sarvam AI co-founder Dr. Vivek Raghavan warned that India risks becoming a \"digital colony\" if it continues to depend on foreign AI technologies. Speaking at The Scindia School's 129th Founder's Day event in Gwalior, Raghavan stressed the need for India to  Instagram",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sarvam AI co-founder Dr.",
+              "Vivek Raghavan warned that India risks becoming a \"digital colony\" if it continues to depend on foreign AI technologies.",
+              "Speaking at The Scindia School's 129th Founder's Day event in Gwalior, Raghavan stressed the need for India to Instagram"
+            ],
+            "tldr": "Sarvam AI co-founder Dr."
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1793083501935",
+          "title": "Ingram Micro India Appoints Farhana Haque as Country Lead & Executive Director, India Platform Business - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDRuQlVkU0tkNFdIWWIyaDJJMzlxVFhZcldOeGMwckhBVFZTUWVtWUpQSU1mSEV1YjU4UUd2VTRkNVZSVjM0OUhmYXBkeWlvTTZIS3VqTmhGc3RKQ29Zb0llbnJVS1BTTHpsei1VNFdULVpGSUxnbTk4a21Bdkp4TnNUd2JBamY1SFY0SnYzeTk2dVRLLUpPdVliZXYyVzR4cUo5eUZlXzh4RU1LNE5DMFpVYThhZGZRUmZrcQ?oc=5",
+          "time": "20h ago",
+          "body": "Ingram Micro India Appoints Farhana Haque as Country Lead & Executive Director, India Platform Business  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ingram Micro India Appoints Farhana Haque as Country Lead & Executive Director, India Platform Business https://hrtoday.in/"
+            ],
+            "tldr": "Ingram Micro India Appoints Farhana Haque as Country Lead & Executive Director, "
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1793083501935",
+          "title": "Parsi Dairy Farm turns 110 and drops a Diwali rap - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQko5RXowanpzQkhIMldEd2MzS19ELThCNzRsekNueUVka3JVemp5UEU4MEdWMERpS1BNMllfX0lYdjVEb1ZBYllOaFVncXYzeGs3TFZibWlTY3NWaC1lUWFhTVFDM2hHaTY1ci1odGZObFczNDg1RUYxUGlQN2Q4X001dW9NdHBrbnZ5Z0R6VGhjZEY0LTdDbWhYeHB0NEl3RUxjSmVqaVFjM3RhVzB6WGF5ZlJleDJyQ0pMTi1KTXA4VjVrcWxIdFBFMmljVlHSAc8BQVVfeXFMUEJKOUV6MGp6c0JISDJXRHdjM0tfRC04Qjc0bHpDbnlFZGtyVXpqeVBFODBHVjBEaUtQTTJZX19JWHY1RG9WQWJZTmhVZ3F2M3hrN0xWYm1pU2NzVmgtZVFhYU1RQzNoR2k2NXItaHRmTmxXMzQ4NUVGMVBpUDdkOF9NNXVvTXRwa252eWdEelRoY2RGNC03Q21oWHhwdDRJd0VMY0plamlRYzN0YVcwelhheWZSZXgyckNKTE4tSk1wOFY1a3FsSHRQRTJpY1ZR?oc=5",
+          "time": "12h ago",
+          "body": "Parsi Dairy Farm turns 110 and drops a Diwali rap  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Parsi Dairy Farm turns 110 and drops a Diwali rap Business Standard"
+            ],
+            "tldr": "Parsi Dairy Farm turns 110 and drops a Diwali rap Business Standard"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1793083501935",
+          "title": "Press Release Distribution India - Business Wire India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVRVSm83alJzenFWN0hndHRoYi1URE9iZDVFcXZwQS1hUkRlRnhTQUl2UzZueEFoUDdRemY0NEZxUE95VUZ1X1BJQ1V5NXA0RUhscEZHZnNpRFVTZmxwWG5aY3hSRnJjdnZ5YTVGOWhuRkVaX0c1Yk5hU3B0RHlvblNHdmZPLUFqV090RTdDMkpmV3VXai1oT04wQkc3eUpPdXFwSjBUS3pWWjlrVjhiUEtsdFBkdC10Yk9JZUl3VWNiWTBKT2dTUzQ2RVlZWmd3aXkyY3JLeWtKMXVMb1E3Xw?oc=5",
+          "time": "13h ago",
+          "body": "Press Release Distribution India  Business Wire India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Press Release Distribution India  Business Wire India"
+            ],
+            "tldr": "Press Release Distribution India  Business Wire India"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1793083501935",
+          "title": "The State Elon Musk wants everyone to move may become world's new data center capital - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdE1qbXZacGg5UFY3QjVhY2xwaWlmMTNZWUY0VVMxNjJFaVZEbTU5dFk0Y1N2YXh3Mk5FSGRPNE9RaTBEd0J2YlVweW9NYlVIQnNyMFFORXhwYk92N2d3M01idXBPZ3EyeVZlZGctMEZQZms1bVNYU3BMM09wejhhbTRidDlKRFhhdXZ5UkhFeXhHcGlkaFNZTzRhbEdyUTVnblVQUmVFelhOTVpDaGRobHFxNFFBbGt1OGlFOWlBMGNST2Uzbkc4TEF2azZac0FLVjREZ3h2enkwRllGQUhTMlpXc0VrZzRFdnUwQVpHWUhHa09id043RVVoa9IBgAJBVV95cUxOaGx5REtxSFo1NmNkb2dtaU9oTWxmYmNNNWtQckg4WlI2TWtYbGxaM0VSUk9WVXFZRjk4SzZ1bnk0NEY1LTVNV0l6WEtjSGszWWx2Z3lDcGF5bnJLa2R5VmxSVEpELXN6Zl9DRnFsS1R5al81ZE5KejhWUjJ0QmM3cnV1ZHRXakk3VXllb2hfU2hTdm5zMjlCUjdzQ0F3ZVpOaHdjdTJ4QkVlLVMyWE1LWmhobXhidlV6OTV3cU5jdTRERFQxUVdCWTFJX1EwT0M2c2hwUllFX08tOFBjREc1cjd1VEI3OS1KOGd2UXZUWVlGYm05WjZEdndmeVdJdUxt?oc=5",
+          "time": "17h ago",
+          "body": "The State Elon Musk wants everyone to move may become world's new data center capital  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The State Elon Musk wants everyone to move may become world's new data center capital The Times of India"
+            ],
+            "tldr": "The State Elon Musk wants everyone to move may become world's new data center ca"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1793083501935",
+          "title": "WazirX Sees Nearly 100% Growth in Monthly Trades per Active Trader, Since Restart - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdEdsUTJDclh5dkJqRURtR2xJWUhHNGtRZnJxSnByT284TFhvRV8xR2FfTFlteWhaY3Q3QWMyQm45QWNpdFJhVTZEa3pMbGNLVnF3cmltVEg5RVJtbE5NaVhzS1FYdVc4Qm9FQ2xlUWRYc3Zwb2djZWxqRk5aQ1RpOHQyeklQTkFkMkFQYUY3WHI2M3JTTmtyRmVlcHZkbVJMLVQxYTN6OHFXU0ZiVTY4VVpQX3UtTjI3ZnVWOENMQ2ZZZ0M5TUdnUUhZZWJJdTFuMUdhV3UxNWdCeWVVdnUzdG1mWkN6d21JeGR5Y2JxYjU0d1BSVzFR0gH3AUFVX3lxTE50R2xRMkNyWHl2QmpFRG1HbElZSEc0a1FmcnFKcHJPbzhMWG9FXzFHYV9MWW15aFpjdDdBYzJCbjlBY2l0UmFVNkRrekxsY0tWcXdyaW1USDlFUm1sTk1pWHNLUVh1VzhCb0VDbGVRZFhzdnBvZ2NlbGpGTlpDVGk4dDJ6SVBOQWQyQVBhRjdYcjYzclNOa3JGZWVwdmRtUkwtVDFhM3o4cVdTRmJVNjhVWlBfdS1OMjdmdVY4Q0xDZllnQzlNR2dRSFllYkl1MW4xR2FXdTE1Z0J5ZVV2dTN0bWZaQ3p3bUl4ZHljYnFiNTR3UFJXMVE?oc=5",
+          "time": "18h ago",
+          "body": "WazirX Sees Nearly 100% Growth in Monthly Trades per Active Trader, Since Restart  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "WazirX Sees Nearly 100% Growth in Monthly Trades per Active Trader, Since Restart Business Standard"
+            ],
+            "tldr": "WazirX Sees Nearly 100% Growth in Monthly Trades per Active Trader, Since Restar"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1793083501983",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "4h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1793083501983",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "12h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1793083501983",
+          "title": "Hardik Pandya's MI Future Uncertain; R Ashwin Predicts 33-YO's Future Ahead of IPL Auction - MensXP",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW43UGNnNXI1aHVMQXFnWmpnUm00YmRUWHpNQXFrV0REejVTSm5xVGVKc3MtdVc4ZUJCVmlJb0lnSENKbjBRQV9Vb2dDOGtzYmRsWEtQd1pBUFFFa2U3Q2dKSjdveDM2REJZTmVtVThPRzc1TmRTdjFQM3NOUk1rWEpSX1BfWEdCQ09oZDRCYnZDY29IUnJVeC1Nd1UyeExPRndXSHpGaUtQMWhsNFBVMW9xbGRaZTNRdzhlSmtTcFNaSVZFVV9HLUxwWkExZmdxTzE40gHYAUFVX3lxTE14N0xsVWVrb0ZxMmlwdS1EaG5QNjNJV3I1dVVTMGZ5U2VaUTFvZFp1aFZqNzFxektiMkw5OU90RWtYeEdsYnA5U0pOU3F2YnpvM2ItUjh5VUU0R2xzbjNHQ2c3dFFfakZ1MXpEallWcFpETUdLV0ttRTVNbVQ0Z3FaQUpaMUwyUWNpalA0anR0S2tnVUZhVHVZVzBPUy13RFlkMGxVaG1zRkFXWXZRaEVlZmhfUWNCdl9lQ1RhTkpXREJzdTdvQjVISjB4d1M0ODZITWREdXVZdQ?oc=5",
+          "time": "1h ago",
+          "body": "Hardik Pandya's MI Future Uncertain; R Ashwin Predicts 33-YO's Future Ahead of IPL Auction  MensXP",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya's MI Future Uncertain; R Ashwin Predicts 33-YO's Future Ahead of IPL Auction MensXP"
+            ],
+            "tldr": "Hardik Pandya's MI Future Uncertain; R Ashwin Predicts 33-YO's Future Ahead of I"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1793083501983",
+          "title": "Ashwin dismisses Rohit Sharma's IPL retirement talk, backs Naman Dhir for MI captaincy - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNclJ3S19sN0lDOTRwY2l5cktqWWJOSW9VaC1kM1hkcW1MbzlsR2dKR0lDQWtNVWRiWFhuTnM0d2hUMHpXY1p4TW1tYjU3RW1VbFZ6eUhVcGJFN3oxQ3BLbUgzX1NQM1NIOEtFUzhsRFZRS1RLNkZISlFyclA3MXgwQTRUR2hQOUhIa2I5dmNwV1BqLXFuaXVGb2N6cF9GYVQ5UjFtYkpIM0pVLVdXQWdzZ1VuMzFydDNlQ0RCZDh2Y1V2NVliMWEzSzdwbFJyQdIB0AFBVV95cUxPVm54NHlLNEtiZG1aUlNtNU9kTEJoMUFleFB0dTlmbnlDTDluSGRJZERpN2FVV3B1eEN1VjBTa0F1c3RBSGIyNFRJcUNpTFNVT1NrYXFfaFE3dC00ejlvUDlQYTY1ZkgxNGxtaVNkOTVEYmNTVjRxN2JOTUdqTjc4bG50WWo3dDVhMHVvWUxIalFHdDdQaVhSZ3JJaGRzLUkxMnQ3UHVSTGloMjdrbWhCeWNyY1diVmNDdzNjSGxMa2F1MGpVbU1RaWhOal93dXdi?oc=5",
+          "time": "22h ago",
+          "body": "Ashwin dismisses Rohit Sharma's IPL retirement talk, backs Naman Dhir for MI captaincy  Rediff",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashwin dismisses Rohit Sharma's IPL retirement talk, backs Naman Dhir for MI captaincy Rediff"
+            ],
+            "tldr": "Ashwin dismisses Rohit Sharma's IPL retirement talk, backs Naman Dhir for MI cap"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1793083501983",
+          "title": "IPL 2027: Ravichandran Ashwin picks Naman Dhir as MI's captaincy option in future - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVc4UTN1bXhSbXluNWZQYzhGT2FpVWxTbW91YVFOWHJFNlNfbS1iZUVhQWNZb2Q3X1ViVEVLRjBkYlhQZW1uaDZzQU5LQVlNQXlCeHprNld4VFIzenRjTUdkYVkxRHlLdXhvak1oQjdkdGgtalR4VjRaeFk0RVNFRUIzRkx2bWVTbkxoSDAzZmMwYkUySG5UM3hJLUlTbWdlcDh5Q3BYcm50dUt4cGhOcTQ1SV9HYmp3bUZqS2J4bTNQTTJ3OXRrdDA0Vzd0akE?oc=5",
+          "time": "21h ago",
+          "body": "IPL 2027: Ravichandran Ashwin picks Naman Dhir as MI's captaincy option in future  Mid-Day",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Ravichandran Ashwin picks Naman Dhir as MI's captaincy option in future Mid-Day"
+            ],
+            "tldr": "IPL 2027: Ravichandran Ashwin picks Naman Dhir as MI's captaincy option in futur"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1793083501983",
+          "title": "SA20: Pollard opts out of Joburg Super Kings deal - Cricinfo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOWNEYTNNTnJfTjdkQVZMekhxWW85TERkV3RTSVRSU1N4d0NOQ1dJSVF3N1p4NDlXTHE2LXlTYjE4YXNfVE5PbDRud19KaVdJYWotdkpUQ1JtWk5TN3BqVnEzVUJtdkFaWGZ2cFN2WXdLV0pROGpjaElzcUNCbTZkdWFzdVhLV1QybzVHRFBEbUNkaWFWdGNncmZHbW9HS3k30gGyAUFVX3lxTFBYdUF0TGVxRlRMMFhXbkZfb0tOUkI1ZFNHOTR0SDFIdkdQOG80aVd1N0xqNFlWTndCdU5ZZWZfZjg0OU5jNl9CSUhTbTdwbm9OUW5iMVlfWE9SaHVHblJtcm9oRDdLMWRMcmdSUF9RSDNJN3RnRkVOQ3lYcjRrTHpZcUFUcU9LTVlzZklCbXNINnBXN1RxTFJJQ2JFVEpKQ3lFMU81bFlpcUotZGZKdU5RLWc?oc=5",
+          "time": "22h ago",
+          "body": "SA20: Pollard opts out of Joburg Super Kings deal  Cricinfo",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SA20: Pollard opts out of Joburg Super Kings deal  Cricinfo"
+            ],
+            "tldr": "SA20: Pollard opts out of Joburg Super Kings deal  Cricinfo"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1793083504522",
+          "title": "IND vs NZ 3rd T20I: Sooryavanshi under spotlight as India look to seal series",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "IND vs NZ 3rd T20I: Sooryavanshi under spotlight as India look to seal series. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs NZ 3rd T20I: Sooryavanshi under spotlight as India look to seal series. [object Object]"
+            ],
+            "tldr": "IND vs NZ 3rd T20I: Sooryavanshi under spotlight as India look to seal series. ["
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1793083504522",
+          "title": "IND A vs NZ A: Bad light stops play as India A wait for final wicket",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "IND A vs NZ A: Bad light stops play as India A wait for final wicket. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND A vs NZ A: Bad light stops play as India A wait for final wicket. [object Object]"
+            ],
+            "tldr": "IND A vs NZ A: Bad light stops play as India A wait for final wicket. [object Ob"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-1-1793083503168",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1793083503168",
+          "title": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]"
+            ],
+            "tldr": "'Moved back to India 7 years ago, planning to move out again': Redditor gives re"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1793083503170",
+          "title": "Indian-origin siblings sold cookies in 2018; charity gave 100,000 books",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support. They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities. The foundation has since reached over 15,000 students across Texas and partnered with various organizations for resources. Their mission continues to focus on underserved communities to ensure equitable access to education.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support.",
+              "They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities.",
+              "Their mission continues to focus on underserved communities to ensure equitable access to education."
+            ],
+            "tldr": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books…"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1793083503170",
+          "title": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhetoric against H-1B, calling them 'indentured servants' was imperfect. [object Object]"
+            ],
+            "tldr": "Meet Niv Agaram, the Indian-origin woman who made JD Vance concede that his rhet"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1793083503171",
+          "title": "JD Vance’s immigration tiger is turning on its rider",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event. An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants. Vance defended his position by claiming he was criticizing corporate practices rather than foreign workers. His remarks have led to significant backlash from various groups regarding his mixed heritage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US Vice President JD Vance admitted his rhetoric on H-1B visas was flawed during a recent town hall event.",
+              "An Indian-American woman challenged him on his stance, suggesting it scapegoats immigrants.",
+              "His remarks have led to significant backlash from various groups regarding his mixed heritage."
+            ],
+            "tldr": "US Vice President JD Vance admitted his rhetoric on H-1B visas was…"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1793083503171",
+          "title": "Indian jailed for life for murder of woman he met at a brothel in UK",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian jailed for life for murder of woman he met at a brothel in UK. [object Object]"
+            ],
+            "tldr": "Indian jailed for life for murder of woman he met at a brothel in UK. [object Ob"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1793083504851",
+          "title": "Results for 28 MLC seats across 4 states today: 150 candidates contest 8 Bihar seats, BJP and SP face off i... - Bhaskar English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWtEVXY4VGJtRDlISHJvRW82RzNvX0JJNUtsRlIxYTk3RFF1eUVoNGtzejAyUXhBZGxpS0lGbVkyN19tNU81M01qYWJTMXFwWGJ6dDdPYWMyNkZGa29UX000d0xUaEx0QUE4MjBnNE83ZGVDVl9ZUTlUNjB1dFBhTGVMaXp1T1hCMzVOOF8xRTQ1Y1JqeEJ2UlY4TnlaUGhVNXBMbmdJSGdaaGhYUW5RWUFvSElINDRZVUtueW9SZ2Rwd9IBxwFBVV95cUxPbFFDbFhUQlk0UXhyTDZ0NUpYeTJ4M0ZDU2J1czVMV01NOVFaSGVNOWRNc3Bqa2NaUG9qa0I4UEY2blF5MGdETEw2eEo2NkVfMWJXN0VrVWtxTU5QYmJrNTNjZW42LS1tdlFhQ0MyODEwdFl4dnNmaV9ZSkJvdXFOSnJVbndsZEI2a2xrbl94M0t6MFBmMVZ0aFUzVUI3NUdNNFE1YzZNa0NFZk5vcUc2OHZDN2ZyUEF2MFd6OGlxTlQ3ejJBYVRJ?oc=5",
+          "time": "2h ago",
+          "body": "Results for 28 MLC seats across 4 states today: 150 candidates contest 8 Bihar seats, BJP and SP face off i...  Bhaskar English",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Results for 28 MLC seats across 4 states today: 150 candidates contest 8 Bihar seats, BJP and SP face off i..."
+            ],
+            "tldr": "Results for 28 MLC seats across 4 states today: 150 candidates contest 8 Bihar s"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1793083504851",
+          "title": "ASPHL signs new hotel in Aurangabad - BigInfo.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcFZjSjlFNzNpQi02bnUtdzVDY2FXNWFGd29FYlhZaTB2VENxeU0tU2dkd3J5VUtvWWphVDYxNzJzblNnNDlxVUNaX0wzVzFVTmd1bkcwaVBLYXVrN2RWQXdkX1BCMGVpQm9z?oc=5",
+          "time": "12h ago",
+          "body": "ASPHL signs new hotel in Aurangabad  BigInfo.in",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "ASPHL signs new hotel in Aurangabad  BigInfo.in"
+            ],
+            "tldr": "ASPHL signs new hotel in Aurangabad  BigInfo.in"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1793083504851",
+          "title": "Ather Energy to Expand Production Capacity by 2.25 Lakh Units - BikeAdvice",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSF9YWWdqOEVvR2JuUFRIbm1nTTl5dmQxTVhJMXE4Vk9ZeHgzZlZMNURsTHAwUWZnS0JxOUFmNWdYZnpqc050XzVCd3BtOEFMZzNRLUdlRWIyaDM3TGlsVkxXZWlZcFpRMUdUSTh0cmplLW50MDFEdXZ5eEY2UXZZSUVKUGhGUWY5VHdtRQ?oc=5",
+          "time": "17h ago",
+          "body": "Ather Energy to Expand Production Capacity by 2.25 Lakh Units  BikeAdvice",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Ather Energy to Expand Production Capacity by 2.25 Lakh Units BikeAdvice"
+            ],
+            "tldr": "Ather Energy to Expand Production Capacity by 2.25 Lakh Units BikeAdvice"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1793083504851",
+          "title": "Ather Energy To Invest ₹122 Crore In Manufacturing Capacity Expansion - Autocar Professional",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0Y3X0FZdFFIQzAza0JraUJpWkNLM2NjMFZnMzlmT0JfbkR3Z1ByNG5vM3NzNEJiOENWZ2hLeURUc1pHYnMyS3JoaVdkQ1JoLXdPcFQtdWoxSl9BT2Q0Q0FTc3BydGI4VWdIakk2Q1YxR05uU3ZuTThSNHRaZWhLVWhwUkJQZ19Qa0lNTlhYRHVZZnlyRW1oaUVsUXJOSlVSbVdOVkxPOEZVUndzV1HSAbYBQVVfeXFMTzh1S0FjZHBSTi04c0pxQ2gwN2Y0a2hKc09qdkhGVWg3OTRVXzZ6eVR6NUJsSFNNZk80dWlHT3g4amNKQ3hkeTh6R0ZXRkoyTlU3YUcxMG5EX1piZktJR09sT0lOYlREMHBfOGxkMEJ3MjR2WlQyOVY4ZnFmeUpKN0pORjJqMkR1aGtKSVlKbFVucjRyWHk5N1hGQmdUX3pqR19CSll3NlA4YnpGV0NhLW5FR1J3dmc?oc=5",
+          "time": "21h ago",
+          "body": "Ather Energy To Invest ₹122 Crore In Manufacturing Capacity Expansion  Autocar Professional",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Ather Energy To Invest ₹122 Crore In Manufacturing Capacity Expansion Autocar Professional"
+            ],
+            "tldr": "Ather Energy To Invest ₹122 Crore In Manufacturing Capacity Expansion Autocar Pr"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1793083504851",
+          "title": "Supreme Court Questions LLM Student’s Plea To Stay MNLU Aurangabad Convocation, Calls It Academic Matter - LawChakra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYSXdMYWNrOFRKQnBkd1JIdVlqRXAtcnZQTjhxLS1lNmI2VFUwU0VoOEhjN2dHdFV0cEVwX0pjTG1XNnJ0NVZGNXVidXRvakVHVGxXQkxLQzRjUFZ6YnlzTWI5d1ZrSWsz?oc=5",
+          "time": "20h ago",
+          "body": "Supreme Court Questions LLM Student’s Plea To Stay MNLU Aurangabad Convocation, Calls It Academic Matter  LawChakra",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Supreme Court Questions LLM Student’s Plea To Stay MNLU Aurangabad Convocation, Calls It Academic Matter LawChakra"
+            ],
+            "tldr": "Supreme Court Questions LLM Student’s Plea To Stay MNLU Aurangabad Convocation, "
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1793083504851",
+          "title": "Approximately 72.96% turnout in Maharashtra MLC polls; Amravati Teachers' seat leads with 92.25% - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQTdWN29XR21rQjY3S3FwRTFZdy1ib002UDJVMWhiMFNrbHZmX0FQOGFDUE16T0I0WFdkZXpBREJoczk2WlVrNWVzdmw3MGdVWmhTZDNESzM1UE0yQVRKdGM4anBiekhlNXE1STZXbUpwNndkYWRRLUs2QUY4anVrQmhjUGtsb1dLU0xjVWhSU2NBejRlYy1pUkdDX0ZPZDlvMWxuX2RzVmFhZ0ZKSTAycHBoWTR2dXVXVmMyWUFNMk04bFNmTUllSDg3SkdZUDhwZkpicUFoeXJjOFR3TGVCTTlpQnhTTW91X0JvQ2MwVWM1OFB2U2pQTVpfel9BdUNo0gGGAkFVX3lxTE1RRnN4S1pWVGo4RHY1ckpTbURHalFSM3BWd2gzTER6czVOWXBmMzkzQzNLY1ZvbGJpYlpNX3d6X3BoLWQtRXc4S0pjVVkzR2xDdDNqLVVlNnJTTGRSaVRXSEM5c25rNG04WUtMQjhQZFlQRENxaDBub1hHVTFLanViQ2ZRWE5LM1p1T3ZnWlZYTmE5NGo3OHdaY3gyRG5UT1pvYndiVWJpTGMyS1Q4a1ozWEF0bkxZWUNIdGtGSk5rXzFMVjNZaGZjdnhRNVB5QzJpNUlkdTlzOTlQV0hsM3lPTHNKN1dac3VoM01pZXZMWHdEdzVrV3IwVzdQT1NqalF1UldscFE?oc=5",
+          "time": "21h ago",
+          "body": "Approximately 72.96% turnout in Maharashtra MLC polls; Amravati Teachers' seat leads with 92.25%  The Economic Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Approximately 72.96% turnout in Maharashtra MLC polls; Amravati Teachers' seat leads with 92.25% The Economic Times"
+            ],
+            "tldr": "Approximately 72.96% turnout in Maharashtra MLC polls; Amravati Teachers' seat l"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1793083504851",
+          "title": "Maharashtra MLC polls record 72.96 pc turnout; Amravati Teachers' constituency leads at 92.25 pc - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLWY4bFpySWRkNEU5UzFkZGpzaHRzYjFwWElsdm8wS0hqbktaRkxSbnNFMC1VYlMxUVBwOXd1OGE0Ujd6NUVMLUZ6ZW5tNENwWUx6eDNOV0IxejhBRXh6dFFPemxlTjREWUtzUUNHZGJ1SXpKSUtVRTVyWnJDZXYtRG5EWm9vN19WSXJ6WFU2WXdJMVhEaWYtUmpzcjRoMVhHNk9MRjI0RGNHXzlqanlsbG1DYnp0d2N6bXFOeXFaQ2RwVjJJSmJUb3pkX1FNc0N2LUd2ZzM4VVprbEVTN2dQdWpvZGVBQno3TDNSa3J3VdIB7wFBVV95cUxQLWY4bFpySWRkNEU5UzFkZGpzaHRzYjFwWElsdm8wS0hqbktaRkxSbnNFMC1VYlMxUVBwOXd1OGE0Ujd6NUVMLUZ6ZW5tNENwWUx6eDNOV0IxejhBRXh6dFFPemxlTjREWUtzUUNHZGJ1SXpKSUtVRTVyWnJDZXYtRG5EWm9vN19WSXJ6WFU2WXdJMVhEaWYtUmpzcjRoMVhHNk9MRjI0RGNHXzlqanlsbG1DYnp0d2N6bXFOeXFaQ2RwVjJJSmJUb3pkX1FNc0N2LUd2ZzM4VVprbEVTN2dQdWpvZGVBQno3TDNSa3J3VQ?oc=5",
+          "time": "22h ago",
+          "body": "Maharashtra MLC polls record 72.96 pc turnout; Amravati Teachers' constituency leads at 92.25 pc  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra MLC polls record 72.96 pc turnout; Amravati Teachers' constituency leads at 92.25 pc Mid-Day"
+            ],
+            "tldr": "Maharashtra MLC polls record 72.96 pc turnout; Amravati Teachers' constituency l"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1793083504851",
+          "title": "Maharashtra MLC polls: Approximate 72.96 per cent turnout, Amravati Teachers’ seat leads with 92.25 per cent - Daily Pioneer",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ1RKbHV6Y1k4aGtSOExyNW1Yc3IzSUtRdXRJTHhBMlBNVzRBeG9UeEJTNEdidEkxTXFhWVFsREFTZ19rcks5Q2g0MExxRzZJX0xtX3VQOUlGSFVnLWFzWTl3NTF6MENzSUhzRVFxVjA3NWhlRC1lR1A3VlNhNGtjTk85Z0tKMzJYRFk4Q3ozM3JSVzVtZC00OU42Q0ZRQ2RhTW9tak85bWxEX3NwSFVqUlBoWS1tSTY2Mm5OdU5nc2RoN3ZUaDg0TFpQQ1ktdWNldU5ZS19qYURUUzBQ0gHcAUFVX3lxTE1nVEpsdXpjWThoa1I4THI1bVhzcjNJS1F1dElMeEEyUE1XNEF4b1R4QlM0R2J0STFNcWFZUWxEQVNnX2tySzlDaDQwTHFHNklfTG1fdVA5SUZIVWctYXNZOXc1MXowQ3NJSHNFUXFWMDc1aGVELWVHUDdWU2E0a2NOTzlnS0ozMlhEWThDejMzclJXNW1kLTQ5TjZDRlFDZGFNb21qTzltbERfc3BIVWpSUGhZLW1JNjYybk51TmdzZGg3dlRoODRMWlBDWS11Y2V1TllLX2phRFRTMFA?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra MLC polls: Approximate 72.96 per cent turnout, Amravati Teachers’ seat leads with 92.25 per cent  Daily Pioneer",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra MLC polls: Approximate 72.96 per cent turnout, Amravati Teachers’ seat leads with 92.25 per cent Daily Pioneer"
+            ],
+            "tldr": "Maharashtra MLC polls: Approximate 72.96 per cent turnout, Amravati Teachers’ se"
+          }
+        }
+      ]
+    }
+  }
+}
