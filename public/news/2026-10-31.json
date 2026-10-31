@@ -1,0 +1,757 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T07:26:40.493Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1793431594599",
+          "title": "BJP calls Shiv Sena leader \"monkey strap brand\"; Sena predicts government change in three-four months - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVUFkRXJlQ0haY2haVHFqXzAzOGdUV0R5UUVvYkJZbllUaVJFTjRZa0ZPc1NpbUN6VndVRjMxRlc2aXhIdTU3b05aaHlGb2pXcnFWQ0dFSUlBY3QxNjJWcURJU1NtMkZsSmJuUDdKU0ZVdkhFbTJ4aG4wOE1lRlpDWlhUT3Zyb2pCVFkwNlNyOFU2bjk0T1UwZElMZTU5UHpwaUJwaXlhVFFZX2ZOUlZTeHI3VHRCbjgzMGxQLVc4ZEphMVk1SFI1cHRENWJQMDZxOXNicldQN0N2eTFYUkVXS3o5Rl9pSU5nbng4Q2ZVZkdiaENZ0gGCAkFVX3lxTE9tUTJBdEdVWXluMUgxREZ2OGdueU5zTkJYNFlzbVFsMW1oUng4Q2lfNUU1ODc4V1NMY3dJTzRVMElYSnlxR2JFUlBsXzMzOGpFVnNSYXJockJDSThqRFJncFZMOVBOUjc0eFJvb2FreXpJQS1aUUFUdWpvYXlsLTBCbUhQejczNExnelJTVnBUWHZNSjd5OEdqQnRQVHpUUnNhUVpuRS1tUG43NVZoOVJkVnNabkRmNjBaWGFkd1oyWmM5OGVRdFZlSlFudUlmcXBYRHUtZFNMNG9pbS1iMnpsTE5rUXFvaFBtTUROTmdCa0QxOTdDb0hoTmFSeHllRWpfUQ?oc=5",
+          "time": "17h ago",
+          "body": "BJP calls Shiv Sena leader \"monkey strap brand\"; Sena predicts government change in three-four months  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP calls Shiv Sena leader \"monkey strap brand\"; Sena predicts government change in three-four months The New Indian Express"
+            ],
+            "tldr": "BJP calls Shiv Sena leader \"monkey strap brand\"; Sena predicts government change"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1793431594599",
+          "title": "High Court orders Maharashtra government to pay ₹2 lakh compensation to activist for illegal arrest - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMkdEZlBxQURKUGtLb0RaVlgyM3BMM3VseUdCdFNrT0U1aHhqSDVVbTFlSTVjSDMzZUJ0Nkx6ejY0a3ZzT0Vzc1k3Z1NIWDBmQWdhdS1jeVdHcy1pTmN6Y3RoRU5XS3ZPa3dkODAzM0JiYnR1RzZRWFBLMVpNR3BOdUdfLUM0ZkY3Q25lR2NzcUxoT056bk55dDlUd21UdU5kdDk3ZHdyYkEtOUpuQXJvN3o1M2ZCd1BNU05DeWtwNjd1TXNBSUNFZTEwdGJPTTlnS19wOUhyVGxZbmNCZzR4VkUzZGhBN19PNGhCa3ZXd1FvakFr0gH7AUFVX3lxTE5UUWFiMWNkTWV4VWhPLS14M0tKTlp2MFdyOHowMVNmcV9RazVpaF93Q3VNdGtGQlpLeDJLN2ZwOTVEQWU4ekdSWHYzWVRLN2RrZkVTM0FES2tSXzRVLW1OQTFyekx2MDZUZWIteG1NbmZJYkRGcEh2bFU5cklwb0JvdHM0bFdrMWY5dHlpMHZjUkZSMEd3ZFRZY2FDU0dGemNwaUJQbndpUGVUM3JFQV9CTXlMZkdmSS14dzlFbFV5Yy1WSVlsX2h2MUh5c042cDhYVm5uUzhabk94LUE4YUV0QW8zRWtGa21lZG1xNGlPc3N4c2pPdTl5RGM4?oc=5",
+          "time": "17h ago",
+          "body": "High Court orders Maharashtra government to pay ₹2 lakh compensation to activist for illegal arrest  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "High Court orders Maharashtra government to pay ₹2 lakh compensation to activist for illegal arrest The Hindu"
+            ],
+            "tldr": "High Court orders Maharashtra government to pay ₹2 lakh compensation to activist"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1793431594599",
+          "title": "Maharashtra fixes ₹10,250 rate for PET-CT scans at government hospitals - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkFRbllaUTVKS2tkbFl3aVRfWjVWZWNVd0JOb05lYmZYN0E3b1RacVhmeXR6Z3FOTjU3UHljX2dJaDh1VHU5eDd0NGJiX05mOGlHZTkwdXRMbXp3WURSSDVjNWZ5NXdjcElQblBxZ3lhakJBNEg5d204Ty12emxWUE9ZRVVkYmNGM2VPcHpRLXBSY05DcGVYUURENVg4Y25peHYtNWtpdERrUHRjRHcxWHRrN2lXNXZ5bXBEMWhqcEtRM0VVOWhQZHBQRVNjV1hoSlk2ZXlKOWY?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra fixes ₹10,250 rate for PET-CT scans at government hospitals  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra fixes ₹10,250 rate for PET-CT scans at government hospitals Hindustan Times"
+            ],
+            "tldr": "Maharashtra fixes ₹10,250 rate for PET-CT scans at government hospitals Hindusta"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1793431594599",
+          "title": "Four Maharashtra FDA officials suspended over lapses in action against hookah tobacco products - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTJhMXdXWGlrWlJVN3NDdFl6U09DNmZlNXJSdHhNcHVRbVFyNHJORGc4YnNtR0MxM2EtYmhtRXRKbkFVZ0xmYW1YWmhNWmdOdTc2WGUwaXNPQjRJRmtGNXhJcjRzeWlVZXl1bmVVSXAwU1dtVnNKTS11dDJLeVAybFdNUDNfMERSMUU3TFAxNXVhOU9iVmRMNTBldVN4dVpIMlhqOWVCbVJFc3hEU1dEYU9STE1KbnAyQkRycFUzblN0VWUyT1pjQ9IBzgFBVV95cUxQT0hQSHVZZ3k1WFpjclJ2VjZfNW42bmoxaTRjbEdSMUFwVVJxczBvNUVoWGMzWkhpVDBKdXhoc0ltc1dneVdqaU9VcUl3X2JzMzROZ3lhdnA1NEFoTmdldHZjblZTZEQ5VWFsT2g3ZW5LTzdPeHhOSGdGS2RNZ2I2czM0ZGdzTEV4anlMU2hXZkliM29WdzI0UFVWdmg2NHJvcVhwZGxJNVBtczVLblJHQlAzSzBpT0JROW44aW43SUxUMjV6Y0hKSnJUS3pXZw?oc=5",
+          "time": "15h ago",
+          "body": "Four Maharashtra FDA officials suspended over lapses in action against hookah tobacco products  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Four Maharashtra FDA officials suspended over lapses in action against hookah tobacco products ThePrint"
+            ],
+            "tldr": "Four Maharashtra FDA officials suspended over lapses in action against hookah to"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1793431594599",
+          "title": "Maharashtra Govt hospitals to offer free PET-CT, MRI, CT tests to eligible patients - Medical Dialogues",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTk5nWkRVam1OcEMyUk1pQVA0ZjFMZjhpZUoybmhhZzkwcFVFamwybWJFVnV5Sjd3d2VjZXBzejNaWGtDeWRQSUl5NXFTdFl2bFRUb2w5MUc3U0s2bE5UblFKaWVDZXA2UWRXeXBVbngzY3NZV216elFiQk9LaXJ0R3RuMnhLYXVPUVNKSkt4bnJvSlpqdFNqM2ZVOXFsOVVHb1RUaEJLMVdxQm5tVXpoTkZLSmdYYm1GeW9pb25UR1BpYlJaVENMU1lCTlhZSXBsSUxfbVJ30gHbAUFVX3lxTE1oZmFFUHNBUDNwQUpaNWtKN1hjdzJNMHNQdlc2WjFsLXFPbU1ENzN6cUxZU09lYmV1SXZzallGRURBUjlaS1FpdW56ckZ1bHZQQkhHWk1TQWt1UWJWWkI2UlJJblU3ZWxzRFhib09OVWNteXdrVmJLRjVjZG9oanM0cUpobW54dTREV3MyZFNvdGs0VTJ2QVRuUDdKeTNjM085NG15RmJoaG5IcWp5UWxjUV90UThPbk9DbVVrckN2MFlQcjlHcDlqQzA5YW5aUHlORmhsMDc3T0F4Zw?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra Govt hospitals to offer free PET-CT, MRI, CT tests to eligible patients  Medical Dialogues",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Govt hospitals to offer free PET-CT, MRI, CT tests to eligible patients Medical Dialogues"
+            ],
+            "tldr": "Maharashtra Govt hospitals to offer free PET-CT, MRI, CT tests to eligible patie"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1793431594599",
+          "title": "No Plan For 20 Floating Hoardings Off Mumbai Coast: Minister Nitesh Rane - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWFg0MlJwRVpTYmZFX2xmT3otVFBhSVBNdXgzbmJyVlFrYVRBdEtuZkNNM2pFZjAtUVA2WG1tcXYtaGR3LU1pUllHOU5FbVNwRWJHaWpNWUJXcnRaMHdrRWlzS1VHTU9FSl9RZEd6cHBQRTk2OXFQZzhoMlhCaXpSTzRuM3FKOTBiX0htWGVQS09QOVloTUpMZlJCaGMwSzRza0tnbWlEekU5Tkc5YldvS0NYZ1I1TG9ZVy1MLWdCa0prQzZ5dGFEVVZ5aFNTUdIB0wFBVV95cUxPMEZrc0syQTVDZ3dTRklvWFRORlpMTkdWVVV6amw2TDhQc0luV2w0LVRtRDVRdzMxLTIwN1dSanRGbXNlU1k2NnZnMTJYbmJvdEk3Sm13WlZMbGRNZVlkRkhxNzN5cDBEeFB1VF9IVy1fUVRpYUpEeGt4RFVqbFEtRlNfaEh0TGw0bnpnQVIteEV2d0hYT25nU0JsLWRydHNMeElqSktySGhCWnRRV1hRSnc0QUhLTXpuMEY5ZHY1ZjhPbW9waFpZN0ttZW5OOTE0dkZZ?oc=5",
+          "time": "20h ago",
+          "body": "No Plan For 20 Floating Hoardings Off Mumbai Coast: Minister Nitesh Rane  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No Plan For 20 Floating Hoardings Off Mumbai Coast: Minister Nitesh Rane Deccan Chronicle"
+            ],
+            "tldr": "No Plan For 20 Floating Hoardings Off Mumbai Coast: Minister Nitesh Rane Deccan "
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1793431594599",
+          "title": "Fadnavis, Thackerays & Mahayuti Tension: Is A Maha Twist Loading? - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNURzb0VRSGlUQTc2X0h0S2hxVjJXaEJ1SmR4aHZZTU5nX0VaWGVYMi1KZXoxVThZbmhVcnN3QUY1ekFxSjd5dS1JMENOZFFjd29jQXg1UkZydFB1RmJVa05fRFVINU1KWnhZLUJKVFNRT21CVmZ6dHFtSFJSamlNSHpkMmlIT1hKd1dUZ0lqeE5pei1DQmsxMjU5VUoxOGU2Mm9mMzRUU3BrM044TFNVU0w4cjE?oc=5",
+          "time": "20h ago",
+          "body": "Fadnavis, Thackerays & Mahayuti Tension: Is A Maha Twist Loading?  News18",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis, Thackerays & Mahayuti Tension: Is A Maha Twist Loading?"
+            ],
+            "tldr": "Fadnavis, Thackerays & Mahayuti Tension: Is A Maha Twist Loading?"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1793431594599",
+          "title": "Prohibited tobacco products: Maharashtra suspends four FDA officials, 21 face departmental inquiries - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTnBqMVdkWm1KbHV6dkNGdFZEN0FOVm5uanpQSUpjb3Z3a01UVTJQV2g2VmEzUHh5aF9QSVQ2RlJpOUtIVkxpRE9iM2ZQVFFxTWIyQWlzSjhRWnFycEw3Y0NYQnZlVkdHS1BJdjFBb3c4Z2dYU2swT0pDQWJyZ1pQOXpRSDJXbEMzaVNScnlRWW9saWk5WWdPLWdmX090NVdWRHZiOHRtRUVUU3BYU0xzWGJocHRDekxWV1A4Z3pGMGVDR25PalVoTTlOUldPRHU4bmh3RkxWbW1YdUVlQ1g2MEdqQkYwZ1RXM253UnlfYWR1RTJnM0FtSy1DVEZmUFBuQjVoYnRLanbSAYgCQVVfeXFMTk5wajFXZFptSmx1enZDRnRWRDdBTlZubmp6UElKY292d2tNVFUyUFdoNlZhM1B4eWhfUElUNkZSaTlLSFZMaURPYjNmUFRRcU1iMkFpc0o4UVpxcnBMN2NDWEJ2ZVZHR0tQSXYxQW93OGdnWFNrME9KQ0FicmdaUDl6UUgyV2xDM2lTUnJ5UVlvbGlpOVlnTy1nZl9PdDVXVkR2Yjh0bUVFVFNwWFNMc1hiaHB0Q3pMVldQOGd6RjBlQ0duT2pVaE05TlJXT0R1OG5od0ZMVm1tWHVFZUNYNjBHakJGMGdUVzNud1J5X2FkdUUyZzNBbUstQ1RGZlBQbkI1aGJ0S2p2?oc=5",
+          "time": "15h ago",
+          "body": "Prohibited tobacco products: Maharashtra suspends four FDA officials, 21 face departmental inquiries  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Prohibited tobacco products: Maharashtra suspends four FDA officials, 21 face departmental inquiries Mid-Day"
+            ],
+            "tldr": "Prohibited tobacco products: Maharashtra suspends four FDA officials, 21 face de"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1793431594599",
+          "title": "Maharashtra earmarks 5 per cent of district funds for fodder schemes, bans interstate movement amid drought - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaWFwR2txbW45YkFzWTNtTVJpQUNtVDdMRUtpOGxPMWVaZGF2LXJjcXJWMzkyb1RJdkU1SmU4bGFmVUtyVUEzZVBUS3pTdE1SMGNJb0VmT045bUh5cnJLSXJ6ZWNkREJrZ0JQNlVSdWpJX0RTQVA2Q3hCcVBwZ1J3RDNQeTFDbVBVU09pTWRFNlFEaTg2UEFUdmFUR09mdGo0YXhRRkY3VWdESEZTa3R0cm84eFNFZEZBSkdpNTZuT21JWXN4NV9NWTEwUDNydDBZVzVRLTFITFUyTldBRFpraG9sb2tKaFkzTTBtT0NMQWtrYXhFVC1wcDRxSEFKQTTSAf8BQVVfeXFMT2lhcEdrcW1uOWJBc1kzbU1SaUFDbVQ3TEVLaThsTzFlWmRhdi1yY3FyVjM5Mm9USXZFNUplOGxhZlVLclVBM2VQVEt6U3RNUjBjSW9FZk9OOW1IeXJyS0lyemVjZERCa2dCUDZVUnVqSV9EU0FQNkN4QnFQcGdSd0QzUHkxQ21QVVNPaU1kRTZRRGk4NlBBVHZhVEdPZnRqNGF4UUZGN1VnREhGU2t0dHJvOHhTRWRGQUpHaTU2bk9tSVlzeDVfTVkxMFAzcnQwWVc1US0xSExVMk5XQURaa2hvbG9rSmhZM00wbU9DTEFra2F4RVQtcHA0cUhBSkE0?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra earmarks 5 per cent of district funds for fodder schemes, bans interstate movement amid drought  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra earmarks 5 per cent of district funds for fodder schemes, bans interstate movement amid drought Mid-Day"
+            ],
+            "tldr": "Maharashtra earmarks 5 per cent of district funds for fodder schemes, bans inter"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1793431594599",
+          "title": "Maharashtra to seek Rs 5,000 crore to establish ‘Pune Growth Hub’ - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWlPdl95eDRzN1kzYm9tUkJ2TThocHpqQ2xLanRxeVUxNURIanpsM0dpUUExcHgtMmI2UjBpU1BjeXQ5X0VLUm1hTU54bk5EMWFsd1hsbVFOb2h0Y1ltRlZrbDAxNzFYejlsMV9HZU1lT3oyLS13eWU1Y09KX0liMW9QbF9QbWl5ZmNta0tLSEVkZF9oODQwR9IBnwFBVV95cUxNY2c4ME1qWW5QblZQNnBpRzdpVEpfY3lZQm16MWZJYVlzeTRFREFCSkhvei1DWlBtQUgtcHBWVUVRQUlpZllkNnV0bFNhNFIzcUZydzJ4d0lYNlFWV2ZYbVI3MTdfVlF5TVJ5M09aR3ZfLUNhcllXeHY1NjgzUFhpcENWLWNoN2Z3Q05zZlktNUQ2eVk5N1k3Vnp1M05VX0k?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra to seek Rs 5,000 crore to establish ‘Pune Growth Hub’  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra to seek Rs 5,000 crore to establish ‘Pune Growth Hub’ The Indian Express"
+            ],
+            "tldr": "Maharashtra to seek Rs 5,000 crore to establish ‘Pune Growth Hub’ The Indian Exp"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1793431594599",
+          "title": "Mumbai News LIVE Updates: Maharashtra allocates 5 per-cent of district funds for fodder schemes - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMWlPQjZfZml6VWhKVjROR2RIc3dPQkFvWXRsMGNOSjN3LVp2bGVFdjdfSjBEVHlWanFBM19aNHhUNk01RFlTcHNROVVzRHFybnZDMTdoLWxxMG1KSkk2M1JaNTB0ZkVKekVfQ05lRUc0TEllb0NUUTBaRGhMVk1McXZ6VnU2RktZMGNVcWlSUU1mcTR5aHNNQ1hCWVpjd3ctVlRZZWM4MWZ2dmR5eGtEQl84dHpLTUxzTk9vcTl6eGx6NG03ZF81R29lN3R6aTBSQ29rVHQ2OV9OSU9GZDFWYzBNVWNUbHlTSElyNWk2VWtiV1pNY2JlYkgzbzV6THgwZXfSAYcCQVVfeXFMUGVDdy1MTWRSaDBwSjNnUWhrZFoyTkcydlJta2tEVFFfTDRYWDNsQ2FLTlhfMWFfbTdrVVdRa3YwRTdDUVRFTWI4T0xLdk9qQlZkM1FleG03Q3VEWm9rN2NqeGFGUkxrNEp5eFptM2NJbm8yMWZZUUJmbkkxVEw5WkF5NFFXeVJzQmoyMXd4LUFfQVYtbGM4R3BkNnNPSG1FYnNYM1hFNHpDeWpqN2tjdlRaN3NmZkhkZFp6U0hHQXl3TTlfal9HUlpNdjQ3QUsyV0xLaWhFc3phZ2xxTC12SFJuN0dYT1pmNTVES250WW44S0VQSlJrWnVYeFBCM2ZyTEVQeGxXMlE?oc=5",
+          "time": "Just now",
+          "body": "Mumbai News LIVE Updates: Maharashtra allocates 5 per-cent of district funds for fodder schemes  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai News LIVE Updates: Maharashtra allocates 5 per-cent of district funds for fodder schemes Mid-Day"
+            ],
+            "tldr": "Mumbai News LIVE Updates: Maharashtra allocates 5 per-cent of district funds for"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1793431594618",
+          "title": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2w0OExuLXNXNkItVEJweDJtWkZCQlBkZUQ4LUYtNDlqVVRyQU5WemdBSUhnY3gwWGdza2Z2UXUwUC1MSE9SQzNkenpXR1RIWFpTdHctRE84dDlOWVEtYTNzS1Yzb09fZFlZTG1pMkc0N3lCQ2l3Rl96eFV4QnphVVhWTDVBUnhTSGo1LVgzWHhjbmZobWt0S3d6WQ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News"
+            ],
+            "tldr": "Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1793431594618",
+          "title": "Stock markets rise for 2nd straight session, Sensex gains 300 pts on buying in IT stocks - MillenniumPost",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3pMdkZKNFV2QjVfRllhLUlPQUpCQlNMVU13S0gwanByZFBCQWFrQUtQQ2p1cjRYUWcxOVdmS3R3dXFKejA3NmJFd01VXzdiX0ZrbTVVZk9xS0ZLZmFvakZTZ2pUOURHWFozeW9lbWlUN1lDXzlybmdmVzIteUd3WVpTeFVKemN3a2ZUVHJYQ1pHSkgzUUJmZkx0OTF5anlPRG1XLWhCb0szUXpjbzNraHFEME45NFpPS0wxLVd2WWNVWlh4N0tfRC1kOGFxUdIB0wFBVV95cUxQd0JFZ1BvTUU4VGJpWWk1WDBxbnRiYmpuVEVYaTVIdHNZdWZOeW01aTZ3V0VKRWlxdFU4ZE1lYjAyc2hoZVJQN3g0YWIwbEk3dkUzNHBPV0RXcDdzVmluNXBDMVVHVV9xeWU1cG9pOXVnQ2dtSTcxVTJKRTBRRFd5NkVtUF9HQ05keHRXQ2RWdVJLU2xnVnhDcllxMl85T0ZqVTJMdjd6a0gwYVNHMU5LbGV4YmVhZXVzdmc1XzRLbHgtSFE0VDhPTGNKdk93MU9MMDRV?oc=5",
+          "time": "14h ago",
+          "body": "Stock markets rise for 2nd straight session, Sensex gains 300 pts on buying in IT stocks  MillenniumPost",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rise for 2nd straight session, Sensex gains 300 pts on buying in IT stocks MillenniumPost"
+            ],
+            "tldr": "Stock markets rise for 2nd straight session, Sensex gains 300 pts on buying in I"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1793431594618",
+          "title": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGFzWkhIeU94QXI5cng5VTJMbVV1SVo1R25QMzNJdU5iXzExT1VvbFNLYnZDNHRidFBvZFN2X0N4YzkwVGVDY0QyOEZjbUVRSEFCT2JYd0dZZW5wdlNuV0RzaGJ1N0VnTWFvRjQwS2Flc3pfMGx1LTFUZ3UwT3ZXOXpWaU9HX0gtdlB1QlRNVVlDZFJzQ3Q4ZEdlWDlHZ193emxZ?oc=5",
+          "time": "1h ago",
+          "body": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA New England News"
+            ],
+            "tldr": "Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1793431594618",
+          "title": "Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Trent - The Sen Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnBTRkw0bkt1RUpFXzlyT0VIMFczX0NxMW4yOFhXQTJsVFNpUTJGbEUtY1RxRVFpZnRrTmFXejZzUERXU3daZ0RpSWs0RkM1aDNDWURObnBFcFk2UUo1bUp4UzhmQjhyU05kNVJqRHpheHI0Rzg0VHAtekZhclpVaEpZTmdqLUs0Sy1BckZlN3VFeGhlSml2eFNrYngtZzBiZmxzaTRHZzZ6UQ?oc=5",
+          "time": "20h ago",
+          "body": "Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Trent  The Sen Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Trent The Sen Times"
+            ],
+            "tldr": "Markets rally for 2nd day amid buying in IT firms, earnings-driven demand in Tre"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1793431594618",
+          "title": "AU Small Finance Bank Ltd. - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYzk3MjFvajJxdTlCSFYyMVQyOV85VTg1SlVMTTZXRWxucTZFaDhTZUZnb0VuZzdHakpIMGd1Zm92eTkxYjZWb2pnY2NENUNUYk1TT1lrYmp6b2FQNlRmSDlsaElkUWZpYzVOVXluX01KTkU0cnRsaUlDOEQwZ3hNNTVrZk9CRzRlc014b3MtRVpHODhrQ21Od25MSjQ?oc=5",
+          "time": "7h ago",
+          "body": "AU Small Finance Bank Ltd.  Moneycontrol.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AU Small Finance Bank Ltd.  Moneycontrol.com"
+            ],
+            "tldr": "AU Small Finance Bank Ltd.  Moneycontrol.com"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1793431594599",
+          "title": "'Game Over': Rat Trapped After Three Days Of Failed Attempts At Mantralaya In Mumbai - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYWdhXzhJalJGa3Jkb2o5ZjZNLTZfenVSbW5mM2phdlZrQmlpWkhCVEZ6U2JRQ1RoQi13Q3QwVVpNVkZkc1RrU1RscXdPd1RJd1hhVVVVMUhIdzVpUmkyQURkNkhCcTFkQ0o2SHRPWGVCSWNvQUxNRHVkLUZfbVhpbVFvelQtS1NydDl2bm5UZEV6Y3Q4bTc1aldET2JHUFVOdEk0dXZRZ0R4aThlMUg4a3Z4TkZyRldzbkNVZVBENVpnNzNWbWpKTThNZ9IB0AFBVV95cUxQdm94Z3M4UEl2ZllnUHZiRVRScWgzbktvQlBCZ0NOMDdLeUdvSUtmcGdVYVlRNms1US02M2lmN2hkRkRYUWtubjRreVgwS0F3VnA4dE5wZFpsTThYMmRUUE1ZN1JGQkFTYmZaalBZQWFiTVZqQURvc29nN1lHTktzRk5oYWp6OXJmMUNXZHhkUFc0bjVaSWVwQ2VvQkNVOHd1M3Z3TFdRVnowbkVwU3NDTWxRODhJZngxWUkyYXR4TnVjcFlzb0I2OVBSa3JFY2k2?oc=5",
+          "time": "13h ago",
+          "body": "'Game Over': Rat Trapped After Three Days Of Failed Attempts At Mantralaya In Mumbai  ETV Bharat",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Game Over': Rat Trapped After Three Days Of Failed Attempts At Mantralaya In Mumbai ETV Bharat"
+            ],
+            "tldr": "'Game Over': Rat Trapped After Three Days Of Failed Attempts At Mantralaya In Mu"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1793431594518",
+          "title": "Gadkari Asks Maharashtra to Cut EV Charging Rate to ₹5 Per Unit - Autocar Professional",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOamdzYzZBamUwZnRjNFdxRDZRV2lLcEs0aktfMGxsY2JRQ3hJTEsxVDlQRDJFejhIbVdkek1QUkNCOFdlRDdrWV9VWmFaSV9BVDZlN01xQ3Mxdlc4dHhRN09EemlxNUxnVXZpN1ZqX29DYWlDUFFDenZtSGhyYkNnUGp0dkV5b05aVkV4MUFKWHpoMzFrRGdnZzkzelV2TDQwNTE5MXVn0gGuAUFVX3lxTE9zRGlSaFNhTWdudkZWdnBWN0N2cUVxODlldk42TlRpZXVhR1VtaEFqNjhDSVFFaWVmdXhVNFcydWRfNVBHbmZ5OGtQaXVPMmJEMEFualhuMlFNeHktUGhWZUZnLXFiamJteTViNlFpWXlFblBCclF4ZjdGS1NlVnlSZkRoVGdnS1VocHo3enhXa1VKS3lhNGdhZWtKam5QcXNidi1ISnV3SDBtX010UQ?oc=5",
+          "time": "16h ago",
+          "body": "Gadkari Asks Maharashtra to Cut EV Charging Rate to ₹5 Per Unit  Autocar Professional",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gadkari Asks Maharashtra to Cut EV Charging Rate to ₹5 Per Unit Autocar Professional"
+            ],
+            "tldr": "Gadkari Asks Maharashtra to Cut EV Charging Rate to ₹5 Per Unit Autocar Professi"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1793431594519",
+          "title": "Six New EV Manufacturing Facilities Inaugurated in Pune; Maharashtra Eyes National Leadership - Punekar News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEx4a1l2bE9meFQtYTNaR1VsN1E3UXdKU3NUeFQtT25sTjNfR2VON0ppdElWMm44WWxSY3hLNi1pbFhIXzNQbEpLYTV5M1hobVZsZWxNdW0tb2tDNXdnMFFVSlpydENtbFBnSkVyT05yR05vbkdxYTA2MElwQklZeG15U3RIZ1N2aXRnNW1qS0tKVWlQTW5ldG80VnUxNmtBVXVyQkRnVG0tRVBxN3pQOHMxR21mVEM1S1Flcw?oc=5",
+          "time": "13h ago",
+          "body": "Six New EV Manufacturing Facilities Inaugurated in Pune; Maharashtra Eyes National Leadership  Punekar News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Six New EV Manufacturing Facilities Inaugurated in Pune; Maharashtra Eyes National Leadership Punekar News"
+            ],
+            "tldr": "Six New EV Manufacturing Facilities Inaugurated in Pune; Maharashtra Eyes Nation"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1793431594618",
+          "title": "Foxconn working on new tie-up with OpenAI, says no AI bubble: Young Liu - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3NjM01MOEFXaElqVy1xQ2ZaMGhQQXNSMFdzUHVaX0ZxdlJIMnBGb2NydUJ6Sy1SMTdOWkR6V0JsUnNCemZwNGxoc3ZhS1lBX0Rpb1NGTVZGS0NiMVBrMlZQeXd2MExuX2twTTZya05Ta2lQVHhTaE5ZOUJoa0ZhYU9PclJITW9ZVjNtR0hFd1hqUXdGRVlKNDdKckRRQXYyTGVFSWh5QU56dE5xQWxoMFVwZXBBX0M2bmI4dldpRTVpeGN0dFpTei1FS1Y1Qm9qZ2lLSG9jUFhkZ19S0gHiAUFVX3lxTE05STUtSXZoYy15eUpxU1JVNk8zWGVpaXFKLWFBR1FfTXNtWk9rN0xBcXJITEZKMzBQY1IyTXlnd0FFdERnaWVOZlpSd1FRemM1Z2M0WjlBdC1rUEd3OU5JSV9WUjJOcHpfcklOVWhFN0lCVDNTQkdlcUhxUHJfU3BNdW8wYjZTTUR1cWc0V1lkWHlGaW5UVFA1Zy1pd2tNakx6NF9VenZWY25tRkphU01xbGhwRTBNMFZzNWpQUl9RbTdiMUZDbXBxV18yZGUtMlh6Unk3aFdIdTNfQk1DXzYzS3c?oc=5",
+          "time": "14h ago",
+          "body": "Foxconn working on new tie-up with OpenAI, says no AI bubble: Young Liu  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Foxconn working on new tie-up with OpenAI, says no AI bubble: Young Liu Business Standard"
+            ],
+            "tldr": "Foxconn working on new tie-up with OpenAI, says no AI bubble: Young Liu Business"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1793431595918",
+          "title": "Mulk Technology Teams Up With OnClarity USA on ABDM-Ready AI Digital Hospital Platform With 22 Modules - eHealth Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMHNDUHoyaDJHaXdRZzE3TG5rZ1pLOGx0RlQ1SmdKMEEzcDFFR3BwcTFaYUUyd2pOa3RZMllxSFpTcXlYOVJXOVpfWDQ5OXI4VjE0aEU4c3hfM3ZwQWtyeldsZTVlazVUUDZKVFRMb0EyQmQ2QklHNjNmTUhFVzNjTi1OXy1fWUhwa1czTjVFUHFUWlRNbEluOG9kVVFaQV9Xd0pvT2dKOFlrZw?oc=5",
+          "time": "23h ago",
+          "body": "Mulk Technology Teams Up With OnClarity USA on ABDM-Ready AI Digital Hospital Platform With 22 Modules  eHealth Magazine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mulk Technology Teams Up With OnClarity USA on ABDM-Ready AI Digital Hospital Platform With 22 Modules eHealth Magazine"
+            ],
+            "tldr": "Mulk Technology Teams Up With OnClarity USA on ABDM-Ready AI Digital Hospital Pl"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1793431595918",
+          "title": "Shaping Tomorrow’s Built World: Technostruct Group Brings AEC Leaders Together At Tech Talks 2026 Mumbai. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaEtkb29pVjBEcWpvNkRGUDZ0cGozakF6ZlFIbV9UelNOSkU5RlFGUDdKcXdxcDd1d3VyZjY3WEVNeHVPcDRmdDBMZ0VQdU5zdkRXN0dmckhrVmlieWR5eWlSNlZMdXZmT3RjSmp3amdNVEVLdmRGSFIyb2J5eVhUeHRwazJwdm1GVHNObXZjRS1BZkJXd0lQNXFRQm1PVVl5dTVVN3BwNkJMLTBodHVTME9iaWhNdi03ZE9Tby1VV2xzSkZ4M2tXUktXYnlpMTFi?oc=5",
+          "time": "21h ago",
+          "body": "Shaping Tomorrow’s Built World: Technostruct Group Brings AEC Leaders Together At Tech Talks 2026 Mumbai.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shaping Tomorrow’s Built World: Technostruct Group Brings AEC Leaders Together At Tech Talks 2026 Mumbai."
+            ],
+            "tldr": "Shaping Tomorrow’s Built World: Technostruct Group Brings AEC Leaders Together A"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1793431595918",
+          "title": "JioBlackRock Trade & Invest Appoints Nikhil Dhoka as Chief Executive Officer - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT0FuRGM0Zi1lbXhWYTZJbUxIYUFQMnp1OUpZa3hVY21COHI4S3VuUTJPa1dPSjdHTmdidnpjOEczVmVhSUwzRjZialB1c1NqUUtESk0taW5oZkFrcmJkUFBXVmhhYkFlVDNmQXlUMGtjMlhLLTNHbzYxRm8xdFdXaU5JMkpLNktLWGtHLTNsWFJ5V2hXQ0JVQTBR?oc=5",
+          "time": "Just now",
+          "body": "JioBlackRock Trade & Invest Appoints Nikhil Dhoka as Chief Executive Officer  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "JioBlackRock Trade & Invest Appoints Nikhil Dhoka as Chief Executive Officer https://hrtoday.in/"
+            ],
+            "tldr": "JioBlackRock Trade & Invest Appoints Nikhil Dhoka as Chief Executive Officer htt"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1793431595918",
+          "title": "Pan masala ad proceedings against 3 actors complete, matter up for adjudication next: FDA chief - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVd4UzVabFVfY2N5MmZMb3lJTmhNYVhPMHhuVldSSzJ5UzhXUDFBRkNSNWhERWNMTU4xZ2RPbDhwekVsQ1prcmtyTWp5ZzRJS0p6SGQ3YmdSVHprVVJZNkdYQ0F3NWpYSUxOWjNqSjZfd3BjOTRZUmVBV2RzaFdVR3FZOXJxa1hDaW55OXpoSDJ4eUtkdVVEN2FiRklVeGtlcTVINm1EYUpuaVlsbzlCZmdmVlh4RXhIcUJucDdVU2NRUW9JWTYtbDFsZ3pLdC16bXNCRWxIbFdNVWFOaUtQazlGb052cmdkc1U1Z1I0dU9mbDdv0gH0AUFVX3lxTE1hV3hTNVpsVV9jY3kyZkxveUlOaE1hWE8weG5WV1JLMnlTOFdQMUFGQ1I1aERFY0xNTjFnZE9sOHB6RWxDWmtya3JNanlnNElLSnpIZDdiZ1JUemtVUlk2R1hDQXc1alhJTE5aM2pKNl93cGM5NFlSZUFXZHNoV1VHcVk5cnFrWENpbnk5emhIMnh5S2R1VUQ3YWJGSVV4a2VxNUg2bURhSm5pWWxvOUJmZ2ZWWHhFeEhxQm5wN1VTY1FRb0lZNi1sMWxnekt0LXptc0JFbEhsV01VYU5pS1BrOUZvTnZyZ2RzVTVnUjR1T2ZsN28?oc=5",
+          "time": "14h ago",
+          "body": "Pan masala ad proceedings against 3 actors complete, matter up for adjudication next: FDA chief  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pan masala ad proceedings against 3 actors complete, matter up for adjudication next: FDA chief The Economic Times"
+            ],
+            "tldr": "Pan masala ad proceedings against 3 actors complete, matter up for adjudication "
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-4-1793431595998",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "4h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1793431595998",
+          "title": "Cricket match squads | BAN vs WI, 1st Test, West Indies tour of Bangladesh, 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmZpYzVUV0psZWFqZ1JFVks2REpTMmd5ZzctOFcyVDAxOWY1aXhnX0JTNU9naFVYQUZWazhBeHVpQzI3QTlkZGJ0VU1mMUZVSkI0alZqa0c1LXc5SzFMR28tOXR3eXRjOG5xS1hXZl9FQzBpUU5maEdPUGtTaDVrTEMwNGlEN0FMRko2MXVxaWwzcG9rZERKbmdMaFZMMW5VdFZ6VEsyaXR4cUk?oc=5",
+          "time": "2h ago",
+          "body": "Cricket match squads | BAN vs WI, 1st Test, West Indies tour of Bangladesh, 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cricket match squads | BAN vs WI, 1st Test, West Indies tour of Bangladesh, 2026 Cricbuzz"
+            ],
+            "tldr": "Cricket match squads | BAN vs WI, 1st Test, West Indies tour of Bangladesh, 2026"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1793431598539",
+          "title": "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "After leaving her Rs 50 LPA corporate career to support her daughter Shivika’s chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi’s chess ecosystem. She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities. Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "After leaving her Rs 50 LPA corporate career to support her daughter Shivika’s chess ambitions, Nidhi Bhasin Rohilla discovered gaps in Delhi’s chess ecosystem.",
+              "She set out to build what was missing, creating an academy, tournaments, and communities for players across ages and abilities.",
+              "Today, her initiatives span eight states, championing accessibility, inclusion and a culture where chess thrives beyond ratings, titles and competition."
+            ],
+            "tldr": "After leaving her Rs 50 LPA corporate career to support her daughter Shivika’s c"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1793431598540",
+          "title": "Dhruv Jurel's unbeaten 99 rescues India A after dramatic collapse against NZ A",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Dhruv Jurel played a crucial role for India A by scoring an unbeaten 99 in tough conditions. After losing three wickets in quick succession, India A struggled at 160 for 6 during the match. Jurel built partnerships including a vital 62-run stand with Manav Suthar, who contributed 22 runs. He remained unbeaten as India A fought back to reach a competitive total by day's end.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dhruv Jurel played a crucial role for India A by scoring an unbeaten 99 in tough conditions.",
+              "Jurel built partnerships including a vital 62-run stand with Manav Suthar, who contributed 22 runs.",
+              "He remained unbeaten as India A fought back to reach a competitive total by day's end."
+            ],
+            "tldr": "Dhruv Jurel played a crucial role for India A by scoring an…"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1793431598540",
+          "title": "‘If you want to fit Vaibhav’: Ex-cricketer's message to Gambhir on Sooryavanshi",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Dinesh Karthik asserts that India should consider resting Abhishek Sharma if they wish to include Vaibhav Sooryavanshi in the lineup. This comes after Sooryavanshi missed the fourth T20I, allowing Ishan Kishan to recover. While Sanju Samson has shown promise, his recent form has dipped, making it crucial to balance team dynamics. With the series against New Zealand secured, the last T20I serves as a platform to experiment with combinations.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dinesh Karthik asserts that India should consider resting Abhishek Sharma if they wish to include Vaibhav Sooryavanshi in the lineup.",
+              "While Sanju Samson has shown promise, his recent form has dipped, making it crucial to balance team dynamics.",
+              "With the series against New Zealand secured, the last T20I serves as a platform to experiment with combinations."
+            ],
+            "tldr": "Dinesh Karthik asserts that India should consider resting Abhishek Sharma if they…"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1793431598540",
+          "title": "'I wanted to see my career out with Lancs': Anderson breaks silence on county exit",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "James Anderson faces a turning point as Lancashire decides against renewing his contract after a remarkable 25-year journey. In a surprising chat with the new director of cricket, he voiced his shock about the decision, which led him to reconsider his departure from England nearly two years prior. While grappling with disappointment, Anderson is gradually finding hope in new possibilities, expressing a heartfelt commitment to continue supporting his beloved Lancashire.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "James Anderson faces a turning point as Lancashire decides against renewing his contract after a remarkable 25-year journey.",
+              "In a surprising chat with the new director of cricket, he voiced his shock about the decision, which led him to reconsider his departure from England nearly two years prior.",
+              "While grappling with disappointment, Anderson is gradually finding hope in new possibilities, expressing a heartfelt commitment to continue supporting his beloved Lancashire."
+            ],
+            "tldr": "James Anderson faces a turning point as Lancashire decides against renewing his "
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1793431598540",
+          "title": "Auqib Nabi added to India squad for first three ODIs against New Zealand",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "India has included fast bowler Auqib Nabi in their squad for the first three ODIs against New Zealand. This decision follows an injury to Prasidh Krishna, who will miss the entire ODI series. Nitish Kumar Reddy will remain with the ODI squad before joining India A for a four-day match. The two-Test series against New Zealand is scheduled to commence on November 19.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India has included fast bowler Auqib Nabi in their squad for the first three ODIs against New Zealand.",
+              "This decision follows an injury to Prasidh Krishna, who will miss the entire ODI series.",
+              "The two-Test series against New Zealand is scheduled to commence on November 19."
+            ],
+            "tldr": "India has included fast bowler Auqib Nabi in their squad for the…"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1793431598541",
+          "title": "Nemesis No. 1! Mitchell Santner scripts history, enters record books against India",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "5h ago",
+          "body": "Mitchell Santner etched his name in history as the top wicket-taker against India in T20 internationals, achieving 32 dismissals. This remarkable feat occurred during the fourth T20I, where he claimed two wickets. He also celebrated reaching the 150-wicket milestone in T20Is. With a dominant 87-run victory, New Zealand earned their first win of the series, narrowing India's lead to 3-1.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mitchell Santner etched his name in history as the top wicket-taker against India in T20 internationals, achieving 32 dismissals.",
+              "This remarkable feat occurred during the fourth T20I, where he claimed two wickets.",
+              "With a dominant 87-run victory, New Zealand earned their first win of the series, narrowing India's lead to 3-1."
+            ],
+            "tldr": "Mitchell Santner etched his name in history as the top wicket-taker against…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1793431597488",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "17h ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1793431597488",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1793431597488",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1793431597488",
+          "title": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]"
+            ],
+            "tldr": "'Moved back to India 7 years ago, planning to move out again': Redditor gives re"
+          }
+        },
+        {
+          "id": "mumbai-general-11-1793431597490",
+          "title": "Indian-origin siblings sold cookies in 2018; charity gave 100,000 books",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support. They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities. The foundation has since reached over 15,000 students across Texas and partnered with various organizations for resources. Their mission continues to focus on underserved communities to ensure equitable access to education.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books and mental health support.",
+              "They began their efforts with a lemonade stand in 2018, raising awareness about educational inequalities.",
+              "Their mission continues to focus on underserved communities to ensure equitable access to education."
+            ],
+            "tldr": "Rohan and Anya Satija initiated the Let's Learn Foundation to provide books…"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1793431598848",
+          "title": "Sunetra Pawar says no rift within NCP; calls for introspection after setback in Maharashtra MLC polls - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdXpGaHl5UHNTY3hXSkVXN1Jua0xKYVlBY3ZORUlqVHJ3bzNyRnJOcWxaMnVIaTgwMHkwZ0RqdnpHYkJCdjVYY19VZ1RVbExpcDdaWnEwWWlUSmEtVmx5NVJpS3FaMjFaMG4xMmJlX1pFTUp3NXc0WEdjcFJuRTJyWG53OFhWcU5IamtRdGFURHFsNmRObWJKRmxYdEN2ZnpjRWQzMUVKZEJKdktaZEV5UjRLU1RucDNPd25aNTQ1Z0pYUWEzNGplbHM0LTVPUlgzNkhDZHpjRzhPMjRzUWZ6LVhCZ1kzVlV6bjY5UzJaeGRGOE9JRlow0gGEAkFVX3lxTE0yendtbDNrLUhKTjJOeEo0R3NhNkU1VGY5QVJJXzVKMGg0WFoyd250aWwzV0FKZW1YMEw3RDI5bHVYY1VqTFpCbmZnLV9WWF9oSTl6V2l1Qkl1aW1TSHNxVnV3RVlpbVRYdWh2bE5nZFA2N1RKVFB1ZWV6RGxWUVh0SVUwTThsOGVxU1Rseng2Z3BQY1Z0RGF5bFRJd1NRbnJxTndHMnppSUd2OVlsMTlGdnZTRUlaNzVZMXBtb2ZzNW5IZElYaXdyQ2lQMlpvZC1ka2luVTRWYWl3d0RWTHJRbFZweldONmU0ZW9EZXpQSWZwMlZwVTE0VzgxUW5xMUVSS2xM?oc=5",
+          "time": "1h ago",
+          "body": "Sunetra Pawar says no rift within NCP; calls for introspection after setback in Maharashtra MLC polls  The New Indian Express",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sunetra Pawar says no rift within NCP; calls for introspection after setback in Maharashtra MLC polls The New Indian Express"
+            ],
+            "tldr": "Sunetra Pawar says no rift within NCP; calls for introspection after setback in "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1793431598848",
+          "title": "‘No rift within NCP’: Sunetra Pawar calls for introspection after party’s setback in Maharashtra MLC polls - Devdiscourse",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMFhlQWNTVU5QWnE1YXJDN2taZ3REVUI0SVNRVGQ0NHhrX09YLWdqbHpHREFjU0d2SzRYNk1PQkg0dU1wYzlYU3BlaGdTYTlXUXBlT21JZ0l4SXl6ckVuWldRWXRQaFg5dkUtNlQySmtuR3dDa2RIek9BQ0ZJUGRSVmphZ1lPQzI4UkFhaVlncHZlVVBtZ0Q0bmdteUdteUxzRlltaUFmR0tTUmFKblhGZUFPRDhPYkM5WFlYaUlWZnZsUlJ4RExaTmZIaEFIQlNEYURvNDZzYjNvTWNVaV8yWEFkaU5ZdWMxT2lYRVQwNkEwNWfSAfMBQVVfeXFMTTBYZUFjU1VOUFpxNWFyQzdrWmd0RFVCNElTUVRkNDR4a19PWC1namx6R0RBY1NHdks0WDZNT0JINHVNcGM5WFNwZWhnU2E5V1FwZU9tSWdJeEl5enJFblpXUVl0UGhYOXZFLTZUMkprbkd3Q2tkSHpPQUNGSVBkUlZqYWdZT0MyOFJBYWlZZ3B2ZVVQbWdENG5nbXlHbXlMc0ZZbWlBZkdLU1JhSm5YRmVBT0Q4T2JDOVhZWGlJVmZ2bFJSeERMWk5mSGhBSEJTRGFEbzQ2c2Izb01jVWlfMlhBZGlOWXVjMU9pWEVUMDZBMDVn?oc=5",
+          "time": "2h ago",
+          "body": "‘No rift within NCP’: Sunetra Pawar calls for introspection after party’s setback in Maharashtra MLC polls  Devdiscourse",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "‘No rift within NCP’: Sunetra Pawar calls for introspection after party’s setback in Maharashtra MLC polls Devdiscourse"
+            ],
+            "tldr": "‘No rift within NCP’: Sunetra Pawar calls for introspection after party’s setbac"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1793431598848",
+          "title": "Bickering within Mahayuti intensifies, NCP blames Sena MLA for MLC loss - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3RESEpKWGhqSzBkNDZHNFpvY2RZVFRTbnYxY3BCLVVHT0JqQnlsQzRrbDNaMjZQdDhOeURpdkFjcWMxX0ZfWVpHYnF4c1JJTzJ3X1psbHpiQnJxTnR2SVlHdTktQURCX0UwX25Xb09oMXktOWxjX2lsU2NMVGtPU1R6OGFyWXZxVmJ1aVVscXdCMWQtWFpVczYzN3dTQkFrU2xONk9KRlRkdnhiZjdCMXNoZmd6TnPSAboBQVVfeXFMTmgyel9RNVRRZWNHVU5lakdSaGdjRWdNdlBjcUQxOU5kb3pyWHRfWHYxT2VrbmhKdTVBdjRneVNjbWlXZ25BdXBoNHRjMGZYcVRLLVh3Z085NUtVb0daYU1kZzJFSHloV2hHdzRSdThDTW1MZm5UYUdiR3dNbWFLQ3hnMHR4cWRpcm1LMFFXa0YyZ25PUXJqNnpGYXUtTkY3dGE3MEtSd0Zvcy1DMXpxTWFqVHFQY19sVFZB?oc=5",
+          "time": "Just now",
+          "body": "Bickering within Mahayuti intensifies, NCP blames Sena MLA for MLC loss  Rediff",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bickering within Mahayuti intensifies, NCP blames Sena MLA for MLC loss Rediff"
+            ],
+            "tldr": "Bickering within Mahayuti intensifies, NCP blames Sena MLA for MLC loss Rediff"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1793431598848",
+          "title": "Sunetra Pawar denies rift in NCP after Maharashtra MLC election losses - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORUZlZVBwanhlSjhIMUhzNFB0TkMzNU43dWJOMFFBaFBXcFJvSVJEWEVzUTZXSGo2SU9xWGtpcFJ0bkNsc0VtSjhuMEFkaTFMZ1ZaNGxBd0JiUk1HN2VpVW52cHRheThCUFNZbHJIbWZQWVhiTTV2N2JRRXY5OFQyeFRtYUFkb3BKYnhGRURUcUdWc1dyVnI3RS1lbFlNVC1BMG13Y1ZR?oc=5",
+          "time": "3h ago",
+          "body": "Sunetra Pawar denies rift in NCP after Maharashtra MLC election losses  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sunetra Pawar denies rift in NCP after Maharashtra MLC election losses The News Mill"
+            ],
+            "tldr": "Sunetra Pawar denies rift in NCP after Maharashtra MLC election losses The News "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1793431598848",
+          "title": "‘No Rift Among Us’: Sunetra Pawar On NCP’s MLC Election Loss - Outlook India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdjdraXN0cnAtenRNX1I1ZjJNZEl6aVBMQk9PNzFFeFZDTXV1LUJ0ZENFOGtUQVRIV1NaUkxoU2VVU3hBUndiWGN4Z0NEYjRfU1RzMGNNWHhTZElncjhhRlVTTy1yendyRjZqMERfUi1GRU9YTVM1VENRNmszV0hkTG02VXBJS0xtNi0tb0JVbkxOOE85T3liVWd5UdIBqAFBVV95cUxQWExLVjBlMWlxQ0k5a2MxdUVIbGZUQVUyRVRqOVhKcU9CQ1Z5WEN6cjUySENETEJpX29Dem1Gd2IxdGdHVTU2ZE9xZHpMVTdoRVFuc19iOFgtQUFBTldIcGpWNmlqUmc0M0VZZFMtZmVUaUVQaGdvUFZBZTRYSUcweEZmVWxyWjc4QUlNcTVCVVJLZEp2R2JnR3BHWUZIc3dMeXVnYlBJejA?oc=5",
+          "time": "Just now",
+          "body": "‘No Rift Among Us’: Sunetra Pawar On NCP’s MLC Election Loss  Outlook India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "‘No Rift Among Us’: Sunetra Pawar On NCP’s MLC Election Loss Outlook India"
+            ],
+            "tldr": "‘No Rift Among Us’: Sunetra Pawar On NCP’s MLC Election Loss Outlook India"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1793431598848",
+          "title": "Aurangzeb’s tomb has a deadline, says Nitesh Rane – 319 years on, history at centre of controversy - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUczNXFJVTc1WUhIYUdQSXJyeUFPZ19WeHdYSHVIcVhXZzdqYWY3SmFza3pvVzg2WF90VlNleWpiSzREbDNJRV90T1gyNXhkM3Nvbnl6LVNEU3gwNEF2TnIyMWdUelo1d1JGWnpuRHlGUjBlZDgxRV9HMEpwRVJMTTc3UHNvaFVCRThxcFZJNXdsU0tEa3QtZnBYRUlva2YwSkU3SjZUTmNieHBZNzJjalpBYXhjZ3pZR3EyczJGRUhtVkxWN3fSAcwBQVVfeXFMTUx2ME1LcXd4dTlab0tFRkRER21HNVdjRGp3MVV4QU5GRXZ6cklkRnJCRElEYk56Unp6YWJvSDVvOW01T2Y0T180R1hpOUwwdmZtby1NVWxiSk1RVkV2OEZEQ2pIV1RSbzZQN1poTzhhd012U2hOWjRXRWtCQ2dJUVdDYmZIS2tiOElkN1R5Q3RtY0J4R0FqODVSSjJya3BLdnVJTjdGaWI5alBobk80TDBzLWVLMWpIYWozdGp3QjhkYlNyenpOUzJpY3Uw?oc=5",
+          "time": "5h ago",
+          "body": "Aurangzeb’s tomb has a deadline, says Nitesh Rane – 319 years on, history at centre of controversy  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Aurangzeb’s tomb has a deadline, says Nitesh Rane – 319 years on, history at centre of controversy The Indian Express"
+            ],
+            "tldr": "Aurangzeb’s tomb has a deadline, says Nitesh Rane – 319 years on, history at cen"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1793431598848",
+          "title": "Maharashtra FDA seizes substandard oil worth Rs 18.95 crore, suspends 80 food business licences - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNR1JKYVhmTDZTa1dseXlmczZ2bllUb0U5NDZHalNpM1R1S3dTQnVhQjFNXzFWekh4UzVyM0RfOW1MUWhydlFZcVhyZktYdThIR08tUFAtSjhUcGk2NUdSZEVFTDlIdmhRaml3YUxCV2RxMGYtalhWQURZX052bjhpQzUzY1k4eHI1dGpIdjZ6SDRsS0JwZ0xOdkF4QWpQdmVaLWFvVWV2dmNFMFBCRHVSRF9oa2tJc2hONERnTlpPX3V4OXdSRFRmVjVlYWk4cUdhNXd3VGlWWF9WcTRkajd4SWNnLUxPaWVVMTdSQ3h5VdIB7wFBVV95cUxNR1JKYVhmTDZTa1dseXlmczZ2bllUb0U5NDZHalNpM1R1S3dTQnVhQjFNXzFWekh4UzVyM0RfOW1MUWhydlFZcVhyZktYdThIR08tUFAtSjhUcGk2NUdSZEVFTDlIdmhRaml3YUxCV2RxMGYtalhWQURZX052bjhpQzUzY1k4eHI1dGpIdjZ6SDRsS0JwZ0xOdkF4QWpQdmVaLWFvVWV2dmNFMFBCRHVSRF9oa2tJc2hONERnTlpPX3V4OXdSRFRmVjVlYWk4cUdhNXd3VGlWWF9WcTRkajd4SWNnLUxPaWVVMTdSQ3h5VQ?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra FDA seizes substandard oil worth Rs 18.95 crore, suspends 80 food business licences  Mid-Day",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA seizes substandard oil worth Rs 18.95 crore, suspends 80 food business licences Mid-Day"
+            ],
+            "tldr": "Maharashtra FDA seizes substandard oil worth Rs 18.95 crore, suspends 80 food bu"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1793431598848",
+          "title": "HC issues notices to Centre, state in Rs 3,500cr Dnyanradha deposit scam case - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWE1bDNhYTZZdFJ3MWowZ3ZlQ0VnTlFnelp2Q3RkLUNvcFZQYkx5LVczbk00NGZLVXNYOFp3WkVJS1VVWVdMbVVBN2FRRlF3QWw4NThrMVdYTU0yTG4yVGJoYWR0dUJodkF5UHU3dkJRV3g0WTdRTll4ZkZwU1dhX0RNX2pWLTA5YU9idXhVVHdSTFlreTlNcU5VR05yT3R6TVRTdEl1LXB3eC13RkV6M0ZKOU83UzRDVUxacmRTTzBydlpYTDNaQzZHdzVxbVJWWFdCTmFBVk1XdUtLQl82bkpFM1VYYTgz0gHuAUFVX3lxTFBiVmNCQnB4SlNZdGlLZDZsRW0yUzRURDEzQmQ5QkRZQjFaZ2x5OTUxN2pXbWJOZVpTMXVyRHhYQ1NUT3JOLTEyTFA1U2g1aTZ0UU1OSlZvdUp4bHp6RElXa0poZGRBRlpTb1FDTFRCcjVJQTdMZTU5b1FweFc2Mk5abmJINDJaUUQzeW5vRlRaV1BWOWxmM2pHMGNsZEhkSWFfZHRHMEVwdjdhaGJmaFhQR0NoSlgtbHNqbjk2RV9LN0ZSa0RGTEZ1YU9jZG1yTW5uUm1GLUxzZTJMODVObDRnak9STFp6MC1qNmZxR3c?oc=5",
+          "time": "13h ago",
+          "body": "HC issues notices to Centre, state in Rs 3,500cr Dnyanradha deposit scam case  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "HC issues notices to Centre, state in Rs 3,500cr Dnyanradha deposit scam case The Times of India"
+            ],
+            "tldr": "HC issues notices to Centre, state in Rs 3,500cr Dnyanradha deposit scam case Th"
+          }
+        }
+      ]
+    }
+  }
+}
