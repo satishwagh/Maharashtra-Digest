@@ -1,0 +1,760 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T08:08:56.115Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1793606930851",
+          "title": "The phone that once connected Devendra Fadnavis and Uddhav Thackeray stopped ringing | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjlYRko3MWpnX3hfQnlOaXFqWXBNbzZjSUdsWTluTzAxZzRwSHpTOUpoTkUtLUF4QzF3Wm1VY1JkaUN3YlJhUVR0MGJkWWJCaVpCeFdqZ01JbmpxRHR5dUZIY2p0RmlmZDhvLTBoMWZFZmMxQ19tZFZ5VzNYeTJOOHFtY0k2SVFqYVdMN2t3RDAtNGFwNjdWemtqX3gzMGhrY2Y0NVNGYnc4VVZpUHNkQ1B6OEZYWFRfTDBha2t3SGpyYjF4aFpLekZSdGFaTUVDeDJ6aUl1N2lMWFd6bmh6dF93TjQwMlhxR2pJ0gHwAUFVX3lxTE9JLUhVUXdkWmdydzVqM2J3emp2aUJKd3hGY1JnZlg2XzVDQk4wc0lOWjZnbTM3TVJTTE56WmZ5Y1NlR25pSjNDUjFia3AzSThVeUFEZUdTb1d0YkZ3azZXMm5rWnBJZXh0UDJnY2ZzcGp5TVlYbHZaVFF0N1BZNE0xVzhOTGt4ZXM4blBjcXc3RHBKVmRZVkp2VE9FM3N1R080Tm9BZWhRT1FDUVN0N3ozdjN4cWlXVUdQVXBUYWRlVFN4aXlrcGRLSnFKQzhRRUMzZldibkR2RTROOFpUUkxKc2VVNjdEMEJzZUlpSm9fNg?oc=5",
+          "time": "5h ago",
+          "body": "The phone that once connected Devendra Fadnavis and Uddhav Thackeray stopped ringing | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The phone that once connected Devendra Fadnavis and Uddhav Thackeray stopped ringing | Mumbai news Hindustan Times"
+            ],
+            "tldr": "The phone that once connected Devendra Fadnavis and Uddhav Thackeray stopped rin"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1793606930852",
+          "title": "Maharashtra Plans Grain ATMs In Major Cities - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTloYzd2anNsNGtvd1FVYjUwUFhYRlVKdmU5cjZYd0pmazh0ZDJfNndwMFBDa3RWb2RBRFVvSDQxQWo4ZzJIbzJIeWNZamtfMlVZUDFQenRicmpJS1JrRm82OWRBNEVjQUJWZnhSMy00ZmpoeXVzSno0Q1BzQV9pUUhIcWRQcmpIb3RkRDF3TkpWalJrd0ZpOXZUMkRoRk5KZ1HSAacBQVVfeXFMTWVwTkF5NVBZZko2U2VPd3B2bFlrb2ZpamVTZHgtWVQ1ejc1YjVLRVBCN3k2bDdaT1drYVBYQXBIYTA2OXhQMkx3NW85MXd2Y1kyU0Q4c2daNS1hOE42RFMtT29GNTB5NVRRTGcxV0RhSVVvbl82TllTWnZHNldDdDhYVTdsMkY2a0ZYbTJqWGdla3VRUkwtTGdLNGNFV3dJT1ZGSkQweXM?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra Plans Grain ATMs In Major Cities  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Plans Grain ATMs In Major Cities Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Plans Grain ATMs In Major Cities Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1793606930852",
+          "title": "Overcrowded jails, missing doctors: Cruel Maharashtra prison conditions reach Bombay HC - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYzZRVHFnQzZTMU5yejVmYUgzT2taX1R6eTBQa0xyN28yeFlMMDdlZmwxaGYzLXE4cVJ3REZEQ0tmeGs0dHhYQUlWMTdUY0U3UG5LNElEdi1Zc2JxV25kNVcyOUNianZRV01JWjdYMnZPQ3ZIZm01UjJpY0NkT1VrSGoyU0pKV2UxOUJIT3o0VUh3SzdqREpwUDBkOGVZYndndFI2Yzc3SzUzSEtLOXg2eG9acVYwTHFvd29fMHdLTlducmFDenRJc2Z1cnE1aVR3NWFIanB4N3MyVjDSAeIBQVVfeXFMTVQ4UnAxSmtzRnJHRzdTWU4xTDU3SjJiamc0bmxDWUVodGpEOXRTdHV5bTVzaGE2b0JBOVlOSlplTjQ0V04ySXV6TDk4UWdsakYtYkdtOHBHckt6Ql9QSWJlejRBZHZPTXpOa3drc0JkNE9reDlXSWplNHZxSkhuMV9HUFhQTjcxN3FJRlYwVF90NnV5SC1Ea20zeU8tRGJFN0lEWF83eUU3aG12a1NoazE2ODB2bkFXSEJzcFpSdkxqelVEUFFkcVN6ZGtKU1ZvYTVhQk4xcU9RVW5jSFZNbGpCQQ?oc=5",
+          "time": "Just now",
+          "body": "Overcrowded jails, missing doctors: Cruel Maharashtra prison conditions reach Bombay HC  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Overcrowded jails, missing doctors: Cruel Maharashtra prison conditions reach Bombay HC The Indian Express"
+            ],
+            "tldr": "Overcrowded jails, missing doctors: Cruel Maharashtra prison conditions reach Bo"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1793606930852",
+          "title": "Shiv Sena (UBT) calls Maharashtra govt`s Rs 5,000 farmer relief a `fraudulent gimmick` - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUNKZkFULW5xRFQ5RHU3RW5rODdjaDZWY1lCZU8tWVpRbV9KdDYzaGRuelJnNFhjcUY0V3prLUQzMUFVeUFzaWI1NXFJWG9WamdidGhpQi1rVUhjWmxrRDl0dXlOZDNGZmRNM0FFQ0ZwOGV3aXVUb2x2aHFNTW5nOGRSbmcxMzJyV1U1SmRvMW9ZTF9fM0E0X2NJWDJZR0pWTG5TMXhZNWtKUk11d2FYdjlhc3dFekxzMTdWY3JQUE1mcTNsM09aQWJJZ28wR0xuTmow?oc=5",
+          "time": "2h ago",
+          "body": "Shiv Sena (UBT) calls Maharashtra govt`s Rs 5,000 farmer relief a `fraudulent gimmick`  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiv Sena (UBT) calls Maharashtra govt`s Rs 5,000 farmer relief a `fraudulent gimmick` Mid-Day"
+            ],
+            "tldr": "Shiv Sena (UBT) calls Maharashtra govt`s Rs 5,000 farmer relief a `fraudulent gi"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1793606930852",
+          "title": "Maharashtra Muslims Join Signature Campaign Against Uniform Civil Code - Clarion India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGdIMU80R1pwMmd2SFlIaWl0cEpRM29LbURleVl2T2t1TzVxV2dnY1hQYmxJRzlZdi04WkNqWEloZVNsLVJEaGxRa0xRQTh4SzVVQzB1UkpmQ0ZYQWdRd2RKNmszN1FrdmUzLUJPNTBRRFRZUDNBd0FsSVBsN2VNbjJNRkE5bl9FTjBNUG1wUDVyNUQ0enhIeTBtY0w?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra Muslims Join Signature Campaign Against Uniform Civil Code  Clarion India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Muslims Join Signature Campaign Against Uniform Civil Code Clarion India"
+            ],
+            "tldr": "Maharashtra Muslims Join Signature Campaign Against Uniform Civil Code Clarion I"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1793606930852",
+          "title": "\"Congress should first answer about anti-sikh riots\": Delhi Minister Sirsa questions INDIA bloc rally's timing - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFlQZGViSVhnQ3FuMm5xUVZDekxiX054QWNxb0dERFRWdjU0M3ZKOUJseHZBMXRvZUJ0UE1GcXE0Y3ViTWQzeDlMSFJEeGNMb1ZqQnpVaDZuT09qXzZNQTFxblpFSXFOMGxXaXpmMDA2Z0JfVXc3N3FDSmFQemd6Z2ZZeXN2cFFjUmdzSmZuZl9BYTdGZFBZbnM5STJRZ3U3ZzVjbEx4ZzFMQkVKa0ktb29hNGEwRGlZN2xjd09ad2w1WW01UWdEaF9zRnB1cEo3OVpKUklyaFg5MzRoek03NHQyQQ?oc=5",
+          "time": "19h ago",
+          "body": "\"Congress should first answer about anti-sikh riots\": Delhi Minister Sirsa questions INDIA bloc rally's timing  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Congress should first answer about anti-sikh riots\": Delhi Minister Sirsa questions INDIA bloc rally's timing https://www.indiagazette.com/"
+            ],
+            "tldr": "\"Congress should first answer about anti-sikh riots\": Delhi Minister Sirsa quest"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1793606930852",
+          "title": "Maharashtra govt approves Rs 391 cr for MSRTC salaries ahead of Diwali - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnc2cXRCV293WGRzXzd1WjI0ZDlFZlNSMWRxcnBXZ2ZzNFVIY1Z5UXN3b3RSMk1fcG1tdXhOOWpjZDktY09peW1PeEJtTm9ZOWtNMzktT1pEbm1vYTNDWjJPbnlubkhWMmdGZzA3anZjTDJDUGNVWElNYWlUNEJHNWRtRy1oSXkxUDU5V0l1b0hZTzVKbTJaOFR1UEpuZ2hCaXhleEo2VUg5TDNzVndSV0hfVHllMHdUSS1YQ1FBVlo?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra govt approves Rs 391 cr for MSRTC salaries ahead of Diwali  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt approves Rs 391 cr for MSRTC salaries ahead of Diwali Mid-Day"
+            ],
+            "tldr": "Maharashtra govt approves Rs 391 cr for MSRTC salaries ahead of Diwali Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1793606930852",
+          "title": "Maharashtra releases Rs 90.72 lakh for tree plantation maintenance amid drought - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb2lrWlFTX2ZJMUd5ejhpSUJnOU05QkFFZUloVFBQZlR1VU9LbmVXSU04bnFqUlVNczVyeGdPRFZuWjc2MktHbXF5dENORkF2aGYxNWc5R2tUeUt0bmZfWWd2YTF0UDhUeGtkeXVNcnhxbzFSQjY2dE5vTXlDUnNtdzRNa2hGUTBkbG5VVElBNXdUd0VrNW1CbUZMdzJXMVY4clY2QnJ4aVFOdDJGa01Pc1RFN25ENUVHTXRxYlpETDAzczVpTUxwbGU1TldIcXNhQUphUEpVU1JFNTVoQktyamtXMElYTFItaGhVR2lxRkVpSlpn?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra releases Rs 90.72 lakh for tree plantation maintenance amid drought  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra releases Rs 90.72 lakh for tree plantation maintenance amid drought Mid-Day"
+            ],
+            "tldr": "Maharashtra releases Rs 90.72 lakh for tree plantation maintenance amid drought "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-8-1793606930852",
+          "title": "Maharashtra seeks ₹31,000 crore from Centre for drought-hit farmers | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXc5RW5uRUE5eXd1dERfQ1JHaEJ4MDBLWXVoMTItdWs0YV9GeDdmWTJvUHgwRzJEa29lMGtRLWcyWU9sRjNMV3RyaC0yTHpid1ZzZFk4eXEtbmRHamoyVlJGd19QMHZjRmktdXVCcDhPWnFwdlNEOGxGODV1dzRHSzRpS2p4cWpBc2Znal9ZWkNBd0I3V3p1NGhIbVlORkQwaWlmNHJlU0Fmc2NNYi0zcnozUnpWRnJheUVBY0I0U2tDS3UtSTdXeVVMLXFzTDdsWUh30gHYAUFVX3lxTFBDYldfRzg2VHdUclprZlE3QUVycHgtWUV6Z1otbno1R2gwTjgxWFR0eV9TX3U0dXNFaURNMzRqS2x0SU8tWV9maDRWWjVXQWlVcEgtQk5kRlE1SzZDNnd5Z3lGWk8zNldFTmNVOVo0bWRyTUdIMS1vNDF5Y0dXUUhWcUdvN0ViS21MMG1Nbl95NjR6UkxDQ3A2WkpRaEZ4TFg5Tzc5bk9kMFNzU1phMW5oWE1QazgyMVhZdlZjWnRTOGFfZmJ2WEM2eDVybXRkRjF2aW9tTEtQYQ?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra seeks ₹31,000 crore from Centre for drought-hit farmers | Mumbai news  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra seeks ₹31,000 crore from Centre for drought-hit farmers | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra seeks ₹31,000 crore from Centre for drought-hit farmers | Mumbai new"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1793606930863",
+          "title": "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRl9YU2EzVFNaMzliQzg3SldUeVB0SllhZEhEWWEwcFo5RlRiRkJ3LTk2NFpFYW93eDR5eFpjSzhHNVVFNF9iV1Z4ZW9lcDZqb2hsc2FSd2VCczdZamd1X0tKOTVHaTc4Mm1KbklBVEs4aGZ1bFEza1BDb2RKQTlSSmZmYTc5VEEwLVJkS0xPaklYc1BpaHJKSFZUMkVEYVNKM0FOYkdudEN0cUZCYnZSOXNmWXltSUNOVFFKMlE3WVJUcDZDRTBSRmFfcUZUc0dxc3dQSjFXN2F6WGk5M2xpMG1aUkRDMUHSAfQBQVVfeXFMTUxqeWhXclZueDVDNlZyZmxodlNrc01ORWgxa0IzRjZ0TUx5MThRZ3VxRDdJdzlDT28yZHo3ZUlTaVNVMU1PcXhYWm5VeldFMDFwY00xUkdQdVo4bkk5TjYtM203VXZkZHdwZkNxdXBybk1JUkNiTmtvX1BxNVFaVkJGOXkxNjEzRVFaOW10eFBqM3dyMXdQVkNjeGxVbTVJWW8wSms2T0JYYW9QeWFvdzFaeVV2Uk80bWRSOURsVnE0Njd5SmRtT0ZoNnlEd2M3UG9kU0JfSTdpUzd5Q3p3SjBZWm4zUTNYMEpzcDV3QWgxZEtFaQ?oc=5",
+          "time": "3h ago",
+          "body": "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices The New Indian Express"
+            ],
+            "tldr": "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, de"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1793606930863",
+          "title": "Sensex Jumps 763 Points, Nifty Above 23,250 as Reliance Soars - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWWMzR1Y4VFNEUERSdENWWDB5WlZtWk9lU2R1SGgydDM5RFJlRXp1RGZHYV9iWk9TZ0VVd2k4RjFNYll4MTJzcEJINWh6UGFUbjhZbEpLYzA3RWhaMUpua3hSMllTT3dvbXQ3ZnVuazYzVGgtSENLTHNjUG5oeS1Sc1BGVGxoeWduWjhUX2RTNFNlYTNNWXF0WnBjc19jcmsyc3RwVTJQa0tGcWlXVHcwWC1paWpEQkRjZnZpWXpxVDNnRmd1ZTZINk9LOHFSbE9ZclZHUzVDZk1DTXp3dm41Y0V5NzVnN0RYamI4Vg?oc=5",
+          "time": "3h ago",
+          "body": "Sensex Jumps 763 Points, Nifty Above 23,250 as Reliance Soars  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Jumps 763 Points, Nifty Above 23,250 as Reliance Soars HDFC Sky"
+            ],
+            "tldr": "Sensex Jumps 763 Points, Nifty Above 23,250 as Reliance Soars HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1793606930867",
+          "title": "Sensex opens 800 points up, Nifty also positive as brent crude retreats | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeHozbXJjS1M5Q0hUZlJOOGVsZVU1V3VSS0tOUkxTcTR4YUdLeUc1blAweDZraFdOYnFudlNUQ0JOUVR4cXVxRjA0LW1HLV93Q1NralpRVDM2aUs4clFlYmt5RjBLdFFTVnZRX2RvRTdTZW1DSzk5Q2hZemd6MDI0b0RlMllsWGt5RUhkV0xtU0hCcGNRUXFpclI1eFZxRnNtdWQ3QVNaT0Z1WTdKaUc3a19hVm9MdnhRZU9BMV9FMFBZT0U1WU5fOWZGRVlzREdpempkcEhIMFRDVkVhcHpyeFVkLXVxckVPakIwWFBqbmI1VUh2dEp6Wk5WY9IBgAJBVV95cUxQb05IZjdoNF9LdGotM3hPdFVPcDBncThueEZPbDhFTk1CS3MxUzlvdS05NlVxWFVCaGxqYnYwTzFIcEt1TGFnamZELTBYal9Zenh1R1VXZFdQeDVwZktKb2Fja0xmelljbEVreC14OGdFWFJNSGZYVTJNQlBYY2haUmlXMktCbmdwczN0THR1eUw2cGdSNF95b2RreXdOcFRWOTlpcjFxdmVqcFQ0ZTdyaldpYlYzYUViUXRTOTJqa19MeGpwelppaTJZcFRNNnhJNkxXNWRFSkpBY2E1b191V1ZWMWhPaG9SWHRFTEtEN3pmc2hneWlhYkxBZ3lnTWFs?oc=5",
+          "time": "4h ago",
+          "body": "Sensex opens 800 points up, Nifty also positive as brent crude retreats | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex opens 800 points up, Nifty also positive as brent crude retreats | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex opens 800 points up, Nifty also positive as brent crude retreats | Busine"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1793606930867",
+          "title": "Sensex rallies 1,000 pts, Nifty tops 23,300; Reliance surges 6% on record Q2 - Fortune India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWdVbHQ2NWpFc3Zsd3ZmRGJpRnRuQWJodzFsSEVjWHF4Y29Gd3NrdVg4bUM2dkhkYk02YjN4cWZSWWFlQVNxRDlaVkNESGowNW9icVZ5QVBBdEY3YVpfaXNDMW5YZXNaUkRSVFB3Z1pSbmc0NkUtbHBJRlppd0RkRXBuTHp3a3I1VGNpdlE3RFNnNC00bHFOQ3BkTnNub2d4R0JiY3BDNHRMVy02LS15enc4cTd1QdIBwwFBVV95cUxOT1EweFpuM1pPNGFhVHZhNk1tTlNQTVp4MXRqa0htRU9LdWtmZjNXYTNzdmcxQ3RvQVhJZ25LX01qYnJwcGtjM0xwQkRmNDlqVDJNQV9lZloxd1phSkVzUGFBdUg1WEFNQlZSaWpzMVpZaG9sRU1seEhfbGpkcTY4ZnVpbVBNRktrV2JvRGRtVE52MHdVMG1OWllhNlVJMU5iSE9JSWRnZUtVWmpGUXo5VGRTVFhJTVN0OWxfRWx1LWxsa2c?oc=5",
+          "time": "3h ago",
+          "body": "Sensex rallies 1,000 pts, Nifty tops 23,300; Reliance surges 6% on record Q2  Fortune India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex rallies 1,000 pts, Nifty tops 23,300; Reliance surges 6% on record Q2 Fortune India"
+            ],
+            "tldr": "Sensex rallies 1,000 pts, Nifty tops 23,300; Reliance surges 6% on record Q2 For"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1793606930867",
+          "title": "Sensex jumps over 1,000 points as oil prices ease, investors gain Rs 5.4 lakh crore - Free Press Kashmir",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3RIUjJUdi1mOHRTTkMyVFFhVy1sNVBYWk4yaXJTQ2JJemNPZFc0VXVxM2dBdVdKVGlMOTluYlFVR05YOU03SThXbm03LVViQ0p3RE5jN3hCQnhGWVFsQmlkbGtoTEM3U1pqMHJZbUJnVDJlbFFjTXo3Vnp1UmFlbUFOWHFFQkNYOFY2N3RrNmR5TnJtYWxocVhmVnJ1U21fdW01TlNPX3Qyd0NxOFpFOE4za3VDNk9zTm56eU5xTErSAcYBQVVfeXFMTjBqS1BOSktmWFhmRnRqdE4tNlN5UW84bFZ4ZnFCMVZVY0dIYmRRZlNONkJ3R1Iwb0ZyLU9QdmtlcjJQZTdhMVBzT2EyVGFjUzkyZThTMFlMUUNlS2NsQlBhWUhfRGtHZE5aUlVRUFo1b3dGRTZRMFdKQlA1d2ItczJwbHdLMm1qaFpxZFZpaEJjMVVmbE1JaWVfTk5HS25WQVBBaVlmVkR0dU4tYXdBRUdDTWIyUWhfekFabjI5el9vRUtuZGlR?oc=5",
+          "time": "1h ago",
+          "body": "Sensex jumps over 1,000 points as oil prices ease, investors gain Rs 5.4 lakh crore  Free Press Kashmir",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps over 1,000 points as oil prices ease, investors gain Rs 5.4 lakh crore Free Press Kashmir"
+            ],
+            "tldr": "Sensex jumps over 1,000 points as oil prices ease, investors gain Rs 5.4 lakh cr"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1793606930867",
+          "title": "Indian Stock Market Outlook Next Week, November 2-6, 2026: Will Sensex, Nifty Extend Gains Ahead of Diwali? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON3dkTzllNktyOUFuWEhOYnJWaFo0ZEpBc0VRQkp2cTlzUHNTOTlKcEkxVHBpVUg0R2laWGRkTDFiNldjSWF1dHFRZUlxV0N0S3N1OUZUcEF4QkF3M3pZdjZ2X3oxYjZtOHBVeTRRcElBd3hJN09YM2lyMEk3ZS1neXAzdVdXb2VNTDk4SWdfSGZ4Tmp2LWN0SlRQNHlzZTVGNWQ1S3lTemNSTVk5M29CdFRUNndGWWpGbHZkeDEtX2NuNDJuV3hjR01KR29TaEZBcVgyalczYWtYZmRqNFE?oc=5",
+          "time": "20h ago",
+          "body": "Indian Stock Market Outlook Next Week, November 2-6, 2026: Will Sensex, Nifty Extend Gains Ahead of Diwali?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Outlook Next Week, November 2-6, 2026: Will Sensex, Nifty Extend Gains Ahead of Diwali?"
+            ],
+            "tldr": "Indian Stock Market Outlook Next Week, November 2-6, 2026: Will Sensex, Nifty Ex"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1793606930867",
+          "title": "Sensex jumps 1,000 points: 3 reasons why stock market is rising today - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHh6UXZZZzZub2xaNVdIVlgzZHo1U1ItVEt6V0d6Q2hmY2w2eVpKYk9XMDBfNFNDRXh0U1RzajZOVkl6UkExWGFmdEQwa1ZhWWhWNzd2UzRoRDhUYWdidUdSVzd1RVc3ampOV2tYNVBIMVRycUlsV2JsRnd3Q2R0S2dDenpIYXk4bXFIVU5abms2MFNpbFNJandLc0FBR1hEMVhvYWdIVXg0VklJeEE3UkdaNnBqWU9icFR0b2RtSkk1S0o2MlBqZ1E5UTdUVkR4N1d4T1g1Mm9mS2dEZkNxODZOcy1fdmtU0gHuAUFVX3lxTE54UXg3MVQ1amhOYXlRcmpvWUZPSlUwX2JheXBCcTA1bjhIQTctWjRQaEp1NnN2YlpsaFBBamo5VVZoM0pEZTFXWm9oR2ZUMVlzZW1FOHdRQXhhR3VqT1VTRmxHNGRnNGV2SDZ0eGtHdkpza1R6cFRuQUJEU2JzZ0pHVkxfcVBCVjI5VnZ2elRkNnRGM2ttXy14TmtqLTdURUNOYWw0bVdCa0d6WmhJbVBDanJfclJBT1ZjLTBESVAtNTEwZ2xXdlA0MGVLWVVQbVZaQ1RPaVBQNWIwYmRMN1k2cXlOd3FoV0ZwaDd4M2c?oc=5",
+          "time": "3h ago",
+          "body": "Sensex jumps 1,000 points: 3 reasons why stock market is rising today  India Today",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex jumps 1,000 points: 3 reasons why stock market is rising today India Today"
+            ],
+            "tldr": "Sensex jumps 1,000 points: 3 reasons why stock market is rising today India Toda"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-2-1793606930852",
+          "title": "PM highlights Bengaluru-Mumbai Vande Bharat Sleeper train as a major boost to rail connectivity - PM India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGNkblNDQlYxVG5RTFhUTXhlM3ZUNnh6ZTJsLWdscVVrem5wSy05UkZ3Q3NPLVQxbUhzdkhjUzFubmhaTkppb0hGQVJvTUswbFF1NnBrNzVPdEl0czh3TDRPdS03OTBJQ0dZMS03RmdWLUpLT3BnS0V5dDZmOWpKb3NhQXdxVnhsYXBKSFZ0WnpGMllzWk90dm5FUTM5WjBWNkhPcGJNcEgyUUkzM0VfYmdPdnNRaFBYbW1aUTRkYU1maHJHQm96Q3luRmdTNkdmR3hBM0Zn?oc=5",
+          "time": "18h ago",
+          "body": "PM highlights Bengaluru-Mumbai Vande Bharat Sleeper train as a major boost to rail connectivity  PM India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PM highlights Bengaluru-Mumbai Vande Bharat Sleeper train as a major boost to rail connectivity PM India"
+            ],
+            "tldr": "PM highlights Bengaluru-Mumbai Vande Bharat Sleeper train as a major boost to ra"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1793606932167",
+          "title": "AISSMS IOIT hosts AI Summit 2026 in Pune; 54 student projects showcased across emerging technology domain - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMUZfTmpncFpGQUJTaEpUZzBzdHNtS0Y4cUlpRzR3S3pOOGtDWGFKcHdLTXczRFFPRTU5enN6WUhrTDA5dUtyejhXaG4wdjVnVmNETVpFSWExbVhDNmJkY01aNVNiSldHMGRKMy14NkYzdnUyNzBaaXZuZjBOUnVRYkNIZ3JUUy0wZjdsX3Yzd2xCNWtyZmRXMHZDVlNiQ3ZEOXAzN1FKREJVb1NwRG83VzlST0tmcW9tWDNtLVBsYjQ5UXdiUmw5YVlnOU50bjBBUjJNRjBKOUFISWJoZ3RueEd2dkg0aURENU5ZMXR6dGtTTk9sQ0pSdVJZdlRPbVdhRVRFVUR3OW5PaGlkUzRJ0gGUAkFVX3lxTE9UMFQtcENwalVCZjVCWkFNbGZ2akdybWhsbUloeDU4aWRwSkFXaVJGMWVfckoxU2VVNDVYcmJLOGNzTlBLQllTMVdEcUtSZjdNVXhWQU0ydWVTVEI0ZjUweUZPU2hrWXpqQ3NINFc2b2lKMi01RzhUTFFURU45YURjcEJ0RS1hcXRJbWh2VzJBQmltUk1qYk5OTGdmN2h5aVctbnBPNXk4cUVFWlV0eEUwLUw2RWR3LWl5bHFZejlMdWhDMDVIY1pYeHg1V2RsU3k2TzVBMDVtaGNhQ2ZraXNLVDR4SVpLaF9aMWREelJBN29PZmZnTTFoQXlva2gtcDNjTE5zMld0QnZULXRYUWVOR0hsOA?oc=5",
+          "time": "2h ago",
+          "body": "AISSMS IOIT hosts AI Summit 2026 in Pune; 54 student projects showcased across emerging technology domain  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AISSMS IOIT hosts AI Summit 2026 in Pune; 54 student projects showcased across emerging technology domain The Times of India"
+            ],
+            "tldr": "AISSMS IOIT hosts AI Summit 2026 in Pune; 54 student projects showcased across e"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1793606932167",
+          "title": "Hong Kong: Digital Payments, Tokenisation and AI Governance to Advance Fintech - OpenGov Asia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORkM5TV9Nai1SWmxEcGFuXzVkZXBFYk5jWko5bzVNVmdqMkRyaV9GVHFhcjBTcTZScEt5UC1NM3g4YmU4MW1oOHFNUkphMUJ6Z0dOdk9fRXRpUU1VeHBhaTdLVFVjcnc2WmpBcS03UUNHVUwtQTBfM2tmRHcwVmhNcllnb3ZfTERuS0QwVmxYMVFoNUtXOFhvUndMMEhWYlh2ZXRF?oc=5",
+          "time": "3h ago",
+          "body": "Hong Kong: Digital Payments, Tokenisation and AI Governance to Advance Fintech  OpenGov Asia",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hong Kong: Digital Payments, Tokenisation and AI Governance to Advance Fintech OpenGov Asia"
+            ],
+            "tldr": "Hong Kong: Digital Payments, Tokenisation and AI Governance to Advance Fintech O"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1793606932167",
+          "title": "India Launches Bengaluru-Mumbai Vande Bharat Sleeper Service - OpenGov Asia",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ29IeUt4LUJRRGZ5NV9rUjFVNEYxdEVkYjBDNkFhVnpWT256TDU2SmZKSk9CcU9YMjYydkRIMlVQSnhBa3ZxTTNqek44VG9mQzM2c1J4cGpFdjBFVUxIWnpyZWJSR0tqcnRGZFJER0hKQkFpYUVFRmRQSDFCazFzQ0h0cFRRX18wSFV3M3ZB?oc=5",
+          "time": "15h ago",
+          "body": "India Launches Bengaluru-Mumbai Vande Bharat Sleeper Service  OpenGov Asia",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India Launches Bengaluru-Mumbai Vande Bharat Sleeper Service OpenGov Asia"
+            ],
+            "tldr": "India Launches Bengaluru-Mumbai Vande Bharat Sleeper Service OpenGov Asia"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1793606932167",
+          "title": "Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya - India's News.Net",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbUdJWGtWNFpZd0dZTzBpM2ZUUll3NXBoVUNSLS1DLVBXbUJZVXQ0b0ppeHdyYVNTbDEyRGMwWHBUYkpwS2lvVFVsMUNXQTdjMG1XM3NrLV9uVHNzN2psTFBPcU1qWHBYaGVSOGpEVkozNmJSdVRkdko0dDloX0NXTngtVkFFZm5uNl9DM0ltcnF4dzVOc1Z4LVdIT0t2TFBoUGdGVUk2ZHk4c1lZU0Nmcjg2dk9fZ0ZzTVJ1VQ?oc=5",
+          "time": "3h ago",
+          "body": "Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya  India's News.Net",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya India's News.Net"
+            ],
+            "tldr": "Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1793606932188",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "4h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1793606933282",
+          "title": "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same. [object Object]",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back from Canada but now cannot wait to return': Redditor says homesickness drove him back home but Mumbai is not the same. [object Object]"
+            ],
+            "tldr": "'Moved back from Canada but now cannot wait to return': Redditor says homesickne"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1793606932188",
+          "title": "Hardik Pandya Trade: MI-KKR Deal Depends On Stance Over 1 Star Batter: Report - NDTV Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa18xWUlBZUdrUHFBc3ZmRmMtR2tBU3BqVXpuaHhnSWRjdHBmZklzdFRsT1BpT1R0ZUd3aFBzaUtDRFRrM0hWZk5ydk56UERFTzVQYU9TRVd4UGtacUVlSmJsYmpsQkZxcDhRbkNEQVJOdnF5Z0lUc09BZzEzOXdwVzhBV3Z3XzVPWTNPWmxPUDVteWRKNllzYnAzM1E0c053SEpRVzBTelZoVU9Pa3dlWXBuQk5GNHly?oc=5",
+          "time": "7h ago",
+          "body": "Hardik Pandya Trade: MI-KKR Deal Depends On Stance Over 1 Star Batter: Report  NDTV Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Trade: MI-KKR Deal Depends On Stance Over 1 Star Batter: Report NDTV Sports"
+            ],
+            "tldr": "Hardik Pandya Trade: MI-KKR Deal Depends On Stance Over 1 Star Batter: Report ND"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1793606932188",
+          "title": "IPL valuations show why the league’s business model matters more than trophies - sports.economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmtDLXBkdHhuc2g5THh1T1JmZUtmYW9FWDVTNWdEdEs2TUxwYnlCRE1PSTJDS3gyWFVtMk1GNTlRR01LSE1YaGJyNTUzU1FhandaVm5rWFljRFNhcUlsVS1zWHFsQ1d5UXZmOFQxZFhnMHFRQ1BtQ3VtSndEbXVvTXRiZWg5ODc5QklQNkg4MVlEWUdaa1JZVC1iVWZELUhJc2ZqZTRPaF92ZlYzMHpwdmZaNXBIUWdQbGdCMjhhQ3NSMUxiZmFQMGpwSngycHlpWGJZMEdaYXhjWTctX25PaGxMUkQ5U3hza0HSAe4BQVVfeXFMUF9XTmRHZl80WlVSbVRKYWRfYjg4ei04YUg3OVl4WXNld2V1dWN2dUItYXVJSUFGWEJ3dkcwOFJJRUxDRGdsYkZ2V19VWEQyZjYtbmJOajlnZTk3aDNmV2MtRm5pRTFMTWQ2OEhLZm13cS1MQ3lvUGtUOEhJN05rU1JQOGZLd0oyTHQ3RHItdEVJaE9CaFJUeEtyN0hvWUNzYnhndlAxZnB2M1ZFOHU1TjZtVVc2ZHV5b1M2N2NqUHpJcFc1WHpZR0NpVXlSblU3bVFjR2tETlBfajZzbWpnMkdBUlNSZzJmazFad3Fwdw?oc=5",
+          "time": "16h ago",
+          "body": "IPL valuations show why the league’s business model matters more than trophies  sports.economictimes.indiatimes.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL valuations show why the league’s business model matters more than trophies sports.economictimes.indiatimes.com"
+            ],
+            "tldr": "IPL valuations show why the league’s business model matters more than trophies s"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1793606932188",
+          "title": "KKR weigh Hardik Pandya move as trade talks tighten before IPL 2027 - sports.economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZkgtcG9QRHNQV3o5TGJWdG5PN1BocXFlNjdDREpIajVJSDczYWNNVVhlSkVKanhkdi05dVFpdy16ZFdkMlN3RkZwXzVFbE5jS19pd3IxMkpHUnUyMEt0WUtIQ1ZIUEUtLWlYaEt6WmdXTTh5a09xMjE2ZXBaVi02aUhTUms4NGQ3RnFMSGs0OWZVVkdaN0ZNSXdDVFRFbDB1TGQ2NGdlOWV0OFo5cVphQzJhWjhVN0lub0NwZENpWUZ3TUE1UzZQc1BRLUZuei1yaVI1OGpmONIB2wFBVV95cUxPUXdLcWZ1VDNWaGJFRTVpVUtsUVhXMjFuWVdOSlVVbnJvNWtTYllpV0xVUlJkTGpQUDJxV0w1eTRmcE1oMzM1UVlHZzlrTkxuVHNnay15UEFLcGctWHpJUHU3aDlzRUpzYk5vTjlSeXJwcm9ZeEx0SnA5US1QOEM3ekM1R3BndzYzSWNweHYzMVdYaVVzaFUzRWJxWWd0MGJOZ1FjNDdKZTJDMjYzUnh0aHV3OXEzLWVvWjJYSlpMN1FVV0hXT25mNmdZbTZYblhYUl9xalh1TnQxWFk?oc=5",
+          "time": "16h ago",
+          "body": "KKR weigh Hardik Pandya move as trade talks tighten before IPL 2027  sports.economictimes.indiatimes.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "KKR weigh Hardik Pandya move as trade talks tighten before IPL 2027 sports.economictimes.indiatimes.com"
+            ],
+            "tldr": "KKR weigh Hardik Pandya move as trade talks tighten before IPL 2027 sports.econo"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1793606932188",
+          "title": "Raghu Sharma Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vdmVPYVMyLTA0UC1EVVc4eU9Qb3RVV3luVkRQTlMxUmk5THI2TUZDempHYUI0ZVExcllfNS0yZVFlWHFCajBwX243YzM4RUJzWDhKUnRQMFpDZ1ItZXAtQVhKc1dreHdwUF9pa3hCX0pFRERNd0plcDVR?oc=5",
+          "time": "6h ago",
+          "body": "Raghu Sharma Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raghu Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Raghu Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1793606932188",
+          "title": "Ali Murtaza Auction Price & Team - IPL 2012 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzb1RDa0N6TFRUSU44X3BhZU9sQ0dLUmpfQTdGdWF5VENkWXRIT0FwWGRROUg5MEVWMlU4RnJqcmFLYi1CRWlZRGEyYVVLUkpBT2RFVnRpUUhQQXZSVnBhTG16cDh2VmJnRGhCM01OZUZ6a21lWVNYZQ?oc=5",
+          "time": "5h ago",
+          "body": "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz"
+            ],
+            "tldr": "Ali Murtaza Auction Price & Team - IPL 2012  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1793606932188",
+          "title": "IPL 2027 Retention Day: CSK set to release Rs 142000000 star Prashant Veer to get bigger purse for player auc - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTZ0Y1pqU3VLSFVHZ0VOTUJrYm1fWGM4ZFBKVHdoaEdoWjVXN0hnLXRhUXNhS1lhdzlYeXI1UUZCY1cxc0lyWkNGTUJVRERUMGNmVGpVUUp5LU5adFdsd0xmd2dLOFUzQ0NEaFlGVTd6dHh5NlJ3MDN6NG9taEljSU9ORXNIaTJQWTg4bkxiT2VodTd1YU9qZjRwOWVXdjZfX0hLNFlER3h2TFZmTWNDeFNxNUpMVmVuRkNxZ2F2Z05VSTZZMHd3YkhmYko2NTBVTVVrSS1vdlJKS1hjbHBMOU85SWh4cXQtR2tMQnUzWdIB9AFBVV95cUxPTHBmZUo5Y2RRLVM0RUszaWsyZDJwOXJFSnVreTdKQzZqeWFIYkZndmpCbWYxVl9CWXFOV01DQ1BrcE94WmNaWWZISF9YbE4wZTFXbVlFdEhRNnhEQ3JZQ1pBU2RXY0NHcTNMUXh5TUdNLU9xU2c0YnNBWGJkSHNxZXJ2aEhTX19wYzBUUkFCcEZRdHRJSXFvMDZzQ29qVkhpNTVSTGQtZ2ZrR1BWNl9wMjdOZDFzczJlUENCZWdnY2d2aHZCMzZsNGhTUExtQWowNVpzdV9BV0lXOU5yNzhmUjR0WkhhZzZKaTI0QUtZWjh4QTB6?oc=5",
+          "time": "1h ago",
+          "body": "IPL 2027 Retention Day: CSK set to release Rs 142000000 star Prashant Veer to get bigger purse for player auc  India.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 Retention Day: CSK set to release Rs 142000000 star Prashant Veer to get bigger purse for player auc India.com"
+            ],
+            "tldr": "IPL 2027 Retention Day: CSK set to release Rs 142000000 star Prashant Veer to ge"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1793606932188",
+          "title": "Auction Tracker IPL 2026: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkc1dpeUZ0ODB1elozXzlUVGhncUFlUmFramhvOXVWV2FRSVlrOVBWM0FEUVA2bmdMUFNGbC11MU9OS2RxNklqYXRhOTNRc19DdnVLdGxIbzZTTGFkbHBxbTBNSVQ2eGpuNmY2RVJyWQ?oc=5",
+          "time": "15h ago",
+          "body": "Auction Tracker IPL 2026: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1793606932188",
+          "title": "Jacob Duffy praises Virat Kohli's humility, work ethic ahead of India-New Zealand ODI series - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcVRVSUVESFBVQkU5aEhYR2FFNHhrbDNPa05naENlcDcwSWlMNTM3V2VoVzdGMGo1NnVTYTU2dEJOSlk1blNnTGdhVzBXeFNCSTdyaDA5cDNUTE0tVzg1VDlHLUJZMEREUTh2czBVZEo1OTdLZjRPWVhZUkItQkVNemhYNEJjem02V1hucHZuQzhYWUpndnAxcjRZWU9oeDBneW4xMjdTYjBpZUJNbUFUb3I2NmdWVmdsbmQ0NzdONXVHbDFndzhiRUlkUGRfTjRTWDhRU1BCaWVnS01GM1psb1VOeGI5ZXJwZ0tDUU5ueEpib093QWZn0gH8AUFVX3lxTE10RjB6cllDZGloQm44NXI4UG5OdXdFMkpweFFXUnRwTnBQX0xRV0IxTU1pdUpURnM3TGlmOGhhWFNLWEtQZkhpMXd5M01RallGUVpjSndLY1NnM3hIckhuQUxFcFFnMVlSRTQ2LXptVVQwWm1kZHdPRlhnOUs4eVZzMXNzUnpIMjM4RmRXU2FNVVBQN0ItSDdtWHFERm4wdGlkWWNxODJWWWhDdnl6TmM4QkdvWUxJcVF2ZV9mMnpnaVZfc09ZMTI3RlE0dW01Q2dZNVpVYVpCYjliN25ibUxSaS1BWUFOTnFnWnQyN3JQMjZrNjNzenVOaGdDQg?oc=5",
+          "time": "1d ago",
+          "body": "Jacob Duffy praises Virat Kohli's humility, work ethic ahead of India-New Zealand ODI series  The Economic Times",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jacob Duffy praises Virat Kohli's humility, work ethic ahead of India-New Zealand ODI series The Economic Times"
+            ],
+            "tldr": "Jacob Duffy praises Virat Kohli's humility, work ethic ahead of India-New Zealan"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1793606933438",
+          "title": "Transit-oriented development plans along key Delhi corridors - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHRDNGhvSkF1RGg5UzFPejVBYUNNa3JKTjZDUGotMnpZMm13MTh5ZElub0RocG85NXFIa3ZsajdsajZNaEFxNFdOLTgtNktrSVF0cVVuQ0pFNk5ndFB0ejROX3V3SzNJaW9CM3RodFBxek1HTXBoVldXQmN1Qjk4Zk1NN2JLamtMRDJOM0dHQmdzdjNXWTRud19fOU5iQnlBcHdVbzNfWHhDUkctOE5CVVM1QWUtZUg5UDRYQkMxV2EzNWR1SW92clc2NjZOd9IB0wFBVV95cUxNYUo3R1l6LUYzZ1J0Tlc1TEZnaWp1RFBZbkZtUDlsanpxbUpFN3FuU0JjT2dob0l1RmYtOVIwNEZOZ2Y1WVdFUEZIejhLN3pLMVFhcV9oTko5NWxNMGRiSWlBQlZ5U0dud05DcG5DbHdtX0hZeTVPVTNCMXBkTHNnV3I2QnFnd0oyYW1fSWdFMWJ3a05RODY3N005OGxNYWEwSGxldHRIb2xQNDNsRkJoUUY3T3FwQXd4N1JMaThaaV9aQTVBUUhrMkRrNnFtZDdkSXBj?oc=5",
+          "time": "14h ago",
+          "body": "Transit-oriented development plans along key Delhi corridors  The Times of India",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Transit-oriented development plans along key Delhi corridors The Times of India"
+            ],
+            "tldr": "Transit-oriented development plans along key Delhi corridors The Times of India"
+          }
+        },
+        {
+          "id": "mumbai-city-1-1793606933438",
+          "title": "Maharashtra Weather Alert: New Bay of Bengal Cyclone System… - theopenpress.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTJNTkh2cFNyNW5VY2FPamJtWjExSDR2LTExWjF2anMzM2ZmQTNrN3ZaWnN3bkR2bnZmWHhHWXlnM1ZUb0xCb1haNHBfNWNQajduWjBoTnBJTldySnREQmdxbTNwV0RuSUZHX2pMSm12S09GWVJBbUxGSzVBdkhxMm4zMmVjbUFKTFp0ZkUyN2FhM2NOOURQaQ?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra Weather Alert: New Bay of Bengal Cyclone System…  theopenpress.in",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Weather Alert: New Bay of Bengal Cyclone System… theopenpress.in"
+            ],
+            "tldr": "Maharashtra Weather Alert: New Bay of Bengal Cyclone System… theopenpress.in"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1793606933282",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-1-1793606933282",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1793606933282",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1793606933282",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1793606933282",
+          "title": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]"
+            ],
+            "tldr": "'Moved back to India 7 years ago, planning to move out again': Redditor gives re"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1793606934732",
+          "title": "​Loan scheme for Hindu priests in Maharashtra in offing - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSlNONUhJa1ZudDhxTzZ2Zzl0VXBqSGJMSFBSTUFKZXJETWNDeHNDbVBEN1ZhMnVvT0VnSGRvRVo5OEpHdldLaktMWHlySXBWWldSR0VnS0hTOXByTEZBTUw4S09HTmFDR3U2QWM1b3dRaVBUczZ2N0prOGdUbWFNREdYUElKYUxLbDZ0Yl9uVEFsVUhwSU1Lcl8yeklvbkVucUdOV0RxVHhRMU1uRTBFODU4OHRGczk1emVCekE5eUZ5cndqOG5QbXlOR0PSAdIBQVVfeXFMTmF6YmZ6Q05KUHhoM1ZqNHlqOUFrblA1a1ptUzFLTmZBQ0RLQnBCMkxyMjZOeWNZMkJzOFNuMGIzdnUtX0o0QWphbERMOUNmVUNtZ0xRRjhwRW1kb0dpdFVyX2J2YTRSTlZJSjRnd3JoNE5uZDBrYWZKN1ZyRkRQcENzdW1TeGtMWlROX2V1LXh1RTRZWTk0QkZ2eUpzUEl3MDMxSlQ0a2d3bmc0YVlhWUk1Zkh0aG5VSmFKRUZ4Z2pjZkwtcXpyUjJ0ak0takNWZ0VR?oc=5",
+          "time": "12h ago",
+          "body": "​Loan scheme for Hindu priests in Maharashtra in offing  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​Loan scheme for Hindu priests in Maharashtra in offing The Times of India"
+            ],
+            "tldr": "​Loan scheme for Hindu priests in Maharashtra in offing The Times of India"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1793606934732",
+          "title": "'Spectre Of Drought': Marathwada Region In Maharashtra Grapples With Sharp Decline In Groundwater Level - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRjRtQk5GSmlCYWVUYWdnV1UxX0Fub1pfOHh3X1VubUZJNlk0ZmxKb2o0MUNhLWNVNmV6Sl83d3Q0U0ZpcTgzR3drLTZyVHgwUENiMzFUQ1o5eGI1dnBXajd0enprcktJaC1hNkk4RmFITDRFS0w1bXQ4SkJ4WTF4aFpNeGRzSFNwWDBHcUNseEI4SDBvMXZ6U2FYWlFTYnU1eXk3RjJsdjR3MlU3d294RzRGcmtYMzNocko5RnZFRXVYUGNOc3N2NFVkdHQxY2ZPa2hmS3NXSk1wNlgzSXRSa2xvSDZVTXM3eVNZcGozSmZJdnczenFXbDVzaHRGQkxf0gGGAkFVX3lxTE45c2dGc0VyTUJfclNGYjhlZ3E1blY5aGEyblN6bkZSa2h0bFdpdHQ2d1R6VTNUSGlYTzg4Q180MXNWOHUzU0lMbWFlUjJ1dGd6WmZkSi0zRkdaUjdicmV0RGMyQVhfVWZyTnVVUjBMTVV2UDNtcWw1WnZ1Y3V3Z25JdmtLcDlFMjRJa0o2QTRHOXR6NDRRUTU1TkxtQlFlY2RUOXdMVnpKQkFCSWVqZ1JlM0t3WjJGZUxKXzJscEcwSTBvYThockxJcHk3a05BdFVLQ25sYkcxdnEwb3hNQjNQRkw2NkRXajNiSWl6c29ZclhTaFd1cmRsdm9od0ZFOEN6b1M1VFE?oc=5",
+          "time": "22h ago",
+          "body": "'Spectre Of Drought': Marathwada Region In Maharashtra Grapples With Sharp Decline In Groundwater Level  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "'Spectre Of Drought': Marathwada Region In Maharashtra Grapples With Sharp Decline In Groundwater Level ETV Bharat"
+            ],
+            "tldr": "'Spectre Of Drought': Marathwada Region In Maharashtra Grapples With Sharp Decli"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1793606934732",
+          "title": "Centre Initiates Land Acquisition Process For Four-Laning Of Ajanta Ghat Section On NH-753F In Maharashtra - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVEtkV296Q1VHRkU2NF8wY2luQXo3bURpN1dFQlhkSDREa1ZtWFAxVG9ILVB3VTBWU0t6WDBNUG5kZEJKazNxWHVsalRMRkkxUnBsclk5U2IwRkM2am1mY0hRYkcyNHFTZUVSeDhpZVNUbFgxdFlKX0w5QmJjWVQ3aWFOZ0hOczNFUDBkYmZSSVp4eVR0UUMzRlFxbW5RM29Fc25TU3M3bGpMUEtiNFVickdBU0VvQ2I5WjhBeHdKaFhvbUhlbFdDQU1TVzlwLWZTeGhkR1pMcnZUczlsdTBub1BjV0xpWlVjT29QMDB30gHuAUFVX3lxTFBUS2RXb3pDVUdGRTY0XzBjaW5BejdtRGk3V0VCWGRINERrVm1YUDFUb0gtUHdVMFZTS3pYME1QbmRkQkprM3FYdWxqVExGSTFScGxyWTlTYjBGQzZqbWZjSFFiRzI0cVNlRVJ4OGllU1RsWDF0WUpfTDlCYmNZVDdpYU5nSE5zM0VQMGRiZlJJWnh5VHRRQzNGUXFtblEzb0VzblNTczdsakxQS2I0VWJyR0FTRW9DYjlaOEF4d0poWG9tSGVsV0NBTVNXOXAtZlN4aGRHWkxydlRzOWx1MG5vUGNXTGlaVWNPb1AwMHc?oc=5",
+          "time": "22h ago",
+          "body": "Centre Initiates Land Acquisition Process For Four-Laning Of Ajanta Ghat Section On NH-753F In Maharashtra  Swarajya",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Centre Initiates Land Acquisition Process For Four-Laning Of Ajanta Ghat Section On NH-753F In Maharashtra Swarajya"
+            ],
+            "tldr": "Centre Initiates Land Acquisition Process For Four-Laning Of Ajanta Ghat Section"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1793606934732",
+          "title": "Headmistress Of Primary School In Chhatrapti Sambhajinagar Makes Schooling Effective By Spicing Up Midday Meals - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjVOZnZOcXRsZkd4NDBEMU5QYm1tay1VUnMtSk5MQnotc1M4RTRBZ0UzQ3JSMFBFTEZWcUpLRkEwT19fWVFLZ3hkcUsxUHVDdDNpZnNSU0ZmUnR0Q2pMS012MHhWbHdNZmY1SjBHSTlmSm94VWJDcUFLc0lhY0w1UEI1YTBybEpEeEdYd1FrR2tETmJpNGx1MmI0eEk5OEJSdkItVEpocWFoNVFyR1B6OWtlVzZELUlvS1lyZV9xd05rakJNYm5YYnR4Q19NLWliaEFjUXlRbzlnUHNmUy1FMWJJYi0xWGlieE9hTUlDZ0hDZGQxVGfSAfsBQVVfeXFMUElzcjM4UEFTTldRakM3UDRjSzZ4T2hKUGNEdXlhc0ZNTUVnQVdJZTJhVWpkeU53dE9ld1FMM2F5STZHcDFjdzlYZWdNRC1jUkY0MDFBX1dBQzB3Um5lZHJ4NXEteVBoQWNfUVlCNTMwTVAxOThUQ3ZhcE1ubGlILXV2cUNoMl9KdDhJR3ZwbWNZei1rb3hmcHFNdFVXdlhNMlNLbWRXUzBJY2ZNMzBTOHBQazYzQ1NyMlZuM2Z2NmdabnZlb0otcXdobzVqRzRad0hxYS1EeGRqZElLd2dIM2ZVeG9MazhxNnRtcTNRNDFST2NMeXc5MExqbU0?oc=5",
+          "time": "20h ago",
+          "body": "Headmistress Of Primary School In Chhatrapti Sambhajinagar Makes Schooling Effective By Spicing Up Midday Meals  ETV Bharat",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Headmistress Of Primary School In Chhatrapti Sambhajinagar Makes Schooling Effective By Spicing Up Midday Meals ETV Bharat"
+            ],
+            "tldr": "Headmistress Of Primary School In Chhatrapti Sambhajinagar Makes Schooling Effec"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1793606934732",
+          "title": "Bombay High Court Raps State For “Administrative Inertia” In Sitting Over Proposal For Sanction Of Posts... - Verdictum",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR09hLURxZVJVWXo3UzFJdW14TUZyb2prOWJPTFB4NG8yM3JtMzZFZ28wMmx4Qkp1SnVGWGxkMnZuTTNUOFhqSFM3Y3RHdGhLb19LNVdxUjRoYmVkZEJBSlJQZW81aUFzaTYzVFIyUTBTeHlSa3JoWU5Od0c5OHRRbUJCdkxLa3E4N2daNWZyVTQtOXVHdVFoc0hodVdqaHFaUnZUVEtKdzF5eGdiSHlSMmRZQmhsTHdRLXptNWlOSzhGV1BpbVBuSjdqYnFGeE1TZjF4UFNDY3BGZTdzcm5mbTQzVFFodlFJcXfSAe8BQVVfeXFMUEo0V01DWU9CWEYyYjBfa0ViRXVzOHJ5ZFRXVWVsbFZYYzRxMVRQemNRb1FaVjZoVXpvM2txZmlyUHFNdFlLdFpVWDRvNDhqczZNRHl5WEJXendIT3k2YmthSGtVZ3BybkdkRVlfNGdldlFWaUpGNDFjbnVhemdHeThCRlB0Q0oydzRGQWpZZ0xId1dyZUZHU2luTkJDbk9aLXpCYVFmaHM5aFJNRWhFY2VUNGVFdENSSTVrdTVNYWV2TmxiTjY1OUlGbXdvaS05ck0zUXQ0V3ozdF85bVZQNWlJcVgzWXZPaUNSWXRwRTg?oc=5",
+          "time": "1h ago",
+          "body": "Bombay High Court Raps State For “Administrative Inertia” In Sitting Over Proposal For Sanction Of Posts...  Verdictum",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Raps State For “Administrative Inertia” In Sitting Over Proposal For Sanction Of Posts..."
+            ],
+            "tldr": "Bombay High Court Raps State For “Administrative Inertia” In Sitting Over Propos"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1793606934732",
+          "title": "Six senior NCP leaders meet Amit Shah to seek Finance Ministry in Maharashtra - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQkloQjV6bFlsbGJHRkM0Qm1YNkN0aURaci0zcG80QUIzbjRYSXhpTXF0bEpXV2dZZURUUUpOUEYxUklEREx2SldOS1lRTDJnS2RKa2JaelAzTUt1RlNIVmp3SmtuekNTUHpkRm9RQm1vdXlMVFV5VXFvbnc4ZUxSaEY0N25lSUtSQ1pXandHQjJ5dmFvYzhGOTNZejlrcVV4NHUyRXRPeDVBbzJDSFg0?oc=5",
+          "time": "1h ago",
+          "body": "Six senior NCP leaders meet Amit Shah to seek Finance Ministry in Maharashtra  The News Mill",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Six senior NCP leaders meet Amit Shah to seek Finance Ministry in Maharashtra The News Mill"
+            ],
+            "tldr": "Six senior NCP leaders meet Amit Shah to seek Finance Ministry in Maharashtra Th"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1793606934732",
+          "title": "Maharashtra SSC HSC Time Table 2027 LIVE: 10th, 12th datesheet soon; MSBSHSE extends form submission deadline - Careers360",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUVPa0NaLU5OUDZEbFNDZFlqbEl5cnFocTNMTmhxaUFyNzZub1JXNHJBS0hKamFzNFVkdlNQM3lNV1JVV0FobTJZSVdMOWl3bS1SRk13Z0tjV2xmNnVGaUVZV2VsZ0UxWDhvc1UxNUpxejdhZ0NCbm04Q0lXSDVZbnRxQ180ZkVySDM1bk52RUcxa1UyUzczSXhVS1gzOXEyR05XSUFHYkFTMVlHc0tnTUhid244X0k1elhpMDZnaE5Pb1llTy1NZnlqN1N1V3pScFRWRVZlUHM4Zm94SzJaVWhGNDNVV1XSAewBQVVfeXFMT2FpYUZfMzBFOERIV1oxeHd0aGt6WFdQQ1pWam1rZ21JN0U4UV9sQnV0a2RqQW5raG9vcXZib3J1Qmw4eEY5MS1IVTFGeHVqVHp0d0liTjlTZHN4S1BLYk5pcTBNMXZzUUNQWjVhMkFZd05lTGJRRmhrVEhzVW5wek1DRDQxTGNvZkhfcllRMzNVd1AwQ0hiN2Y3aElELTdOQktMWDQ2d2szblBROGtucEd6RXpZUWN5U1lEVFZiVFJyQ2xZdndIUmpmTnUwWVdMQ2hCVWtrWkpsamxleE9vN0ZIblJmYTYtT1RJT3o?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra SSC HSC Time Table 2027 LIVE: 10th, 12th datesheet soon; MSBSHSE extends form submission deadline  Careers360",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra SSC HSC Time Table 2027 LIVE: 10th, 12th datesheet soon; MSBSHSE extends form submission deadline Careers360"
+            ],
+            "tldr": "Maharashtra SSC HSC Time Table 2027 LIVE: 10th, 12th datesheet soon; MSBSHSE ext"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1793606934732",
+          "title": "Steel Strips Wheels Q2FY27 Results: Monthly turnover up 57% YoY to ₹754 crore - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEdaRHhjeWUyZ1I2ek1EY2NnLWI0LVR3MkV3OTFWZmJVbzV3Ql9jQjRiYlY3U1E1RXJTbUpvS19sbF91SF85M3AwU01GdmMxZ2lsSExqcWJxTDBlajNjc3BCSlUwSWU0MjFYMUlXcndVeTlWcG5EQk1FY1ptUXprcVZ2SFI4QTMwUEJScERpX1FjeldiR1YtMXFVeVVwNDZrUWJIMXQwcW5hTktyaXVaUjAwbWpHQS1MbnJOdHdodw?oc=5",
+          "time": "8h ago",
+          "body": "Steel Strips Wheels Q2FY27 Results: Monthly turnover up 57% YoY to ₹754 crore  scanx.trade",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels Q2FY27 Results: Monthly turnover up 57% YoY to ₹754 crore scanx.trade"
+            ],
+            "tldr": "Steel Strips Wheels Q2FY27 Results: Monthly turnover up 57% YoY to ₹754 crore sc"
+          }
+        }
+      ]
+    }
+  }
+}
