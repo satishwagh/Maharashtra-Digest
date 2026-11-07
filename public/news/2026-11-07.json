@@ -1,0 +1,795 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T07:42:29.883Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794037344027",
+          "title": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQend6ZnNjcVN2UHdXaGZ4T0U0NzBudWpMUk9LYUNrSy1UdVVvOEM3MkoyX3pkOHNNeHA2WjN4dWJhMmhSdkJ3Q2lhQUc0OHRiWlhlQklsU1dwcXB1aTYyMmN6VTU4N2JBTm5oV0t1eklsN0dkYjFsVmhlUEdQbHBLQzhmSkYyT3d1bkl2Rkk5djREYUlmRkk2NDdDWFNrSXF4WGFfelZXeG5rQQ?oc=5",
+          "time": "8h ago",
+          "body": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport News On AIR"
+            ],
+            "tldr": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1794037344027",
+          "title": "BMC's 570% entertainment tax hike awaits Maharashtra Government approval; AICWA gets official response; m - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOLUQzc1dLNC1jYTJjTjRmbnRLOTlkemNvbFlhSXUyQ2VCLUREYU5XdldBMmNtLTRHSmlMc21UeHBlTkJST2doSlZRU09pMng1Rk9CekhDUmd6ZFdOM0wza05QMG9xNC1lTG8xeVY2UzZsUkFCRnpMaklBeUJEY01DT2FZMnI4TzNINk1OdlhGNEhRTHh6TlZuT18xN1VZdTQtLUlIZjJmSTJqTGpaY3R3Q3ctMmMzazJBTDllWDlQRGJhVkNyZGVMYm5vTWhleUtVVGJqZm5za3hDUEV3LXpLdnJJeHJNbFByblM5WmwyY1N4ZlV5cVQ3Q3pGTVhIVUpUTHgxTXFKVDBVLWVTaUtXckZBb3BIVVZUd3c4X3MxSE5BYUtjVm45WWx4SExRLU5OMGtfZVdtZ0ZLV21IRm5KOHVsUEdmMFpQLUhYZVFyM0xsNktUN3dfLWFfRkbSAeICQVVfeXFMUEpwSGluRjNxUkpSWU12Y0l6ZVZ0YkZiX1czdk1PRGFTRHFsdEtzeko5NHR0cWFGTU1VMnhpNGpGRE5mNG11d0FOVDVNVG1FU1drSWxUMzkyTFhTc2FIZVRjMjhERG9WRUxIR0hiRmpqSFVlZE9CWDl6VWNfTVVsNUpOZ0IyUXhhLWZVREF0REVYblhFTU5WemxXZVBCRWdPUXNlWG9qMVpGVWdBLTdZNEFoeGZuN0xOV2I3bVE2YTdJeU5xVlVQbGFMVmxpdzJUOTNoV0t1NnU1X3ZtMkRTQ1hCM2wxNXNDNW85ZERJQXNZcnpYV01CQVRLUWU1S0NRZjhOeGxjZ19GYW1wZjE0QWI1YTRWVzhCLWVId2F1TVBBVXZJdE5YMUYzdGNpRl9NS1YweDNwb0Z4dFFUdVU5WlhHUFpiWXYwWjFTa0UtZlFGc0M0aHdtMGFvSWFVVEJwandB?oc=5",
+          "time": "2h ago",
+          "body": "BMC's 570% entertainment tax hike awaits Maharashtra Government approval; AICWA gets official response; m  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BMC's 570% entertainment tax hike awaits Maharashtra Government approval; AICWA gets official response; m The Times of India"
+            ],
+            "tldr": "BMC's 570% entertainment tax hike awaits Maharashtra Government approval; AICWA "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794037344027",
+          "title": "Raj Thackeray slams BJP over Gokul takeover bid, accuses Mahayuti of undermining farmers' mandate - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM3JsRmwzR3dNNU9tTUxuZjRVU0pzaEtyRU51Tk5Wd2w2V1lLUXl5MFpab1FkN3I5Qy00THJQbDh3NklHcTVKQmxDZUpYQzV6dGJLc0FJMDFDc29ORWo0UlpOQ3ozTXpZNG9lS2JXUnJfOGg0Q3hjWHlJQWJkY1kwa0E1NFlkN0pqS0c4dFpUNVF5ZFZOUXRLY2RFaXBwZ0FwREUwQURPZU83dEg5QzlBN1lNckxuTFdPdmV2RDRqdXgzLTczaWRpQXJCTXdiRXRhdFJubV9MelJuMVJ0aGlRZTlsSHFzRFhGVWxoS0xFREPSAf4BQVVfeXFMUENmcTVuSWJ3TmxkdVNJUlNQbkFPcUxhSTVGbWxncmtjUnowcTlpMzBia095NjMxbEVMQ3BianRvX3RsZTJ1WnZkWVB6czBaSklsN080MldSLThodkExcWRiRTN5bTJRaVZ5ZjN1NmNRMGdFU1RJcXVhakhnN2ZtelZ1Wld1WURVbFZyVTM2QUkwajQ3MXJfTnJETHlBNWdJNi1qcXJxTGkzcXJ2WmdBQnh4MnVERnh4RDM3QktfcXNkZHVnUzJmU2lWcEdSenc4NG1UeDY5X3pRZ184eVZUM2VHeU9FMTY2YkVpYy1zVFcyMl9ud2E5ZFZYUE53TlE?oc=5",
+          "time": "15h ago",
+          "body": "Raj Thackeray slams BJP over Gokul takeover bid, accuses Mahayuti of undermining farmers' mandate  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raj Thackeray slams BJP over Gokul takeover bid, accuses Mahayuti of undermining farmers' mandate The New Indian Express"
+            ],
+            "tldr": "Raj Thackeray slams BJP over Gokul takeover bid, accuses Mahayuti of undermining"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794037344027",
+          "title": "Mumbai gets extra Diwali holiday on November 9: Which government offices will remain closed and who gets the day off? - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNTVmN2Q2ak1ZNmRIQjBydFpleEh0ak1RVnBlSExFNzFEVlZQRjVyTEhrWjBTdUVGU0I5MFV1ckNGX3NMSGVYVHJuREswc01uN2pwUEtkbTNKU0VzdXR1NlZJTUNIQWhrZ3JkOUx3dFhLZm5QNnZZcUNIZVhVaVB1TUtFaXIycG5tQy1fVE9saE5ybW92N0xEZjR3WXQ4dVdJQlpNZFJKbmtJa1AzSkZCVGQzSDN5aEZXdzhlalFTSFVZTC1rbllEdUN3M3dPNGI1cWs5bzFOVEN0aEQzNFlsRkhUb3hlV2ZUSkhQc3hBb1JLMjkwRUJZMlhsREE3eUQ2VlB1ZDRn0gGGAkFVX3lxTE81NWY3ZDZqTVk2ZEhCMHJ0WmV4SHRqTVFWcGVITEU3MURWVlBGNXJMSGtaMFN1RUZTQjkwVXVyQ0Zfc0xIZVhUcm5ESzBzTW43anBQS2RtM0pTRXN1dHU2VklNQ0hBaGtncmQ5THd0WEtmblA2dllxQ0hlWFVpUHVNS0VpcjJwbm1DLV9UT2xoTnJtb3Y3TERmNHdZdDh1V0lCWk1kUkpua0lrUDNKRkJUZDNIM3loRld3OGVqUVNIVVlMLWtuWUR1Q3czd080YjVxazlvMU5UQ3RoRDM0WWxGSFRveGVXZlRKSFBzeEFvUksyOTBFQlkyWGxEQTd5RDZWUHVkNGc?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai gets extra Diwali holiday on November 9: Which government offices will remain closed and who gets the day off?  Livemint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai gets extra Diwali holiday on November 9: Which government offices will remain closed and who gets the day off?"
+            ],
+            "tldr": "Mumbai gets extra Diwali holiday on November 9: Which government offices will re"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794037344027",
+          "title": "Maharashtra govt allows offline crop registration for farmers facing survey app glitches - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTQ5SjFBSFhHTXY2MDgwTk1KQmdXVnJmb2JfV1BpcFBRczRzN3ctQnRsUnlKTE9yaldoLU1iRjNGc0VIRVZZM25YVTFrUWNNZmZRRkpITG5QU3RrM2VRaTliUnZBdlBWeXVYUlhGaDViaUhKam1tck5kcTZjd2VjS3h6UUJPMlgybVVwQ3pTeGpHbnpEMnp3aVVjN1J0LWdlMWQ3all1WlFuX3h6djNPREV1WENpZXRiMEM4SDJoZkXSAcYBQVVfeXFMTUpOMGREUWs5QzBNS21qdFJGVldIQnV2M0RIUVJDTDdJNHRMVnRaaXV3aVRMdWhBbjR6MkVfc09xUV9YNktEc3MzeUY2eG92QmZPZVlFNl9PcFdqUWJkZThieGIzVUxUQk44dDRfUUk2Wkc0a3FYUTZKQm5pT05LQm9pTmxLSG1jeW41dEhnNTJLTy1YOXRiWEpCRlNjYjRZMVVXeURnbWpsR3E0aklhc0EwTUYwRlJ3clNtY3YwMUQ5Yl90bWFB?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra govt allows offline crop registration for farmers facing survey app glitches  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt allows offline crop registration for farmers facing survey app glitches ThePrint"
+            ],
+            "tldr": "Maharashtra govt allows offline crop registration for farmers facing survey app "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794037344027",
+          "title": "Analysis: From Hospital Bed, Sharad Pawar Keeps Maharashtra Guessing Over NCP-NDA Move - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZ3Y5ZFF1amVLZXJnOHcxMXdiWjFaWVR5UmhBRks0QjB4aG5FVEJSMnkxemhLR1JYQURfOU5mNWRHRDE0VDJwdHBnQVN1VXdmQUtTTV9rYlNqa0hqT1h2OWk1YjNQbFBMVDFPWEhJZjZtLVJ2UmF4YUtET1FlSmk4ODd6blZCbmxhajJrbVNfQjRBMDllUnZOVjNOSmZmX2tTcHZZcUdJWndpM0ptZEkxS2lKWHZpTlFnWlZORVAxdEVYV19fTTY3M1ZJZkdmeHQ4VzlhZ0RoNGcySEJvaF9fUExRZzhzUVlRcTZxNm1VLXpPbEo0RnEzQUJBeHkwZ0nSAYcCQVVfeXFMTjNfUDdLaWlkOFdSaFJlT1otMmxwaXdhaWlnOUliV21ZbnRKT2RIc3RRVl96RUZsZEtnLVNZbExhVU1lSHVKUkZ4TXJYM0t2WXJwbjhIMkZLU193U0J0YTVnWmpKaTdhX1BlTGxad1NuZFJpNjRzQ0xlT0g2Rzh3NUNoMmpldXRZMmlzcWpUeFVZTl9XbGs5UFYxM1ZWb185RWJIN0NPNkQzQ1hHeHNIa1VDRURVSjRlYzFISEwyZ0JqTHFzdlZHbkY2VzFYREc3ZFFaeU1mLUUtQW1TNWtUUVp1UEhFb0h3T0N1REg3VXJqUTN5SUVHaTExRjNGbF9sdFVXc09xTjQ?oc=5",
+          "time": "19h ago",
+          "body": "Analysis: From Hospital Bed, Sharad Pawar Keeps Maharashtra Guessing Over NCP-NDA Move  NDTV",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Analysis: From Hospital Bed, Sharad Pawar Keeps Maharashtra Guessing Over NCP-NDA Move NDTV"
+            ],
+            "tldr": "Analysis: From Hospital Bed, Sharad Pawar Keeps Maharashtra Guessing Over NCP-ND"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794037344027",
+          "title": "Did Maharashtra ignore ex-CJI’s advice on Act amendment after losing Gokul to Congress? Fadnavis answers - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZXVKaWQ5Tlh0eHZTelF6V21fR05CVXdhWWgydlNHbmlQREtDaW9vTUdVWjRHQkpNamQyb1lpdkg1eEpHeDZEUTQxMWthanNCVnlhNEVpSUVEalRoSjBNZ0NNVkZjOGcxZGlGVHY5dzh2bkFTZFhyNHZ3U0RMcEs1QTlSSjZEUDlfRW40WXhyQkNGNHVxeUF3M21OSERRN0RFQW5mMzNJejkydmFJUFg0VkZHZFhpYUx0eF9sS2Q2ZDIxTzZCZTJ6RXJtd9IBywFBVV95cUxNZXVKaWQ5Tlh0eHZTelF6V21fR05CVXdhWWgydlNHbmlQREtDaW9vTUdVWjRHQkpNamQyb1lpdkg1eEpHeDZEUTQxMWthanNCVnlhNEVpSUVEalRoSjBNZ0NNVkZjOGcxZGlGVHY5dzh2bkFTZFhyNHZ3U0RMcEs1QTlSSjZEUDlfRW40WXhyQkNGNHVxeUF3M21OSERRN0RFQW5mMzNJejkydmFJUFg0VkZHZFhpYUx0eF9sS2Q2ZDIxTzZCZTJ6RXJtdw?oc=5",
+          "time": "22h ago",
+          "body": "Did Maharashtra ignore ex-CJI’s advice on Act amendment after losing Gokul to Congress? Fadnavis answers  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Did Maharashtra ignore ex-CJI’s advice on Act amendment after losing Gokul to Congress?",
+              "Fadnavis answers The Indian Express"
+            ],
+            "tldr": "Did Maharashtra ignore ex-CJI’s advice on Act amendment after losing Gokul to Co"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1794037344027",
+          "title": "Shiv Sena MP Milind Deora expresses displeasure over exclusion from BMC event in Colaba, writes to Municipal Commissioner - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQREJiZXZhVTJad3huWkhaVXJici0zVjRBTi1DUGZJMW9haWRlc1ZsN0FQeThicDlKZXJ6ODVJVGp1ajFnUW5hd1k1ZEY4Sy0tTkROYWhWRkxJUHlkZGc3aXd1M2lHZEpzTzVVaGFyWTlEMDc4ODltVy1kd3puRHN2YzhaMVJELVQtc05NdXpPaXhscU9KYkttSDNtRDBQUURfak5idWh4SGdZMUVuMnNZTGg5YzVFYzlDSGdCd1Z1cmlZQVlRZlc1MW1OdGRMT1dHQllGeTJ2YngxWU8wbzVjM19ydFJXMUxKdWJkamQ4ZmF5TnlxTU5zcm5KZlplc2l2d0hocDZ1OHRXWGZOYmotTw?oc=5",
+          "time": "14h ago",
+          "body": "Shiv Sena MP Milind Deora expresses displeasure over exclusion from BMC event in Colaba, writes to Municipal Commissioner  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiv Sena MP Milind Deora expresses displeasure over exclusion from BMC event in Colaba, writes to Municipal Commissioner ANI News"
+            ],
+            "tldr": "Shiv Sena MP Milind Deora expresses displeasure over exclusion from BMC event in"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1794037344027",
+          "title": "Mumbai Gets Extra Diwali Holiday On November 9: Maharashtra Govt Issues Order - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXZXR1Y5emNpQWJEMDZQdWVjdDBRSkF3YUZPZUtUX0RhNlFPUnVheUtXTU4zUlpqLV9FcGhtWFV5RU50dkk0X3o5SWI2bVhrc1RkTDlIbm9Ta2NKYksyeWh1T3h4RVI3V2RKaVF2ak9KWFEtaE5VWXpmT19BbGtnUUFLZURCdG5TamhSSWVFQUh5eGg4M0k5b3dvaFpVYzhuVlE5amlNSUprOUxwOEdnZ1hJSdIBuwFBVV95cUxPLXZqMzhBQU96QS1JbTNOTU5HVF8zZnVLa2l3UW44LVd1dElndHJURlVwdWR2VnB4R3hNTnZFXzdVX2ZZU3ZBMzQzRlJmM1JGbkx1dzEtUlFxd0JuRFdGVFA2QWpSaWlaNzlrTU9YUWdUZXRiOHpfMHgyUWQ0TWtKXzBwSWZOQ2piZkJackh5UWpwdzJpNENnWjdUQzFoRzJJT3BNOE9yMk1YZ01rMXQxMTJJY0lWa2ZLZzBN?oc=5",
+          "time": "19h ago",
+          "body": "Mumbai Gets Extra Diwali Holiday On November 9: Maharashtra Govt Issues Order  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Gets Extra Diwali Holiday On November 9: Maharashtra Govt Issues Order NDTV Profit"
+            ],
+            "tldr": "Mumbai Gets Extra Diwali Holiday On November 9: Maharashtra Govt Issues Order ND"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1794037344014",
+          "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+          "time": "12h ago",
+          "body": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times The Economic Times"
+            ],
+            "tldr": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Li"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794037344015",
+          "title": "D-Street festive rally defies global rout: Sensex jumps 1,718 points, Nifty hits 9-month high - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOTk5YXdwY0g4dEtxTzhUX3BRcU0yX0hrdlo3LUhETFdQdlY2VnlEZnBrX2RVOS0zNnl0VmFvWDFZV285aU0tcDV3MGlQSm1fNno0TlBGTl9wMi1fSlItcll3WGdhMXctMkxTbkVheEhyUnVwc2pHVEF4YUVzMWpuMXBobGhOZG9KLTZlR3FKeVZBVDl2N3VFZlV4ZXRDb3JMV1pUWjZ0MU9GTk9ldmV6V3FNUkVxTGVUY1RSSlhuMzVMM1Uw?oc=5",
+          "time": "19h ago",
+          "body": "D-Street festive rally defies global rout: Sensex jumps 1,718 points, Nifty hits 9-month high  DT Next",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "D-Street festive rally defies global rout: Sensex jumps 1,718 points, Nifty hits 9-month high DT Next"
+            ],
+            "tldr": "D-Street festive rally defies global rout: Sensex jumps 1,718 points, Nifty hits"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794037344015",
+          "title": "Indian Stock Markets Extend Winning Streak to Seven Sessions as Sensex Surges 1,718 Points - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHJDT0hWamk1V0lZRGpKUzBNZmtlZlpKYnc3MlNyU0FGUk5FWXpYTVBoRjluUGN2dTJQdVhDMnR2enFDZUFCU2lHNnVOREdWV3JaOEdfY19CMG81Qm81SkIyeHVsbktMUDNrSGEzR1g3cXpYV0tEdGNWZmxoMklkYUN0REhQNEQyUFJ0NmV5MF84cUNDa1lGR0ZwSmpVSlo4VUUybjJYMzZSclBSZlltX0hvQ0pEd2NRWWc?oc=5",
+          "time": "15h ago",
+          "body": "Indian Stock Markets Extend Winning Streak to Seven Sessions as Sensex Surges 1,718 Points  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Markets Extend Winning Streak to Seven Sessions as Sensex Surges 1,718 Points INDIA New England News"
+            ],
+            "tldr": "Indian Stock Markets Extend Winning Streak to Seven Sessions as Sensex Surges 1,"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794037344015",
+          "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083 - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT280WlR5RlFnXy16cVh3cS1FbTBFU1hhLWlxVXJPaXpTZXVhcVVfc0V1TWdtLVJaZVZKNHlFaWZuVGtiYXI4VzRZUkFrNy12a3JIdm5mc2NCQkxiQm5VQWxEM3BpaEUxUWJDV0Y4MHBGTGp1RmoxdDVBUFdBeng3bGRQdzJIZG9fVTdCVG5ZNU9Uald0V05ydHVwaTBoZVphTHNrOXpMWFdtbHVBTUt3LXZlT2sxMlo2NUlMLV9waGVBSWs4LUMzdlBwakt6SmIyNnBRckYxelg5eHQtVHhmX1FQNnZ2SWRidXdkeVRJeDBoMHNrY095WWYtZEFfU09SMzVIWWgtUHRHU1VTOXFGTNIBlgJBVV95cUxPMmpkTGMtcGJZcUZtRXYzbXMtMDc1enRnWnBWbXI5SnJoSjVjQnFLM1VndnhBajI4c3o5TUhBSWkxeS10di1tb0QyN3R5LWNOdFhIcjBQbDQwNEdSYnUxWFJsa29BOFJtNUdVQm9QblFFRmJocjVPRGl5OXo2TkZxQV8zWFNDNDc3QzBBSkdZSHQwOEc5c2VtMVRMOWhxbXNQX0lzNFpLNDZpUTFOd2gzM01IX3VvOGg3T2s0NkppUGcyRVlvaG0xUzhfZlJQUkdjTldJX0RrS0FLbExDZ0Z4a25GOWpIYXE5eXk2T0FsN0VYeDVnaGs0MGJlS1M5Z040bkJfdURPd1JDbXdtb2g1M2tfanJRQQ?oc=5",
+          "time": "18h ago",
+          "body": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083 Livemint"
+            ],
+            "tldr": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -M"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794037344015",
+          "title": "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - TradingView",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTdZTEllVS1MVFhuT1VOSGtaaGtmOEZrSU50eERhTDlxNGU3RENYdm9KYWZsZ3lUTHdhcXZ2ZEZyc0xUbzh3Ti1ZVkdVQUFlcGNwTWNRUEJoQVlzcFFjdi1VaEh6X2hiRjlSVERXOWhrS04wQWYwcEdwcVZseE9kZ1ZhTkstb2U3eWEzTkFPNll2WG9VU0NGOFFrRFp2bm9ONmpCSWdXaHhURC1BUGhpZXcwVTNHYW1tc3hETXVUYngzQ2otQmNNMEpB?oc=5",
+          "time": "21h ago",
+          "body": "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000  TradingView",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dhanteras bonanza on D-Street!",
+              "Sensex jumps 1,718 points, Nifty tops 25,000 TradingView"
+            ],
+            "tldr": "Dhanteras bonanza on D-Street!"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794037344015",
+          "title": "Sensex surges 1,718 points to cross 81,000 level; Nifty reclaims 25,000 level - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS3VSUTczZjVGbjcyOEtoYUxzUm4ycUxPV3ZxMzlsUk8wMHpoUko2aXhSYW1rM2RIQldWTzhGLUVBX1VjREphNGEyWnJ0ZjVhRUVFcUk5eGcwdUJlOG5aS19JSFRoMHJZeF9oR2d4N3dLVHoxa202WEN0S016bXd0RTBTVGlOVlJHLXBWYzZHX1hzWDlzLWZHTGJoZlhITXpwd0lxQVR4UkxzQXJ2Tk1zTDg3VTFpRVpOR2JLZXFOLWtJM21paHhvLUlMTTlkMVFuUjZMU2c5MDNybWJVS2liN2h6SFdXQVE?oc=5",
+          "time": "20h ago",
+          "body": "Sensex surges 1,718 points to cross 81,000 level; Nifty reclaims 25,000 level  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex surges 1,718 points to cross 81,000 level; Nifty reclaims 25,000 level Mid-Day"
+            ],
+            "tldr": "Sensex surges 1,718 points to cross 81,000 level; Nifty reclaims 25,000 level Mi"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1794037344015",
+          "title": "Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On November 6 - SolarQuarter",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWHdnRXp3NnF3TkxPNl9FN0lsM2RqbGdrZGJROEQ4VDBodkFpZmxJUDRVZUtVc1VhMlhCVnUxZmM0dm9qdmVQS3RBaFJzVGlGdXRZbmoyQnRXQXlVNldZOEN0NW90REF5Sy1Nd1FoMnY4WHI2dUVHUTFCbEhMcU1VTk9EQlpQb0ZDR1RpWWtadC1iMmlFTHR2bldCUW1qOWpJOG1pNzlIUDVqZGFxa3g3cGdTSEtqMVRudzVpVzBR?oc=5",
+          "time": "19h ago",
+          "body": "Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On November 6  SolarQuarter",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On November 6 SolarQuarter"
+            ],
+            "tldr": "Indian Green Energy Stocks Witness Mixed Trading As Sensex Rallies 1.9% On Novem"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-9-1794037344027",
+          "title": "Centre’s Two-Year Extension for Agniveers Sparks Maharashtra Recruits’ Fears Over 10% Reservation Benefits - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWhJcFNSVTJtVW8tM213NGRfYTZGbGJ6UF84UkQ3MWpIOTlJNG9OeU5nVDJrbEdDZDhwSm96Zms5UTMyRi1Tc1phX3ZscUhtcEVsZVpFeXM5YkhLMHdHT0hDSm84RDR1QlppQVNwUUZNMllUYzBtY1JiSXpUTjM1R3pjc1dIYmxZV2ZxS3dmMkFvSEg5YzJXWkg0OTlWNFd0aENoSXdHcHN1d25TSnVxeWZWR2w?oc=5",
+          "time": "9h ago",
+          "body": "Centre’s Two-Year Extension for Agniveers Sparks Maharashtra Recruits’ Fears Over 10% Reservation Benefits  Mumbai Mirror",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Centre’s Two-Year Extension for Agniveers Sparks Maharashtra Recruits’ Fears Over 10% Reservation Benefits Mumbai Mirror"
+            ],
+            "tldr": "Centre’s Two-Year Extension for Agniveers Sparks Maharashtra Recruits’ Fears Ove"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794037345318",
+          "title": "How Do India's IT Act and DPDP Act Apply to Businesses Using AI? - India Briefing",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTW9iMVBsczFfaXNSWUpiVFZ0VG9yZjFLNXhoZmIyZnlFTEEtU0kwRUVXYVVOY0VsMmgwN1B2MkNGcVctNUQwNk5JSlQ5dlNGMlFyT2h5X0VhalJtNU1PQWFQdzhnVV9pVkJxQnRLbWc2c3hTSXNra2dxbUQ3Wmlxc1QzUjAyRkFrZWJ3?oc=5",
+          "time": "19h ago",
+          "body": "How Do India's IT Act and DPDP Act Apply to Businesses Using AI?  India Briefing",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How Do India's IT Act and DPDP Act Apply to Businesses Using AI?"
+            ],
+            "tldr": "How Do India's IT Act and DPDP Act Apply to Businesses Using AI?"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1794037345318",
+          "title": "Kashmir’s Apple Could Benefit from Precision Irrigation and AI Disease Detection, New Study Finds - Kashmir Life",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHdkX2ZodG1aRFhPVkxIelRMSWprOWdhM21wMGVrcUZ0U0k5bDFQWDVQMGJNZWc4dUVIbVRjd1dpWDJLcVd5aERFelFhRFJDSFB0UXdEVXR2RHRYenpHLU5hUm1aa01SYWJwcUVBQTN5RE1RX1daV0RRMm95Vnd2a1p4Y0JTV3dIWnZwcktNSk9FTE1kcUo5Mnd0cFU3N3Y5eHM1RFl0M3AxSmJlZVMtMVlHY04ycF9qTEdtMUluaW9lNnd0YVE?oc=5",
+          "time": "1h ago",
+          "body": "Kashmir’s Apple Could Benefit from Precision Irrigation and AI Disease Detection, New Study Finds  Kashmir Life",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kashmir’s Apple Could Benefit from Precision Irrigation and AI Disease Detection, New Study Finds Kashmir Life"
+            ],
+            "tldr": "Kashmir’s Apple Could Benefit from Precision Irrigation and AI Disease Detection"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1794037345318",
+          "title": "Gold may rally to USD 4,500, silver faces downside risks amid AI sector volatility: Kotak Neo's Kaynat Chainwala - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQi1SdGtqcDRfWUJOYlhrTHlhOHJsbjhhcHJ2LW9jY1NxZXFDMHlNZVU2WWx2TWFiSUlFS29XMS1xdlo0M1ZDSnNDNkFaRUhnYmR6eXV4eE5ET2E5cnMyRXVLZWhxTXJfWWppR2dnY1lhcFI0YmdXejZVZS00TTJ6Zl9uTUNiT3VFWkVxU3hBNHVqeVlPb01WVDBTWWEzREQyNjFhVHB3MDZuR3BtN2lHQVNrMkVEY0RSdFYwLV90RlhvT3ZSMzBVRFh5Zkt5dWtva21PcjNtQkE1bkFrQ0FHaWhaY0owTmF6YTRILTY1OHk?oc=5",
+          "time": "18h ago",
+          "body": "Gold may rally to USD 4,500, silver faces downside risks amid AI sector volatility: Kotak Neo's Kaynat Chainwala  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gold may rally to USD 4,500, silver faces downside risks amid AI sector volatility: Kotak Neo's Kaynat Chainwala ANI News"
+            ],
+            "tldr": "Gold may rally to USD 4,500, silver faces downside risks amid AI sector volatili"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1794037345318",
+          "title": "FINIXX Summit & Awards 2026 celebrates innovation and excellence across India's BFSI sector - bfsi.economictimes.indiatimes.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa2UtenYzOXl3eVU1RDdsMU91Vm5mWXFaQlpGb0pfdHZGMjB0LXRDRGIzSkNybGdRUVdtZFZVVG9ZLWE1YjBaTmhaRnJseFVXTzFsZUxVVWRyLXhTUC1XUmZPRkVQd1NIYmZYZkNlNHJ5dldlRG45UnBubHRyRDBITGpyQkMySGF6S1BFVDlZem9EamU5ay1uNVMwV1VwRHlLa3c0ODl3NGFieVlFR0NCN2VxbGFieHNQU1djdm5oY1lsVUJPRU0wQ2VJbGl6djdvZk5BcjRjYnAyWlhyaFlzaS1Bc9IB6AFBVV95cUxQQWR1bFlobjA0TC1OWllsMnA3RUJlZGxLU1EtVktSTC1UdWlQczF6UnJuWm1nVldMTURwYV9GV2VaTDNRODdwZV9iTkxiVkdMLUNHLUVMMUdjcTFRdzRMMDRVUUhOeTFZYUJtNGllNFJpLXhhb1NzWDVoQ01teHRCY2tadDltQmpmMHFzemp0b3VpUEJjUm52NWVMX3pnc1FGSVR0ZTdxT2tvUmFoeVJ1WHZLSmtxRmhuYXFYVDRKQWRTemxaM2hiWjB3OW50bnZpZnJCOEIxMzZ2cVJrZ0FZRjNlLXB5VDRU?oc=5",
+          "time": "19h ago",
+          "body": "FINIXX Summit & Awards 2026 celebrates innovation and excellence across India's BFSI sector  bfsi.economictimes.indiatimes.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "FINIXX Summit & Awards 2026 celebrates innovation and excellence across India's BFSI sector bfsi.economictimes.indiatimes.com"
+            ],
+            "tldr": "FINIXX Summit & Awards 2026 celebrates innovation and excellence across India's "
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1794037345318",
+          "title": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmpXZktxbHJheFAzN01oVkRjb3F6ekk5LXY2c1RhUGtGOFdweDJwcEU3ZklDZ1hOczVXcTE3N3BUdHBYaFVMNE5jeER3RHd0eUZPeDRaS3RsejctQmhXX1M4UGh2V3BLX1BMYnFOMjRUbmlxMkotWW1MMWxucHEwRUlubG02QWtodVJYNkJ3VkZDWHJRVUd2cVgxUGlmbDFMVUJLS0RnU3ZsX2RzMlJqZ3lBRWk3dHpY?oc=5",
+          "time": "15h ago",
+          "body": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited https://hrtoday.in/"
+            ],
+            "tldr": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment "
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1794037345318",
+          "title": "\"It's around corner, opportunities must be identified\":EU Ambassador Jean-Eric Paquet on FTA - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU0FDZXVYa2RUUTZjbEVwYnJxckNjZmE0amlaMVVNNW53OEExWFd6LWVRVmRwSHNvOU9WWV9URl9fUTZfUkkydGN1ODN3T3l5VEJkTUlOcHBVTTFkSHZtckdablB4dnllcS1aU1JZY0lnOFRKOGx6NUo5RkxIRXNXOHlmRzFIV0Y0SEEydDRIemxNYnVEbmNaYy1LU01lWEc5QXlQNEdVMDN2RTJlcnlXd294elB1cHh3cUV3TC1tNkdoakNCSUJnMGx3?oc=5",
+          "time": "16h ago",
+          "body": "\"It's around corner, opportunities must be identified\":EU Ambassador Jean-Eric Paquet on FTA  https://www.indiagazette.com/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"It's around corner, opportunities must be identified\":EU Ambassador Jean-Eric Paquet on FTA https://www.indiagazette.com/"
+            ],
+            "tldr": "\"It's around corner, opportunities must be identified\":EU Ambassador Jean-Eric P"
+          }
+        },
+        {
+          "id": "mumbai-technology-11-1794037345318",
+          "title": "Maharashtra grants one-year age relaxation for MPSC, other state recruitment exams - ET Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQk1MVkcxaE5WSmtTQ2hqMW9nRDNxdTNYVlFQVkNMWnRfN1NJMGx0cjNycFJfWUxmUTNORDZGUFhxX1c1T1pMYnYzV1MwWWVNc0wwWXJZVTVwVTRoeFhwUFUwb0Y0TDZySEN2V0hpdEt6N1NiNHNUcDhJWmNXNTZiX1ZKdzZEWVRaS3pTZThYLUlMeFhLMzhkSGlNMFV3RjFJY2JMSUh3RV9rbk9yUHFWY0poNlRJWEJMeFViRnh2LVN2dE5PWVIzM3MzZFNSMXhqS3MxUWxJS0ZfLXQ4eXhQSHAwMEd6V0JsZHEw0gHrAUFVX3lxTE1CTUxWRzFoTlZKa1NDaGoxb2dEM3F1M1hWUVBWQ0xadF83U0kwbHRyM3JwUl9ZTGZRM05ENkZQWHFfVzVPWkxidjNXUzBZZU1zTDBZcllVNXBVNGh4WHBQVTBvRjRMNnJIQ3ZXSGl0S3o3U2I0c1RwOElaY1c1NmJfVkp3NkRZVFpLelNlOFgtSUx4WEszOGRIaU0wVXdGMUljYkxJSHdFX2tuT3JQcVZjSmg2VElYQkx4VWJGeHYtU3Z0Tk9ZUjMzczNkU1IxeGpLczFRbElLRl8tdDh5eFBIcDAwR3pXQmxkcTA?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra grants one-year age relaxation for MPSC, other state recruitment exams  ET Education",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra grants one-year age relaxation for MPSC, other state recruitment exams ET Education"
+            ],
+            "tldr": "Maharashtra grants one-year age relaxation for MPSC, other state recruitment exa"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1794037345312",
+          "title": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy - ESPN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0ZEbXBZSTNiQlMxQUdsdkRmMENBT2U2eFNkMWRGZEFXejdaa3V5R1A2MkcwR05MSWtrM2gzYVlWcGhmaDBGdjBySzBZYjA0RHpjZkxibm50TWdzaEFBc0FYMTBrVTZyVWF1OTVPMTBSbnI1RndlMTFjTnJ3YmZTTm84bS1MSFRaekhGVjJKaTBndFhGOGNYMTdmOW53VzhNajBPTjB2VGNVOXlYNkswUzloSTZmUEk?oc=5",
+          "time": "Just now",
+          "body": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy  ESPN",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy ESPN"
+            ],
+            "tldr": "Hardik not in Baroda squad for Syed Mushtaq Ali Trophy ESPN"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1794037345312",
+          "title": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemxYcTdhZGFnUW5OQkd6YnBlQUdaY2E3OU43YjVZbG5abVhSajUzbXk0MmJPWE9WUTlKLS1yamM3V3VLWEZlUEYyaHNZSmNmRWFlN1pfek9abENzX3hFWl9yQVBWdmVDYU5fOXBadThxSTFPYXhJUXdDVndoOUxYWUhaaw?oc=5",
+          "time": "12h ago",
+          "body": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI  DD News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+            ],
+            "tldr": "IPL 2026: DC gain after Sameer Rizvi impact sinks MI DD News"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794037345312",
+          "title": "Hardik Pandya Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ISWJ4dTVQT2N5QlJGSE0yX0hDb3Iwa2t5bjZHbFF6WVFlbWJEQlM2dnZuYW5NTDZCQndnLVVRRm9tSmhpSHVISW9ISTg1c1BhWmNGN3dMSlpyTk1PbEQ4aThrenVhMElzLWNENk0zdU1ISjZyN1ctXw?oc=5",
+          "time": "13h ago",
+          "body": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1794037345312",
+          "title": "Faf Du Plessis Predicts New Captains For LSG, KKR And MI In IPL 2027 - NDTV Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbXZIN2x6YVhsYlA3ZkI3UzByYnUwTmNEZkxQR1FnTXlta2RtWklQUV9uNFRUQjdLdE13NjJCRGxGYlhZTTc4Wk56TnBIMkJCYmhuNFlLZC1DTzRYanRQdFZuc0NGSTY1cC1xN2pCSURGeWZwNzJ2MkM3Ymx0ZVRDRldfUFRJUGxUWEN2dzFzelQ2WXZnZFhLR042Z0htZXVaN0g0ODJ1U3ZjR1RT?oc=5",
+          "time": "16h ago",
+          "body": "Faf Du Plessis Predicts New Captains For LSG, KKR And MI In IPL 2027  NDTV Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Faf Du Plessis Predicts New Captains For LSG, KKR And MI In IPL 2027 NDTV Sports"
+            ],
+            "tldr": "Faf Du Plessis Predicts New Captains For LSG, KKR And MI In IPL 2027 NDTV Sports"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1794037345312",
+          "title": "Hardik Pandya to Punjab Kings? Arshdeep Singh could be part of IPL 2027 trade - The Statesman",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSm5ubWJnZkhDRjJpMy1Wall2dHJyT1Q3MExNZ05fcUR5d1N0VVpQaUxmbGVVYkRidkg5Q1h2bE8tbUtsb0pEUUgzV1BnYXN5NE84TFJBUXlLd2ozSlFKWU52ZnlWcjNRV2t3Y3ZNTTBkbWtTTVpwOUZ6djdZbW5hR3FJNk83S3hlMHlRcmVPSGxzbDMxTEw0dUg1bXNYcl9JMFdRWkVVZVJUMGZpX0VEc042b1RndXp2QzVRak5RY1o0RHJjRFZMbUVOLUzSAcwBQVVfeXFMUEpubm1iZ2ZIQ0YyaTMtVmpZdnRyck9UNzBMTWdOX3FEeXdTdFVaUGlMZmxlVWJEYnZIOUNYdmxPLW1LbG9KRFFIM1dQZ2FzeTRPOExSQVF5S3dqM0pRSllOdmZ5VnIzUVdrd2N2TU0wZG1rU01acDlGenY3WW1uYUdxSTZPN0t4ZTB5UXJlT0hsc2wzMUxMNHVINW1zWHJfSTBXUVpFVWVSVDBmaV9FRHNONm9UZ3V6dkM1UWpOUWNaNERyY0RWTG1FTi1M?oc=5",
+          "time": "21h ago",
+          "body": "Hardik Pandya to Punjab Kings? Arshdeep Singh could be part of IPL 2027 trade  The Statesman",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya to Punjab Kings?",
+              "Arshdeep Singh could be part of IPL 2027 trade The Statesman"
+            ],
+            "tldr": "Hardik Pandya to Punjab Kings?"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1794037345312",
+          "title": "Pat Cummins' IPL future in doubt, availability 50-50, says former SRH batter on big trade with CSK - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORjFnX1ZZbURGVmkyQlhHYU5Md0pCMTRCZWZtcFVLR291TWxCcEtRQW10NkN0WGFYRnNEYUNEekVOelF5eHkzTl9PMHZDQ2g2N1VSNDZmQXU1aXRXTDhwVWNfRWMxWnk5RW1ucnZqbnNFNzY5d1lPdzZ0TkFYWnFSSWpvWFNPN1RUbE1PM3VDNHpXd2R4ZGtVX0k3WEhUNE15d3N0bHc5empKaHUza1JkVUtjTGk0MGEtUGtTTzNhYmN2cS1SemIxMHNfcFkydzVuNktGeGJqb1LSAd4BQVVfeXFMT2VhMHJNRkJtRElZbFFUU3dzcGJfU3NiNWVZUmo2SGFlM2d6Mnpza3FqVk9TQ21hamlDa2pQenQ5NDhhUFJHS29fTlgtc3F0RFpyQk9NVzNnU29nTGpSUE9PTHlncFAwLTVVLXIzMUt1RjhMbk9lSF9xaUhBNERWSGFoNkdYVk1BekstRHVENVlvMmFPUDRXQy1kSk5ocnJSR3RlM0pocnE2TjByM0tmZFh5ZFowSF9aWHc2S2F3VlNyYzhYLVpRdjlSODF6cXdYblM5ZHNUVTdBYjhCWGVB?oc=5",
+          "time": "21h ago",
+          "body": "Pat Cummins' IPL future in doubt, availability 50-50, says former SRH batter on big trade with CSK  India.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pat Cummins' IPL future in doubt, availability 50-50, says former SRH batter on big trade with CSK India.com"
+            ],
+            "tldr": "Pat Cummins' IPL future in doubt, availability 50-50, says former SRH batter on "
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794037345312",
+          "title": "3 teams Hardik Pandya could play for in IPL 2027 - Khel Now",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qMkJ5NXY4QzIxaFVYek9HSDhKTjVPRkZCb3F6QW5WLVdxOUJhZkhUZjEyWVBVOWZTMkIyUHdFSTc4a2NXUmRxUXNtYjVGdnR0RjhZRC1WV2NiV2w2M1hYakVBU0pVd1Z3Q245eTRwckRQeF9FX0F6dzJOaF8?oc=5",
+          "time": "15h ago",
+          "body": "3 teams Hardik Pandya could play for in IPL 2027  Khel Now",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "3 teams Hardik Pandya could play for in IPL 2027  Khel Now"
+            ],
+            "tldr": "3 teams Hardik Pandya could play for in IPL 2027  Khel Now"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1794037345312",
+          "title": "Faf du Plessis predicts IPL 2027 captains for 3 teams - News Karnataka",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVA2NTdncjVOR0d0Mm9PR0xEQXhnMFhIcF9TbXEtTVlHSi14aXlBSjFlQmk4Q2Vid1otNUI4M2FoWGdkUTVTWmJWTExTdmh3dmVSOFFFM05leEhqbVhKb2JXcWRHREJqVFFDSU5BX0l3Zm5PeS15Uk5VODJZVXR6NnpvdlA5bHFtZ0RVRHY4RHR2T0hLUkdUMTJ2VWY?oc=5",
+          "time": "Just now",
+          "body": "Faf du Plessis predicts IPL 2027 captains for 3 teams  News Karnataka",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Faf du Plessis predicts IPL 2027 captains for 3 teams News Karnataka"
+            ],
+            "tldr": "Faf du Plessis predicts IPL 2027 captains for 3 teams News Karnataka"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-2-1794037346548",
+          "title": "MP Chief Secretary Ashok Barnwal Reviews PM MITRA Textile Park Construction, Orders Faster Road, Power And - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPM2NMRzZtV1lOaFJZSUxqQU83alVGcU5DZi11T183bzhTOFFpZjNOdWxuM2ZMT214MlJPQkd4QTFHMTlIek5RMUlsNnZORFVwN2dfRDJBZVJsNXhNanZZU2ZTbno1WlpXQkpQcnF5c1MtZ05MMlAycHVfSXVNNGRYelNfTjZyTGVTbGw4S3QyY2R6SE91ZlZjb3pqTy1Xc0N1TnoyZTQ5b29LZXEzekFETFdEY2drTnl6YVY3UElOU09La3VWNER1V2Y3YVMtY2xBUVk4elVGNkNYNFl2SHpFRURiNThlc0VDTDNvMy1DNWNzUHY0R05peFdwWThKMnRTN25DRS1IVkhFY3Jqc0hQWWd6VkpBcjJwT3hBaTBwVi11Z9IBogJBVV95cUxPM2NMRzZtV1lOaFJZSUxqQU83alVGcU5DZi11T183bzhTOFFpZjNOdWxuM2ZMT214MlJPQkd4QTFHMTlIek5RMUlsNnZORFVwN2dfRDJBZVJsNXhNanZZU2ZTbno1WlpXQkpQcnF5c1MtZ05MMlAycHVfSXVNNGRYelNfTjZyTGVTbGw4S3QyY2R6SE91ZlZjb3pqTy1Xc0N1TnoyZTQ5b29LZXEzekFETFdEY2drTnl6YVY3UElOU09La3VWNER1V2Y3YVMtY2xBUVk4elVGNkNYNFl2SHpFRURiNThlc0VDTDNvMy1DNWNzUHY0R05peFdwWThKMnRTN25DRS1IVkhFY3Jqc0hQWWd6VkpBcjJwT3hBaTBwVi11Zw?oc=5",
+          "time": "14h ago",
+          "body": "MP Chief Secretary Ashok Barnwal Reviews PM MITRA Textile Park Construction, Orders Faster Road, Power And  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MP Chief Secretary Ashok Barnwal Reviews PM MITRA Textile Park Construction, Orders Faster Road, Power And Free Press Journal"
+            ],
+            "tldr": "MP Chief Secretary Ashok Barnwal Reviews PM MITRA Textile Park Construction, Ord"
+          }
+        },
+        {
+          "id": "mumbai-city-0-1794037346569",
+          "title": "Bengaluru weather: IMD warns of thunderstorms and lightning as Dhanteras shopping rush raises traffic concerns - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMVFpN3dXV090clN2WEF6MXVqdDg1dW84Q3VjWUZjQnA3ZHFHLWlqeEczYmRJTHV1Wjl4UThMc0tkOHVadmxDdFc0OHFjVFNJb0IzSFByaUhSdXNzWXk4QWxoVUxhdjFoWU42eFNsZmMwOExRVkxUajJfNGFvN0lIWFZDUEZhZ2o5MDR2UUZvTjBWTkZZZXVRaE91VXJsWVRFTDFMckpUbXBvZl8wZDRpbGVOSGdaSVdXYVg0QkpHUV8xNHRYSXB1bUZMTWpUNzhuMFdLZlpkVXNTSlJsdjFCZHpPZFpqUHprQXowak1TWndEcU02d0NDYdIB_gFBVV95cUxQcEJEcDdQMEc4LWNyNVByUkNEaHRJM1lPS09UZW4zTVBXckRfTTZDV0NLR3I3anotZDU1ZklHUDdxMnBoSF9OeG5aM2ExYjd0U0RaZXRtOGItN1VJaFhEYm5BUGtVNnQ1dGNDTUw3SE5FR0FOTHdfQ215NlFRSGJxYUpDTVRqaFJWNy1aOHFrMVlSbF9lUWZiV1BKd3kzXzFLMGdocUU1WEM3REkyaWVOc3FURThPcW9ZNHRycTVFN3Yxa2tXd2JZZmR0cnpmWEVSWkthSE9kUXZTNlYxakRWYWQwRm9Lay1TNkU2WlRRODMwSWVNZTlNY0RlT2hqQQ?oc=5",
+          "time": "18h ago",
+          "body": "Bengaluru weather: IMD warns of thunderstorms and lightning as Dhanteras shopping rush raises traffic concerns  Livemint",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bengaluru weather: IMD warns of thunderstorms and lightning as Dhanteras shopping rush raises traffic concerns Livemint"
+            ],
+            "tldr": "Bengaluru weather: IMD warns of thunderstorms and lightning as Dhanteras shoppin"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1794037346967",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "16h ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1794037346967",
+          "title": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]"
+            ],
+            "tldr": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names o"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1794037346967",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794037346967",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1794037346967",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1794037346967",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794037348195",
+          "title": "FDA suspends 105 food business licences, Blinkit, Zepto among them; orders closure of 7 outlets - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlduQjJvZGZCUVZIUVJ0eXpjYmJvWThzSkFrMDF2RkRVZTd2RmZUbjRxRURZNTgyM25qaG0wVV9PSkpvbWdtT2c1dnhXNGRUbFlHYi1KQkFIVWpKTFdWUzQ4dWF6UmFuREd6SWdtUDNnOUxpQ2ZneXIxOHM3bUMyYXN6ZFFTZUlTeWlMRnJHbUt3WFpYUnVTQlctVklYbUJuenlBOG5PV0xHUnR6R0JWVENSV3VIemczMm1WcEIzY1RCbFc4SmhEVHRfSkROcDhZZ1JqSkFBeXdSQjh2bmp5WWZ6UXpOb1d0U1pDVElPONIB_AFBVV95cUxOcGx5RWhJbUQ3ZlpPeWt1OV9iMmdTNWUzY0U2cmtyeEZqTWtjUmh3bV9sMDJ5SDdudEVTTVZMV2FqTEo1bUg0N0JycnFiaFJGY3ZlSVc2T2Y2ZXRob2hhd2FtUGpNN1VObGowX1YxYzlodzZvcEVwVDNRNU9oWHdzWDNEOW15RS0tVU5VVjJ1UWc1VXdXYWhQUndtTnhoZHdWT0o1c1JjQ2hRYlZzVUl5SU5YVnN6eTFMdU5zSzJmblVoWTlVc1RKNm1PMFBvNGdKS2lTZzNnTl9XZ0dCbTJlSzVfZ1ZsWFVqOTY4UjE2ZXphdEo5UFEwb1FOLWE?oc=5",
+          "time": "1h ago",
+          "body": "FDA suspends 105 food business licences, Blinkit, Zepto among them; orders closure of 7 outlets  The New Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA suspends 105 food business licences, Blinkit, Zepto among them; orders closure of 7 outlets The New Indian Express"
+            ],
+            "tldr": "FDA suspends 105 food business licences, Blinkit, Zepto among them; orders closu"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794037348195",
+          "title": "Tata Projects wins major contract for global automaker's greenfield plant in Maharashtra - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSzRBcHlTeWRtaEVlVkMzbnpVdEpLdFBSTldES1JnLW9jNGJFcVZnZzZud2NZeUZ5WldTS2tzNndia2dkeFVlb1lQQ1JIdlplZ3BDSVZtRDBXcFR3ekpHakotWEU4SEdrUzNjdU81S3p3VHpRVm9NQ0lFZm52YVJQSW5hblgyVElzMzdsTEdzZzFaOHhodkwtSXh2WnBTS09ia1Ric2x1emtvbkdmLXpCVk5ZNEJ4bFBmb3Y3NVNleVRsbm5OeGlnN0J5RF8zOGFJcU5KbzRQNA?oc=5",
+          "time": "Just now",
+          "body": "Tata Projects wins major contract for global automaker's greenfield plant in Maharashtra  Prop News Time",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Tata Projects wins major contract for global automaker's greenfield plant in Maharashtra Prop News Time"
+            ],
+            "tldr": "Tata Projects wins major contract for global automaker's greenfield plant in Mah"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794037348195",
+          "title": "Maharashtra adds 1,066 postgraduate medical seats, 720 in govt colleges; state now second only to Karnata - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRG5xd1hPSC1haGFha2ZBZjBjWVV5Y1RoWEFUSDMxVlN3UmhiM29aSUJhWjlLRkhFZmd3eFMwWW15eUktSGRmOVo5Y3htUUx0SFBrQWxoa3BPLU9QbHhxeGZaVnJHc05tSEhZQW4teE1HN2VtRUc4enBrdGJhemRadFpTSUpmN0VQY2syRGx6TU0zcEtGM01ETzFPdHNUTk9nMWtmSWhlak53OUxFSVBKOU4zVDItQzctNWdxMnNjODRLWnE0OUVOYm84WXJFNHVZaVZfUHdJTFIxQ2V0SFdQR3JKWE5DR3hrOUNKcDJ2aUZvcU8zelpsZk9tc2ZmcVZ2alhtLUdsSFhjUdIBjwJBVV95cUxNcmc2VUVBMHFZVjc3R0ZVZGdzMmpMc2RBRG5KSmJNRHU5cHRSOFNRM1FOdHloUFo2bC04OTF5YkxVdE5qUTF6d0FQMHo3VF95aHpESmtvZC0zd3RXTTV1dFBTSWJsMDV2S1Q3dzVjRTNOZmJHSldnSkNCbUpENmJFMmhKc0gyZWRkTm53MC1IQ29USGJLRGNybTBMZ3pzbzBhdWRKSGdVblNBSXpaQjV4S1hHdE9YYl9DWFdYOFJXWVN3QzZycko0SUlLZlZiZkY1SGRxd0RFeXFic1huZWRic29peTRkZlZmWjB0aHVaLUFRTjVuaUgwaFFySVN6QXpNQ3dmV3Q4V1dMMmJ4RTY0?oc=5",
+          "time": "13h ago",
+          "body": "Maharashtra adds 1,066 postgraduate medical seats, 720 in govt colleges; state now second only to Karnata  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra adds 1,066 postgraduate medical seats, 720 in govt colleges; state now second only to Karnata The Times of India"
+            ],
+            "tldr": "Maharashtra adds 1,066 postgraduate medical seats, 720 in govt colleges; state n"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794037348195",
+          "title": "Maharashtra HSC, SSC Supplementary Exam Dates 2026 Announced; Check Details - Shiksha.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcE42OVM2SlI5TkV2RUNqaEhPOWliMG1hcnNWZlJFLWJZUllkYVFGMDZKdE9MUGxHRndtY1pxWXpvTEx1UlBTMnpOcXNvQkJZVlBfenB4cTgtOXM0b211S21PRDM0VDdPaHB1OF92WDdHS3FCOTdQWTM0V3pHbDE0RWl0RWlqZVNRRUxleTZJUkJNMnZ6Qm5xa082UXJjajlsNV9mZW9XSEZoV1hGaUVfTFFlejdhZXBHbFQ3ajVySU8?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra HSC, SSC Supplementary Exam Dates 2026 Announced; Check Details  Shiksha.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra HSC, SSC Supplementary Exam Dates 2026 Announced; Check Details Shiksha.com"
+            ],
+            "tldr": "Maharashtra HSC, SSC Supplementary Exam Dates 2026 Announced; Check Details Shik"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794037348195",
+          "title": "Maharashtra disburses Rs 4,372 crore Diwali aid to 87.45 lakh drought-hit farmers - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeG5GcE4wc0lJdk1ja2JKeURHeVp5b211QXBvZUJRTXpteHNUeHAtREVnNGFDbEpBc0Eyd0JNdVFDWGE5X1E0Q0hLdjN6UzdHU081NWRNU0gzVTI3TTlJcWFqbVlER3JPYWZMbHVBZTVwdV9nVl83V1NUZVRrQkxEd3JaSjduT3RiODRpdjM3STVlWmljWTl3STA2OGpuN1ZMMUdYa1lfTkZ6LWhUN21MZVE0TldIcjAydlNPSG1iX1lpamlicFd0ZDAzSTFFQ0NlcGwyUmtjRURIQzTSAegBQVVfeXFMTWVRMm1tOHc0WTZFbHQyU1dBQXZoYmZkOHZWOEZqWDJQWWk4YlVWelpJWndGcUJYWGlaVks2VEYzZTBuY21peXRzMHhZRkM3bGNuaE11c3d0OEx3b0RVazFxTUlEYTlVSWo2T1h6WDc1NGlJM05xVEsyRGVWMnZuTXRVMnhpX2lQdXN4V2RCdUJxT0xkZUQ4enM4eVE4MGNLbDVuamJhVnZqM3plTWYxMUFTdzMtZWxrSE1xdEFtS0xvZ05kVGxKamtselRYdlJ4akhaRDlYSE5MUXhJbzZ0Q01nQ21PRlM5Wg?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra disburses Rs 4,372 crore Diwali aid to 87.45 lakh drought-hit farmers  The New Indian Express",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra disburses Rs 4,372 crore Diwali aid to 87.45 lakh drought-hit farmers The New Indian Express"
+            ],
+            "tldr": "Maharashtra disburses Rs 4,372 crore Diwali aid to 87.45 lakh drought-hit farmer"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794037348195",
+          "title": "AIMIM leader Jaleel named as prime accused in Nashik TCS case, will go to jail, claims Sena minister - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaVhXeVh3TnhJbHIyMDBBc1FDTmFZX2p6WFo3Z29MYlVKeXNkSk5obS1ULXJ0TVZ4ckViZDZkNkNqNDRhc3NsaVV4aFJkWmNreXM2RGlHbHA4WThiNEhmRG05NGRKeUw4UWgxWldXd202eGZVVkI0YmctMGZNaURuRzZJVmI4WTBSOUNrWFRxMUR1a2RudjJHNFFNMGs2ZTlwQ0lZWTBWSjlHb1RXWnNxMGVSdS1GMk52c1QxcDFhZnRCdUdidDNTdTVqNUJRZ9IB0wFBVV95cUxPSldNS2lkNjNJMGZjSWVxNkF4ckV6X1V0RV9xczhrZ3ZQaGpuMHlMa3FjSk5BYUxXZHVDMUlJR0RoVloxZnUxX09rUERMbGlJU0pfXzBZWmxqNTllWmUxc3phOGRocTIzREh5S1V2Njg2U2Z6eHdJRFVuek1rcHhVUVAwdktQbGNKSUxGWl9jZE5Tc2xEYnVsMzRMOEN4UHZjelA3SE00Nk9zaGk5VjBweWtnVFMtREVSbVhKY0owNW1QWk4xLWVWXzd2MmRjN0xubjg0?oc=5",
+          "time": "17h ago",
+          "body": "AIMIM leader Jaleel named as prime accused in Nashik TCS case, will go to jail, claims Sena minister  ThePrint",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "AIMIM leader Jaleel named as prime accused in Nashik TCS case, will go to jail, claims Sena minister ThePrint"
+            ],
+            "tldr": "AIMIM leader Jaleel named as prime accused in Nashik TCS case, will go to jail, "
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794037348195",
+          "title": "TCS Nashik case: AIMIM leader Imtiyaz Jaleel named as accused in supplementary chargesheet - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRElwODNOZUNoLS1Dd1NhY0ZNcmg2blhyUzNNLWU3ZEdaeEkxRWpmelkyMURxV2c0XzA0bGJ4TmZzOEk1R0ttVjZzQU04TmE3dlA1anpzRi1PWnR6Wnp5TUt1REpsTHo5TkxOME5kY1pxMlktTll6T0s1dWx1dzhZS1BSbnBDNjZDTnpaOEZVZFl4VjNYMG9RUXVjR3lrdWlQNVJLUV9KNlBqVFhXVU9CQlJLVzUtQU02M29mSUtBdE0wR09yR3VySFQ2WkNITGVZNHN5aUVFSjB0eGhf?oc=5",
+          "time": "13h ago",
+          "body": "TCS Nashik case: AIMIM leader Imtiyaz Jaleel named as accused in supplementary chargesheet  Deccan Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "TCS Nashik case: AIMIM leader Imtiyaz Jaleel named as accused in supplementary chargesheet Deccan Herald"
+            ],
+            "tldr": "TCS Nashik case: AIMIM leader Imtiyaz Jaleel named as accused in supplementary c"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794037348195",
+          "title": "Maharashtra: Beed cracks down on illegal sand mining, detains two under stringent MPDA Act - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdVVIUV9sd2FlVlZ5VDNjbUx5aldPWks2ZF9TblhyN0w3SEZiU3dsMzF4OXVIVHBDbzFJd2d4cGpSdExfcmRMR21qUUgzQ0dZT0VMTDVuQkFiMnh3N2w0WFEzd1U1cXhKeElGT2dNVThHWmNxbFV3cEMwT2lFR2RZVHN0X0xIVEdLemN0SUh4cDZ2R3RUTi12ejl2U0RtSFY0azlPR29pTk5ZWmtHdWhCN0thcXpnMTFIMk53dW0ycGRZVVlkQzAwRWJvYkRoejZ6Z2FtTHdMV2ViOHVhNWc?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra: Beed cracks down on illegal sand mining, detains two under stringent MPDA Act  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Beed cracks down on illegal sand mining, detains two under stringent MPDA Act Mid-Day"
+            ],
+            "tldr": "Maharashtra: Beed cracks down on illegal sand mining, detains two under stringen"
+          }
+        }
+      ]
+    }
+  }
+}
