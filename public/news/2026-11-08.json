@@ -1,0 +1,776 @@
+{
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T07:52:31.313Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794124346153",
+          "title": "Maharashtra CM hints at Gokul breakthrough; Opposition calls move anti-democratic - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTzh4MmRRUW5FcUFhNUNsOHlDRU9RTE41NHVRdkh5UkdpMFZ0eXRKdHR0Wkl6ak44M3g0QlhZMm5mQS15WXNmaDVaSlNsVlFydEE0ak4yWE4ydF9MdlkxT3VTTVpMVGVTcFVsZC1XR2pnSm95YjVTdUpTSjdnMzVsaDVSVjE3RWsxU0N0S1BtMG5BQlhXSk9jN2JVam03VFAwY2c2Y09uRzdNQkVkU0lhMjBJdXhhREJ0NUpwYlljclJ1OTZBeU9YS0t2ekpRSldKSmFyWVJXVHAtV2g00gHqAUFVX3lxTE1KMVRvYmxsZFBieGVycldFbmNmU1pVdmx4NlRKeEVBcGpnUEdUaWcwVXFxWTFkRUdvMDdtSi1EcFhpRWc5MkhDMFh3WWtGeUxiMWdvLVp2S1JwVDFxa2FjdjdrV3VkSHIxSGxsc2ZreGRUQWxKNW5CZEt1U1pHT2dpang0R24tR2VUeTZZTTdCcjNVTnh0R1ctcVBWT0tCNHlfT0wxOWdQdDZhbGNydzZVc2l5TmpTV1NXRk9aaENuV1ZnN0xzTVgwQnR2QTZWc21VS3pobGVqT0RVRkN6ak94eGsxV0NSUWZJQQ?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra CM hints at Gokul breakthrough; Opposition calls move anti-democratic  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM hints at Gokul breakthrough; Opposition calls move anti-democratic The New Indian Express"
+            ],
+            "tldr": "Maharashtra CM hints at Gokul breakthrough; Opposition calls move anti-democrati"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1794124346153",
+          "title": "Maharashtra govt allows offline crop registration for farmers facing survey app glitches - ET Government",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV1NGd3MtT3p2cmd1bXFOMFpQcHBzTVRUajhkeEJTVkVRS2hodHZIdXFYbEdPcmZ6TW45NDJMYlMzNXBoemYzNkZEYnlFdEFzam1jTjNEVUVpVFBKS3FadjQ4ekJlUW42YXFOMzlDTFJIQ3lCSkUxRnp2Wm1kZ25LR0hvelVSakZsSDg4UTRUb3NMdURMVWtLSjIwRWhFOTU2OFlkWEloczF1SlpSNHdpUm4wblpIWVl0NXZuUHhNd2lxUUlXNUVKMkVvTnl3ZGFBSXh0eEU3bWZiUlJuWW10MkY2RzlBbVdWYTFGTzZNT19TVElH0gH4AUFVX3lxTFB6UTRKdkdUUWM5ZXA2NW1yRHl6N0ZHblpudnZIWm9mbTZTdUc2Y2F3Zi1VWWppZ3ZoYVBFT2IxWW1IX2J2eWQtRDdGMEx1eklIVDBmVkVCLWtjYlhNYmZqemN5ZkdtX2g5aGxCRGdGUHo1QkZhRm1rUjFJMUFKQndMTFdJb0poSmJxQ01qdDFJUnhPcG5xYV9uY2ZjYUNDcFZSX2lVdUQ2UVFvVHZvM0ZUQUdha19XR0JKVHFENkRnOFRvR0RJR0JuRGYySmttZVV0STRzRHRkZ0pLck4ySW5UWUlodThiZzcyQmtrd0RzX2NwQmlQSWk0?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra govt allows offline crop registration for farmers facing survey app glitches  ET Government",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt allows offline crop registration for farmers facing survey app glitches ET Government"
+            ],
+            "tldr": "Maharashtra govt allows offline crop registration for farmers facing survey app "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794124346153",
+          "title": "Fadnavis Denies BJP Bid To Take Over Gokul - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2NJNTNEYUpFOUZjeTc0d01uTnVMOTlyemlUeXFwdWpNS0NHLUg5NnBSRGhGa1dYZGtYTVZxQkpTOE9sSUhWVUdCcDRvbmlINVgybkRoZ2FMYVhrNG43UnAtTWRVQ0E5dUhoNk02MHozQjUzWmtlQWJNR01qN2pMNWVYQ0ZhWFl5SkpNTjVIN3pBOFnSAZgBQVVfeXFMTVZFN0Q2a0xxellYMnRIWkY1aGc1akdGa0I3ZFA3UXYyNWd0V3JzZ3QwQWJoQ0xKVWpxcVlzNVdsdW9fWXBrbDA3MFhha0l3MTZ6aE16Z211R0hoa1BaQWk4WllHNGZiaUpHazdvcmFNTUpZTDBzT0JlLUt5UmFYSUo1dXpXVnBud1hLTG1yNnl6ZF9VbFFHZFY?oc=5",
+          "time": "11h ago",
+          "body": "Fadnavis Denies BJP Bid To Take Over Gokul  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis Denies BJP Bid To Take Over Gokul Deccan Chronicle"
+            ],
+            "tldr": "Fadnavis Denies BJP Bid To Take Over Gokul Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794124346153",
+          "title": "ED's move for closure of PMLA case against Mushrif shows BJP govt's 'washing machine politics': Cong - DT Next",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0dqVEtDWGZyR2gwcjNGWTFFREUtVmwyM3g3Y3I0NkJxY1hWOVVLSmVnTE5wa0hIV28yaERlMmdoSUxYcjVZQUVINmtRMzYwd1RnWlBqQUd4NUZhZVRLWE5mZjA5OVlaTW5QQnhvMHd2am84N3dmLWJQT2dLcTRiRmFFSUZNaHl5NDFGakk5dGJXS0tFZnFNdnlLa2JCSHhuZkkxTHRKMXBVRzB2Y1ZWMTdNMEJzNm8tMHBUWmtNMXNWTU50UFN6SXhxRQ?oc=5",
+          "time": "21h ago",
+          "body": "ED's move for closure of PMLA case against Mushrif shows BJP govt's 'washing machine politics': Cong  DT Next",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ED's move for closure of PMLA case against Mushrif shows BJP govt's 'washing machine politics': Cong DT Next"
+            ],
+            "tldr": "ED's move for closure of PMLA case against Mushrif shows BJP govt's 'washing mac"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794124346153",
+          "title": "Maharashtra Minister Urges Well-off Farmers To Return Rs 5,000 Drought Relief - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX3JuM1dOZzNGajRyQmVJbzE5RU5kYnE0RGNHbGZiUVc2M05ZTnMzaHl4ZmpfSnk2Vm5paWZ6Vml6cGhfUTdlQWZyWUppNi1hZUJTU0dma3ViUllhSklqaHdXTkZqRVA2YnBFc2ozZmxEbEh4T0pWT3NNRm52Y1hyQl9zTURCbFFLQWp4NWJBeDRiTnVIRkllVWVKNWZ3YlUtWWxjNlR4V1h4SWJ3UExBT1JWTmJ3TGVWSWdKMG1mcTZ6MHZfUG9tRlJB0gHKAUFVX3lxTE1fcm4zV05nM0ZqNHJCZUlvMTlFTmRicTREY0dsZmJRVzYzTllOczNoeXhmal9KeTZWbmlpZnpWaXpwaF9RN2VBZnJZSmk2LWFlQlNTR2ZrdWJSWWFKSWpod1dORmpFUDZicEVzajNmbERsSHhPSlZPc01GbnZjWHJCX3NNREJsUUtBang1YkF4NGJOdUhGSWVVZUo1ZndiVS1ZbGM2VHhXWHhJYndQTEFPUlZOYndMZVZJZ0owbWZxNnowdl9Qb21GUkE?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra Minister Urges Well-off Farmers To Return Rs 5,000 Drought Relief  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Minister Urges Well-off Farmers To Return Rs 5,000 Drought Relief ETV Bharat"
+            ],
+            "tldr": "Maharashtra Minister Urges Well-off Farmers To Return Rs 5,000 Drought Relief ET"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794124346153",
+          "title": "Mahajan urges well-off farmers to return Rs 5,000 drought aid money to CM Relief Fund - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2JZdUF0Snk1bVZVcUVncXhaUy1WcTNyRTRGcll3LXhHUnJGU3lkLVZIWGk4V3lOU2I3QkxWcnpvaHF3Q2stZWNWRE5oM2JHSkhxNkdVWHZYYzI0eEtUX0l2RHZHOEcyNG9KbDAyRnFmT19JVnNkVzRCSkQ2UmVZc1BsMWJqbXVHc0NxZnV3VWd5a1NpamNrd2txQk0zQXRFWm83OEZJYlJWVHZWQnNUeHVOY1dnQ0UwOUZr0gHAAUFVX3lxTFBISTc3U2hJUUlPSE8zSWladjRiV3NvODFNSmpyWlBFWm1rNWVCbnRkQVRhODhxOV9tdzlfd1N2bW5aQUk3LUVxSVU1MUZTMHBXZFJfUzFPU3Y1a3Jsb2xrRTMtY0pTcTN1TjBQZUZzWXB2cWRmZkhTcGRPRG9QRl9LMmtSdmpURlhtMVdVbWhBTmJWSXFNblZlU2dKXy1aTzlEMTN2YTlCSm5JTm9kWTM0a2FKekQ0c1RHSHlYUG16dQ?oc=5",
+          "time": "16h ago",
+          "body": "Mahajan urges well-off farmers to return Rs 5,000 drought aid money to CM Relief Fund  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mahajan urges well-off farmers to return Rs 5,000 drought aid money to CM Relief Fund ThePrint"
+            ],
+            "tldr": "Mahajan urges well-off farmers to return Rs 5,000 drought aid money to CM Relief"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1794124346153",
+          "title": "Bihar govt directs departments to clear salary dues before festive season - ET Government",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZWFocHN1YWprRk1ONVRSLVU4eHlueHdERUwtZ2U5cTdPY1NidENkV0RncVUwb1JZYUdVSlNORUhIUU5tQWtzQnVCR3N0WHZPY0JZb1hfNTE3d0hQX1RoYy1icHloLTRINzdwdXE0Y1lRVE9XM3B4c21nbEVoT1lmcjhKREROczNnRVVVTkk2U0pYbkpERzRXTERRdlZzeWlQZnJlUUFEdXI0TUtJRDEwUGxaMmZOWHhkY1dTcG1wekx1NFo2WktJTEM1Mnk2TUQtaFV6Q3N6b1ZKQlEteldibdIB5AFBVV95cUxPcm95U0JDX0pQeHpvREtFZ2IyWUpGWWc4RExiZTV3S2VqQjdNWmRST1ltTXQ4a1lSTVpSZWVmd0JBc1o1Y3BfRl83djI4eVd1WW42X1VFU0NZY1I1bGF0U1F5Tm1xaXZ1TEpCRk05ZFp1NmJUZ2NmQ04zUUludUZ6QzJqSzRFbjVNRFpsZUJlVzlTbGZKQWlPaEpTV0hGVGp0eHJUTmk0N3pFb0VwUmc0Sm9ISWg0VGZDYTdFa2VrcWpNTTJ2clJhb3Ewb3E5WFdWMmgtTzY1eUREbFVXZVhXQnk4R3g?oc=5",
+          "time": "12h ago",
+          "body": "Bihar govt directs departments to clear salary dues before festive season  ET Government",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bihar govt directs departments to clear salary dues before festive season ET Government"
+            ],
+            "tldr": "Bihar govt directs departments to clear salary dues before festive season ET Gov"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1794124346153",
+          "title": "Hong Kong pro-democracy leader faces decade in prison - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenJ2dzRaUGVoUU9oTmRyZE9ZRno4Y0NtbUdBVGJQVDZfc25VanU3bW9BSW9fTVpEbHNXM1daZWxnZzRrTFlhck1WQzE4QzdwUF9GcEgyeDFfNldZNEE4ZUdMZ1VpNi1xOTdBUjMyQ216UUhpdTYtTm5WVXo1cWN0LVBnYXhfSGlYeDJIZWpWdG9fc0t6eEVKS0pCR09OZw?oc=5",
+          "time": "23h ago",
+          "body": "Hong Kong pro-democracy leader faces decade in prison  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hong Kong pro-democracy leader faces decade in prison https://www.indiagazette.com/"
+            ],
+            "tldr": "Hong Kong pro-democracy leader faces decade in prison https://www.indiagazette.c"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1794124346051",
+          "title": "Diwali Muhurat Trading 2026 Today: NSE, BSE Timings, Settlement Rules and Stocks to Watch - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUc2c0E0X3BNODZiRE9JSTlDUmE1ODhnVFZncl9MQTcwZGhpQXg5Qnd4bDl2Nnp3Z2plRFNQTVRsYzVRREExelpuYk5ZcXprM25oYVpTeG9uck03WkU2UFlianhBSDdfZUZMV2JDMFNZSjNNS0pVcGFRSnRZRmlzM1h3WGdmaWVOY194b0wtNEtWUGJyVTBVekk4OXhBdVBlTzR5dHdTVlRNcFAzd3VIVw?oc=5",
+          "time": "1h ago",
+          "body": "Diwali Muhurat Trading 2026 Today: NSE, BSE Timings, Settlement Rules and Stocks to Watch  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali Muhurat Trading 2026 Today: NSE, BSE Timings, Settlement Rules and Stocks to Watch HDFC Sky"
+            ],
+            "tldr": "Diwali Muhurat Trading 2026 Today: NSE, BSE Timings, Settlement Rules and Stocks"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794124346051",
+          "title": "Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Posted Gains In 2081 & 2082 Samvat, Will Trend Stay In 2083? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVZTb1hlTWZPSXloLVc0Mmo1WmI1QUQzek5tWFM0cUdSLXpCT2dQV09aSmlVcEhzdXFKU1MtMmFxM19EWjBTUkZIb0hNbmozSk54NmVkSU05SWV4YXQzYkdQeWlZVHVkRTk4Z3V5ZlRNMHZ0bTE4cG9QWFN5ZVNTb0RYTWE2NUVhekhIeGdCZ3pwWmdaX0J4SUJxMUxCckE1SUFlVklVUFBBZzVjeGh0Wi1uLTVFR0tMUVU5c1hlNnZqZjZzYTN0bE5TbjZXeXhJbnc5bE5kZjlYa2li?oc=5",
+          "time": "Just now",
+          "body": "Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Posted Gains In 2081 & 2082 Samvat, Will Trend Stay In 2083?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Posted Gains In 2081 & 2082 Samvat, Will Trend Stay In 2083?"
+            ],
+            "tldr": "Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Posted Gains In 2081 & 2082 Samv"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794124346051",
+          "title": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083 - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZ01CWGZ2eHFnbWc3Vm9zdHpmU3czMldWUVBnWjNqMW0tNXlwdFc1TVlIWGJDQkhpRUdlQ0NBcmVxbzhIT185MWJfcW1SVk1hNkpDRko1akZXQ3c3eDQ5bzhOY0NVMUpGQVZzczV5SWp3XzVrczZfY2dXY2RaY2dYSFFVQ3hyMXh0WEk1NW9BMjNhUERES1NSMktBYVI4MEpaMzBteEdyX0RFU0Z3MHFnQ0JIMkhpSVNqMUFfRnpaVkdMTTNzb20wc1pJUFNSVkxBQ2pyZGFqMHVGQUZ0a3RtM2Z3UXN3Qk9ZZUVEdVF4SnVHLU5jdVlCU2wzUEk5X05LQVJjSUF1LW1OVXN10gGSAkFVX3lxTE9iT0hycDdodV9LZnFRZ2JyRG1DeXV6TlpKaXRKTlB5blg1RExDOWJmTTZCSFZaMDFZX2R6N0R2eDJNMHFicDIxOHN6SkZGR2lqTW54U3BLc2Zzenc2UExVZDM4Tk1pUzVQX0F4cTMxVVdJVFhQMENMdFp6a3p5TndFalBsQVdrVFVLWExLVHNaZWZLSEpXX3Y0dGpFc1RWQ3ozc2MzQTVvalFYRjlHSWlkLWgycm5qaWFZSndmSTJqaks1TnJjZUJ6VnQwRXVwNGdBd0JTc21fZmRDY1hkRHczX2VsR1p6UXo1Wms1LXZ3RTlUTHFDWjROUU9sX0VhRzVqY3psOU9jZ2ZBcWNWamI1aVE?oc=5",
+          "time": "4h ago",
+          "body": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083 Livemint"
+            ],
+            "tldr": "Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794124346051",
+          "title": "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3VQZ0QyMlhPWmZ0Y1R4ZmwyV2dOazdRcmt1bzN4SUhpUlpXcXZOYWRBVVpYaExSQ3Z4Qlp2RlYxTTAzTjBWdks4OGZBaHlWUnI0VUZJMGI3eGFIVlEtSGZ0U2huSGVpZ0hvYVZXb1ZCTkZMQXpycVBqTDJ1MENtbV9KMHg4N2c0cHJvYjRZTlU1VUdKbElHcVVYeGc4alJLSS1j?oc=5",
+          "time": "5h ago",
+          "body": "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Econ"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794124346052",
+          "title": "Muhurat Trading 2026: A Diwali Date With The Markets As Samvat 2083 Begins - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMkI1bFFNdVJqOE1tUG1VZTJkX2Q0SDdUN3RWUGY3NFVWZFJ6cDc2WENuMVpyYjUxR2VnSS1kS0R3Rlo0ODhNZ3E2OHZQQXY2dDFuSlYwcTVwbmZpNm9INDJwekN3OWgzRHJoRHlrUklKeU1mTWdIdVF5aXhhVlpsaDJ1MEpod01hZjJnenBRck5lUHFucjhPbGU3VTEzZEY5aUdOQmpnQjkyVTJJajRZTnRnWUhIVURXZkFtUXRKMjB3UDlWVEpzSUxXcVNnb1YtNzZydHdUSllUNVozODBj0gHkAUFVX3lxTE84X1g5RTA2SG5qZUVpZDllWVV0ODRNUF9QZmkyV3ZnUkxYM0M3SGZrS2tXaURsX1ZBZ1N4LXZQVGxMUUxBOVJMbjJfM1hPa0c4SG5CQllMLWJ4dVlIZ1YyQk9WSW9VVDhMR1JCZ0I1ZXR6RnY1cWhJZFZFc0Jpc3I3RFJCVmhBcG82dVg0MjVIMk9pQnE2ZWNRZFN6Z0xwcXlSOU5NMzFWLUhjc2hnYVowNHp5Y3A4TGUxSTlVMV9Ib0phZ0ozWERJSF9EMFVxd1VSejc1cHdfdEZnSXBFYmVaSW1mOA?oc=5",
+          "time": "1h ago",
+          "body": "Muhurat Trading 2026: A Diwali Date With The Markets As Samvat 2083 Begins  News18",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Muhurat Trading 2026: A Diwali Date With The Markets As Samvat 2083 Begins News18"
+            ],
+            "tldr": "Muhurat Trading 2026: A Diwali Date With The Markets As Samvat 2083 Begins News1"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794124346052",
+          "title": "Muhurat trading: D-St to open for special session on Diwali; check timings - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORFZRYnBxRU9yUXYxNVRIQXZHVUFpaldNV0tqeExPUGh4cDVPNlo2YWNVanNld1F1ZEhKTzZTaHVjdkI2SVl4Yk4xUkNuOXctR3ZjRlBsX2YtTjFmRExFdGwzUF91dEZlbEttOE1sdE1saTRNaVBQOWpUbURYcWI0MHJkRmZiUlZhdklDRWZtc01DNnBlV25fWl9qcVR1SHdxWXhselNKTTRJVW1PTHpxUkRnZHB3QTA2MXM2UlNCcG96ZXp3ZHpPamlqWkIwdWZFcXlWM1loM1FmUWdkRHduUXF30gHnAUFVX3lxTE1PeTg1TktZMmVwbUNDZUptb2ZLWmMzN2ZXVGNHdGE4SFJBTUNSX1RmeEtlbXNxazMzQi1DMU14TzZSU0VucU42VGY1VHJnY1BLT0pDT0tIeUFBN19DbGhuanBzUUk2NUFRajUxLUcwUy1NMXpqYzlqVU94VjlTMnd5WXdLR1R1MGdHT21JQ2JEeG1zMmxJOXlhRm5ub2hQeS04NEVvWFhJNml2LTZPLWR3UnpVRlhVX3Q2bENaWUYyVXh3ZDBKTHRoLUYxWEVlaEZyMDhSNENsZEJjNnZ2bllaWlVaelhQVQ?oc=5",
+          "time": "6h ago",
+          "body": "Muhurat trading: D-St to open for special session on Diwali; check timings  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Muhurat trading: D-St to open for special session on Diwali; check timings Business Standard"
+            ],
+            "tldr": "Muhurat trading: D-St to open for special session on Diwali; check timings Busin"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1794124346052",
+          "title": "Diwali Muhurat Trading 2026 Today: NSE, BSE to Open at 2:20 PM; Check Full Timings - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRC00UnZKMXMxNkNmQ2JlaGhDeC1SREJ4ZmFLOWFqbjQyUElxMWNjVmhNeHBFZFFOOXVHbU94QUdBMklxMElWQ1ZCTTdBQmoyZ3B3dkQ5WkRqRFdndXQ5aE5rbmZ6cmNGTl9xbm94emMycGVqUTBPMTVyQ0JfUF9Sd0NVRUhwSXh2YmJyYTRvQkU0ZlR2aW9NakxSRzQ5TEg0YVZTT3c3Zw?oc=5",
+          "time": "2h ago",
+          "body": "Diwali Muhurat Trading 2026 Today: NSE, BSE to Open at 2:20 PM; Check Full Timings  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali Muhurat Trading 2026 Today: NSE, BSE to Open at 2:20 PM; Check Full Timings HDFC Sky"
+            ],
+            "tldr": "Diwali Muhurat Trading 2026 Today: NSE, BSE to Open at 2:20 PM; Check Full Timin"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1794124346052",
+          "title": "Indian Stock Markets Set for Muhurat Trading on November 8 - www.nationpathindia.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTjdrZFVsaVdwblA5c0dFVFNDZGxvX25TVWRmUXNzRVdpd2FFbTF4dFBaMFc4WkJ6NU9YQXZTdmlLRUxGVm9LVUtsaGEzcGNLOW5hMnRYa2ZjUl90SDc2Q3hoWkpIZFhQdmJ6UTBmN1RHSGcyWkQxSFRoZEhCMlU?oc=5",
+          "time": "18h ago",
+          "body": "Indian Stock Markets Set for Muhurat Trading on November 8  www.nationpathindia.com",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Markets Set for Muhurat Trading on November 8 www.nationpathindia.com"
+            ],
+            "tldr": "Indian Stock Markets Set for Muhurat Trading on November 8 www.nationpathindia.c"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-6-1794124346153",
+          "title": "Costly cure: 138 medical seats lie vacant - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXpNUGxlUnFNZDFIcjFTTUEwX3BTcmVIMV83OEJqbFlJWVBDZUY5dmlMMXlleWptb1pBM2xLY3hXUm1ZQXhxY2VXNGJhOHZsZjM5WGdveHF6bU1zam5hcWpIQWZxWTVVajRnZWpqV18yaDZGaWMzM2RrSHJPOWJHWGZyZkVfeTBab3R5WQ?oc=5",
+          "time": "16h ago",
+          "body": "Costly cure: 138 medical seats lie vacant  Mumbai Mirror",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Costly cure: 138 medical seats lie vacant  Mumbai Mirror"
+            ],
+            "tldr": "Costly cure: 138 medical seats lie vacant  Mumbai Mirror"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1794124347382",
+          "title": "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files - The 420.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjBjT0ZISWFVVmtnVUR2X18tOFlVSlVvNzdVWTNZY3UxLXRqMXN3ZS16MEN1R0JXaGtUbzhXTkZvcXJuSmpNUlgyLXBNRDJZUHlaVVg0MmpkcVdnVE52QTQ2XzU2b19pM2hvc3pNSDVhamgyU0pwMHlQQ2x0Xy1hS1JXUUF3cEpOQWZud1ZSbkdJc3dYeXBEbkVn?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files  The 420.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files The 420.in"
+            ],
+            "tldr": "Maharashtra Cyber Arrests Mumbai Man Over 20,000 Suspected Child Abuse Files The"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794124347382",
+          "title": "Digital Sovereignty: How India is building its own cloud ecosystem to keep critical data within national borders - Organiser",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQkc2NlZ2YV9wZldiSUEtVTFfUk4xTUhwVC1aU3IxZUNnanRWUm4xaFFHUWllOTF5VzR4eU81MF9Ib0x4Nmh6eGstcVVsMWlud05DdmU2aG9WWEdJQUJLWmEzSmRpckw3TVp0WFpWMjRaa2w5d0NGeVBaSlJ5QnlrTWhVclQ1QlVYTkFjWUtTbWNDeThWbHEtempYSUF0aWNFRVlVNmE1WUlKekxwRXlkZFR0cXB1NXB0eER1S0hSRWgzTTlXVkRPaVBsTzhuTFlVSzFacEc3ZmgzaFAxTVhsc3dDSExYa1k0QVl4WjNzUXTSAfYBQVVfeXFMTWVkUWd5Nk5LTlc0SjkybWQyNkFmNHRoclFtUU8xb0d2NjVCdmx1ZE4wZU03Y1BONHNjZVJOLUVQVGhtb1BRVXZ0VUFscmhtZ0hMY215cTVZa3gtcmhOTHBtOXFhbmFtaDhpVEV5Tk9SR3dBTkdjT3pLUVNZUmY1dm0xRVdPUzFqeVp3Q1g1OGxEUnpZRzlRcE1kSklmTHFlZGp2T19tSEJWTC1IVWRvMVhYMXhSSGxMdzhDQzhYRGlkbFcyc2pNRDB0QmdjbmNOQ3NJVnVNMENzS3NuTE1kWWRnMEJQTFhWMm9PcGNObFRrOElRNXVR?oc=5",
+          "time": "19h ago",
+          "body": "Digital Sovereignty: How India is building its own cloud ecosystem to keep critical data within national borders  Organiser",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Digital Sovereignty: How India is building its own cloud ecosystem to keep critical data within national borders Organiser"
+            ],
+            "tldr": "Digital Sovereignty: How India is building its own cloud ecosystem to keep criti"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1794124347382",
+          "title": "Dimension NXG Launches OJAS Forward Deployed Engineering to Take Hospital AI From Pilot to Patient, Six Months Ahead of India's Data Protection Deadline - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPLUNFOE9lU2tyUjlDNGtRNWQxR3loRlIxZ1hFdW5kTGZDU2x4SWtMRGF6amZvcjdkazdXQWFteVFXSktld2JrQmp2c0NQNWh1OUFCaWFONEVIMTNGMDh0Z0xSSlhHMzFBdG1EWHNTNVhKSHVRdHVYdUF2NjV0LXVOWFBEc2tJX0ZBRE5wODViRnpaeDdpWnRPY0Q4TV81NnlJOXo3S29wQXBPRlROd3hTbGNzWGN4VjIzVUl6WkM4T3FlMDRYdXF3aFplX3pjYU85U0FBVlI2elhFcGdaZW5VdEF5RWxoYWZXN2lBVjVDXzJ2bGtSQjZ3aXdYdkRYUHlpVUlqaW1DZzBVRmY5aS1CYk1iUEpaSkRYVUVWY3NWT2ZiZ1pIVnVKYg?oc=5",
+          "time": "21h ago",
+          "body": "Dimension NXG Launches OJAS Forward Deployed Engineering to Take Hospital AI From Pilot to Patient, Six Months Ahead of India's Data Protection Deadline  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Dimension NXG Launches OJAS Forward Deployed Engineering to Take Hospital AI From Pilot to Patient, Six Months Ahead of India's Data Protection Deadline ANI News"
+            ],
+            "tldr": "Dimension NXG Launches OJAS Forward Deployed Engineering to Take Hospital AI Fro"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1794124347382",
+          "title": "Saurabh Kumar Sahu Appointed Managing Director – Business Transformation Services at Alvarez & Marsal - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFA4MlFBcjVhUTd0UUJpMkhqcUllT1IzcWdqMm5COVVFNTZwbXRsaklBNzc4NHp1dGZqZ3g2SjFzbEhKR2JNUmJZWDlPdS1LbWs5bFRsR3pZMU5lX3FiVmFvNnpJUVNlMVk3aW9UNjhtTEV0TS11TWw2ZmxmMy1ZMU0yRHJ2dnBRSko2aHZLNlFjaUNjRUVBdlZGWHFHc21xUng4MGFoSHNjMGMzQkxxRGdPdU1lbk5s?oc=5",
+          "time": "23h ago",
+          "body": "Saurabh Kumar Sahu Appointed Managing Director – Business Transformation Services at Alvarez & Marsal  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Saurabh Kumar Sahu Appointed Managing Director – Business Transformation Services at Alvarez & Marsal https://hrtoday.in/"
+            ],
+            "tldr": "Saurabh Kumar Sahu Appointed Managing Director – Business Transformation Service"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1794124347382",
+          "title": "BIGOD Brings Gold-Backed Digital Innovation to India, Strengthening Strategic Ties with Sattvik - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd3dFT2lQWFIyZDZram9kenF1VG0wQkVEbzctUUZ0aE1SMDV3blJKZHQzUHhraTRPVVdzM29MbWE4UnI5UDhvTDkxUFdqdEVWb1B5VzBOMngyM1BaYnJwcFVhOHNqeFVaT2FzdUtFeC1oRmFfZmk1MkhOSWhpZnNmWkc2dGVCREplNV9VVXpXOVdtcjhFUWRTejdOWG05WTZUSFQtR3FOVGVncmlaUTZTTjVod09CdkxYTnE0OTVWLTF0RldPcGkwMmhrZXZEaHRRczNmcjFZbmLSAdgBQVVfeXFMT3d3RU9pUFhSMmQ2a2pvZHpxdVRtMEJFRG83LVFGdGhNUjA1d25SSmR0M1B4a2k0T1VXczNvTG1hOFJyOVA4b0w5MVBXanRFVm9QeVcwTjJ4MjNQWmJycHBVYThzanhVWk9hc3VLRXgtaEZhX2ZpNTJITkloaWZzZlpHNnRlQkRKZTVfVVV6VzlXbXI4RVFkU3o3TlhtOVk2VEhULUdxTlRlZ3JpWlE2U041aHdPQnZMWE5xNDk1Vi0xdEZXT3BpMDJoa2V2RGh0UXMzZnIxWW5i?oc=5",
+          "time": "21h ago",
+          "body": "BIGOD Brings Gold-Backed Digital Innovation to India, Strengthening Strategic Ties with Sattvik  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BIGOD Brings Gold-Backed Digital Innovation to India, Strengthening Strategic Ties with Sattvik The Tribune"
+            ],
+            "tldr": "BIGOD Brings Gold-Backed Digital Innovation to India, Strengthening Strategic Ti"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1794124347382",
+          "title": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmpXZktxbHJheFAzN01oVkRjb3F6ekk5LXY2c1RhUGtGOFdweDJwcEU3ZklDZ1hOczVXcTE3N3BUdHBYaFVMNE5jeER3RHd0eUZPeDRaS3RsejctQmhXX1M4UGh2V3BLX1BMYnFOMjRUbmlxMkotWW1MMWxucHEwRUlubG02QWtodVJYNkJ3VkZDWHJRVUd2cVgxUGlmbDFMVUJLS0RnU3ZsX2RzMlJqZ3lBRWk3dHpY?oc=5",
+          "time": "1h ago",
+          "body": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited https://hrtoday.in/"
+            ],
+            "tldr": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment "
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1794124347382",
+          "title": "Shailesh Joshi Elevated to Group Head – GTM Strategy & Solutions at Telin - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW5EbjNjMkVUNG1nODBaWVlZOUxhYXByZ1lVNExKdkxPVnM5VVZNMDRxaGhkXy1kWUJ1STlXcTNHVG9GMDV4cVROMHlIdTRmdURtYTBNVGFQREJ5SFIxYlNZNnlwSGZfVHI4U05TdjlQUGhLYWl2aWhLY3NqTDNYaGxCNi1aem1hc0NYWmJ3VV9XOFU?oc=5",
+          "time": "23h ago",
+          "body": "Shailesh Joshi Elevated to Group Head – GTM Strategy & Solutions at Telin  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shailesh Joshi Elevated to Group Head – GTM Strategy & Solutions at Telin https://hrtoday.in/"
+            ],
+            "tldr": "Shailesh Joshi Elevated to Group Head – GTM Strategy & Solutions at Telin https:"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1794124347485",
+          "title": "IPL 2027 captains - Full list of skippers for each Indian Premier League franchise - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVo1Uk5Ed3A3VGU3emxiaGgzTHp1NzFJY3kxWGt5aktBM2VrajVmYTc3Q09QSnhyZGppVFk2U2tlNUNxckhXT1h6OFNIMEE1b25MMThzcmV0MHBJSzA0SngwRnhmVDJweEZlWWJYXzlsd2hEWExRUXZHVDlmbUc5RTF3?oc=5",
+          "time": "14h ago",
+          "body": "IPL 2027 captains - Full list of skippers for each Indian Premier League franchise  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 captains - Full list of skippers for each Indian Premier League franchise Yahoo Sports"
+            ],
+            "tldr": "IPL 2027 captains - Full list of skippers for each Indian Premier League franchi"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1794124347485",
+          "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGRCb09YYjgwY0htWmlGTThSWXhLaHlWMjRjT3FZb1RGdVBMaG04YWVNdFFacHBBTHI5akc1OUJ1LW51WHIta3BubWpzNmVDSGVzdnI0bHdhb2FZTDktN3dZc2EzTWR3WGRLcVpWU2xJRW13c3ZYY3YzOElNUFZWSjVNUmxSNThwQTl1YXdIRmlEbFlqX0VnZlg5YlZRQmgtMGc?oc=5",
+          "time": "1h ago",
+          "body": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794124347485",
+          "title": "Diwali 2026: Gautam Gambhir, Jay Shah, BCCI and IPL teams share festive wishes; see who said what - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZ2o0WlFUS3BMdm1Zd09WZ1NUSDViTklNZHVTdUFPQURCZVhkdTRKTzBkZkhnZks0MUlnN3pIbXNsNHgyd0dmbjJDcndkQzkzSjF0M2Y0cUwydU5mQzVhYnY3SWdpWWtOYldPbGUyel8zSjE4X3JqdzJBRThKY3h5TThhRUttRVV3aVl0TXBSYmNZZVZLd3pJSjFaejRCWV9zWVdqaVl6MEtaNklxUEVhbXY3YlRHc19MQUE0NVRjbHBrWmcxendhaUduMHlxcEhYTGxGRnkzTDFsX2dMeUhNci1CTndOSUxGVmR5eFZ3d3hIemFUNzliMkFxWXVuOXE3YlM3N09vQlpiZUh0WHfSAZMCQVVfeXFMTkxCM3htWUxBVGxtUE1YSXRzdW9sT01QT0ZHODJPNU9VZXVFZHYwZExYVVJTNnRxNVRnaXVGMWJDaExxdXNpWXVENEhTTU1OMWl5bnJhVVBXVmxONDVxTDZGWmU0VlFLUS1VWUQ2UzZrWExJMXlQa2M0ZDBuQzVpUUdMd2M4QndQd3lYcGF0d0xwSzZNUTVsZWhUaEEwd3AzTkZ3T0ZzaTNLUkRWOWtrdl9VT0dHUW5KZEU2Skt4ZGYyRDE1U3BJN25JaDZTOVZGTUlZZGJKVElBdHNuOXBCMGhEaDNtSmtHWlk0SElubFJxWWVhQ3U1TzZ3cEg0aWZURjVrS0FWZ2hGZkZ3bkVzRmxDeDA?oc=5",
+          "time": "Just now",
+          "body": "Diwali 2026: Gautam Gambhir, Jay Shah, BCCI and IPL teams share festive wishes; see who said what  Livemint",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali 2026: Gautam Gambhir, Jay Shah, BCCI and IPL teams share festive wishes; see who said what Livemint"
+            ],
+            "tldr": "Diwali 2026: Gautam Gambhir, Jay Shah, BCCI and IPL teams share festive wishes; "
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1794124347485",
+          "title": "IPL 2027: Hardik set for PBKS switch; MI to trade Arshdeep - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmhiN2ZzOVdpMF9ucmFwdTUtNFg0RGNJREZwWGpNSGgzVWFmQnN6VWZGdUZPYW9rRnRJbmN5Q3V3aFoyZVR3all5WVppcFRMUUliNE40WFdnSng2NlYzXzRMLVlYdG1obnBHU1lYUnVudElmTHN5ckkyZHhVYzNSTWtyWlo2a2hXVlRaOEFndVlYdkhzTzlzcldGV1hyeVppQVhTcmx3?oc=5",
+          "time": "4h ago",
+          "body": "IPL 2027: Hardik set for PBKS switch; MI to trade Arshdeep  Mid-Day",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Hardik set for PBKS switch; MI to trade Arshdeep Mid-Day"
+            ],
+            "tldr": "IPL 2027: Hardik set for PBKS switch; MI to trade Arshdeep Mid-Day"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1794124347485",
+          "title": "IPL: Hardik Pandya-Arshdeep Singh trade close to reality | Cricket - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWh4eHBtUnlhSkFBWFFSZVJmc1U0dzctNzBjUFpOTU5jcEtKSEhUZExSdmJHWmdGRmVVMElpRk9JS21kSUx2dkVHXzdMa1hWWDE2VjNEa2xRbmNUWHViaG1ROU9iWldTZ1BpQWxWc0FiczY0TEVZY3JiOWZxLVpETko3RFRfNDNYS1R4ZHh2eXQzUFRQdTEtQ09qS24yRmk5Ykw4T2NzVWhkRTR2S3hndXFLY09qQdIBuwFBVV95cUxPOU5lR1pEWllCQUxvUk55SkpFcGVKMkRGSmRhU0c0N25nZm1oNFlwTXdNaE9pQjk3NlpPLWlaMEpwNUE3RGJnQmtyZjRCSFlZZlphTGh2YVhwWVRYN1VrOVZ4SV9wdmNvZDlCZUp0TnZyQzFFbV9ha2drQkxlTXF6eE1Oc1NFVXFUZzlSZGp0SXJlM3ZzbjN3VlVoa2NmbUVPUUtiOFB6cS11bjlsdkNEYzNsd2NCY0ZZUllV?oc=5",
+          "time": "17h ago",
+          "body": "IPL: Hardik Pandya-Arshdeep Singh trade close to reality | Cricket  Hindustan Times",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL: Hardik Pandya-Arshdeep Singh trade close to reality | Cricket Hindustan Times"
+            ],
+            "tldr": "IPL: Hardik Pandya-Arshdeep Singh trade close to reality | Cricket Hindustan Tim"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794124347485",
+          "title": "Hardik-Arshdeep trade nears completion, formalities remain - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2ZKUDhhZnhTNkZyOURhb2ZETk5oRE1JVl9CSzF6dzVObWdPZjVvVU9kSkV0RDBxeDNtS3dhT2Rzc2NQcVhCaWpmX3hDTWRfU1BHTEhjQnpabUZfQi1NaEN0V3VCMzhicUdKdEkzS3V6YndPZkswdWNYOFdVNmZIU2RpRGpYQ19yWGxLclN6REpWZUdsdFhZXzVubmFxNVBTWWVmaW1XNmRxLXBDd3JZc1UwUTBaUHRqWk5sMGNiNUtDZVdTamk5RnNYdVdXUGFSSVRPTXRjTHZWeXozTjlZbnNJSEY0Y0pqeVI5Zjd1dnRfRWdKM0dUZg?oc=5",
+          "time": "17h ago",
+          "body": "Hardik-Arshdeep trade nears completion, formalities remain  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik-Arshdeep trade nears completion, formalities remain Cricbuzz"
+            ],
+            "tldr": "Hardik-Arshdeep trade nears completion, formalities remain Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1794124347376",
+          "title": "Hardik Pandya-Arshdeep Singh's blockbuster trade all but sealed ahead of IPL 2027 - SportsTak",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVS1yNHZWamFmeFczWE42ZnVZNkhhU1BJS3MxdWhKazRadWVOWFRlOG9oODFvSzV1OG50NGl4NlZoSlhRclUzN0xVYnhUTTdXMzc5VFZFMDJvV09LTkFQNkpRMldIdjR4amthaVN5eGQyWVBySjB3NDVnQWdpdUZzSEgzQkRuVmJ1RXRsRFZGVmFzRElqWWhDd1R5MTRZNzhmN3Nub0FBY2xpcE9JQkg4ZEdhTl9rWnFUNUM3UTNxdkNzam14Vno2c1Y4bTAwMkJoRnBKSU54akVBZW1XZ0JWTVladEV1NFnSAecBQVVfeXFMTlUtcjR2VmphZnhXM1hONmZ1WTZIYVNQSUtzMXVoSms0WnVlTlhUZThvaDgxb0s1dThudDRpeDZWaEpYUXJVMzdMVWJ4VE03VzM3OVRWRTAyb1dPS05BUDZKUTJXSHY0eGprYWlTeXhkMllQckowdzQ1Z0FnaXVGc0hIM0JEblZidUV0bERWRlZhc0RJalloQ3dUeTE0WTc4Zjdzbm9BQWNsaXBPSUJIOGRHYU5fa1pxVDVDN1EzcXZDc2pteFZ6NnNWOG0wMDJCaEZwSklOeGpFQWVtV2dCVk1ZWnRFdTRZ?oc=5",
+          "time": "18h ago",
+          "body": "Hardik Pandya-Arshdeep Singh's blockbuster trade all but sealed ahead of IPL 2027  SportsTak",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya-Arshdeep Singh's blockbuster trade all but sealed ahead of IPL 2027 SportsTak"
+            ],
+            "tldr": "Hardik Pandya-Arshdeep Singh's blockbuster trade all but sealed ahead of IPL 202"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1794124349728",
+          "title": "IND vs PAK, U19 Asia Cup: Rajput nears ton; India eye comeback",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "IND vs PAK, U19 Asia Cup: Rajput nears ton; India eye comeback. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs PAK, U19 Asia Cup: Rajput nears ton; India eye comeback. [object Object]"
+            ],
+            "tldr": "IND vs PAK, U19 Asia Cup: Rajput nears ton; India eye comeback. [object Object]"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1794124348632",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1794124348632",
+          "title": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]"
+            ],
+            "tldr": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names o"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1794124348632",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794124348632",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1794124348632",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1794124348632",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794124348632",
+          "title": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "14d ago",
+          "body": "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Moved back to India 7 years ago, planning to move out again': Redditor gives reality check. [object Object]"
+            ],
+            "tldr": "'Moved back to India 7 years ago, planning to move out again': Redditor gives re"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794124349941",
+          "title": "FDA seals 4, suspends licences of 7 food units in Chhatrapati Sambhajinagar - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzlYR3BQNlV1RmFIUVFDa1dRd1dycmtXVHk0QzlyZjgyS1NnYnVtMlNwOFZ6Yy1ibkRvZWpyWkNYNHVNZUwzRGhydXlBMTQ0MFZqYUoxSXJrZEFfZjRCYlJwN1U0eDd6X1A1TWlUeFQyeHBFcnBOc1EwMDI2WV9mWjhXVnd1ZGJUX2luVWdxMlRSMGx3WnNOUGROVENKdmJ3RXhCN25manNOQ1AwMlJvNzl1RFZNNVgyVU9NbDJSVWZiVUxtSU42dGI2WlZsbXo2NndTSHI2N1lYMFlQREJMZjMydkN3aDlIMEotStIB7AFBVV95cUxPXzlYR3BQNlV1RmFIUVFDa1dRd1dycmtXVHk0QzlyZjgyS1NnYnVtMlNwOFZ6Yy1ibkRvZWpyWkNYNHVNZUwzRGhydXlBMTQ0MFZqYUoxSXJrZEFfZjRCYlJwN1U0eDd6X1A1TWlUeFQyeHBFcnBOc1EwMDI2WV9mWjhXVnd1ZGJUX2luVWdxMlRSMGx3WnNOUGROVENKdmJ3RXhCN25manNOQ1AwMlJvNzl1RFZNNVgyVU9NbDJSVWZiVUxtSU42dGI2WlZsbXo2NndTSHI2N1lYMFlQREJMZjMydkN3aDlIMEotSg?oc=5",
+          "time": "14h ago",
+          "body": "FDA seals 4, suspends licences of 7 food units in Chhatrapati Sambhajinagar  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA seals 4, suspends licences of 7 food units in Chhatrapati Sambhajinagar The Times of India"
+            ],
+            "tldr": "FDA seals 4, suspends licences of 7 food units in Chhatrapati Sambhajinagar The "
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794124349941",
+          "title": "FDA suspends 43 food business licences across Maharashtra during Diwali inspections - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUjhBdTJObmxMTEVYcHdaZnRJSmRnLTIybE94cVFyRy1TVzJWQTJ4NmN3a1RDVjV0amVaWlVLWHk0ZURMWDExVXRrUW0tejFyMHRFODJwNF9HYzVWTkRIYTZGQ01LN0wtT2ZMbl93empmQ3Vka2RLTW54Sm9XRkk0SnlVMU5mUzFmdThKZ0tTM0NadnlJVE5ab250emRnTDd6UVBfalp4ZWU4cVVFMl9nSmZlaGw5MUtGUFY5TFJXTzVWMDdVdl9yZVZndlh4aTBJdi10UG5sTjJ4Y1NncG9UVHZR0gHnAUFVX3lxTFBxYWVVUkRlWVpmNzNtV0xBR0MweHY4clV6UlQ5RDF6YXpDRGxiajhqRU1WUHlfVmR4V01mUW1ZZTNVa0s3MUV3dldyR25TWFJ3d3hRQ29ONldSd2RqV1MxSWItQkFvRHYybC03SGtwUDVJRjdFelF5MTZVcDgtV25VQnZpSm1jSUo3S3lrWW1VX2JrQzlFbmtrdXNBQ2twLTFvUkVOa0lWREtSWjEzRTRmR1l1Nlk2VW5Dc1cyNnpsUldmWmxtS2wyTzZ4UG5idjU0YzhsNDlfQzFLb2sxSG8ybUdGUkFnZw?oc=5",
+          "time": "18h ago",
+          "body": "FDA suspends 43 food business licences across Maharashtra during Diwali inspections  The Economic Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDA suspends 43 food business licences across Maharashtra during Diwali inspections The Economic Times"
+            ],
+            "tldr": "FDA suspends 43 food business licences across Maharashtra during Diwali inspecti"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794124349941",
+          "title": "Maharashtra FDA seizes Rs 63 lakh food, suspends 43 licences - The Avenue Mail",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1l3T3R3b21QY005cjlWUmhuQnpPVnp3M1dmM3BvSXdmZEV6S1pnbXpmMVBVM29MTmlVSnJDSW1HcktZc2RQMDhBR056V2dPd1dybVFudDZLX2JHM0pSTTJPemdEMWNObVFnaDFuSmNUV0JHM0FzdEZUM0lTeG5yMnBEU1YwakpQaUE?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra FDA seizes Rs 63 lakh food, suspends 43 licences  The Avenue Mail",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA seizes Rs 63 lakh food, suspends 43 licences The Avenue Mail"
+            ],
+            "tldr": "Maharashtra FDA seizes Rs 63 lakh food, suspends 43 licences The Avenue Mail"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794124349941",
+          "title": "Diwali food safety drive: Tukaram Mundhe-led Maharashtra FDA seizes 17,824 kg of kaju katli, khoya, farsan and more - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVdMYmcwOEc4clpnM0dFQldhT1VXUFpiRWJBMnRmRXNGa1dwV21kc1dxYkVxWXlOOEg1NXRscTdCblpjbGVyQTNjeWFxYWRtRTRha2JDaGktcmNtaG1PdlE0SV9mRllpeENHLXFsNVMwQlVjM2ZRaXdVZFBDS1BjQ0stQTVQYXhPVjFMSjRobkFIcUlLV1dad3FHcGp0dXFfWXZQOW1kcjd2bFFoMUl1OGtrVnJJWVplTlVXbWNMaUVFXzNDQWV2bVN0eVJFVk1YazZOSFJGVkc2OWVTdzluWHRSOTN0cldoYzNhc0VhQVN5UTMtWlRHWXBydWdaVGRF?oc=5",
+          "time": "16h ago",
+          "body": "Diwali food safety drive: Tukaram Mundhe-led Maharashtra FDA seizes 17,824 kg of kaju katli, khoya, farsan and more  Mid-Day",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Diwali food safety drive: Tukaram Mundhe-led Maharashtra FDA seizes 17,824 kg of kaju katli, khoya, farsan and more Mid-Day"
+            ],
+            "tldr": "Diwali food safety drive: Tukaram Mundhe-led Maharashtra FDA seizes 17,824 kg of"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794124349941",
+          "title": "Maharashtra FDA Seizes 17,824 Kg of Diwali Food - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWkx4SjBnT2tLYlI3QVUxV24wQkF2MzljNEhpUEU5SHVFNklTRlMzblp3MmJLQUo2VEViMnlrWTlOcmM5aU1GODZTclZ6b3lRS0wzQ3Z5aWlhTWNzbk9zczRERENIQjlSQjAzU2JjcDBMM1NycEllR1AxV2owSHZnVFkzazF0NGtTT3c?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra FDA Seizes 17,824 Kg of Diwali Food  Urban Acres",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA Seizes 17,824 Kg of Diwali Food Urban Acres"
+            ],
+            "tldr": "Maharashtra FDA Seizes 17,824 Kg of Diwali Food Urban Acres"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794124349941",
+          "title": "Maharashtra disburses Rs4,372 crore Diwali relief to over 87 lakh drought-hit farmers - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDA5OXl6b21QQktBUWtGMzJob3N0WHd6enRrVmxGQUxjNUo0NkxMVTZDSlBLTF9qT0NWdjNBNDJRTXJOcTZEaDc4UzI0bE5EV3BLUjN0YW91ZVdoLVVYYmZBMWxnZ1NFcFNLS29mUW5YMUdLdVRYdEhnc1YxTHl5QXg3eTNJNENWN01kbTRkeEd2X0EwODhNUFAxLU1lMXRTamZwNU9zSHQzMnRaU05QRURWMkptVnc2LVpvbDJNNkRHS0lVX0NiSkxGSDh5R2VLWHpHbWUxX0NxS0QwVkN4OUZhYmFqM3FSQXZTedIB8gFBVV95cUxNVTdQYkFoV0Z4N0VxaUNUUnRQWGZZTFhyVWYtZXA1OHlXa1o1Yk40UVdmbGZMUkt0RkJSNjB4dERsd084aElVM2xvREJ3bllZSlRPVV9qT2ljYWUxT09XdDNseElHZWJPaDEyQi1XdHBMY2dCRFdaQUE4SG5UNFZoYUNOaDNtX3BidHV3VHVjVkRNazRIZ2dMLXk1aXFtTGF4ZEpWV0lyM0Y2TzhhVUhFaGlBenBUQ0ZQcjlZOFNHRXZOUkMzRGpkOFphN01EM0xuV0l6aFJ3Y2F4eU1FYVpuZjA3RzZETWg3MXM3d2dyeEZlZw?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra disburses Rs4,372 crore Diwali relief to over 87 lakh drought-hit farmers  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra disburses Rs4,372 crore Diwali relief to over 87 lakh drought-hit farmers The Times of India"
+            ],
+            "tldr": "Maharashtra disburses Rs4,372 crore Diwali relief to over 87 lakh drought-hit fa"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794124349941",
+          "title": "From debt trap to landowners again: Two Latur farmer families get their prized farms back on Diwali eve - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaE52Q2JNcHUyUVN0VGdhYTFRUS1xRUxwZVJaOS1kZmJZYTB5QjZjY0JTSDVuZUFUQmY0ekZBaVFPbnFMUGFNMmxvU21laDFsbnNrdFpvMHJBNXZMamRjMUEwMzNxMlIxZlM2ZkhVcmt0RmxLSDZwZFRwd3VhOXhkb1VjZ3gzb0duUDNDY2k1WjRCOVVpekwzN1ZBaTNpUzJGZjB2T2RHdFhhejhudTNDYVUybzhyNUxNR2lDVXFsMkxUUDZ1NF9YbS1hZHpGM2IxRmtRUTZjUlpyUDlPVGVxYS1yT0JnMmhWV1lJY0JhanRBYV9PVTZpZFRvakJhS0t0QXBrczAzN0NXWFk1c3U3RkNB0gGSAkFVX3lxTFBoTnZDYk1wdTJRU3RUZ2FhMVFRLXFFTHBlUlo5LWRmYllhMHlCNmNjQlNINW5lQVRCZjR6RkFpUU9ucUxQYU0ybG9TbWVoMWxuc2t0Wm8wckE1dkxqZGMxQTAzM3EyUjFmUzZmSFVya3RGbEtINnBkVHB3dWE5eGRvVWNneDNvR25QM0NjaTVaNEI5VWl6TDM3VkFpM2lTMkZmMHZPZEd0WGF6OG51M0NhVTJvOHI1TE1HaUNVcWwyTFRQNnU0X1htLWFkekYzYjFGa1FRNmNSWnJQOU9UZXFhLXJPQmcyaFZXWUljQmFqdEFhX09VNmlkVG9qQmFLS3RBcGtzMDM3Q1dYWTVzdTdGQ0E?oc=5",
+          "time": "14h ago",
+          "body": "From debt trap to landowners again: Two Latur farmer families get their prized farms back on Diwali eve  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "From debt trap to landowners again: Two Latur farmer families get their prized farms back on Diwali eve The Times of India"
+            ],
+            "tldr": "From debt trap to landowners again: Two Latur farmer families get their prized f"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794124349941",
+          "title": "HC quashes MSEDCL’s cancellation of Vidyut Sahayak candidate’s selection, cites ‘discretion exercised in - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOVjZYME94OUxlc3ZsMWNtOUp5cjRsMmFwenNhVGU1dDFaeFlRNjE5VXNTd1NYRGstX01QS0haNUc4YXpvazNSeUtlRmZFYUJmVjBxaThwQ3ZfVFg0U0dWX3hvTUJGWVk1dGhHVVVnaUVxdGtHTUJlczN4eVp4V0ZYYkQzSjF2MkFSSWV0UjNEZTNfb0xDWjU4bmlaVTFmajVJM3VEQlREYTdlSENteFg0ajFlcVhXM2dFbTM5clhNa1NrMGRCdm1IYUlKbXJVdUdUZk5sVnlBQWVjZnN1Z2JmZGJCazVoYjNqY0VtS1JCalNORHdaQlRxY2pLbmd1TFhNWVV2TVcySGRhZjlPU0V3dWVMNTl0V3pBalRmaEhPN3V1ck5FRkthZVhfMWttMVlVWDNv0gG4AkFVX3lxTE9hZ2liZDItTDZ4S3FWcHNlRzNTOTVkSjhYNmdCY0ZVVm15R0swOWl1UE1DMHdVWHQ4VldDVXo4V1IyM1c1TWRVSVpzc2M3blZTd2NRR0M0XzZGVGpJT3AyVEhGUFpxMlR1bVRtT3haSDVwSDc4RlFtUEFYeWNwUmJlb3IxQUpKeDJuYk52SzBNcGd3ZnRjdFZsOWFtMmk1VDdORUVJM0RzSVljS29wdk50QWhJVGF3S0pubFhxbkhybDJUYzktSE9fWFF6cnhmaUl2bkNXQjhycHU0ZTRKYnZMQ3B1U0QwQ1c1XzZnQktvMWZRSWtqTWl5cnBxM0U0c280SzNMNzhkQ2hRWEdYZnZ2U0tkalNDN3BGTlQ4NVdsNm9EUWc2amJYZm5fcS1ieVhORVZQY3lzWg?oc=5",
+          "time": "12h ago",
+          "body": "HC quashes MSEDCL’s cancellation of Vidyut Sahayak candidate’s selection, cites ‘discretion exercised in  The Times of India",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "HC quashes MSEDCL’s cancellation of Vidyut Sahayak candidate’s selection, cites ‘discretion exercised in The Times of India"
+            ],
+            "tldr": "HC quashes MSEDCL’s cancellation of Vidyut Sahayak candidate’s selection, cites "
+          }
+        }
+      ]
+    }
+  }
+}
