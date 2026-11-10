@@ -1,0 +1,802 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T08:47:07.436Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794300421856",
+          "title": "When leadership changes mid-term: How three Chief Ministers navigated political uncertainty - ET Government",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR2NXTVhiczhPXy0xQjNzWlFaUnlaSV95RGZFbXlWaVd4UHRsYzZjWENlakJSdkp0aDhYX3hKaHpkTTJnRkctc1FxTUJ5UkU3NC1pOTZWQTZXMVRLaVYtUXFuZkFTVGU2YVk4VFNqNGZvWV9BdGc2Y24ySVBkNmlNY2hidVB4QzRIYlNIRWJ0UnRla3Z1QTBzRk42MktuOWRuLVRxZDh0Y09jaG5Cb1NpTzVXZGo2VXFqRWhUQmN6TFBlcUdybVpGOXRPTktQNzRPZXduc19KaDhZU21EY1YtN29QUWcxclE5QmY4cGoyVTJxUWczdE4w0gH7AUFVX3lxTFBYX2w5RDNnbXdzdWNVZk5pS2JkOGVYQUg0dGo4czYxNWtwcTlfdnI5cFFTTG9GN18xcDdiN1FfbEU0SGtRMjZwRDdtaURrNGhkUWdDQmJwTVFTX1I2NU5ka1hkNlI3RXJDcElWdWktLVREY0tHRVpIRFlEejZrb19OSW5RdnJkOHRBVl9tMWRMMnlkN1o2Q1VudTctLVMyOWUzSW8ySGdPZFhscElBM25yTG8tYmEycjE3QXd1WnBhbGJfRW1jdzBLakpMVm9SQzh2WTdtaXZmN05xVl9DNU43bW1qVXNuT1RoUVF4d1VhdTNHWUVQdkg1Q1F3?oc=5",
+          "time": "4h ago",
+          "body": "When leadership changes mid-term: How three Chief Ministers navigated political uncertainty  ET Government",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "When leadership changes mid-term: How three Chief Ministers navigated political uncertainty ET Government"
+            ],
+            "tldr": "When leadership changes mid-term: How three Chief Ministers navigated political "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1794300421857",
+          "title": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFBMWm90QU5FZExNWnFYYjVST0hsYk5UNFhsalJyRV9nNlFwMG1ZRkwxckNSdWU1R3QzZGlGWEhZZXphWlBmeG9uc2JaZV9CWnkzbWZnY0tiUUdfM1V4X01tWnNOdFZQSWxHOTJ6Nlk4YVpCczlmMGZ3X09kUGIyZ1NENGVEaXY3MTZsaTdiWFp5YXpUWm9pTG5HamcxOHBoMTFzR1dIWXBqWVJsZTRtcHFOVGJYNUlMU3VkRDBiZEg3QnVGbmpHOFJrTkNJcndubFJHVGI5R2VaYWtyTW5hc3RVc0k?oc=5",
+          "time": "Just now",
+          "body": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC ANI News"
+            ],
+            "tldr": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794300421857",
+          "title": "Farmers protest in Kolhapur against Maharashtra government's Gokul board move - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3hlNFpLYjVQbHh1X0ZUbVVTY1lYeFQ3SEJ4eEZqdU9wTzctb3l2RHMtc0hHbVF3em9hSHZXX3hOXzVMamtZcVFYWUI1M2xTN1RVQV9qWk5ZbkdDTzBlckdLNmpmZXBEa2JtOG9mSHMybkRYQ3BVZ1ZFdUhZVUxnaE9zS2kxV0syZkVjVS1aRXRsaVBxbW9RLU13THNlRUplVzNNSmFnT3ZCM0t6VWFDSzhhRGJhRDVjOUJoWDNkT200MkVORnVJSm93ZUE4S0VKcVFNc2V2Z9IB5AFBVV95cUxNb19yRGJqZXpXYlBrbVFtMTc0ZDB4NjNwZ3JLMkh1YW16c0E1TlhtbHR0aGptMDdBdUhKLXpaMXJFSHJVLXpkNzU1VHpDUG12bjJWdGlGSzdET0hoRzROSlkxa09XZ1RHUXZMNFNacEdGeERidW1QUE9XNEtDdXgzSzdjMVdfTFE4bUNSZllmUDJ3QmN1ZEZLTndhd1laeDgtQVI1dmY5bGl4MUFkWDd4MFVCTTZnczgyeUx1bUdXQmVHRzhQeXhyOGdsY0pZaFdaUGcxTlFmejlWMzc2TEJUeG4ySFE?oc=5",
+          "time": "18h ago",
+          "body": "Farmers protest in Kolhapur against Maharashtra government's Gokul board move  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Farmers protest in Kolhapur against Maharashtra government's Gokul board move The New Indian Express"
+            ],
+            "tldr": "Farmers protest in Kolhapur against Maharashtra government's Gokul board move Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794300421857",
+          "title": "Maharashtra makes daily Roznama records mandatory for all quasi-judicial authorities - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTJ1VURXM3NhY0tfYjVJdVNpc0lUUzhJX1pGLWNiY1B3ZFZBUkhqeDVSc0ctZGlZR2RTaF80MklHUFp4dnRWbFlCZUZ2TDdySUNGWUg5X1hfeFk5OTBmN2YxdTVPZmNoYWYzaWJQTGlxRHJ4SjJRaF93Qk8wZEVsUFU4bktNVndOZVk4NW9Kcnd1N0hscDQwcERVNk5qTU5rV1pkLVYweHZZTlMyLTZjcEE3MXpBdTlySlNkYzNrZmh1eFYwN1F0Y1RENUZZN0N4R3dEQ3ppb00yT2ZkTkNoVnpESVk?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra makes daily Roznama records mandatory for all quasi-judicial authorities  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra makes daily Roznama records mandatory for all quasi-judicial authorities Mid-Day"
+            ],
+            "tldr": "Maharashtra makes daily Roznama records mandatory for all quasi-judicial authori"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794300421857",
+          "title": "Government of Maharashtra Tenders Passage and Drainage Improvements in F North Ward - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1MtWEJQN3p5cFFuMmRVMmR3d2VVUWlFZ2FOdDN0MEo4SnVJMG5EZTVURnhJVmxFSnUyMEtNRlA1STdkUlYxU193SHBVaXh5TVdwTEg0VmQxbGNXU3lObVpsck1XRWxrSUhVczVic25KV3dFbDBDTDVLamd2MU5odnc0eG5Ja0VEWFN6MV9hcHZ5RWx6ZUtiN19n?oc=5",
+          "time": "13h ago",
+          "body": "Government of Maharashtra Tenders Passage and Drainage Improvements in F North Ward  Urban Acres",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Government of Maharashtra Tenders Passage and Drainage Improvements in F North Ward Urban Acres"
+            ],
+            "tldr": "Government of Maharashtra Tenders Passage and Drainage Improvements in F North W"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794300421857",
+          "title": "Big B's bulletproof shield gone, BJP-Congress clash over Bollywood stars' safety - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlZPcEN2Y2psdWJ2enNQTExOYndxUWFTeDJTMTBvWXI1RFBIeVNXRjEyMS01Wm4zR1dNd2VMM2tZM0VwWUpIT2pYLUFUblJ6dktCYnhROFNTN1VSYzYxb2Y2a1dUMFB5aU1RcUxILTNmZGFPdVkwU0l1ZlNJQXhxREJEUDNlLVFJcUhjWUptNFFZMG9oTGpQZkJkQXl2NUdkYWxQVXlZZ1ZnY3NLZFpfYnozWi12YVlyM2F1TTUtRlhUeXJmT0JEZ2l5dVJVLUZ30gHQAUFVX3lxTE5SVk9wQ3Zjamx1YnZ6c1BMTE5id3FRYVN4MlMxMG9ZcjVEUEh5U1dGMTIxLTVabjNHV013ZUwza1kzRXBZSkhPalgtQVRuUnp2S0JieFE4U1M3VVJjNjFvZjZrV1QwUHlpTVFxTEgtM2ZkYU91WTBTSXVmU0lBeHFEQkRQM2UtUUlxSGNZSm00UVkwb2hMalBmQmRBeXY1R2RhbFBVeVlnVmdjc0tkWl9iejNaLXZhWXIzYXVNNS1GWFR5cmZPQkRnaXl1UlUtRnc?oc=5",
+          "time": "14h ago",
+          "body": "Big B's bulletproof shield gone, BJP-Congress clash over Bollywood stars' safety  India Today",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Big B's bulletproof shield gone, BJP-Congress clash over Bollywood stars' safety India Today"
+            ],
+            "tldr": "Big B's bulletproof shield gone, BJP-Congress clash over Bollywood stars' safety"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794300421857",
+          "title": "Mumbai’s new rule for crackers after 137 Diwali fires - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHNLVUVDNWlLSHAzMkFZQmVPdEJ6WDVDSzFBM0ZyZndnSmlXX2liZFdVZnowQmxNZHBnd2lKWFN1SDJuX2FhbTlPZW4wMmVUalpLYU1IUnlwOV8zXzlrTWpTMzNJT0JMMUlkbVhoSVg2cTFUMGlMWGoxLVRFRGEtQ2lDdGF0Sm1qNlJwQTJMZGFNVl9VRklrUHF6YkdhR011ZkdNeUE1RUxYXzV4VlE2MVJTN0l4SXN5STBNU0owdzV4YnNFZ3JzYnlEckY0ZGFfaXZsekhPX2jSAd8BQVVfeXFMT1ZIbWZwM2JuVEpQRTJZbEhpY3FvUktlYjNremMzdW9RT0ttTlJ1b2lsdEo2WWxLVWsySU00eFBwR0M2UENkWjhYSURVZExYWU1GVVNQV1dIODVwNEU3Wm50dXZPLVVHaUw1ZVBYRWYwa3ZaUHRPMzFtRXQ0VlE3bGxVanpuVXZfMWVoU2ZOSUhoRDdMOFJvUVR1amE4WEY3SXVIWVRZTkk4REtKMjI1TTg4R3hlZUlfU2t6a0J4bnZPWVRVRGZNN0ZmVWtmWGJhaW5Sajh3TnVfeVBFcjNTYw?oc=5",
+          "time": "21h ago",
+          "body": "Mumbai’s new rule for crackers after 137 Diwali fires  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai’s new rule for crackers after 137 Diwali fires The Indian Express"
+            ],
+            "tldr": "Mumbai’s new rule for crackers after 137 Diwali fires The Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794300421857",
+          "title": "Rohit Pawar rules out NCP merger talks, says speculation aimed at shaping political narrative - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYjJIekliZ29YQWdkZHozZTVERTJqUmZFMThDQ0d3d3FuSHVQTVV0RGZBNGR1WUZSWHU2XzJEUXdDbG4zcWRXY1RVbjhscjdFeWItZWhydG9oejZTYWxnZW1sOUtIalpoR0Q5MnEyaklrX2hiTzBmX1hfOGZjTUppMzBMeVFSNzBkQ3h2MnRYSXBJeEFWQTRZbmtFcXEzME9Lcl9yUnpBOUZrTzQwNUNJaWZIWG56RFBvQjhHeFBoeFVNdTN3WXlCOUV1Ti1oSEloOVRjVG9FUE1HVVdZYmRfS1l4RDNiZzg0QWFWRtIB-gFBVV95cUxNYV9tRVEyRWpkMl9KTFAySGNxWHJkdm01Ymg5M04yd1hlSGIyVTBidEpDWWphUExPdlJ3YWhtTFZVUGlVbGFIUEdxQkRiRFR2eWFkV0FXZ3o4MEpYTXNZT2s2S1JVV1l5NjFZMXFsSzBBaFh5RVVMTUd4OUNkQ1BnYVZJN3ZMNS0xanVpX3VPak9KQ2p1eFp2TXBCcmthcDdTak56QlJQMnMzemtFODNDSXlSX3BjeUdoY2xkWTJGSFBxT3JMakFjSy11R08tTlp5b2xDR2Uxbm1fdU5GYWtEN0VudFBIbFYyZmttYjlwX2pnc1lwUm5CS0VR?oc=5",
+          "time": "13h ago",
+          "body": "Rohit Pawar rules out NCP merger talks, says speculation aimed at shaping political narrative  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar rules out NCP merger talks, says speculation aimed at shaping political narrative The New Indian Express"
+            ],
+            "tldr": "Rohit Pawar rules out NCP merger talks, says speculation aimed at shaping politi"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1794300421830",
+          "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5",
+          "time": "7h ago",
+          "body": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?  NDTV",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?"
+            ],
+            "tldr": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume?"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794300421830",
+          "title": "Sensex, Nifty closed today for local holiday | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVdINnpLVE1rQ3hndGlKcFRva2djTi03eEFpZXFLMXVlVlJwRkRzWldDcno2Vk1ocktaTkVCZFEyRXg1YWNVbnp0Q3p6dkNMa1dPbmtqRm9RZFNhakl5Vk40SnFPWUlqSFJ0WFNJaW1lU0J6QWdELTBBZ3FIZ3JxZEU2aWJCWTJ1QkE0bEl3UHpwbEpNSVZyMS1UenF2YUxlY0NhNGhwazBGSkExSFBkRTZIbDJsYjdfRTh2T3ZYcWVfLW94OVhwSDNoQXBCb2ZGYlMtMFRLSjh4bE9wVVJyYjUxbUJKVDdYVEhJby1tONIB9AFBVV95cUxQMDdmMk82Z0xZTXoteWxNRi1aSDAtdHZXcERFdk5pYWVKT1EyT0dqNzF2TjRXUmgwczI0SGsxeTcwQ1hFZE9CREI2OTRhLTZXLW9rSWlQYzMyb19iU2ZCWWphRkdBeWZxQzVNbGNxaE1QazlKUVU5MGpKM3dadTZGbzRhUWxNSW5nbUZ0QVY2c1RMR1FHTFROQTBTbGZYTmJXbkZIbWExZGZFTWNZTzZwMHFJUS1xT0NBSXBlNjN6aTRaOXNlY0NmZWpUUHVZdkkzU2NEbUhMa2NmeGV4dFQwZkJhTlJ5N0p6dG1BSDBMS0FnYU9T?oc=5",
+          "time": "5h ago",
+          "body": "Sensex, Nifty closed today for local holiday | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty closed today for local holiday | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex, Nifty closed today for local holiday | Business News Hindustan Times"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794300421831",
+          "title": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
+          "time": "7h ago",
+          "body": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada?",
+              "Check r The Economic Times"
+            ],
+            "tldr": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwa"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794300421831",
+          "title": "Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed - INDToday",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nUjNObUhaeHZvNmRBRGNxTWp0MnZEMm1CTXMwa3R5TTEzVkNVbUFCd2ZyazJOTnZudVFwMkVJMmltajY0RkJjWGl5VXhVazZTNlUtMkhkYjZ4ekt3UWVjQXFjY25QZTZfTlE0YVJ2N3V1WEFRc0lJUlFWaw?oc=5",
+          "time": "4h ago",
+          "body": "Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed  INDToday",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed INDToday"
+            ],
+            "tldr": "Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed INDToday"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794300421831",
+          "title": "Stock markets end higher amid easing crude oil prices, buying in banks - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlc2RGVVTjg3WTE0TkV6X0dwRnNDcGlZbEhEdEl6SlFJNFNNUk1fd0drMEFYVGJLQll5eHNKd093Z0pIQnhlSG5BMmRhODUxa2pBREZLcDBUV0pWbzNBY0dNejdPNVZNM2pXNUdjMU9XX3VmcS1fOFlEdE1jSGNwWU01YzQ1YXNOQWltQmZYWU5jWjR6TjNzNGdJMG9jWnFHUC1kWnVoREJwRVUxc3pOdnZHNk5qQmt1NmFrZndRc0k?oc=5",
+          "time": "20h ago",
+          "body": "Stock markets end higher amid easing crude oil prices, buying in banks  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets end higher amid easing crude oil prices, buying in banks Deccan Herald"
+            ],
+            "tldr": "Stock markets end higher amid easing crude oil prices, buying in banks Deccan He"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794300421831",
+          "title": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5",
+          "time": "16h ago",
+          "body": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains INDIA New England News"
+            ],
+            "tldr": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains INDIA"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1794300421831",
+          "title": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5",
+          "time": "22h ago",
+          "body": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada HDFC Sky"
+            ],
+            "tldr": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1794300421831",
+          "title": "Stock Market Holiday 2026: BSE, NSE Shut on Nov-10 for Diwali Balipratipada; Check Settlement & What Is Open? - Goodreturns",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcDRUVnN0ZWZKM1ZkOVBlV1E3aFFxVDJUdm9uSGl4OU9tdVlrTmNSOTd0TFZ2dWFqcHlVZ0pKLVJ2U3JpZGNqSkRkRkhSY3MzeHo0UEdOMXdSQzVCZVdDRGJ1R0FWVDdXNFJSanI2bEZDdnh1b05uMkxCSWl2OUFfVnV6VlgteV81aXFwdlBfd1luMElhdF9ncWJTc1dodEY5WTVEYmlCRThvU0o0TWdfd2NsanQ2Z0F0bXlodEZ5UXBqc2NBZWZwOThQNndheWJHY2s3Z3JfNmZ3V3EzVXc?oc=5",
+          "time": "10h ago",
+          "body": "Stock Market Holiday 2026: BSE, NSE Shut on Nov-10 for Diwali Balipratipada; Check Settlement & What Is Open?  Goodreturns",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Holiday 2026: BSE, NSE Shut on Nov-10 for Diwali Balipratipada; Check Settlement & What Is Open?"
+            ],
+            "tldr": "Stock Market Holiday 2026: BSE, NSE Shut on Nov-10 for Diwali Balipratipada; Che"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-0-1794300423221",
+          "title": "PAC 2026 deliberates on the need for pharma MSMEs to implement AI-enabled quality systems - Pharmabiz.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OdS1uVGN2WWRIT29kb3J4YVduX09xU0xuRW1PM3JPVFU2YmhzRHNPT0ZqX0VQZENJV2FER1RGUE5DUXUxMmhOZGRfS1VpRG5rbDI2V1VQbGEwRHk2bGd6eDVxc2EwN0t3TkhN?oc=5",
+          "time": "4h ago",
+          "body": "PAC 2026 deliberates on the need for pharma MSMEs to implement AI-enabled quality systems  Pharmabiz.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PAC 2026 deliberates on the need for pharma MSMEs to implement AI-enabled quality systems Pharmabiz.com"
+            ],
+            "tldr": "PAC 2026 deliberates on the need for pharma MSMEs to implement AI-enabled qualit"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794300423221",
+          "title": "AI set to be the next big brew as tea industry embraces technology leap - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUy1hOEtaekduQUZuVVY5UjhsMFQzTmdvYUxhT0NDOGlzOUhnUTZDeWJRci02c0lJVGxUX0ZTVnFOUk9rRXJ3LXlYRDhTd2tLY1lCWEtCMnVCRjQyS2FtdlVPMktHVmhhLWdkM2trTGNRdlhNTkV4UG5GVlJrTjUtLVNCSU9NcjlPY05SQ0N5Ul8tZnR6ODVhSjMzUEVtUDJXeEEzZkhfVHdvSC1HNElQSXY3U0xiRWlRQ2VRMDZSSThja1Y3UG9VNW1uVnA5Zlc4S3hXYy1nWDRVMFh5QloybDI0YVJWd9IB5gFBVV95cUxOUy1hOEtaekduQUZuVVY5UjhsMFQzTmdvYUxhT0NDOGlzOUhnUTZDeWJRci02c0lJVGxUX0ZTVnFOUk9rRXJ3LXlYRDhTd2tLY1lCWEtCMnVCRjQyS2FtdlVPMktHVmhhLWdkM2trTGNRdlhNTkV4UG5GVlJrTjUtLVNCSU9NcjlPY05SQ0N5Ul8tZnR6ODVhSjMzUEVtUDJXeEEzZkhfVHdvSC1HNElQSXY3U0xiRWlRQ2VRMDZSSThja1Y3UG9VNW1uVnA5Zlc4S3hXYy1nWDRVMFh5QloybDI0YVJWdw?oc=5",
+          "time": "14h ago",
+          "body": "AI set to be the next big brew as tea industry embraces technology leap  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI set to be the next big brew as tea industry embraces technology leap The Times of India"
+            ],
+            "tldr": "AI set to be the next big brew as tea industry embraces technology leap The Time"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1794300423221",
+          "title": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTmpXZktxbHJheFAzN01oVkRjb3F6ekk5LXY2c1RhUGtGOFdweDJwcEU3ZklDZ1hOczVXcTE3N3BUdHBYaFVMNE5jeER3RHd0eUZPeDRaS3RsejctQmhXX1M4UGh2V3BLX1BMYnFOMjRUbmlxMkotWW1MMWxucHEwRUlubG02QWtodVJYNkJ3VkZDWHJRVUd2cVgxUGlmbDFMVUJLS0RnU3ZsX2RzMlJqZ3lBRWk3dHpY?oc=5",
+          "time": "3h ago",
+          "body": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment Enterprises Limited https://hrtoday.in/"
+            ],
+            "tldr": "Ashutosh Shukla Appointed Head – Operations Transformation at Zee Entertainment "
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1794300423221",
+          "title": "Navi Mumbai’s land records to go digital by April 2027 - Newsband",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTNKX2l1SGEzRmVvUi1uQmhwby1yU2VMSE1qWGJVUkN2Nk5DbXZ2a21sdXA2eU4tRGZ6Z09FYkJ6aEQ5enJBb3Y0MVhfU3F3NjEwa2lVbTdEY2NBS3VkTENuS0lsQzBCU2l5Qkk2SnpBU1VuYngtNkJkQnpBQmtKcVpUVGY5Qnd0VHoxTnA4NzJGUQ?oc=5",
+          "time": "21h ago",
+          "body": "Navi Mumbai’s land records to go digital by April 2027  Newsband",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai’s land records to go digital by April 2027 Newsband"
+            ],
+            "tldr": "Navi Mumbai’s land records to go digital by April 2027 Newsband"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1794300423221",
+          "title": "Surat student wins prize for tool that predicts groundwater - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT296VWNrd1NXVnpLZ0lzZnBVa19DaUdoRWUxNGloSHRseVRTYXYzYkVrNFB6bW9QUGpiSDBFT3dpVW40WElxQXhrNjc1WUdFVUYyQjl3bHJZM0ZKbkRtWWMtdkwybWpwdjVyS3N5VW16WDlSdTdyZHczLVFGeXFPRHF6QVRnbE9YNENLWUp0aXdlWEw1M19ha3BsWVE0c2dPS0dUZElyS1p0N19WN1dYX0s0SDJQWmo5RUZGaGh6ME5NZHhNMENQN0ZBUThQSVXSAc8BQVVfeXFMT09velVja3dTV1Z6S2dJc2ZwVWtfQ2lHaEVlMTRpaEh0bHlUU2F2M2JFazRQem1vUFBqYkgwRU93aVVuNFhJcUF4azY3NVlHRVVGMkI5d2xyWTNGSm5EbVljLXZMMm1qcHY1cktzeVVtelg5UnU3cmR3My1RRnlxT0RxekFUZ2xPWDRDS1lKdGl3ZVhMNTNfYWtwbFlRNHNnT0tHVGRJcktadDdfVjdXWF9LNEgyUFpqOUVGRmhoejBOTWR4TTBDUDdGQVE4UElV?oc=5",
+          "time": "22h ago",
+          "body": "Surat student wins prize for tool that predicts groundwater  The Economic Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Surat student wins prize for tool that predicts groundwater The Economic Times"
+            ],
+            "tldr": "Surat student wins prize for tool that predicts groundwater The Economic Times"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1794300423321",
+          "title": "Why Hardik Pandya Could Be On His Way Out Of Mumbai Indians - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDJUa0tNWjh3eURyRjBVcWJGVllxWjRVWEhhSVlsa1o1amZUX1l4M0lmbFhRNmZUS2pFRWJwV0l4WmJtUTFPVFFoZkFQaUR1cXV5c1NleHRfLWxnSVBLWWpLQlJEV0R2d2JNdGZhQ3FNazRHQW1fWHRPNmpoWllZM0NZeWgzRUVmdHZPZTRkNHRxdnY3VC1rSHNqcmNfeHQxTEJYTHMtZldzSGxjVWxZ0gGyAUFVX3lxTE5FYXR1RUJDR1pBbzROMmh6dEp2NF9NVUc0UHd3Tmk2SWs0Q0pnSHpyRGxvY2R2WnZmR3pkem1HekgxdVE1NjJfYy1hTE1RV1hoRDh1Z3Zvd29GeFJuSDhHMTVZOXJDbENVVjdTVzZmbFlMRjFqNUoyX29Ua0tCcFRWT1o3S0ZtQ0lPc1ppZ3pWTV83cnVIeXRWVVluVnhtWURRdkc2ajZSUDkzRDlGU2hGVHc?oc=5",
+          "time": "1h ago",
+          "body": "Why Hardik Pandya Could Be On His Way Out Of Mumbai Indians  Rediff",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why Hardik Pandya Could Be On His Way Out Of Mumbai Indians Rediff"
+            ],
+            "tldr": "Why Hardik Pandya Could Be On His Way Out Of Mumbai Indians Rediff"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1794300423322",
+          "title": "Mumbai Indians Squad - Auction Tracker IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95emdCR0FFZ0JuUU1fNEZHRU1ydFQ2VlJyejlwMmJkUmtxU08tcl9wWXpNem9nbThydGVJNEo3ODNYYWxVM1pLR0NGcWFQekFicmtzckVmMVpsWmZXTVo1WmlwUEM4cWtNdm9MR0dnazNHUUE?oc=5",
+          "time": "5h ago",
+          "body": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Mumbai Indians Squad - Auction Tracker IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1794300423322",
+          "title": "Arshdeep's Father Confirms Move To Mumbai Indians - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnVfeEVfQ01GWVlfU2JjRi1oeFJXSmdUaVh0X1ExMGZGR2tzRVJ3T1Jtd1NITTJVSGFzZ2tsNU9taERhcHZ6Y3RXR3RLR3ZQU0Uxd0JoMzZ5cEktMXFBZTBKSkFFS2c5cV9NWTk0eDlsRFlOQmljUmlZS2I4NjFqOEIwUWVTU1R2MWhvUFRmem96NnAzekxoRlc5eGlPcm1Y0gGjAUFVX3lxTE1yM3ZweTNVNTdGdGE4WkdPb1NDUVVreU0xTUZ0MEY5UFl2NWpLbjE1dlZxM05JTWs5cmNDcExhNHBkbFNqc3NLMlRZWlhfempPaWJvbU9Ka0ZleGJEM2VIbDhRUXdvZFZOQnoxWHQtZnJQS2t1RDVhb3ZEU1dpRUdWTXpwTVJrak5zSTZiYmVrNGNiZmRibGZvWXBCTWw1ZmZXMmM?oc=5",
+          "time": "1h ago",
+          "body": "Arshdeep's Father Confirms Move To Mumbai Indians  Rediff",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Arshdeep's Father Confirms Move To Mumbai Indians  Rediff"
+            ],
+            "tldr": "Arshdeep's Father Confirms Move To Mumbai Indians  Rediff"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1794300423321",
+          "title": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, PBKS move - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGsyZEplbkRfM0w2dFcwYjZqZkgyVm1YWm5IaU9vSW5TdFd2b0gzT0E0NUZLRDhTbzN3Tm1aU1pvS3hObkV3cGx0WHRzYXhrWnNScE15MVFCaVRFVFdSSzB1SktfdTVMZzlnNnVhWHFvUkQ5Ry1XRTFPMkZFUl9MTXFWd0djM251SEE?oc=5",
+          "time": "2h ago",
+          "body": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, PBKS move  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya linked to CSK, DC, PBKS move Yahoo Sports"
+            ],
+            "tldr": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya link"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794300423322",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "2h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1794300423322",
+          "title": "Abhinav Mukund urges MI to sign Indian wicketkeeper-batter for IPL 2027 - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSG5GbktsenRwaU5WVnhjV0xPcmlFcHdHbTRMN3RXaFl5amlBYWpEWUc5YWswSXloVlE1cGY0WUpUdXJ0aks5cHM0MlFTS1Rrd1ZrWkkxSDVuLUphQlFnbHczVXZLMlJKMDJ0N3BGUFZ4cndNNFhPUHlwYWpPdG56MVhKYnlpeUp1aDhjcGptYkdsbTNZenZQUlN0X2ZDQzhfR0xzTUQ3YlcyU3dkZWZHbEt6NndOSW8?oc=5",
+          "time": "1h ago",
+          "body": "Abhinav Mukund urges MI to sign Indian wicketkeeper-batter for IPL 2027  The News Mill",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Abhinav Mukund urges MI to sign Indian wicketkeeper-batter for IPL 2027 The News Mill"
+            ],
+            "tldr": "Abhinav Mukund urges MI to sign Indian wicketkeeper-batter for IPL 2027 The News"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1794300425905",
+          "title": "Under-19 Asia Cup: Aaryavir Sehwag, VK Vineeth power India to 309/7",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "4h ago",
+          "body": "Under-19 Asia Cup: Aaryavir Sehwag, VK Vineeth power India to 309/7. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Under-19 Asia Cup: Aaryavir Sehwag, VK Vineeth power India to 309/7. [object Object]"
+            ],
+            "tldr": "Under-19 Asia Cup: Aaryavir Sehwag, VK Vineeth power India to 309/7. [object Obj"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1794300425905",
+          "title": "India vs New Zealand: How weather spoilt families' day out in Hamilton",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Persistent rain and repeated delays disrupted the third ODI at Seddon Park in Hamilton, with both India and New Zealand players waiting for the weather to clear. Despite a brief improvement and revised timings, another spell of rain forced abandonment. Fans endured hours of waiting, catching only fleeting glimpses of their favourite cricketers.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Persistent rain and repeated delays disrupted the third ODI at Seddon Park in Hamilton, with both India and New Zealand players waiting for the weather to clear.",
+              "Despite a brief improvement and revised timings, another spell of rain forced abandonment.",
+              "Fans endured hours of waiting, catching only fleeting glimpses of their favourite cricketers."
+            ],
+            "tldr": "Persistent rain and repeated delays disrupted the third ODI at Seddon Park in Ha"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1794300425905",
+          "title": "Aaryavir Sehwag joins Gill, Agarwal in elite list with stunning 160 against UAE",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "In a dazzling display of talent, Aaryavir Sehwag smacked an impressive 160 runs against the UAE during the ACC U19 Asia Cup. His formidable innings featured 17 fours and seven sixes, paving the way for India's dominance. Partnering with VK Vineeth, they amassed a substantial 193 runs for the second wicket. However, he narrowly missed breaking the record for the highest Youth ODI score.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "In a dazzling display of talent, Aaryavir Sehwag smacked an impressive 160 runs against the UAE during the ACC U19 Asia Cup.",
+              "His formidable innings featured 17 fours and seven sixes, paving the way for India's dominance.",
+              "However, he narrowly missed breaking the record for the highest Youth ODI score."
+            ],
+            "tldr": "In a dazzling display of talent, Aaryavir Sehwag smacked an impressive 160…"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794300425905",
+          "title": "No play in Hamilton! Rain washes out third ODI, India remain 2-0 up",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "The third ODI clash between India and New Zealand was marred by rain, resulting in its cancellation. Indian captain Shubman Gill opted to bowl after winning the toss. However, persistent rain caused major delays and eventually forced the game to be called off. India holds a 2-0 lead in the series, with New Zealand needing to secure victories in the upcoming matches scheduled for Mount Maunganui.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The third ODI clash between India and New Zealand was marred by rain, resulting in its cancellation.",
+              "Indian captain Shubman Gill opted to bowl after winning the toss.",
+              "India holds a 2-0 lead in the series, with New Zealand needing to secure victories in the upcoming matches scheduled for Mount Maunganui."
+            ],
+            "tldr": "The third ODI clash between India and New Zealand was marred by…"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1794300425906",
+          "title": "Sandpapergate row: Starc stands by his version despite Warner backing Khawaja",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Mitchell Starc has once again addressed the controversy surrounding the 2018 ball-tampering incident, reaffirming his stance since 2021. Meanwhile, David Warner has backed Usman Khawaja's assertions, labeling them as the truth. He expressed his disappointment over the lack of in-depth scrutiny during Cricket Australia's initial probe. Starc denied any involvement or knowledge of the tampering, insisting that the bowlers were kept in the dark about the matter.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mitchell Starc has once again addressed the controversy surrounding the 2018 ball-tampering incident, reaffirming his stance since 2021.",
+              "Meanwhile, David Warner has backed Usman Khawaja's assertions, labeling them as the truth.",
+              "Starc denied any involvement or knowledge of the tampering, insisting that the bowlers were kept in the dark about the matter."
+            ],
+            "tldr": "Mitchell Starc has once again addressed the controversy surrounding the 2018 ball-tampering…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1794300424591",
+          "title": "Atal Setu–Mumbai-Pune Expressway Connector Achieves 67% Progress; Elevated Corridor To Cut Travel Time By Up - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaEJIcGlYTGxMNDJudmVJS01sTnlNM2twZC1IMk1MZjJnUlJKVWlDVVdEQzlSTjVOVmppT2Jkc09RZ0NOYXlXS2ctRm5Qb0o4YmVFYlZQRVVrZ0oxXzJibGhsbWxSYXBQa0pwZGczWHY1czVKc1Y4Yjk5UURyTVpXRWpnNjFZM2xqVVdhSllCTklLMjloSk8wOHJtYXF4djQ4X1JERWtzbXRxYlgyX2RrbU56aUJZczh2ZGpZQ2R6ZC1UMWZGU011Qml4V2pacEhFdUNMRlIyM2w3TDJJM1R2TWNHdzM3OWZXdmxGVGRTTUQ2T3ZkOXk1VzJzbmR4X3JabTFVaFMyZnRXZ9IBjwJBVV95cUxPNVF1OXg0elVTcGJjZnVJUXkzWkJYdHRMVUdOdDNRZVVUYV9qYmUtdzdkWS1xT2lUZmlGUTI4ZWlxRlZseGRXMkxrS3d5ZFRPZGIyRzUxQWRUUkxFV01TRGh0UnAzX2NuWHdhUEFqTTluY3NxUllrOVFaTGJId3NwLXhZS29PUXpQczNlUVNNM3EyaFFJVDZJSkRrcVh0dUZfT1llSkxiSXJpMHBGUW1kcE1sUDJSMTlOQl9KZTZjXzRBOHJoYXRPSy1tZURyRS04eGRkem4xQks5VzF3NUpSYXpNeXNCM3RMVzU1SXljMHRfdVpVN1gwVlB3MlJUZF9KSkhvMHRERU81emJ3U2Uw?oc=5",
+          "time": "23h ago",
+          "body": "Atal Setu–Mumbai-Pune Expressway Connector Achieves 67% Progress; Elevated Corridor To Cut Travel Time By Up  Free Press Journal",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Atal Setu–Mumbai-Pune Expressway Connector Achieves 67% Progress; Elevated Corridor To Cut Travel Time By Up Free Press Journal"
+            ],
+            "tldr": "Atal Setu–Mumbai-Pune Expressway Connector Achieves 67% Progress; Elevated Corri"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1794300424482",
+          "title": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "18h ago",
+          "body": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]"
+            ],
+            "tldr": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1794300424483",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1794300424483",
+          "title": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]"
+            ],
+            "tldr": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names o"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794300424483",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-6-1794300424483",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1794300424484",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794300424484",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "16d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794300425929",
+          "title": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra - Machine Maker",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkRneDA0WVBNbXZScXRwLU5XNXNZYzdhenN6d0NzTHlmVm9hQzVwUVpxaVVmYXFEQkhGMjZlYm5HM0V1eGRDd3czUnNBejFkR0kya3NaV1A1VG1Bci1GRUxwbkU0OXZWZWhLa19sZFN4Um95QUhXeTRzWWdHSmlpbmt0YkhkTVZPWl83YktCVDhaSktKZnlZOWlxYkRRWmpGZXR1VThFbkdXbnpVaklqQ1BDN2g?oc=5",
+          "time": "Just now",
+          "body": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra  Machine Maker",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra Machine Maker"
+            ],
+            "tldr": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra Machin"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794300425929",
+          "title": "Land, cheaper power: How Maharashtra plans to attract foreign universities - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHNHNWJycTdTbWd6Y2RYREhPWHp2aVlhX2duOFc0emZ4RG55S2NQSlBYMzQ5N25DWVRtVVVlbHpKd1ZERldmOTZXQTBWd2k4Vmh1ODFacTlNZFlSQkhLX2VleEg2RDNTcTVWNmgwRGhLck43aDNkMW9zby0zRktENTBUUVh5bmdqWGRPM3NDMmFFcWdEVUVPSkZnNEIyNWpKWFlUa1RhaHdpZWZhVTd6dU5QbldhckQ5cUMxZXZMUnBFNnUyYWFldzdR0gHQAUFVX3lxTE4yeTVabmY3NUVMc0lTejNvZk5wZGk0eEVGWFVJdmpRUzYyel9IWkdfb01fSjJPNWZCNXFFa2tyTWp5bkh6ZldoYjQtX0pQdE85azMzOERhdUpjYnNLVjd4RWtKTlRmUlp2THBZd1ZMakduVnlHMUY4TkdGVHJkV1B3dFN1Z1pVY2wwWk1kd0VOcThhT3VjeW9mbV84Yi1wVHIyRTRnMXlRRGZ2NkVIR0hNdFM5NlRNbHJ0aUhKczV0WGt5bTFKWmNsRkE4TDNxbUE?oc=5",
+          "time": "Just now",
+          "body": "Land, cheaper power: How Maharashtra plans to attract foreign universities  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Land, cheaper power: How Maharashtra plans to attract foreign universities The Indian Express"
+            ],
+            "tldr": "Land, cheaper power: How Maharashtra plans to attract foreign universities The I"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794300425929",
+          "title": "Chhatrapati Sambhajinagar: Significant rise in pollution in the city; Air Quality Index now crosses 200 - Lokshahi English News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeE9yMGdoVUQwYjMxRmhraWhnVnpaWURqRDZuVGNpa05USzIxckxTWkxYZVo1S0p6amtCV0hEWkVUSk8zd3hBVDNGOWpWSmlYQ0FRY25xd0p2SjNISGw1UnpUTktLTF9lbmJReUUzWmU5OUlBdV9GZ1Zma0hJaHNJemFDbURaa2pqR0lfN2ExbE9nRklHUU93anlDdjhmVUNqckNoUXg0NldUcXB4UVVLVVNlSlRSaTlBTXh3UHY2WXg2NW9neU1oMFlneE5xX2U0T1c2ZmtjYTc0bjN0SndoaFVFLTZrZ9IB5gFBVV95cUxOeE9yMGdoVUQwYjMxRmhraWhnVnpaWURqRDZuVGNpa05USzIxckxTWkxYZVo1S0p6amtCV0hEWkVUSk8zd3hBVDNGOWpWSmlYQ0FRY25xd0p2SjNISGw1UnpUTktLTF9lbmJReUUzWmU5OUlBdV9GZ1Zma0hJaHNJemFDbURaa2pqR0lfN2ExbE9nRklHUU93anlDdjhmVUNqckNoUXg0NldUcXB4UVVLVVNlSlRSaTlBTXh3UHY2WXg2NW9neU1oMFlneE5xX2U0T1c2ZmtjYTc0bjN0SndoaFVFLTZrZw?oc=5",
+          "time": "2h ago",
+          "body": "Chhatrapati Sambhajinagar: Significant rise in pollution in the city; Air Quality Index now crosses 200  Lokshahi English News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar: Significant rise in pollution in the city; Air Quality Index now crosses 200 Lokshahi English News"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar: Significant rise in pollution in the city; Air Qualit"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794300425930",
+          "title": "Drainage Line Tender at Bari Colony Maharashtra by Government of Maharashtra - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObjFYSnpELTlIYUoxT1Fya3NpeTRtLU14NVB4OGpFcTFtWnlPS0R5cllVSlJQbkhPRGF2Y2ltTzVHN0dZSHQwa1ZNdWJHY2x6UTZyOGRSX181c3lXQnhtN2tUdjBFZEFFdTVhaEMzUzZRWTN1RElzZ2I4eFpBTmY3bFdVRUZoSGRRb2hxa181dTI?oc=5",
+          "time": "13h ago",
+          "body": "Drainage Line Tender at Bari Colony Maharashtra by Government of Maharashtra  Urban Acres",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Drainage Line Tender at Bari Colony Maharashtra by Government of Maharashtra Urban Acres"
+            ],
+            "tldr": "Drainage Line Tender at Bari Colony Maharashtra by Government of Maharashtra Urb"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794300425930",
+          "title": "CJP's Dipke accuses BJP of ‘hostile takeover’ of Gokul milk union in Maharashtra - The Federal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZDBLRDlJU3BKLXphaERtOVFjT1hKcW4wZXl5eThsajlzeWtGanUwUjY4UDV3aEgwTzNhNEhPajlCU1paNjM0bmlxV1BCQVBsUWlPTzFkNEZTcmFBa1JaamVEN2s1SEVXN0std2lkR2JPamxQWGQ3TXRsb2Nqa0RPMVgtTnJvYUZnTi1rUTY5cG4zZzl2NzNIVXdmcF92RmpNSmxta3had1RCU3BFRTZHeDJLQW41bUJUR0dNNEhXZDRha0xiNFV0cVZBa0tvUQ?oc=5",
+          "time": "18h ago",
+          "body": "CJP's Dipke accuses BJP of ‘hostile takeover’ of Gokul milk union in Maharashtra  The Federal",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "CJP's Dipke accuses BJP of ‘hostile takeover’ of Gokul milk union in Maharashtra The Federal"
+            ],
+            "tldr": "CJP's Dipke accuses BJP of ‘hostile takeover’ of Gokul milk union in Maharashtra"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794300425930",
+          "title": "​HC quashes dowry harassment case against man & his relatives, says allegations vague & filed after 3 yea - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZE91TGprQ3U4akIyVFl4dVVlNFhhYjc4Q3loTU16X3JqSEhVR19fb3dHaktxNkdFVU5jbmxfNmJ5c09SZkZhYkVneE53NGRwLVVuYmJPTEFhUWxQbGMtc0RBVmUwbFIzeFFNNFNHajMyNWFmbFR6NzRnOUdERHpfbEpOR0RHN1BibUowWk9icVZqWlNENGtkV0lYYzR4SnZzamhuYUowRlRrd0tHb0ZBYjlGM1hVNk9Xd0ZyOFE2N1dUNE5xakt5OURCeDJKU2dxUldQSGxMXzhNYlEyVUlleFU0VXhaQlVhcjdxMUsyWmluWjM1Ul92SVNodnY3Y0J6bGkwcXRhaGpGR3RhZ2NFTdIBkAJBVV95cUxQZE91TGprQ3U4akIyVFl4dVVlNFhhYjc4Q3loTU16X3JqSEhVR19fb3dHaktxNkdFVU5jbmxfNmJ5c09SZkZhYkVneE53NGRwLVVuYmJPTEFhUWxQbGMtc0RBVmUwbFIzeFFNNFNHajMyNWFmbFR6NzRnOUdERHpfbEpOR0RHN1BibUowWk9icVZqWlNENGtkV0lYYzR4SnZzamhuYUowRlRrd0tHb0ZBYjlGM1hVNk9Xd0ZyOFE2N1dUNE5xakt5OURCeDJKU2dxUldQSGxMXzhNYlEyVUlleFU0VXhaQlVhcjdxMUsyWmluWjM1Ul92SVNodnY3Y0J6bGkwcXRhaGpGR3RhZ2NFTQ?oc=5",
+          "time": "15h ago",
+          "body": "​HC quashes dowry harassment case against man & his relatives, says allegations vague & filed after 3 yea  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "​HC quashes dowry harassment case against man & his relatives, says allegations vague & filed after 3 yea The Times of India"
+            ],
+            "tldr": "​HC quashes dowry harassment case against man & his relatives, says allegations "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794300425930",
+          "title": "Paver Block Tender at CSMC Health Center Chh.Sambhajinagar by Maharashtra Govt - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnNYcjdDeml6VTBuN1pXeW5ScnlWeDFidVRKc0dkTjh1MElzWGZXSV9Ba2xUUnNfZmE0QmJUQk1uallrU1FMYmZkNTFUS0owNVMtNngwbnBCQWo4NVZBMmVNek93bUlpOExpQXlFdlMxaW5wQXhnaUpRTUJrNGNoTnA0VmttRjFNai0xb1BrSERQcXRuSHVSelhSejlvQQ?oc=5",
+          "time": "13h ago",
+          "body": "Paver Block Tender at CSMC Health Center Chh.Sambhajinagar by Maharashtra Govt  Urban Acres",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Paver Block Tender at CSMC Health Center Chh.Sambhajinagar by Maharashtra Govt Urban Acres"
+            ],
+            "tldr": "Paver Block Tender at CSMC Health Center Chh.Sambhajinagar by Maharashtra Govt U"
+          }
+        },
+        {
+          "id": "aurangabad-city-8-1794300425930",
+          "title": "LAPL Automotive Ltd. Share Price Today - LAPL Automotive Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc08xY3paUFFRQ3ZJUlNKVVhDZURybzJQa2VOblJDWExGcVN3TXZ1dzhlTWpxZ0l3Nmw4TjZISmpFSlNMZklKTXBoWC10QnBlT0dVR3dMWmhOZkJybnhzdGdxN2VBU19fM1RYSHFKcUxTc05yZVBXSGFEcThoQ2RoMjd5WUQ?oc=5",
+          "time": "23h ago",
+          "body": "LAPL Automotive Ltd. Share Price Today - LAPL Automotive Ltd. Stock Price Live NSE/BSE  CNBC TV18",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Share Price Today - LAPL Automotive Ltd.",
+              "Stock Price Live NSE/BSE CNBC TV18"
+            ],
+            "tldr": "Share Price Today - LAPL Automotive Ltd."
+          }
+        }
+      ]
+    }
+  }
+}
