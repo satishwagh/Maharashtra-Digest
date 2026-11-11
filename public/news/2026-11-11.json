@@ -1,0 +1,788 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T08:14:30.129Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-1-1794384864561",
+          "title": "Maharashtra Chief Minister Defends Uniform Civil Code Amid Opposition Protests - India News Network",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVjJ2bHBjTG1JSlJYdjc5MkMybTZGZ3BtUVMzdzZmZmhfX3lkZk9OUEtFXzdTcE1RUXpjWnFvWmViSW01bVpRUjdPRzduTUFtTjNlTHNNSl9HU3A3UHZWVUppVW1SZ256ZzQ0Yk5wMWl5WVpKWnktMGQ5M05OcG9jRUJRRUVtOHU2NVpTR015RTYtU2JvSm1JVVdvbWE1MG9wYkpKX3VpT2pGeVhlZ3NpdHZ2bHFSelF0NC1SZElyalg?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Chief Minister Defends Uniform Civil Code Amid Opposition Protests  India News Network",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Chief Minister Defends Uniform Civil Code Amid Opposition Protests India News Network"
+            ],
+            "tldr": "Maharashtra Chief Minister Defends Uniform Civil Code Amid Opposition Protests I"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794384864561",
+          "title": "Maharashtra UCC row: Owaisi alleges 'Hindu Civil Code' being imposed to target Muslims - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPelBJRDNQTVRoX0J2OTdUYS1NWE9NMXVoODB4MEVzM1lRS2ZBdHoybFpWZG1kczZNY01kTFI0T1RycUFia0xVUFJGMGFPS3JneldacWtmT0hySU1heFM1RWpBVF9SX1pxbXBYdW9tc3dtNXhrQmFQRjlsWXlyZDJWUjV4TjJyQlRtcE9QWnF6ZmQ2Z0VWRjN2empMa3E4Z0g1QWdZQjRHaW5Pd2NrVzEwQ2prM0NxeTg1dUtMOUdlYkVzYWJkUGhQd1dIYlB3Ym00ZjB0RA?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra UCC row: Owaisi alleges 'Hindu Civil Code' being imposed to target Muslims  Mid-Day",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra UCC row: Owaisi alleges 'Hindu Civil Code' being imposed to target Muslims Mid-Day"
+            ],
+            "tldr": "Maharashtra UCC row: Owaisi alleges 'Hindu Civil Code' being imposed to target M"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794384864561",
+          "title": "'No flights will shift from Mumbai to Navi Mumbai airport': Maharashtra CM Devendra Fadnavis - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXg2QkctRWpmQXQzY0xzMEJERjFFMERGLTBOaW5kUTBpNy14eTRiMzE2dHpaeDJaS0xVVHNWR1lwdHZKMkFJd19fcTRGX0dXYVU0eWZKaERFdVhMTTJ5dmhOZUxxdW90WVlXMFR6VGxyQ1pqdEJKdjg4MFc0cl9mVVNNM2F2OHZSQm43UlhCc1BtVm5vV2V2d0tCUWMtU3hwLWdha0ZtN1RITWtrcWJob1RSNjN1MDhkMnkyanFYNktVbmtCMmt1R3lDS3VGV2pEY0Zyb3oyOWxRNmNhelZMNHViUm9QcnNkcWVnSm1Fb1QwWE9fRXfSAfsBQVVfeXFMTkhLRk1uYVhOZURtV1U1cDlycVF2UzVENk9PVmVVN3R3d0poNF9ZMUliTzRkT2cyUHZPUW1mZldNRzlzN2JnYVUyWjZWclRUQm5IUE9NYzVUTThOV3JvYkNTaWtZaktiOTZ2M0M1dmk4QmVyY3ozX0NIZHZKaDJNbTNvU0RLVHV0ZjNSY2JZSnIwS1JRMjBLY1h1aHQ2S01RZ0dadXdHT2UyV2VXZTRfRFctVmVYTjdjQ0xsZjYtV1hkVk5KbGdwYU12S3VPSnktOWROYTZaQXJmREdydEVGaDlCUlU2RENZSGJEbVMxQ3pOS0ZsbXp0WE5ROVU?oc=5",
+          "time": "20h ago",
+          "body": "'No flights will shift from Mumbai to Navi Mumbai airport': Maharashtra CM Devendra Fadnavis  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'No flights will shift from Mumbai to Navi Mumbai airport': Maharashtra CM Devendra Fadnavis The Times of India"
+            ],
+            "tldr": "'No flights will shift from Mumbai to Navi Mumbai airport': Maharashtra CM Deven"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794384864561",
+          "title": "Days After Fadnavis Govt Changes Rules, Mahayuti Candidate Is Elected Chairman Of Key Maha Dairy - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdURpUHhQQ3A3ZG84alNBQU9HZzdSTlU3Y1lSc01LZFNra3VIZTFqdi0tWExOZmV3cF9HYUhnOVk5LVlJcjYwbHZvV3doWGdYUGEzd09WcWZNRm43NWs5TVpEckt1WHhxRHMyRTZoSmxtVDZneFlFWlhsUWZLd2UxTFVrUk4teWZpbWNsUm4tSkZRNEFWVm1ZWENZZk5FX0ktZ1HSAbQBQVVfeXFMUHFkTTNUTkJsR0NuZXJudmhhU3VxWWVBdmJlNFFXSklUT3kzRWlwTHJzcllPQTRLWEU2WGFsbVBkZU1HOF9xelZpSlplLUV4SE9KSm1nb3FOcXpHM2ZETGVRSURuUGR6QzNsbkMxNEkybW1NekRjNEtBQXduU3c0WGViMlZYLVN1TnNOOF9TbHU3d3FLTGhPOURUMlh0UWhkMkREZGpKaks3c3pfYktVQUtwcVdO?oc=5",
+          "time": "15h ago",
+          "body": "Days After Fadnavis Govt Changes Rules, Mahayuti Candidate Is Elected Chairman Of Key Maha Dairy  TheWire.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Days After Fadnavis Govt Changes Rules, Mahayuti Candidate Is Elected Chairman Of Key Maha Dairy TheWire.in"
+            ],
+            "tldr": "Days After Fadnavis Govt Changes Rules, Mahayuti Candidate Is Elected Chairman O"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794384864561",
+          "title": "'UCC Is Constitutional Responsibility': Devendra Fadnavis Slams Owaisi's Hindu Civil Code Allegation - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1NKMW93RDU3ajRuZ3ZaWWxPVTVabzJFa3BuU2xnZ0I2V0FwZkl6MkRTWGZXMTdSTVJwb0ZJdng2VlJ3S3VOVVhVWHl5QlV6NW5IdTVDZ3dBZ2g0ZktLallnWUl4X2xVaFotSlVGR1FyRWZETnNLeXR1QnFwa1dqdW5qamhydms4OThfc1lwTTRULUQ2a0I4eHBLakVfUkhXbUJjYmJHV2NPdlVsVk5pT0Ixb2dEOC1BQW1TVWV5MVNtdHQxNGkxOHU4M1kzcUcwaUZIdk55Ni3SAd4BQVVfeXFMUEpYS1NGSGlvY3B2T2V3UGJfV2hyRU8wU1ozUV9GMHBKY00xYnFOUV9IaS1EM1ZFQXQ3Slp3N01adC1PUk5fS1lPZllrVkJkcm5PRkNXUnAyVGd0a1JtTUZLelJUTHV6bEkxOFhKOWhHdDVYOFlNZHZBb3hkUlFMaVRkRzFTTGNMM0FpSUdNSEhLWUxFb1JKUXpINEViUkQ4UlVWZ29oakhwb2M4UThxS1o2YXRweTQxdm82WTdOR2lhbUNFRmRpWWlEWHMwMGJQUjdBekp5ZUluUEpSUEx3?oc=5",
+          "time": "20h ago",
+          "body": "'UCC Is Constitutional Responsibility': Devendra Fadnavis Slams Owaisi's Hindu Civil Code Allegation  ETV Bharat",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'UCC Is Constitutional Responsibility': Devendra Fadnavis Slams Owaisi's Hindu Civil Code Allegation ETV Bharat"
+            ],
+            "tldr": "'UCC Is Constitutional Responsibility': Devendra Fadnavis Slams Owaisi's Hindu C"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794384864561",
+          "title": "Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawars | India News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS19GaGF3NVQ3SkduR1QyN2w1U3VKN3FyTHBxdUxIM25CUFRfMUI2WTJfTmhTT0NWV25rNkdHQzUzRVY5Z0tMeFQ0ODlBbng2d0FaLTJtcE5kOE9NX0xLeDNYeTZtQUpjbnltY3BwR3NiVlFKT3lUSVBGQ1FaeWQ1TUhGOExndzRhemMwNGdGU0d3YkVYQUFoMVprMktaclJSVnpUdFNTVVlPUFZaVnNUUzdHRVNSbURoRG9DSnh6Q01JNHZpb2FJZUNNV0p4SldGMjFUVWlGbjB4ODJIY0JaY9IB4AFBVV95cUxOS19GaGF3NVQ3SkduR1QyN2w1U3VKN3FyTHBxdUxIM25CUFRfMUI2WTJfTmhTT0NWV25rNkdHQzUzRVY5Z0tMeFQ0ODlBbng2d0FaLTJtcE5kOE9NX0xLeDNYeTZtQUpjbnltY3BwR3NiVlFKT3lUSVBGQ1FaeWQ1TUhGOExndzRhemMwNGdGU0d3YkVYQUFoMVprMktaclJSVnpUdFNTVVlPUFZaVnNUUzdHRVNSbURoRG9DSnh6Q01JNHZpb2FJZUNNV0p4SldGMjFUVWlGbjB4ODJIY0JaYw?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawars | India News  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawars | India News Hindustan Times"
+            ],
+            "tldr": "Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawar"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794384864561",
+          "title": "NCP merger decision rests with Sharad Pawar, Sunetra; neither has told us anything yet: CM Fadnavis - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZW0ybGVUX1JfdFJvcUgtTmhRelBjU2xCQWppSl9UdEtxYTRSMldsd0xZTi1jNFRKSThkSzlPcERSTnpPb0Jsemc3WlE1bzd6TWVRRVZ1cWswdy1hbm4yUHFrcVBEc0dKbk5XUndEbGhmeVNMcE90RExZS1dsUDF6cG1PbFRLMkJtMlUtVlRpUlV0RnR4NnlEQi1NY1JSdHVvTG5kbHd5bS12Q1Z3a0hPLVo0dWpaUk9NemVLVXFyS2gya0ZpVUEzNVlEc3lfRTd0dkFTZC1RcVZyVWQ2TklPcVNrbHJFOHpJVmQzNmRZNkVEYTdjM3h4S0V2dXVVa1hKTWt1QUtB0gGLAkFVX3lxTE5WVDM4MDExbFU2NDFVdnJaaGc2WHc4STgxU01BTzZwVmZiVW1tem5YU1FzREJhc0xoQS1qQjlYZXh3LUdJYWpaOGtTZ2hXNzc5Mm5LVnNfOHpTUlM4RGtjUm5BYzhBQ1doYlNLTnFmaGdKa2dORm1DaDRfa1RUSEcyV0F1YWptLTVQQjhadkNyMndoZkN5OFA4M1h4S051MGZIejlwVFAtbDNZTEFPWE52Y0t2WWptU0VOTmZ2bXpkX0s1TWQtQmZCUHF5bWg3Q1ZFbXFGZzl4eEFla2lvUnI4Tkcwal9HTzM4SWVIdlhfVUlBc2xQeFlaa2hXUWwycXpEeTZSSUNBRFhxTQ?oc=5",
+          "time": "21h ago",
+          "body": "NCP merger decision rests with Sharad Pawar, Sunetra; neither has told us anything yet: CM Fadnavis  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NCP merger decision rests with Sharad Pawar, Sunetra; neither has told us anything yet: CM Fadnavis The Economic Times"
+            ],
+            "tldr": "NCP merger decision rests with Sharad Pawar, Sunetra; neither has told us anythi"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1794384864561",
+          "title": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFBMWm90QU5FZExNWnFYYjVST0hsYk5UNFhsalJyRV9nNlFwMG1ZRkwxckNSdWU1R3QzZGlGWEhZZXphWlBmeG9uc2JaZV9CWnkzbWZnY0tiUUdfM1V4X01tWnNOdFZQSWxHOTJ6Nlk4YVpCczlmMGZ3X09kUGIyZ1NENGVEaXY3MTZsaTdiWFp5YXpUWm9pTG5HamcxOHBoMTFzR1dIWXBqWVJsZTRtcHFOVGJYNUlMU3VkRDBiZEg3QnVGbmpHOFJrTkNJcndubFJHVGI5R2VaYWtyTW5hc3RVc0k?oc=5",
+          "time": "23h ago",
+          "body": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through proposed UCC ANI News"
+            ],
+            "tldr": "\"Hindu Civil Code\": Owaisi accuses Maharashtra govt of targeting Muslims through"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1794384864532",
+          "title": "Indian stocks hit eight-month high as foreign investors return - Reuters",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
+          "time": "5h ago",
+          "body": "Indian stocks hit eight-month high as foreign investors return  Reuters",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian stocks hit eight-month high as foreign investors return Reuters"
+            ],
+            "tldr": "Indian stocks hit eight-month high as foreign investors return Reuters"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794384864532",
+          "title": "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results - ETV Bharat",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkxhekpFNDdzOGdyWS1adWRuaXVCZEczQ25ocHlHOENzNGltRkR3Y0FpeERtSGJHeFhfTnZoVFhuZzNmT1VoRXVCUkZHVHpfYXhXSFFpSlFWbGo3Z0JwT3dRcmVrN0dmdVc5OXhLckpVeFlpeFN3Vmx1a0dycFpTNWRGeVRzSElyZ1JhcGdiOGUtaEZobXZ1RlpJZ0FVQ1JCcFl3ZEFDb0RiUG1MdW54eDdheWUxLUpROXR3eWZZaWlkdzhG0gHKAUFVX3lxTFA2MGxpQkRnR2NDVThJZXZFNzgwNm9kZHB4ZVpxLURWTHhwNDJadTl0dEsySVdTenJxYW9lVUlWRW1CLUR6WjFLd21FZ0VpTVpiN3FTQkFWalg4YVZ2S1M0Tkw4WDhwdkdHckxoczlpNTV5UUpHYTNLbENBNUdwVE41SjhvOHNhZmlxZUJRQzBudXpudEo5azl3RWlTWXBLTEdoc29OREo2QS1BSlM1T1FMRENubkRrbUJoZEtMZWxxQVRvazZxXzRZdXc?oc=5",
+          "time": "1h ago",
+          "body": "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results  ETV Bharat",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results ETV Bharat"
+            ],
+            "tldr": "Sensex, Nifty Surge As FIIs Boost Indian Equities Amid Positive Q2 Results ETV B"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794384864532",
+          "title": "Stock markets surge in early trade; Sensex jumps 1,097 points - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0MtNFBCS0I3M0phQkhpMk5HVXNKTEpSQllxcENaWDRDQU5ocGcwa01JUmVpQVU3R3ozWTh0NUtUZ3dtX1RFTlVjZjdmdDBzWHZJUHR6b0dsbFRMa3BDQXQxWEZCajRzc09EdEdKX2cyMHRmQVZOQlpXVm1ISk5yMUNMM0hMR1FvR1pZNXZXY01BRnV4MS0tcUwyeURzRV9pYV9hcEVGR0JkekRlRFd4VmQ0cElzcFhRRnBkdGJNYjFPNF9rSGfSAcYBQVVfeXFMTkNDLTRQQktCNzNKYUJIaTJOR1VzSkxKUkJZcXBDWlg0Q0FOaHBnMGtNSVJlaUFVN0d6M1k4dDVLVGd3bV9URU5VY2Y3ZnQwc1h2SVB0em9HbGxUTGtwQ0F0MVhGQmo0c3NPRHRHSl9nMjB0ZkFWTkJaV1ZtSEpOcjFDTDNITEdRb0daWTV2V2NNQUZ1eDEtLXFMMnlEc0VfaWFfYXBFRkdCZHpEZURXeFZkNHBJc3BYUUZwZHRiTWIxTzRfa0hn?oc=5",
+          "time": "3h ago",
+          "body": "Stock markets surge in early trade; Sensex jumps 1,097 points  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets surge in early trade; Sensex jumps 1,097 points The Hindu"
+            ],
+            "tldr": "Stock markets surge in early trade; Sensex jumps 1,097 points The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794384864532",
+          "title": "Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnZod0FFTTJ0a2VFS3AzZG5CZ1RKQjhuVnNBTmJlRVhCQVVNZUVlMVVBZzdZNjF4V3NLQVYyRGhtSFdrcnZyN3VzbHFGNWNtUElQS1d1WDlBc2dvem1GUzlmRzN0dWJEOUJ2UlZXcmlENVpSMkFSMXhTUzhHRDEtRjA5SWVZX1pWVGhPMk05dXF2UV9rWEVQTk9MRHFUREpqdkRpaUxSVTZQZmhPWlYzTjRZd084SHB6OVlWcW1EZFd1NkpOWm10RV9FMi11QdIB0wFBVV95cUxNTXhBTDFaWmUwajlUYWFJRnNJeHhzbnI4bF9LWW0xcjNoNUxTbVFsSnl2Ni0xcmNRUDQ5TnpOVEZQVlc5bmRKaXQyQWtxaE5oaWtBUjRPdTh6RHVNanhzMjh6ZTgyOFJYZEE2N1dZek51a2RqeUV0a3J5UzE5WUhxU0NZNmNDckNmNHFTYUpkWC1HMlh6Wmc1eUFVeGEyU2JlZzc2NGxsdzI2M1dIMndRNmlYODNrRllWcGZoeC1HTW9IZzRoVzVZTU9icTBXTEpNYU5n?oc=5",
+          "time": "3h ago",
+          "body": "Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion Business Standard"
+            ],
+            "tldr": "Bright Outdoor Media moves to BSE, NSE main boards, eyes expansion Business Stan"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794384864532",
+          "title": "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji - Livemint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3pSeGQ4S2VVNEIySmRHZW5RdmhIN0VERmI5b1VnSzQ3Q3ZhY2U5d3oyR0h3S1V2RWNieFgzNW9SMnZQSmdsSEVkNk91YlIzRFhQQlhrUjlSTENyZ2pBaXlUcXJOVGFNdjdIYXlzUjd3UzZUY0hyUHloX1VqU1J3RmkyemNfRy1zN1pzWFpEYm1lN2dSbS0wVlFsLUtCbHJLWUZVeFRhWF9nRXpHb1U1al9rNFphVENwSnA1QjR3MGpBc0QzX2pzZ3FQZDU2aW0xTnNWUXo1WHpJcW5QWEtoTUZRU3VYLVgybnQtWUpPOUFxT3FGb1BFakttVXp6WG5rdVYzVHBOdDJteV9lTUMwek5SakJqNXfSAZwCQVVfeXFMT1p4QVpzWTVvU09QbkJKSUE5XzZtRnc0QzY4ZC1ZRkNLZ2E1QzkxeDJNUWxTc2c4ZHFaTDBsOHNrSzl6QzFqQjU3bmlHbW1MUnVwanhGdE1vYjZXN1NBTHdlR2RQcEFWZ1ZvTElDN3ctX1hGQ1FvQnhHZldMODRXLXJvWnVhTDFOSlJpNGFMQ2J5QTcyWjFRS1pUTnhCZzZQeXltdC00TmNoRkRncUNXRmtsZG5YRXI2WmFJNnMzcFFac09uVzZ3UDFtT2pqTXhUZlVrVlRhSmptRDM5UFJEc1ZtYWMybUFWeEp5LUNJSldpVmdEZlJBRU52UC1pcmtReUgtYWtUNjRKZnNIUm90ZmlpcWxydGthNzhxV0c?oc=5",
+          "time": "22h ago",
+          "body": "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji  Livemint",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "When is next stock market holiday?",
+              "Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji Livemint"
+            ],
+            "tldr": "When is next stock market holiday?"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794384864532",
+          "title": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm9kaWt5dHFxS203YTVuVjk1SHNiaFhKeHkwVGRJUk1nUDJxQ1FBdnhsZEN4NU1qLVcxVFg4SWd1Z2diWXZ4Q0dKekpFcnRMQkVCaDFWSm9HS1FXWHVqam1WNjVPSFk1WG9acFNzQU53aU9qMUZ5VHlPbTlLMlRkZGJPT1JqclZQZkxZVDROaDJILXh6djU5eXhFaVlqUjliZDlCUFk1T0FPMzkybkk3SFdYM1BLQ0I0R0ltR19fZkFEa1JmMHZFZG9XNGhCdw?oc=5",
+          "time": "3h ago",
+          "body": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 HDFC Sky"
+            ],
+            "tldr": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1794384864532",
+          "title": "Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTBwVUUybFhheTlZd1BhRkVjU281MU1rNWtkcVBVMTNBWnNJMERaOGUzbjRRMFk0ZGsxQWt3dE4zN0l4ZGl0QTFqaTdNMGZ6YnFSQ3AxbzVNSUgydHNXa1pCUXlONWN6LUxmdkZYbXVYbzFoYVVZYUZhdlR6YWFNeUhwS09RU2NVaXRIRDVHaEFMV1VKemNYdXpTZ0JlUmJ0RUJaaURiWng3OE5haXdfMENBX1Y3WWthc2J4TlFOcktQbWRhUzZ2bUhscDFZaUItS0Z2bg?oc=5",
+          "time": "4h ago",
+          "body": "Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results  ANI News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results ANI News"
+            ],
+            "tldr": "Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong "
+          }
+        },
+        {
+          "id": "mumbai-finance-8-1794384864532",
+          "title": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5",
+          "time": "4h ago",
+          "body": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open HDFC Sky"
+            ],
+            "tldr": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open HDFC Sky"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1794384864561",
+          "title": "Maharashtra govt opposes flight transfer to Navi Mumbai : Report - BusinessLine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaG1ua2l0WHAtZnBVZlMxY2s4aWpBUHptb0pPZWx4elJxS1BzZkl2eXBxeXp0anhLNVJsUHl1YmN4SklLbkpleUxVLWtIWG80NzAtUmd5MkZiNHd5VzFrZE5HTHhlUm1HRWo2Q0d1UWt3NGQxdTU0bUxGMzVRZzdtWjRnVG1DLVRFRlV1cERIRW1CczRUcEh2dG1xVERIYjhyYTdmUzJlemNWU2x6blRyVGpEWG54a1JSd2lZM1lPS1dmZ9IByAFBVV95cUxNRjJETm9NcUhJc1dDNl9JeHI5aEFWX0NScXd3Tm1Vem1FclZ4SGpFRlFzZVVRT25vNER4SFpUb1BpS25pek41QXcyQ3lmcTUzSHA0YTJIcGxXdy1MTFdmdVMwWV9GUVRrSGpnVktDNjVWUHc1UjhFMmwxSkxQcEt6a0kxb09Tc1VJZjB4M2wxeUxRbnlJZUlCbUFWaGY3QmtFaWpyS0swdi1xbDJDb3p3Y0hMSEdhN20tR2NqWGVDWmNWWFhxdXNTRQ?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra govt opposes flight transfer to Navi Mumbai : Report  BusinessLine",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt opposes flight transfer to Navi Mumbai : Report BusinessLine"
+            ],
+            "tldr": "Maharashtra govt opposes flight transfer to Navi Mumbai : Report BusinessLine"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1794384865854",
+          "title": "MNLU Mumbai Invites Papers for Vindex Manasah: Intellectual Property Journal | SCC Times - SCC Online",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXgxdGY5OS10VmI2d0dfLTRvOUxqUXQ2Y2hrQkJ5dms1eFJ2THBLQnRUT0ljNkthN1VSc1U0bHBFRjJSVTBWVnBwU1V3SWx5Unl2aWdNRGhseDNZVF9fR2QyWVU0dXRqV2pLdk1jeERITWE5U3FqdkNzbXdlaXVZU2hVNlJzYlBWU3ZnOW5VM0J3SEFsZjIwaWZ0RXhxZ1ZyQjE1WlRMODZxNFpoOE04RkVoVFN3aHBJSW8yWjJlYy1Vam9YWmM4SVZjWElCcmxqb1Q0?oc=5",
+          "time": "3h ago",
+          "body": "MNLU Mumbai Invites Papers for Vindex Manasah: Intellectual Property Journal | SCC Times  SCC Online",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MNLU Mumbai Invites Papers for Vindex Manasah: Intellectual Property Journal | SCC Times SCC Online"
+            ],
+            "tldr": "MNLU Mumbai Invites Papers for Vindex Manasah: Intellectual Property Journal | S"
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1794384865854",
+          "title": "The Digital Age Needs A Human Face – OpEd - Eurasia Review",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeDhsY2JJYmU1Y3l6NmM0enhfVy1VN00zUHhCQkwxdUtrRVdCV05HYzE4WW91M21UZThRWlc0bEQwQ281cUhmWDZlY3gyUEpZUWVWUXMzbzUxak9PSlR4UWFhR0I1VTRGWDVlaEJFblh1NmhQTEltaFdPUi1fV0lrbHVQSGI1UQ?oc=5",
+          "time": "12h ago",
+          "body": "The Digital Age Needs A Human Face – OpEd  Eurasia Review",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "The Digital Age Needs A Human Face – OpEd  Eurasia Review"
+            ],
+            "tldr": "The Digital Age Needs A Human Face – OpEd  Eurasia Review"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1794384865854",
+          "title": "AI, payments, smarter messaging: What is WhatsApp's big plan? Global head Kunal Shah reveals - India.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDkzU21hY1dmMnRqTHFPNkEycHMxaklfQUlsVFdEQVZCLTlfWkRqakJvTzByaF9sSXNSVUpRN1BnV015UmlLZGF2dmJpTnRGR2tWZWJkaGVvdFlFVzhodklUU3RjekxrUHlCeTRDVWdDTkZmVVN2SVVheHVVTTZmNHpXc2Y1cDV4YUd1bzNmRTZET1FIWnJ4WHBxUnFzSkFybG1BakNuemFQY1lTLTJyNnhNejQyVkdOdDIzNWxSd1l1YzNtczVXcNIBzgFBVV95cUxPRDdIdEhaY3NGSzJuMFh4LUROc1JuaDlPZ0U5X3BmZW9kMUFHV2lVSXg1bExyOHJzT0N1Z201bzBnVHNRVVJidWlyNmhSODZlcWNDcFJ0NjVNSmlrTnBmQlVuc2gzZmhUZ3VzVjQtc3NXUTc2X19tajlNVTVvUmdIaTY5aGtvVXlCQ05CVjBWaWhIQXFnVjFhZFliUkhNQmJvWWFkS2I5OGxYTnd6WUtyYXhrVDh3NVNBQTdNOTdTM1hTS2hZQVNNV3YwbXBDdw?oc=5",
+          "time": "14h ago",
+          "body": "AI, payments, smarter messaging: What is WhatsApp's big plan? Global head Kunal Shah reveals  India.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AI, payments, smarter messaging: What is WhatsApp's big plan?",
+              "Global head Kunal Shah reveals India.com"
+            ],
+            "tldr": "AI, payments, smarter messaging: What is WhatsApp's big plan?"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1794384865855",
+          "title": "Kerala awaits Maharashtra's approval for 540 MW power deal with Sinnar plant - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLWFlb1hTNnVGNzNsbS1fdlpDLWdSTW1qUHFsVWNNbGx6dUJtN1drNjg3X0ZaYmMxNS04MjhzS0lUT2QxQ1k5QVJvNEg3YmwzaWZyWXNJMEVxNHNoQ3NWZy1Jeml1eTA0T2ZxWWZFUlk1ZEdjaTJLYUQ3Z2xCeDVZb0ZtX18xbndfcFdTR1gzZDE4OTloN05NdVNJSGZ3Z0pEUFRhNWNYdjZmN2lSQTd1Qkt3WnNwcGE0R013bWppRExqOFFqbHl5N2FwUTdlWnlHVmRncDVlUdIB2wFBVV95cUxPYnBIcXEycG1LamhJZW9JZHJTLUQzZ3Uzd1V4WnZHM0M2dHNBQk5MbjlqdjN5czVaR29leUR2Nl9nbEw5aWxzU2JFQTNBMGF0dl8zWE1qUDJsVnpXUVFhMnJoTVpMSDlTS3FTbEg1WEJIcmEwcUszekRXY0ZvODJlV1o4Zm1TYVpMNnBDbGppbklISHVnVEI5cEpzdk1fZmN5QWlXTmkxV3dydjNaUGVCSHdQa3Y0Z3lyYVMxb3lWenlTVURLSm50eldDeHE0RjdVSXpldlcyVDlfZ2c?oc=5",
+          "time": "15h ago",
+          "body": "Kerala awaits Maharashtra's approval for 540 MW power deal with Sinnar plant  ET Infra",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Kerala awaits Maharashtra's approval for 540 MW power deal with Sinnar plant ET Infra"
+            ],
+            "tldr": "Kerala awaits Maharashtra's approval for 540 MW power deal with Sinnar plant ET "
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1794384865855",
+          "title": "WhatsApp Gears Up for Major Overhaul: AI, Digital Payments, and Smarter Messaging on the Horizon - Lokmat Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0RNWlAwOElmY3JkTUVKTmpTSmFjTzg0cGY4RUJtWnR0UUdpdDkwTzE3cVFzTXBIVGpEWHZQMFAweFd2REtCNVR2bHdzaHN0SlpyN0NqZmpWWG9WYnVIQnp2RXRvdkJ1RjNHNFNDeHZBbEpaM1dDUF80bm1DOWtvczN3VWtWUW1iR3Q3ZjFDblFWN0ZJVVJSNmNwSEhUNEdsWUFNREhhWHRMNDdreVJMb1d5Z3JPekpyVDRoU0dNZjFSVWZOaGJTVmV0ZEx0UjN1Q0MtLTdTdHdIUdIB3wFBVV95cUxOMW5qcVh4eEhKQnU2RDNhU2dTaGdiaVN4NWJpT2VScHhZQVM0MEVkODJuakF5Qko5cXFuRUVsbm9JYkRQZzRPek1lWGxhS25YU0xtV1ZnamNfYzZoV1J1SWhSV0d0X2wxS3l2ODFKNXRLWXBlcHcwZWVXdFJzYW5mQ2YyZE9faE85cHFJSHlmTmhQdGs3d2tlOXBQaVRtREpEVjdDMGVlNER6WEdlaWtFRWFGU1RiR2dIcXlIS2hjUjZ6Nlk1U085UlAxdm1WQ0x2T3BiOWZINUpxczBhbHdz?oc=5",
+          "time": "14h ago",
+          "body": "WhatsApp Gears Up for Major Overhaul: AI, Digital Payments, and Smarter Messaging on the Horizon  Lokmat Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "WhatsApp Gears Up for Major Overhaul: AI, Digital Payments, and Smarter Messaging on the Horizon Lokmat Times"
+            ],
+            "tldr": "WhatsApp Gears Up for Major Overhaul: AI, Digital Payments, and Smarter Messagin"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1794384865816",
+          "title": "IIT Bombay Launches Online PG Diploma In Innovation And Entrepreneurship; Admission Through Screening - News18",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX28wd1ZyLW1QX283LUI1WFNQdFZjTFMwdjdYSGpEdTBCNm5GeUhxRmFjeHF0UTV2bW9oc2JhMU5KdnRDVnpQZzBmYlNOdXprS1hLMnpVSlJpcWp5WUk4NVIxWlFBdXBSRHdOaTliV2FWM2l0dzNWU2MxbFFaMjBiaUNmcU41RmpFcGZ6c3U3QzBZSExGRXlmNXlEdDQza3hDSWh6U2h6aVNURU1fNHdfUU1rYkJ5cUZqSzdjTjFoSVhhajlLYXljbmVOaTFrVEtXVWMtU05fd0pLSExSdFJpeGlaN3BUcG5VNFMwYnYzNNIB7wFBVV95cUxNX28wd1ZyLW1QX283LUI1WFNQdFZjTFMwdjdYSGpEdTBCNm5GeUhxRmFjeHF0UTV2bW9oc2JhMU5KdnRDVnpQZzBmYlNOdXprS1hLMnpVSlJpcWp5WUk4NVIxWlFBdXBSRHdOaTliV2FWM2l0dzNWU2MxbFFaMjBiaUNmcU41RmpFcGZ6c3U3QzBZSExGRXlmNXlEdDQza3hDSWh6U2h6aVNURU1fNHdfUU1rYkJ5cUZqSzdjTjFoSVhhajlLYXljbmVOaTFrVEtXVWMtU05fd0pLSExSdFJpeGlaN3BUcG5VNFMwYnYzNA?oc=5",
+          "time": "2h ago",
+          "body": "IIT Bombay Launches Online PG Diploma In Innovation And Entrepreneurship; Admission Through Screening  News18",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IIT Bombay Launches Online PG Diploma In Innovation And Entrepreneurship; Admission Through Screening News18"
+            ],
+            "tldr": "IIT Bombay Launches Online PG Diploma In Innovation And Entrepreneurship; Admiss"
+          }
+        },
+        {
+          "id": "mumbai-sports-1-1794384866003",
+          "title": "Why MI-Hardik Pandya relationship did not work out? Full timeline and factors behind the exit of Mumbai Indians captain - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORkJvTzcyWUF5eHZ0QktJT0tZMGM2aTg3cjBxY0NrM05IQjVTbGZpaTZZaWgxU2RWV2duc1pES0lUWEI2Q0JMYmVRc09vLWJYVTRmTHBsOEJidTczZlo4dmNZcjB2ZWN1TENRQUFqc0E5UExDSkJHeFVrWmtoU0ZkLWxhMkV3WXVkQXc?oc=5",
+          "time": "4h ago",
+          "body": "Why MI-Hardik Pandya relationship did not work out? Full timeline and factors behind the exit of Mumbai Indians captain  Yahoo Sports",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why MI-Hardik Pandya relationship did not work out?",
+              "Full timeline and factors behind the exit of Mumbai Indians captain Yahoo Sports"
+            ],
+            "tldr": "Why MI-Hardik Pandya relationship did not work out?"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-7-1794384866004",
+          "title": "IPL 2027 pre-season trades - who's going where? - ESPN",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNm4wbHNuM1lncm83eVgyTmRNNzJaQjczSkxaQjF4M00tN1JjbmdPSmx4TDUyUDFnOEdneS1FTmlmSGFsaWRoZmU1bFdpWlVDdmc2TkZ6MlpkTXZRanZ1V2FMV0NoWWJOaF9zMFhVSU5FRkdONU4zUHBncDVDWm9KOFBiaGt0c3J5ODlBcGZpVGh5Y2dLdWhuWnIxYjJUdlp6OC1YaFVTVzJ1Q2xUcHVEMDNoSUtVaC1IdGYzY0M2WHhfNExuMlVic1FIZ215aGJpbXZRcmFKOGE5RGRvajZz?oc=5",
+          "time": "1h ago",
+          "body": "IPL 2027 pre-season trades - who's going where?  ESPN",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 pre-season trades - who's going where?  ESPN"
+            ],
+            "tldr": "IPL 2027 pre-season trades - who's going where?  ESPN"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794384866004",
+          "title": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya set for PBKS move - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGsyZEplbkRfM0w2dFcwYjZqZkgyVm1YWm5IaU9vSW5TdFd2b0gzT0E0NUZLRDhTbzN3Tm1aU1pvS3hObkV3cGx0WHRzYXhrWnNScE15MVFCaVRFVFdSSzB1SktfdTVMZzlnNnVhWHFvUkQ5Ry1XRTFPMkZFUl9MTXFWd0djM251SEE?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya set for PBKS move  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya set for PBKS move Yahoo Sports"
+            ],
+            "tldr": "IPL 2027 transfers: List of confirmed swaps, trade rumours as Hardik Pandya set "
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794384868715",
+          "title": "Only the second time in 149 years! Pakistan script history in Sri Lanka Test",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "Just now",
+          "body": "Pakistan's Test team achieved a significant milestone with three debutants scoring half-centuries in the first innings. Tayyab Arif, Mohammad Taha, and Arafat Minhas all made impressive contributions while helping the team build a commanding total. Saqib Khan also made his mark by taking two early wickets, strengthening Pakistan's bowling attack. Sri Lanka struggled initially, but an unbeaten partnership offers them some hope.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pakistan's Test team achieved a significant milestone with three debutants scoring half-centuries in the first innings.",
+              "Tayyab Arif, Mohammad Taha, and Arafat Minhas all made impressive contributions while helping the team build a commanding total.",
+              "Sri Lanka struggled initially, but an unbeaten partnership offers them some hope."
+            ],
+            "tldr": "Pakistan's Test team achieved a significant milestone with three debutants scoring half-centuries…"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1794384868715",
+          "title": "‘If it wasn’t for the rain’: Matt Henry feels NZ could have pushed India in ODIs",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "New Zealand pacer Matt Henry believes rain denied his side a chance to push India closer in the first two ODIs, both of which the visitors won via the DLS method. Recovering from a concussion, Henry is set to return for the remaining matches before turning his attention to a busy home summer, including the two-Test series against India.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "New Zealand pacer Matt Henry believes rain denied his side a chance to push India closer in the first two ODIs, both of which the visitors won via the DLS method.",
+              "Recovering from a concussion, Henry is set to return for the remaining matches before turning his attention to a busy home summer, including the two-Test series against India."
+            ],
+            "tldr": "New Zealand pacer Matt Henry believes rain denied his side a chance to push Indi"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1794384868715",
+          "title": "Total Chess: Women vs elite GMs? Vaishali answers with wins over So, Niemann",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event. One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess tournament in Budapest, defeating in-form Wesley So and Hans Niemann in the nine-round blitz event.",
+              "One of only two women in the 24-player field, Vaishali offered an emphatic answer to questions about women competing against elite grandmasters, ahead of the demanding group stage."
+            ],
+            "tldr": "India's Vaishali Rameshbabu made an early statement at the inaugural Total Chess"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1794384868715",
+          "title": "Team India splits into two groups for ODI and Test series vs NZ: Who went where?",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "India will play the fourth and fifth ODIs at Bay Oval in Mount Maunganui on November 13 and 15. The two-match Test series will begin on November 19 at the Basin Reserve in Wellington. The team will have a change in leadership for the final two ODIs. Shreyas Iyer will captain India after Shubman Gill led the side in the first three matches.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India will play the fourth and fifth ODIs at Bay Oval in Mount Maunganui on November 13 and 15.",
+              "The two-match Test series will begin on November 19 at the Basin Reserve in Wellington.",
+              "Shreyas Iyer will captain India after Shubman Gill led the side in the first three matches."
+            ],
+            "tldr": "India will play the fourth and fifth ODIs at Bay Oval in…"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794384868715",
+          "title": "Youth Olympics: Ambekar, Gunjan storm into boxing semis, assure India of medals",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "India are assured of two boxing medals at the Dakar 2026 Youth Olympic Games after Lairenlakpam Ambekar Meetei and Gunjan stormed into the semifinals. Ambekar stopped Namibia's Abraham Kalenga in the opening round of the men's 50kg quarterfinal, while Gunjan defeated Mexico's Atena Sofia Juarez Calero 5-0 in the women's 48kg contest.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India are assured of two boxing medals at the Dakar 2026 Youth Olympic Games after Lairenlakpam Ambekar Meetei and Gunjan stormed into the semifinals.",
+              "Ambekar stopped Namibia's Abraham Kalenga in the opening round of the men's 50kg quarterfinal, while Gunjan defeated Mexico's Atena Sofia Juarez Calero 5-0 in the women's 48kg contest."
+            ],
+            "tldr": "India are assured of two boxing medals at the Dakar 2026 Youth Olympic Games aft"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1794384867218",
+          "title": "Weather Alert: Rain and Storms Expected Across Several States - Udaipur Kiran",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUW5FdjRERDhaVUtjeEVPMlh5Nl9jMGpZcXVFQUhjdTk0LS1SNlFPYl9odGtERFZ1b2NoTzVJTXpUX2pFZERFc3FsXzl1eV81blJGdGJhbnIwbEVnWUNLYUxVa3l5ZGVKZWdRMmRqM1NTNFdJT0RCNHJuZ0xIUUJlV1NFc1p4RFhtNXQzQUwzbw?oc=5",
+          "time": "5h ago",
+          "body": "Weather Alert: Rain and Storms Expected Across Several States  Udaipur Kiran",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Weather Alert: Rain and Storms Expected Across Several States Udaipur Kiran"
+            ],
+            "tldr": "Weather Alert: Rain and Storms Expected Across Several States Udaipur Kiran"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1794384867397",
+          "title": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]"
+            ],
+            "tldr": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1794384867397",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1794384867398",
+          "title": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]"
+            ],
+            "tldr": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names o"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794384867398",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-6-1794384867398",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1794384867398",
+          "title": "Meet Aniket Bera: Researcher builds a drone to track people without GPS",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object Object]"
+            ],
+            "tldr": "Meet Aniket Bera: Researcher builds a drone to track people without GPS. [object"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794384867398",
+          "title": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "17d ago",
+          "body": "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'I'm on the brink of breaking down': Indian woman forced to leave Australia before settling late brother’s estate after visa waiver rejection. [object Object]"
+            ],
+            "tldr": "'I'm on the brink of breaking down': Indian woman forced to leave Australia befo"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794384868645",
+          "title": "Maharashtra to observe Tribal Pride Week for Birsa Munda Jayanti - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX2hrQnAwcXNFNTJ0dm1OdUtFUW1USE9DRjRMQmhidjZQRERDU2FYX3M0dHh2RUdmaFlxaTdzMnJ2dmY1UFI3alRYU0VEOW41N3IybXFLSnl6SV93aGowZ2h4M1VidllWb2g5bEhxWDBqdTVJb05zYVp0azFmejJBMk05LTNGaml4ZzBSNldZVGR4dFVk?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra to observe Tribal Pride Week for Birsa Munda Jayanti  News On AIR",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra to observe Tribal Pride Week for Birsa Munda Jayanti News On AIR"
+            ],
+            "tldr": "Maharashtra to observe Tribal Pride Week for Birsa Munda Jayanti News On AIR"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794384868645",
+          "title": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmE2UkVoa19zWHJXZjFORXZNTnAwWkdIeW93SnpTdERlWVZSOFQ5V3hCbV8yY2YzcXFfY2w5M0xjWjJPaU1fZG16Sk5UUlFVdnlLbmhxc2FvSHYybWNId29Ga2tuZEx5UjJ6cVduUGhxUXhXUGJDYXhDd0NkYWY1ank1S0doeW1zSzJHZlFaY2U5dkI0ZHNneHRVcUNKdTVGOHBJbzJfalhNUmtxTzNvcGxud2ViYmc?oc=5",
+          "time": "13h ago",
+          "body": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day  DD News",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Foundation Day DD News"
+            ],
+            "tldr": "Giriraj Singh reaffirms push to transform India’s cotton sector at CCI’s 56th Fo"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794384868645",
+          "title": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra - Machine Maker",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkRneDA0WVBNbXZScXRwLU5XNXNZYzdhenN6d0NzTHlmVm9hQzVwUVpxaVVmYXFEQkhGMjZlYm5HM0V1eGRDd3czUnNBejFkR0kya3NaV1A1VG1Bci1GRUxwbkU0OXZWZWhLa19sZFN4Um95QUhXeTRzWWdHSmlpbmt0YkhkTVZPWl83YktCVDhaSktKZnlZOWlxYkRRWmpGZXR1VThFbkdXbnpVaklqQ1BDN2g?oc=5",
+          "time": "20h ago",
+          "body": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra  Machine Maker",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra Machine Maker"
+            ],
+            "tldr": "Steel Strips Wheels Approves ₹1,400 Crore Greenfield Plant in Maharashtra Machin"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794384868645",
+          "title": "JSW Motors Prepares For Brand Debut In India With First Product Now Confirmed! Here’s Everything You Should Know. - ZigWheels.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMnlQaXN4dFJfZnNLTHlCWTdXQWhQZzhRZUx0aEZSU1V4R29oNm1jb0dCenBWem44dU9RQzc5aVJGN2xEMlJqa3JldDNfTkRxQ0R2QjBpMkhBSklBcUlKdzJKLTV4TmM0TzYyQ1BMaFhQYkFKalZyNV83dzR5bnpyX204dUZ0ZWtIYjdLd2VkZGMxZEtQNjBaSTVaZEQ4QnZtR2owNlluN0l5d0oxMDBtUk1RZlYwa0VtbW5JT3ZiSVJCVkVFQnVuNVF4T2FoX2RtTC1XVzl2cXdiYWhBSlplSmdEVEV1aEFaLTJXVi1IdEp5NlNjb1psdlMyRUNEaVE?oc=5",
+          "time": "18h ago",
+          "body": "JSW Motors Prepares For Brand Debut In India With First Product Now Confirmed! Here’s Everything You Should Know.  ZigWheels.com",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors Prepares For Brand Debut In India With First Product Now Confirmed!",
+              "Here’s Everything You Should Know."
+            ],
+            "tldr": "JSW Motors Prepares For Brand Debut In India With First Product Now Confirmed!"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794384868645",
+          "title": "Land, cheaper power: How Maharashtra plans to attract foreign universities - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHNHNWJycTdTbWd6Y2RYREhPWHp2aVlhX2duOFc0emZ4RG55S2NQSlBYMzQ5N25DWVRtVVVlbHpKd1ZERldmOTZXQTBWd2k4Vmh1ODFacTlNZFlSQkhLX2VleEg2RDNTcTVWNmgwRGhLck43aDNkMW9zby0zRktENTBUUVh5bmdqWGRPM3NDMmFFcWdEVUVPSkZnNEIyNWpKWFlUa1RhaHdpZWZhVTd6dU5QbldhckQ5cUMxZXZMUnBFNnUyYWFldzdR0gHQAUFVX3lxTE4yeTVabmY3NUVMc0lTejNvZk5wZGk0eEVGWFVJdmpRUzYyel9IWkdfb01fSjJPNWZCNXFFa2tyTWp5bkh6ZldoYjQtX0pQdE85azMzOERhdUpjYnNLVjd4RWtKTlRmUlp2THBZd1ZMakduVnlHMUY4TkdGVHJkV1B3dFN1Z1pVY2wwWk1kd0VOcThhT3VjeW9mbV84Yi1wVHIyRTRnMXlRRGZ2NkVIR0hNdFM5NlRNbHJ0aUhKczV0WGt5bTFKWmNsRkE4TDNxbUE?oc=5",
+          "time": "23h ago",
+          "body": "Land, cheaper power: How Maharashtra plans to attract foreign universities  The Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Land, cheaper power: How Maharashtra plans to attract foreign universities The Indian Express"
+            ],
+            "tldr": "Land, cheaper power: How Maharashtra plans to attract foreign universities The I"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794384868645",
+          "title": "JSW Motors Gears Up For India Debut With First Product Now Confirmed! Here’s Everything You Should Know. - CarDekho",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVo5RmlObDZBcWJ0a3JIanpUV1RQU2w1NDVwM1l4SnJaeWlZbU54VjhBZGhocWV3U2VSbFNEWVE5WnRYckNGZHpxX3hBVG0yaFNkZWo5aGxISEdmQk1EckN2T2VWTmlfcEU3cW0tQk5pLWdOeUstV0lLRVFsTlZ4MXJzYXBFWFc5ZEZyTVhYOHVwajgxSlFBMV9QYzlLbVcwTFhTd3VkLWdocHFla0R0VXNxNVAxczQ3OF9IME4yb21BcFlIWTlOeW41NTJ6YmxYZVd6a1JRbHJuZ0tka2o2M294WdIB6wFBVV95cUxPazlGVXlhbEhqbkV6cUEtLUlnOWVBUlI4ejB2bWh1VmNONzgzTlliOTRYdkk5MkhuYWpvd19mNEJlSGtwbFBOUmJBTHEtbXVxek01V2V5dWh5U2s0WUQyYnkzX2dXUWV4RUhmV1dSOHJZMFJTT3VRZ1NLeFFud3pac1NvaFBIa1hqVWVWbUlVaWZCdUkzSXB4RldHSENCX1dZY0NSSmVKVVFnMEhaQmsxaTk2aEwyYUUzcmo5RlEwSjNtcTdYanJwdVBZbWNLMEVBUDl0YURpeHVRM2lqRUVsUEZQeC1pc2RhMndF?oc=5",
+          "time": "18h ago",
+          "body": "JSW Motors Gears Up For India Debut With First Product Now Confirmed! Here’s Everything You Should Know.  CarDekho",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors Gears Up For India Debut With First Product Now Confirmed!",
+              "Here’s Everything You Should Know."
+            ],
+            "tldr": "JSW Motors Gears Up For India Debut With First Product Now Confirmed!"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794384868645",
+          "title": "Maharashtra: Mahayuti's Rajesh Patil elected Gokul Dairy chairman - National Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzRmb051dnRVSGxTSGlsQ0Y1c1hVSHhSNEpsTnQxTUI4MWNVNGVLcFJiN3JOVkdVMy03LUktR1g3ck1WbjNBU1VCb1I4d2c3dUM2YXFsQ0tMMVhNV0tGMlFaLXBITzBQVVdqcTBneWFoVmhQeXVOVTM1bnJiaDF3WWRoT2hNMzA4X3dCUUpBWHk5cjJZWE8wbWIwdEt2cVE4UDFlQjNpaWl4UFh4MnA0Y0RidzBtcnFvcHfSAboBQVVfeXFMUEc0Zm9OdXZ0VUhsU0hpbENGNXNYVUh4UjRKbE50MU1CODFjVTRlS3BSYjdyTlZHVTMtNy1JLUdYN3JNVm4zQVNVQm9SOHdnN3VDNmFxbENLTDFYTVdLRjJRWi1wSE8wUFVXanEwZ3lhaFZoUHl1TlUzNW5yYmgxd1lkaE9oTTMwOF93QlFKQVh5OXIyWVhPMG1iMHRLdnFROFAxZUIzaWlpeFBYeDJwNGNEYncwbXJxb3B3?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra: Mahayuti's Rajesh Patil elected Gokul Dairy chairman  National Herald",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra: Mahayuti's Rajesh Patil elected Gokul Dairy chairman National Herald"
+            ],
+            "tldr": "Maharashtra: Mahayuti's Rajesh Patil elected Gokul Dairy chairman National Heral"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794384868645",
+          "title": "ICSE, ISC Exam Datasheet 2027: CISCE Announces Schedule for 10th and 12th Examination; Check Details - Lokmat Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDRNN1BKUi01aXg5cUtmeUdfMlJXRmZqMEtmb2c0eVphTDQzTHRzNWdBY0xSSlN6NlpMLUhwS2FoaDRWMjJtLWd3UmJIMnIyWUhCNmtyYU9Ma2ZqNmc2YVliNVdzLXQ5YklsVnN5VTNCbXRhT0tyOWROUWpMOGdxRElBRXJPbkNadHpsUjJOTGx4Q2pSNUlrVmtVLUhtajNxQ3ItYjhCVndfYWFfcEw5RnJxUU80TFhIVFJSd2dPOTFFcW1QX3FlM0dYRlZXeWxYTUxhVUl3LVrSAd4BQVVfeXFMT1pOYmY3aDgzRDFpVFZmb0FHNTJRMEI3S19NdE9PU3duaEVLaFRnNWJUSTBrSkdLTnBNWFliUUJORGNBQlhYY0xZR05ZYzQ4SWFNVmJiVll0ZHRNLXVBX203Q3hLV3ZfemNaN05tNDlpMlVsQnRnMVYyU24yRjNKXzBzUWJPd1lZa1dlTkRTbGwyQnBYamtPU1l3Q3RkSGlyY09Nbm1kOHp0cVBuaG5FMW81ZFgtU2liQ0MwVXlvUDgzUUpHY3B6SVJMVkpnUjlnYjNzcEkycXRFZUVRbHB3?oc=5",
+          "time": "21h ago",
+          "body": "ICSE, ISC Exam Datasheet 2027: CISCE Announces Schedule for 10th and 12th Examination; Check Details  Lokmat Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "ICSE, ISC Exam Datasheet 2027: CISCE Announces Schedule for 10th and 12th Examination; Check Details Lokmat Times"
+            ],
+            "tldr": "ICSE, ISC Exam Datasheet 2027: CISCE Announces Schedule for 10th and 12th Examin"
+          }
+        }
+      ]
+    }
+  }
+}
