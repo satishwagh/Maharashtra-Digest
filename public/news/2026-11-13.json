@@ -1,0 +1,795 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T08:40:31.594Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794559225788",
+          "title": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQend6ZnNjcVN2UHdXaGZ4T0U0NzBudWpMUk9LYUNrSy1UdVVvOEM3MkoyX3pkOHNNeHA2WjN4dWJhMmhSdkJ3Q2lhQUc0OHRiWlhlQklsU1dwcXB1aTYyMmN6VTU4N2JBTm5oV0t1eklsN0dkYjFsVmhlUEdQbHBLQzhmSkYyT3d1bkl2Rkk5djREYUlmRkk2NDdDWFNrSXF4WGFfelZXeG5rQQ?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport News On AIR"
+            ],
+            "tldr": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794559225788",
+          "title": "Maharashtra is checking your smile. Tukaram Mundhe’s FDA may knock soon - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2RucEF6bWRVZGpHWGhKYUdWUExpQmpxZW1WbjI5ZjhLNy1jdXVMVjBNM3NBTmZNZ2x2RUFjMWU4aVhqeDBzb0tmdWdLSjBrQWlfVHFGUXF5MHlGUU9XVUJHQ25sdUtfMjNRdlVmVWxqYmlMSi1udzlNTE9iNTlSUE1Sd0NaOWM3dGc0V0didVdGdDVKSllObDE3MEFzRnMzZmFVZHhGYU9sVnB4N3NKczBaYVlDeTDSAb4BQVVfeXFMUGdUSTZHbWdqWTZ2RVdBbTg3TEo0eFFNUUttdVVxb2pQazMtd0E4WC05V1hCcmYtOFlnS0RyQmt6THRZaHJJRGRxcHlzWS0wajZZUWgxOTlJaDBWQm53b2xyZnpxcFdlMTBBWTdHVUlhSHRabS1IUHdjZ3Jibnl6U2twM1laRWhMd21ob2F1QVhiaTF4OVFQelZjYWpzZ2NTQWFKRC1NUHVVY2FEQnQ0SDgyejlUZmFSSnp2RXdxUQ?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra is checking your smile. Tukaram Mundhe’s FDA may knock soon  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra is checking your smile.",
+              "Tukaram Mundhe’s FDA may knock soon The Indian Express"
+            ],
+            "tldr": "Maharashtra is checking your smile."
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794559225788",
+          "title": "Sharad Pawar will strongly raise vote theft, SIR issues in Parliament, says AAP MP Sanjay Singh after meeting NCP chief - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQnNRSnBFN2tCSjYyT1dBUXZTcTE4X3pIc3dXeGllMVNfSVlqVEh4MzNlY2dxM192Ymd6LU1MV1hFX1JVcW9DUEdEdi1vaC16ZW1aQmNYM0F0X2ZOdHp5czFYR2xHVkhaNVBVLUhvZFQyeFVtMHpnX3VUa2huQUw0U0tCOGd3bzk4OHJqUTFwSjF5a2M3UDdoajBndk5xNmN1eXB3QmhwRkFsV1lSdUNtR0lnRzd5S1FqUHlfWWNkRk4xWXdKMnd1M01HSC0tQ0JXeERPR2pXWnJKazRwQWs5T3VpSXdfMEtkVjhMa3BzWGx5My05dmRCTTFrbUt1enVUTFhYdGU1a18?oc=5",
+          "time": "3h ago",
+          "body": "Sharad Pawar will strongly raise vote theft, SIR issues in Parliament, says AAP MP Sanjay Singh after meeting NCP chief  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sharad Pawar will strongly raise vote theft, SIR issues in Parliament, says AAP MP Sanjay Singh after meeting NCP chief ANI News"
+            ],
+            "tldr": "Sharad Pawar will strongly raise vote theft, SIR issues in Parliament, says AAP "
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794559225788",
+          "title": "BJP MLA’s son accused of drunk driving in Seoni crash that killed one, injured five - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3FDdTlsWF9FMFdKd25UcnJ5aUFNbVpiMlNTaXVJQjdQbkFJYko4OFYzaFRkZzBCUnNIN3hqb3Y2YVNFY3dkWFFjanhnVWdEQmxnWnVOWW53bUFYbWlXREp4NzhrTThyOWZ6ZS16SHZnZjVRQ1FwdTNvMkVFbk9COXQwWVVLaF80akM3TmdtM295U0FPc0VSQWJ5cGhYbkpqSkFVSEJsemhBVWk4N0xOTnFOX3N6cjctSnM1cDJ0cUk1NjRqQTliSEZWZlU4UnozWnlfM2JzWjdjM1czWXfSAesBQVVfeXFMTk0yRURfbDZVYlJ2OS05eU9NemNEdjhIcnhBZkFhUURNZEVXTkhReTNVcW9DNFVqenlBeTBfMU5ocklNSDlmdzZZblVKMlVxemxySTkzQ2pCb2M4MzZLTjlBaEh6RVFoOVh4aG5TVFk3TUpZajRFdjNlZHZYSEh4ZUxmNnlQUTdrakw1Zm9MTFhTc0pwUHVLanYxVGd5T1VZOXBVRHJISEhoTjY0MlY0OHZBNXdXTWVPQjVIc2tYWHRRMWFCTjdtWVVyd0FLRHRfVnRaMk5FVWYtV0I0WjdiUmZkS1FIMzE5dVFkRQ?oc=5",
+          "time": "18h ago",
+          "body": "BJP MLA’s son accused of drunk driving in Seoni crash that killed one, injured five  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BJP MLA’s son accused of drunk driving in Seoni crash that killed one, injured five The New Indian Express"
+            ],
+            "tldr": "BJP MLA’s son accused of drunk driving in Seoni crash that killed one, injured f"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794559225788",
+          "title": "AAP will form govt in Punjab with huge majority: Sanjay Singh accuses BJP of tarnishing state's image ahead of polls - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcHhWZEw1SXJDcGRYMzMyRnJSZzh2YWprSTFmVE00M0hrM1o5X2xpUjFFT18xWlRBNkRvcUR6VjduYWZxVHo0Qk1MdU1BVnRYLWNJTVg2R1EyTkFoOURnaDNmSHhIenYxMEd2NWhFcEJubmpWaFFSdWpybS1tVk5uZ0pUSG03YURPOVFnQWxneTVIdHpCbUZYaGh2UDhpTlhfb2EyZGdlN2hPSV92RzZfY2N6NUh1NzEzaldyaWFBa2J6dmFKTGVCX2FlWXZ6REVLRlhwTjd1bTFrX21SYTBEWm1GUnExRFRfOXhVeVF1bWthdFNtUnoyMkFIeGJCdXpnelhuWTdRWlBWQQ?oc=5",
+          "time": "21h ago",
+          "body": "AAP will form govt in Punjab with huge majority: Sanjay Singh accuses BJP of tarnishing state's image ahead of polls  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AAP will form govt in Punjab with huge majority: Sanjay Singh accuses BJP of tarnishing state's image ahead of polls ANI News"
+            ],
+            "tldr": "AAP will form govt in Punjab with huge majority: Sanjay Singh accuses BJP of tar"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794559225788",
+          "title": "Sanjay Singh meets Sharad Pawar, says NCP (SP) chief will raise vote theft and SIR issues in parliament - The Statesman",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDQyWnJHbEZ2U25SM2EyeGczQjVYWjNYSVNQTDNWQ1VKS05zMUtoVy1PZy1DdVhfZGkyS3BDOGxrd3NUcldYaFY0S3hVeC1xejZoOU5ybVFUWFpzX2stNTlXTjQwX0puQXpJbC1Yc1QzMF8wam1NUFdlSTUxYTBMSWl4UEpCOEVoalpLM04zemxhbFM2WDBIMjE5eWliS2p6d1E1Rl8zN0NJVWdLdDRNY09Kek1iRmk0LWZ1ZUt3YTdIR2ZlTGU1Ym9pR3F2cE15aUVYZ2xid3JHdDh2a0FIWTJ4MVdRbHQ5NXVr0gHrAUFVX3lxTFBsNDJackdsRnZTblIzYTJ4ZzNCNVhaM1hJU1BMM1ZDVUpLTnMxS2hXLU9nLUN1WF9kaTJLcEM4bGt3c1RyV1hoVjRLeFV4LXF6Nmg5TnJtUVRYWnNfay01OVdONDBfSm5BeklsLVhzVDMwXzBqbU1QV2VJNTFhMExJaXhQSkI4RWhqWkszTjN6bGFsUzZYMEgyMTl5aWJLanp3UTVGXzM3Q0lVZ0t0NE1jT0p6TWJGaTQtZnVlS3dhN0hHZmVMZTVib2lHcXZwTXlpRVhnbGJ3ckd0OHZrQUhZMngxV1FsdDk1dWs?oc=5",
+          "time": "2h ago",
+          "body": "Sanjay Singh meets Sharad Pawar, says NCP (SP) chief will raise vote theft and SIR issues in parliament  The Statesman",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sanjay Singh meets Sharad Pawar, says NCP (SP) chief will raise vote theft and SIR issues in parliament The Statesman"
+            ],
+            "tldr": "Sanjay Singh meets Sharad Pawar, says NCP (SP) chief will raise vote theft and S"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1794559225788",
+          "title": "Raj Thackeray accuses BJP of stoking Marathi–North Indian divide over Chhath Puja; urges Sainiks to avoid ... - The Hans India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUFF3NzJSeDdWejZjSU9qeVBJYmp4MVNwYjNhaGZsbnNUQkRwNjdEYzRjWTJSMURYLVpLdEJSOVl4SkZYellIbjJEZzlkbnFnMFJRZy13bGVMWXdlcGJNWXNmNC1tc2R3aEUyMktSMERGaHdnSlp3NWZxN01rbHcwMGNlMWdyNHI1YTZFRmtzQUN5cF9obzNPdjU4M3kzSFVQWHMzZjZyMTVkc2dYQ29JUUNaT0NuNEVpcFJ2UzZWVHJRYkFlY2hoUUtqUkF3N183VUpYeTE2bHA4M2RWRU9nZC1xWEhQdGVrWU9wV3pQdF9uNzUtT2pRR19R0gH6AUFVX3lxTE9QUXc3MlJ4N1Z6NmNJT2p5UEliangxU3BiM2FoZmxuc1RCRHA2N0RjNGNZMlIxRFgtWkt0QlI5WXhKRlh6WUhuMkRnOWRucWcwUlFnLXdsZUxZd2VwYk1Zc2Y0LW1zZHdoRTIyS1IwREZod2dKWnc1ZnE3TWtsdzAwY2UxZ3I0cjVhNkVGa3NBQ3lwX2hvM092NTgzeTNIVVBYczNmNnIxNWRzZ1hDb0lRQ1pPQ240RWlwUnZTNlZUclFiQWVjaGhRS2pSQXc3XzdVSlh5MTZscDgzZFZFT2dkLXFYSFB0ZWtZT3BXelB0X243NS1PalFHX1E?oc=5",
+          "time": "2h ago",
+          "body": "Raj Thackeray accuses BJP of stoking Marathi–North Indian divide over Chhath Puja; urges Sainiks to avoid ...  The Hans India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Raj Thackeray accuses BJP of stoking Marathi–North Indian divide over Chhath Puja; urges Sainiks to avoid ..."
+            ],
+            "tldr": "Raj Thackeray accuses BJP of stoking Marathi–North Indian divide over Chhath Puj"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1794559225788",
+          "title": "Sharad Pawar To Raise Vote Theft & SIR Issues Strongly In Parliament, Says AAP MP Sanjay Singh After Meeting - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSUExQjlWN2ZaanJlSm9xbVd5eTZYZFdWOXE1VEp1WUJqX2ZEa1dQRzRBcHNTV0diNDFaSEFpODBNM1lXTmNPeklhNzhUMWl2VHlONmVlWHNuTkRXUU9mY29vQUoySVRBSTNrcWo5OEhIMHZ4ZmNrVmxicWFtZHhZWWJUYXFMZkVaU2dKemg4NVhtcVFEemVIR0RSZ0ZZZjBUbm9CUk9zclFlUDc0ZUxMdDlQa1ZwNFRNUmlLWFNRdmk5TkY5VEViSVFlMkFoWEV1WlJrRFpTSXVzcm1ZV2lzNlo2QkFpbzk1ZFJRZWJ2RDNERnZmQmpYSGh4U2xiOWJQRUFEbXlkZTZjWEXSAZACQVVfeXFMTUdtYzNiQnJ4cFljZzhTa1RUMHJnVjNFWHVaUi1LazNaanZRcmsyUHlHd2dRd3QyU2RyZ2hiblFtUEhFMkt6MmJMMV9JaU1leXFJQXhvNUN4eGl6c2pxdGFFMTJ1V1NROFFJMlQzYngwT3ZGQkFSOW5UdERtZFBKbU5lYVh1SkU0enAxR0FiMXNlbzVSNlItN3dhT1BrdXBKYVpNRmtOYlZxSzNZUDlfTk9oLWhURzRQT1Nacy16TV8zdkZGaFVFbk1tRFI3cnFlekNBeU9GREJQS3hqZVJVZGdGV1MwNEpTTmZDYkowNXBaVldQcFo4YUlza21yTlA4REFQUFl0ZXU0TnhGZWk3NXg?oc=5",
+          "time": "2h ago",
+          "body": "Sharad Pawar To Raise Vote Theft & SIR Issues Strongly In Parliament, Says AAP MP Sanjay Singh After Meeting  Free Press Journal",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sharad Pawar To Raise Vote Theft & SIR Issues Strongly In Parliament, Says AAP MP Sanjay Singh After Meeting Free Press Journal"
+            ],
+            "tldr": "Sharad Pawar To Raise Vote Theft & SIR Issues Strongly In Parliament, Says AAP M"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1794559225776",
+          "title": "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200 - Free Press Kashmir",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjdoNHROM1dHdEtOX3I0b0JfdGZUNklqNEJZRzk3MW5tcVhaZURHV2gzYTlQNi1YTkJfSFkyRnZFeDQxWWJxZEp2RkdWYkVnT1JVQU9VOTRIandjZGtUUFpHMUZpc0RjYTBkZHVLUnMxdDNmX1lCN1pqZUFtT0gyeWk3QnYyMWV3S3RaVnFlUmhKcDRfTFBGQmp2Zl9zSXZLMU5nazEzZ1N1RUJkNVdNRS1R0gG3AUFVX3lxTE1BaE1STGJIZzNPcUZHZUdzdHFqUXo2WjVIQzlFMS1SOGtKZXZaelNkN1RzY0xjTm5xQnh2cXFQUHphUGhNYlFsZGhOeDlxVDVhUE16R1JTemhRRkxLUEFDbFBFTFFLSDJDQkFhTGJCa1FhamlzZHI0dkloVmFJODUxZnVJYTgzX1J1ZS02VG5ERVFDalZsZnFsa2tJeVhiSlliYk9pNlFQazJaM2UxWXBHWTNZV0tFYw?oc=5",
+          "time": "1h ago",
+          "body": "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200  Free Press Kashmir",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200 Free Press Kashmir"
+            ],
+            "tldr": "Sensex recovers over 400 points from day’s low, Nifty climbs above 25,200 Free P"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794559225776",
+          "title": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNVZDI4MTRjLW91amhMTUxKaDYyV1Q2MktXRi1DeUlGNHpWZ0ZqekJCTTZVMnJRVkl1Z0doNlVfUi1lNmVVWmNoUWxFZWNJQVgybHRnaDlFWU5Nb3FqN081emtrdThtQy1od0tUOWg5bFRTRXBCODZLdXNPVjlaQXFtYXY3M3JfdlA2aDF0SU82UGJXZlpneGhzUVVnVHZGX1p3dWU1RVlNRU5KX3dDV1RuYWJiQWtPYjZSMHphTlVaZGvSAdABQVVfeXFMTTR6TUloaGhNcF9RWlM4Y0NwSFRXTFdSYllvYjRkbjFQUWJlOGFxb25RX1NzTWl6ZFRZYUowdm9VbzVuSzFnbkFhcTRIX0pfM09UalduR1RYYTlxYllvb0REbEFVVjQ1VXFvZlBLeWpzNk9MbVkyQ1Z3VkNycW5TanNnSkc4UU5DYXptNDFETmRUQ2Flck0yNVZGWk44RlotNXNRUVUwOVNmY3FQclIxOW5VUy1JbG81SzZNSnQ3WHEtNEYyeFNtSDdRN0t6UjZsNQ?oc=5",
+          "time": "3h ago",
+          "body": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points  The New Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points The New Indian Express"
+            ],
+            "tldr": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points The New"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794559225776",
+          "title": "SpiceJet to file overdue financial results after BSE warns of suspension - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTEZDaDNfbFNMTUttOWpUaF8xbi1QWU5mVjJBWUNUZVByUEY4SVdHYlE0SDM2VTR5c3BpQmY0M01UNDBGZk51UjhxYmZDNHhnRGRNOTlQVnYxaktRTkd0ZnBnQ1k0eUxfa1FZS0paLV9saTlMUGMteTJSZDA4XzgwVkh2SHVzdTFMQ3E2WHdOOWN0Ti1NcXlVS2dGSTRybVI1QWZCemhCSE0yNGkzVU5OLXBPYkN6dFFhOG5WYjFtNEptUVh6bDJLVFZnWEJTdk9sN3l5YnJ6N0PSAd4BQVVfeXFMTVFhMVA0cXVoTGphaFptemhWRmRmVFZqNmVBdDExUl84Q3JER1ZUMEtBN2FrY3RCRldHVElfNTloX1V4RmcxdkdvdF9lLU5iNWJ2THZSN2tyd3cwMjlGQjFZbFlLZTB5ekRqOUVxMUl1bUt4U2NLdDBLbXBFMVM5SEVCRjBFc18xWkp3YU90NHNURU1rRXp5eDQ3cmRxYzVET1huc0QtSjdYWTk5UWg1UVZTS0w0S05rQUhLaGtPZFUwTnZtejJHYmlaZFVsTi05NFFpNml5aWUxU0ptUTFR?oc=5",
+          "time": "1h ago",
+          "body": "SpiceJet to file overdue financial results after BSE warns of suspension  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SpiceJet to file overdue financial results after BSE warns of suspension Business Standard"
+            ],
+            "tldr": "SpiceJet to file overdue financial results after BSE warns of suspension Busines"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794559225776",
+          "title": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGFCTzJ0UzBpdmVNcE9GMmhjaWQzZ1I0Y0NfWmRnRFdxNFhRaFFOR2RCZF9haWxrQ05aTXBLdkNRMjhCMTVYNE1mV1p6LWdqd1gtNVpuVWxhUFVkTEpnVGtjYmZGTXo1VTVSSWd3TEJmcFNRZGNWdXphUUY4cVBTWGVTMUJnaFI1WmQ1NDdLQWc2bW05OFQyNC13b3JxZGlVWW00?oc=5",
+          "time": "15h ago",
+          "body": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty INDIA New England News"
+            ],
+            "tldr": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty INDIA "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794559225776",
+          "title": "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmNNb0VvZVlfSmM3MmhPNEdaa0gwRE1kWTFPU2IwaVQwYksxajN6WjltMXhMSHB6RnBDYk5lX1AxUmw0SkR5QXhlTy0tdHpuMUR5cVh1OGhGZ1Y0aTF0YUdZMm5YSTV5WXR1OWY2Y0wwdTNpRG9nay05STNpd0I0SzFyTGtFaVduNEl4dG01MEtiSDZWQUpCSExYMi14ajFfYndFU2R4b1BPT05XdldiNFF6T21xLWNwMmlHbHVJSE7SAcABQVVfeXFMTlJjTW9Fb2VZX0pjNzJoTzRHWmtIMERNZFkxT1NiMGlUMGJLMWozelo5bTF4TEhwekZwQ2JOZV9QMVJsNEpEeUF4ZU8tLXR6bjFEeXFYdThoRmdWNGkxdGFHWTJuWEk1eVl0dTlmNmNMMHUzaURvZ2stOUkzaXdCNEsxckxrRWlXbjRJeHRtNTBLYkg2VkFKQkhMWDIteGoxX2J3RVNkeG9QT09OV3ZXYjRRek9tcS1jcDJpR2x1SUhO?oc=5",
+          "time": "9h ago",
+          "body": "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil  Daily Excelsior",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil Daily Excelsior"
+            ],
+            "tldr": "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794559225776",
+          "title": "Standard Chartered brings four Signature CIO Funds from GIFT City - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0JtU2NOU1JFRU9hUmF5T3N4TVRWX0hFRDRyWWQ2QXZqOERYU3Nld1R6aHg4cXR2VUNQMDE2ZEtDdEcyeE5mRWNObG5NRHVQeDJLT3ZYWWd5MUFjUkFYcVR1Z0hieTRLcFh5a2pqZnZJc0Z6UG5Uam84dE5VOVdST1pkRmxuRWhIREZoV1J5WmR3MTU2Q2huc2V0aDNYRVctNHNaU0ItZWhVcGNYTFdQeHQtVHhBa2pkUEF3S1BrWjQ0ZGdBLTRxUlZBVHrSAdIBQVVfeXFMT2pCNGFHUW1mWHViTmppYmp4S0JmekNKQTdPUHZoTWYzN011akxVNExaTlBKMnRqUVhDQXkxbi1mcU5VNmtsa0FRVW5DQ05QSHc0NTk1X1lHSmJ3WFQ0WlhZcktVMVg3Mmt2R0F3ekRoVDRGN1drbG1pWlp2aFpxRWhlTG96VVcxSmtSWTJzV0o5WmM4R3VCTURLeDl3RkVpemd2aWlpNVQ3V3hKUEpQZ1gxZ2Z4a25YVW5sZjQ4dnpqUnJUT0t6SnR1QTBRSUxZU3Rn?oc=5",
+          "time": "15h ago",
+          "body": "Standard Chartered brings four Signature CIO Funds from GIFT City  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Standard Chartered brings four Signature CIO Funds from GIFT City Business Standard"
+            ],
+            "tldr": "Standard Chartered brings four Signature CIO Funds from GIFT City Business Stand"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1794559225776",
+          "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
+          "time": "3h ago",
+          "body": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex Falls 289 Points, Nifty Slips HDFC Sky"
+            ],
+            "tldr": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1794559225776",
+          "title": "Sensex, Nifty End Flat After Strong Rally; FIIs Pump $6.43 Billion Into Indian Stocks in November - Moneylife",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUjJOdzZzZXIwU3Y1Z29Ib1JoVTZlWVlNanR2eEdWXzAwbDlzMGdDRFdGWjI2ajU4cjlQT0l1cFhTb2MxVGFrWjYwNmk0VnV5NkdyRzdsOUd3MXBMNjBwMGJFNVZuNFgxY0J4dmFWelVVMXBDTW1mNDEweTdDamRoZHpnLWVRdzhSZjBoMHMyaG9SdzFuMTFQU3NTR3MwbnRINURqNkZseHl4Q1o0djdETExFeHJ4Sy1JanpuVy1ZZ1RyZ2JfVWxUaDZiRVhZMkdlLUk4?oc=5",
+          "time": "20h ago",
+          "body": "Sensex, Nifty End Flat After Strong Rally; FIIs Pump $6.43 Billion Into Indian Stocks in November  Moneylife",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty End Flat After Strong Rally; FIIs Pump $6.43 Billion Into Indian Stocks in November Moneylife"
+            ],
+            "tldr": "Sensex, Nifty End Flat After Strong Rally; FIIs Pump $6.43 Billion Into Indian S"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-1-1794559225788",
+          "title": "Establishment of Maharashtra’s First Murrel (Channa striata) Fish Hatchery and Awareness of Murrel Fish Culture for Livelihood at Ambegaon, Pune, under the Technical Guidance of ICAR-CIFE, Mumbai | ICAR - Indian Council Of Agricultural Research",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd1pHRExpMGdfeWhYVUpOWjZheHdyWWhnc3RHZDRsLWpqcmFxa21IckZPYTRsNERHWVZTZ3Y3TjB0eVk3b0U3M1RUWkxkb0dveXJHRERoQS1CcXlWaW8zM0IyLTUyVDJNTXZwWGotZ0pwdVNZYnpfTnl2N3FaZFZFOVFpNkpvbmpsdG1YSDQwU09tRTdjMXVlMVExUmZNdVdMU1M2NW8zQmtlUDI3WFRhVXUzM2pxV0dPLURxLXdR?oc=5",
+          "time": "20h ago",
+          "body": "Establishment of Maharashtra’s First Murrel (Channa striata) Fish Hatchery and Awareness of Murrel Fish Culture for Livelihood at Ambegaon, Pune, under the Technical Guidance of ICAR-CIFE, Mumbai | ICAR  Indian Council Of Agricultural Research",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Establishment of Maharashtra’s First Murrel (Channa striata) Fish Hatchery and Awareness of Murrel Fish Culture for Livelihood at Ambegaon, Pune, under the Technical Guidance of ICAR-CIFE, Mumbai | ICAR Indian Council Of Agricultural Research"
+            ],
+            "tldr": "Establishment of Maharashtra’s First Murrel (Channa striata) Fish Hatchery and A"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794559225788",
+          "title": "Ashish Shelar assures Bollywood's safety in Mumbai amid persistent threat calls, says \"Yahan darna mana hai\" - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUFV0RDNrMWNnOFpUQkVQTHBuMldfRHV4MDQ5dVpiRFVoTTUxZkdrTEp6N1hUekpXOC1OS19uekxETXBMM2dtMWREbF94NGFFbWhRampSMUlyV3EwU0RIOG1NOE14NGdmcHJUeGlVbzZJWHhqUzZ2bTFzODFXc1FWckNtNE13QkpscWVQRWZuLVIzTTdDc3VSSjU5RUZJeFpKczFaMlFGVGJieC1KY2Z2Z1JwQW11bkZWcW8tVUNCclh4b2pQcUhIX1Y1NDJ1QlIyWEJIS0dVZjM3c09SWEFnU2F4RDlBemtiRlpKX3ljbnlJQWFwOUZiVTJoRjlRRDA?oc=5",
+          "time": "22h ago",
+          "body": "Ashish Shelar assures Bollywood's safety in Mumbai amid persistent threat calls, says \"Yahan darna mana hai\"  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ashish Shelar assures Bollywood's safety in Mumbai amid persistent threat calls, says \"Yahan darna mana hai\" ANI News"
+            ],
+            "tldr": "Ashish Shelar assures Bollywood's safety in Mumbai amid persistent threat calls,"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1794559225788",
+          "title": "Mumbai's slum rehab authority tasked with making slums malnutrition-free as health dept report flags over 5,000 cases | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOWlFLUGRMSFc1MFAtWlBpLTlMaEpFa002QkNSWXBiMWs2TE5KM01WU2piWGRxaTV2ak9aQ2lab0FMcGZBTzV0dlE5Q1R3S2R2dUp2Tk5ubFRucW9nQ1NyUGI0R1QtUVpadUFqSmx2cUpTRVRaTDNmeGphZXFWVXRxZU1CVWJTd0t6YkJaakw5dnhhaUJWRHJhLWpJVS1kMm4zRm9hN21TQjdKQlRZYjdDS1V6TVF4cEFTTU15TXVlUXczSEtfcWRoNXM1b1VOVkh6eWdybEpYWDVUM2dFYnNoVlpKRDBkTC1GaTNZN21yVDJabzhPV2FNc1NYOWRiTHhDajM1SjFXRFdFMDM3X1phajBYekZYQdIBmwJBVV95cUxPLXhpbl8xWjBQU01EN3F2R2o1QjFOSHJuTGdPSXJHZ29UcjRiQXh3cGdJUGk4NjdFVmJJZE10M0I1UDNNd3J0Rm9MRFEwcGFhY0hCVkxGSVA1QmVNOWVuRWFockZ4eDZ5dWtLSVBPMzJPOHp0T1NIUkpIcWRZb2NfM0lXWFlTSE1NWkpqR2c2azhWdkN4cFR4cmVNMzVhS0FHbTNjUWRIb0xldE1QSXJaY19rQmRwS3F0dXdLM1ptZHBVS0VYalB5N2RacG1FVVdyU2szdVNDMXVtenJ4TU1IUmVfTTE5X0hTZ3lkNGFud1lMOHJ4bFJMNk4xT1ZUS2JhWDdlODdkTVMxYU1FOUpVX01aamRQbmVENktZ?oc=5",
+          "time": "1h ago",
+          "body": "Mumbai's slum rehab authority tasked with making slums malnutrition-free as health dept report flags over 5,000 cases | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai's slum rehab authority tasked with making slums malnutrition-free as health dept report flags over 5,000 cases | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Mumbai's slum rehab authority tasked with making slums malnutrition-free as heal"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794559225730",
+          "title": "Bhojpuri songs at Mumbai railway stations ahead of Chhath Puja spark row - Mathrubhumi English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR0ZldG9jNFBad01RakN4MjdjdzVPY3RtUEQ3T3hvVmpsNVd4S0o1VF9ONWZRdFp2N3d0WmhVQzNrc05wcnI5bWdBTEY4S1dkS0ptOXg5a3hQMkZpdEotQV9PT1pyRHlLdnFESEhLTm5oLWUxX1RTamJqemtFNm9HT1pOeTBLVEVBeURlV0JYR3VSZXd6RC05Nmp1ajhfOERnMU1zTTFPaVRrRDE0VFZJRDFDMW8xRFdFX2RMOG9pWdIBvwFBVV95cUxOR0ZldG9jNFBad01RakN4MjdjdzVPY3RtUEQ3T3hvVmpsNVd4S0o1VF9ONWZRdFp2N3d0WmhVQzNrc05wcnI5bWdBTEY4S1dkS0ptOXg5a3hQMkZpdEotQV9PT1pyRHlLdnFESEhLTm5oLWUxX1RTamJqemtFNm9HT1pOeTBLVEVBeURlV0JYR3VSZXd6RC05Nmp1ajhfOERnMU1zTTFPaVRrRDE0VFZJRDFDMW8xRFdFX2RMOG9pWQ?oc=5",
+          "time": "15h ago",
+          "body": "Bhojpuri songs at Mumbai railway stations ahead of Chhath Puja spark row  Mathrubhumi English",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bhojpuri songs at Mumbai railway stations ahead of Chhath Puja spark row Mathrubhumi English"
+            ],
+            "tldr": "Bhojpuri songs at Mumbai railway stations ahead of Chhath Puja spark row Mathrub"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1794559227016",
+          "title": "Anuga FoodTec India 2026 Showcases Advances in Food Processing, Packaging and Automation - PotatoPro",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3QwdmhjX2RoRUxYWU1vUUJKV3V0WncwZWpYTlBnX293TWZ3b2tfY085NVBvdFI3OWd4SjRIeW1ud2JEUkxQdGhwVWc0T3hPN3hWeUxSd1dxcnk0dHE4bFhIc2F5RW9SelRxUXpkSlZCX1FFamNHc2ViWEhvQlZjbVNPcjhkbHA1TE1Jd2NlX2x3OEx5OFFBSm9HYnJ6NHktNTBnWU85alAwRnVuaGx6aHlSUVU1SmNZd25feg?oc=5",
+          "time": "1h ago",
+          "body": "Anuga FoodTec India 2026 Showcases Advances in Food Processing, Packaging and Automation  PotatoPro",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Anuga FoodTec India 2026 Showcases Advances in Food Processing, Packaging and Automation PotatoPro"
+            ],
+            "tldr": "Anuga FoodTec India 2026 Showcases Advances in Food Processing, Packaging and Au"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794559227016",
+          "title": "QKTech Launches Techniqk, Agentiqk and Expands QK AI Labs to Engineer Reliability for the AI Era - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRTZHR0dvbXdERVZ3ejlJcHdQb0VsMGdDSTlCaFN0UGVMRGFzel9hZlEtRFg3ZFRpdmRxVTlxZ0czdWNMVEhzWnlmTTg3Yk9aeVpkd2Roc0hJeG1TNlY4c0g2MTNJcWYzLXZFMFQ1emJ6WHI2S2ppNkFWNk1mRWY5ZjU0RGdXM0puMHIzTVJKcTJNM3pYdnZEY3hlREpNVlcybjVZSkw4M1ZzNTRyMzhRT2tHWG81bTNuRy1Sd09EMENXUUtPRDd1c2x1Q3NqY2loUXhIcNIB1AFBVV95cUxNRTZHR0dvbXdERVZ3ejlJcHdQb0VsMGdDSTlCaFN0UGVMRGFzel9hZlEtRFg3ZFRpdmRxVTlxZ0czdWNMVEhzWnlmTTg3Yk9aeVpkd2Roc0hJeG1TNlY4c0g2MTNJcWYzLXZFMFQ1emJ6WHI2S2ppNkFWNk1mRWY5ZjU0RGdXM0puMHIzTVJKcTJNM3pYdnZEY3hlREpNVlcybjVZSkw4M1ZzNTRyMzhRT2tHWG81bTNuRy1Sd09EMENXUUtPRDd1c2x1Q3NqY2loUXhIcA?oc=5",
+          "time": "20h ago",
+          "body": "QKTech Launches Techniqk, Agentiqk and Expands QK AI Labs to Engineer Reliability for the AI Era  TheWire.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "QKTech Launches Techniqk, Agentiqk and Expands QK AI Labs to Engineer Reliability for the AI Era TheWire.in"
+            ],
+            "tldr": "QKTech Launches Techniqk, Agentiqk and Expands QK AI Labs to Engineer Reliabilit"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1794559227017",
+          "title": "Logic Labs Infotronics Expands Focus on AI, ADAS and Connected Mobility Technologies - The Tribune",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGlWRFdlZEVHanF3YmFWdHg4Z3FxRm1qbUc5MEV3VkczYm5aNXVYdl9uS1hQeFJSbjVRNzU2X1lKVW9WUmkwY1dQem5iNks1dks2cUo0c2pQalZMdlMwLUMxYzJiSzhscFozM1R4MEx0ejNROE1SWEJfaHVhVXk5bmlyUUhuLWxWSlU4bmFzb3JpdW9nWmcwTEFIeUk0QndlY3pMUGt2TlhkZ2d2RzJUaHE1VHJneDd0aUlZRDNOVHRzcFNpT1HSAcoBQVVfeXFMT0tDSTZOTkJxOHAyamhCRmoyVjlzUWh4bjhicWo0UmlRb3BSR3czNXoxMGRsTGdxdm84NjhPMUxXS1dpZEVERDkyTzBaMUxzNzhrZkJ2NGo2V21SRkp3enZwN1RRSkQ0TEFWM19DQUk1Tk1TMGxUNmRWTVRfNFBzTEJqSnI0SlRuazkxMEp0UEhJVWtZMjlxMkZmS2lCekxqanZrLXNxTUo1VlZZRGIxY3lQazN2X2hSNGx1ZWZNVzNKNDNZYXFJMklEZw?oc=5",
+          "time": "3h ago",
+          "body": "Logic Labs Infotronics Expands Focus on AI, ADAS and Connected Mobility Technologies  The Tribune",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Logic Labs Infotronics Expands Focus on AI, ADAS and Connected Mobility Technologies The Tribune"
+            ],
+            "tldr": "Logic Labs Infotronics Expands Focus on AI, ADAS and Connected Mobility Technolo"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1794559227017",
+          "title": "Diwali property registrations in Mumbai hit 4-year high at 3,683 - The Hawk",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3ZscUhmR3JKNXQ3MzZwbTBPR0thS1MxaGdpcmNLSFVTMVJSUlZ5LWxuRkRMV2ZfRmlDdHJYMTNaMVMtYmlfa0lPTktDMmE1dmtnYWhLWklZZ1ZTT2thZFNQRFlyaEgwUHNGcGNoRTQ5eDdPcXJVaDdsMVBZdEc5SU9hVEw0ZzlmcnhReXk4NDFIV3drRTk4OGc1SFJ2bGJU?oc=5",
+          "time": "1h ago",
+          "body": "Diwali property registrations in Mumbai hit 4-year high at 3,683  The Hawk",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Diwali property registrations in Mumbai hit 4-year high at 3,683 The Hawk"
+            ],
+            "tldr": "Diwali property registrations in Mumbai hit 4-year high at 3,683 The Hawk"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-0-1794559227136",
+          "title": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGRPV0ZnZnVIS0tnOFU4QkFwSWVZVkxtbXJHSGJPb0pxNTlRa25xcXZrdFNpMGtNdDllSDRkX21tMVZmU1A0OVpSTFFJQjlkQ2k5Y3VPaUFfR29Odk44UzRvYlFpU3Y3ZHdmYlRoeGo4Y0ducTBzMkVHVVlsTlllb3YwbUNSdGhGNThkTDZKNlB4OWhwc1JOei0zWjFOamJI?oc=5",
+          "time": "7h ago",
+          "body": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "RR vs MI, 13th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1794559227136",
+          "title": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXp0c0lyUkNhdkY0T3JRTUVBSWRZbkpOLWlpNHBFcGpuMFVzclN6dlZURXFQbnp5RTNEV21tMDBXM1pfcVhIMVJZVkVwMG5ISmZRWW9GZVNQT2pjM3l5M25zRlk3R1RNZWRWVl92Q3pRamNicHBXbVVRTG9EeURPMVNiS1EzZUJMS1A0LU5xTC1FNmxyMUtvbWtqMmpQUFE?oc=5",
+          "time": "21h ago",
+          "body": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "DC vs MI, 8th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794559227136",
+          "title": "Quinton de Kock Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NUDVZUlFKaTZWVmRMbHVwYjNuRjREVWlkZXdlT2FBM2FlZTFYNE84X2ZtVnpVdHM1Vi1MYks5MFhZQlZjLXRrdU9pMXB4Q0ZWazgxRWpxZEJhY1pLWk5TSFl3V0RrLV9nd2M5VkRfdTY0UjdPQVpVSA?oc=5",
+          "time": "6h ago",
+          "body": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1794559227136",
+          "title": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdId1JjZkVMbkxmZnRXVW1TVEk4RU5jaFhkcTZHUHhCSjNCLXd1S0IwWVV5SF9DOFl1V3BoVU5aeE9vRm1ZMndzRFBXWGg2S2lfMDNDclFzdFJSRzNWaUxPeXhqVE9Sc01FQXNXOHM0M2RseDJwZm9NSmU5dHo3WENSQXk3VVB5THRGdVRjNWJxWVl6MVRqeFhMMXVhUnR0?oc=5",
+          "time": "23h ago",
+          "body": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs KKR, 2nd Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1794559227136",
+          "title": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3BrR0xnVlg3ZGtobG5zMExtcFRXMnBPWmJ0bFlzcmNjMHV0OU1GX2VqZUVMUTBiQUVhLTZYLUdxXzBJUnU4NEU5ZFl0TFZGOXNMRGZCeklFamxMTWpOclhURXV3ald3V3AwRU1hRldCWmgzbkJnbl9PMkVJNHNKSDlR?oc=5",
+          "time": "7h ago",
+          "body": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistics Cricbuzz"
+            ],
+            "tldr": "Royal Challengers Bengaluru Cricket Team matches, scorecards, news and statistic"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1794559227137",
+          "title": "Rohit Sharma Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOVp2Y3pOUndQMXBIZjNwSDZraHBhVW5lRVM3a2dqejNmbTlfZmhrMlhvVkxIX214cjlZTnNUWEJmalBFdmsxRlRWTXI5UE04UmNJQUtmdmp5cV9fRnl3S0g5VUxhTFMzM191REl6YlZCaFB2RGow?oc=5",
+          "time": "14h ago",
+          "body": "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794559227137",
+          "title": "‘We’re definitely in it for long term and so is he’: PBKS’ Ness Wadia on Hardik - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWURYbkxJSndPSS1jVmlaSnJWMjEwbUNsYW5qVEhqY0dkYXVxXzlIRm9kYWtLY2ItdmZfaXVUeDkyOFdqYWN0d1hZU05SVUNsZTA3TTlsWDNFNkc1U1FSSG5La2NsZzAyN21WTlhmalNzTWhOcGgzR0ZpNEZUeXJiUEN3b0hFdUlYMXI0eXo3eEFSZ0hvdG0ySXNOUFk1R0Y3RlJ6QmZpYkdVX2V6Vi1SLUhBTC13d9IBvAFBVV95cUxOWWhKa2hjZWlGb1ZHcnMzZDZmajAxTkRXTlF3OUhjTUk0ZnRBSnZBcDJfNGpYajJtWGo5aHpxdVBiV2hzcFV6ZFFaWnlweWdvLWxwb29CbUNjM0ZYLWFXSkJBYlRMbm9HY3hwVnRzQkp1VllLcUs1S1NFbGI3b1d6Z0dLWjMtQ3EtOWEtdHR2Z1BfOTFtWjI2VUxtZmE0YVEtcEkxUzIxem8waHdJcWFuY1hvaXBkZFRJY1Vpeg?oc=5",
+          "time": "19h ago",
+          "body": "‘We’re definitely in it for long term and so is he’: PBKS’ Ness Wadia on Hardik  The Indian Express",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘We’re definitely in it for long term and so is he’: PBKS’ Ness Wadia on Hardik The Indian Express"
+            ],
+            "tldr": "‘We’re definitely in it for long term and so is he’: PBKS’ Ness Wadia on Hardik "
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1794559229795",
+          "title": "IND vs NZ: India suffer 244-run defeat as Matt Henry six-for rattles visitors",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "8h ago",
+          "body": "IND vs NZ: India suffer 244-run defeat as Matt Henry six-for rattles visitors. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND vs NZ: India suffer 244-run defeat as Matt Henry six-for rattles visitors. [object Object]"
+            ],
+            "tldr": "IND vs NZ: India suffer 244-run defeat as Matt Henry six-for rattles visitors. ["
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1794559228336",
+          "title": "Snowfall Tops Six Inches Between Baiser and Babusar Top; Traffic Halted Beyond Battakundi - UrduPoint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0ZwT295RE01WWUyZ2IwVl9CWTk0NWZsbmQ2NnY3MmxCVWhGR0RkV0hhcjllX1VKWG10a3h5NjM2NXNpOXdueHhDV25BS0xjcGs5SXB5OVUxUERJMzJiaXpOYW5qMFVabGpmTjhTc1VBWGYzcnZqYkJFbFdXeDhwejJQcEVVUVMxVzBpSWhIVnRmNmRHSVVEZGZB?oc=5",
+          "time": "23h ago",
+          "body": "Snowfall Tops Six Inches Between Baiser and Babusar Top; Traffic Halted Beyond Battakundi  UrduPoint",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Snowfall Tops Six Inches Between Baiser and Babusar Top; Traffic Halted Beyond Battakundi UrduPoint"
+            ],
+            "tldr": "Snowfall Tops Six Inches Between Baiser and Babusar Top; Traffic Halted Beyond B"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1794559228745",
+          "title": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "17h ago",
+          "body": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck.",
+              "She says she did not know she was pregnant. [object Object]"
+            ],
+            "tldr": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1794559228745",
+          "title": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "18h ago",
+          "body": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]"
+            ],
+            "tldr": "Indian-origin Texas man charged for killing parents, grandmother: State won't se"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1794559228745",
+          "title": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]"
+            ],
+            "tldr": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794559228745",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1794559228746",
+          "title": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names of Indian couple who apparently filed objection; says 'we attempted to arrange meetings'. [object Object]"
+            ],
+            "tldr": "Fremont Hindu temple responds to reports of 25 noise complaints, reveals names o"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1794559228746",
+          "title": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel. Cops say he was not even at Bondi. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian national faked injuries after Bondi terror attack in Australia, claiming he was hit by shrapnel.",
+              "Cops say he was not even at Bondi. [object Object]"
+            ],
+            "tldr": "Indian national faked injuries after Bondi terror attack in Australia, claiming "
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794559228746",
+          "title": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "Indian-origin woman who went missing in August found dead in a canal in California. Detectives had looked into the canal before but could not locate her. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin woman who went missing in August found dead in a canal in California.",
+              "Detectives had looked into the canal before but could not locate her. [object Object]"
+            ],
+            "tldr": "Indian-origin woman who went missing in August found dead in a canal in Californ"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794559229954",
+          "title": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEZvWHBuMXd2WkxFdWo3V1BoZzZVd0I1aXRRZjR1OWQzSHlOV3JRTVhWMTVMbXJGakF4ck5ZM2NNT1NqcFdPanNoYTQ2SGF1ZHZjY0JYeVVmRlg0Z1pJTmYyN0hSLTB4b1JWVklzX0hYSC1oSGhkSkNPcEJSd29OdVNwd3pwMkR3VUozc0JoQzVnOUVDMEhSellKNGdMTlpBTXc0MzJaMHpzYmdBd2pWUFM0UlZaalVPZUZMbS1Ic2xzMGNmRkVXeFRteU5zazhfOXViSnpQMW81LVg4QjdUS2s2ZUhwMWI4T1NnT0RURFFYZUZNVXBsT3ZPMkYyU2RV?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home The Hindu"
+            ],
+            "tldr": "Maharashtra Minister slams police over security lapses after late-night ruckus o"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794559229954",
+          "title": "Maharashtra Minister Sanjay Shirsath alleges intoxicated youth attacked His bungalow and criticizes police - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQldGanFCTnBZV3d1b1BOS0FyMC1HY0Y4N3ZnZHRqTVYwTGR6UnZmSnljczFjTlo3Z1lLOHd6dmhGdmIzV1RHRjc0SEZUdHdjZUJpeDBFUUNmczNoY0kzbkVkYVBzZnl5ZTBCZEpzSHlTaFVadGl4T0hReW9xUXJyTS1QUy1CeWswekEtV1ZTVkYwODM0aGRpNmhHdHRGaGU3Y3V3bG1LOHR5S0lDTUtkdDhYYTJzSmVwd2tsX2J0Tl9qMWlhR1ZPQ2syVTF0akUwUHg3VVJTLThUa1laUkxJdjhpanZDM0t3WUU5bm1DZHdYOUluTTZMay1ERjllekk?oc=5",
+          "time": "5h ago",
+          "body": "Maharashtra Minister Sanjay Shirsath alleges intoxicated youth attacked His bungalow and criticizes police  ANI News",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Minister Sanjay Shirsath alleges intoxicated youth attacked His bungalow and criticizes police ANI News"
+            ],
+            "tldr": "Maharashtra Minister Sanjay Shirsath alleges intoxicated youth attacked His bung"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794559229954",
+          "title": "Maharashtra to launch Balsanjivani campaign for doorstep healthcare for migrant sugarcane workers' children - ChiniMandi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEJuVTJpNC1OM2JRZGZsWjhwSHdYWWJvd0NKdTUtQVlGeGRnb2VZV09MMWJJWlBqOTU4ZEJidWpmd0w3anJ1Q3hnNkV6Nk1CeUxOQ3RDTzg4dEpBUHJjQmdmNExKZUNyYWZsbmtOSGQ5aG9aeGEyRDJSM2tyTFpKbWx1YkJVbkRrSnJHdmpTampTRkdUNnl3Uzkxd3o3RG1PbzFqd2Y2a0FyYzRmbnkyaWRxQU5uTVNuTUkxTG4yb2E4WlJTOTduZGUwM3NkZEk?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra to launch Balsanjivani campaign for doorstep healthcare for migrant sugarcane workers' children  ChiniMandi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra to launch Balsanjivani campaign for doorstep healthcare for migrant sugarcane workers' children ChiniMandi"
+            ],
+            "tldr": "Maharashtra to launch Balsanjivani campaign for doorstep healthcare for migrant "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794559229954",
+          "title": "India: Olectra deploys 35 electric buses in Chhatrapati Sambhajinagar - electrive.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQm1ETmRrVzg1Y09WWklES3ZYNnFnclM2VkppX3ZjTUVlenFGaU9uNHd2V3NOTDRfOVVuM3RqNF8zNlZGSDVjYk9zYjRHQlc1Vm1SdjE1czZyTGYySTBxN3ZBVkFRbkdQbl85ODJfOXFHS0lERFRyME9ua3EtM2J0aGJfcTdKZEFvR0FuRXZvazFoSWE3TGxjRzVwRTFlT2pSUmVHWUowZC1XUQ?oc=5",
+          "time": "15h ago",
+          "body": "India: Olectra deploys 35 electric buses in Chhatrapati Sambhajinagar  electrive.com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "India: Olectra deploys 35 electric buses in Chhatrapati Sambhajinagar electrive.com"
+            ],
+            "tldr": "India: Olectra deploys 35 electric buses in Chhatrapati Sambhajinagar electrive."
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794559229954",
+          "title": "Maharashtra Governor Honours Dr D. S. Kate for Financial Literacy and Social Initiatives - The Financial World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0w3SW81RXlRT0gyZnlsdVc5NUk2czZ5eEJnb01ZckN6bnpmeTEzenh0NC03ZnpWYXlHRURjSTNGUGEyd0JDbUhHcWZHZENqWkVuQWJhR1JSNmFvY2F1WFdONmJfMDh4dHljS2J2NlE5TjhPX3JZOVpHT09jWllJTDVmNFpaeWtFSXZIdE1MN3JuUno0LWYzSjM5TU1sWHBfRjA0eTFLQVc4c3VKSXBkckJpeU5JdnU2OW5oV0xn?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra Governor Honours Dr D. S. Kate for Financial Literacy and Social Initiatives  The Financial World",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Governor Honours Dr D.",
+              "Kate for Financial Literacy and Social Initiatives The Financial World"
+            ],
+            "tldr": "Maharashtra Governor Honours Dr D."
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794559229954",
+          "title": "Maharashtra minister Sanjay Shirsat questions law and order in Chhatrapati Sambhajinagar - The News Mill",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbURKaWM3cENuaVJRQ3lUclRZcnlHQVN2T2JRM3d6dWZ6YkdJWlpPNWJhSkR5dXFsbXJfSlduYnlRWlFoNHIxUk5kZV9zZkNNbGd5OF92Q1NNTXVRelV5WHQwX3pwU2s3S0o3dDh5dHpjVTlxOFdJZ0hFX0RJb1hQMTl1Mkg1MTN2dVJXZ1F4alJYU3NFb2dFN2M0Q1dkblJ0YWo3Q2V6TFJqYklqZklLVEl2OHFsNUQzQnFCVml3?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra minister Sanjay Shirsat questions law and order in Chhatrapati Sambhajinagar  The News Mill",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra minister Sanjay Shirsat questions law and order in Chhatrapati Sambhajinagar The News Mill"
+            ],
+            "tldr": "Maharashtra minister Sanjay Shirsat questions law and order in Chhatrapati Sambh"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794559229954",
+          "title": "What Exactly Is The Police Doing?: Maharashtra Minister Sanjay Shirsat Questions Law & Order After Attempted - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOXzV0NXRyeXA4TThDT3dRN3doRUxMT1lDZi12UlFaR3hMcm5ZbGk4R1czc0FJdDFOc210REdUT0hjMS1JWVhXOVZwYzRfRUE3dUJ3d3kxQklGLUlPaTNFbklteWNYWUROMEM4aFdvc2Q0UXA3TzN4bjBQSW9qbnh5SWUxTE9zTDdYdEpRM3ZyQjRQRUZYaXpJNEswNkJHRlVKdEhwV25mU3lQbWRXM0dud2Z0Mmc5WnAxRFdwRkx4WFRjak9qRm5kQ0cteDg2dWxNSm1xVTZxQ21tTVRreG5sQmdjNzZMQzhYclU3eTRWM1NSYnAwV1E0eEVaUnlKOVdnZlRBMkNFZ0ZPcTgzNDN0Tkl0dXpqWFlWYTJoZzNDc201d9IBpwJBVV95cUxPT21XWThtdUxMY1JlbFlsd2FsNlpHUlFCYmYwU2xtMnJ3YWY1UUlXRVFpdER0clYxUnBXdk1udll1b183WXk1b3NGVWUtYTlpNmJIVUZFYXBEamsteVd3WXBYOFRzT0pLaFFuYUxqelpFT25wMUFmUWVBbzdvN3RJMkRFUVMzcktxRUxwd1hTMHNmQVREVF9VTmEyTjFRYkFCajFBaXVoY0pxQWw1dWRyNGE1aUp6MmhJNUhIcWZsNFFhNFQtdUVpMU5LcUF3ZEpYaUg4VF9CN2ZRbjUza3hwM2x2VlVRWW85d1ExZjZqNzdubi1RT21ZeGJHbUZDMEEzV05pYmJBcmxTcWdPSmtrMU1GZFZlVVNpSy12Mi14SWJnaV9fZlA0?oc=5",
+          "time": "2h ago",
+          "body": "What Exactly Is The Police Doing?: Maharashtra Minister Sanjay Shirsat Questions Law & Order After Attempted  Free Press Journal",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "What Exactly Is The Police Doing?: Maharashtra Minister Sanjay Shirsat Questions Law & Order After Attempted Free Press Journal"
+            ],
+            "tldr": "What Exactly Is The Police Doing?: Maharashtra Minister Sanjay Shirsat Questions"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794559229954",
+          "title": "Sanjay Shirsat’s Aurangabad bungalow faces late-night security scare; Maha Minister seeks police chief’s transfer - The Statesman",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNclE3VzliMmF1QjFTeFRiaUxLcHJ0Q0Z4T2dRZzRiaVBHeE5SOHRER1A3WWNzOU13akxmQTJydlBkS1k3SUIwc3pTVHlPeWxVakhZeEVKVUE2QlFoVGJMQXdCamJsM09IOExybEJrWUU2S0s3c3U0N3ZWYVVqVGR1SHZTaEJ6SmZBcENPNlF3VWJQQW1ZNkx2Y0dYQkVOeDNZM1FjVmRFZGprN0ZENFFpT195TGlqaFdfb29OS0dqeUxaamMxalR5bExHLWhLMFlsUkQyRzVlN1FrZmxacVJwYlhSaXdzN3ZkbEExU182Wi1nRFHSAfgBQVVfeXFMT0hWYUlRczM0eGt3VlRJYk1ZdXdLdV9jX0d4SFZNU2NtZEVhSm5JSWxnUnQ0UldSSWJyY2QxckVlSUthZnNLZ0F2WW01cE0zTTNReDl4bENIcUV2Z0tlTnB6a2pVdkpFNlRLSHlic2JfZGxYUU1DX3RYdzZVTFcwMFRuNnhHNVhOS2VPYU9oby1TR092cTRPWERJcVVhbW9aX1hzNUpEQnAzTGpuV2FNQy0ySzR3WENHNnFKV1lqZHlrQ3lHNlNmWk1pSGpJdTVrUnJiaXhvVVRtaklRaDZKWHVpVE1Vd19ocEhNZzNNMDRSOFg5cV9Xakk?oc=5",
+          "time": "3h ago",
+          "body": "Sanjay Shirsat’s Aurangabad bungalow faces late-night security scare; Maha Minister seeks police chief’s transfer  The Statesman",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Sanjay Shirsat’s Aurangabad bungalow faces late-night security scare; Maha Minister seeks police chief’s transfer The Statesman"
+            ],
+            "tldr": "Sanjay Shirsat’s Aurangabad bungalow faces late-night security scare; Maha Minis"
+          }
+        }
+      ]
+    }
+  }
+}
