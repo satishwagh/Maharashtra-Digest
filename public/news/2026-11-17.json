@@ -1,0 +1,795 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T09:41:36.995Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794908491421",
+          "title": "Maharashtra govt puts Force One under ATS for better counter-terror coordination - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbm9lR3o1VDFWSzV0THdCNEJHMUszTk9BamRzYVBfMl9pNUhxNU5OMHhldXctOXFGbTFhREJoM2JHRDdxRldtb0JJWkxhdzY4Qm81YlR2ckk3VGl6U3ZlQWNWbFRyRkdCRFg2VTduWG4ycHFNU2xhMFl1MmIzNGNXQnhpazVOU0N1YlhHVEd1Tmd2SGtHamRRSjliU2R5YzhOcXF4U3ZWbl9iQ1FkbTVpVlJFbFJEUdIBuwFBVV95cUxNRFlrVVV5TVZDVnBlVkp0R0lJNjBVbXNjRGE0Vy1tVnBDRF8ySzJkd0tsdnJvRFVCYlpWMXI1eVZaNmpDZFZnYUhkY0pQSkFPbjBwMjZSSDJidUp1Y2lPblM1Rl9wUzJ2OGNsbDlxRm5hSFpBM09xMFVNSFEyaUVXZVBfQnRzM1NfS0lOME1zVEprRUxIWFpRY0hEeDhnc09UV0hTNDFNWkVUVWJTaGEwdzJ5aDEwRDc2Z2dN?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra govt puts Force One under ATS for better counter-terror coordination  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt puts Force One under ATS for better counter-terror coordination ThePrint"
+            ],
+            "tldr": "Maharashtra govt puts Force One under ATS for better counter-terror coordination"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1794908491421",
+          "title": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQend6ZnNjcVN2UHdXaGZ4T0U0NzBudWpMUk9LYUNrSy1UdVVvOEM3MkoyX3pkOHNNeHA2WjN4dWJhMmhSdkJ3Q2lhQUc0OHRiWlhlQklsU1dwcXB1aTYyMmN6VTU4N2JBTm5oV0t1eklsN0dkYjFsVmhlUEdQbHBLQzhmSkYyT3d1bkl2Rkk5djREYUlmRkk2NDdDWFNrSXF4WGFfelZXeG5rQQ?oc=5",
+          "time": "18h ago",
+          "body": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport  News On AIR",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport News On AIR"
+            ],
+            "tldr": "Maharashtra CM launches BHARAT TAXI service at Navi Mumbai International Airport"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794908491421",
+          "title": "Forest Minister Ganesh Naik opposes Maharashtra government’s cluster redevelopment push in Navi Mumbai - Prop News Time",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2J5ZDBqdzV3YXpidk0zZldKdGc4ZU1SRVU4dnV1TVRfbTVqX2V1SERia3FGZU9fZW1EaEM0bklqY0o5NU9QeWJjam1HXzdPa1VwR2ZUcE1kbXZKc3BTczFIaUFYSWVKbEVpU2VBU0tvOXExWXhiN3hxTC1qM052cXBkSld3bFJoRnE0YlVEX0xwamFOX3o5emJLYW5qSkFqV1M5QU9fRm84eHhwMlY3Ylh3clJmNTdreU1qNTJxWm1GbFlYX1pGMkFyZ2JQd2VtWk4yMXc2Wkpva0VZd2xGTVRVQnZFWWFzSXc?oc=5",
+          "time": "20h ago",
+          "body": "Forest Minister Ganesh Naik opposes Maharashtra government’s cluster redevelopment push in Navi Mumbai  Prop News Time",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Forest Minister Ganesh Naik opposes Maharashtra government’s cluster redevelopment push in Navi Mumbai Prop News Time"
+            ],
+            "tldr": "Forest Minister Ganesh Naik opposes Maharashtra government’s cluster redevelopme"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794908491421",
+          "title": "Rohit Pawar accuses Fadnavis of protecting aircraft firm owner in Ajit Pawar crash probe; BJP hits back - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYWF4YTFtV3AwdmE0TmlsbmZjMGhoNmR0REVXVk5yVmMxUi04MTZHcFE1MGZFaGlFNU9seVVwQ3p1VnMzT0NDT2xfVndmV0pmTnNob1E4MXBRR3Y4eThmd0xzUUtTekowSjM0OU1WWTMwN2d1cmlMZU1wenNJNWdPQ0gxMF9aeUwwS1ZFUUVyenhsUVZGV25lVm5wcGJETXkzdjduRENiS1NSLWJ0VkVkRmY1NTFTZHdfelRoRERjYVlBbmRWWi1JVWpYdlVDMk9SLXRxYzNLUHZyckI2eGlBTzg5VU80SkJ6eXhrMVZfcGZ3Q041aEVvVDJ30gGHAkFVX3lxTE9QZTZ0c0paR0RWenFFSzNmenBGdEdDd010SUlFZTBXQmhqaUhFTXhFZVpVcUtVcjh5YVRNYzNRa2RiS1Nma3ZRQm9MeHRwYW05blpPdW12RlpaTks2bjlzYmlBMU0tLU5XRHFjX1lFNktrXzA5UTNnZC1Sc2RJODN0WWFSSzI1N1hnem5nc3hjc1Z4cU9Hb0ZPVmNJR1g4U0k5Q0UyUTZINkg3emExWko3Ti1lcWVjcjFzcTFoV29sWXdUUzJoY1VOeXk1MlpNd0pGOGxaa0NiWmtKVkM4UGp6OEZ1clRsRUZxVEdKQmllZmQ0dWJ6UW9aR0tNUVRBaWl0T3cwR2lz?oc=5",
+          "time": "17h ago",
+          "body": "Rohit Pawar accuses Fadnavis of protecting aircraft firm owner in Ajit Pawar crash probe; BJP hits back  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar accuses Fadnavis of protecting aircraft firm owner in Ajit Pawar crash probe; BJP hits back The New Indian Express"
+            ],
+            "tldr": "Rohit Pawar accuses Fadnavis of protecting aircraft firm owner in Ajit Pawar cra"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794908491421",
+          "title": "Rohit Pawar Accuses CM Of Shielding VSR - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHVIeW1fQ1hLRlZ5UW5aUk5kWTFMQkR2LV9qZGhLWlZZZGJlQ3ZVYklzWjhJdUJXUjhveUhpemRHT2R3cGIxU1QtTzgzOGFNWDFkOXVRU3JvX2RhYm9TbGYwWFpIZDg3Z2xTMHYtN2JEZ2RFY0dZVXRyV0xJLWZTSWF5WENGeTFjTFBjcnlCONIBlAFBVV95cUxPeThuNUJEa0hZaFNUYm5xRzRQbXcwY215ZVl0TEstSnlzeWJOdlkzeGZUMk0yTkUtcmxIVTJKYXZMalh0eHZWbWVsZDJBRzdpWlpZME0tLVhkVHd6OU5jZEg2Tlo5ZnhhckgzU3FaYzhhTFhuVHp4RmczekhlM2dJMGQxLXQ5T3g1M2xyaHdVRVhrRHhl?oc=5",
+          "time": "17h ago",
+          "body": "Rohit Pawar Accuses CM Of Shielding VSR  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar Accuses CM Of Shielding VSR  Deccan Chronicle"
+            ],
+            "tldr": "Rohit Pawar Accuses CM Of Shielding VSR  Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1794908491421",
+          "title": "\"Must be specific reservations for Muslim, Dalit women\": SP MLA Abu Asim Azmi on women's reservation - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOemFudXBhd1ZYZHFvMXFiYU1BX3FKd3ZqOC14OG02d0JvNHpPemgtbkotS0J1VjY5NThsaXFYdEl0blRETG83a1ZsT3VtZWRwbmF6WnoxS0pTdFpTYXZuaGJSZkdTNDgyOU1VVWk4aFFQcHZPMnRySm1lX25xcHpwbzR2Q0V4R1ZsNlVZams2bVpvb0VGNkh0SVh1S2NLWTd1SGVDVFFpMzdYRVVOLXBEcV9GNFVQY096VXRqc0Q1TFE5YS1lRlN2ZFZLZjhBNmZVbHB1Q2dVUnJ0UUI5Z3FDWl9kWXRLWUdGMzZN?oc=5",
+          "time": "20h ago",
+          "body": "\"Must be specific reservations for Muslim, Dalit women\": SP MLA Abu Asim Azmi on women's reservation  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Must be specific reservations for Muslim, Dalit women\": SP MLA Abu Asim Azmi on women's reservation ANI News"
+            ],
+            "tldr": "\"Must be specific reservations for Muslim, Dalit women\": SP MLA Abu Asim Azmi on"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1794908491421",
+          "title": "Ajit Pawar plane crash: NCP (SP) should clarify stand on Rohit's charges against Fadnavis, says BJP - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVkd1Q3NzMXNCa2xPUGlLdmtlYmFOTUpKZlBCYjM3YXZyNEtyMmI3OThGRE1QSkJQRHZsM05CWkt2aGs1YlBkLWsxVHd5R2c1QXdFMGtUNkJPc2pxRmMwcGZReEVEQWwzRlp6anBONjl6dGZyVlZ6ODR4WnEyaXVKWEZkNldNRXBkMTR4MktXMll1MmZvdlBKMWhDQU54d2NGeDFhU2M3S2tCWWFPNGt0eUU4STgtaFpRbGJiV0hoeEhOMllDUmRRLXNoN2xNcHB3SDNqSExkSTFTVkppejVNZTh4NzV5cnFFZVJiZUFndHpiXzB4NTgycU42ZUNqbnRCSFNzMllqd3LSAYgCQVVfeXFMUFZHdUNzczFzQmtsT1BpS3ZrZWJhTk1KSmZQQmIzN2F2cjRLcjJiNzk4RkRNUEpCUER2bDNOQlpLdmhrNWJQZC1rMVR3eUdnNUF3RTBrVDZCT3NqcUZjMHBmUXhFREFsM0ZaempwTjY5enRmclZWejg0eFpxMml1SlhGZDZXTUVwZDE0eDJLVzJZdTJmb3ZQSjFoQ0FOeHdjRngxYVNjN0trQllhTzRrdHlFOEk4LWhaUWxiYldIaHhITjJZQ1JkUS1zaDdsTXBwd0gzakhMZEkxU1ZKaXo1TWU4eDc1eXJxRWVSYmVBZ3R6Yl8weDU4MnFONmVDam50QkhTczJZandy?oc=5",
+          "time": "1h ago",
+          "body": "Ajit Pawar plane crash: NCP (SP) should clarify stand on Rohit's charges against Fadnavis, says BJP  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ajit Pawar plane crash: NCP (SP) should clarify stand on Rohit's charges against Fadnavis, says BJP The Economic Times"
+            ],
+            "tldr": "Ajit Pawar plane crash: NCP (SP) should clarify stand on Rohit's charges against"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1794908491421",
+          "title": "Fadnavis promises quick crash probe, as Rohit Pawar alleges cover-up | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVTRuYjZmNno4QkxqempzaGpxUFpPd3pheE5EZXpDeFB4NnhaeHdUMnI5SUFoWGY4LWI1dVBLLU1oblllYWtrSEREcFBjZlJ1a19vZUFfSVhmdm1UOUZTM0tnS3VlMUM4NGxnVld2TDA1YlBhay1laXRaMXFWajNuZU01Znk5OWpmX1JOdi13ZEpHSmo4SDROQnp2OWlBdjlsODYxQXZHaW02bHV5aG9CRlF2b3dydG12X1BXZTNSZ05GVlQzYy1yQnVqcGI2My1wT0hJ0gHYAUFVX3lxTE13S0dCZFZ6VGw0VUtrbC1hTk13WlV6TmhNbGFRbWYxamtuOThyYkZmRm5rZ0hEaFpONlZ5bUdJcWJyc1cwOGNuTWFLcmREdVVia0xhWkNWNElsSFVORndydkhsODdkbTZmWURHeTNhVTZFdlN5UWs3ekxFS2hqYWU5OTg3OTF6VE9YUGN4MV9SNF95MW1nVnEtcmk4MXFaVWVyZlpKTWFvVVZvUXJXSG5CY1ZyaGllTWZHdHViem4zZkV3V2I0dXFDU01FSTJsbW42eHk2VUVNaw?oc=5",
+          "time": "17h ago",
+          "body": "Fadnavis promises quick crash probe, as Rohit Pawar alleges cover-up | Mumbai news  Hindustan Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis promises quick crash probe, as Rohit Pawar alleges cover-up | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Fadnavis promises quick crash probe, as Rohit Pawar alleges cover-up | Mumbai ne"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-2-1794908491421",
+          "title": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeTdFeGVseG0yR0lLMHhVcmJXajBmNzg5RnpnLS1pLWpVbzZMYkJ2WnBzajdNYmpFbXNENG8zWjRXSjZseHZSSWF3bmo5QnhlMW10NUVzR1hHWjdubURjc0VkejNIdkxXYlFHLUZrVFotVm9PSjZQZWJ5bmxQT283MURMYm9aTnpZZ21LOGpLQVVzVVF4SlhWZEU5SE5wZWVTQnhyMHFPLUs4ZXV0bjhsOE96bC1NSXBKbktDWXBTRzJ5UTF2Nm9QUkxVODRmRnZKazNBWWpvXzF6a1dpV2dZZzlUSlFncnRzazZKV2NLUHZpd9IB8gFBVV95cUxNeTdFeGVseG0yR0lLMHhVcmJXajBmNzg5RnpnLS1pLWpVbzZMYkJ2WnBzajdNYmpFbXNENG8zWjRXSjZseHZSSWF3bmo5QnhlMW10NUVzR1hHWjdubURjc0VkejNIdkxXYlFHLUZrVFotVm9PSjZQZWJ5bmxQT283MURMYm9aTnpZZ21LOGpLQVVzVVF4SlhWZEU5SE5wZWVTQnhyMHFPLUs4ZXV0bjhsOE96bC1NSXBKbktDWXBTRzJ5UTF2Nm9QUkxVODRmRnZKazNBWWpvXzF6a1dpV2dZZzlUSlFncnRzazZKV2NLUHZpdw?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights  ET Infra",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights ET Infra"
+            ],
+            "tldr": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumb"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1794908491421",
+          "title": "Maharashtra approves Rs 16.74 crore aid for Sindhudurg-Navi Mumbai flights - Mid-Day",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaU16RzVtWXJNUDlZRGt5X1g4UXBoRVZlekN4cUl5dlNqSHVZdFptYlNNTFAyWE1ZRlNra1YyZjE2TVUxeThnbGF0Mm4tbXVCbndvRWpBaVlrS3hBVkV6MnJWS1hWZ1JYc2UtYVdOdm9uZXVmRmZ4dEN6OWExaklWZzBlYkRqUWRIUzUxNnF1UmJDVlZmc3VKT1hoQV9XOXkzYTRNOTFWd0lGcE8zZFNxd0RLRjFNRlBBbzdPaDB1WkxkSkxvc0l3S2RQa3NkVzBwbkRKX1Zna1lCWEFMcVpwSm45LVRrdkMxSHhrOQ?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra approves Rs 16.74 crore aid for Sindhudurg-Navi Mumbai flights  Mid-Day",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves Rs 16.74 crore aid for Sindhudurg-Navi Mumbai flights Mid-Day"
+            ],
+            "tldr": "Maharashtra approves Rs 16.74 crore aid for Sindhudurg-Navi Mumbai flights Mid-D"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1794908491406",
+          "title": "Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWRnM1NWTHY4SHh6RW5HTW9ia1FrQkdhcDBRSlJxbi1FTUpnQ1BuMTFfU0dHQml5Uy1fSkdzQjIzOEtEeFFtVGJLZ293MVlXM3JVcndlZFlycEZfdmppM1VoS2VqRUY1X1dqRDN3VkpIVWlwdVVoOG5wclFxY1pKVFpaQjV1c3NXMXJyWGE2am9lZjJXWHdXQnBGbE1Hd0kyT2hnWWRvTXZRbGNEeUtNUDRCTW5YQdIBugFBVV95cUxOSlZMLXJ3eV90UlhQdjBLalk5TkRaVlRrdzNUb093NDE0TEVLeXh0WU1NQVpyZkpvdzZtUnc4MkJzVk1CLVE4OFZ1c2piSUpLenkzYXJxcDFDZXBsVUk2enhwUXZRYm03TTIzRGlGelRlOFJ0OTNMdDFXcnpPdEVFRDdwTnBJUGhJdHVkeHpLVTNybmlqbTgwQ0dFaWxUMVVEYmwzTzB1RjdEQnJVUTZaNU5ucjR3YnJ3bGc?oc=5",
+          "time": "3h ago",
+          "body": "Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices  Daily Excelsior",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices Daily Excelsior"
+            ],
+            "tldr": "Stock markets climb in early trade on foreign fund inflows, fall in crude oil pr"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794908491406",
+          "title": "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets - INDIA New England News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGRLWUtGWVVyMW1pVkwyVU9YaXR1a28yZ1JTcXAwTDNxcVAwb1c1X3NFMExTSVk5enhwdkZIb05hYlZ0eFktLU5hMmRBYk8wS0dDQjVxZlkxM3VqY01VcDZORDIxaThPcWdpaDNaYmdqdXV1dkt4YUNtYzh2SkhkWTE5LUVKejIwaTUtRWxXX1ptZml4X0dKTHJxVGNLQ0VDdDFkRmZR?oc=5",
+          "time": "15h ago",
+          "body": "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets  INDIA New England News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets INDIA New England News"
+            ],
+            "tldr": "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets INDIA"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794908491406",
+          "title": "Stock Market Today: Sensex, Nifty Open Higher - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWEt1YmJYSlJTVldqYWcwTUpiTkVfb2hpaHR6X20yTGZtVkxKbk1WcGZVWElpWW9UOVdMWG1RX29WamNVeHhzWkFTaFpLT09vSGxOMHE1M0V1ek5kakE5U3haUmZDYVozWjkyQ0ZsXzFYLUo0MU1yYXczNUMySVh0akFhSGdURTNQSGNOOEVqM2FOWjVkX3lKSWw5V21KbTNJUnNjLU5IaEdubWVQbGtiSU52SDEza1d6X3BWdHV6bzFXcWo0MzdxbzBDbzkxb1BkVEVjZ2FIcHQ0T0VIVGxzWEdjeFp4QQ?oc=5",
+          "time": "5h ago",
+          "body": "Stock Market Today: Sensex, Nifty Open Higher  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex, Nifty Open Higher  HDFC Sky"
+            ],
+            "tldr": "Stock Market Today: Sensex, Nifty Open Higher  HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794908491406",
+          "title": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5",
+          "time": "18h ago",
+          "body": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips Business Standard"
+            ],
+            "tldr": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips Business"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794908491407",
+          "title": "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTVoQTZ2VG14Vno4MzlPeDRhRHlXZHJZMXBtUkthbWIxR1pyeFNQc0wtek44QU8tM2xyUnU1clBJVWs0aVZXSmEyNlNtcVFoVEJlTF83a0lIR3VOQWJWTnBzMTA3eHhtVkYxYWFxNnVTMnZtdVBvYnI3a0FESGpGRjNVM2wwMVRsRXFRd0ZTaEZXMHp3SmpxLTl5MDF4bXdja3lmNlZrMXhnZk1Hck5jQzM4NGs3c1pKXy1pZFRUX3dVNmJRVms5NUxMcw?oc=5",
+          "time": "22h ago",
+          "body": "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points Deccan Herald"
+            ],
+            "tldr": "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794908491407",
+          "title": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVmRmhjUi1VZlpWaVpqUFc2YWZjNHZLQTZwMGNPcFdBaVoxdG1PcVVWT0d0d1hfcE91ZDh4dGNNMlRKMnBGcWtOSVlHc3Z6a1h3S0liYm5DRUpveXV6XzBNc2IyRFA5a0pHNHNieGtNNmJleGN3bkxiZzlLZFc5aG9zRGpuUVZwVWtiTUI4WnFUUFBMLXZRQ056Q3FaLUZLQ0tnNW45aGpEQQ?oc=5",
+          "time": "5h ago",
+          "body": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex, Nifty Mixed at Pre-Open HDFC Sky"
+            ],
+            "tldr": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open HDFC Sky"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-4-1794908491421",
+          "title": "Maharashtra Approves Rs 16.74 Cr for Sindhudurg-Navi Mumbai Flights - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem85Zk1hUlpPVVNVVlp0Ni14RHJJSWktdk1lc0xVMXZ3ZVB4cmp1YUFEUEVNRW1QbzRWM2xNeTlJT1pBSlg2UDhVZDJIVG5SRkFRVnA0emk4WGhSSTJmVldyU0ZGdzRac0pIc0JYS0NueFk0cFh1c1A3V2Jfb01lTEVIS0NxMHdBa0hoZ3NoWlI1S00yeUY4Z0lOWGMyc0ctNHc5cjhOeUNKTVI0TDZ4d1VYMmRLcEh0OXN30gHAAUFVX3lxTFBPenVES2FjbnJBVm5hbFVqaW9JSlEyaWg3dU5ZOHp1WUpuSDZPZkNVV3kwODNoal9QTFhjR2EwaHhQU0E0MWh5M2ZXNHJVaXBGNXlVb3FXWGdBQllPQjVLTi1qR1BKd1dsSUJrSFdnRkNVNEswYjhOU0d6dWhqclE5a0tBREF2RmJaYU5VMlc4UzByQjhPVkZfaFdWQnVCdGxtTjhPU012QjNvNE12RnlzT3lHRGwwTWwtc3VaZ0xzWA?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Approves Rs 16.74 Cr for Sindhudurg-Navi Mumbai Flights  Rediff MoneyWiz",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Approves Rs 16.74 Cr for Sindhudurg-Navi Mumbai Flights Rediff MoneyWiz"
+            ],
+            "tldr": "Maharashtra Approves Rs 16.74 Cr for Sindhudurg-Navi Mumbai Flights Rediff Money"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794908491421",
+          "title": "Sindhudurg To Get Direct Flights To Navi Mumbai As Chipi Airport Reopens - Curly Tales",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVU9Za3BSWHVTc1d2TXVfbnU3WUZtTGM5RDJyamp6WWN0VEUzaG1QQ0ZNSTQ1aklnUnQyQ2Q4MHdPaHZmbEw0MUV4QW9nTGd5VXNGUDNNVnlRVVByOHpqRFRUd0tjNGM3eEdtTVlDOVZpdWpvTFhLU3BDa3otdG1NSUpKQXl2aHVFRkZ0enVKYlpRZjBLQTZXR1JGSmFiTlRqSTBhOUFZdlRscUFvLV8yVtIBtgFBVV95cUxPV1h2RlJCc0FObi02MDhpY3VyS25GOThSdThTOTFJNjE1bWdUckNtMnR5Y3pfTXljS0taWThmMXJSYkJlWGhJalFoQ002Z3RMSm9RRTlKeTdYQkF5d3ItZ3hMZW9KSWZFR184SG80UUtHdVNBRjBnNUl0bVY5Mkg3OVhELW5CU0xGVk5rdnZ6dHVIeHBtNzl3TTk1TzNKN2FPU2VvVFI4MkJFaElxUXltOWZEbVRmQQ?oc=5",
+          "time": "1h ago",
+          "body": "Sindhudurg To Get Direct Flights To Navi Mumbai As Chipi Airport Reopens  Curly Tales",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sindhudurg To Get Direct Flights To Navi Mumbai As Chipi Airport Reopens Curly Tales"
+            ],
+            "tldr": "Sindhudurg To Get Direct Flights To Navi Mumbai As Chipi Airport Reopens Curly T"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794908492712",
+          "title": "MNLU Mumbai Invites Papers For Inaugural Issue Of Vindex Manasah: Intellectual Property Journal - Live Law",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd0k1MUdXczBMaU94X2VvT2hFcVlfLTJMaFNQY1ItY2xNdkZ0RDIxTWFrS2xqbnJnUURwMXZYLVQ1dHQ3bkNOTExLRUN4bU5IU1pMUC1xWVNoNklDUS1CTVdkVUwweUU4TXFxQ3RfTVRXd2hIenVnM0NCVF9aaUxGS1FCRERodmZPamphYWRtSVZJX25jaEs1aEZORElldzJuWDJuZkZIaXFVd0VRREFjZ214NHJVMXR2LXIwUXJ0bVV0X29PSmVLOFVmMjBzUWswZ0tDaVA3emtJVlE5ci1UNNIB4AFBVV95cUxNd0k1MUdXczBMaU94X2VvT2hFcVlfLTJMaFNQY1ItY2xNdkZ0RDIxTWFrS2xqbnJnUURwMXZYLVQ1dHQ3bkNOTExLRUN4bU5IU1pMUC1xWVNoNklDUS1CTVdkVUwweUU4TXFxQ3RfTVRXd2hIenVnM0NCVF9aaUxGS1FCRERodmZPamphYWRtSVZJX25jaEs1aEZORElldzJuWDJuZkZIaXFVd0VRREFjZ214NHJVMXR2LXIwUXJ0bVV0X29PSmVLOFVmMjBzUWswZ0tDaVA3emtJVlE5ci1UNA?oc=5",
+          "time": "4h ago",
+          "body": "MNLU Mumbai Invites Papers For Inaugural Issue Of Vindex Manasah: Intellectual Property Journal  Live Law",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MNLU Mumbai Invites Papers For Inaugural Issue Of Vindex Manasah: Intellectual Property Journal Live Law"
+            ],
+            "tldr": "MNLU Mumbai Invites Papers For Inaugural Issue Of Vindex Manasah: Intellectual P"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1794908492712",
+          "title": "Why Gujarat Is Emerging as a Destination for AI, Technology and Innovation - Elets eGov",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNERpaG5aVU55TFlXXzNod2oxWUFGN0VvaG5DMVkzRHAwa0lMMndYMm0tQlAyZXZTTV81TjVJc0M5LTNwa3ljUnMwTXRxTGNzbG1mal85MHNuTURHRVYxb0JsMFVsOURNQjF0RWEzYWhFQWVRRW9WU09OVXBkTURwNUVWVEdRbnNybWR5NWU1b240Z3A3VGR0QTdoa2dhb0p6MjFIT2VMXzI5eHFzUWp5Wg?oc=5",
+          "time": "20h ago",
+          "body": "Why Gujarat Is Emerging as a Destination for AI, Technology and Innovation  Elets eGov",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Why Gujarat Is Emerging as a Destination for AI, Technology and Innovation Elets eGov"
+            ],
+            "tldr": "Why Gujarat Is Emerging as a Destination for AI, Technology and Innovation Elets"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1794908492712",
+          "title": "Gradiente Infotainment and Omnistar Entertainment & Media Limited launch Dramachaska – A new chapter in India’s vertical Entertainment Industry - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQZmQ2SXRlYUtwdjZmNW9yMERaSklHNGlnb2x2bDJWNl9DTEoyWWgtdjBfcnFCZzRVNmhlcHQ2X0tSLUNrVmJ3cGdGUEpzNl9SSFdMYmx4NmtadlRCc2l1azhGbDBjQ2U3aVdtamUzMy1MeTlmUElvX0lXWkdUYy1kc21QejlDMUY4d3poUGFEbGwxdmVYOFhLVGhpVkhJNUl1VG82UWpzck8yT21QQUJvN3RYN3VzdlpVMm5QZFFlaEQzX3A4TkRnRE0xYVRGWGhfekk5Z2VuZkM4b2M5R21ZUnozOG1mdEZCN3BrQWl5MWV3VzNNZnFESXB6Nk9iWVdrTHNscC1ZblliVE85Qmp0OGFhQ2FQYWtZTzZaN1JwZWxYdGxHakFiNWlR?oc=5",
+          "time": "23h ago",
+          "body": "Gradiente Infotainment and Omnistar Entertainment & Media Limited launch Dramachaska – A new chapter in India’s vertical Entertainment Industry  ANI News",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Gradiente Infotainment and Omnistar Entertainment & Media Limited launch Dramachaska – A new chapter in India’s vertical Entertainment Industry ANI News"
+            ],
+            "tldr": "Gradiente Infotainment and Omnistar Entertainment & Media Limited launch Dramach"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1794908492712",
+          "title": "PAYSOFT PAYMENT SOLUTIONS: Payments Made Simple, Secure, and Seamless - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM2VHeEJGeEtTdHpNR2lDczZKQjBmWUdIVFRXbXJ2TjVqWFRXSFlocENPLWoyMnAyVUdQLXBRWThuM2JpM2JnZFctUUFJRkMzendBLURYQjR4RkEtc3N4TjR2RF9NeFFMeVRCMVhfNjJiMmRpcUd4VXBYaG1FOUVmQjJSYzdwSUdJVUZ2cVJDX2FXTDdya252ZGMwZzV6a1YyN3FTU1piOXVCcFZrRGdyQXVNQngyUHE0YkN4dFlhWjBSYU5XM2hxV2w2dXhPUnZVaEoxS2YtYnZXVHNBd0l4R2d0LXA0UdIB5gFBVV95cUxOM2VHeEJGeEtTdHpNR2lDczZKQjBmWUdIVFRXbXJ2TjVqWFRXSFlocENPLWoyMnAyVUdQLXBRWThuM2JpM2JnZFctUUFJRkMzendBLURYQjR4RkEtc3N4TjR2RF9NeFFMeVRCMVhfNjJiMmRpcUd4VXBYaG1FOUVmQjJSYzdwSUdJVUZ2cVJDX2FXTDdya252ZGMwZzV6a1YyN3FTU1piOXVCcFZrRGdyQXVNQngyUHE0YkN4dFlhWjBSYU5XM2hxV2w2dXhPUnZVaEoxS2YtYnZXVHNBd0l4R2d0LXA0UQ?oc=5",
+          "time": "22h ago",
+          "body": "PAYSOFT PAYMENT SOLUTIONS: Payments Made Simple, Secure, and Seamless  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PAYSOFT PAYMENT SOLUTIONS: Payments Made Simple, Secure, and Seamless Business Standard"
+            ],
+            "tldr": "PAYSOFT PAYMENT SOLUTIONS: Payments Made Simple, Secure, and Seamless Business S"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1794908492712",
+          "title": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOek5tcjhnelZKZmYtT015T1NZdFBSS3RCNVBFaGVzaTUzY21uWFR2YU4yMmEzQkVBaUhBQ1hJRkVSRjV0SjZBdUgxbWlqRm5RTlJtOHd5eVBVa3JQMk1uVkNKWXNaVDBIOWkyREFIYXJPV3phZzZPOF9NbmRQblcwRlZDWXI2OTNBc3VGSmtJS0RhaU8za1ZSMmJXUFhCMFBYb0w3V3d6S0d6Yjl4Mjd6LXBKVmpqQWh2bGNTWXFCS2FhazQzaF8zZW1UcUkycXEteHNfZzhTemRIMVcxUGZ1eTV2Z2tzQ2E0ci10UmRDY2RFMkRZOEhZc3c2XzQ3bF9IeE40NWdYOXpIWVdSeUFpVVA0ZllWZ9IB4AFBVV95cUxQbWlDTEFpUDhWUW5hX2VZdkFWVlpIX2ozR1RzUS1xSFduc2piZWEzaXhlMy1KSnFvb0JRSTFibWV2R1I4RnBsWEFnQUptQnBoUWVIVzBWV0k2dEFMdERvQXh1WTI2R3ZtdzkteWF2Sm9NeENRckRGeU1oWFJDNkEtOENuT3l3VGcwT2FhcHh6dUd4WFJUaHNJeUgtYWkwMWFYdkMzUVoyQ3pOd0JybTJqVHlBQUxaUWxOYk5aZEQ0OUFkdVZqRk5zMFljNk8xVzJ4bEtJdV9XQ0ROb1R1RHE1YQ?oc=5",
+          "time": "2h ago",
+          "body": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks  ET Infra",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks ET Infra"
+            ],
+            "tldr": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks E"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1794908492712",
+          "title": "Maharashtra halts work on Adani project amid fee-cut dispute - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUnBtOXlvLWVqV2Q1dFJ1ZDVaNTBQSnBuQzM2bG9QUnRHaWN0UTVkQllIdkRxcDM0UGsxWE1Fd3JkdGFyOGxnZkp4MzJJM3JnZnV5cWpkemJiMEFJU2FFSTlhaDV4Z3Z0dWJTS2VBMThvNndmWnFyUnplbWJsZ3VWQ2NxR2V6akxsQzNMRHRKdUxkVlpJYnBfUm0zMGk3Z3NMSWY4UjNfWVJkM001ZzN6dW1QY2pBR0VIUmlVeTFBZTc4dnZIR2J6ZUJHck5JMmhvZVQ1dXdUYnFrcTg0bk5jWVNJdzR0NFk3aVdTbVI2cVB5cHdvVWpxYmswOF9kRHfSAccBQVVfeXFMTW9HNzFPQklSek9ZWmx4enZEZDNwOGRFSmItbHQ1Y2tleGl4TldzOVdoY3FfQXVndTdWY0NNU0dCcE5tMjhtTzFGZ0F6ZWtEUTNiTzBVNXM4bDJJckg1MFFnUFZKQXF2VVFqMmp2RWJaelQ1MEFhX25TSUR5RGF2dnNXTDJrNlVCbjBfLVJNRnNUOTdUM2lGd3l0dnJ3UmxKY2E3MEw5WkUwbDJzREFWTzFoc0Z1Q0tXdTRxb2o4ZnNoUTQzVGhRdw?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra halts work on Adani project amid fee-cut dispute  ET Infra",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra halts work on Adani project amid fee-cut dispute ET Infra"
+            ],
+            "tldr": "Maharashtra halts work on Adani project amid fee-cut dispute ET Infra"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1794908492875",
+          "title": "Hardik Pandya Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ISWJ4dTVQT2N5QlJGSE0yX0hDb3Iwa2t5bjZHbFF6WVFlbWJEQlM2dnZuYW5NTDZCQndnLVVRRm9tSmhpSHVISW9ISTg1c1BhWmNGN3dMSlpyTk1PbEQ4aThrenVhMElzLWNENk0zdU1ISjZyN1ctXw?oc=5",
+          "time": "4h ago",
+          "body": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794908492875",
+          "title": "IPL 2027: Retained and released players list announcement, time, streaming - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmtQRGU4UmxyT1RpZnNuTEhGdGY4Z0dONlZZRnRWU0FtNkhZUFhuSEFmV2FsYnhLZ2JXdzRDYWxHTUs1SVM4bldCYzRZcUpWTllkTEZoV0RQR0dnMzhRZnFVSFBBaUUtZHJXQVlJdmFuNVpDWkFyeUp6VlBWazl2X0hsY3pNMkVHRFREdkI5S3VyVFU0YjFvNGdmLWRHTEVvX3BVck1IejFhVkhxdXBQMGRqMzJEOFk5bUJ4YlNtTFFYZ1E2ZUFaLTQ4RFRjN3dHWDBN0gHYAUFVX3lxTE9od1hrdzRCYURIeF83UmZQZmdPZG5QQ2J6ZWRSb0tEeEdqaEdiZWlRWU5ibWE3WWd1MXpIZ3loQ2ROa1N5MWszcWdKelR4b2pWZXAtblYwWkRBem1WT0JfcGd1RnpFeXBQaGtqb1FqMDljM2VSRjJSQVpyMkFidVNwazFNa1RZVV8tVWJGSm9YRmFKUXdpWDYyTjhlNW9DSEhnbWdKR1BleDliSnlCMFJFcnlVcnV4Z0xMR29zc0RydzZOejh6VDkwUGRhUlhkRzVJOFM2bUdQXw?oc=5",
+          "time": "1h ago",
+          "body": "IPL 2027: Retained and released players list announcement, time, streaming  Business Standard",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Retained and released players list announcement, time, streaming Business Standard"
+            ],
+            "tldr": "IPL 2027: Retained and released players list announcement, time, streaming Busin"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1794908492875",
+          "title": "Auction Tracker IPL 2025: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GU2R5WWNpVXcyUlRRaTZvOHRvaUpPUjQ4ZUI3eTRQdmxKUE0tMFJReWJlTUxTZUxNUlkxSlhZTkJJOG5SaVE0c1dxTXZNMUZIVGtTZmRRaUFnTmIwUDlzWVhsaEVSV3k5bFBJc21CYw?oc=5",
+          "time": "15h ago",
+          "body": "Auction Tracker IPL 2025: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2025: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2025: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1794908492875",
+          "title": "IPL retained players 2027: List of retentions from all 10 Indian Premier League teams ahead of mini-auction - Sporting News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOGwydTZuOGcxLXNXOUtTd2V3dUE3WUt1ZGlHWnFwMHJ0a1dMV2FTUmFrOEtYVFJfWUtxU1dMM1NmWFF1dVcxX3FMYU1EcmU4TGpVbWt4WTVlTTBTaVZ0X19VMm9DazQzZDlDWEdVdzNUWXZMdDc1d3g4a0hRNWtMZzF3aFJ3ZG5nYTRRNEtLZjh2MlItYmVxRUdHdmNBbHBDSzhBV3dLUnpqUl9wcjN0ZXUyNXlvdU54ZFFNdVdJMzhKSlRmNFhHVEFPOUNJSVJFUkJ1Xw?oc=5",
+          "time": "4h ago",
+          "body": "IPL retained players 2027: List of retentions from all 10 Indian Premier League teams ahead of mini-auction  Sporting News",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL retained players 2027: List of retentions from all 10 Indian Premier League teams ahead of mini-auction Sporting News"
+            ],
+            "tldr": "IPL retained players 2027: List of retentions from all 10 Indian Premier League "
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1794908492875",
+          "title": "IPL 2027 Retention List: When Will the List Be Announced Today? Check Date, Time and Live Streaming Details - Jagran Josh",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2VXSF9pMlY1NlV1RVZXMlF6cFJxSEdCTzNBWXMyOWZmMDhMcURFVmc2d1Y4dzJOVk5sSUJZd2pDc2ZycXF0dlMwd2hiMU1ZT3QzX3d5eEVzVVVvVVAySkwwR3ZvRXpOSmQzdm1Rd3JRLVprNlFDcWZDZEo1Y2lucl9KNi10dmpHd1cxLXF4NDhPenRVMXMxeURwSXdpZWlyb2Z6WS1zNXA5TFXSAbIBQVVfeXFMT0o5Ykl5ZGFSdHJ6cGZLMmdVM1JvNEZuU2xrOENBWDRBOWFELWpEaXgySGlfUXBGYzBjelFtQlNHcmpUb0x0alpMcDRZajM1ckk3eDhwd1FZSmppbUdXTVM3VU1rTkVzVHc5T25oaHlXU0F3UllaeWJ1UENVVWVZMzh2QlRaRFJFV1lrVVM2VGhEcG03Yk45WF81ZVJVSVZSRDZWRlptRlRndDlIS0lwaW4wZw?oc=5",
+          "time": "4h ago",
+          "body": "IPL 2027 Retention List: When Will the List Be Announced Today? Check Date, Time and Live Streaming Details  Jagran Josh",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 Retention List: When Will the List Be Announced Today?",
+              "Check Date, Time and Live Streaming Details Jagran Josh"
+            ],
+            "tldr": "IPL 2027 Retention List: When Will the List Be Announced Today?"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1794908492875",
+          "title": "IPL retentions deadline today: Time in IST, Total salary cap, Number of players team can retain - All you need to know - Moneycontrol.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONEFqalRIbVZqM2g1N0V1cHZ4VHYtcTJkNU9jWk8xUXBhYTAybk1LTW5ySlBYUFFHTm43TWljOEljSUpqV3VtaFlCOHRUdlhoZzRoTkMzeXo1TW5HNnhPUHl3RU1hbnNKcnNSSnc0UG5ESHdnYVozbklVUHVGUlk4WmVHYUZQVTk0M21WN3lEa1NrQmxjWW5WUi1BT3VSQTJueXU0N3dVd0c3S2ZYRW45YU0zM2ZWY0pPTUFiUER6b2tDOGJEemhMQ2c1Qkg0MlZEQUZjbWlvRHFxZ09GU1dJaEJEdFV4MDNfRV9TQlVYenZUaHJma293bFphTnByR003bzdfS3dvaw?oc=5",
+          "time": "4h ago",
+          "body": "IPL retentions deadline today: Time in IST, Total salary cap, Number of players team can retain - All you need to know  Moneycontrol.com",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL retentions deadline today: Time in IST, Total salary cap, Number of players team can retain - All you need to know Moneycontrol.com"
+            ],
+            "tldr": "IPL retentions deadline today: Time in IST, Total salary cap, Number of players "
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1794908492875",
+          "title": "IPL Retention 2027 LIVE: Check Full List of CSK, RCB and MI Retained and Released Players Today - Jagran Josh",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNX2Q0X01iTHlVU2h2Q0dsNTFlOUlYOEs5Qmd5RG1wRHZuNEttejdXWTlOcHlKNGxkMWxfUzlBOXVlTloxeGo5aDZncEFlVkdlSFl2SFpSNi1TMWZ3eXVTWXlnWmNCWTJlZ3NnRWkzLWNWWXE3SGFsWkxRbnlyYjk5d09LcFB6UFpvTFoycGt6WGRYSEMxMFluVmx4NHpnTk1maldqNzduRlJwRU80U2RlbTBrWnNQdGxieTRoT3IwWVI1dW9xaFhSZUdyZzNlU3d5MklwOWdDSTdUR1ZEVjZtVTBUVFZ3Mk53UjlYMFhmZFpGYk1OUVlWcWsySGlhR2tlRTFRN2NJLUhXcDBGOFpkODdmUnEzaHM?oc=5",
+          "time": "Just now",
+          "body": "IPL Retention 2027 LIVE: Check Full List of CSK, RCB and MI Retained and Released Players Today  Jagran Josh",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL Retention 2027 LIVE: Check Full List of CSK, RCB and MI Retained and Released Players Today Jagran Josh"
+            ],
+            "tldr": "IPL Retention 2027 LIVE: Check Full List of CSK, RCB and MI Retained and Release"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1794908495375",
+          "title": "Wicketless in IPL 2026, two-time Purple Cap winner pacer traded from SRH to GT",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "1h ago",
+          "body": "Harshal will represent his fifth IPL franchise, having played 14 seasons in the tournament.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Harshal will represent his fifth IPL franchise, having played 14 seasons in the tournament."
+            ],
+            "tldr": "Harshal will represent his fifth IPL franchise, having played 14 seasons in the "
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1794908494345",
+          "title": "Los Angeles City Council adopts Diwali resolution, honours Indian Consul General",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions. The event featured cultural performances and was attended by various representatives from the Indian-American community. A resolution was passed to extend Diwali greetings to residents across Los Angeles. Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions.",
+              "The event featured cultural performances and was attended by various representatives from the Indian-American community.",
+              "Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles."
+            ],
+            "tldr": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ…"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1794908494345",
+          "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat.",
+              "He was overstaying his student visa. [object Object]"
+            ],
+            "tldr": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young gir"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1794908494345",
+          "title": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder. [object Object]"
+            ],
+            "tldr": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope "
+          }
+        },
+        {
+          "id": "mumbai-general-4-1794908494345",
+          "title": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident. [object Object]"
+            ],
+            "tldr": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1794908494345",
+          "title": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck.",
+              "She says she did not know she was pregnant. [object Object]"
+            ],
+            "tldr": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1794908494345",
+          "title": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]"
+            ],
+            "tldr": "Indian-origin Texas man charged for killing parents, grandmother: State won't se"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1794908494345",
+          "title": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]"
+            ],
+            "tldr": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794908494345",
+          "title": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "10d ago",
+          "body": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek public's help to trace 23-year-old. [object Object]"
+            ],
+            "tldr": "Indian student Sreeja Koya Reddy missing in Boston for 3 days; police seek publi"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794908495605",
+          "title": "Michelin expands retail network with new store in Chhatrapati Sambhajinagar - ET Auto",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0tiN2dmaHJVYXpZa0hWb1ducXhTVkdpWG9tV3hrWWo3WVdwamd5dVNLTUFKcVpybC1UWlp0LTNxUTJ0RWVKQmFYb1VNSnItVmZQVE5vYVRkdXNEd3V1RmVfaFVjUjJVa0R0VHVveEVMNENUWU9fWFlwTzAyTmNpX3JwOHFYMGxhZzZKMjJaUXhmVHZCZUc2eXRrazBCSlE2dVBsNzl6RTh2N21fc3FmbXlBZVJWZ1VUeEhQWFM2dV9OSXJKNWpTc0M3aVFLRXUyQW1OatIB2gFBVV95cUxPZlFpTkVTYlhCSk1kaEJaeGZJbGh4ZHByRFRZX1AyOXozeHJaQS03M21HWjlHdmlKZW85bEZueWo4T0hHNExFVW5fR1JkS1lQcWktVGxhemtfSU1lY3NVLWJXa1BIZlJMSVdyYVZCVXc1SHAyV2IxYzlYbHpWRXNfaDd0VDBZeUduMnVTdEJPcGNscnJuR0dQNmdlRTkzMG16dGZ5TVR3RVhHMUFnX1VJQ2pvYkpPc2ZKMDVfTkFsSFVrYXU3cFlINXR5WUluT2FwVmwyV0JEMDJKQQ?oc=5",
+          "time": "21h ago",
+          "body": "Michelin expands retail network with new store in Chhatrapati Sambhajinagar  ET Auto",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Michelin expands retail network with new store in Chhatrapati Sambhajinagar ET Auto"
+            ],
+            "tldr": "Michelin expands retail network with new store in Chhatrapati Sambhajinagar ET A"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794908495605",
+          "title": "\"Will witness an Operation Tiger-3\": Maharashtra Minister Sanjay Shirsat - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT29pd0tVUHV4MDBUZXBxeU43UTh2cDZoNFlRemlNRmFXTlpPLVczckZMUk1DSHRnWUpOVVVFTFVrMUUxYzdacklSaG9DRFU3TjRzLTdrWkhxVXJlbHdJWjRFQ1ZUYUwtdUtHa1RyYnNlaEpnZnBoOUFQV2FCaWIxYm5PaEN5VE5jWFBJSHdremF2VnRpeE1rZHE5aGhiN3phdzJSUWY2bkJfMFUtVXU4WmR5a0RFVkxXNzdzRG5vWHZIRlZUczN1Yg?oc=5",
+          "time": "23h ago",
+          "body": "\"Will witness an Operation Tiger-3\": Maharashtra Minister Sanjay Shirsat  ANI News",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "\"Will witness an Operation Tiger-3\": Maharashtra Minister Sanjay Shirsat ANI News"
+            ],
+            "tldr": "\"Will witness an Operation Tiger-3\": Maharashtra Minister Sanjay Shirsat ANI New"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794908495605",
+          "title": "JSW Combat PHEV SUV Interest Registrations Open - CarLelo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdFlHM3oxM1p3WUZTYzR1T2t2eXF0ejVYbS05US1oT2xiMFdCal9seFpGaFFSckc0THJ2eVA2WGpZWEpoSWJvbVgyV1IzM0cyTWV4bkwwSGFOSDFjQ0UzOEtXeHBISGRISWY0QXc0VzRjOUwzSlc1MU4yOWwwOXZDRXJ3?oc=5",
+          "time": "3h ago",
+          "body": "JSW Combat PHEV SUV Interest Registrations Open  CarLelo",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Combat PHEV SUV Interest Registrations Open  CarLelo"
+            ],
+            "tldr": "JSW Combat PHEV SUV Interest Registrations Open  CarLelo"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794908495606",
+          "title": "Public toilets near protected monuments not illegal construction: Bombay HC - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1dlbUVSX2RPbEowZUo1UmVxSERJelQtc3NQRktjNEhCV3dvcTdaQ0NOWXR3b0hyYkphMkc1d3lUc2d4Q2VkWFZXLVB0cnhPOVNIbmFORVJRMkZHZGZ0T2RBRG9CZzBtS01YeFZqTzVyVTBqU05vZlhXN2lHTU9MWGhjWWMxZlNBVjZUbXkwNkdxZGNCeUNRWUV3VThneklJdE55VGlGa2pfM2pWU0tnbTFkdDFsWERmQ2MxYWtSeWF4MTJQVTlRakdkTUxVLTZmM3FuN3FuVFVCY1kyMmlUcXdxM0tRTjBvUWJldlE1cUluUdIB9wFBVV95cUxNcXhLR3NxZks0WWJ3UHlFbVFjdDZBcERlWDBBbEFjOTRhLU9uYUxLc082eUN6c0tnV243VFZjZFdnQ05qWFBwMXJsUE9NNnF4QTVnT0pYS2RKYWtKaU1JbnZvbkgzVFZCTk5pY0FKblZ0QlZwQVNRMXhwWmJYMFJpbDd2V0NFNkotcHpzWmtFZ3lXTDl1UTFrdUNVVHMtZnlrQXdfSjJLNHQtV2ZLa0NOZEtobTBXNzlpZVplVnoxbnNTcDJ6TWV0aVlHQ19tNUdxQWFNWFRxLW1tSXBvOTlRcDRvT0VkVWlPTFRqOEtmM21vLWRvVUNj?oc=5",
+          "time": "Just now",
+          "body": "Public toilets near protected monuments not illegal construction: Bombay HC  India Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Public toilets near protected monuments not illegal construction: Bombay HC India Today"
+            ],
+            "tldr": "Public toilets near protected monuments not illegal construction: Bombay HC Indi"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794908495606",
+          "title": "JSW Motors secures suppliers for first PHEV launch – report - Just Auto",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblFPMlJqRzhSOG5Ka0pPX2pNMDM4cXZSUmkxb0pmU25DYlBDNnpjQmhwcElrYWVXaFNwM0pHYmU0UDRUbjB3NWZFc3JWWXhtTUowOFNzUnN6ZlBUeUZ2eVUwR0pHcE5BNnZReUthNTJzVFVOSnozOWJJWUdsSXFYNW5wYlY?oc=5",
+          "time": "17h ago",
+          "body": "JSW Motors secures suppliers for first PHEV launch – report  Just Auto",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors secures suppliers for first PHEV launch – report Just Auto"
+            ],
+            "tldr": "JSW Motors secures suppliers for first PHEV launch – report Just Auto"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794908495606",
+          "title": "MHT CET Exam Centres 2027 List - Check Test Cities here - Careers360",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcmptX3UzLUl6aVpwcFZGd0ZsYzFQQnRuYTB3UlBzUG5EdEFjQ09nWW4yN0RfdGRaenNZYzhmMDVmMmxtTE04Q3VrQ0hycFE5dmF4VjZMQ3BHYWx4aUxBWDZ0dUV6bkRoQ2N2VWg0cjF0QQ?oc=5",
+          "time": "3h ago",
+          "body": "MHT CET Exam Centres 2027 List - Check Test Cities here  Careers360",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "MHT CET Exam Centres 2027 List - Check Test Cities here Careers360"
+            ],
+            "tldr": "MHT CET Exam Centres 2027 List - Check Test Cities here Careers360"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794908495606",
+          "title": "Chhatrapati Sambhajinagar | मराठवाड्यात विहिरींनी गाठला तळ, संभाजीनगरता दुष्काळाची दाहकता - News18 Marathi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHB2dmVyZWVMdVZMQm1rMXMySS1ZeWZDMkhDYXRRSlpZdjZsRmtab1RLMnA4WE95bF9OZVhWRURHd1ljUmVfTEJDZWhMTGNyRGc5SzVadFdVOGpjUzZ2MEtRbEZBTWdwSnF0N2NLb3Ita2p2a1V3cEdqYUpPbU5zTzVqenFPcUNPZnFv?oc=5",
+          "time": "1h ago",
+          "body": "Chhatrapati Sambhajinagar | मराठवाड्यात विहिरींनी गाठला तळ, संभाजीनगरता दुष्काळाची दाहकता  News18 Marathi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar | मराठवाड्यात विहिरींनी गाठला तळ, संभाजीनगरता दुष्काळाची दाहकता News18 Marathi"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar | मराठवाड्यात विहिरींनी गाठला तळ, संभाजीनगरता दुष्काळा"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794908495606",
+          "title": "Rajasthan announces ₹9,321 crore relief package for drought-hit areas - ET Government",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0U1ZUpGTGNFNEpRaktLREJiWUl1MElCS1lROVpFMkZ3WVdPVDJiLWhOczEwTkxHRGsyVGJsQ2lzcUR4VFhCeWZWRTRKOXZ3TlphUU5XVHlfSElwaFJIMmZzaEktMjZwbnFUSmZqQXVYaEI3N0xRb0k3aVdRODQtVU50aXhDRE5uOWN2UXNnYjEtR1AzREhmZFRvMkkycHI0SlJBYWFqOEpPUEF3bm5SZmh4NEl0MVpjUjlfRlEyS2dGcW9qdVJ4QU9nMXBrSmcxWDFn0gHXAUFVX3lxTFBrdEJ0dHVtVl9MWGpnSS1KcVJDSXNTdVJTN3lIMktfeElQT3ZLbTFoVUE0TE4wWkRLUzc1aEVPeUhwNFVDZ0pkcU9uSWI2aU1GS2VZRXhrbU1YTXRObVBpSHUtdl9ReWpkLXRvb1NfNjgzYUszOTVLZGRxTGM1RWV6VFJoQmlsY1k0b2F1enZ6a0JKbmdDZ2E4TWxBQThKZ1A4TjlTZGloVW1rNWg3b0xBaG1Gc0FrMFhsX1FWTUI3QW5JbmN1QXU1bzBPUEg5eWlscENRcGw4?oc=5",
+          "time": "18h ago",
+          "body": "Rajasthan announces ₹9,321 crore relief package for drought-hit areas  ET Government",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Rajasthan announces ₹9,321 crore relief package for drought-hit areas ET Government"
+            ],
+            "tldr": "Rajasthan announces ₹9,321 crore relief package for drought-hit areas ET Governm"
+          }
+        }
+      ]
+    }
+  }
+}
