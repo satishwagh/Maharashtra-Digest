@@ -1,0 +1,800 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T09:00:01.998Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1794992396558",
+          "title": "Maharashtra declares four more talukas drought-hit; total rises to 308 - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb1NlbDU5bjhtSUpOTV9yOVlYZWtpdk5BdHMxQXVpNUY5eF82UnpBUVRLckdkWUxJb0l0Z09HSmR6YjNWa1N1Ujcxb1ZfVjZUbXRHZVBhazNaSmU0TUIwY3FLTmpzQzdubGtQZWs3cjZRNml6M1hNdDUzYlRNUm94X095RXRpa1hMZ01BSFZxQ1dYOU90RUFvUWc0NTFrNXZJWXJfc2NCQVFvR2VaazdtdkpVTTBEVDBsZ214d2FiYzZmaWtDSFZCdS1ESk5qLWQ5eWtUV29hYUc5djBqejRwRVpn0gHoAUFVX3lxTE44OVMwdDJVUFIxeVh5eXFmeW5uNEppWGlmQm9UM1JIdVoteXNBSTBOdXpCMkNFRDhpSTBxVTBuVzNKZkx1dnlJY0sxZGpPVjZUbU9BemNpUWN2UmhFQkt2YUpteE1wdkFQREdPcmJ5Uy1YX1dtdWw4OG5JY0RJUU1vWkZqbFRIdVowN2htRFFqRGZ2V3REVkZUS29tMjVaUlJiY3NyZzRON29WNW5ITkVvU0FtLU1iWWNnX0RrWlJKTHBQQjNIZGc5ejBTYUxIblNURG5OaktrV2tqVUYwY2kyZG1OVDBmel8?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra declares four more talukas drought-hit; total rises to 308  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares four more talukas drought-hit; total rises to 308 The Hindu"
+            ],
+            "tldr": "Maharashtra declares four more talukas drought-hit; total rises to 308 The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1794992396558",
+          "title": "IIM Mumbai, Maharashtra govt join hands to improve policy research, implementation of public schemes - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONThfU2pqa0VraDB3cWhFTkVUUUJuZkpCTzFPcFE5QzI2Qy0tMzM0cTVycnQ4SkIycGtGLVBZZmRqTFR3dTByMjVncDJjdDRsQ0NFNGxRZk5obTR5ejZOb3JidUxiMjhfc21XOTdWTzNZcEVEUlotcTM3S3JBQXFTRWItSllNVVlBUXp3dWNlem56WFplYTktNGpiX3otc1FuTDNEaEJTamRuQmdoajhjSzZScXhrUFE0QUR5V0JVa01wcFBfM1hrdWNYUWc4aHJiWEo1VkN3LXRoSzZVNjFQV0t3TWNRVDdUeVVDMnplN2p6d2FFRVhURnZkRFVEQ2tJb1HSAYcCQVVfeXFMTTBtODNZNFJELWdScTFVYjBZWXh5ZnRONUphbEFlUXNOWFR3MldSdU1tRHh6QS14bFFxWjQwNDJITUt0QTZPVTcxc003U1UxbTF3dXNnUFA5b2U3OTRVeHlqTV9YeURRX1pmSThwYlhPSmhHMExkVi1WZlVhZUtORkhmbFlDU2hPT0N4ajFockl2MFRzSnhPTDVsc0V6TEkySzM5WkFUdDB3TW1JWmR2VkxGTE1tMEFpRklBT2lIVXUyb0NucGxCcmJuVnJHXzRqTklTSHFWN2dvbmFnVjBPN3ZfM2FzajJESHMwVGZZWFR6cC1UeEVkYmxjVS1QSUY4c0RyeWZZRHc?oc=5",
+          "time": "14h ago",
+          "body": "IIM Mumbai, Maharashtra govt join hands to improve policy research, implementation of public schemes  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IIM Mumbai, Maharashtra govt join hands to improve policy research, implementation of public schemes The Times of India"
+            ],
+            "tldr": "IIM Mumbai, Maharashtra govt join hands to improve policy research, implementati"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1794992396558",
+          "title": "Rohit Pawar targets Fadnavis over VSR links, alleges ₹169 crore payments after Ajit Pawar’s death - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORlZ1dXpjOEJsajA1dVIycjY3MDRRUWdvNl92N19vLUZNUFdoaWZHNU5yUjZtMHp6QndlOUUxbVVzUF8xZWhVemt5Y1V6OUtSQ1NCNHdsa0tJNjY4MWZReWZCZ2pZNjVIOHQxQkcyVjlaZUJEUDBRWl92bU1TbGtxWFF1cHJRdnFWTjN0enNDMmJmcENwRmFpTWRrejVOTlFCNHRGOFM4d2tjTzNKVmtKNDE1RWVDUktuU1lkdlNqSmVNaU1Cal9hU0hzczVDdWlYSWo4d293?oc=5",
+          "time": "20h ago",
+          "body": "Rohit Pawar targets Fadnavis over VSR links, alleges ₹169 crore payments after Ajit Pawar’s death  Mumbai Mirror",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Pawar targets Fadnavis over VSR links, alleges ₹169 crore payments after Ajit Pawar’s death Mumbai Mirror"
+            ],
+            "tldr": "Rohit Pawar targets Fadnavis over VSR links, alleges ₹169 crore payments after A"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1794992396558",
+          "title": "Relief Cannot Wait Till February: 327 Citizens Urge Immediate Relief For Maharashtras Drought-Hit Farmers - TheWire.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZGVaZWpZcFYyM3YzeF9Pb09FZjJoaWtZREQ4TlMyb3F1VUE3NlI1cXJVQzlacUtTM1JKdDhydjlkVkQ2UWNnb1NMcGtzd1JNT3RveE5qTnFreVprQ3pQRXMyZEY4aFhaUTk2MkFYV3pJT20yR3cxME8zRkNfQlNSSXQtZzh0bW54V1cxOVlTQUlvYk5panJDWnRVWEhKM3hYel9qSk1faVBtUXhGR3FvQ0hXQkxCeVBlLXhQeFhLc2g0RXFjNXJMYjhR0gHcAUFVX3lxTE05WjJrS3BlaHdIM0xIWFBPMzlEcWE0bUZZUmpXMjlvM0JObTF4SndmVG9XR015a1JIcElPeUItbVhfRW8yUFNmTGM5QnJPV3JmUkVHYzlSUmdUYXdLdGhBVF8yamwzT19uTGtkQWJtR2pHRzBBMjFzUzliaFdrWGFIRmxpUV9sMEhfVUFPMmUzUFFXbHN4U0xMbG9KemRwNTJXcGpMOG1SMXBTX0RTMVI5UjJZZ3VzZmpZZkFkNy1GbjhKSEl3T1ZfMVl2ZTl6RWxpSWY3TTEwTXh3WEE?oc=5",
+          "time": "21h ago",
+          "body": "Relief Cannot Wait Till February: 327 Citizens Urge Immediate Relief For Maharashtras Drought-Hit Farmers  TheWire.in",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Relief Cannot Wait Till February: 327 Citizens Urge Immediate Relief For Maharashtras Drought-Hit Farmers TheWire.in"
+            ],
+            "tldr": "Relief Cannot Wait Till February: 327 Citizens Urge Immediate Relief For Maharas"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1794992396558",
+          "title": "Maharashtra declares 4 more talukas drought-hit; count rises to 308 - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMmd0U1lScUE4RUdQY1hKYmY2Y0hSWkY2bVNtd1hpQncyaHFOdzgzTnF1RTRIY3I2MkJNR0ItdkJsbDdZRDdTbi1peUR4STN4VHJ6NjZKY1h3Q0l5eGdZNGdNZDEtS3JUZHZKVTJJdG5iQy03UjdTZUgzTGowal85QnE3aVlpem1GLUdKbmNfa2xxWndFRHJXQ1NpSUpjVFdra2xJ0gGoAUFVX3lxTE1DdkJPNFBSV2FKUWpLa0h6cUV1dmNFUm1lakdtdkp6Sk1Dem5GQkFfWHQ2MFlnSkg3QnFDOVcxNWtfNHIyM2ItbXM3Q0RJMGZlTDhqNEpjczRHSUpYN2U5ZXRVdW1GM1JnSklHMGVhSG5Vay04M1Q3XzhiSG03X0xrMzI2VjBWSUMyS2RHdXMwemlSLUVrOEJ1UkN4dXBhcWo3bW55cS00YQ?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra declares 4 more talukas drought-hit; count rises to 308  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra declares 4 more talukas drought-hit; count rises to 308 ThePrint"
+            ],
+            "tldr": "Maharashtra declares 4 more talukas drought-hit; count rises to 308 ThePrint"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1794992396558",
+          "title": "IIM Mumbai, Maharashtra join hands to strengthen public policy research - Careers360",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlJlSGx6YUdMZmhFWUdkSUtUQ0lJc01JcWxjRS1Qb3ZWdm1rTGNXM2tjZFhaSHFfemdGSDdnbkFESkFrS0oyM2VfeU1kT0NseDJ4Z2NCYjVPbkFUVkZnVld4a3kyN0trM0dfSHotUWx3THFnU09NdkR3TU1VWXZyT1NoN2VCNTFNWE1HV2NCSXBPX2xpRVVUZHJHTdIBmwFBVV95cUxQTlJlSGx6YUdMZmhFWUdkSUtUQ0lJc01JcWxjRS1Qb3ZWdm1rTGNXM2tjZFhaSHFfemdGSDdnbkFESkFrS0oyM2VfeU1kT0NseDJ4Z2NCYjVPbkFUVkZnVld4a3kyN0trM0dfSHotUWx3THFnU09NdkR3TU1VWXZyT1NoN2VCNTFNWE1HV2NCSXBPX2xpRVVUZHJHTQ?oc=5",
+          "time": "20h ago",
+          "body": "IIM Mumbai, Maharashtra join hands to strengthen public policy research  Careers360",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IIM Mumbai, Maharashtra join hands to strengthen public policy research Careers360"
+            ],
+            "tldr": "IIM Mumbai, Maharashtra join hands to strengthen public policy research Careers3"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1794992396558",
+          "title": "Maharashtra govt orders regular audits of C-section deliveries - ET HealthWorld",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdGNaZE9vWjJTSUtHb2hhSDkwUV9weW5Pelg5UGtHa1o3R0NWY2U1VUIyWmN2NmJnUTh4cHNvdU1vbTQwSnA3RTRVUlk0REZVRk4tX1NEWUF1SXdDZm1URlR6M3JCakl6a2NXQ1pCS2U3dzgwNVM4RHZ6cjZ4SnNtRDV4QUpRbjVCYU45a1JkLVlBMFJNODlRUEtXRWs3el91S29zd0tEMDVtS2Q1UnhwY0J4VHRSaDkwRFZtb2RacmdQVGQyaU840gHMAUFVX3lxTE5rSkh4YUFTYlp2ekVHSVVuUUFuZ09zblhzdVN5LTVVTVFnT1hiYlNrUVBWZUExM3ZNUlE1WEg0WFFIN3RjdTc2cUpCdjFrMnY2QVE2dWZWTDhoTndJRU9pU2ZaaFBKVUt0T0N4S0JVREFRMTZreDhsNFpZbnlTRHV4ak13WW1SSGdBTVlSTmg2ZzJsLUV6TjBPOVRPbXM0cFVCWHY3eWxBRDIwbTdKWEdocUs5NnFYN19qN0puc3FpY0psWXF0emtkVlNtTQ?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra govt orders regular audits of C-section deliveries  ET HealthWorld",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt orders regular audits of C-section deliveries ET HealthWorld"
+            ],
+            "tldr": "Maharashtra govt orders regular audits of C-section deliveries ET HealthWorld"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1794992396558",
+          "title": "उद्धव ठाकरेंवर एकनाथ शिंदेंचा निशाणा; म्हणाले- राज्याच्या जनतेने ठाकरेंना नाकारलंय केंद्रीय गृहमंत्री अमित शाह यांच्याबाबत शिवसेना (UBT) पक्षप्रमुख उद्धव ठाकरे यांनी केलेल्या वक्तव् - Instagram",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rTzVoMTZwbDN4QTRBenRaN2RFVThIRmJteW1wWXFtZ1NUZnlmMTJ4NjlZUk5ILWZLemtoSnl6NDRLQmlfYkNsODRUVjltSlBheDY3NjlB?oc=5",
+          "time": "6h ago",
+          "body": "उद्धव ठाकरेंवर एकनाथ शिंदेंचा निशाणा; म्हणाले- राज्याच्या जनतेने ठाकरेंना नाकारलंय केंद्रीय गृहमंत्री अमित शाह यांच्याबाबत शिवसेना (UBT) पक्षप्रमुख उद्धव ठाकरे यांनी केलेल्या वक्तव्  Instagram",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "उद्धव ठाकरेंवर एकनाथ शिंदेंचा निशाणा; म्हणाले- राज्याच्या जनतेने ठाकरेंना नाकारलंय केंद्रीय गृहमंत्री अमित शाह यांच्याबाबत शिवसेना (UBT) पक्षप्रमुख उद्धव ठाकरे यांनी केलेल्या वक्तव् Instagram"
+            ],
+            "tldr": "उद्धव ठाकरेंवर एकनाथ शिंदेंचा निशाणा; म्हणाले- राज्याच्या जनतेने ठाकरेंना नाकारल"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-9-1794992396558",
+          "title": "Maharashtra govt grants Rs 9.7 crore to revive Mumbai University’s high-end research equipment - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRG1TaksxdmFEcHQxMHg5RW1GRmdlOXdxUUd1MF9VeWhYYTJaVmRoSnltZVB2R2VYckt4WDU5b0ZvamJrVkVqLVZjVC1UZ05Pc01UNUJyT3JKUG9wT2JJc1Y0RVN1UHdTY0NGcGhRMzlzV2tmVDBzUEU1LWQ5bUQwUXlXbXE2bzJITjF1b2JNaThNcVJrTzNhblQ3djZTVXl3WTF6bjZxYXF6MlBaV0U2MzFCU2ltRjJ2YW42alZ2bTJhdXZMd19jck0yRWRvUURTLXMyVF8zQUlWNy1sSGJJbl8xcWRTbFY3R25fazZGVVZnZHNzYlJtenBrONIBgAJBVV95cUxNLVBOSElxbFFsamhRVkQyLW1BeVpRLV93NTgzQ2xFM2k3YmUyNzlrc0I2RENQRWtJaklOemM5RHN5X2RfMmtMNndvMFdoaDY0WEVUMDdFaVhKZFN1Szk4VlN5bXBJQ1F4QmVZWmdLWnNEcmMzRHZzcy1idk9nZFNrRl9LYUc2aDdhbjd3dG1RRFZ5WjhUaFgxcEw2VGhPUzZ6RXpCaWlhUzhZOXR6all4amdRckRWVXc2ZjFuYnVDd1pfMm9ZenIwcEhYY0dMYjFxZTgtZW15ZjFqY2MtVXRiNTRMVktMSnZzTzBUWm02NXV5Y0E3X2o5emI0cWpLU2VW?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra govt grants Rs 9.7 crore to revive Mumbai University’s high-end research equipment  The Times of India",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt grants Rs 9.7 crore to revive Mumbai University’s high-end research equipment The Times of India"
+            ],
+            "tldr": "Maharashtra govt grants Rs 9.7 crore to revive Mumbai University’s high-end rese"
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1794992396558",
+          "title": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM1RSQ3Vha1RSREdrb0V3RElJYmNSbUtkZzNScnVpUFEteVc5bmI4UVlCcmEyenJFMkl4NmE1QjhJdDg1QThoODhGdkdLaENwZk1zM0V2U3g0QWRtSTRYUDFKWmZEM0h2NkZVNDhYc0VhdmRIVms1ZlhDY2xwNjlnWXM4dW1jaVNtaU50b1R4QS1aaWJQM0RCMlNvUlFSVml3Wkw3RWZuaWItcHUwa1VraHB3ZUl2YjUzUUZQT0FyVTlQS1J4dFppNHVGS1N1ekF3RjdTcWtqYmVPSGFrNmxKdmtrZFp0MlNBVEtz0gHwAUFVX3lxTFBKS244MkpnSjQwSHVYeWIyQkJpQTlWaGZudkRhaTg3Y3dLNHBKdHF0VktxRl9rR3IwbnV6VDVwZXh2VkFsX3R1LVVXbXJMWXQzbXFOM2k3ZlVzVnZyYnVYT2JQQW9VTmZ0ZjI1ZDg0WWNLVmtjMDZQdzJxU0NGalNfRjZxVEFER1NLRWl6SktyaWhrRDE5VmU2dWRMcVBJWXNPYmtnem56RlF5X3Q2M2NSdnNoZ1FSLXFzOFNvNF80NzBPZ3RWSUYwaFM3ZnRNMnF2d0I0Nmd0Y2Q3OUdidm04bWhFNWxTaURXQkwwV2pPcg?oc=5",
+          "time": "19h ago",
+          "body": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights  ET Infra",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumbai flights ET Infra"
+            ],
+            "tldr": "Maharashtra approves ₹16.74 crore viability gap funding for Sindhudurg-Navi Mumb"
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1794992396402",
+          "title": "Stock markets fall in early trade after two-day rally - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0ltRTRyRnlRdTlzMEhZT0g1QWxVQkQxb3gzdkVHYWdTUDk5LU9KUERubUhTUFZYRlZhU0xKWFBzR1VuS0J5UkFieHpJQ2tlck43TzZoTkphZUt0UWpXTGdPcEZpU3lDNUYxQWUyUVV3UTJLeUpoM0JwNV9LRDVsWjZtOTRRUngtVlJUdk5VdXlTSGEzU1VuLUV6VdIBogFBVV95cUxPTll2cDJjSDdyNHVPcmJ2MUtpekFWMzVyeHl3RU93RWo3Ulc5d3N1NWVWamdwQTNuYXZQdFlCcFJDU3BSZlo4cjZmYk04eHhQQkdSN1RlRXZ2VUZDdWJheTNSY3B3VVhFNU4ycU4xNTh4T3dnZ2EyUDdHWVM0c3lZZFE2MmI5QjlEWDlpWktIRUNNUFpzVVZib0JnYzVhVmpCZFE?oc=5",
+          "time": "3h ago",
+          "body": "Stock markets fall in early trade after two-day rally  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall in early trade after two-day rally The Hindu"
+            ],
+            "tldr": "Stock markets fall in early trade after two-day rally The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1794992396402",
+          "title": "Stock markets rally for second day on foreign fund inflows, softer crude prices - The Federal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnNySWNPVm5ORktrZ2VIVGJ3eXBmQldqb3psVmc0WkpuUllSa0FveERJdjdkNEJhUEpUTVhoSW1iVzZ0cUVCajdHcVNTSTdzLU5OaWRqdEJfZ3Q3S0k3cmlVdVEyWDlPcXZ2SDlOM0JmY042ZWVwTjNpMWlvbFlPcHRoQUE3TmNiQlBiclJxN3VyQ08wcGNnLVBzTTVJY3dlcUx5Qmp0UkVVUThuYU9vNWZsUXMtcldRV2lVNkthTVpGOEt5?oc=5",
+          "time": "21h ago",
+          "body": "Stock markets rally for second day on foreign fund inflows, softer crude prices  The Federal",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets rally for second day on foreign fund inflows, softer crude prices The Federal"
+            ],
+            "tldr": "Stock markets rally for second day on foreign fund inflows, softer crude prices "
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1794992396402",
+          "title": "Blue-chip stocks have performed poorly all year. How did they make a comeback? - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdnhJQVh2U0drR3FvS2xodVdRN0swRW51dnQ5eF9LSGFSekRseGhSUFJfbVdNLS0zQTJvQzdqRTdRSVU5Nk93MDZoYkVDV1U3dVMxWFB1UjBNU2diWXdRYlNLSmhkdzRIRUdOYkgwbU1qdkNjUnAxcTVfZkc3RTZjN0NxWHVnZERtZnNMZlZ1MEUzTHNSSGRCbDFDWEdfLU1uc254dGtJaW9KUkVUenRGR2FzekU5QjM0MTBRX2VTTkhxclNsVlZz0gHOAUFVX3lxTE5taGhveVoyS0hTSW5zSUJ1aVlyT0JUUEZhTWlBRll0eWFWYWY1cXBOZjRhZGxMdnI1N3RyTkR6dk9YeW1ORS1SdmtvN2pSNXdaQXY2RUhWQkhsb25hS1NNeU9EakJPRm5pT1JPNHR5X000c0ZfcThOemZOSnFYNGo1cE8yMUZTcWYtZkVDMEdDYjlEeVlVSmxIRE4xU0RiS3F2cnNrTHg2TkkyWXlqZWdkd1phb3V0U2dUZV9LN3hjMGZkMU1Jb1hzLW05NUhB?oc=5",
+          "time": "21h ago",
+          "body": "Blue-chip stocks have performed poorly all year. How did they make a comeback?  The Indian Express",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Blue-chip stocks have performed poorly all year.",
+              "How did they make a comeback?"
+            ],
+            "tldr": "Blue-chip stocks have performed poorly all year."
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1794992396402",
+          "title": "Sensex, Nifty Slip at Open; Metals, Durables Lead Losses - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaFRFMVJTME9URmlpQUFkTDZONFMwR2FrUi1rV3MteWVTVF9sRFFNQmJxaWRmS2ZZRXBYc2FnZVRiR2g2NmhhSEh6ckZ6LXdaX3lxNHcxS0xNaXJCUTh3SUNiMkItQ21PT1h5elhORXFKV2FFU0dEMmtEbW42TzN0clRwRTFzc2pqWFBOZUtxeGdBYldPV3RJM3pKNjRrZ2I4RkVnSzh2ZGxZa1N6YUc3ZUJJd25NTTFCd0pFaHp4UXdNUklsN1o1cXBOakQyczB0OVlMUDhlZGU0TXNhOGZpaU51REk?oc=5",
+          "time": "4h ago",
+          "body": "Sensex, Nifty Slip at Open; Metals, Durables Lead Losses  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Slip at Open; Metals, Durables Lead Losses HDFC Sky"
+            ],
+            "tldr": "Sensex, Nifty Slip at Open; Metals, Durables Lead Losses HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1794992396402",
+          "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkE3UWlyb0VrWmdfZy1IamtIemhZQU9YTjRfMGpnV3pNSVpRblc1SUZJWlAxRGNyNkJDMFpCWld3ekJSaDdpVWsyZ3lCQXY4SUdCSzc4bzJ3V1RjRFoxdkxwREdLTjFIUXlsWGtJQjM0VHlCR1ZuTnpaQk5VZENfelplNEZUejB2RUxKVXNtZFo3V1JiNFJQOVhHYW42UC15SzhDYmJOWG03M2xvLXN4MURiWWcxcExtLVJVaWhvWENyLUFScU9VRTR6Q1p5ZGhzN3Z2ZXM0c0prZUQ1bkRMcNIB4wFBVV95cUxPZjRrX3ZvejZibE9UU3NXMlVzZGNUcV9IMTM4SmRsTG5YM0FWazBwMXUwdG1MZHRhS1MtbFByZDJpY0cySzhPRzkyV3FPczJjTUltTm5fYVhMYlZCWGRQc3plUjIza2tfdWtpVTJYNnZzS0NqcndqdnJaTjJsUS1UbUg4VExnTW1TTEhtRXRET0k5RklfQlpBd3ZiZGNkOWhlckk5YVRZQ0pDVG41RVdZRWx3ZFZoeFNiS1pSTjl4TmFIdVd3Tk56LWJ1V2JnX01yZEwwb190ay1iU2JLaWh6bTU5WQ?oc=5",
+          "time": "3h ago",
+          "body": "Stock Markets Today: Sensex, Nifty Down on Profit-taking  Rediff",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Markets Today: Sensex, Nifty Down on Profit-taking Rediff"
+            ],
+            "tldr": "Stock Markets Today: Sensex, Nifty Down on Profit-taking Rediff"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1794992396402",
+          "title": "PVR Inox zooms 93% from March low, hits 2-year high; what's driving stock? - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSGMzYUhaRU55UHdMUGRSUE1WVHVOWmFQWGVoQzNpS3BxZU5zeGM1dHpTWkNnWEIwWjBwc2tXa3dnWkxiSkdab3A1UnVsOFp2U19LaEJrRmlUQ09LR2NnRkVtOC14VW9rNzlJdHloRHpheHZaNzNTQW5yMC1hMFBOX0VuVXpXTjhpT0hUNnJfdjFUaHY0NDdJdzRYd2lhcmR6OGlFNmRHNVVHcjZpcVdEWWZtckUwVWlnS2d6bjhQeC1SMG44WDJxUzJtZkhobVVVYVQ40gHYAUFVX3lxTE5rQXdWR1l0SDl5Yzh1amNKMHctaTJIeGdTNTlpN01LZXJyWC1VV0NRSnNZd09SWVlrbmJudVJkdzVERzE3UDlTMTFma0ZuMnRUUm9KLVlfU3JXaDNxY2xhUXpZVlNhSFFXQ0k4RGRXUDZDUS1NNkl6aFdIYllrQjZrQ0xXUzhoZ0VYQ29DRndGMy1Ud0VVb0xpdXVWZklFOHA2dENWUTZyb1FtREprbS1md0ZDVzA5a2pXb0RHLW5IRGFwb1JGYndsbnlNb1hHUDdlWmJQd1ZkdQ?oc=5",
+          "time": "3h ago",
+          "body": "PVR Inox zooms 93% from March low, hits 2-year high; what's driving stock?  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "PVR Inox zooms 93% from March low, hits 2-year high; what's driving stock?"
+            ],
+            "tldr": "PVR Inox zooms 93% from March low, hits 2-year high; what's driving stock?"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-0-1794992397794",
+          "title": "Maharashtra halts work on Adani project amid fee-cut dispute - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckprSVIzdkpPamkwRDR3cFI1aFBERHRGSzJfMUZ2TWFFcmd5YmZkOXdLTnRRUGRSQ1BXazNZcEozSGtNOVBoZHc3VG9QbzdVTkNLVDc4eElHSVlCanBhZkdJRkdaWmNDenFaVG05S1R1aWVaSUxVY0REN0FxT0hLeWdmbERqdWVlUmhhbC1OSklFVzd1WGJHRjVFcXUzYXk2a0V1V3pVUlJTY3VkQUV0dndDWjNHdEEwTHFVRXhmcWthVXZLendUS0x2MHfSAccBQVVfeXFMTW9HNzFPQklSek9ZWmx4enZEZDNwOGRFSmItbHQ1Y2tleGl4TldzOVdoY3FfQXVndTdWY0NNU0dCcE5tMjhtTzFGZ0F6ZWtEUTNiTzBVNXM4bDJJckg1MFFnUFZKQXF2VVFqMmp2RWJaelQ1MEFhX25TSUR5RGF2dnNXTDJrNlVCbjBfLVJNRnNUOTdUM2lGd3l0dnJ3UmxKY2E3MEw5WkUwbDJzREFWTzFoc0Z1Q0tXdTRxb2o4ZnNoUTQzVGhRdw?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra halts work on Adani project amid fee-cut dispute  ET Infra",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra halts work on Adani project amid fee-cut dispute ET Infra"
+            ],
+            "tldr": "Maharashtra halts work on Adani project amid fee-cut dispute ET Infra"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1794992397794",
+          "title": "ISB Executive Education Highlights Chief Technology Officer Programme. - TRIPURA STAR NEWS",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1NWY2RGeTRBTjdjLTU5SFNZNW1ISFc2a2tTbFZyeXlYMlFaTlRDb0FlX2pIUVlQdVNzaEFqUE45c2FqQ0xHS1dOWktZMGRLRFZTQjVPWmhtSjIzQmNaQVpSdDZwY25xRFJpX1pwTVByVXZtai1mZFQ2VzJiUXVZdjFEaTg4cmN5bFAwT0RYdjNYMUhyX3lBcm1haVprcnZ3N0FYUA?oc=5",
+          "time": "2h ago",
+          "body": "ISB Executive Education Highlights Chief Technology Officer Programme.  TRIPURA STAR NEWS",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "ISB Executive Education Highlights Chief Technology Officer Programme."
+            ],
+            "tldr": "ISB Executive Education Highlights Chief Technology Officer Programme."
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1794992397794",
+          "title": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks - ET Infra",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ00ydFdlTkwyRXgxSFRvUEh6M0w2bS1sMGVDclpzZkZvU0VRaTVjT1E2NTFjOGtRMy1sZDlCMnRjLXVGS1hUQlZHRFNJVTV1UEdhT2J2WUZQTkw2Q3NRVkpjSVltaGhDYlktNERxLW1MelY1OGhyWU9NdVJfME9EaEdjdVd3MHhSYXBEUDJ3M0xjanBXUm94M2tJZlFpV2x4ZGV4S1p1ZU9FZ2tMcnVraVY4RDdoelEwMzRKRzRsaEw0N0FtaFZib0FPb1ZYS2dEZ3kxY213ZFBhd1JT0gHgAUFVX3lxTFBtaUNMQWlQOFZRbmFfZVl2QVZWWkhfajNHVHNRLXFIV25zamJlYTNpeGUzLUpKcW9vQlFJMWJtZXZHUjhGcGxYQWdBSm1CcGhRZUhXMFZXSTZ0QUx0RG9BeHVZMjZHdm13OS15YXZKb014Q1FyREZ5TWhYUkM2QS04Q25PeXdUZzBPYWFweHp1R3hYUlRoc0l5SC1haTAxYVh2QzNRWjJDek53QnJtMmpUeUFBTFpRbE5iTlpkRDQ5QWR1VmpGTnMwWWM2TzFXMnhsS0l1X1dDRE5vVHVEcTVh?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks  ET Infra",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks ET Infra"
+            ],
+            "tldr": "Maharashtra’s Bhusawal division gets major rail capacity boost with new tracks E"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1794992397794",
+          "title": "BYD ATTO 3 EVO Strengthens International Rollout with 100 kW Electric SUV Offering - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNDgtMlhUMFZoVkEwcklhZ1hVMjJqWGwxNzZFa2R2N3pMUFdjWmJPMXNjNGVMN2Q0czBTdmZTMHJGakduMG5nNnQyTnE0aENaRXdTV0tIb2JmWkJNbHpmQ042aXNacXdCcjFqQzdTU0k3Y3QtZTBuYm9pTHFQT3EyYjJtSkN2MWZBNlZGY1ZRQVlzUWhQVDBTWnd5clh5QXhzTUZYYnFXNS1iV19DWlpsV0d6NFNwamNQYXptSkRnelRWd2VTSWdRdDRKaGlnMG5PMlByUEZjM25jYzdGZFRwak1zaEhlRzUxUl9GRWxjU0plODVVSk0teHZ2c9IB-wFBVV95cUxNNDgtMlhUMFZoVkEwcklhZ1hVMjJqWGwxNzZFa2R2N3pMUFdjWmJPMXNjNGVMN2Q0czBTdmZTMHJGakduMG5nNnQyTnE0aENaRXdTV0tIb2JmWkJNbHpmQ042aXNacXdCcjFqQzdTU0k3Y3QtZTBuYm9pTHFQT3EyYjJtSkN2MWZBNlZGY1ZRQVlzUWhQVDBTWnd5clh5QXhzTUZYYnFXNS1iV19DWlpsV0d6NFNwamNQYXptSkRnelRWd2VTSWdRdDRKaGlnMG5PMlByUEZjM25jYzdGZFRwak1zaEhlRzUxUl9GRWxjU0plODVVSk0teHZ2cw?oc=5",
+          "time": "2h ago",
+          "body": "BYD ATTO 3 EVO Strengthens International Rollout with 100 kW Electric SUV Offering  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BYD ATTO 3 EVO Strengthens International Rollout with 100 kW Electric SUV Offering Business Standard"
+            ],
+            "tldr": "BYD ATTO 3 EVO Strengthens International Rollout with 100 kW Electric SUV Offeri"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1794992397794",
+          "title": "Swanand Bhedasgaonkar Elevated to Executive Vice President, APAC SBU PBS Leader at Capgemini - https://hrtoday.in/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTRXdEgxMVRCWEF0X2E3RkRRREFJTFY5aW1UWjR2eVY4MU54VkhSbGwxUlZ0b2h0TEEyYW83TWVLdGx6bGhxUHJFZXQySm83LS10VWNIODhjSE1vSUNpdzVpTWN5OXFTeDRmLVMwdWRvQ3d2RWQwUXVYZklFamo5aHpWMUF2WlBZUDB1STZkZFNXZ0kxcV90eld2bll1UzVmVGJHal85NmNodmM5MUF3Tw?oc=5",
+          "time": "20h ago",
+          "body": "Swanand Bhedasgaonkar Elevated to Executive Vice President, APAC SBU PBS Leader at Capgemini  https://hrtoday.in/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Swanand Bhedasgaonkar Elevated to Executive Vice President, APAC SBU PBS Leader at Capgemini https://hrtoday.in/"
+            ],
+            "tldr": "Swanand Bhedasgaonkar Elevated to Executive Vice President, APAC SBU PBS Leader "
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1794992397794",
+          "title": "Veefin Solutions Limited Expands Its Enterprise Software Business With the AI Operating System and AI Employees; Launches veefin.ai - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNN1JLVmJ0ZjQ4VlVyNU9iZUh2TXVxNTUwY0FaaFJ3VU82WlJLbEhvaVZrbkUyX1J0NGZUWHZsTGdmYlhHSU5PWmVURXd5X2VDV3BPTHpncjJWNlNFX1pYbWwtQ001WkgyYXc0T0tnTkN2Y3hNOGV1UHdTMnVUeXo4WkVlTEVqRjZMOEdWV0JrZmZ0OWdVZ2VyWlRydTRXQXlZSVBlTTdSbUY3ZUNrcnF0aHpxNWtQeWtOQUNBNE9HcDNnQkFCOGtERGlzc1lucXBnS3pyUFpLQ2MxWElNS0Z2ak9EeGxCSTI4TElWWHcxcHRoSEEtakJLQ2w3Y0FNSTFzRjFOM3lhb1FVXzZjOXI3NVVycWVLVDJGSlpEcEtjSGhadEJUV09nNjQ1QTNGZVZsX0RwNHd5UDNQS2_SAbsCQVVfeXFMTTdSS1ZidGY0OFZVcjVPYmVIdk11cTU1MGNBWmhSd1VPNlpSS2xIb2lWa25FMl9SdDRmVFh2bExnZmJYR0lOT1plVEV3eV9lQ1dwT0x6Z3IyVjZTRV9aWG1sLUNNNVpIMmF3NE9LZ05DdmN4TThldVB3UzJ1VHl6OFpFZUxFakY2TDhHVldCa2ZmdDlnVWdlclpUcnU0V0F5WUlQZU03Um1GN2VDa3JxdGh6cTVrUHlrTkFDQTRPR3AzZ0JBQjhrRERpc3NZbnFwZ0t6clBaS0NjMVhJTUtGdmpPRHhsQkkyOExJVlh3MXB0aEhBLWpCS0NsN2NBTUkxc0YxTjN5YW9RVV82YzlyNzVVcnFlS1QyRkpaRHBLY0hoWnRCVFdPZzY0NUEzRmVWbF9EcDR3eVAzUEtv?oc=5",
+          "time": "22h ago",
+          "body": "Veefin Solutions Limited Expands Its Enterprise Software Business With the AI Operating System and AI Employees; Launches veefin.ai  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Veefin Solutions Limited Expands Its Enterprise Software Business With the AI Operating System and AI Employees; Launches veefin.ai Business Standard"
+            ],
+            "tldr": "Veefin Solutions Limited Expands Its Enterprise Software Business With the AI Op"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1794992397794",
+          "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPY0dYQ21xM0liNlpYRmUtN2pVYUZmMko0c25sbGIybUZoU1ktRkludFBILU9UUUZDTU1pUC01b2FPN3J6a1VBMk04UDRqX0VIbEpqYVBiV0Z2ZlRyeDFEU3hEalRnbThYbzFNZjl4VDI2bzAtQXJrOU5jUmhtYVYyM2pxX2M4cUNvdG5Bc1FsNFY2V1BpSVVIVzlKcEg2YjNEMndNeHEwOG16ZG9Cd3c4ZUM2ckVSeDVrcjdiZ0h6VzdvaWxMd1FSYzdSaGJrNEpWVVR4bzdIUE13dURiUWRpYWU0ZVdldVJ0MTJzMEtsUFhMdEJhUWxMUzJUS1pORU8teWp5Y2xOTUp6bFFMTGh0RTJHUjZmYlRDREFFNFhJY9IBnwJBVV95cUxPY0dYQ21xM0liNlpYRmUtN2pVYUZmMko0c25sbGIybUZoU1ktRkludFBILU9UUUZDTU1pUC01b2FPN3J6a1VBMk04UDRqX0VIbEpqYVBiV0Z2ZlRyeDFEU3hEalRnbThYbzFNZjl4VDI2bzAtQXJrOU5jUmhtYVYyM2pxX2M4cUNvdG5Bc1FsNFY2V1BpSVVIVzlKcEg2YjNEMndNeHEwOG16ZG9Cd3c4ZUM2ckVSeDVrcjdiZ0h6VzdvaWxMd1FSYzdSaGJrNEpWVVR4bzdIUE13dURiUWRpYWU0ZVdldVJ0MTJzMEtsUFhMdEJhUWxMUzJUS1pORU8teWp5Y2xOTUp6bFFMTGh0RTJHUjZmYlRDREFFNFhJYw?oc=5",
+          "time": "20h ago",
+          "body": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India Business Standard"
+            ],
+            "tldr": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cy"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1794992397794",
+          "title": "Taapsee Pannu and Jannat Zubair Team Up with NIVEA Soft to Simplify Everyday Hydration for Gen Z - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTEl1NG5XNXVrMFlhU0xTXy1jZjFyQng1d2dmTEcyRnptb2hEVkotNVJTSDhwVFlLZnVyNHZPajNGLTZ0M2tyWGVzeUJBUFhJMkdFVFl1dW12WDhvd1J2cGtpNUZGUHc3SnFvdEtmam96Vi11NXNxMHczZkNzd1JQT2V2eTdLU0dJQ0hUQjZlQ2lMckFBUmtMM0FLczB0SldfNXN2Z3lMQ0JJWlJvb25vZnpJV0FJaUdSeFdWc0twNGZjeWtLcmowZUtkWWE4a1BLVFByM1M5eWZ0YWF5c1FSbWxlVklQY3U0VUx2NjFuU3NzTDdkTUZST2RjcHIxdFplQ1RmOC0xNXZMeUpzd0HSAY4CQVVfeXFMT0xJdTRuVzV1azBZYVNMU18tY2YxckJ4NXdnZkxHMkZ6bW9oRFZKLTVSU0g4cFRZS2Z1cjR2T2ozRi02dDNrclhlc3lCQVBYSTJHRVRZdXVtdlg4b3dSdnBraTVGRlB3N0pxb3RLZmpvelYtdTVzcTB3M2ZDc3dSUE9ldnk3S1NHSUNIVEI2ZUNpTHJBQVJrTDNBS3MwdEpXXzVzdmd5TENCSVpSb29ub2Z6SVdBSWlHUnhXVnNLcDRmY3lrS3JqMGVLZFlhOGtQS1RQcjNTOXlmdGFheXNRUm1sZVZJUGN1NFVMdjYxblNzc0w3ZE1GUk9kY3ByMXRaZUNUZjgtMTV2THlKc3dB?oc=5",
+          "time": "13h ago",
+          "body": "Taapsee Pannu and Jannat Zubair Team Up with NIVEA Soft to Simplify Everyday Hydration for Gen Z  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Taapsee Pannu and Jannat Zubair Team Up with NIVEA Soft to Simplify Everyday Hydration for Gen Z Business Standard"
+            ],
+            "tldr": "Taapsee Pannu and Jannat Zubair Team Up with NIVEA Soft to Simplify Everyday Hyd"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-4-1794992397960",
+          "title": "IPL 2027 - All retentions and releases - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnViTjZIRkdmMGRHUVpNTVpNYTVoN09GU0VFTEJXTWZTdDQ0aVRZd3Jsb3lydXByaWJ2RmhPWktsdEdZeFlSMDFwdUxfR1R2SmY0aGZraWdPUm5aX2JubjZfWEd1UUNhZFUtZ0E2N294WWZEUWRxX2hfTHZUeVRSRG8tQm45azJEWHdFMlhnV3dNeXppRnpVLQ?oc=5",
+          "time": "6h ago",
+          "body": "IPL 2027 - All retentions and releases  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 - All retentions and releases  Cricbuzz"
+            ],
+            "tldr": "IPL 2027 - All retentions and releases  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1794992397960",
+          "title": "TATA IPL 2027 Player Retentions announced - IPL",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT29peHZGUUZlT1NVVVdzbmM0aUg2cTBkY2RfaGhHb09yZ0xvTDRiTFZKOFNjOU83UEo3a0VTMmgyWGF4ZnJEV05SV1cwd0t3TGV5ZDF0UmhZdFc1enFmWDV3QUJGS0NsMWU5ZWpfMHNCRzdTTDlsLXlGYnZOSWJ2dXdiWQ?oc=5",
+          "time": "3h ago",
+          "body": "TATA IPL 2027 Player Retentions announced  IPL",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "TATA IPL 2027 Player Retentions announced  IPL"
+            ],
+            "tldr": "TATA IPL 2027 Player Retentions announced  IPL"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1794992397960",
+          "title": "IPL 2027 retention: All players retained and released - Olympics",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDFWZ1lIWmg5NjUyZVkyakRsclpBZVE4XzhncnZ0a0IzR0VOU0h6VkItTFVzelZKMGdDdFBiaGZDclRuOFB6elJnM3FEY0NjNTNQcDJiZElkeXNlaHZRR2RXNlR1Wm4wSl8wZVVQWmM1T09JbVZUQ2k4aENCdVZPcmdWMHFmNzl6aFN6dHp6Z3lDZkRxZVJ4VzJkRWY4ZVdhQUhUalN3?oc=5",
+          "time": "17h ago",
+          "body": "IPL 2027 retention: All players retained and released  Olympics",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027 retention: All players retained and released Olympics"
+            ],
+            "tldr": "IPL 2027 retention: All players retained and released Olympics"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1794992397960",
+          "title": "Hardik Pandya Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ISWJ4dTVQT2N5QlJGSE0yX0hDb3Iwa2t5bjZHbFF6WVFlbWJEQlM2dnZuYW5NTDZCQndnLVVRRm9tSmhpSHVISW9ISTg1c1BhWmNGN3dMSlpyTk1PbEQ4aThrenVhMElzLWNENk0zdU1ISjZyN1ctXw?oc=5",
+          "time": "4h ago",
+          "body": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Hardik Pandya Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1794992397960",
+          "title": "Sunil Gavaskar: The ‘win-at-all-costs’ mentality that Aussie cricket is famous for will be tempered a bit this season - Sportstar",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU0hxMTVKcEJOR0VhZ0xiMXZlb09HOTZiUTA4UEZkVXRST0MzMlNlWXBLekFVanVKdmtsdU5rQndCTTJBUFlQZFllVENlSHd3TzJSMjE0NFBlZVBBZlozNjVpYlhzb0Y5eUUzX3RWRG1YSktlQm02XzJKQ3F5cG1SMDJUYmhrbTFCeG9weHc4R1lacC01cVB3N0F2UjMwalpNVi15QWdyRXI3MTZMU1RPWFJ2VmNOcjZMVDFDWTBhcF8yd9IByAFBVV95cUxQYi1ZWjNOQzBCeG43NHplUjRtelhUMXlVb2M0WHhxcC1DWFNIUlA3NjNyTVZvcWUtRFZieU83MTNzaHBoUkUyOFVOd2I0TWFad0tkNUw5RHVSTkJQVHJ2WHc2QW81aW5QRmVzWFQxQ0FFRV9pN0IxVkdUNUNYNm9KVDJYbWZtMlBnQ1FiN0tjUXZKanVRek1rT1RLNXN2cmJWaVN3bDZTWjMtUWFkT2ljRC10OEVxelhDT1ZSVEJMQi04Q1l4QmVYUA?oc=5",
+          "time": "1h ago",
+          "body": "Sunil Gavaskar: The ‘win-at-all-costs’ mentality that Aussie cricket is famous for will be tempered a bit this season  Sportstar",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sunil Gavaskar: The ‘win-at-all-costs’ mentality that Aussie cricket is famous for will be tempered a bit this season Sportstar"
+            ],
+            "tldr": "Sunil Gavaskar: The ‘win-at-all-costs’ mentality that Aussie cricket is famous f"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1794992400402",
+          "title": "Beyond being Mohammad Nabi's son: Hassan Eisakhil's wants to make his own mark",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Hassan Eisakhil carries a famous surname behind him. Yet, he's determined to make his own mark in Afghanistan cricket. The son of veteran all-rounder Mohammad Nabi, the 20-year-old speaks about his father's influence, handling expectations, his ambition to play alongside his father, the competition for an opening spot and his admiration for Virat Kohli and Shubman Gill.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Hassan Eisakhil carries a famous surname behind him.",
+              "Yet, he's determined to make his own mark in Afghanistan cricket.",
+              "The son of veteran all-rounder Mohammad Nabi, the 20-year-old speaks about his father's influence, handling expectations, his ambition to play alongside his father, the competition for an opening spot and his admiration for Virat Kohli and Shubman Gill."
+            ],
+            "tldr": "Hassan Eisakhil carries a famous surname behind him."
+          }
+        },
+        {
+          "id": "mumbai-sports-3-1794992400402",
+          "title": "Cues from Wellington nets: Shubman Gill, Morne Morkel and '20 good balls'",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Shubman Gill is leaving no stone unturned ahead of India's Test series against New Zealand. A demanding 30-minute net session against bowling coach Morne Morkel, complete with a challenge to face 20 good-length deliveries, offered a glimpse into the Indian captain's preparations.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shubman Gill is leaving no stone unturned ahead of India's Test series against New Zealand.",
+              "A demanding 30-minute net session against bowling coach Morne Morkel, complete with a challenge to face 20 good-length deliveries, offered a glimpse into the Indian captain's preparations."
+            ],
+            "tldr": "Shubman Gill is leaving no stone unturned ahead of India's Test series against N"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1794992400402",
+          "title": "SMAT Live: Punjab cruise to eight-wicket win over Railways; Kerala lose",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "6h ago",
+          "body": "SMAT Live: Punjab cruise to eight-wicket win over Railways; Kerala lose. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "SMAT Live: Punjab cruise to eight-wicket win over Railways; Kerala lose. [object Object]"
+            ],
+            "tldr": "SMAT Live: Punjab cruise to eight-wicket win over Railways; Kerala lose. [object"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1794992399057",
+          "title": "'Responsibility to banish hatred': Mamdani condemns anti-Indian racism at Diwali event",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration. He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs. Thirteen US lawmakers have requested a federal investigation into a disruption of a Diwali event in Seattle. They referred to troubling patterns of anti-South Asian hate across the country.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration.",
+              "He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs.",
+              "They referred to troubling patterns of anti-South Asian hate across the country."
+            ],
+            "tldr": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community…"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1794992399057",
+          "title": "Los Angeles City Council adopts Diwali resolution, honours Indian Consul General",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions. The event featured cultural performances and was attended by various representatives from the Indian-American community. A resolution was passed to extend Diwali greetings to residents across Los Angeles. Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions.",
+              "The event featured cultural performances and was attended by various representatives from the Indian-American community.",
+              "Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles."
+            ],
+            "tldr": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ…"
+          }
+        },
+        {
+          "id": "mumbai-general-3-1794992399057",
+          "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat.",
+              "He was overstaying his student visa. [object Object]"
+            ],
+            "tldr": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young gir"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1794992399058",
+          "title": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope will help their toddler with rare genetic disorder. [object Object]"
+            ],
+            "tldr": "Indian-origin family in Canada seeks $5.5 million for US gene therapy they hope "
+          }
+        },
+        {
+          "id": "mumbai-general-5-1794992399058",
+          "title": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly delivering drugs to a Sydney resident. [object Object]"
+            ],
+            "tldr": "'You've been a victim': Woman Uber driver breaks down in tears after unknowingly"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1794992399058",
+          "title": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck. She says she did not know she was pregnant. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn daughter's body found in garbage truck.",
+              "She says she did not know she was pregnant. [object Object]"
+            ],
+            "tldr": "Indian-origin Ohio mother sentenced to 90 days in jail three years after newborn"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1794992399058",
+          "title": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin Texas man charged for killing parents, grandmother: State won't seek death penalty. [object Object]"
+            ],
+            "tldr": "Indian-origin Texas man charged for killing parents, grandmother: State won't se"
+          }
+        },
+        {
+          "id": "mumbai-general-10-1794992399058",
+          "title": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz. [object Object]"
+            ],
+            "tldr": "Meet Indian-origin Anjali Sud, the new CEO of SiriusXM, succeeding Jennifer Witz"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1794992400641",
+          "title": "\"Papa, We Will Die\": Maharashtra Man Allegedly Throws Two Young Sons, Aged 5 and 7, Into Canal - NKTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGt3QmZnUzBFTWgydDE2aWRrcmtUSWxUMUxxck9JcUZ0WWZ2MzgyR2pEcHYwNG9EeUFVRWZxUUxMMDhHeEVkM1hxWHRoOVF5ZGlJVHZwOFN2WmdHQThibmlWbUNIZnp1ZzNjNjdUNmRFcTBoVVdRclk3bUlxYnJSYVFPWEVBaFlwbWxBUlk4ZUdEclJZSHc0VHNzTDZNU21BYXhkSEE2Vy11ekptMUE?oc=5",
+          "time": "3h ago",
+          "body": "\"Papa, We Will Die\": Maharashtra Man Allegedly Throws Two Young Sons, Aged 5 and 7, Into Canal  NKTV",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "\"Papa, We Will Die\": Maharashtra Man Allegedly Throws Two Young Sons, Aged 5 and 7, Into Canal NKTV"
+            ],
+            "tldr": "\"Papa, We Will Die\": Maharashtra Man Allegedly Throws Two Young Sons, Aged 5 and"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1794992400641",
+          "title": "Women’s National Boxing Championships 2026: Road To LA28 - Sportscape Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFlYcVZFanJlTTJQczlNbVZUSGE4d1dlRWpNT3JYOTJsc2E5cXNlM1pxZlI0WHVkNDVhYmVGb1JFanRTNlRBWXQ1LW9VM0NPT0RmTXdoRTZtVGR3VDZHcU1aNjZoT0V4cnRGMFhyVnFRazNfU2s4Y1ZxeC1TYnRjTmpucW52MkdpcEZtbEFfcw?oc=5",
+          "time": "1h ago",
+          "body": "Women’s National Boxing Championships 2026: Road To LA28  Sportscape Magazine",
+          "category": "sports",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Women’s National Boxing Championships 2026: Road To LA28 Sportscape Magazine"
+            ],
+            "tldr": "Women’s National Boxing Championships 2026: Road To LA28 Sportscape Magazine"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1794992400641",
+          "title": "Maharashtra Government added 4 more talukas; total 308 talukas are drought hit - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOODlTMHQyVVBSMXlYeXlxZnlubjRKaVhpZkJvVDNSSHVaLXlzQUkwTnV6QjJDRUQ4aUkwcVUwblczSmZMdXZ5SWNLMWRqT1Y2VG1PQXpjaVFjdlJoRUJLdmFKbXhNcHZBUERHT3JieVMtWF9XbXVsODhuSWNESVFNb1pGamxUSHVaMDdobURRakRmdld0RFZGVEtvbTI1WlJSYmNzcmc0TjdvVjVuSE5Fb1NBbS1NYlljZ19Ea1pSSkxwUEIzSGRnOXowU2FMSG5TVERuTmpLa1dralVGMGNpMmRtTlQwZnpf0gHoAUFVX3lxTE44OVMwdDJVUFIxeVh5eXFmeW5uNEppWGlmQm9UM1JIdVoteXNBSTBOdXpCMkNFRDhpSTBxVTBuVzNKZkx1dnlJY0sxZGpPVjZUbU9BemNpUWN2UmhFQkt2YUpteE1wdkFQREdPcmJ5Uy1YX1dtdWw4OG5JY0RJUU1vWkZqbFRIdVowN2htRFFqRGZ2V3REVkZUS29tMjVaUlJiY3NyZzRON29WNW5ITkVvU0FtLU1iWWNnX0RrWlJKTHBQQjNIZGc5ejBTYUxIblNURG5OaktrV2tqVUYwY2kyZG1OVDBmel8?oc=5",
+          "time": "3h ago",
+          "body": "Maharashtra Government added 4 more talukas; total 308 talukas are drought hit  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra Government added 4 more talukas; total 308 talukas are drought hit The Hindu"
+            ],
+            "tldr": "Maharashtra Government added 4 more talukas; total 308 talukas are drought hit T"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1794992400641",
+          "title": "This rugged plug-in hybrid SUV with 1,100km claimed range will debut in India soon - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbzd0aFhBZ2xVUEdtVnYzQS1rSmM2V3lWSjFna1BRVUVrOVdlUFFXeGt6N0d3N2dJN0E0Q0xacVNaWWFwMUUybEtVd2g4M2RhSUVzWUJsbHlSZzhZcUpCdUVUT3puQnJpVDh4dXNaUV9KVFZwa0ppUnlqWVdrS3YzbDhud1NoSVZSNWtyeGZSZVNUWEd3Vy1jNm9QbE9lVkdvejlUeHZJWk5CM3hYeHRkdXREdU93WGlHWFJNMk5ObVlBLTlzVGd4UERSTHM0bjlDVjM3Qm9Yc3lGQdIB3wFBVV95cUxNOEtIWnRMUHdZSTAxTTY4bmVUNjRHN3BRY2QweWs3WEM0dDU3d0J6VnJsdmY1emM1R0JRRVpHTV9XTjlWM2daUFRtY1JUQWhmRW8xc1VwajRoYmhKbmdCS3RDT2N6UlBXZno1YU5XU3UxQ3cxNTlsdURvRFlrY2dTTXNHcGFsaGtBeEtRSWJ3bmRRbVR6T2JLd2NWTU1QajdKQVdIaGpNT0FHeW0yNmRCMkRlYjJyNjhrY29ncFNqWFhEdjMxNUNPZ3ZfS0t3UjJrS1RKbmJNRi04TGRrcHdN?oc=5",
+          "time": "2h ago",
+          "body": "This rugged plug-in hybrid SUV with 1,100km claimed range will debut in India soon  India Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "This rugged plug-in hybrid SUV with 1,100km claimed range will debut in India soon India Today"
+            ],
+            "tldr": "This rugged plug-in hybrid SUV with 1,100km claimed range will debut in India so"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1794992400641",
+          "title": "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal - NDTV",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHQ5bEp2UDZVUzloS1ZZOEdzeHZ0d1lFT295M0UyY3Y5Q0xSaWhteWNvTHhGeWtUUnZKYkhDdkZPdU8td0RXalB6SG95Sm5WWkM2ZFZMd2xuam9yeERpZXZVMGVIMWNaNXhOZ3gzZ1kwektFSktxOG5QQWtyeGNCUnVucjEtV1FZdVhkZGdNUTZBUzNCZlF4X1plVzFzMVVZUFE2UC1qUdIBrwFBVV95cUxNaG9SV21UTGdtNHJ5ZHBOWldjcGwwcmpKNFhNT0N4X2k2VWYxdXNzUDdSX1FfSDlESndSN1M4V3R4Z1pxc3hKMVVlV2RlcEN0YVE3S0JiUmg1S21oNG90aW5tZGtwMThzRnE4Rmt1Yl9NX2p3ZnNaZmJaVTJuUWxSRkdpZEdKSDVKN25hMy01MDJwRVR0ZVQ0ZUxsQ25LRDd4MFNSRkZnblVuZW5GWGE4?oc=5",
+          "time": "17h ago",
+          "body": "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal  NDTV",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal NDTV"
+            ],
+            "tldr": "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal NDTV"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1794992400641",
+          "title": "Michelin India Opens New Tyres and Services Store in Chhatrapati Sambhajinagar - Machine Maker",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQODJDSXltSUJWMWFaVllST3loZHRFLXA4Zkp3QXotZGFQaXBHaEx0bXRoX3lFWmxrVzRsZkgxZVpoSWRjVmZXX1FSTDR4TWlJMjdFRkVBeXRsVUU5T0plbkxIdDlvSTNhRC1zaXI4dFZrRXhxSDQ3REk2TlNEdTJOWmVaR2ZhZnBEeFpOUDA4SFZIbG5fVUNGU1dwUlBuR29ydk9KRGE0YVFfVzF1WEZrRmt3?oc=5",
+          "time": "20h ago",
+          "body": "Michelin India Opens New Tyres and Services Store in Chhatrapati Sambhajinagar  Machine Maker",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Michelin India Opens New Tyres and Services Store in Chhatrapati Sambhajinagar Machine Maker"
+            ],
+            "tldr": "Michelin India Opens New Tyres and Services Store in Chhatrapati Sambhajinagar M"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1794992400641",
+          "title": "23 accused in Rohit Pathare murder arrested; Cong wants new IPS officer-led SIT to take over probe - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQzJhLWlfQmJCQjA1bDNtNS1FX2s1U2NObkdEa2MyaWF1WUZ0NTllNS12UjBISlpTX3Ria3JINHVIT280TTMxTTI3NHZxbTZZY214a2xCSGVpTkpLZ3FUbC1CeEpPdWwzSVZBcERPeUh3U0E5TkE3cWt5OS05VHVMeVhkTkFHRlZZRFNubHZzTzdKXzNiRWNhd2FnejdXZW5CdXFqTGhCNmVMQllyNUpKbDFYdjctUEZyQTl5TlVuNGtibGpLWUFOSm80djhxSGx3bUd2X014dzBKbmdfNHFHR1J6eXBNRU1XcHpyOWpFMGkzUFNPeFVFbnhuN3pFY19BcGVUd0htcUxmZDjSAYsCQVVfeXFMTUMyYS1pX0JiQkIwNWwzbTUtRV9rNVNjTm5HRGtjMmlhdVlGdDU5ZTUtdlIwSEpaU190YmtySDR1SE9vNE0zMU0yNzR2cW02WWNteGtsQkhlaU5KS2dxVGwtQnhKT3VsM0lWQXBET3lId1NBOU5BN3FreTktOVR1THlYZE5BR0ZWWURTbmx2c083Sl8zYkVjYXdhZ3o3V2VuQnVxakxoQjZlTEJZcjVKSmwxWHY3LVBGckE5eU5VbjRrYmxqS1lBTkpvNHY4cUhsd21Hdl9NeHcwSm5nXzRxR0dSenlwTUVNV3B6cjlqRTBpM1BTT3hVRW54bjd6RWNfQXBlVHdIbXFMZmQ4?oc=5",
+          "time": "14h ago",
+          "body": "23 accused in Rohit Pathare murder arrested; Cong wants new IPS officer-led SIT to take over probe  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "23 accused in Rohit Pathare murder arrested; Cong wants new IPS officer-led SIT to take over probe The Times of India"
+            ],
+            "tldr": "23 accused in Rohit Pathare murder arrested; Cong wants new IPS officer-led SIT "
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1794992400641",
+          "title": "Maharashtra legislator seeks doubling of honorarium for ‘shikshan sevaks’ - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXc2VldZSVB6X2kySlJNRjJVcWFzTG1Dd2F4aF9tRGxkeXF1VFQ4T2I0U25OM0kzNG1xVmF6cXJsWVNSWGo0RllkU0J0TXFEQWYwZDVuWm1Cd0RCc2FPUUp6ME94TUYzdndSS0J3dmlMUWRsdHB4ZFcxaHRMY3NRWTlUVW93X3g5UVdHcmVKM3dBRXJtLTJBWGZhaE5tTWVpaHI3VUdJdEpEUdIBrwFBVV95cUxOM0ZLTGFfT2ZaSnJNZGloN01seHFONU1jZl9LTXBPdnctMjZfbDF1OGhnVExLRUpwbkVsd3hYUzluelY3S3VwNmEyaFMtTlpwSmNVNThyQWM2NnpJOUM0NHFxT3NQVEgwb0xuTm5yUTkwaER1SUQzc0w4Z05lLUR6b2ZnMWVCOHRKUXpVYlJGdVNVUW95WWFlcXdnQThZVjd3UGxESE1vaUVwbm52cHhN?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra legislator seeks doubling of honorarium for ‘shikshan sevaks’  ThePrint",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra legislator seeks doubling of honorarium for ‘shikshan sevaks’ ThePrint"
+            ],
+            "tldr": "Maharashtra legislator seeks doubling of honorarium for ‘shikshan sevaks’ ThePri"
+          }
+        }
+      ]
+    }
+  }
+}
