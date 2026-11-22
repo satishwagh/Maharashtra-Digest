@@ -1,0 +1,798 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T08:42:18.259Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1795336932517",
+          "title": "Mumbai Diary | Pawar may pitch for bigger role for Sule - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUhOaXNDbmRkYXJpSi01RkRJcEdTQWNOTE9fM19PSUNBejdHRjAzbVUySS13aW1EaTNnaldmbHllc19adTZ1V0Zia0c2UGExZGdqTUVNSllqUWpKM3Nqal9BQzFaNHN2NUxROFVqbVpLbjE5MldZalNibGEwbW9hT3U3bldnWlljUUVyX0hLS0I5MDNJLXVFblotSHFoWDZzeks0aFQ3Z3VZSWJVVzVkUWV2VHo3TVHSAcQBQVVfeXFMTjhHNjI2MVJWdnlvbVNSMTFMQmRNb3Y4Rkgtajhpb3hpMHlzNVpsaEVKNEpkMzVYZkFmYk5nWlBuRkdoVVB4emZUemdYQzlLWnR1U2RtWXFNNFVlWEVZOHR3Y1FUemhpamNlbE9FdUNwTEItZFM0QkV4VFpPU2J3cnlEYXlzRFFLRmZHNUZzeDNPaVZoUWJNM0lBTkxpTEZ3TlpHbzlseWRmTzdOVERPUkliNUJObTBId3lFWHR4WGFfQWdnUA?oc=5",
+          "time": "6h ago",
+          "body": "Mumbai Diary | Pawar may pitch for bigger role for Sule  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Diary | Pawar may pitch for bigger role for Sule The New Indian Express"
+            ],
+            "tldr": "Mumbai Diary | Pawar may pitch for bigger role for Sule The New Indian Express"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1795336932517",
+          "title": "Maha: Thousands of AIDWA-led ‘Ladli Behnas’ March on State Government in Mumbai - Peoples Democracy",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmxRZmMyajlzR01ZWEhlWjU1b3haYVZuYVJRT3cwMjlOTFI3SF9sUDc5eTlVU0NoZlVzTDBPLXZ0U2otWEQtcFpHMzRaaTN6aUhMZGUwblA3ZFZZV0M0SkJONTAzdzVNZFVlSTJGZ0J3M3dzQjdqa0FKaWFwNUxrZ01xNUNUT1M3ZDgtSmJ2OFFIQjNWWjdNY3hQdFNpSmRScmlJZVhGUEo4T0l0bVFwd0w3RktKQ1ZaODZ5U3h5MmdTbHQx?oc=5",
+          "time": "14h ago",
+          "body": "Maha: Thousands of AIDWA-led ‘Ladli Behnas’ March on State Government in Mumbai  Peoples Democracy",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha: Thousands of AIDWA-led ‘Ladli Behnas’ March on State Government in Mumbai Peoples Democracy"
+            ],
+            "tldr": "Maha: Thousands of AIDWA-led ‘Ladli Behnas’ March on State Government in Mumbai "
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1795336932517",
+          "title": "Mumbai Government Clarifies ‘Dadar’ Renaming Applies to Aqua Line Metro Station, to Be Called Chaityabhoomi - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvOEtGOWF2VWhOWnlrS1JDS21SYXRKRjR4dlB0UzM0OEtka2VwMHFRTXFyVnk4eEkweTV2d241NGtsaXBZM2hBNXRnSFlDYUlBNmpsb0VER3Vjcm1BLXM1RU5CN21FNDRXNmFKOU9rc1ZkTFVnNExv?oc=5",
+          "time": "5h ago",
+          "body": "Mumbai Government Clarifies ‘Dadar’ Renaming Applies to Aqua Line Metro Station, to Be Called Chaityabhoomi  Mumbai Mirror",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Government Clarifies ‘Dadar’ Renaming Applies to Aqua Line Metro Station, to Be Called Chaityabhoomi Mumbai Mirror"
+            ],
+            "tldr": "Mumbai Government Clarifies ‘Dadar’ Renaming Applies to Aqua Line Metro Station,"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1795336932517",
+          "title": "India’s opposition stages protests against Meta over account removals - Al Jazeera",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5",
+          "time": "16h ago",
+          "body": "India’s opposition stages protests against Meta over account removals  Al Jazeera",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "India’s opposition stages protests against Meta over account removals Al Jazeera"
+            ],
+            "tldr": "India’s opposition stages protests against Meta over account removals Al Jazeera"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1795336932517",
+          "title": "Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur court - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUVhzS2dka00xRnpnRjFhUktjQ1dDUVowcXU4MzVCWFktNEw4a243WlRkdXExcVpoN2U2LW9VejhuRnNxelpoSkFjd1g3NER4WU9pOGNuVGk1cHVhRldQcy1LZVRhR2tPZWE1ckczWTRQLUdHc0xfQVMzei1Za1V1U0RxMWFxZlJvdVhxTk9LUVlvT05pOXU3X0d2eXZ4eW1TSEFfV1pnc0dGc3ZsV1NPcnJNemk3YWRrak4tTEIyYjRQb09rbXFLV096WlV4bUp5bXVzdWZYS3EzQdIB4AFBVV95cUxOLUhjaTB5WDcyZU5pcmxwdGRxYm9vRnFmTlBNQkdib2UtMGI5UmtwcTJzQWx1WDY0a3BNR0s0bU5mbjFwN2twUzRQZUtfSHdjUllZSndKT3gwN0RwWllqdUd4QzhvTk1vSHRiMF94NnkzZHdSTzNkb3NXVFV1TldTdWZobFFuZlozZGdvSGlvYzhyNXdJWmxlVTBURzZPa2ljOVZYd0tfdG5CRVRHdFpNWE5OSkpUNXBjbWhDSEx3LXJkOEJjVHJvNnFGOXZ1OGFJZ21LZnRrNF95ZVFmWGRCLQ?oc=5",
+          "time": "9h ago",
+          "body": "Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur court  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur court The Indian Express"
+            ],
+            "tldr": "Prosecution sanction delayed, UAPA charges against journalist dropped by Nagpur "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1795336932517",
+          "title": "Maharashtra hearings begin in 33K acre Bhoodan land scam case - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0Jpc2ZqakpIeVRST0lOT2ZRR25QY3U3R25pWklEZm15cktuQnVobDRCQnBjQ1hJTGpDQ0RYdVRJZ1N3cWt5YjJ1cHZiNk1tSlliNS1nYW03ODZXMVd2YVF0TXp6RFZLOTJXeV9uZU92dzBCN1paZEhrWTgtX0hwcndqNGVNTWJBR015T1AxRTNySndlS3lpcVVoX3VBUlhvN1JleXFnZUtiNlNZMDZSdnAtSlF2NkVKS2pVR2Q3R29JZ9IBzwFBVV95cUxNeXJ5SFJVQkw2a0tZV2prSzlpeDA4ZWlmSXZIVWlDSkJCWnEzWlYzY3RObl85ZWtFZVpWYjR6eVZYcUF0UmFtQURKR2xhcFEtMm1nMHB1NU12T3pUaEN4X196dDZ2aGkzSHhueUdBc0FfMS02VHdJMDFLTnYwbTVKRTl3cHlmY3dua2xSanZnOTY4cENNaTFJR0M3eHRjdG1PNHg1MVR2Yk1KcUx2ZkVocTJjeDhGY295N19LbEN2WFJFaWpuRWQtcG1NdmZHWXM?oc=5",
+          "time": "6h ago",
+          "body": "Maharashtra hearings begin in 33K acre Bhoodan land scam case  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra hearings begin in 33K acre Bhoodan land scam case The New Indian Express"
+            ],
+            "tldr": "Maharashtra hearings begin in 33K acre Bhoodan land scam case The New Indian Exp"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1795336932517",
+          "title": "\"Political theatrics\": Keralam LoP Pinarayi Vijayan targets PM Modi over remarks on corporate salaries, jobs - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR1FUeXh1WVpPLWdubmZnWGNUb2xrUGN0NHh1WEw0NUs1U2FqZnEzS1pmbThuODZKOWJZR0psMk5DeU16S0pGWFF0NDJNTFZIUUhSOE9VWFpubGZMTW5PNFhQTy1tWG9waEQzU1owOXI4aXd3OTl3VDY0V20zTjU2LS1ZclNEY0RnUkJyRXBuSUVyQ2tGRWVJMTdLeTNQeWFmNmdzQ1V4al9VTGdqekVHX2RqQzNkSlhLXzVCTkxqcUREUnl2RzRGcDdCYlhtTWs1VkpWVDY1VjJUcVhPZkdpLTBB?oc=5",
+          "time": "6h ago",
+          "body": "\"Political theatrics\": Keralam LoP Pinarayi Vijayan targets PM Modi over remarks on corporate salaries, jobs  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Political theatrics\": Keralam LoP Pinarayi Vijayan targets PM Modi over remarks on corporate salaries, jobs https://www.indiagazette.com/"
+            ],
+            "tldr": "\"Political theatrics\": Keralam LoP Pinarayi Vijayan targets PM Modi over remarks"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1795336932517",
+          "title": "Shiv Sena’s Sanjay Raut calls to rename Nagpur as Deekshabhoomi; Congress backs demand - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ204cHY2WDY0djZ1MWZpbmViblRPakpWT2lXRERybF9fTW51RERkT3MyazR5ejkzQjlCRnZhMTlVbl9QNFdxM3V4cXF2OVhBcmhfa2FCR2w3aGJwTTJ6bEhrdEVmZU5BSUtZR2ZtZWdTZFQ2bU1HU3Q1TWhNdkVhUkhhcjUxY1FERXpQVW5nNzNUajV3ZHFuODM2ZVFHWlhMaTZZZlVXTjJaZnI5TUdOZTc2ZUo0MWJGdjV5eG9mc1J3a3B2T3BPMDgxR214blVBUzJ3bnJxbXF0VzdKWDFFT0UySFNXTWdrOWp1eU9UNkk0Z9IB8gFBVV95cUxNZ204cHY2WDY0djZ1MWZpbmViblRPakpWT2lXRERybF9fTW51RERkT3MyazR5ejkzQjlCRnZhMTlVbl9QNFdxM3V4cXF2OVhBcmhfa2FCR2w3aGJwTTJ6bEhrdEVmZU5BSUtZR2ZtZWdTZFQ2bU1HU3Q1TWhNdkVhUkhhcjUxY1FERXpQVW5nNzNUajV3ZHFuODM2ZVFHWlhMaTZZZlVXTjJaZnI5TUdOZTc2ZUo0MWJGdjV5eG9mc1J3a3B2T3BPMDgxR214blVBUzJ3bnJxbXF0VzdKWDFFT0UySFNXTWdrOWp1eU9UNkk0Zw?oc=5",
+          "time": "22h ago",
+          "body": "Shiv Sena’s Sanjay Raut calls to rename Nagpur as Deekshabhoomi; Congress backs demand  The Hindu",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Shiv Sena’s Sanjay Raut calls to rename Nagpur as Deekshabhoomi; Congress backs demand The Hindu"
+            ],
+            "tldr": "Shiv Sena’s Sanjay Raut calls to rename Nagpur as Deekshabhoomi; Congress backs "
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-politics-3-1795336932517",
+          "title": "Maharashtra Extends Tax Relief, Grants To Cow Shelters - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRF9RcUdkWUxBM2ZtNzBiYWduUnVuMFFPTDZ5QW5SVTB3TmNHRXh0QmpXc3hqVF9RNzZNYlE0YWZQVWtZSXI4VU1GS1c0OW50aHAycmtjNmlycWF5MTFyMGU1RFhEdTBtc2RzQnlMajdBVTBVQ2hRbzRUcWZhN2xoVXRialI4TEZGbDRGeWM4QlJGUnhEYXZoVkVQblM5WTRTT0HSAacBQVVfeXFMT1Z2UFkwc3RvZHgyeWZmVjVpenZOQnhWQ3RMRWl3cnFjRDBfMHBKbm1UcUxGWW9hNTdEV094MTExT2hpTzd3TFRrU1lDTHZKRV93QWFTZ1VrekNocy1QdDZTTkFuM1pnV0VjYUNrT3hETUQ4T1ZzX0xsRWJwUnI5a3hfd1NlcmZNN0ZwajVqWGhLYWdPV2l5cDBVM0p2d1c1UEFJckdGNzg?oc=5",
+          "time": "17h ago",
+          "body": "Maharashtra Extends Tax Relief, Grants To Cow Shelters  Deccan Chronicle",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Extends Tax Relief, Grants To Cow Shelters Deccan Chronicle"
+            ],
+            "tldr": "Maharashtra Extends Tax Relief, Grants To Cow Shelters Deccan Chronicle"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1795336932517",
+          "title": "Mumbai's CCTV Network To Get Rs 2,099 Crore AI Upgrade With Facial Recognition, Number Plate Detection - Swarajya",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXlqdVlMZ21XcXlndi1EOG1JTUdEaWRqSEZNX1hZUUhZUnliR0Y3NzctZHhkNWRRTFFITjhMWkFzSUR2bm9rWmU4WThXYUNtYW03a01VSlRKcEhWWi1jOHUtblJqNno1U0R4dkFJUVNoZDNQc2JHV3haQkxBTXZfeDdsbVJCTmtIRS1ZbjZUTFN0U0V2TTlVbmtkd3ZWVTJnNmQyNXdTcFFIQkhVVTNOOHZ3Z0xoWVZHdm4yejBGRFI1eTlzVGdUMUtEYWlTQTd3RlY3ZjVNODZPVlBKT0VJ0gHfAUFVX3lxTE11eWp1WUxnbVdxeWd2LUQ4bUlNR0RpZGpIRk1fWFlRSFlSeWJHRjc3Ny1keGQ1ZFFMUUhOOExaQXNJRHZub2taZThZOFdhQ21hbTdrTVVKVEpwSFZaLWM4dS1uUmo2ejVTRHh2QUlRU2hkM1BzYkdXeFpCTEFNdl94N2xtUkJOa0hFLVluNlRMU3RTRXZNOVVua2R3dlZVMmc2ZDI1d1NwUUhCSFVVM044dndnTGhZVkd2bjJ6MEZEUjV5OXNUZ1QxS0RhaVNBN3dGVjdmNU04Nk9WUEpPRUk?oc=5",
+          "time": "22h ago",
+          "body": "Mumbai's CCTV Network To Get Rs 2,099 Crore AI Upgrade With Facial Recognition, Number Plate Detection  Swarajya",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai's CCTV Network To Get Rs 2,099 Crore AI Upgrade With Facial Recognition, Number Plate Detection Swarajya"
+            ],
+            "tldr": "Mumbai's CCTV Network To Get Rs 2,099 Crore AI Upgrade With Facial Recognition, "
+          }
+        },
+        {
+          "id": "mumbai-finance-0-1795336932482",
+          "title": "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0 - TradingView",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11d25iWXd0NnExcENMSl92NFp3Y3A3YVBvSzE2WFhLN0R5X2ZwTjFSVDNxOFZQb0VxUncwamo1YkhqOG9hczF2bHNubUxwZDN3SGlRY3dzSTZ4d0p6dXduZU94LWtoQnM?oc=5",
+          "time": "2h ago",
+          "body": "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0  TradingView",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0 TradingView"
+            ],
+            "tldr": "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0 TradingVie"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1795336932482",
+          "title": "Stock markets fall in early trade after two-day rally - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMC1hYjlmUGFzeUphNkYyOEhoNENDZXU1eFBqd1JVU0hLQ3JRaWdTbkU5RjJzVjIzRzVOWWtEQmx2NWpTc1gzNHdvcGdpUWRXSk5VRTAydXVzcUhfVm8tcEh4TmRxYWpYemVONkQwaTlCckZLVjhRTm8wdi0tNkVSZFhLc2VwZw?oc=5",
+          "time": "16h ago",
+          "body": "Stock markets fall in early trade after two-day rally  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall in early trade after two-day rally DD News"
+            ],
+            "tldr": "Stock markets fall in early trade after two-day rally DD News"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1795336932482",
+          "title": "Share Market Time in India 2026: NSE & BSE Trading Hours Explained - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN09EMkdkNHNnaDJiTUNKaTVRaW00MXMyb05CazFXTTMxV05IZk5jcUhmWkFKUFBYM0M0eGJhSzhVR2R0Rjg5WjQySFRiVGdadGE4SVJoUUViLUQ3NHpnQ3BiNFBsbmhsc0l3SWtBb1lRanJrWXRGUThOaUZ6UE1tbQ?oc=5",
+          "time": "23h ago",
+          "body": "Share Market Time in India 2026: NSE & BSE Trading Hours Explained  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Share Market Time in India 2026: NSE & BSE Trading Hours Explained Kotak Neo"
+            ],
+            "tldr": "Share Market Time in India 2026: NSE & BSE Trading Hours Explained Kotak Neo"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1795336932482",
+          "title": "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters - DD News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOWk0THBWNFR4aDRRNHdFcUxQcDB0Q0ZUc0JTU1Y3eEFrNXdJdVQ4Q2RkVndLME5vTzZkT0hhbDJweW9pR1V2RTkwdkhpajM5OUZBbW5pbWpsZXoyUG1EWUpWMmlWanpmYllkRkRIWWJfVEFwbzI5Y3J0TWUtOU9LWjMyQVM1SC1ZMmtpSktVZDgwMmcyWGd6UGx2cDVQMFJTSlRPYlpHcw?oc=5",
+          "time": "14h ago",
+          "body": "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters  DD News",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters DD News"
+            ],
+            "tldr": "Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1795336932482",
+          "title": "Sensex 78900 PE 26 NOV 2026: Option Premium, OI & Price - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGozb29hNFFkdkMyYmFfU1pMbWpLSk5wMTNaS3VvWnVBS1FPYlJZVk41VUViU3JoLTJlc1dtREZXS0lXdkx6NjhJREdBOUY2aHZsRjh2M3E3djh6eTU0MXE5M09nUTI2RmhybHRzYWdSaTBmWHFGdERPSThIdm15TFgtb05XQQ?oc=5",
+          "time": "23h ago",
+          "body": "Sensex 78900 PE 26 NOV 2026: Option Premium, OI & Price  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex 78900 PE 26 NOV 2026: Option Premium, OI & Price Kotak Neo"
+            ],
+            "tldr": "Sensex 78900 PE 26 NOV 2026: Option Premium, OI & Price Kotak Neo"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1795336932482",
+          "title": "Banswara Syntex fined ₹50,740 each by BSE and NSE for compliance delay - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2VhcmdocFFOWkpWV0VOaEF6X2lyVHUtdVFudmw2eWtJam5kUFV4amdzODlZUGY0eEdvZW1Ta01mdE1URzltNUlrQjAtaGt6Umo3Y1loRXo4WGhuWTMyZ0d4RHYxaEQwaUZmMURvdEZ2LVJlX3hhRHRvZkNSNDVjVUhxS2xwRmgxVk9yQjFPa0pRb0xPOE83UWd4OXRlRU54QU1RYjJ2MkpqTHEzZWtGem04VC1GUQ?oc=5",
+          "time": "20h ago",
+          "body": "Banswara Syntex fined ₹50,740 each by BSE and NSE for compliance delay  scanx.trade",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Banswara Syntex fined ₹50,740 each by BSE and NSE for compliance delay scanx.trade"
+            ],
+            "tldr": "Banswara Syntex fined ₹50,740 each by BSE and NSE for compliance delay scanx.tra"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-technology-1-1795336933746",
+          "title": "Union Health Secretary Smt. Punya Salila Srivastava launches NCG VISHWAS at National Cancer Grid Annual Meeting 2026, stresses linking of screening records with Ayushman Bharat Health Account (ABHA) for continuity of cancer care - www.pib.gov.in",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3ZPQWlsYVE2WV8yWGpmZy15b3hhblZqLVIzZlAySThqdllpTDBkc3VXZnF6QzZidE1hZC1YZ2hQenJPbkpjMTYyVW5mUWIzLUJ5VjV6YnR5SHVNazlOU2VmN195UG14YWV3TlE5TlFnZXFrdW5ha0ZGYm1jQWpIWA?oc=5",
+          "time": "23h ago",
+          "body": "Union Health Secretary Smt. Punya Salila Srivastava launches NCG VISHWAS at National Cancer Grid Annual Meeting 2026, stresses linking of screening records with Ayushman Bharat Health Account (ABHA) for continuity of cancer care  www.pib.gov.in",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Union Health Secretary Smt.",
+              "Punya Salila Srivastava launches NCG VISHWAS at National Cancer Grid Annual Meeting 2026, stresses linking of screening records with Ayushman Bharat Health Account (ABHA) for continuity of cancer care www.pib.gov.in"
+            ],
+            "tldr": "Union Health Secretary Smt."
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1795336933746",
+          "title": "How Technology Is Transforming Maharashtra Policing - Rediff",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2hWZ251TVhlT09zTHRWdVBqQTVUSkdlb3ZqZHFoUEhjTndNd0xZaUwzVndKZDhPOUllclRiVi1xUWI0NGt1UWlZd1cyUXFMbVEyUHo0cWdHNWhtM1dGb3lxdlNaeHBMSHRrcTJvdUh1TW4tVGVWMXpYVWtBWFBiQmFFMkJBTlROUmdRaGRicEZMTFVRcUZoU0Vzems1R1VTRnpublp6M2tYclhX0gGvAUFVX3lxTE9YN2lDWENDQ0FoMkltRlBjSTRzRmEzWXd4N2xyMFNFbVZtY1RWVmQ5eXBmX1NMbWdQYVAxNFE1enNhVmRJMVdLQjFJLXZoZ3k3TXhYYVpBQmNKNF9xZmcyQzB5MUpycThLRkVvbmtHVEloM01xazFDQ1JHalhQUlNodExjLVZDUXAzbF8wVC1Hem1sczhWVjRkcVNYOWZIbmwtM0lzdHJLa0VZdEFNUzQ?oc=5",
+          "time": "23h ago",
+          "body": "How Technology Is Transforming Maharashtra Policing  Rediff",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "How Technology Is Transforming Maharashtra Policing  Rediff"
+            ],
+            "tldr": "How Technology Is Transforming Maharashtra Policing  Rediff"
+          }
+        },
+        {
+          "id": "mumbai-technology-3-1795336933746",
+          "title": "Maharashtra FDA suspends 21 food outlets, recovers ₹1.57 lakh in penalties - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXJsWGJ6TFN5UHlCWFZxNmp5ZEo4bFF4Xy1qeXQtLXR1aU9VYVNrRl9SV08tWEJTdTEzd2UxdHZSaW1aNTMxVTA5alpnV2JjSmRuSmtISDdrN3JfamF0WWp3R3V3bHIwS1YxYkJNYS0zcHlHU25LU3hTU2NaY3hqSUYwS1Y0RGotS00yaU5yZkNTRHhJaWhKS2F0RmhEbUZ3STZWRGx3VlV0X2lZNzIyaTNjSVZLRDZ4V3A4bzdmV24xajhLd044UEg3T2U2LTgwLXdjNTh1R0fSAdgBQVVfeXFMTVVybFhiekxTeVB5QlhWcTZqeWRKOGxReF8tanl0LS10dWlPVWFTa0ZfUldPLVhCU3UxM3dlMXR2UmltWjUzMVUwOWpaZ1diY0pkbkprSEg3azdyX2phdFlqd0d1d2xyMEtWMWJCTWEtM3B5R1NuS1N4U1NjWmN4aklGMEtWNERqLUtNMmlOcmZDU0R4SWloSkthdEZoRG1Gd0k2VkRsd1ZVdF9pWTcyMmkzY0lWS0Q2eFdwOG83ZlduMWo4S3dOOFBIN09lNi04MC13YzU4dUdH?oc=5",
+          "time": "14h ago",
+          "body": "Maharashtra FDA suspends 21 food outlets, recovers ₹1.57 lakh in penalties  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA suspends 21 food outlets, recovers ₹1.57 lakh in penalties Business Standard"
+            ],
+            "tldr": "Maharashtra FDA suspends 21 food outlets, recovers ₹1.57 lakh in penalties Busin"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1795336933746",
+          "title": "Bulgarian FM welcomes India's effort to find \"longer-term solution\" to hostilities in Black Sea, hails India-EU FTA - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcjI0enJ3QUhmSWRfUEI4ZWJ6UmlTblcwMkFCSXROM1JXZjRvcFBVbTVuc2pmaFJ6RGFTUExCRkQwN0hjSVNsTjFNUzlxSE5IYVVKV2hFTlRpdGZyelRVeXZjOTVINXloekZCS3lSdVk5cmItMFdYZzRmSGludWJ6bU5YNjZ0a2NkaURUZVpJWndVV0kwYzhqZXZHNTFLNVN1NjJtNkhnZVRfdVhLY2ZmNl9IT2NLTmhHd3BHNzJqSjdfRTRLN3F6M01RQ2VTWjZmVVJhVnFrTG9DWjVmdjluY2NCdm9ZTEVORnc?oc=5",
+          "time": "18h ago",
+          "body": "Bulgarian FM welcomes India's effort to find \"longer-term solution\" to hostilities in Black Sea, hails India-EU FTA  https://www.indiagazette.com/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bulgarian FM welcomes India's effort to find \"longer-term solution\" to hostilities in Black Sea, hails India-EU FTA https://www.indiagazette.com/"
+            ],
+            "tldr": "Bulgarian FM welcomes India's effort to find \"longer-term solution\" to hostiliti"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1795336933746",
+          "title": "Maharashtra may reduce fines on private professional colleges for admission-related violations - ET Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWlkyQ2x3Z1RyQzE2TnlkbWJVNnR6U3FYaF9KaDVzS05EeVdiOHB0WklrV2Nwa1AxYjJOWFFVMm1XVVRwYWp5OW5mR09xdEpmdF9heE55bVdZeFh4MkphSkhRTFowc0NEUkNHM3Mydm9ENmtaYWlNREg2Z0Itak04MWNITVpIRFVtcFFsd0JyUTE4VE1DRTNFT3J6aXo5NjdPb3hKSDRJVVllTDZfZGVYZGNQT21vWi1leU5tUV9temVCRS1yalhUS0phTmpmN24ydEYyb013NkFqdEh2eWlqQktQV1hkUlFOd0RDNkZYNUxQUjlId3BVVG1oNUZ5R0N3WUU1eV930gGLAkFVX3lxTFBaNzRudmJsRzUwTE51VUhsM1p1cjA3YnpIMmlIbDJySEdQQjA4UlNLZjVnY2Q2NXFCTHR1a3dBcXM3c2JZelYxeUczd3NweUFoWW16WGRfaTF0N0JESGVUeVRFV1RNUUhZQWRzMVZGdkhzdE5aNlU1aWdUN2VZVnZfRjRad09sWDRabHM1NEJwUVcyS3d4R0NXMU1Md3hKWnRSWXk4aVI3eXdZVW40RVNJLUI4WWhENFp2dU9GTG03QV9oaHE5Um1KMFE4cTR0c3E1U3RSM1QzUEJSS2xNWkYtWDRsLWI2VWRhbTJHa0l3cHdfSVNqSU5lSGZMQWVNaTdrRk1LT29hQldkVQ?oc=5",
+          "time": "1h ago",
+          "body": "Maharashtra may reduce fines on private professional colleges for admission-related violations  ET Education",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra may reduce fines on private professional colleges for admission-related violations ET Education"
+            ],
+            "tldr": "Maharashtra may reduce fines on private professional colleges for admission-rela"
+          }
+        },
+        {
+          "id": "mumbai-technology-6-1795336933746",
+          "title": "BHASHINI's voice prescription tool moves from pilot to wider rollout in public healthcare - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVg5SFF2TDQwRHp0SGtnRjVKaWVDbVpFT251cTc0R1o4RWxjU01rcWl4bTQ1MWphSWJ2ZDQ2UXFvX18xUk8xR3ZRYnRHX2xraXNLVVdPYTFVSzZvaHJHRWNERlVHcHI1ZnUyelMzRmpIRzJUZlc5V2tnQ0c1bGNYNEFqeDE5RWk5LWFXWkwtY1FiblhmZS1hLS14UDlwbWZ6OUt4NHF0bFdzei1La2J4MjlDY2s2ek91c0I3MkxSTFk1UkRfTjJDWEswVQ?oc=5",
+          "time": "23h ago",
+          "body": "BHASHINI's voice prescription tool moves from pilot to wider rollout in public healthcare  https://www.indiagazette.com/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "BHASHINI's voice prescription tool moves from pilot to wider rollout in public healthcare https://www.indiagazette.com/"
+            ],
+            "tldr": "BHASHINI's voice prescription tool moves from pilot to wider rollout in public h"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1795336933747",
+          "title": "Mumbai Police Unveil Digital Services and AI Investigation Plans - Urban Acres",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFV6cGJkaENRLWdSd2k4bVE4UklaN1BMNldDYXc5Vll3QTVOd0FTWEFNbzItdklBY3ZxSGFaOG9IbEloeTlGczhjNjJyT1o1N3hudHhlRHU5Wm03WFRTdDZWS1IyTHltajVtOGpXZ1Y1VmJ3TDNaN0tzckx6bFpEeU5CVi1jNjJxN0JVNUVGdkRaLURsVWRLbGcyZUM0LW9WcHR6RDRkN3hadw?oc=5",
+          "time": "10h ago",
+          "body": "Mumbai Police Unveil Digital Services and AI Investigation Plans  Urban Acres",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Police Unveil Digital Services and AI Investigation Plans Urban Acres"
+            ],
+            "tldr": "Mumbai Police Unveil Digital Services and AI Investigation Plans Urban Acres"
+          }
+        },
+        {
+          "id": "mumbai-technology-10-1795336933747",
+          "title": "Mumbai Police Launches Indias First Anti-Narcotics Investigation And Forensic Van, Other Tech Projects | - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdnpBXzJ0ejJrblBsM29qMS1Fa3dqSzdLTUZNekQ3RVhDZXJ1dktsbVdpYXd6N2p4WW5OTHE4ZE9TQ2xFQWZGZkhsVEVrM3I0Wkg1QW5xbGdIN0hoOTRacFVTWm1ScUV2QjhtcEh5VnJGZmgtNk5mOGxveGdnWF9BbF9MODAtdi1fX1dxVVR0dHlGbWF6ZWNoLXB6SWxXa1I2clVKX0hDNGRYUDRaZi04cERwa1dSWlhWSV9PY3pUNjl1N1NrYlZ4ZzR4dWhiZ0EyQlpnTTc2WnNGaHZTdE9N0gHkAUFVX3lxTE5rcWk4bm53aXBrd1RWSUZ2YkxQSkZRaW53MTdfS0FHeGVwNWNYZDctTVZMc1NlN0U3UEVVcmdYWkhxZEFPdDVIWFAyMnVtS2VFYWdJWGNOWUt6WGhrWGpmRzZpd0ctM05SZGx5NVliR0VWRk9GaDZVODh1ZXJ6Qkg0Zm5xUXIyRS1LS1IwcXB5ZWQxdEJ1UG8wRUEwN0JQTzlUNVloTGl1NVFlU3JBdUYyOGg5SHEtN0VsaWljZWNZNlNrdG9keU9xWmZJM0pRUDV3Z3EtX1JkQXJBTjRtNDRPU3NMMg?oc=5",
+          "time": "20h ago",
+          "body": "Mumbai Police Launches Indias First Anti-Narcotics Investigation And Forensic Van, Other Tech Projects |  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai Police Launches Indias First Anti-Narcotics Investigation And Forensic Van, Other Tech Projects | Free Press Journal"
+            ],
+            "tldr": "Mumbai Police Launches Indias First Anti-Narcotics Investigation And Forensic Va"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-4-1795336933775",
+          "title": "Suryakumar Yadav Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pdW44ZnF0QnBPVGxXZWNQNnlkaTJsRWZQbXp0R1M0V211QlltMHBxczRnS0FLVS10NFJTYUN2VU9zT3VDUkxLeGV3amlvV1AzREhyeTFnT1N6aGc4cGFBd2VER05DN0Yyb2FUR0tDU0hmaTJWa3JzLQ?oc=5",
+          "time": "2h ago",
+          "body": "Suryakumar Yadav Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Suryakumar Yadav Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Suryakumar Yadav Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1795336933775",
+          "title": "MI offer came out of the blue, says Uthappa - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEhqc1NhcXdRSWUyajl6VUtTbGFGQjRXbXZOM0VmZDg5RW5lbXIwVnhJQVRValJXODUxZHlNTlhZb25EbjU4WFo4UDJnazVfN01YZFhqcnJ3YV9OM2w2V3BwZ1N3VHpyaVZfN1UyLV8tOHpXeXBldnlsdlJueVlQb1MzeU1OZGJ4V00wQWx0VmQ4al9pblJjYng1dm1JcWdE?oc=5",
+          "time": "6h ago",
+          "body": "MI offer came out of the blue, says Uthappa  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI offer came out of the blue, says Uthappa  Cricbuzz"
+            ],
+            "tldr": "MI offer came out of the blue, says Uthappa  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1795336933775",
+          "title": "Auction Tracker IPL 2025: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GU2R5WWNpVXcyUlRRaTZvOHRvaUpPUjQ4ZUI3eTRQdmxKUE0tMFJReWJlTUxTZUxNUlkxSlhZTkJJOG5SaVE0c1dxTXZNMUZIVGtTZmRRaUFnTmIwUDlzWVhsaEVSV3k5bFBJc21CYw?oc=5",
+          "time": "9h ago",
+          "body": "Auction Tracker IPL 2025: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2025: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2025: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1795336933775",
+          "title": "Auction Tracker IPL 2026: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkc1dpeUZ0ODB1elozXzlUVGhncUFlUmFramhvOXVWV2FRSVlrOVBWM0FEUVA2bmdMUFNGbC11MU9OS2RxNklqYXRhOTNRc19DdnVLdGxIbzZTTGFkbHBxbTBNSVQ2eGpuNmY2RVJyWQ?oc=5",
+          "time": "9h ago",
+          "body": "Auction Tracker IPL 2026: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1795336933775",
+          "title": "Quinton de Kock Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NUDVZUlFKaTZWVmRMbHVwYjNuRjREVWlkZXdlT2FBM2FlZTFYNE84X2ZtVnpVdHM1Vi1MYks5MFhZQlZjLXRrdU9pMXB4Q0ZWazgxRWpxZEJhY1pLWk5TSFl3V0RrLV9nd2M5VkRfdTY0UjdPQVpVSA?oc=5",
+          "time": "15h ago",
+          "body": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1795336933775",
+          "title": "Mayank Rawat Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbWM3NDdMd0RlUGZrX2R3RVdwOURwRDNTdHpuQ2VfeGlBWnlsT3hKa0ZsSDhPRWtjV3JBbnF6WTl2UEkwY3lPMHg3aWh5czZpdVVUemk3a3BQZVkwaUJqWWRPNmpmQXotd1FvZTlXWUtuLWhCekUyaktn?oc=5",
+          "time": "5h ago",
+          "body": "Mayank Rawat Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mayank Rawat Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Mayank Rawat Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1795336933775",
+          "title": "CSK likely auction targets: Who will they buy in IPL 2027 mini-auction? - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcktsa0J4cjJFZW1QVkVpMXpuOUN2TTFOVnYyUl9zb3FGOWh6QWh4S2xqZDJJVUNNNEhfaFB0TEpMUk50NUJST29POVF4andFOHB5RlRRS2Z4ck1sbXgxa0c0d2p5WEt2MERzbDRZbURvZDd2dlZFaTk4LXFFVnhvLVVMUURIQQ?oc=5",
+          "time": "1h ago",
+          "body": "CSK likely auction targets: Who will they buy in IPL 2027 mini-auction?  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "CSK likely auction targets: Who will they buy in IPL 2027 mini-auction?"
+            ],
+            "tldr": "CSK likely auction targets: Who will they buy in IPL 2027 mini-auction?"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1795336936775",
+          "title": "IND A vs PAK A: Sooryavanshi, Abhishek in focus as India A eye dominant show",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "2h ago",
+          "body": "IND A vs PAK A: Sooryavanshi, Abhishek in focus as India A eye dominant show. [object Object]",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IND A vs PAK A: Sooryavanshi, Abhishek in focus as India A eye dominant show. [object Object]"
+            ],
+            "tldr": "IND A vs PAK A: Sooryavanshi, Abhishek in focus as India A eye dominant show. [o"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-city-0-1795336934999",
+          "title": "Mumbai-Pune Old Highway Set for Six-Laning; Toll Collection May Continue Until 2050 - PUNE PULSE",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmFNRkZnVlBxdmc4dHowYWRKNGh2dFVESXdueEQ5RERudVRhWU83aTdTUWFsSFpoS3dzRTB4RExjaVFqdkpZal9oTUR1ZjZzWUNlMXgzTWtlUkhhQ0VDdmZpUGJRNU1vY1ozRzhJQzlQdldyR3JfcU1qYkJhVmxJU2ItWU1hbExVYzFDZVlYMllWVXhKdmJRYjZsb0VjaVpjSFBGdHAtWEhFaHc?oc=5",
+          "time": "17h ago",
+          "body": "Mumbai-Pune Old Highway Set for Six-Laning; Toll Collection May Continue Until 2050  PUNE PULSE",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai-Pune Old Highway Set for Six-Laning; Toll Collection May Continue Until 2050 PUNE PULSE"
+            ],
+            "tldr": "Mumbai-Pune Old Highway Set for Six-Laning; Toll Collection May Continue Until 2"
+          }
+        },
+        {
+          "id": "mumbai-general-0-1795336935377",
+          "title": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "19h ago",
+          "body": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]"
+            ],
+            "tldr": "Indian-origin hotelier in New York forced staff to work 112 hours a week without"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1795336935377",
+          "title": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]"
+            ],
+            "tldr": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to "
+          }
+        },
+        {
+          "id": "mumbai-general-2-1795336935377",
+          "title": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "1d ago",
+          "body": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]"
+            ],
+            "tldr": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, w"
+          }
+        },
+        {
+          "id": "mumbai-general-4-1795336935377",
+          "title": "Indian man found dead inside burning car in Canada, had 'limited known' contacts",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29. Firefighters located human remains while extinguishing the fire in Langley, British Columbia. The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts. Police believe Sharma was specifically targeted despite his limited criminal background and acquaintances. Investigators request public assistance with information and any related CCTV or dashcam footage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29.",
+              "The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts.",
+              "Investigators request public assistance with information and any related CCTV or dashcam footage."
+            ],
+            "tldr": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning…"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1795336935377",
+          "title": "'Responsibility to banish hatred': Mamdani condemns anti-Indian racism at Diwali event",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration. He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs. Thirteen US lawmakers have requested a federal investigation into a disruption of a Diwali event in Seattle. They referred to troubling patterns of anti-South Asian hate across the country.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration.",
+              "He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs.",
+              "They referred to troubling patterns of anti-South Asian hate across the country."
+            ],
+            "tldr": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community…"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1795336935377",
+          "title": "Los Angeles City Council adopts Diwali resolution, honours Indian Consul General",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions. The event featured cultural performances and was attended by various representatives from the Indian-American community. A resolution was passed to extend Diwali greetings to residents across Los Angeles. Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions.",
+              "The event featured cultural performances and was attended by various representatives from the Indian-American community.",
+              "Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles."
+            ],
+            "tldr": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ…"
+          }
+        },
+        {
+          "id": "mumbai-general-8-1795336935377",
+          "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat.",
+              "He was overstaying his student visa. [object Object]"
+            ],
+            "tldr": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young gir"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1795336936597",
+          "title": "JSW Motors To Launch J5 And V23 Electric SUVs Next Year - Gaadiwaadi.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcU5YNXl0OVZvNzd2b0ZGemU1aXVZZkxJRmRuUUlDMFZndk1iV19hRWNOOVJzOFpIQ3VXa0Z5UG9wYllKLUtWZmozWGJWRXZLTElqa2xLSUdYdUxNcVBHaVE2c210cjk0QmdMRmZTRmRhMjNoSXFjUlZoUXpzcE03OFdzSHNfQdIBhgFBVV95cUxNcU5YNXl0OVZvNzd2b0ZGemU1aXVZZkxJRmRuUUlDMFZndk1iV19hRWNOOVJzOFpIQ3VXa0Z5UG9wYllKLUtWZmozWGJWRXZLTElqa2xLSUdYdUxNcVBHaVE2c210cjk0QmdMRmZTRmRhMjNoSXFjUlZoUXpzcE03OFdzSHNfQQ?oc=5",
+          "time": "4h ago",
+          "body": "JSW Motors To Launch J5 And V23 Electric SUVs Next Year  Gaadiwaadi.com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors To Launch J5 And V23 Electric SUVs Next Year Gaadiwaadi.com"
+            ],
+            "tldr": "JSW Motors To Launch J5 And V23 Electric SUVs Next Year Gaadiwaadi.com"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1795336936597",
+          "title": "Maharashtra records lowest Rabi sowing in recent history at just 17% amid rainfall deficit - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNlZ3LWJlazR3T2xPUGZCbDhZUG5MU0xRQ25hTW41MGZPT0JmbUVYeEVXU2x1N1VZYUhhVDVDaTJIYjVxSFVEX2RCNGlGNmhnR1JPOG5IckRkTXlxbnZzOVJ6THA0LXNyRWhtck1hcEJOaHFNb1pzR01pRGNpT1BhSXBVWUlsWGFFVDR1UlNGcE9ZWDNlQVRLbEFCR0tYMERrWWVZM05zSXBJNXRyZERnc1o1SjdvZ2pWMTIxWHhxN05RR0tyT3BYWERXUlktdnpsY01RWnRFMGFFUElNWmdBcUtFMVBLWmNS0gH2AUFVX3lxTE1YNEluWGR3MU1PVE0xYzlaYjd0YnhFMWRIdjJJQXRGRlJ1TTF2bFA2NGlGb3JiaTludktrMFpLR2pnUnNHYUkzRzJZNWlQS0Vpa0YxTlhMNEVHdHBCTU5kaFR0MkVJNzh5YXFET19fX1JONGdJd3JwLU5QZ1BGZ2xoaXF6dHVEM09sZGZZYV9mb29kYjZYYzc3ZmUzVWFvc0c4Q2ItWFd3TEVLbUUxal9ZTWViSmpXVERVeDRaYkVrS2pLUUhhLUN5OWl5Nl8yaThBSi1ZSHNFd2JfZlNEOUExX1hNUGxhd2Nwc25EUHlIV2puWVFTQQ?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra records lowest Rabi sowing in recent history at just 17% amid rainfall deficit  The New Indian Express",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra records lowest Rabi sowing in recent history at just 17% amid rainfall deficit The New Indian Express"
+            ],
+            "tldr": "Maharashtra records lowest Rabi sowing in recent history at just 17% amid rainfa"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1795336936597",
+          "title": "Maharashtra FDA Tightens Rules for Pharmacies, Gyms Selling Supplements, Seizes Rs 1.38 Crore Stock - Medical Dialogues",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSFlmVzVlVjhZWURtbl9PSm9Db3JKS1h4VjNPVGpGbkRJYWdiUU9QWFMtV2N5ZU00ajIzN2dfamZoOGU1NFRsT3hXMjNvT3prYXRHaE1tekY2X0xJRmFxUEhSMVJNWEg4Y1A2VGg0bkM0VHNaSXhnRzdpdV92QncxUU9lck1lNUdDUEw5RkZzNXpFQmdkdHdPX1dHZ3FERl95d2h3Q041eFFYTk9uUGpPYlc2V0dKbUZIZlpkMjhfMjYxRlVNUzItU2xCcFJoLXdycW5EdUtoNFlRQ21SNlZBVGdXVmJBbk3SAewBQVVfeXFMTWhCM2FwWVNwTkcxZXBUM0dCUFdENVgycUFiMC1RZ0k0dFUwQzlQd0NxZU9lR1c4OGhrTlVWNUJUR3N3UTJkLS1BMHNhWnZCTzhzTEVLcy1iSnVOZEFRSzNmdlFUU245b1k0QjY5Y0NaMzhVS1FBellQNng4UHNrdXhxaWFzWEY5OXhHQzVncm5qN0FRcVlNMXhEZEVFbzlKNVVoeHZLQTVVX0FaNEgwYzJKaWtLZklfQzg3Y3Y5aGh5TUVOcHZkRjF0WWdfd1pUZEE4M25ad3QxazlsX1Mwa2VlS3VJdEkwekVNQUQ?oc=5",
+          "time": "15h ago",
+          "body": "Maharashtra FDA Tightens Rules for Pharmacies, Gyms Selling Supplements, Seizes Rs 1.38 Crore Stock  Medical Dialogues",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra FDA Tightens Rules for Pharmacies, Gyms Selling Supplements, Seizes Rs 1.38 Crore Stock Medical Dialogues"
+            ],
+            "tldr": "Maharashtra FDA Tightens Rules for Pharmacies, Gyms Selling Supplements, Seizes "
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1795336936597",
+          "title": "Portrait of a Drought: The Silent Struggle of Maharashtra's Farmers Amid Crisis - Open Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vYjMtNHpYa2RMVXA1VnotQm5zTmNGdmViWVFvNXdWMXJrVlhPc1V0THozMUJoQmdXN1Z1S3VDSlVUYWFGSXJrYktwSjZZS08ySXk0U0NVb3ZlZGJ6RDc0OUhRUklUQQ?oc=5",
+          "time": "23h ago",
+          "body": "Portrait of a Drought: The Silent Struggle of Maharashtra's Farmers Amid Crisis  Open Magazine",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Portrait of a Drought: The Silent Struggle of Maharashtra's Farmers Amid Crisis Open Magazine"
+            ],
+            "tldr": "Portrait of a Drought: The Silent Struggle of Maharashtra's Farmers Amid Crisis "
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1795336936597",
+          "title": "Maharashtra govt planning cost-efficient elliptical weirs across state for better water conservation - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYzZMU3lDN0tKRmU2VUJNWXIyOU41WTV2T1JlbHZ5WG5Jd25DTDRqOFNLUWJpcWtlalFnMmVrVU0tYmN6TDg4SGJXbjVldmM0blVqMC1pbTlFX1c0OVNzS3RjYUlYdkJ2ODVJQWs0bXpyV2xWbVBucDRBOGV6WE9HWVdySG9aWHNFeGtuUmtsb1JtZDBGOW42bFEzbENZSkl1VTk1T2o1Qk5CRDV3Y1g4TVhLdDZIWWhySkFyZVpSUWVCMmxqSTB5NUNLbDVDai1vcURadnpRanBrVGRIM1U2RGN2dVEzdVE5SjJ6SHhpNGdKbDAtSmVkbllHeEx6RHhuQTFBNkQxU3FUZFNvVWJDaW5zQzIwNUpMX0E3b2VDajBkM1BWOTZ5U05NQkJ0NW5fTmhXbkVzNkRJUWswX3BmZ0ZEWmY1VTJPelVmX2RlckNnbUFR?oc=5",
+          "time": "12h ago",
+          "body": "Maharashtra govt planning cost-efficient elliptical weirs across state for better water conservation  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt planning cost-efficient elliptical weirs across state for better water conservation The Times of India"
+            ],
+            "tldr": "Maharashtra govt planning cost-efficient elliptical weirs across state for bette"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1795336936597",
+          "title": "SVANidhi Samman Awards 2026: Winners List & Key Highlights - Utkarsh Classes",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3JqRjlFQlNqd1NMbzBFYTB4cUJOdWRaemY1MUdRQTVQTzFSTEU2Z2t5cEhnSDRwTWxmZUdxRHlVMG9udE5YZFlGZUQyM3hoSVpMcFcwUW9lbEhSQVgydF9nT0JyZ2FRU2NrTXByeVlIX0VCUENabGpWVEQzX0g5MkRHVTVXXzdnWmJXa1VRV2xRdFAwZWJRa2J5OVlhVzB5LUhPbXVSTV9MZjlja3RHeFFabXdCcWFEaDVuT2xwZw?oc=5",
+          "time": "23h ago",
+          "body": "SVANidhi Samman Awards 2026: Winners List & Key Highlights  Utkarsh Classes",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "SVANidhi Samman Awards 2026: Winners List & Key Highlights Utkarsh Classes"
+            ],
+            "tldr": "SVANidhi Samman Awards 2026: Winners List & Key Highlights Utkarsh Classes"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1795336936597",
+          "title": "FDC Ltd gets Bombay HC stay on MPCB closure order for Waluj unit - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXFJTDA2N2lxNFhIWjA0cGZUUzdRVzctYVpMd2hPQW9kQ3BMQWlqdVZSa0RXYnNzc0xTNk5Eamc5cE9udmJnSGlzRXA0RHNJNGluTXh5cWVoWTRxcGNDb1EzNnhnekFEWlRCNEM1SzJkT0ZldlB0c2tRYWNkejA0OElLOXk5UGdidHNKZjBpNVlCMFVqT0JIc3k5dUR2X29pOFVtMTFha2NnblkwZi1SbEZSbzY?oc=5",
+          "time": "22h ago",
+          "body": "FDC Ltd gets Bombay HC stay on MPCB closure order for Waluj unit  scanx.trade",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "FDC Ltd gets Bombay HC stay on MPCB closure order for Waluj unit scanx.trade"
+            ],
+            "tldr": "FDC Ltd gets Bombay HC stay on MPCB closure order for Waluj unit scanx.trade"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1795336936597",
+          "title": "Chhatrapati Sambhajinagar Water Pipeline | छत्रपती संभाजीनगरमध्ये एकाच दिवशी दोनदा पाईपलाईन फुटली - News18 Marathi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzhZSnJ0cEI3MWJHMV9ma01qY3ROVzJUOVowa19lLVdVU2NuZGtfU1VsenZvNnZNUkRrMmJNbUNVLVFJMm5mNGc1dXFUcXZpcXJ6Z1JSYmM3TTFqSWdhWGViX29Qcmh0cUF4UHNYQ0tldkhPUlZQUzN0Xzg4MURvMDRYdnF3UmJ2amkzT0lmWWRXQWQxQnlPaVF2QlI0bUk?oc=5",
+          "time": "Just now",
+          "body": "Chhatrapati Sambhajinagar Water Pipeline | छत्रपती संभाजीनगरमध्ये एकाच दिवशी दोनदा पाईपलाईन फुटली  News18 Marathi",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Chhatrapati Sambhajinagar Water Pipeline | छत्रपती संभाजीनगरमध्ये एकाच दिवशी दोनदा पाईपलाईन फुटली News18 Marathi"
+            ],
+            "tldr": "Chhatrapati Sambhajinagar Water Pipeline | छत्रपती संभाजीनगरमध्ये एकाच दिवशी दोन"
+          }
+        }
+      ]
+    }
+  }
+}
