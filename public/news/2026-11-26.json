@@ -1,0 +1,797 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T09:58:46.984Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-0-1795687121624",
+          "title": "Congress gave clean chit to Pakistan after 26/11 due to vote bank politics, alleges BJP - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUU9pOS1NbDBkc2RzYTVvRFVKVjZoLS1qV2lVWGwyemo4azZDRzJ4Q21weVJwRXNvQUcwVkJYVzdFZy1Ma21vbUxydFl5bTdncDZNM3luVkxmS3dTeGpWTFBWVVZST0dMdExJRmM5Z3lPMHFWQ0RCaWtSV05ZVU9jV1N5TlprQ0s1OXBtQnYtQUNuMGVrbE8tY1hiZkFGS1dsWTVnMXVrOFVITXlVUm9mZTNDeGt6WnlRUy1VN0o3clEzZnNfTXNaaUZYdldOVHdpeU0wM1hiNA?oc=5",
+          "time": "2h ago",
+          "body": "Congress gave clean chit to Pakistan after 26/11 due to vote bank politics, alleges BJP  Deccan Herald",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Congress gave clean chit to Pakistan after 26/11 due to vote bank politics, alleges BJP Deccan Herald"
+            ],
+            "tldr": "Congress gave clean chit to Pakistan after 26/11 due to vote bank politics, alle"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1795687121624",
+          "title": "Fadnavis urges Maharashtra citizens to share their views on Uniform Civil Code by Dec 15 - The New Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZWpZZGprLXlQd2JCb3JJdk5pa3FRNjNlUV9GRk9fYzVIREgzbVJETTVCQWxCWTNKZEtCN1hFSWFiM25BdmhZWFBmTUJFZ002REVjWUZfMVBsY3cycEZvUS1XX2piY0ppd2NfbXBLUVN5WGpwSzZrOW44WF9pTWpXR2UzdEdUemhMWnFVRkNhOWdRR25PTjJkUXMzVWIxbFZwLXNtdU92c05INFVqSmNyelpLalpFU1M4clUzcW5RVmw3QlUwV1JHYmpiQ1h2Q0I3MkJSM0xQSHNnMzNyOEJ4X3ZGWVU1cFdOb3fSAfcBQVVfeXFMTWJtb2FrQjNQR0UyX3ZkdEp2bllHbDMzeTl1LURJNmRmX2QxbnNWaFVRYXA3UXFMdTRMYUd3c08ySzNRVWNPbHhoSXJfTjJtbmxYQXF0aXhRUEdwclFKU1VMb0h1R3FUMjhwZVdyN2FoQ0Q3QmhkcVZfeTFERUNmLVRoejVmTHNwV01YNHFBZ3FvOTJTSGktdVdCSXRqR3JPYVJTZW02aURhVi0yek5QRi1MNjhvUnpmV0ZjSzROTkU1VVRDQ2dhR05XRHhwUnI5TlBHRTRyYzFjOUZfb1ZfUHhOMkFKMF9YSmxMVWFjYjc2WlJSRU43cw?oc=5",
+          "time": "17h ago",
+          "body": "Fadnavis urges Maharashtra citizens to share their views on Uniform Civil Code by Dec 15  The New Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Fadnavis urges Maharashtra citizens to share their views on Uniform Civil Code by Dec 15 The New Indian Express"
+            ],
+            "tldr": "Fadnavis urges Maharashtra citizens to share their views on Uniform Civil Code b"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1795687121624",
+          "title": "Maharashtra govt forms panel to pick independent directors for MSEDCL listing - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcXdTTnZmMG5IaE0xNklmbU40WjM1N0pGdUhIQy1nanM1TUd0N3pvVmhiMGVZR3psbXFFdjBWS2ZRR0IzM2ktRmZmUDJaQ2w0M1hBcHhkX2lEa3dyZWRYNnZxcUtNWFljNm9lakJaSVB0MnhISEdjU3laR2tDV1hjTjNjcFBocVRoeUFCaTNxMzlsTWlNTW45NlU0clU0Q1FkdXFJWE8xS3NjeXVuME1NakdhQVl6eHFYbzk4bGR5cjRXYXg5YlRuLXM2Q0JFeFd1YUVyd2pNVjd5TVlwTTFCWVNFUTVzWlF2WXI40gHrAUFVX3lxTE5xd1NOdmYwbkhoTTE2SWZtTjRaMzU3SkZ1SEhDLWdqczVNR3Q3em9WaGIwZVlHemxtcUV2MFZLZlFHQjMzaS1GZmZQMlpDbDQzWEFweGRfaURrd3JlZFg2dnFxS01YWWM2b2VqQlpJUHQyeEhIR2NTeVpHa0NXWGNOM2NwUGhxVGh5QUJpM3EzOWxNaU1Nbjk2VTRyVTRDUWR1cUlYTzFLc2N5dW4wTU1qR2FBWXp4cVhvOThsZHlyNFdheDliVG4tczZDQkV4V3VhRXJ3ak1WN3lNWXBNMUJZU0VRNXNaUXZZcjg?oc=5",
+          "time": "10h ago",
+          "body": "Maharashtra govt forms panel to pick independent directors for MSEDCL listing  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt forms panel to pick independent directors for MSEDCL listing The Times of India"
+            ],
+            "tldr": "Maharashtra govt forms panel to pick independent directors for MSEDCL listing Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-3-1795687121624",
+          "title": "\"Most challenging job is of local representative\": Fadnavis hails AIILSG on \"100 glorious years\" at 3rd World Mayors' Forum - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNmt6WnQxUl9ZclVsLU1yZDk3S3FDekZzRVY4OGlRYzFEbzdCYXk5UGlEYklXS3haeXlRa0NsSXI1d0FJa1lvSTExY1RSWWtPbzlRVHF1N3EtaHVpelVRNzZwV1Y1MkZmdS1GWmJkX2tremJFSUZuckdEQjJVRGtjNW9fQ2xHczRYWktIVEtQQ2Z6bWR5SjZhNkk0RGFDblZXeGR5RFBhVVBsYUtTUWdfekRrQnV5QmJ4T3JSM2RsbFFZY01FS0JKY0RZQklYVjJYandfclBHbzJsZGsyYlBhR1hFcGptOUlzZDlWZHNrR1BuR3M?oc=5",
+          "time": "8h ago",
+          "body": "\"Most challenging job is of local representative\": Fadnavis hails AIILSG on \"100 glorious years\" at 3rd World Mayors' Forum  https://www.indiagazette.com/",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "\"Most challenging job is of local representative\": Fadnavis hails AIILSG on \"100 glorious years\" at 3rd World Mayors' Forum https://www.indiagazette.com/"
+            ],
+            "tldr": "\"Most challenging job is of local representative\": Fadnavis hails AIILSG on \"100"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1795687121625",
+          "title": "No more office visits for caste validity, Maharashtra pulls plug on offline applications - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV19XOEpkYzFHc05oQkNPdWowX3pwbEJGNzJDOHBTM01FSkp5SjcyQ29CNmZNcnR4ZExMajRTeUx3Si1sMGYxWTN2WWt4cXViT3pJR096aDZobVM0d0Zaa0oyd1lURm5Ga096NTJPQmdpT2lVWV9nMEJmNUk5Y0U3WEJWWTdPYjV6cnBLS3NkMDZaVXZ6dk9rbHliQmtkU1ZlWEJJdWt1bHJZZ3dwV2FzWmp4NVBYRmc4YVk1X1kxNTZpcmNTVEFQR1g1Y21zT3pvci1Ld1FoUDBBM1RsV2fSAeQBQVVfeXFMUEY0UVhjWnljM0otNTcwLUJZWTBad2Rxd1UtUnFwekwwUHFRUnVsT2Y2VERFbEVIQnZ5bGU4ZHJNbGs1Y0lTeDNGblBwVmRhQ1BkWGdXakFPNkQ1RVQxTnVfLWpkbUJiQUJ1NUFhYzZ5ekNYTWxTMlRBMkpncHRKUmNRNmJteEhHbHkyUEk5MDlBYVVHMHE3Mi1JS0JyR0R2V3Z1ZE41QWQxY0xpbEtYc0tUZlZ5S29EMm14R3hTRWhmZjdDbm85Y2JEb0ZsNUpQSnJjNTBEY2Z3a19qbXMtMjgxRmx6?oc=5",
+          "time": "6h ago",
+          "body": "No more office visits for caste validity, Maharashtra pulls plug on offline applications  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No more office visits for caste validity, Maharashtra pulls plug on offline applications The Indian Express"
+            ],
+            "tldr": "No more office visits for caste validity, Maharashtra pulls plug on offline appl"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1795687121625",
+          "title": "Govt eyes diverting used water of Koyna project to Mumbai; no impact on Satara, Sangli: Minister - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFd6MWE0MTRLUGswZkFfcjRVYVlzTUUyaTF1RHZqOHFOcTdRRklmUVI2YzZBTGFvQzNfQmJZM01UM2ZjRjF4YlF1dXdCSHFYUDdlQzh1YkVRUTRFbkdmbzdwSVZ4WUV1Rll2ejh6Mlk4QTdsa3lUMXY5elRlWXpKTEQ0bERYdEdpT09yd25SaWpPQVV1Z3hfcjIxQUJwSVJJOGhYeFJ5TjVOTExkVkFXRFpvS1EwaFJYVkVKSnNKRzUzM2dlX1I00gHMAUFVX3lxTE1Edm1pcW9Nd3I5MGdpcVhTRHpwVzR4YzRFZ1V0Q0ZXeFlmYS0tcWdlMFE3SnFGaTFjMkZJd0dlVTBvMUZJUTdNSFZfTkR0NlVXRDA0Z3pHQjdRRTZHdWtWUFZnVDRxamJrNmJsLU9HdnhzY2pEOE5sX0xadUxzSS1ubFg3TUFBQjZKOGhRZUVVWUtSNHJQVVdOWjhuNXhBN1JIdzN3UTg0U3BzNlVxX1dZb0wybW4tOXRrN1RHcDVkb2JieGk1ZlFOd25Zcw?oc=5",
+          "time": "23h ago",
+          "body": "Govt eyes diverting used water of Koyna project to Mumbai; no impact on Satara, Sangli: Minister  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Govt eyes diverting used water of Koyna project to Mumbai; no impact on Satara, Sangli: Minister ThePrint"
+            ],
+            "tldr": "Govt eyes diverting used water of Koyna project to Mumbai; no impact on Satara, "
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1795687121625",
+          "title": "Maharashtra Cabinet announces drought relief measures, 5 kg foodgrains for farmers on demand: Maharashtra Minister Chandrashekhar Bawankule - ANI News",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbDFQUm1fUmVoS3BPb3UteXJmcFhSU25SYjBOT1ZPTFBTQVlfTDc2cncyU0ZYS0dVQWFOOFNJLUoxdzBlQjA3Y25pRzYtbkxiWm03S0JlUWdJNER0UllZVExQRTRmZEYtZHAtcktUTHZ3U2VDQXFvak1wRUFXWFpjVjBxZGNjejdLcVZmT1VKN2hXZVhHRUZCODItV2llbjdzQ3A3WjZDbFdGRVY0WDVvdGRXdXZraFo4ZUlkYmlmOXZEZVdwTHNpVXRuNmlRNDMyTDZFaE5GSHZfTHVfMHYyWHp2UDhVRl9kTC1DWEprbmVNN2VDakMySFY5Vk4xakpWMWNjZ0kxSHBTa2JyNEdjMW1aVTBEUXVkQUlGQVZSVVlGbXc?oc=5",
+          "time": "20h ago",
+          "body": "Maharashtra Cabinet announces drought relief measures, 5 kg foodgrains for farmers on demand: Maharashtra Minister Chandrashekhar Bawankule  ANI News",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra Cabinet announces drought relief measures, 5 kg foodgrains for farmers on demand: Maharashtra Minister Chandrashekhar Bawankule ANI News"
+            ],
+            "tldr": "Maharashtra Cabinet announces drought relief measures, 5 kg foodgrains for farme"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1795687121625",
+          "title": "Maharashtra govt proposes MPID tribunals to deal with attached properties in economic offences - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORjYtN2wxUlNwZGp4NmhmUlVkODV3SlJ0MWtDOHlxSWlTQ19TZ3A1MDFURDlLMkxhWlFRb3h2N1ozZ2JwUUJuUWhJZjFNR0FaTEY2ZDkySzN6VUE1SjhmS1RZNU9HeEJhY1JiVnZHXzVmbTRvUlYxRzNldTBZV0w5eHkzbFFrcGJ5c0tCWjFyU3FNcFJqSTJ5a041M1V5RGk2bDRER2EzYmlVemdlSXBrSTJnb05iU1NJMU5KRjdlZ0xyVG51QnVLcEdhbGZBZDdaZ3lMTnJCOTBCVEpNSkVhSW5OU05GWl9VTjNaRF9rbllLS2wxekRqX1RZc3c1OWNxdnfSAYICQVVfeXFMTkY2LTdsMVJTcGRqeDZoZlJVZDg1d0pSdDFrQzh5cUlpU0NfU2dwNTAxVEQ5SzJMYVpRUW94djdaM2dicFFCblFoSWYxTUdBWkxGNmQ5MkszelVBNUo4ZktUWTVPR3hCYWNSYlZ2R181Zm00b1JWMUczZXUwWVdMOXh5M2xRa3BieXNLQloxclNxTXBSakkyeWtONTNVeURpNmw0REdhM2JpVXpnZUlwa0kyZ29OYlNTSTFOSkY3ZWdMclRudUJ1S3BHYWxmQWQ3Wmd5TE5yQjkwQlRKTUpFYUluTlNORlpfVU4zWkRfa25ZS0tsMXpEal9UWXN3NTljcXZ3?oc=5",
+          "time": "9h ago",
+          "body": "Maharashtra govt proposes MPID tribunals to deal with attached properties in economic offences  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt proposes MPID tribunals to deal with attached properties in economic offences The Times of India"
+            ],
+            "tldr": "Maharashtra govt proposes MPID tribunals to deal with attached properties in eco"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1795687121665",
+          "title": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+          "time": "2h ago",
+          "body": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today Kotak Neo"
+            ],
+            "tldr": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Marke"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1795687121665",
+          "title": "Sensex Opens Flat, Nifty Slips as IT Stocks Lead Early Gains - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaHlsV0VsR2Zlc196dnk4WnU3SEFnSWVmVS1uVFExMW9rTmxNTUR3ZkYtR25Ka2V1cm01SEJhY2hIS2lBQ3RJZ0ZXX0VyYzdPcDZWNFU3OFZQaGE2bjZZdHN1d21yY2thQzJpZDNjc19SVzZLQjMzMzBUalc1Tm5ELUR5RjI1b3ZJZk5LbXJFaW5sbjdJUkRwT21VX2R6SlhnZERpUE10SzJLT0dsaUJzVmhWcVJtVWM2SzJsanM2ZmEyZElIeFo5QUJQcFVqTDNNbGZ5bnNaNmQ3d0U0enZXemlFMGhhR1p1cFJTcm96OUM?oc=5",
+          "time": "5h ago",
+          "body": "Sensex Opens Flat, Nifty Slips as IT Stocks Lead Early Gains  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Opens Flat, Nifty Slips as IT Stocks Lead Early Gains HDFC Sky"
+            ],
+            "tldr": "Sensex Opens Flat, Nifty Slips as IT Stocks Lead Early Gains HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1795687121665",
+          "title": "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTJmNE5nd2g4YlpHNkpOSmlsUExoOWc5Z2VYUkI3TlJjcnd0UjdPZ2RBd3FtMlBBd0JubEk2ek9CTGNBZ3RFb25EUVdXd1pEaXhzV3B0c1Q1eEVGeVBsUlpqek1RWHh3T0ZBa1QzenF5Tldlc1l1Q2h4djlfS2xBdlNENlVlWE1VWUJ1RTJleXppUEctcmZUR0FuTmxPSmFRcWhGODlua2QwQWJFRjB4NWhsNy1rSjRGMWRQZEk0cDlDMDlBa2plQmxXbEZZNTlKWUFoZtIB2gFBVV95cUxObDhNd044Ympza25DTGNaWUVacF9ydTVNWjNBQ0ZCWkRZQ3B0UEgwa2JwSWg1em1oa29Yc3ljWGF5QXFkQlNxaHpFN2dlcExLS0JGb0l4QjlwZ2NESHpMZGFsaWQ4UXQzd190Wi1aczZLZk5MNkxUZEVUOHQ1TGpQYXQ5WWZjQVBxR0VVWmQyejlxdXM5NFk1SzBxVzc1Rm5EaTJwVlhTTU5iM3FjSjZxczFpOWllRk9wRGpPYndHZndoNjFDb2JUTDJpVzBuczJjbFpFVk1xY0lWUQ?oc=5",
+          "time": "4h ago",
+          "body": "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn  Business Standard",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn Business Standard"
+            ],
+            "tldr": "NSE share price rallies 9% in two days; market capitalisation nears ₹6 trn Busin"
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1795687121665",
+          "title": "Stock markets climb in early trade on foreign fund inflows, buying in IT shares - Deccan Herald",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlc5YWVUWGItZHlVSGIxdVBwNzlKRHFEdmRDbnRoMDlqOHVIYmthM0s5MnprVU80TzZvNlNBcW5pQzlWN1JYTGtwUG54ak5sMmVqSmxyRTkwNWY1b0tjZU1ZSjZwYnpNRnNsaW1PaFpjYklLNE44QVR5SzlPWW5Jd3p1VHM3Tkh4UGh1dUg5UTRKcGt2UnJNbHhVam4yek8yZmZ0b0h2VzVVdjUwNkM4cjJCbjZBS3ZrSE1MN21CamloNXdDY3RCamo1b1M?oc=5",
+          "time": "5h ago",
+          "body": "Stock markets climb in early trade on foreign fund inflows, buying in IT shares  Deccan Herald",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets climb in early trade on foreign fund inflows, buying in IT shares Deccan Herald"
+            ],
+            "tldr": "Stock markets climb in early trade on foreign fund inflows, buying in IT shares "
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1795687121665",
+          "title": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazZmZzFJeFNOOWhnM2pZUjlZM096TENxc05IbkVZdC1HNmJ5MUpnVHdjQUMwMlFiWkhiclVLaHJVTVRoTkFSUUFsM1o0NlFNNm81VHY5Yl9QVE1jQ2NHdVZMd3B1MUtqV2EyNFpSVXA4czh5b0RUTllseEZGS2FNbTcxZjBiaWJHckVxNF8tbmktOUNhb3RZ?oc=5",
+          "time": "5h ago",
+          "body": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade Kotak Neo"
+            ],
+            "tldr": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Bel"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1795687121665",
+          "title": "Crystal Crop Protection Shares List at Over 2% Premium After Strong IPO Subscription - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2lzeGpCVWVYT0I2WUlfcU1hd21UaThuUU52Y1Z6MnJ1OThXWEhfNmc4Z2I2V2RUNHZsUHlnVDR1V0xiLUpVeHNHQlFObjJ6YjVxOUZXNWpHVlIxOW1lb0tKdzlEd25ZdzcyOGV4c3BoVGtiNUViUnA4LTZ0c3Z6czN1Qm1haDBfTDM3czdlTG5IbUxVdnNqWW44UGZfVDFRQnVuZFlfQnNjNkNBWnpiM3AzMGFJQ3BQaVY5RDNDZFhwTnhCSFhZ?oc=5",
+          "time": "5h ago",
+          "body": "Crystal Crop Protection Shares List at Over 2% Premium After Strong IPO Subscription  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Crystal Crop Protection Shares List at Over 2% Premium After Strong IPO Subscription Kotak Neo"
+            ],
+            "tldr": "Crystal Crop Protection Shares List at Over 2% Premium After Strong IPO Subscrip"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1795687121665",
+          "title": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFpESmpra1p3STZRdmtybzhSYzc5aENGQU53TFVlaTVjbnNnZU9VSnh2Sml5SlhnNmlqLWVKMFRUUzM1bnpaRFlKS05YY1FrN1JtMktVZEh4WXpPUXNqeFlScXQ0dmpLV282eWNCdDdJWXNDWmZwbUpRdWVvdFpfcktmeGw3ZjU2emNHQml2anVIOG1BMXBnY1NFRjBNYkV1SmpGeWQ1czNCWl9JWXctVg?oc=5",
+          "time": "22h ago",
+          "body": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates  The Economic Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates The Economic Times"
+            ],
+            "tldr": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates The Economic Tim"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1795687121665",
+          "title": "Nifty, Sensex open in green despite fresh US tariff threats; IT index jumps 2% - ChiniMandi",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeTJDU1FuYzFkWWxUekVScjdyTXl0WmUzSEllMzE5Z18xNklmdHdLWWgwY0RXM0pSMENZemh6MVBUVEpMSXJCMUcwMGdqU1J2X1dFM0VaWkYtak00YV9HcVYwSFRFT3pTNnQyMVRUUHFsSFFnbXI2T2RFcjFmNzJmeDBMTV9KaDByRjB1aDlYTXBKdWNTVG1uZndkNEJzMDVuY25UT3Fn?oc=5",
+          "time": "5h ago",
+          "body": "Nifty, Sensex open in green despite fresh US tariff threats; IT index jumps 2%  ChiniMandi",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Nifty, Sensex open in green despite fresh US tariff threats; IT index jumps 2% ChiniMandi"
+            ],
+            "tldr": "Nifty, Sensex open in green despite fresh US tariff threats; IT index jumps 2% C"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-8-1795687121625",
+          "title": "Mumbai wants water from 200 km away: Why is Maharashtra resisting? - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3NsV2VqYUM2cTlFWmVoV0ZqSkVFcjZkQl9aemtvVXFnSHUwTThLZTZ0OFNjQWZnX1Nud1hzdk9KNk4yWmN3QnlXWGx4Uk5ueWQ5R29GcE9BSjFVWlJZc0dfQmJhQU5BcmVMRUtaYXR0T01NRTVIMzUzYWhmclRzWWdnRnNNOC1lQXdpOTdEZFkwN3l2cmJnX0I4MHk3U0lwTk9RY0d5X2ZFY25hM1BBbdIBtwFBVV95cUxQckM0b1BvdUE3TmV5QWdUUXFOS01ydGlQalZ4YzBJRmVDTlZBbExQbTlWblZWNFgwVTRSRl93TFNMY1FfMWNiWmprOEpQMnI5czZXUG1PMHNEVnJ1SktSTi12TDlwUExvd25ydTdsb1N6RjR4TWZmSlROMDhFVDNjaXpYQy1CLWVjRV9icng0NTFXaGplYkdFZTRrSkVYbEFHTmJCeHFEdjJaZDUwMG1aWEhwSzFENjA?oc=5",
+          "time": "22h ago",
+          "body": "Mumbai wants water from 200 km away: Why is Maharashtra resisting?  The Indian Express",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai wants water from 200 km away: Why is Maharashtra resisting?"
+            ],
+            "tldr": "Mumbai wants water from 200 km away: Why is Maharashtra resisting?"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1795687121625",
+          "title": "Maha proposes new bill to rein in private aided schools | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTU4WmFQZkhDWGN1Z0IyaXA3Yi1aWmU0czljOWhpR0JVYjNXOVR0RjI3Z0VxV1lPVzNnb0FmdWxPM0NRaS1jdGtjbE9HYmFYYVlicGJWb0NXZkdiOE5xNUVST0ZNSU9QUTVoT3RKbHRtaGJBbTl1enN5ckY0SDNFTUlpYzN3bklNR21MSGkxeWhoU1RMZ3prNEdKTjhkWXhkNXpkeHZjS3AwMnhIaHlyMG1UZmhmLXZSTHRSWnhRMG9rVlZQdVZ3UWp30gHKAUFVX3lxTE9BNThaYVBmSENYY3VnQjJpcDdiLVpaZTRzOWM5aGlHQlViM1c5VHRGMjdnRXFXWU9XM2dvQWZ1bE8zQ1FpLWN0a2NsT0diYVhhWWJwYlZvQ1dmR2I4TnE1RVJPRk1JT1BRNWhPdEpsdG1oYkFtOXV6c3lyRjRIM0VNSWljM3duSU1HbUxIaTF5aGhTVExnems0R0pOOGRZeGQ1emR4dmNLcDAyeEhoeXIwbVRmaGYtdlJMdFJaeFEwb2tWVlB1VndRanc?oc=5",
+          "time": "7h ago",
+          "body": "Maha proposes new bill to rein in private aided schools | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maha proposes new bill to rein in private aided schools | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maha proposes new bill to rein in private aided schools | Mumbai news Hindustan "
+          }
+        },
+        {
+          "id": "mumbai-technology-2-1795687122961",
+          "title": "Blue Cloud showcases AI healthcare tech to global mayors at Mumbai forum - scanx.trade",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS1RMWXhyR0pQV3VDWGJTZVl2SHpNSDBKWmswY0hHcVZtZE1jbHlibzZSb2NkaWlqMWRCSFpKQjJEUDBFZkVYMFdmSUVTakR5UXo2V1VRR0p3ajB1UXBVeWQxbm50cEZCTEg4NXpVS1FLZGZja3N6WFZDekNTSUpzQjUzRVZXNTBJN1ZNT0dIelZSaTk0YW9rWEJ0R19GNThIdVg3ZFlfeGF4Y05UVmlWWVg2TDV0dU0tcnRXY0VSdEw?oc=5",
+          "time": "6h ago",
+          "body": "Blue Cloud showcases AI healthcare tech to global mayors at Mumbai forum  scanx.trade",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Blue Cloud showcases AI healthcare tech to global mayors at Mumbai forum scanx.trade"
+            ],
+            "tldr": "Blue Cloud showcases AI healthcare tech to global mayors at Mumbai forum scanx.t"
+          }
+        },
+        {
+          "id": "mumbai-technology-4-1795687122961",
+          "title": "Cornea Showcases Cornea EduVerse, a Working Smart School Experience, at DIDAC India 2026 - www.indiagazette.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzlBaUZoQm14U0hVVDY1TEh2b1lNdlVRWndyMXZrYjZNRTAzRUN5WUN3Ny1wNXQxTzhac1BWb1NnV1hCMHAwOWN1bnZZV04ycFFSdmlsOFBtSjFUakFMM0JEWlpURWNoTi12d29nNUU2QkFzM0RXeGtFcG14RW1ibDhVSUJDcERoSkdVeHptYTNORXRnbVdZT1lQNTU2VFBqYVJ4Q25hQlNMSWRORmlnVmtQRDd2ak1tTFFNQjB4aWZDV1JUQnM0T09B?oc=5",
+          "time": "7h ago",
+          "body": "Cornea Showcases Cornea EduVerse, a Working Smart School Experience, at DIDAC India 2026  www.indiagazette.com",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Cornea Showcases Cornea EduVerse, a Working Smart School Experience, at DIDAC India 2026 www.indiagazette.com"
+            ],
+            "tldr": "Cornea Showcases Cornea EduVerse, a Working Smart School Experience, at DIDAC In"
+          }
+        },
+        {
+          "id": "mumbai-technology-5-1795687122961",
+          "title": "Top 10: Healthcare Systems Integrators - Healthcare Digital",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMTng5a3g3MHRONVVQbm45MU5PLXgtMHEwY1pKUGRyZEFRdFhSY2FSc0FmcWNtQXZ1UE5sSmtmclNrV3Jrblg2UFpzenhkSHFpOGFvLVBXTTdseWF4ZUhFczNNMy01VWhoTEsydW9rMkhINjJ4Ung1dVowOVZHRmM?oc=5",
+          "time": "19h ago",
+          "body": "Top 10: Healthcare Systems Integrators  Healthcare Digital",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Top 10: Healthcare Systems Integrators  Healthcare Digital"
+            ],
+            "tldr": "Top 10: Healthcare Systems Integrators  Healthcare Digital"
+          }
+        },
+        {
+          "id": "mumbai-technology-7-1795687122961",
+          "title": "AWN Jobs Roundup, November 25: 77 Animation and VFX Openings Worldwide - Animation World Network",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHk3Ym1oem8yOEFDOEhHcEp6bTU3VFJZOUNqekxzU0RTQ2ZiTTVTRzVOT1VQQ042cnV3dHVJUmV1dWFyQUFwQjdCZF9Ec1dERm01ekhORmZMLUc4UGx1QUFBal9jdXl3WGdHTFItd2hQTDJDdExYS1QyVDVMeUxVQjZCRE9TcktCaXBnR2VUdWgyQWxpM3d6YQ?oc=5",
+          "time": "19h ago",
+          "body": "AWN Jobs Roundup, November 25: 77 Animation and VFX Openings Worldwide  Animation World Network",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "AWN Jobs Roundup, November 25: 77 Animation and VFX Openings Worldwide Animation World Network"
+            ],
+            "tldr": "AWN Jobs Roundup, November 25: 77 Animation and VFX Openings Worldwide Animation"
+          }
+        },
+        {
+          "id": "mumbai-technology-8-1795687122962",
+          "title": "Maharashtra drafts new law for private aided schools in alignment with NEP 2020, RTE Act - ET Education",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0JnS0t5Yko2U2FrTWxOVmlNVmNrakdNOHNKMnhBanNEZWNZZ0tEZ05sYjNIdkd5RG90d0hNYjZqQVpwemN3Yjl0Y1daRndZOGQxOWNfWE55VEhIRlJHWmVaaUpQbXdTSnY0WWRqLTc5UFU0dVJsa0c5SEJWcVBqdjhCTWg1ejJiOGhpa01MYjVtU1FPR3dVQTUyM2JwZzRscHF1dVpXOHJtOEs1TGYzYTlXSTY1a0JYRlZfbV9LWndLZWljYkZyRVRrMElUZTNpY1IxWFBuRkdXUjlkeENQX1BRTTZILWxpakE4MExsNGdqd1JWU3p4T2puZ3Mxd9IBgwJBVV95cUxPNDlpem9qWlR2RjlSREhSS0YwTnlnVnBnN1dkVlo5SHhHUk9BYUdsd2lhYmNQbzFaRHk1OFBMUlZva2tEd3BKbXNfTFl3VlBrSDNVMFlKVUhEQUdZckdiTU9GVkZQV3pJcEgzVExrOHg2dGN3cC1ReTNGeEgxcjZ4M0hHd3NQMEtGUTNOcURFWnFzUm9mMzNJcTl2T3JjVjY0UU9wNG1WZWktQ2dtUFNPV1M5R09pMlcwb0drYTFwNjhYTVVfOVBKQWF0R2tRWVZ2U1h3MmJGXy16M0JwblFjN2wtZWZxYXdaYjk2LVh4VnFDbm1Pek9WekR6VEVOTGdtSmcw?oc=5",
+          "time": "4h ago",
+          "body": "Maharashtra drafts new law for private aided schools in alignment with NEP 2020, RTE Act  ET Education",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra drafts new law for private aided schools in alignment with NEP 2020, RTE Act ET Education"
+            ],
+            "tldr": "Maharashtra drafts new law for private aided schools in alignment with NEP 2020,"
+          }
+        },
+        {
+          "id": "mumbai-technology-9-1795687122962",
+          "title": "Provogue Taps into India's Youth Pulse with Associate Sponsorship of Roadies Rebirth Season 21 - Business Standard",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU1p5SF9aQ2lOcU40YTl3N3pPN0ZZQWZSZW10NGlJNEc0R2RRRlkxNFJqM0RaZkZkTU45eUxwZ0tqN212anJFZG5zYldMUVYyc2JVR2JvNjlWcGhDMnJxNXdDSlNWeDN0dlFvSjJ6eUFQeG1ET3JFZVM3bXdvdlhsQWxMTzdOODlHVUlFeXdGVFZKaDN6ZTUwSVdENFlndUpKV0syYmZBX2lMSUpEZmpSeXY3SjhOdHNRdk54UDFMUFNNRFJNczN1N25rLUJ1bWk5Zm9YMTBacmJlZDVfejRxMG5NeDlUc0c3RWtmYzRoTlNYTFhyV3hsQkg4czJFN3IyUjVnRW5NVlpXbTDSAYsCQVVfeXFMTlNaeUhfWkNpTnFONGE5dzd6TzdGWUFmUmVtdDRpSTRHNEdkUUZZMTRSajNEWmZGZE1OOXlMcGdLajdtdmpyRWRuc2JXTFFWMnNiVUdibzY5VnBoQzJycTV3Q0pTVngzdHZRb0oyenlBUHhtRE9yRWVTN213b3ZYbEFsTE83Tjg5R1VJRXl3RlRWSmgzemU1MElXRDRZZ3VKSldLMmJmQV9pTElKRGZqUnl2N0o4TnRzUXZOeFAxTFBTTURSTXMzdTduay1CdW1pOWZvWDEwWnJiZWQ1X3o0cTBuTXg5VHNHN0VrZmM0aE5TWExYcld4bEJIOHMyRTdyMlI1Z0VuTVZaV20w?oc=5",
+          "time": "3h ago",
+          "body": "Provogue Taps into India's Youth Pulse with Associate Sponsorship of Roadies Rebirth Season 21  Business Standard",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Provogue Taps into India's Youth Pulse with Associate Sponsorship of Roadies Rebirth Season 21 Business Standard"
+            ],
+            "tldr": "Provogue Taps into India's Youth Pulse with Associate Sponsorship of Roadies Reb"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-1-1795687122978",
+          "title": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc2djWFZWVUowQUZsZVhrSTFOY0tQVm1TbllXb0ZWcEZrT3dFampmX2xueldZVnNyamEwQlJ0YkwxY3pWdjE2aXlmcy1ja1FFeDZic1FfYkdUeUpKMUJFZXM5bDFSX2YtZWhvbkxaUmswdG5xb0Ftb2U4d3dPSGxDLTBiWUNjRjdZUUQzX3lsQmMzbjlhYmpwb1RGVlJnbHlC?oc=5",
+          "time": "1h ago",
+          "body": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "GT vs MI, 30th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1795687122978",
+          "title": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZTU0MnlmNThzbUlMQ0Z2YnRETlY0SXllQmlDNTFKbkNzY0JPYVFMejJuV1NpWnFtekN4Znl3X3lkelR2T3ZUNHBTWW5HdG9ZV29BcHFxeVIyMHpJNDdnbzhidWpzb1N6Zml6clRPb1haWFA3RS01SHdtVHFEUG9faVZWMUZZN01OME50TnNDZ0Nhb0U5Yld6R3FDNzlLbGtZalE?oc=5",
+          "time": "5h ago",
+          "body": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs SRH, 41st Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1795687122978",
+          "title": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMWRtelpKUkYzanExR0tudFphSGw4UEpqVjlDb2NYV0hSQUdmWnQtdHhVT05sa1NCZFJPUkFRWjNCZlVTVDFXZExVeEh6R3YzOWQtRWxYVi15d1Q4eldqU21IU05reE5zOVdFWUFxNnJVRnBNY3JmalJ0SnBTblJYTnhuSEMwTDRReUh1UjJLTWxyRzVXRmZkcGJubEFqeDhJSkF3?oc=5",
+          "time": "16h ago",
+          "body": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs PBKS, 24th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-6-1795687122978",
+          "title": "Rohit Sharma Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tOVp2Y3pOUndQMXBIZjNwSDZraHBhVW5lRVM3a2dqejNmbTlfZmhrMlhvVkxIX214cjlZTnNUWEJmalBFdmsxRlRWTXI5UE04UmNJQUtmdmp5cV9fRnl3S0g5VUxhTFMzM191REl6YlZCaFB2RGow?oc=5",
+          "time": "2h ago",
+          "body": "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Rohit Sharma Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-7-1795687122978",
+          "title": "Robin Minz Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrd1Y1TkRnNFhpTFM2NlQwanlTdGxvUTZKQmlhUzh6M1ZFZEZEeHhJZFVkdzZoZnRsVFM5SDIzb3RhU1ZPcFZzUi1nWEh6Uy1UbFhEVjBOVGNuRl9iZ0RWV0lYajk0ZE84MGdkRGtaaFc1RGhXT3phRmh3?oc=5",
+          "time": "5h ago",
+          "body": "Robin Minz Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Robin Minz Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Robin Minz Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1795687122978",
+          "title": "'Humiliation and backlash': Why Mustafizur Rahman is staying away from IPL - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTEhXekxab1R6ekFVbXlUQkQzZGIwQlF5cnB5WDVaMG9HVzdTQkpJTzAzZXVBbkhFNXoyZ3NDdlZqVWNCNHByMzdsaVNKaDV0dzJGOURoS0puUFlaWVBxY2NGcVIxdTlFekVMNV9QM2Vmb1B1YzNkVjZhcjQtQTM1OWpEbGI5TzlpZjBad013LXo2RTJaS0J6SEhfMGV3Q0cyc3RvdE5PRlB1cGxfSEg0NllscnRaZHFYc1JXTjZyblNwWU8td1ZhYy1MQUxiMGtvVHpFU2Fyd3pNQm5LM1gzTnVpdFJPLVpkc0FXMHdZZXZrQzUtY2ZN0gH8AUFVX3lxTFBwY3NTWFFjMjFyalRzbGlCeFRGbVh3M0wtNms3R2piTk4xOFdJYmNRZWJkQWxqZkVTZTFKMzcxQzRDV3FPX3E5UGNpY2h6Zm5SNUdCb2tnbXpBRFpkQlVyUzZfX29nTEFyUGdFSGlkT3VNNFV1NHZhSDdTbHppOUNfMmhPRGExNmlZQTRPN29lS3prb2tVbXA5N1U1ZEpGRjhiX3MtSENDZUl3bVVtcW9JQ196UGQ4cjNsZUVEY0J4ZGszTWRSMU1WTHFfTGptUld6WUxhOF9jcDZ0NkhrQUdPOVBUVWJZVWtia1MtNUI0ZjFZemM4X2swMUNuNA?oc=5",
+          "time": "1h ago",
+          "body": "'Humiliation and backlash': Why Mustafizur Rahman is staying away from IPL  The Times of India",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "'Humiliation and backlash': Why Mustafizur Rahman is staying away from IPL The Times of India"
+            ],
+            "tldr": "'Humiliation and backlash': Why Mustafizur Rahman is staying away from IPL The T"
+          }
+        },
+        {
+          "id": "mumbai-sports-10-1795687122978",
+          "title": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3BhUFZRMGZnaUliUWhqcGJrcmZjQnp2a2ZXRGRNeGd1YWgxaDNySlE3OHIzUkw4ejNnQ3pKd2Vna3huM3BHY3FHT3lHV0hVbWo5MmpaSGZVZy1Jc20ybFJlYzhBOHE1bzZvMzhQc0twc2tfN1NSd25FM3RLS2ljbTNkOF9qSTFmaE5MaFFBV0ctMGVTR2R4aUUwVHhqLXpR?oc=5",
+          "time": "23h ago",
+          "body": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+            ],
+            "tldr": "MI vs RR, 69th Match, Indian Premier League 2026 - Squads Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1795687122978",
+          "title": "Explained: Why MI purse value has been reduced ahead of IPL 2027 mini-auction - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTENUSm9VZjltYW83T2xGX3JqeGs0Nm03Z2dVcUNtaHNVSTkyNmplbzJiVTZXT1pBYW1qMUtKSzNpem1KS3BpWGRadkxEeHlvNG1jWGJzS2w4U0t5aTJ5ZVY1ODVCTWhDNW5qbHJGaUdySUZKQks0MVdxWmd5OXVrT0RFWDlINHBqdU5GSnhR?oc=5",
+          "time": "5h ago",
+          "body": "Explained: Why MI purse value has been reduced ahead of IPL 2027 mini-auction  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Explained: Why MI purse value has been reduced ahead of IPL 2027 mini-auction Yahoo Sports"
+            ],
+            "tldr": "Explained: Why MI purse value has been reduced ahead of IPL 2027 mini-auction Ya"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1795687124145",
+          "title": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "2d ago",
+          "body": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'. [object Object]"
+            ],
+            "tldr": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1795687124145",
+          "title": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "4d ago",
+          "body": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]"
+            ],
+            "tldr": "Indian-origin hotelier in New York forced staff to work 112 hours a week without"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1795687124145",
+          "title": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]"
+            ],
+            "tldr": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to "
+          }
+        },
+        {
+          "id": "mumbai-general-3-1795687124145",
+          "title": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]"
+            ],
+            "tldr": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, w"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1795687124145",
+          "title": "Indian man found dead inside burning car in Canada, had 'limited known' contacts",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "7d ago",
+          "body": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29. Firefighters located human remains while extinguishing the fire in Langley, British Columbia. The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts. Police believe Sharma was specifically targeted despite his limited criminal background and acquaintances. Investigators request public assistance with information and any related CCTV or dashcam footage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29.",
+              "The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts.",
+              "Investigators request public assistance with information and any related CCTV or dashcam footage."
+            ],
+            "tldr": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning…"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1795687124146",
+          "title": "'Responsibility to banish hatred': Mamdani condemns anti-Indian racism at Diwali event",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration. He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs. Thirteen US lawmakers have requested a federal investigation into a disruption of a Diwali event in Seattle. They referred to troubling patterns of anti-South Asian hate across the country.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration.",
+              "He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs.",
+              "They referred to troubling patterns of anti-South Asian hate across the country."
+            ],
+            "tldr": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community…"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1795687124146",
+          "title": "Los Angeles City Council adopts Diwali resolution, honours Indian Consul General",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "11d ago",
+          "body": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions. The event featured cultural performances and was attended by various representatives from the Indian-American community. A resolution was passed to extend Diwali greetings to residents across Los Angeles. Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions.",
+              "The event featured cultural performances and was attended by various representatives from the Indian-American community.",
+              "Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles."
+            ],
+            "tldr": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ…"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1795687124146",
+          "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat.",
+              "He was overstaying his student visa. [object Object]"
+            ],
+            "tldr": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young gir"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1795687125547",
+          "title": "No power wants India to progress: Bhagwat - The Shillong Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORW51MnpjN00zNnZtWkVoNFAwa21iWHhMS1RxczNPUVd6QTkzbmZKeVZROTAxVmJCTTh6YXM4eWdjb2hjejQ4U05teHM1Z29oMWNkZjlITHJBTmxnOVVyN1pDN2tGcTEzbnNqU1VraExHNmN5VVluR2dfa3dQRkpLR09tMXRCeXdo?oc=5",
+          "time": "9h ago",
+          "body": "No power wants India to progress: Bhagwat  The Shillong Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "No power wants India to progress: Bhagwat The Shillong Times"
+            ],
+            "tldr": "No power wants India to progress: Bhagwat The Shillong Times"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1795687125548",
+          "title": "India's 17-Boxer Squad Named For World Boxing Cup Finals 2026 - Sportscape Magazine",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjFnZm5YRkZkVFZiMWtNMHVfRmtWRG9GeURNMkpaSHBId2gwZFVxc3BSWUxJT3VnSWhncEhhcUVEOXJ0dVNrVkVJbkJkVXR6Sm14cjhDcDNXVWJqZ1g4eW9yQUpfbkRVLUh1UjRzYkZjamdFTjBRazFCRV8zNElBN1hjTGRLNnpsWGFobHJMV0toaDli?oc=5",
+          "time": "2h ago",
+          "body": "India's 17-Boxer Squad Named For World Boxing Cup Finals 2026  Sportscape Magazine",
+          "category": "sports",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "India's 17-Boxer Squad Named For World Boxing Cup Finals 2026 Sportscape Magazine"
+            ],
+            "tldr": "India's 17-Boxer Squad Named For World Boxing Cup Finals 2026 Sportscape Magazin"
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1795687125548",
+          "title": "AIMIM MLA Akhtarul Iman sparks row with sexist remarks on Muslim women - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDAwNm52Zk9TQThSc3lpaHpFV1ZMRFVwUk5LQzJnMHFJSUpoSVhRTjg0OEQ0RmJMNkQxMG8zWnJWa1luVUlMS1dBcGttQmJyUmYzeUw5cDZiVjg2N09CcElUUFZxV182TzhuVmZJXzVWRmxjNmxkcDhPSEt0eEpRNDZ2VmlwcUlsdGczRDd4aUk2dFlHa2xMb2NkR2FNZWpWVTVGOXpLOGRWWnV2NWlhRUlTWkE5OTYtNnlOdExBYXhGTGFfUmNjV3Y1VlBpM2R6eDA3T09oY9IB1wFBVV95cUxPRDAwNm52Zk9TQThSc3lpaHpFV1ZMRFVwUk5LQzJnMHFJSUpoSVhRTjg0OEQ0RmJMNkQxMG8zWnJWa1luVUlMS1dBcGttQmJyUmYzeUw5cDZiVjg2N09CcElUUFZxV182TzhuVmZJXzVWRmxjNmxkcDhPSEt0eEpRNDZ2VmlwcUlsdGczRDd4aUk2dFlHa2xMb2NkR2FNZWpWVTVGOXpLOGRWWnV2NWlhRUlTWkE5OTYtNnlOdExBYXhGTGFfUmNjV3Y1VlBpM2R6eDA3T09oYw?oc=5",
+          "time": "22h ago",
+          "body": "AIMIM MLA Akhtarul Iman sparks row with sexist remarks on Muslim women  The Hindu",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "AIMIM MLA Akhtarul Iman sparks row with sexist remarks on Muslim women The Hindu"
+            ],
+            "tldr": "AIMIM MLA Akhtarul Iman sparks row with sexist remarks on Muslim women The Hindu"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1795687125548",
+          "title": "Biggest Threat To India Lies In Cognitive Domain, Says Former CDS Gen Anil Chauhan - Daily Excelsior",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalhKa3Vpa3RlZ0RfX01DMFJCU29pWlJVaElqcFE1UG0wX2RJRnAwLVdtVlhSUE53R2JLN2ZqaDRINmFKNFNoTUxEaDF1ZnVmTFBDMzB2S1NVNHV0dVBaMldDNkFpNEo2Y1MwWV8tcWpwdU1iUndSbmxzY1hIWEhPb1oyNnFDeWtpZkFPNmRVbUtFdGw4Tk80dWtlWDhhNjZFM3l5X3NEM1BlRDFuTy1lMDRrRXZYZTTSAbcBQVVfeXFMTmpYSmt1aWt0ZWdEX19NQzBSQlNvaVpSVWhJanBRNVBtMF9kSUZwMC1XbVZYUlBOd0diSzdmamg0SDZhSjRTaE1MRGgxdWZ1ZkxQQzMwdktTVTR1dHVQWjJXQzZBaTRKNmNTMFlfLXFqcHVNYlJ3Um5sc2NYSFhIT29aMjZxQ3lraWZBTzZkVW1LRXRsOE5PNHVrZVg4YTY2RTN5eV9zRDNQZUQxbk8tZTA0a0V2WGU0?oc=5",
+          "time": "23h ago",
+          "body": "Biggest Threat To India Lies In Cognitive Domain, Says Former CDS Gen Anil Chauhan  Daily Excelsior",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Biggest Threat To India Lies In Cognitive Domain, Says Former CDS Gen Anil Chauhan Daily Excelsior"
+            ],
+            "tldr": "Biggest Threat To India Lies In Cognitive Domain, Says Former CDS Gen Anil Chauh"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1795687125548",
+          "title": "'A powerful Bharat will shut their shop': RSS chief Mohan Bhagwat says no world power wants India to rise - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQYWpia1Q2cXVNNkt0bktEMVgzbzduWEMyMkJvMXBMMlJWNThXNEk2ZHVrU2Q1bE9UdkpxaFRldnZ1ang5b0FqclZoenhobEdENFpwdXVzUWVSdk1mVVp2RzBBY09kdFBhdG0xZ3VubEtUTG5LTjN4X2lTZ09NTzFhbmtlQmtUakE2UDBDNDVEc3VRUVMxZXdsQU9JNkY3aUdSdGstTENVTEJ4ejlyNlZIZ0VNQWFKTGlYaWhldGVGYWlFU3p3TWg4bzZMWWpOMDBVVVdZQjFZUXhKMGV1TC1TUHJWbE9lclRHblFEc3M2UDdKUWhwbFkwczhYRzNLYjBDVnk5M0VjOGJQX1dTNkYxTnF3LTRlTGxEYkI3OHF1LS15V3ctQXlGa29NLUdOREdEV2FMU0NhZUp3R3hEanI4TlQ3ck1zRGdEdmM4VGJtQdIBhAJBVV95cUxPVHg2bXhuczFwUmVMbGdYclpZX2ZhWF9iUmZfenZYV3FHeDJCLXhESzdSb1N0bk5wc3Y4Zzk5WC1XdTlsM0Q1SUZmcWpxbnFCajk0Y05fQlRXQVV6UEUwSWJRNFBscng5ZWtTOXZSMmdIZnBuNk1jQUZESml0cWRianFwVG9SQmstWmJRaUhvd041TV9wN1Z1R3RwMVRjZkJhR05tZmsxR3RvcVp0WEx5TkoxNGtOdmxjVFA2bERjZkF2NnFkMkpLcEhqNjR3eGdvUERtMHVQejZUd0ozd1Y4V2ptMUNUTVhiS1RiLTVrelV6Z1lOblFaZ280OGhHVTM0UU90Zg?oc=5",
+          "time": "19h ago",
+          "body": "'A powerful Bharat will shut their shop': RSS chief Mohan Bhagwat says no world power wants India to rise  The Times of India",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "'A powerful Bharat will shut their shop': RSS chief Mohan Bhagwat says no world power wants India to rise The Times of India"
+            ],
+            "tldr": "'A powerful Bharat will shut their shop': RSS chief Mohan Bhagwat says no world "
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1795687125548",
+          "title": "Global powers want dominance, don't want India to progress, says Mohan Bhagwat - India Today",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFFWOXU5Mzh4SnRuZldXaUdQRXZycTFFeFlUb0l3Q3lQSjVwekJyb1cxdWE2RlBMc0lrR2Z5ZFF1Wkw0SmxyYXFScUNJT2VMczNTaVZBbmhaLXdOakJkRHJGMTQ5dENGeWtuMFgwNlRWcHBrZUpxdEg1dDNraXhrVW95Tkc4MDNPdHp6eExNS2tIOGFzOXVMOFJ4UEtHdERrdEg4N29wejQwUnJKRnJfX3oxMlptWk9VZDZ2VXpwNFh5Z2vSAcMBQVVfeXFMTVBRVjl1OTM4eEp0bmZXV2lHUEV2cnExRXhZVG9Jd0N5UEo1cHpCcm9XMXVhNkZQTHNJa0dmeWRRdVpMNEpscmFxUnFDSU9lTHMzU2lWQW5oWi13TmpCZERyRjE0OXRDRnlrbjBYMDZUVnBwa2VKcXRINXQza2l4a1VveU5HODAzT3R6enhMTUtrSDhhczl1TDhSeFBLR3REa3RIODdvcHo0MFJySkZyX196MTJabVpPVWQ2dlV6cDRYeWdr?oc=5",
+          "time": "21h ago",
+          "body": "Global powers want dominance, don't want India to progress, says Mohan Bhagwat  India Today",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Global powers want dominance, don't want India to progress, says Mohan Bhagwat India Today"
+            ],
+            "tldr": "Global powers want dominance, don't want India to progress, says Mohan Bhagwat I"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1795687125548",
+          "title": "No global power wants India to progress, says RSS chief | The Pioneer Bhubaneswar - newspaper - Magzter",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzc3RXY3UW5RYXlVWG5Qak0yWWlpZUVXb1NTOEY3QkVDOWktcFZoY0VjSXJWR3RIOXVIa2tFXzUyejROMG9hdG5peHFTam1WYVdyMGF3RUhEdXdXQi1SekZDSGQ1ZEQ5UlRMajdfS1lTOFNYTEZOeGtwU3o0R05OYXB5LVBWM3lVOEFmYThUbjZhS0pndlp6dWpNZzVoTzJpZVRoZEFGVklMWVpGc3dBbG9KUjNqT3poaEwwVA?oc=5",
+          "time": "5h ago",
+          "body": "No global power wants India to progress, says RSS chief | The Pioneer Bhubaneswar - newspaper  Magzter",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "No global power wants India to progress, says RSS chief | The Pioneer Bhubaneswar - newspaper Magzter"
+            ],
+            "tldr": "No global power wants India to progress, says RSS chief | The Pioneer Bhubaneswa"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1795687125548",
+          "title": "Greaves Cotton (NSE:GREAVESCOT): Did Ampere Partner with CSC Grameen eStore for Rural EV Push? - Kalkine India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX3psdmJzdDlFZzM2N1hPTHlXZHJTQ2FSN3VIV3B2LTNBb1J6RWJGT2tzaktUa2lCNkExbXNMOHJkZ3cwX0pPUm5zbmhCdTkzc2hrMjBoQzNTTFBFZkV4X0ZDdER2aTZQbkcyZDFuWEREVmFIV0dhLVN0dVpmd3JTNDBuZFN1Y1Z5SGtKMTVUNVpwWTNmZ0JjMWN1a3pkNDFocnV1WEpHOEVjMGJ1Y3JTR3lUWjV5dkhvMXR2R1NKWXlyMmdVMHdLcTdtWUQwOXpieDFz?oc=5",
+          "time": "3h ago",
+          "body": "Greaves Cotton (NSE:GREAVESCOT): Did Ampere Partner with CSC Grameen eStore for Rural EV Push?  Kalkine India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Greaves Cotton (NSE:GREAVESCOT): Did Ampere Partner with CSC Grameen eStore for Rural EV Push?"
+            ],
+            "tldr": "Greaves Cotton (NSE:GREAVESCOT): Did Ampere Partner with CSC Grameen eStore for "
+          }
+        }
+      ]
+    }
+  }
+}
