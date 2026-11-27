@@ -1,0 +1,802 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T10:03:26.090Z",
+  "cities": {
+    "mumbai": {
+      "politics": [
+        {
+          "id": "mumbai-politics-3-1795773800653",
+          "title": "Anti-National, Anti-Democratic: Sanjay Raut Slams Proposed Delimitation Bill - Deccan Chronicle",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdG12VW1RcTltYU1MZjhnTk8yN3NLN3RabW1Rc0ZwQkNjYjJjdHNPNkphdkppTUpYWWVIcjkxaUZPQk9DZkREdXFLbXBsNWxPcFJfT1FyLUFwTi0zQS1tZGVIaUNhMWsyVDNxZEFiSTFpemxhSThYbDJHZnhvR3NPcXdLeDVCM3IwelVGOERhMXNmRlBsWEVzLVAtb2VjZTRlZG1nd1l2LUtwT3p6NU1tN0VXdnVwUXg3bGdOZVk5T1VNX0xvMmdnQTJ30gHPAUFVX3lxTE50TDlBbHo1bjU3QkliZ2lUT0ZrZTZ2Q1J2SzMzZ1B6bWFNVTNWcmdUaHVtZXFLaU9iMFpIbGNwcGVrb2RhWjhaNWRTU09SNTBfVFI5ZjJIUkI4V05rNEgtN2NJdHJMcktaLXBwS2NfRF9kcmVydWcyM2FMMmp2dEtBdHd6dnhHazFIU0UzUGVwbFlDMFF2dklXNmZJZTJsVHBtRzk0SlBNNjRtVGVHVUpOeEdua2pUT2dBVWh2S2FtUC14TTREQzR3dm5LOFVBNA?oc=5",
+          "time": "Just now",
+          "body": "Anti-National, Anti-Democratic: Sanjay Raut Slams Proposed Delimitation Bill  Deccan Chronicle",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Anti-National, Anti-Democratic: Sanjay Raut Slams Proposed Delimitation Bill Deccan Chronicle"
+            ],
+            "tldr": "Anti-National, Anti-Democratic: Sanjay Raut Slams Proposed Delimitation Bill Dec"
+          }
+        },
+        {
+          "id": "mumbai-politics-4-1795773800653",
+          "title": "Maharashtra govt to provide 1 lakh autorickshaws to drought-hit farmers over five years: Sarnaik - ThePrint",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemwzTTIyczNtSFNPM3RCbG1tTU9nVGtEZnl0aDNUdDRwNVltMldybFRtV3hVZGdVWEJZUnBOT1otTDlkQkI3Nm1sVTRtQTlrYUFPdWd2cEMxU3FUQlg3WHRkMi01MUN6NTBvbURDNHl4U20yY0JuRXVlOGlOY2NHTVFqVXN4QWtwd0NSZzJMQ3RmcFlBb3Z1NHFZTEluV3lsRzZFajVubXlJQ3pCZ1dwNG5SdUpEVDNrOXRnQXlzTG5DQVJaUVFfakt30gHPAUFVX3lxTE9fZURORkR3OFF6RnRTR1Y4VVdkSEpvbGM5R2JXNGNDU2hINV8tWlRjM3diY3QxQ2pIejJqSXFfWWs4VWF0bTRwMWZqT3VwV2ZBcnlGR2FSdkVITlQ0NlFuNDduQjBOSUFsQmVGQ1U0dXpNUVd3dnlFSDVxTmtRTkI3Q2N2QlptbEVHU2JJam42QmVVNDhvbzA3TTMxOXBhdFhYNmxRM2hpYVc4cjhBcGRmemVYeWNRNFFXenR3VE1MWlo4M3pOY1RydnBQazBfNA?oc=5",
+          "time": "21h ago",
+          "body": "Maharashtra govt to provide 1 lakh autorickshaws to drought-hit farmers over five years: Sarnaik  ThePrint",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt to provide 1 lakh autorickshaws to drought-hit farmers over five years: Sarnaik ThePrint"
+            ],
+            "tldr": "Maharashtra govt to provide 1 lakh autorickshaws to drought-hit farmers over fiv"
+          }
+        },
+        {
+          "id": "mumbai-politics-5-1795773800653",
+          "title": "Mahayuti’s relief package for drought-hit farmers has an autorickshaw - The Indian Express",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXpaUkRlSTdaZ2R6aXR0MlMwMThtTllORjUzYUFHMjJUSGNkaGhaa1hDWFJlMHQ1bjJIYVMwTnptRFlUUGdZOVJReEkwUzZUOVVOTzNGNlQ1VFY2RUpTTGJZRVZxTHpsOXVmOTJfMFNqUTdLX2tSYUlzOGY0X3EwOEh3WUk5R1d1MlZSVkMyT1NLQmg5S19jY3FUUWJwVWlEcDZOWVJNU3Y5RTRXT2NQVWFkQno1YXdrQnVrRHc3SkstU3dqOFNWYW94bEtPUdIB1AFBVV95cUxNZFZ5VkUtVFhRR2xRSEtPemJfOVFFb3Q4ei05Qm5VLXNUYXBvazNtQ2c2SGJqREhURk9Zbk9TT01GUmo3QU5MSHNkRlVUUnk3MklGS3RmcDJpeDl3TmlFZFlnVGltYm04RFFMZzhjaGRGaXRVdml5NC0tMklOSldlcHFKX0xWLWhnanRqWUxRWWdqWnladllMZ1d4UDQ4cDJSaXdGX0JCdG1xMHZMSXpHdWh6Y2V6c2o3Q0l1YV94WV92RHBaQ0h6SmxIY3MwN3JJRGxrSw?oc=5",
+          "time": "22h ago",
+          "body": "Mahayuti’s relief package for drought-hit farmers has an autorickshaw  The Indian Express",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mahayuti’s relief package for drought-hit farmers has an autorickshaw The Indian Express"
+            ],
+            "tldr": "Mahayuti’s relief package for drought-hit farmers has an autorickshaw The Indian"
+          }
+        },
+        {
+          "id": "mumbai-politics-6-1795773800653",
+          "title": "Meta battles political storm in India as Congress party sues, stages protests - The Standard (HK)",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaXpPczFvNHdyUnRYNlhsb3lOS2FIckpZX2VnazZSZHA1RWVnbU9HUTN0Q1VHeGpDYURId2ZBNWtRV0oza1JyNkFyZEdoZlJwcEtxdGVUU0VDUGVkWWxlRTQ0VjB3dTJfWVlfMkJ4b3Q0d2piYWF1bFJoMWEySzhJRkpjVnQ0cFdpQ0ZSQ0ZKRjdhVERTdUZTOE1VT2V0NXZua2p1M3VseURnSlR0bGxTdnBFbmlvUzFDaC1OWDA3cVduSjFOanM0?oc=5",
+          "time": "23h ago",
+          "body": "Meta battles political storm in India as Congress party sues, stages protests  The Standard (HK)",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Meta battles political storm in India as Congress party sues, stages protests The Standard (HK)"
+            ],
+            "tldr": "Meta battles political storm in India as Congress party sues, stages protests Th"
+          }
+        },
+        {
+          "id": "mumbai-politics-7-1795773800653",
+          "title": "Maharashtra plans a lakh autos for drought-hit farmers to give them a second source of income - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNanEzbDZyYjRKeTBZVWxRRFZvZ3NEXzdVbFZWS2xtbjZPaGM5ZnVMMlZGckhKWldpSWNvQk5MSjVTdWFhWVltc1c3clhCWFB0aXdCMWJPVFBLZU51ODhpYXgyQ1dCVnR2LWtUdGtXd3NHam5DWDA4V1gzdEdDVWkxRnFtWmhEaVJtTnJvUHJZYzFjbmVta1JVRXJrZXJBNXhmNi00c1plX0VFcm5ULVdhRGdnaEl0NlNxYXBPYVBLWndhYXNicERual9XV0tpUzdjN21oa3pPR0pLZkswTGtSSFF0cGxuR2tzUGl6ZjdlbUpSOVV4X0ZkYWVFc9IBgAJBVV95cUxOMFYweEFvQ3ltamRtanVhakk4VlFvcU92MFFxRndQNDdvLW9hZ2RNRUJybGxYSlB5a2xyeklRX2VGUlUxTlBTN2traDNTZTRjRFhrQjJhOThuTnM4ZGpKeXpEamw0ampuVTh4aUxORmloSk43ay1vWHU3cFp0MTRGc0pRSkhwUlNLMFg2VjNrcEJTZjBQX3BJNTlZanVsUFRoenpadWRDekFsZTJibVY5MHk4cXhqczkxMlJKdnE0cW80WWw0MDZOVUdSaE1MaFk2eVhPZDRDb0NudnR0LWE2OEt5dVkxNXA5RHBjN0h3THJubXN1MV9xeWxQR29XRTd0?oc=5",
+          "time": "16h ago",
+          "body": "Maharashtra plans a lakh autos for drought-hit farmers to give them a second source of income  The Times of India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra plans a lakh autos for drought-hit farmers to give them a second source of income The Times of India"
+            ],
+            "tldr": "Maharashtra plans a lakh autos for drought-hit farmers to give them a second sou"
+          }
+        },
+        {
+          "id": "mumbai-politics-8-1795773800654",
+          "title": "“Amitabh Bachchan behind bullet proof glass…”: Aaditya attacks BJP on ‘Gang Wars’ in Mumbai - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSDJ2V3VWOVFSMm9weTdlQ2VFLXBpdEtYTlIxVmNFY05zX3E1NThNblBDZ2k3WGpiNGU5NFQ5WTRQd3FYTGlEb1h5eVoxZFJ3R2FEU3ZHQVh5TTQxSE9wU051cFZGWjEtWVllSl95YXFNSGZGdF9rYmd4dVhfYVE4VFlZbTg1UnAzSC1fQWJueFhZVzJmQUM5RUZKc1dONWp6alJIbEhoUENSLVVjWUxxNU1sWWFZenNmckg2R1o0QnFMQ0hfN3Z6c2FEWlEzd3pua180YWx4dFctUVZqOWdnNXkxT0xzcU1WRnhF0gHwAUFVX3lxTE9weFFEemZ4WE9QcVZFU2hLMUs2cENwMFZPM1B1Tng1ZklnUWtLRGQwSkhzb0pMb200bm5WOEZPUUJ5a2J4M3NVcG1BLVdidXZRZlhaSUVtem1ScUdMaGRIYVZaUldhRmprWFd1aEQ3cGx4bjJDVWhCczh6S1VnSlNZMVhIUWhKTnhnYk1HQjZuTE1YSFJWVm9WaFFNNThBMV80VWVmQ3hadU5YNFJzalhMR0M0VnJHaFYxNGVHbDgxUnJiTURPLTcyeXhhS2NuVFlxcGY2Vlp3LWJqV2haRzlpallEWWE4S2lIeU1pMlNhaA?oc=5",
+          "time": "1h ago",
+          "body": "“Amitabh Bachchan behind bullet proof glass…”: Aaditya attacks BJP on ‘Gang Wars’ in Mumbai  The Economic Times",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "“Amitabh Bachchan behind bullet proof glass…”: Aaditya attacks BJP on ‘Gang Wars’ in Mumbai The Economic Times"
+            ],
+            "tldr": "“Amitabh Bachchan behind bullet proof glass…”: Aaditya attacks BJP on ‘Gang Wars"
+          }
+        },
+        {
+          "id": "mumbai-politics-9-1795773800654",
+          "title": "Pune attack: Rohit Pawar questions admin capabilities of Sunetra Pawar - The Hans India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNndkSEFwR1N1VnQtUzVmVG5xMTVGcEF3SXJlSmxtUkdYYkxKbF80OFlZazZ6T3Q3NUtieDVkbGM4bEJMekc2T3pCblk1bVNUSFRTNmxfaHdVU3FVaE9meU1MLV9ZaUJUbExmZkdjUVBQeXptNXpqUHQxYTFoYjVHVnNMS0VzaGFGcWlKNzVHWkJyZUpyUlZLQ2J1T2JkZmtqNF8wXzdocnFvQkVBWG5hNWpDd9IBuAFBVV95cUxQNENHSlp0cE9fTzhqTFFXVkhfUmJHUVVfcVg5SmVRU2FpSEJNNGxJc2VaQzlaWlBERks2X3k2a2UxbHF0WlJQeWpDdXBaMFJSTXdGZFZtdUN6cFZNYWFYN3o5Z01sYWxFX2JQaFdEdXpwMnJaUVdKYXpmaEdLRFBfNzVxM1B2blVFVmJ2OURpRmNHTHRiX0VZZEJCd29vdHRWbU5pQjhkX0Z4dkc2cHc2XzBnUUtSWW8w?oc=5",
+          "time": "9h ago",
+          "body": "Pune attack: Rohit Pawar questions admin capabilities of Sunetra Pawar  The Hans India",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Pune attack: Rohit Pawar questions admin capabilities of Sunetra Pawar The Hans India"
+            ],
+            "tldr": "Pune attack: Rohit Pawar questions admin capabilities of Sunetra Pawar The Hans "
+          }
+        },
+        {
+          "id": "mumbai-politics-0-1795773800658",
+          "title": "Will Supriya Sule become the next Chief Minister of Maharashtra? - HW News English",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWd6YjVrd2lZV05YUHB1ZTNldS02eEo2REVGem9zeExvZi1RZnljekRlVG9XNFhxNl9BeDdnRFFXVldqWFdpd0plTTdYWnJzTEtaY3pTWGNxaDMwa21pQzJ6X1JHVW1Ma1haVUVxemNQMnE4NWZzWlAtdkxPOF9iSFo5a1dsZHJBOXZIWTByNDhVWk80MGlKN200M1Q?oc=5",
+          "time": "4h ago",
+          "body": "Will Supriya Sule become the next Chief Minister of Maharashtra?  HW News English",
+          "category": "politics",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Will Supriya Sule become the next Chief Minister of Maharashtra?"
+            ],
+            "tldr": "Will Supriya Sule become the next Chief Minister of Maharashtra?"
+          }
+        }
+      ],
+      "finance": [
+        {
+          "id": "mumbai-finance-0-1795773800610",
+          "title": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+          "time": "7h ago",
+          "body": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today Kotak Neo"
+            ],
+            "tldr": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Marke"
+          }
+        },
+        {
+          "id": "mumbai-finance-1-1795773800610",
+          "title": "Stock markets decline in early trade after two-day rally - The Hindu",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakhqUFdfWnB4M05ILVdLY3pfVE9URU1QY2gxRURVMTcyQkNURjdfNnZqemNQT2VYTHl5em1OdlJ2ZEVNSFYtWFRVaHUxY2xTa0EybXctZGdza0xveHUwbXdUaHllMU1MS01sdkQ1R0tfRGU2NUhzRHdKeWgwTDg5RjBvZ1pHeEdMRVB5SXVwTkhfU1pEWWE4OUpnRDZ1ejl6RDJBNTdTUkk4LThlWmt0eFBJQ1p3Ri1xUGfSAcABQVVfeXFMT0RUb0ViOWFtVHBwaUpBS3F5Rzdod202TXhkMlBlT3lnZUFZY2JQeE9YdGZfVjBFMU9hMTIweGtJUmxNQW8yS2pjOWFJRmFBYXRMemVQWnFFOXQ3cEZsUHR6T0lCa3NQUHctZnRQLUxxUWtTbXg2cE1YZU9WRExtNUhkWlNvVjZzNTVEak5WYVBxQnVDUHgxSGVTMXJxUVQwemtVa1hienVEZm9hLURGQWgzcmdMd0ZtbDBheGF6MmVy?oc=5",
+          "time": "5h ago",
+          "body": "Stock markets decline in early trade after two-day rally  The Hindu",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock markets decline in early trade after two-day rally The Hindu"
+            ],
+            "tldr": "Stock markets decline in early trade after two-day rally The Hindu"
+          }
+        },
+        {
+          "id": "mumbai-finance-2-1795773800610",
+          "title": "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market Opening - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjIwZ0pNcTkyb0RpSlpuSmNjamg0a19LU0tOV2F1eGdqd1hxWjRrYkM2Z2JXLWtLU21fSGxYQXdxRURpYXI3SzUyNExickxaLTFTbkhfamREME9jSFpvMVhtLVRtcmExbjJ1QVRiSUpXR2htU0NUUmx6MmRfc2hxVld4UHhJX1lxRXNuMVBaMnlIQ0pTSXJj?oc=5",
+          "time": "5h ago",
+          "body": "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market Opening  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market Opening Kotak Neo"
+            ],
+            "tldr": "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market "
+          }
+        },
+        {
+          "id": "mumbai-finance-3-1795773800610",
+          "title": "Indian Stock Market Rallies 2nd Day on IT & Foreign Inflows - Rediff MoneyWiz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHhsWmhhVEttV0hBd0VVZHhDSVNtTTN3ZFZvWkFSU0k4eV9HV0hUblNXMTgyUmVTc0x6bngxQTh0NGFhSkxJQjZZOWZjY2JhYmNDRkdhV0FWSmxqMWM3cHlVdXlVRzdndmM5RUltSGdvakZMMmJmTnp4amdSdU0yOGNEQzFGR0c3RWFwekQ3azgwbTJ5RmNUOV9TTUNQaUtUczlrOTl6NNIBrAFBVV95cUxPZ092UGswWXk1OUVHSHZWd2ZBdk1lZndSZ0NWTkE4dkoyaDdIbEhYcXN3MWpzNzNKSGZtT0ZHM0NnUnF0ZGJvVWlxOVBxdGc4SUI5cTNmOE9uc0c1N3ZzX1luSHZWR2ZDWEFDWmFySzh3U3Z5OEFWX3lFRnBzTU8yZ1BweWdiS0Q4WGlpWkxiRlRsczE0UGNJXzdhU3FtUHFKUTRWbnRkX29rVUky?oc=5",
+          "time": "23h ago",
+          "body": "Indian Stock Market Rallies 2nd Day on IT & Foreign Inflows  Rediff MoneyWiz",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian Stock Market Rallies 2nd Day on IT & Foreign Inflows Rediff MoneyWiz"
+            ],
+            "tldr": "Indian Stock Market Rallies 2nd Day on IT & Foreign Inflows Rediff MoneyWiz"
+          }
+        },
+        {
+          "id": "mumbai-finance-4-1795773800610",
+          "title": "Mahanadi Coalfields Shares List at a Discount After Decent IPO Subscription - Kotak Neo",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUpFQkNqTVhFQ1VJazh1RVFBWjI3UFB2UUlhZ2szUDIwYzRfeVZZMk9IR2VnNFlLNzJXSENZRXZNSGhzcVpGYnNEVVpRdFRFUUVZM0dVY2kxb2hFcm9yY21PRUZCanpZX0lja212dEppSk9zeXZSb3lfUk14dndUV2d6RDA0RS0zRUlDMWEwdEVlbzExamx1V0NldHg0cFVQ?oc=5",
+          "time": "5h ago",
+          "body": "Mahanadi Coalfields Shares List at a Discount After Decent IPO Subscription  Kotak Neo",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mahanadi Coalfields Shares List at a Discount After Decent IPO Subscription Kotak Neo"
+            ],
+            "tldr": "Mahanadi Coalfields Shares List at a Discount After Decent IPO Subscription Kota"
+          }
+        },
+        {
+          "id": "mumbai-finance-5-1795773800610",
+          "title": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform - HDFC Sky",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUxkbUJBd1IxTVF0bG1ja3F5SEY1T0Z4Rm5tOGZlNGh4dFpRRlZ4LXVxekE1YTZqOFBwWHp5ZWtMelNlWlllYlVGSkpab2VZa3N4Ry0tWFB4aFVFdy1iWGFNUUcxaDVDT2duUU01NHEzZWItZjN4Tmh1MkJzWmZYSk5UVUVKSDNoOWFzQXNJN0hsdl9xMW5nbkNSU1BkY0EtcXlYTENuRFZTbjlHbHdncmt1SjJTX0tyUDYxU0dxbG5DVHlHU1o2WFNLV0VOU2FrNzNlME9jb0RjcE9lMUFSdDM4dFZYeEM5MXV4amJRZktpS1VoQ0tJSnlkbUdJZ1VLOEE?oc=5",
+          "time": "5h ago",
+          "body": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform  HDFC Sky",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform HDFC Sky"
+            ],
+            "tldr": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform HDFC Sky"
+          }
+        },
+        {
+          "id": "mumbai-finance-6-1795773800610",
+          "title": "Stock Market Today: Sensex Drops 600 Points, Nifty Near 25,750; Infosys, TCS, HCLTech Tumble - NDTV Profit",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMGNVeElWVjl1TGtUdU5NUFdOWVcwUlRtTG9STmNkelg5cGpIQUZhbUNySkZnbEZxVVM0WEw4V2ZiTHFqcmRzcVpMNENkOUR6VHl0dXVsOXpWZHdLR3VEYVluQ3dWR1pKSURjYVJKN1JiWVo1MEhHMExhX2VYaThmSkN3UFo0cXNtY2dYNmIyY05RTE50WGdZbzJkN0FDdFBVRWFCMFRhdW9oUXZpbHpjWHdqYUhNUnpac19CaFFhRUE5SWJuOEN5dGhvdTJzQ3c0RUx0aVM3UUlFcnlKQTljLUlXUnhQMjQ3Z2JXVzhfM3hydkFQZlFWVUxVd2dwem1YMi1VeGVqWGJCWmY0V1hF0gGXAkFVX3lxTE1uRGlqVC1pQ1VqeDVoTDlxVVRnQW9rWG5CWFZXTURBbl9XamtHaUJhS3JoQ0NWc1Q5VDZteGFxYU41cy1oc204ckI4eHJEZVphb051YUZDOU05WWhaYVJzUVBMRjM5WkpYMkZJc1RReURsUHJ0c0RIWnRzSlJCMnRZR1hOc3BabEdwLXFFeG9YNk5IZThEZldkRmJtb0hsdkRsYWprbHRaNTR2MFJIcHJTaklNYUVDY0tyd285SGhTcHRueVFIeVdRZ083MExxRUJ0Ykg4N3hoTmdidkY0SEJTX01yZURrZFpUbG9mZERRSF83LWF6U3gtV2J5RHRoeXRDWGRuUXVSYkk4YWpvOXJMRlF5Q0RUYw?oc=5",
+          "time": "2h ago",
+          "body": "Stock Market Today: Sensex Drops 600 Points, Nifty Near 25,750; Infosys, TCS, HCLTech Tumble  NDTV Profit",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Stock Market Today: Sensex Drops 600 Points, Nifty Near 25,750; Infosys, TCS, HCLTech Tumble NDTV Profit"
+            ],
+            "tldr": "Stock Market Today: Sensex Drops 600 Points, Nifty Near 25,750; Infosys, TCS, HC"
+          }
+        },
+        {
+          "id": "mumbai-finance-7-1795773800610",
+          "title": "Sensex down 300 points, Nifty opens 40 points lower | Business News - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFlWSHprdEFCeFVwWlBwWmdieTl0RUxLWU1NSWpfem82NXg3UjlQYVIzS0V4SlVsX2gwR0ZyNHZEeWdITHloMTFJZjBENUNnY2hFeTYza0tET2N5NkhmeDNwSi1ma2VYR0p4V21JYlFjSDNoRTJQaHUxeFN4OTl1ZnVIZ3lJZE1IZWlnUmlPNnVXNjgwcTZBbnh1c2hVY0Nad0FVLU94NTFNZnhGZk1sZdIBtgFBVV95cUxNTmxpRTFqSnd0YlVfcDAyZHdlWjBiNHU4MUQ1UnFJOFhkSmpnUUREWVBzc0VxbWhBTVBCQi1MTTdNZm54NUNTMy1PZlg0ME4walI2dTh0ZVMzMGxQQVFfMzV4S05zNVJLWmxEY2J1aTZpUWJqalJvN291MVhzSUQwbWVKRWxnWG5lTWlrZmhrUlVuYVgxWlgyZEFhZ1FlYzhwcl9LaWQxZ0dqT2dWQ0xpM2VPa09vUQ?oc=5",
+          "time": "6h ago",
+          "body": "Sensex down 300 points, Nifty opens 40 points lower | Business News  Hindustan Times",
+          "category": "finance",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Sensex down 300 points, Nifty opens 40 points lower | Business News Hindustan Times"
+            ],
+            "tldr": "Sensex down 300 points, Nifty opens 40 points lower | Business News Hindustan Ti"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "id": "mumbai-politics-0-1795773800653",
+          "title": "Maharashtra gets fifth model sub-registrar office in Mumbai - Construction Week India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVBqUGpTRjZPeXVnLTNYZGlTalZLSHE1ejYtUmc0el9SajEzZTM2MzFPZHZQUWotTVozWjQxamlKdjNoc2dHYldmUnd4aUZHaWhqSDRTb3hhR0RhRzZ4MFNEUzFZNnBQb2h2RUVsQ3c0aHFYVllGQUl3NUZTcFR1dFBOTDg0UW9JTzhLRjZWUm02THA0MVRMOXYzTXVSVF84cTJSdmdPbndNUQ?oc=5",
+          "time": "Just now",
+          "body": "Maharashtra gets fifth model sub-registrar office in Mumbai  Construction Week India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra gets fifth model sub-registrar office in Mumbai Construction Week India"
+            ],
+            "tldr": "Maharashtra gets fifth model sub-registrar office in Mumbai Construction Week In"
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1795773800653",
+          "title": "‘No 20% quota for Agniveers in Maha police’ - Mumbai Mirror",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmV6ajNjTUhRZC04Y0o3WC1QRG9zbTMzMnJJY1F1cnA5bl96ejlkX0hLdk9OOFQzV3h6S29tbEx1MmQ4eDI5OGRsNWxJQmlqMm9Idm9xcE9YSnd3RUhHREx6R1V1azZNbTNzcU1iMWZxSlNFbFdmaUFoNXZyT3lQQTJvU0NfcFZzWTgtd1JRcVlLdw?oc=5",
+          "time": "11h ago",
+          "body": "‘No 20% quota for Agniveers in Maha police’  Mumbai Mirror",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "‘No 20% quota for Agniveers in Maha police’  Mumbai Mirror"
+            ],
+            "tldr": "‘No 20% quota for Agniveers in Maha police’  Mumbai Mirror"
+          }
+        },
+        {
+          "id": "mumbai-politics-2-1795773800653",
+          "title": "Bombay High Court tells Maharashtra govt to decide on Navi Mumbai Hotel Owners’ Association’s orchestra l - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNLWUwRFRiMXVFcm9ORnRxbFpTTmUtc1RFYTRSRmtDUUV6dk0xNVdjQTNjLUpoRXV0Y2VXcy1mMEJQbGZmT3Z5NV9hRjhNWW5KTmNIY0NVZmpjSDNvdUpGeklnUXA1RTJrcHowRVNtTXpFVFoxdlpIN211bW53cFNCT1R3elhSLWE3czFvVUNxVmN4R2hkenZHcHF5RHZjclpzZkp1Q1ZYcHVSVDV2cFVYalZHUGpNck8zR2JENDFSblZFR3BNOTJtUmxkQlpSaDFwd3UwdXZwN1JOWXZsQ2VNSDBCWVVNS2VZY1ItVXFyMXdUMTFXOGhDbDVNRmNKSVZSRDBTODUydXhzdEF2aGdvaTBtOFV6bTjSAZwCQVVfeXFMTll3eEc1eXNVWkQ5ODg3cU54Rkk5QS1zZUpEZVJJRTNpQlpkRmN0ZUFkeFl5UVF1OE5KclhFRExJc1F2YTJ2NG55S1RPQlNKcGdsUmFDMU96QURqTTk5X0hnT0hVTFcxcElxc2hKa3JhdmY3RmQza2tJTm02cmh3M1VYX2ZIWjRvRkJsamNJRjEtaGFNX1JqeXdhVUtOZjA0VkZRMVB0Sk1xcGViNzJxMlo3V3pEM1hqUC1VMHpBR2JEUUJOaXkwWjdiSFc3ckdVMloxWnI2Tm54OThxeFVQeDM4bEFsRzVWbmMxaDFBR182N0pwdUpxenhWb3B5OEZZNnB2RWlPV3F4Z0JyWmg0RmE1YVVvRHV0WDFoRFc?oc=5",
+          "time": "16h ago",
+          "body": "Bombay High Court tells Maharashtra govt to decide on Navi Mumbai Hotel Owners’ Association’s orchestra l  The Times of India",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Bombay High Court tells Maharashtra govt to decide on Navi Mumbai Hotel Owners’ Association’s orchestra l The Times of India"
+            ],
+            "tldr": "Bombay High Court tells Maharashtra govt to decide on Navi Mumbai Hotel Owners’ "
+          }
+        },
+        {
+          "id": "mumbai-politics-10-1795773800654",
+          "title": "Navi Mumbai Orchestra Licence Plea: Bombay HC Directs Maharashtra Govt To Decide Representation Within 8 Weeks - Free Press Journal",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZW8zaUg1Mk1KNGtOelNSWDNIMldGcGhtNmQwNnBlTUpkVFdELWJCc1VYTU5jYkltaFRJQmJCVHV5S0k5ckVrOG5yQmUtLVBoMWtpaTNycE1taVg3OU1LRjBoZG1FLWdPcXV5ejVIM1A4U1V0MS1WME5sVTJrLXozeTI5U0pJampvM3d5eEpUdXdLU3NuSVRQNzl5cDV1MjZ0LUJZNk1fem9IbUtuZXNnR2dCUWhtMDNkU19KaHQxektGWEFXV3MydlNfY2xzRHAxYjZBRGdiMXZOR195NTd6VFFB0gHnAUFVX3lxTE5yS2xadlM0ZzNjT3FvQ0p0Q1c0RFh1dkRiQnBMYzFJZl85cVVhbmNCTFU5blpzMGNfZTdObGZ2dUFyR0s3RVN6dWlCb1lRdWtDYUNPWEEzR3hmMlNnb0YwcEJGbU82YmRicDY5bVJDa0p6S0w1QVRPb29Nd1dlMHNCVWJ2dDJNcktkZ2VpYm9wd3hhLW5QeER4T0pnLTVNNEdOMmZGODdNcW1BcFZQa0FsR3FDejUzUFRSNGZRczVGV3p1SVF1eHM3MUpNU2JnUGdEWmpHc21ydy00bG9FenZOb3JQQjhqaw?oc=5",
+          "time": "18h ago",
+          "body": "Navi Mumbai Orchestra Licence Plea: Bombay HC Directs Maharashtra Govt To Decide Representation Within 8 Weeks  Free Press Journal",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Navi Mumbai Orchestra Licence Plea: Bombay HC Directs Maharashtra Govt To Decide Representation Within 8 Weeks Free Press Journal"
+            ],
+            "tldr": "Navi Mumbai Orchestra Licence Plea: Bombay HC Directs Maharashtra Govt To Decide"
+          }
+        },
+        {
+          "id": "mumbai-politics-11-1795773800654",
+          "title": "Maharashtra govt proposes separate property cards for individual flats | Mumbai news - Hindustan Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2hhMm5KRVFOeXNENE9wZG0xRXEyZXhOc1phZHp0dHQycG15ZkszbkhwMThvSlVNSkFONl8tV2NqTzJYcDk0RDZGVkExWk5NbkdZUVo5U0NYZFdMd3pEUUtaZVVzYVRhMW9UZER0Wm8tWERsRFpCVXhwa0xENVJXYlNycHpRRnYtUGlKR0VGMWY4MGpzcTY3Rm94R0tKekJfU2lNWmliOXN3SU5LX1ZwZFdGVjk0eGJPcG9ZRGh0VmtYWTY3VVh1cmttb0JmRzBVRE9NbjJrRlLSAd4BQVVfeXFMTmlmY1NEVTNrUzhCbHpMbXdHeUdtT1JIaXlOTG02dFhaUXdYcWVibUVlMndBb3hKN1hiZWxWc0dpMTF3ZXc1YjhHVk42NWFoODRwS1A3MmhmTDVyX2FUZEdTT0dfaEktZ1dDV3hzMVo3SXh0eENQWUFJZGI2SjVPN1dLaXZYRXg4SWExQ1JvQVMyQUJOWW9CaGs2Rjd1dDZqdmdDT3BtNjNxQzBJZ01VQXBNb2hoR25aak5BZkZLc0ZWTE9NRDR1LWRkaTE2Z0NTc09SNGdJQTVfQ1kyYUNR?oc=5",
+          "time": "23h ago",
+          "body": "Maharashtra govt proposes separate property cards for individual flats | Mumbai news  Hindustan Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Maharashtra govt proposes separate property cards for individual flats | Mumbai news Hindustan Times"
+            ],
+            "tldr": "Maharashtra govt proposes separate property cards for individual flats | Mumbai "
+          }
+        },
+        {
+          "id": "mumbai-politics-1-1795773800658",
+          "title": "Mumbai pauses to remember 26/11 bravehearts on 18th anniversary - The Shillong Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2FPOXpOWW8za2RTUUM5OWhJRlNJQW0yN05YUWQzWjdLVkhnYXJlNktQMl9pMFhVeWhlVUVVaVJaNU1wZE4zUXJkV0txM2tUbkdPUVNoVVBvYUdBbmZEZUJSaHdFOG1HbUFFbTdhbm9YS1ZCc3J0R25YSlJubVlxd2NNc05PWVFxc1NBelNveDJJZU5QUWI3bFhwVFdZNXdWRGFwemVsTQ?oc=5",
+          "time": "8h ago",
+          "body": "Mumbai pauses to remember 26/11 bravehearts on 18th anniversary  The Shillong Times",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mumbai pauses to remember 26/11 bravehearts on 18th anniversary The Shillong Times"
+            ],
+            "tldr": "Mumbai pauses to remember 26/11 bravehearts on 18th anniversary The Shillong Tim"
+          }
+        },
+        {
+          "id": "mumbai-technology-0-1795773801972",
+          "title": "Data Centres: India’s new Digital Powerhouses or a Hidden Infrastructure Risk? - Countercurrents.org",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUMyX0hpLVl0bHVsTDBCY1pNVmVWUDBqN0VuQjFIMGxFVVJ4YjJYLVNFSlNYdnlvT2duWkM1WkNrVGwzN2pjR1B4QUJ1MjdLRzUtZF9ScWVrVDJmQ19Vc0RKMnNyRnhJQU9iSXduU0lGRzBUSk9ybktIanZieF93OHpZSF9DZ21HZVhVcm9LWUlhOTNnLWI4UEJOLXNldVlCNVgzeVA1aHNsQ1hPbUEyNDdR?oc=5",
+          "time": "1h ago",
+          "body": "Data Centres: India’s new Digital Powerhouses or a Hidden Infrastructure Risk?  Countercurrents.org",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Data Centres: India’s new Digital Powerhouses or a Hidden Infrastructure Risk?"
+            ],
+            "tldr": "Data Centres: India’s new Digital Powerhouses or a Hidden Infrastructure Risk?"
+          }
+        },
+        {
+          "id": "mumbai-technology-1-1795773801972",
+          "title": "Execurio Network Hosts Most Trusted Employers of India for Women 2026-27 - https://www.indiagazette.com/",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTRMMHBxYlBLN1lnUWk5WWd5d0UwQWVmR2VkNGlIcllMcFBEa3JJOVpNNHU1em1vd2MzaDR1SlNfR25LZUwzdFUtVURrWGZPSzA1TmQyRVFTT2w3el9tMlE2SGJGUTNqX05hUGJmTzJnUFZzdnRiSGhrVUhOc0wxNWtLVjV6ZFhnSDBjbVU5Q1hreVJWdFhzdTB4eGtDdWZlVExLVkVHZWViVTRNdGQxdVdieTJDS2s?oc=5",
+          "time": "7h ago",
+          "body": "Execurio Network Hosts Most Trusted Employers of India for Women 2026-27  https://www.indiagazette.com/",
+          "category": "technology",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Execurio Network Hosts Most Trusted Employers of India for Women 2026-27 https://www.indiagazette.com/"
+            ],
+            "tldr": "Execurio Network Hosts Most Trusted Employers of India for Women 2026-27 https:/"
+          }
+        }
+      ],
+      "sports": [
+        {
+          "id": "mumbai-sports-3-1795773801957",
+          "title": "IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHEtQ2R5QjJPbnR1ZnVPOW02bEEyVUw1Xy15Sl9veFRVenBKem9FMHJmXzYyZUtPQl8tTk9GOGVzS21zWi1SNWxGUk9jakFENloxZ2tBRWF5amVyb2lLcUdwYlkwQUdMMXdoVFplX0lqd1ZGNVB0YVVjVTdqaDQ0dGZNVFFUeHpjR1dma1phUy1zb0Vkamlua2lNa3hkakFmWW1GQXBLUjUwRlpjRnBsX1c4czdrOUg4?oc=5",
+          "time": "Just now",
+          "body": "IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya trade Cricbuzz"
+            ],
+            "tldr": "IPL 2027: Rohit in line for MI captaincy as Pollard shapes leadership, Pandya tr"
+          }
+        },
+        {
+          "id": "mumbai-sports-4-1795773801957",
+          "title": "Auction Tracker IPL 2026: All Teams & Purse Details - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkc1dpeUZ0ODB1elozXzlUVGhncUFlUmFramhvOXVWV2FRSVlrOVBWM0FEUVA2bmdMUFNGbC11MU9OS2RxNklqYXRhOTNRc19DdnVLdGxIbzZTTGFkbHBxbTBNSVQ2eGpuNmY2RVJyWQ?oc=5",
+          "time": "3h ago",
+          "body": "Auction Tracker IPL 2026: All Teams & Purse Details  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+            ],
+            "tldr": "Auction Tracker IPL 2026: All Teams & Purse Details Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-5-1795773801957",
+          "title": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3J6Q21LZHR1dEZfWHdPaHpyVEZldEkxbmZZY0Vza1NEOFhxTGpQdGpRN0ZPSlp1MmpfM0V0X1c4bTBscWwyMUVGcG91Z2F1Mk8yV05UeVkwUFdxQjNJSDlhcHNEV3RzQmUtTzhrVGYzaFdSMGZHYjRkcjNuTTA3cXkya3Ayc0RvMmNsWGwtVlhQWnlVcHlvQklxS2wxdndw?oc=5",
+          "time": "19h ago",
+          "body": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+            ],
+            "tldr": "RCB vs MI, 54th Match, Indian Premier League 2026 - Match Info Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-8-1795773801957",
+          "title": "MI captaincy announcement for IPL 2027: Why the timing of 5:45 p.m. reveal points to Rohit Sharma - Yahoo Sports",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1uQkFKM2M3cVllWlkwQl9jWmRCNllQRTNkdUNfaGYwNi1vTC1Za2pzd2hrMGFoSEVGbGpnQUdTT0ZSU0VUMnZlNTM4TFhpZnNuTkk1Qnc2NUwzN29VLXhEeXNYbVpWM0dqNXZ4Qkg4R2syazdCbnB1d201a0g3RmxrZ2duRkhoUkxwU1NOLXY4TDNQUXc?oc=5",
+          "time": "19h ago",
+          "body": "MI captaincy announcement for IPL 2027: Why the timing of 5:45 p.m. reveal points to Rohit Sharma  Yahoo Sports",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "MI captaincy announcement for IPL 2027: Why the timing of 5:45 p.m. reveal points to Rohit Sharma Yahoo Sports"
+            ],
+            "tldr": "MI captaincy announcement for IPL 2027: Why the timing of 5:45 p.m. reveal point"
+          }
+        },
+        {
+          "id": "mumbai-sports-9-1795773801957",
+          "title": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today - News On AIR",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSTd4bXU4NGh1NkZUcWtlWlJibm9BUkFtN1lkamptY0pHekRHcmhFdVJhWE5FY3BaM0h2NGVsWkdaUkFfTUhBXzRBbmtleWVFZ0FJQWIxaTQxcDhxWXJqaEhXeUZOWF9VNWktaHZxVWRSa0xqaE1MMXliMXJPWmpBY1FTVW1uVDZ3N1g2TlRHVUIySU1qRHdNaVl1dFZXMWE1QTFYQy1ibTVxQ0hubTkxOU0ydWE4QjJta1dNSA?oc=5",
+          "time": "9h ago",
+          "body": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today  News On AIR",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qualification today News On AIR"
+            ],
+            "tldr": "IPL 2026: Super Sunday double-header to feature crucial matches for playoff qual"
+          }
+        },
+        {
+          "id": "mumbai-sports-11-1795773801957",
+          "title": "Quinton de Kock Auction Price & Team - IPL 2026 - Cricbuzz",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NUDVZUlFKaTZWVmRMbHVwYjNuRjREVWlkZXdlT2FBM2FlZTFYNE84X2ZtVnpVdHM1Vi1MYks5MFhZQlZjLXRrdU9pMXB4Q0ZWazgxRWpxZEJhY1pLWk5TSFl3V0RrLV9nd2M5VkRfdTY0UjdPQVpVSA?oc=5",
+          "time": "18h ago",
+          "body": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+            ],
+            "tldr": "Quinton de Kock Auction Price & Team - IPL 2026  Cricbuzz"
+          }
+        },
+        {
+          "id": "mumbai-sports-0-1795773804536",
+          "title": "Akash Deep sizzles, Jasprit Bumrah struggles as New Zealand frustrate India on Day 1",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Akash Deep's incisive spell triggered a three-wicket collapse in 22 balls to put India back in the contest, but Tom Blundell and Glenn Phillips steadied New Zealand with an unbeaten stand. Jasprit Bumrah's wicketless, unusually subdued spell, meanwhile, raised questions despite India's fightback.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Akash Deep's incisive spell triggered a three-wicket collapse in 22 balls to put India back in the contest, but Tom Blundell and Glenn Phillips steadied New Zealand with an unbeaten stand.",
+              "Jasprit Bumrah's wicketless, unusually subdued spell, meanwhile, raised questions despite India's fightback."
+            ],
+            "tldr": "Akash Deep's incisive spell triggered a three-wicket collapse in 22 balls to put"
+          }
+        },
+        {
+          "id": "mumbai-sports-2-1795773804536",
+          "title": "Why is Bumrah using a different run-up? Akash Deep has an answer",
+          "source": "TOI Sports",
+          "sourceUrl": "",
+          "time": "3h ago",
+          "body": "Jasprit Bumrah exhibited a different run-up style during the second Test match against New Zealand in Christchurch. While he did not take any wickets on the opening day, other Indian bowlers made significant contributions. Akash Deep was particularly effective, taking two crucial wickets to help India gain momentum. New Zealand ended the first day at 246 for 5, mainly due to Tom Blundell's notable performance.",
+          "category": "sports",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Jasprit Bumrah exhibited a different run-up style during the second Test match against New Zealand in Christchurch.",
+              "Akash Deep was particularly effective, taking two crucial wickets to help India gain momentum.",
+              "New Zealand ended the first day at 246 for 5, mainly due to Tom Blundell's notable performance."
+            ],
+            "tldr": "Jasprit Bumrah exhibited a different run-up style during the second Test match…"
+          }
+        }
+      ],
+      "city": [
+        {
+          "id": "mumbai-general-0-1795773803481",
+          "title": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "3d ago",
+          "body": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18 years in America says his children adapted well in India: 'Home is where life takes us'. [object Object]"
+            ],
+            "tldr": "Ex-Meta engineer who became US citizen and then moved back to Bengaluru after 18"
+          }
+        },
+        {
+          "id": "mumbai-general-1-1795773803481",
+          "title": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "5d ago",
+          "body": "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian-origin hotelier in New York forced staff to work 112 hours a week without pay. [object Object]"
+            ],
+            "tldr": "Indian-origin hotelier in New York forced staff to work 112 hours a week without"
+          }
+        },
+        {
+          "id": "mumbai-general-2-1795773803481",
+          "title": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "US feels like a golden prison: Google engineer on H-1B visa says he's moving to the UK without a job, says he hasn't traveled outside US for 18 months out of fear. [object Object]"
+            ],
+            "tldr": "US feels like a golden prison: Google engineer on H-1B visa says he's moving to "
+          }
+        },
+        {
+          "id": "mumbai-general-3-1795773803481",
+          "title": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "6d ago",
+          "body": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, who attacked Somali-American Uber driver, released from jail; placed on electronic home monitoring. [object Object]"
+            ],
+            "tldr": "No proof that assault was motivated by bias: Indian-origin Samit Apurva Patel, w"
+          }
+        },
+        {
+          "id": "mumbai-general-5-1795773803481",
+          "title": "Indian man found dead inside burning car in Canada, had 'limited known' contacts",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "8d ago",
+          "body": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29. Firefighters located human remains while extinguishing the fire in Langley, British Columbia. The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts. Police believe Sharma was specifically targeted despite his limited criminal background and acquaintances. Investigators request public assistance with information and any related CCTV or dashcam footage.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Tushar Sharma, a resident of Surrey, was discovered dead in a burning vehicle on October 29.",
+              "The Integrated Homicide Investigation Team is investigating the case for potential motives and contacts.",
+              "Investigators request public assistance with information and any related CCTV or dashcam footage."
+            ],
+            "tldr": "Tushar Sharma, a resident of Surrey, was discovered dead in a burning…"
+          }
+        },
+        {
+          "id": "mumbai-general-6-1795773803482",
+          "title": "'Responsibility to banish hatred': Mamdani condemns anti-Indian racism at Diwali event",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "9d ago",
+          "body": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration. He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs. Thirteen US lawmakers have requested a federal investigation into a disruption of a Diwali event in Seattle. They referred to troubling patterns of anti-South Asian hate across the country.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community during a Diwali celebration.",
+              "He emphasized the need for collective responsibility in combating hate and ensuring safety for Hindus and Sikhs.",
+              "They referred to troubling patterns of anti-South Asian hate across the country."
+            ],
+            "tldr": "Mayor Zohran Mamdani addressed rising incidents of racism targeting the Indian-American community…"
+          }
+        },
+        {
+          "id": "mumbai-general-7-1795773803482",
+          "title": "Los Angeles City Council adopts Diwali resolution, honours Indian Consul General",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "12d ago",
+          "body": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions. The event featured cultural performances and was attended by various representatives from the Indian-American community. A resolution was passed to extend Diwali greetings to residents across Los Angeles. Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles.",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ Srinivasa for his community contributions.",
+              "The event featured cultural performances and was attended by various representatives from the Indian-American community.",
+              "Both Dr Srinivasa and Mayor Nithya Raman committed to strengthening ties between India and Los Angeles."
+            ],
+            "tldr": "Los Angeles City Council recognized Diwali and honored Consul General Dr KJ…"
+          }
+        },
+        {
+          "id": "mumbai-general-9-1795773803482",
+          "title": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa",
+          "source": "Times of India",
+          "sourceUrl": "",
+          "time": "13d ago",
+          "body": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat. He was overstaying his student visa. [object Object]",
+          "category": "city",
+          "city": "mumbai",
+          "summary": {
+            "bullets": [
+              "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young girls on Snapchat.",
+              "He was overstaying his student visa. [object Object]"
+            ],
+            "tldr": "Indian PhD student Bilal Kazi jailed in UK for 30 years for preying on young gir"
+          }
+        }
+      ]
+    },
+    "aurangabad": {
+      "city": [
+        {
+          "id": "aurangabad-city-0-1795773804779",
+          "title": "JSW Motors Signs MoU with ARAI for Vehicle Development - Construction World",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd0s3Q21DZk0zNEUtV3Zqc1V1RklTTUlnSDdhNWFZVUsxdWQ5cnNPSUhkaW94dy1ic3ByRzJpYlRfeDhsLXl6YTNOOHZ1UnhpRVg1Wm1adnQwQVMtUmtqM2RQeEl2ODZ1SjFDQU1BNnVKUTdsSnQ2MXh0VDNQMGpiU3g3eUtnMWRIdDlyMFYycjYtenUxcFFCQ19IYXYxbDVpUTJGdVN6ZTZ5UjM4LW1EUkpyYTBYYUttQlE4MlA5VG9zVENYMmdNOUl2OFVua19OM3Jqei1UOVFMWTg?oc=5",
+          "time": "2h ago",
+          "body": "JSW Motors Signs MoU with ARAI for Vehicle Development  Construction World",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors Signs MoU with ARAI for Vehicle Development Construction World"
+            ],
+            "tldr": "JSW Motors Signs MoU with ARAI for Vehicle Development Construction World"
+          }
+        },
+        {
+          "id": "aurangabad-city-1-1795773804779",
+          "title": "world greatest Father of the constitution of India.. Dr. Babasaheb Ambedkarji.. Framed on 26 Nov. - AIMA Media",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DYmU0UGxFTUc5VTFlbUdqbnlSOHFTVmJURTdlX3F2dTdXbS0wajNMRlZmY1RsQjlnUGNldDdJa1p5SWhYc3NvMmFSS1JfS3M1Q253Q0NkeW1CLTRYNWc?oc=5",
+          "time": "13h ago",
+          "body": "world greatest Father of the constitution of India.. Dr. Babasaheb Ambedkarji.. Framed on 26 Nov.  AIMA Media",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "world greatest Father of the constitution of India..",
+              "Babasaheb Ambedkarji.."
+            ],
+            "tldr": "world greatest Father of the constitution of India.."
+          }
+        },
+        {
+          "id": "aurangabad-city-2-1795773804779",
+          "title": "Five directors file formal objection to Deshmukh’s appointment as Latur DCC Bank chairman - The Times of India",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT2Y5akRSTlM1Sm1RbmpqZy1ROG5GeVBrT29KM0ppOHpDV09aVjY3a1F6eWgtZm9YaGR4UmhvbkkyaW9JdnlZc1dseGFzVDczcVI4WVIyTzRGOXNWV0p4Q1JBWGdvcENyYVc0QmNPbnBsWVNKei1WbC1wc1JYOUV5QmsxaGdRSjVERW1VaGxaRk9rdGNsVW5WUXR5RVZRT092N0xBQ2pSWU56MTBlaFhJdUltVncwem1YTXNXLTVFN051Y2ZqaDRTeENaS2xvaUI3Q2xFN28tU1JCQXZRaUdScFZEdTc1dTctRUFUeGVfbm9ydXRJZDFEOGJR0gH_AUFVX3lxTE1UTjlzZi1LQ1htMk5OR1o0TW9JM2ljLXRJbnk2NV9NcDV3LTdpVlF5bV94ZDVMdTh1VzJ4ZUp0SzVRd085a0dETENMZ2owXzZ6NWE4T015R3RXakg1R2JScXpQYkJnemdoZkptc1Z3Mm51NW1OT3VxVXVzNTJSVXNDYzM3Vm9pZndpNF9rQ0czbzdtVjJPRFhsbjlnV05oTV9wbnhPZko5N185NGQzSEh2amJGbE5NWXNHUGFWQ0VhUGhZbzlmUTJTN1g1Mk02aS13V24wOWdyR3kzR0NZY3R4MjU4ZjgxUzI4RXdJaHNIY2NsRzFvQ2FGanR0UXp2Zw?oc=5",
+          "time": "6h ago",
+          "body": "Five directors file formal objection to Deshmukh’s appointment as Latur DCC Bank chairman  The Times of India",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Five directors file formal objection to Deshmukh’s appointment as Latur DCC Bank chairman The Times of India"
+            ],
+            "tldr": "Five directors file formal objection to Deshmukh’s appointment as Latur DCC Bank"
+          }
+        },
+        {
+          "id": "aurangabad-city-3-1795773804779",
+          "title": "Enerzal Case: Delhi High Court Says 8-Month Interim Protection Does Not Cover Seized Stock - Live Law",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM3lKQVRJcDhEY3JvSDROTXpBMF9sU180Nk5SUXZPMExBWGxvdUN3bEZERlBxSU1wU2M2OVNwajBjamtxMUxPWnlYT2pUWUhPRXNQc3otcV9scFlZdWNWYXBrX1FkNzR4aEY1UlJQRmdJdWZmcEkwWXYxTERKYXVjbGtvMFdlX3J4NkxLeUxNVDlscVRJQ0daY2lIOVRlbjRIWFdjSUVVazZ3eE93U3pJckhTaUVGV2NyQnFHaDdZVDNfZHRwR1dCcHBLbmRCTUpab0txWmoxeVRtRkJx0gHcAUFVX3lxTE0zeUpBVElwOERjcm9INE5NekEwX2xTXzQ2TlJRdk8wTEFYbG91Q3dsRkRGUHFJTXBTYzY5U3BqMGNqa3ExTE9aeVhPalRZSE9Fc1Bzei1xX2xwWVl1Y1ZhcGtfUWQ3NHhoRjVSUlBGZ0l1ZmZwSTBZdjFMREphdWNsa28wV2Vfcng2TEt5TE1UOWxxVElDR1pjaUg5VGVuNEhYV2NJRVVrNnd4T3dTeklySFNpRUZXY3JCcUdoN1lUM19kdHBHV0JwcEtuZEJNSlpvS3FaajF5VG1GQnE?oc=5",
+          "time": "2h ago",
+          "body": "Enerzal Case: Delhi High Court Says 8-Month Interim Protection Does Not Cover Seized Stock  Live Law",
+          "category": "finance",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Enerzal Case: Delhi High Court Says 8-Month Interim Protection Does Not Cover Seized Stock Live Law"
+            ],
+            "tldr": "Enerzal Case: Delhi High Court Says 8-Month Interim Protection Does Not Cover Se"
+          }
+        },
+        {
+          "id": "aurangabad-city-4-1795773804779",
+          "title": "JSW Combat Pioneers 500 Edition Teased - Applications Open 28th Nov - RushLane",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVXFoZzN1OVloNVZlMW1vMlBueWdZX1k5NjVEN3BWVmZmZlpCRjc1NHQyWWZxSjMwNVN0YWUwUjdqN1AtN2RLYkdEYktpbFlsTUxBX1RWWlJ0Nmloc2dDVXlWUWtnQlJraXFNMVE0R0FJcnQxREVQTURvcHZyY0UxTm45QWpoTTg0WVhfWXBVbUYxZFlvS0hkV0VGQkh5YW5o0gGgAUFVX3lxTE1VcWhnM3U5WWg1VmUxbW8yUG55Z1lfWTk2NUQ3cFZWZmZmWkJGNzU0dDJZZnFKMzA1U3RhZTBSN2o3UC03ZEtiR0RiS2lsWWxNTEFfVFZaUnQ2aWhzZ0NVeVZRa2dCUmtpcU0xUTRHQUlydDFERVBNRG9wdnJjRTFObjlBamhNODRZWF9ZcFVtRjFkWW9LSGRXRUZCSHlhbmg?oc=5",
+          "time": "21h ago",
+          "body": "JSW Combat Pioneers 500 Edition Teased - Applications Open 28th Nov  RushLane",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Combat Pioneers 500 Edition Teased - Applications Open 28th Nov RushLane"
+            ],
+            "tldr": "JSW Combat Pioneers 500 Edition Teased - Applications Open 28th Nov RushLane"
+          }
+        },
+        {
+          "id": "aurangabad-city-5-1795773804779",
+          "title": "JSW Motors Inches Closer To Solo Debut With Combat PHEV – Key Details - Gaadiwaadi.com",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVp2ZGdncUtRemI0bVd0NHpiRXNjNk1VV3huTzdRWm1ndmV3bXZzYmc3WmlhRDZWcnhQMzF2b3E5OVNaTGdnR0RMWVNzOWpwamVOeXlabHBEaFpmT1pGZWU2X2JLeExyNHFUVmJTZTQzM3RhSkp2UDZDaUV1NWtxc0dBb1NlU2EzX29iS2Q1Q3NVWm8yS3fSAZYBQVVfeXFMTXFadmRnZ3FLUXpiNG1XdDR6YkVzYzZNVVd4bk83UVptZ3Zld212c2JnN1ppYUQ2VnJ4UDMxdm9xOTlTWkxnZ0dETFlTczlqcGplTnl5WmxwRGhaZk9aRmVlNl9iS3hMcjRxVFZiU2U0MzN0YUpKdlA2Q2lFdTVrcXNHQW9TZVNhM19vYktkNUNzVVpvMkt3?oc=5",
+          "time": "Just now",
+          "body": "JSW Motors Inches Closer To Solo Debut With Combat PHEV – Key Details  Gaadiwaadi.com",
+          "category": "technology",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "JSW Motors Inches Closer To Solo Debut With Combat PHEV – Key Details Gaadiwaadi.com"
+            ],
+            "tldr": "JSW Motors Inches Closer To Solo Debut With Combat PHEV – Key Details Gaadiwaadi"
+          }
+        },
+        {
+          "id": "aurangabad-city-6-1795773804779",
+          "title": "Bombay High Court Quashes Minister's Order in Fair Price Shop Authorization Case — Violation of Natural Justice and Lack of Jurisdiction. Minister's suo motu revision set aside as it was passed without notice to the petitioner and exceeded statutory powers u - Lawtext",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HYUdfSmNOSVdFOU9yNkkyUzh3aldlYnBqT2EydzZ1MnBJRkNRN2tQSEtHQXQydnlNMzVuTEU4aXl1ajA5Yl94RW9WcWVHUXJwTEJyRm85TXZrOWtRSUVNN05Vdm94Zw?oc=5",
+          "time": "19h ago",
+          "body": "Bombay High Court Quashes Minister's Order in Fair Price Shop Authorization Case — Violation of Natural Justice and Lack of Jurisdiction. Minister's suo motu revision set aside as it was passed without notice to the petitioner and exceeded statutory powers u  Lawtext",
+          "category": "politics",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "Bombay High Court Quashes Minister's Order in Fair Price Shop Authorization Case — Violation of Natural Justice and Lack of Jurisdiction.",
+              "Minister's suo motu revision set aside as it was passed without notice to the petitioner and exceeded statutory powers u Lawtext"
+            ],
+            "tldr": "Bombay High Court Quashes Minister's Order in Fair Price Shop Authorization Case"
+          }
+        },
+        {
+          "id": "aurangabad-city-7-1795773804779",
+          "title": "No global power wants India to progress, says RSS chief Mohan Bhagwat - The Economic Times",
+          "source": "Google News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcFJ0SnZEQnB6cVdZUTl6YXA2QmNKV0ZrLTNQQ3pXaXZ5bUFHb1JVeUNJUC1Wc3EwdzRSWlNiODkwX1h6R25XSDMwNDlzb3ZxQ2Z6eW5HaS1aNlhvWmFpb3lhbnFzMndqRkFmbVRuY3o3VEd0a05FNFVDOUlBX0NncjgxaGJjRUV2bFZ3NWpGZEMybXVOLVJYZlhZVzhHclhxdTJlenc0WkhISlFCdy1STk1oMXBCakpYYzN4cnNOdUR6N3JjaUJVUXpDai1NQdIB0wFBVV95cUxOX3BXbGpMelRJY1RnR0E5cUFTN1haOG85cXJXT3ZPZF9oRTVUVjQzYV9maW00NTM2RnU0VVlub0NKcnZ2eEpPaENLaTU1QjlySVdNakN0NW1zTGdocG8wOHV5M0F2VjF4UGVmbTBQMkNGbGhITWk4dFB6czlFNUc4QzBGUU1mNnU1Rm83ZkpuN245ZGI4a29xU20tSVVFYjRjaGdNVDdxcG80bC1iWDVOY2o5TGlSNGJsckNYdnM1aFNfeXNrMUUtRFpyTDJQODZJcVhJ?oc=5",
+          "time": "11h ago",
+          "body": "No global power wants India to progress, says RSS chief Mohan Bhagwat  The Economic Times",
+          "category": "city",
+          "city": "aurangabad",
+          "summary": {
+            "bullets": [
+              "No global power wants India to progress, says RSS chief Mohan Bhagwat The Economic Times"
+            ],
+            "tldr": "No global power wants India to progress, says RSS chief Mohan Bhagwat The Econom"
+          }
+        }
+      ]
+    }
+  }
+}
